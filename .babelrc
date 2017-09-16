@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "es2015",
+    ["env", { "modules": false }]
+  ],
+  "plugins": [
+    "lodash",
+    ["component", [
+      {
+        "libraryName": "element-ui",
+        "styleLibraryName": "theme-default"
+      }
+    ]]
+  ]
+}
