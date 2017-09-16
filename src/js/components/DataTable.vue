@@ -113,6 +113,8 @@ import 'element-ui/lib/theme-default/index.css';
 
 import UIkit from 'uikit';
 
+import 'uikit/dist/css/uikit.min.css';
+
 import Icons from 'uikit/dist/js/uikit-icons';
 
 Vue.use(ElementUI, { locale });
