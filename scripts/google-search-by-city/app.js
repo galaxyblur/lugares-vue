@@ -16,6 +16,7 @@ const GROUPS_FILE = path.resolve(__dirname, '../../src/json/groups.json');
 const RAW_RESULTS_FILE = path.resolve(__dirname, '../../src/json/google-search-by-city.json');
 
 var groupsData = [],
+    groupsDataOriginalLength = 0,
     index = process.argv[2] ? process.argv[2] : 0;
 
 if (!_.isNaN(parseInt(index, 10))) {
@@ -127,7 +128,7 @@ let writeGroupsData = function(searchResultsData) {
       return console.log(err);
     }
 
-    console.log(`Saved groupsData to ${GROUPS_FILE} (${groupsData.length})`);
+    console.log(`Saved groupsData to ${GROUPS_FILE} (${groupsData.length}) (was ${groupsDataOriginalLength})`);
   });
 };
 
@@ -142,6 +143,8 @@ let doSearch = function(indexOrName) {
         rankby          : 'distance'
       },
       groupsPromises = [];
+
+  console.log(`Searching ${cities[i].city}, ${cities[i].state}...`);
 
   nearBySearch = new NearBySearch(GOOGLE_API_KEY, 'json');
   nearBySearch(Object.assign({}, parameters), (err, resSearch) => {
@@ -197,6 +200,7 @@ fs.exists(GROUPS_FILE, (exists) => {
       }
 
       groupsData = JSON.parse(data);
+      groupsDataOriginalLength = groupsData.length;
       console.log(`Loaded existing groupsData (${groupsData.length})`);
       doSearch(index);
     });

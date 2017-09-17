@@ -4,7 +4,7 @@
       <div class="uk-navbar-center">
         <ul class="uk-navbar-nav">
           <li>
-            <a href="/" class="uk-navbar-item uk-logo">Lugares - Capoeira Finder</a>
+            <a href="/" class="uk-navbar-item uk-logo">Lugares - Find Capoeira</a>
           </li>
         </ul>
       </div>
