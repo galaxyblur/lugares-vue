@@ -5,11 +5,11 @@ import _ from 'lodash';
 import strSimilarity from 'string-similarity';
 import beautify from 'json-beautify';
 
-import cities from '../../src/json/cities.json';
+import citiesUS from '../../src/json/cities.json';
+import citiesWorld from '../../src/json/world-cities.json';
 import NearBySearch from 'googleplaces/lib/NearBySearch';
 import PlaceDetailsRequest from 'googleplaces/lib/PlaceDetailsRequest';
 
-const CITY_LIMIT = 1;
 const GOOGLE_API_KEY = 'AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w';
 const KEYWORD = 'capoeira';
 const GROUPS_FILE = path.resolve(__dirname, '../../src/json/groups.json');
@@ -17,7 +17,9 @@ const RAW_RESULTS_FILE = path.resolve(__dirname, '../../src/json/google-search-b
 
 var groupsData = [],
     groupsDataOriginalLength = 0,
-    index = process.argv[2] ? process.argv[2] : 0;
+    index = process.argv[2] ? process.argv[2] : 0,
+    useWorldCities = process.argv[3] ? process.argv[3] === 'world' : false,
+    cities = useWorldCities ? citiesWorld : citiesUS;
 
 if (!_.isNaN(parseInt(index, 10))) {
   index = parseInt(index, 10);
@@ -69,6 +71,15 @@ let getPossibleDupes = function(res) {
   return similarities;
 };
 
+let getListingScore = function(item) {
+  let capoeiraInName = item.names[0].toLowerCase().indexOf('capoeira') >= 0 ? 10 : 0,
+      capoeiraInWebsite = item.website.toLowerCase().indexOf('capoeira') >= 0 ? 10 : 0,
+      schedule = item.schedule_text ? 5 : 0,
+      score = capoeiraInName + capoeiraInWebsite + schedule;
+
+  return score;
+};
+
 let conformToStandardResult = function(item, details) {
   var newItem = {},
       locality, admin1, country;
@@ -82,7 +93,7 @@ let conformToStandardResult = function(item, details) {
     lat: item.geometry.location.lat,
     lng: item.geometry.location.lng,
   };
-  newItem.website = details.website;
+  newItem.website = typeof details.website === 'string' ? details.website : '';
   newItem.style = '';
   newItem.teachers = [];
   newItem.permanently_closed = details ? details.permanently_closed === true : false;
@@ -104,6 +115,8 @@ let conformToStandardResult = function(item, details) {
     });
     newItem.location_country = country ? country.short_name : '';
   }
+
+  newItem.score = getListingScore(newItem);
 
   return newItem;
 };

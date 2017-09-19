@@ -89,6 +89,7 @@
             </a>
           </template>
         </el-table-column>
+        <el-table-column prop="score" label="Score" />
         <!--
         <el-table-column prop="style" label="Possible Style" />
         <el-table-column prop="teachers" label="Teachers" />
