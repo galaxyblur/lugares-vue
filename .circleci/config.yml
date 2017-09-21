@@ -8,4 +8,4 @@ jobs:
       - run: npm install
       - run: node lib/google-search-by-city/index.js world
       - deploy:
-          command: bash automated_build_world.sh
+          command: bash automated_deploy.sh
