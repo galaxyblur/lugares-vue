@@ -7,6 +7,7 @@ jobs:
       - checkout
       - run: npm install
       - run: node lib/google-search-by-city/index.js world
-      - deploy: |
-          git ci -a -m "Auto-commit data update"
-          git push
+      - deploy:
+          command: |
+            git ci -a -m "Auto-commit data update"
+            git push
