@@ -5,4 +5,4 @@ jobs:
       - image: circleci/node:7.10.0
     steps:
       - checkout
-      - run: echo "Hello!"
+      - run: node lib/google-search-by-city/index.js world
