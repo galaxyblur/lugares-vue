@@ -9,5 +9,5 @@ jobs:
       - run: node lib/google-search-by-city/index.js world
       - deploy:
           command: |
-            git ci -a -m "Auto-commit data update"
+            git commit -a -m "Auto-commit data update"
             git push
