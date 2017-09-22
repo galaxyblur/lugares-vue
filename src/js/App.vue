@@ -1,16 +1,5 @@
 <template>
-  <header>
-    <nav class="uk-navbar-container" uk-navbar>
-      <div class="uk-navbar-center">
-        <ul class="uk-navbar-nav">
-          <li>
-            <a href="/" class="uk-navbar-item uk-logo">Lugares - Find Capoeira</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    <router-view></router-view>
-  </header>
+  <router-view></router-view>
 </template>
 
 <script>
