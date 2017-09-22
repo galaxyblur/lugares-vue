@@ -1,130 +1,20 @@
 {
-  "city_name": "madras",
-  "city_rank": 33,
-  "city_population": 4328416,
+  "city_name": "wuhan",
+  "city_rank": 34,
+  "city_population": 4184206,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "13.083333",
-      "80.283333"
+      "30.580125",
+      "114.273405"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1442805.3333333333,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 13.069445,
-            "lng": 80.242102
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.0707939802915,
-              "lng": 80.2434509802915
-            },
-            "southwest": {
-              "lat": 13.0680960197085,
-              "lng": 80.24075301970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1594bbf8ac86e54c13688435bf75779283c7edf8",
-        "name": "Lourd Vijay's Dance Studio",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 767,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112184865044327652444/photos\">Lourd Vijay&#39;s Dance Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAA1lIQViA2TAoKRBnBuAtT50Rfy4juP1johtjxCy1uxUaZ6lO_4jdra4XbPYxshCHzMdyC241dK_GlnVkcRXPrNjJ3FhQTMyUzfZiSB1J6TeBHGyRdn-sF8_qBgV4e7hI-EhCeczO-i1hLcX8hn54dk_h_GhRZcLXDm5l_5Z_7Ae57dN19jiOpKg",
-            "width": 900
-          }
-        ],
-        "place_id": "ChIJjWdX_0pmUjoREd1fejJKiAE",
-        "reference": "CmRRAAAAEa9cv7aErxGviC1tg2hqmXdYJoaJCmRZ1sMUU2wEfU9cIg_jR4SkYnLv9F9dupIdOvg7kZme4lKfm1HZNqck1nPEfD1zvM6IJSsZzWi6woFxFZlr8KWokrAzSSgxuHXsEhD7B62jfiulSDl5PVHXk5fFGhRAerEtb2vAsM5UqGrOAqa6aLWoHg",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "khader nawaz khan road,next to appolo hospital,nungambakkam, Chennai"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 13.0478896,
-            "lng": 80.25789080000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.0492388302915,
-              "lng": 80.2592371802915
-            },
-            "southwest": {
-              "lat": 13.0465408697085,
-              "lng": 80.25653921970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e8a0a38d8aa8b5991b617cf38780cde57f3c985d",
-        "name": "Kalakar Studio",
-        "place_id": "ChIJK3a60DlmUjoRG9-s2UmfWs4",
-        "rating": 3,
-        "reference": "CmRSAAAAjlr0B2Kg0OjqjcJorWqX1lcgtjXS6m55eHCFdTsgTD-94y6G9HPQYGgxpv4JBM6PtWFGJ_SOsmmCkT4OBzhQBqrzZ-lslfAJFav_yRqcF3ChxMlYyRPEHNS1AjQ0fBYqEhA45hc4__MOCOgLKiDWzkhTGhTgJSxbVYos3h2dmuHnHQOiezTw0w",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "A-1/17, Ayshwarya Villa, Sadasivam Street, Kanakasri Nagar, Gopalapuram, Chennai"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 13.038295,
-            "lng": 80.25316900000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.0397638302915,
-              "lng": 80.2545334802915
-            },
-            "southwest": {
-              "lat": 13.0370658697085,
-              "lng": 80.2518355197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "25ed1801e180c781bdd0508fc6f3bda4665e6bda",
-        "name": "Blue Movement Circle",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "place_id": "ChIJnyh380pmUjoRvXqd5NPwuvM",
-        "rating": 5,
-        "reference": "CmRSAAAAwGnAj8rwQfiThX-MWTm5nl70Yo9g7eUF0R3gLYo9NlQ6QHDoUOfXcHTRnICacnJXb-UfVJebz_kEdjLrecK3WzCjYa7zdnNy-1YcfBBPuhzy5P8gRUZAIX6rShv8XC9cEhCNSFoytbaq2Vj7S5VzbTcXGhQcP5bDkcDzm8apG3qP9HUPVKFJxA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "33, Eldams Road, Sriram Colony, Teynampet, Chennai"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
