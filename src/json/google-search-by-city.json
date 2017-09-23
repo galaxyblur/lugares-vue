@@ -1,56 +1,20 @@
 {
-  "city_name": "dhaka-bd",
-  "city_rank": 22,
-  "city_population": 6493177,
+  "city_name": "lahore-pk",
+  "city_rank": 23,
+  "city_population": 6312576,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.7230556",
-      "90.4086111"
+      "31.549722",
+      "74.343611"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 6493177,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 23.7900747,
-            "lng": 90.4196729
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 23.79077415,
-              "lng": 90.4210778802915
-            },
-            "southwest": {
-              "lat": 23.78797635000001,
-              "lng": 90.4183799197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "69923f7c9aed0163a12fde69e5331ff75380bda5",
-        "name": "KO Fight Studio",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ7cWjB6PHVTcReD6zMBnQw9w",
-        "rating": 4.3,
-        "reference": "CmRSAAAAimQjmsDrj-wIXEVXlvl-AFOCUrTUYUD6zhxaqgGy5YQYFFhERpRYbvgptm1gCfpaLRaWDj3SRB1uMm4ALV4IZb-clxXfpjrIr522Ro45MNUOyCszfEPk3gFWdm2qSsqhEhBPj4yURvAnAjYg1hVJLDD3GhQwYPdH1g-6ZJYX2MY1wHHYt-7wLQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Level 4, House19-20, A,, Road 113, Dhaka"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
