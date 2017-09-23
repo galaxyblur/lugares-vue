@@ -1,42 +1,693 @@
 {
-  "city_name": "peking-cn",
-  "city_rank": 19,
-  "city_population": 7480601,
+  "city_name": "london-gb",
+  "city_rank": 20,
+  "city_population": 7421228,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "39.928889",
-      "116.388333"
+      "51.514125",
+      "-.093689"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 7480601,
+  "people_per_result": 371061,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
+    "next_page_token": "CqQCGwEAANPTuAIHEdMcid1Oi02OFvzsDxdRDdf-omiNxY1cAl1ttVdZ9QwEApdhkqS1F46FKxysbpNYQ1KQlOmomnv-SaGvZNYZahp4UniT_avdmN98MS9NGX8y5PmZjjQb6CfxjzSvuRHji-7LCdwF_ckh6ln438Jav0i4EL_pnMS8MfqdFA0tzMYodqMvNc4X-d1uwJMqyfZSJ0rPo2ISGm3Tk6OpyX27MF7Gad3kDwKbpMzKyiOIeRVhrGiSnGCDcoomhztH_Wr-xIcPH3blU7-t4BmSH5Jy2lezIuYb91EtXoyiPy9XPpAUw1dJMA7iIm4oWPRvx9UNYvEmVIZqXAROkzygICw27uLFPraoAK50wkQ0zJ7AgYcmQXzExNjcnJz5PhIQlpsKInibpl-OfVw_pti4-RoU98cm7NWIoIy864lpoxAYg6pjtfY",
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 39.91169099999999,
-            "lng": 116.481475
+            "lat": 51.509978,
+            "lng": -0.09130680000000001
           },
           "viewport": {
             "northeast": {
-              "lat": 39.91303998029149,
-              "lng": 116.4828239802915
+              "lat": 51.5113415802915,
+              "lng": -0.09005526970849795
             },
             "southwest": {
-              "lat": 39.91034201970849,
-              "lng": 116.4801260197085
+              "lat": 51.5086436197085,
+              "lng": -0.09275323029150202
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a6d73ff5094307f8936a76a2a46696ce3edacd85",
+        "name": "Beribazu London Capoeira",
+        "place_id": "ChIJbYPF1lUDdkgRU-KEoezSo1s",
+        "reference": "CmRRAAAAIPre8n-ggQ42iwPva-Q9u5ZDuI-1ug_cYsgzCu2tDYdi-w6HbIgvzx4DIwQ06bfPWhYnp3goKyhRruLMsr39TCeiNnVl2u69qEwoQ81b2kT7wzVJQGw-pNlXQfOjNYexEhAe_7t4JgmygxaskJjrlBipGhT9scNBWiN_pIjiU51tehcQSFjdwg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Cousin Lane, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5060173,
+            "lng": -0.0999601
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5072301802915,
+              "lng": -0.09868981970849797
+            },
+            "southwest": {
+              "lat": 51.5045322197085,
+              "lng": -0.101387780291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7e4434ca4c6ab8ab6d26cb9aafb20ddbda2da44a",
+        "name": "Capoeira Agora London Bridge",
+        "place_id": "ChIJQ9PpMq8EdkgRBgjnKD2REko",
+        "reference": "CmRRAAAAG9_BkjZRA5580BZoUaGgNuoTXBLWSHiuB4nrRYfmkODGp7oHvf4rE0g7-lg_-52HCVcjMH3c3cxtLgQKb9byvj99O3Lzy3F-ckaoWhbbbFzN1QxcAcJ1yQlh1TfI-CTPEhDJAEDa13fkJtVscyN69IIwGhRxgSOet1xqckyB3vOV68b8TPZsYA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Unit 11a, Blue Fin Building, 110 Southwark Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.504201,
+            "lng": -0.087568
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5056506802915,
+              "lng": -0.08611651970849796
+            },
+            "southwest": {
+              "lat": 51.5029527197085,
+              "lng": -0.08881448029150202
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f22d8be7930b86b5aaaf0eeffacdc266cc59ec19",
+        "name": "Tribo Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJdRW-BloDdkgR345lzRPA0fM",
+        "reference": "CmRSAAAAwDAHZ7KeVOXh7ZLx1CV7hV3_nrCSoF9PiuP3yugjAAA3KcY41TKrY73-ls6v6bSL1-OyzKDM8gpSJkynnYdrmP0FacP_WLYTym30dqV-9AjO2GyDtF-J1mBHBiDHHJh5EhCPhB1AdY7l6EX36Vu51rteGhRNGckCo7QF4sRQZW_DR9zX2u_Huw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "21 Saint Thomas Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5176607,
+            "lng": -0.1162606
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5191878802915,
+              "lng": -0.114961769708498
+            },
+            "southwest": {
+              "lat": 51.5164899197085,
+              "lng": -0.117659730291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "97dabdf0e1143ffcd4e30241b4ed7fe7e1408eba",
+        "name": "Capoeira MarAzul",
+        "photos": [
+          {
+            "height": 264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116834904479295817879/photos\">Capoeira MarAzul</a>"
+            ],
+            "photo_reference": "CmRaAAAA2Ah6RPiBq49YpEcYnAYiJQPHC_xViSZ9lBZW8ambE-s24Bfpxu-8Y56cjcgU-y3gC-7BDrv-kpoxZG3fLUK7ogEDsPBroeLO7-j5R6oKQ9pIukqZQBf4pLbxNBEMi0ITEhAXN7Pzeipi2ttsiVr9XzaJGhTUQYCkhljDgte7Vs0FnFdmKBvq4g",
+            "width": 264
+          }
+        ],
+        "place_id": "ChIJQVKtgzUbdkgRKnNpQdeQ6yk",
+        "reference": "CmRRAAAAx6HWiN480R_HorLnT2-rSWz1rgfaEKWHe2T-9_wsX7oC_DCyml2ZLdj-2h9Ax1eZ5F95kr6rmzyf6ci9OGYhVsPwZk2UqO7vvW-f3tVMJy1TK7QmXdCHHEIpgYJze7MmEhDuCPkDnCYEsw7R-PM3_K21GhRzmTjRrNfBBb09vTmsZ-8XEe77ew",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "272 High Holborn, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.4974868,
+            "lng": -0.0994407
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.4987539802915,
+              "lng": -0.09789431970849796
+            },
+            "southwest": {
+              "lat": 51.4960560197085,
+              "lng": -0.100592280291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd3e578b34361d54b60a8c67dc450a01f123cebd",
+        "name": "Aluaiê Capoeira Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 568,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102521768433759691184/photos\">Jefferson bispo de oliveira</a>"
+            ],
+            "photo_reference": "CmRaAAAAuvUUTX6ekRNNwcWhm8pW5pKAmT783m8yvaR4Op4iH48uRPy82zEcJeH9rGszB4th7NwHpxo1gLtzzZn3NduygNpbCcyqvY3PQJ9gQJJZS7Wmog0UIX0-yVCxa85KnUchEhBwpN-HOciwREGjR7YtudLXGhS5POAuRiZOTYJzJQL9Xr2ur3xPTA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJwbJpZaEEdkgRMZSI27YL7EU",
+        "rating": 5,
+        "reference": "CmRRAAAA4zzq0vAgPt_OKZMenaY_IhQE880rdQ9lDxO5K6GTgMAyQIY4wDsq0hgQJUPTJ5q2La6cT9BvCTWCt-6kFUpsNZI9QlQWNdfDRU1ZGE_tuQybrRXzfjZ6A3snEGDD-BybEhBmloM1RnGcZ4eIAwDJlMdZGhQS1arFjmDOEE7umCAMeS4k3FxfJQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "29A Amelia Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.53132429999999,
+            "lng": -0.1031867
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5326159802915,
+              "lng": -0.101874669708498
+            },
+            "southwest": {
+              "lat": 51.5299180197085,
+              "lng": -0.104572630291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d615e4ebc59bd9338f690a936a0c1a8e58c5f23b",
+        "name": "Grupo Muzenza Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115683115442472313658/photos\">Grupo Muzenza Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAicvsKcmCKPvX1oherlXUVykyaf3TMwfY6GGO-2q4JBJPnkEUSPSTZlcLt8I399GjUPHUKVOm89MxmBs8OT5FYE_zHtjpeBrsoITsNuYvOvC6gzPFuhfn5sNMoOWjChubEhDbp_C-ff-4beRHvLuu5h5zGhS0_ayWsdNPZMJKTP0JjYCg03ZOiQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwzBWhVwbdkgRRk24e-lGIjM",
+        "rating": 5,
+        "reference": "CmRRAAAAyENp9t5sTdPa3Y6w0GMds_IvZpNE_UrOKFji2W31qqmG5Bt9c_mPbFIoH28ls0oAOeBeJ6ejvyVIaGqqO98V44sNf-t0R14bosgjAnZPm0eiNMaOKtSHq2WL8OCSxhcIEhC5B0P7BYWysJw43B31j6VoGhRC2lJ6vxkAbM06-zYiiQwykbhkMg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "361-373 City Road, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.519699,
+            "lng": -0.065531
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.52104058029149,
+              "lng": -0.06418236970849797
+            },
+            "southwest": {
+              "lat": 51.5183426197085,
+              "lng": -0.06688033029150203
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "72027ece2aa1bb52cb2f18f0be94175a31c91153",
+        "name": "BrazilArte Capoeira London",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 688,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109480263252502938434/photos\">BrazilArte Capoeira London</a>"
+            ],
+            "photo_reference": "CmRaAAAAlkxKmp30ndKpmcm1uA597LygeYHmCLJXoSliA_TlabhBh2FFuZOTNlM3T_ldT3Su2fjQq7wATXhgXJMA4_Hie7QWgBKrB_nC7ilvVm6-ZsZFCD7zfVr4MvNpgBeXdd-kEhDgRyGtCLgnnZJucMQt7HxSGhTBxsyUCDlbb62aZogAQOsfHW5tGg",
+            "width": 1163
+          }
+        ],
+        "place_id": "ChIJS4qPnckcdkgRqSxZlkU5lY0",
+        "rating": 5,
+        "reference": "CmRSAAAAomi_z2i-rtHIRQy7m4ObjcL-mDcuiBXiev_9c8K2zjngA_frRe5VYDkbDpo14aGk68lb6CjB_5bLOgso9kazS-9KHf6vQzE2gy4IJqhTGzf8S9B5CMC3L7FJPW7hldifEhCVGkwxU9oWE0JD3gdLpVhJGhSa4rjO9I78cpZnGMzAuiSbTFENvg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "The Brady Centre, 192-196 Hanbury Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.53030399999999,
+            "lng": -0.07833699999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.53188473029149,
+              "lng": -0.07694851970849796
+            },
+            "southwest": {
+              "lat": 51.5291867697085,
+              "lng": -0.07964648029150202
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "66fe0404fa4f863946e7653fc640a5c2657f2704",
+        "name": "UR Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109863586214134799671/photos\">UR Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAArVgQWEOQAjM2tj9jD_3sTIEkUAOlmpFsHxX29VdfzHv67bFI3a0ioorWs3hVIFtKbz_t1gka31lTWnyIXTHlUf2P69lzL4xW_kHxAsGJ7SP-2DwSxfBBnyiJW1LaScm1EhCqyw9ouW_BCZbrlEJNVaHfGhSVtvXSpEG_0CZGQ28Uuex9_9RYVQ",
+            "width": 2119
+          }
+        ],
+        "place_id": "ChIJ3YWdGKUcdkgR1VxJ1Fvz_UI",
+        "rating": 5,
+        "reference": "CmRRAAAAEDdgFg4dBD4CGNLJ2X-3fvQznUUiST6a5XdHtpAF4FBX0He_tijtJfOUYDXjvKwhwHAfcky0egZqvB4_0x_hX-4CCmlPXfS6uW_P8ZMk3RA0FxaBPAQ53re88ofrhoafEhCGNdKWoAT0Wq3FwgSSzFFBGhQLauGWoUaf1xYFP1JhcewpQnj3fA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "31 Falkirk Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5133866,
+            "lng": -0.1252882
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5147355802915,
+              "lng": -0.123939219708498
+            },
+            "southwest": {
+              "lat": 51.5120376197085,
+              "lng": -0.126637180291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d07975472abbd55ee98737d8028537b9d28a204",
+        "name": "Mojuba Capoeira with Mestre Poncianinho",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJOZIX6cwEdkgRaFjGqJXWHHo",
+        "rating": 5,
+        "reference": "CmRRAAAAAPj3_cXYbNsi_KIHqYIK-IplHNwto16e5Ne5rGYVAhZ6v6G0RZpVJCyAY_EsmoF4w81z-5uZi5NLXEJZGDQopC-nybqukHpTI_A-pcWWeOse3q4tqJs0KUzpB0fJnYfnEhDOR65-PVpRDwoCCuatY6uSGhTx9gEt9tpRg5IWNKymmqkj6SG69Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Pineapple, 7 Langley St, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5145205,
+            "lng": -0.0593043
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5159475802915,
+              "lng": -0.05794976970849798
+            },
+            "southwest": {
+              "lat": 51.5132496197085,
+              "lng": -0.06064773029150204
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7c44ce94cacc29665fd0b7deee21cb241e3a37e7",
+        "name": "Filhos de Bimba Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 453,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105738407774258279895/photos\">Filhos de Bimba Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAtpXebPVdu3E0gR9nYBz_bpF3cwftniRNceQUDOcg9-mrI1Ym7DqF3EdnxfYE_Ec9n2a1rTmrZyjLLJgke62f87dpJnWyceY5zDlzsBHVxIx3u9OWdU1Bxw4RxW6gtHWYEhAuRZ0eTV2rxkJM1ebr-bwbGhTElb6hIl6Vr8C4521En1_8gIOgEw",
+            "width": 604
+          }
+        ],
+        "place_id": "ChIJ0zzNsDIDdkgRxHb9v9XUfM8",
+        "rating": 5,
+        "reference": "CmRSAAAAgW_6RPvZWRrCs_bZTGT1Hoj-JSnsmBSVKnjVrIIUBYqVsV9eSCDMOxfJHDHojWzkXySv1s1cHG1Sy39QIJrWVy_vV7LMFd41SOPdv2UL7h42XxaqMImdI0JnIaSnISPoEhAwOuQREb2eQV1IPKSDIXA1GhQDAb_90C99CN7ZWS-15n_l_ZCQ0g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "224 Commercial Road, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5141766,
+            "lng": -0.0591002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.51569558029151,
+              "lng": -0.05835966970849797
+            },
+            "southwest": {
+              "lat": 51.51299761970851,
+              "lng": -0.06105763029150203
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c0ddf180e28a2467861343cdf2756cf353e43dba",
+        "name": "Capoeira Ceara",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109706387669979093813/photos\">Capoeira Ceara</a>"
+            ],
+            "photo_reference": "CmRaAAAAOWjH7aePabl2GnUMldXBlFWKoJC9EzYtnt9hZINBIfbFwvVR_sK8i_ELrZt_uOhwKMOjUag68sgehF1BIm2VMWKCG2r3bwl9cp7-LUBEu2QMg-6tqSmZSyvPoY1o8BybEhBfqgei99C6ir960rWNWEnMGhTM-ERiwl_1MZF0zOSe2uLhX5_-rg",
+            "width": 800
+          }
+        ],
+        "place_id": "ChIJz8GektocdkgR8N6z8aoauB0",
+        "reference": "CmRRAAAAR72mjHKcpuuoqRP7_prbw-HZQzoj4nPOKxnauLRRogaNvhxIibAc64WisZYAP5mfkGZhQjc4lQ2JuW2VT6w-tsdRMSv1KmSgIKt2GU-d8mvyIUJrCj6FwJj4mDc3JvntEhART-CT5XkbEx4n8LHOtwyPGhSxiNpoScXJ48JWcfhZhzGMTXLWgA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Richard Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5215857,
+            "lng": -0.1313456
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5228894802915,
+              "lng": -0.130104369708498
+            },
+            "southwest": {
+              "lat": 51.5201915197085,
+              "lng": -0.132802330291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8588aa3c6cfd017ee3076084ae41494e943a8efe",
+        "name": "Capoeira Academy UK",
+        "place_id": "ChIJcVoJdH4DdkgRFNJSHxzXEUg",
+        "rating": 5,
+        "reference": "CmRRAAAAp3ArU5Qzl2CqUNEnHd6wJY8bOPV9NzCvVXGU8_8dNdG4L2rwGpU2qTJqWjY9RJ5SQSHtuQKIzbZR97I_gj-7y-pIMqgCME26PiaPhBCO2DMQWgMLl0W8kPZ7WZeDPXlIEhDVmmHWdl67aTR8hIrRUbgDGhS2SIayzBxFxVHroK4_xgBxHHNTEA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Bonham Carter House, 52 Gower Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.52212139999999,
+            "lng": -0.1313049
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.52347038029149,
+              "lng": -0.129955919708498
+            },
+            "southwest": {
+              "lat": 51.52077241970849,
+              "lng": -0.132653880291502
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "3cd6cc5e557187a1935cf3472bdc84dcae467d83",
-        "name": "Aoli Fitness",
-        "place_id": "ChIJp4qaTEys8TURhW88P5_53PY",
-        "reference": "CmRSAAAACSKoN6QbhPzaDQLjOVHH6j4LVOgY3LkZPZdjOKlQHviyA5_nS2gYBhgKJx5hGuX0S8cDkzBHzyWXIpdo3ETIUfiE5bI3rNCkk3r0mLXF9zSBgvmPWBscZsNkILR2iz4lEhBNeN6RxeTMqPIC4TMKeQC2GhRn3nRP6Tu3H2GOWqPYb2WH8zLbjw",
+        "id": "602778418732878bb12af2c74085ea045b7af982",
+        "name": "Capoeira Classes Pernada Baiana",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 604,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107654295521141462409/photos\">Capoeira Classes Pernada Baiana</a>"
+            ],
+            "photo_reference": "CmRaAAAAUT8OcKXf1lI7iqmeH81us1qNG7fqnfamEU4_uVG5Wn0RHjRy8iLWXa4zPZvYi0Dxa-ljSdH5__9xGIm6lEel0qFep0tXM4X40j88WKFpptVWw1oIl_uBYJLtcQVXirL1EhD8sLduGkHHBoQSHSVe0odpGhTbCixDELimiFiFZU0DF8bJVQ_pVw",
+            "width": 464
+          }
+        ],
+        "place_id": "ChIJPwRbTC4bdkgRQIwZH5zWjbY",
+        "reference": "CmRSAAAAQXchiWmTQEsg9aVQVGsIWi3x0kD986r9MHl_uX8bgpXtkaIyfaxeNzCKH-plWit1wwgAtgRYSTmV0xwQjfK2SGzJ51ThOWWpUXFY3V5f5Oy5o92jJI5HvP9zm9nFz40UEhB355z3CP6KH_rwhr0-CPtUGhQLfMdFZUfvJH8-2wwZalUgihHZEg",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "University Of London Union, Malet Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.53769669999999,
+            "lng": -0.07630189999999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.53904568029149,
+              "lng": -0.07495291970849795
+            },
+            "southwest": {
+              "lat": 51.53634771970849,
+              "lng": -0.07765088029150201
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0df8013b00f0d05e5e11a7840e7115614b364a91",
+        "name": "East London UR Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 975,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106062394047753871519/photos\">East London UR Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAioiJ44J7erqv2fJUY9TxItAa0_weW12Lfdj5DlVmV99zQvSEbTjYJ_z5P8EoMyoxZ2rfewz8k2HPmlvd6uzM_tOtfyLgx_9Tb3le9czeaNPK4Q5M4sTuL_afIr3W7UGwEhAJq3UbSoywIkIJ4XwZGxP0GhTHBmV0SVF277gcHUXpZ6aiHiFJ_A",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJ7ecEj7scdkgRMuRePh6-FzM",
+        "rating": 5,
+        "reference": "CmRRAAAAjr2OPq5bmfGWPqf20vH3ZoEIo3GObMmapz9zqkcJ2bINLeaW95zhucNgjMDbHxVCVbwX5SOfjMYybZ3O5KJRPG9CU8ZHStc0Pl-heGpOBsOH9-4OnzYfIHWZDxBMC2-TEhBG7iohukSMe-q3kNIR8baeGhTZUyjWRKYblyat-JuQ9VgfnEFonA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Hive Dalston,, 260-268 Kingsland Road, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5390492,
+            "lng": -0.1063521
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5404132802915,
+              "lng": -0.105213269708498
+            },
+            "southwest": {
+              "lat": 51.5377153197085,
+              "lng": -0.107911230291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b6a34ce6fa463548d0c11f12dfa435c8c29256f4",
+        "name": "Capoeira Uniao UK",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 479,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114621026280401828519/photos\">Capoeira Uniao UK</a>"
+            ],
+            "photo_reference": "CmRaAAAAFJ52UJlNrBEf3Cfn2rO4ulZL6aaD2azpwCw2YQ_giJCaPv7Sbov2q4YhqGxlawzETVoVZA2q7mXak9U6djauK3DFmEcHyn-vUiPpryFsMAxnR3b03ejp4fn8SxW94q49EhBP2p28TwA-S7Ft85MHxLKTGhRvmFCoujHu813uCBxcLAlib5m3Rw",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJgYHAhWgbdkgRk8LRJ_lKgMc",
+        "reference": "CmRSAAAAJEp2iAVz6aPD6heg7-PO-NTC1tj9R15pxnuw5NjM_1bCRAp1bixagO8I-Fiww5Js7Z7odMBTHmXOb_Jw9zWnqrVS4f7fMZnLOLhbSleOYI1QFknxsZDIYjjn-xAYROlrEhAJFyG3dto27LbMwJDhcrBLGhROwAM6PyQWKtcaaxDoBhJQrFabJw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2 Parkhurst Road, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5128069,
+            "lng": -0.1396827
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5141834802915,
+              "lng": -0.138277269708498
+            },
+            "southwest": {
+              "lat": 51.5114855197085,
+              "lng": -0.140975230291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "be8fe0cafe6aba7269990519487108b2fee2b055",
+        "name": "Capoeira Nago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJR8Mcc9UEdkgRjHGNr_wUiqA",
+        "reference": "CmRSAAAACb2rWWbvcXG-Zgw8NhHTbj-_wCN9H54gnStu8UdqZAFUAnBt4C2-JQC2BKpjiF9gdLQ_vAp6FNKK_56i6JEwf10Q7DEe3MQ-xZcvkBhyo4GX4VuAG9d90sOxhtvoVjc3EhCUBlUtU162Mxfqr7eGS7JTGhRNMulU1er0jGp7LmM0tSasBm0i0A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Fitness First, 59 Kingly Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.523103,
+            "lng": -0.043387
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.5245701802915,
+              "lng": -0.04150706970849796
+            },
+            "southwest": {
+              "lat": 51.5218722197085,
+              "lng": -0.04420503029150203
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "374d04875b6f28d9653632ff832c79fc9c003be1",
+        "name": "London Capoeira: Ginga de Quilombo",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 633,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100253745848285767495/photos\">London Capoeira: Ginga de Quilombo</a>"
+            ],
+            "photo_reference": "CmRaAAAAc_aarnFpgl8gaS4muq8dXFOoKHEHs4E3IyhApyGk6x0IvoTu-3vMdSVTATmpAd6yt0pgFOsg2h5LPfEOeKtMwOIzIcNBtMgUwgPLgbqoQNo2HmlMfHZI3hR9vg1SU_6CEhBwqg5QE9lHW8mSD727OOZiGhRDoSgRem_YkNitrAZkkhnQHaQlMQ",
+            "width": 950
+          }
+        ],
+        "place_id": "ChIJ_6_p_CgddkgRvVG_a4lqqdQ",
+        "reference": "CmRSAAAAbfjXtXWBuDhQntTOTzIvrwEpKIigFFdldsg31h1Rs-zW5YaRB8LTKQTUZYnB3MT1MUPB11RC8E8rT5rTARmEHeQ88x7nlWYleqmx6Jvj1LrHhDEfvo3uJQCvO1ynFyFxEhDd--OjSWpMexwKOvmIDaQSGhRSaLRdpxc1CAuxYKAaThqP8ffjBQ",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -44,7 +695,128 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Chaoyang"
+        "vicinity": "432 Bancroft Road, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.47770089999999,
+            "lng": -0.1291855
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.4790977802915,
+              "lng": -0.128040619708498
+            },
+            "southwest": {
+              "lat": 51.4763998197085,
+              "lng": -0.130738580291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eebe7ba5e2a4abc106582b4f10b04d3e4bc0b0eb",
+        "name": "Capoeira Science",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116609938868033537088/photos\">Capoeira Science</a>"
+            ],
+            "photo_reference": "CmRaAAAAGXv3pHzgYvHgFoBse8jP5j8QkueIjJ9DkkwgJDzANz5iT0wbLoJfUQWunxbgi0b0MavmwuOLIRObX54a2sWI9qc8eBhrwMUnispFZmpHNEyL4oNfAdDqjAMg6YZXweAzEhBLTgJHuxmE_su3gYI_dDFVGhQH3dM2tpPcOH97Z-OS2nhp9GkVaA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJLQMs6FUEdkgRmzOXv6Ewny8",
+        "reference": "CmRRAAAAz4LdDjr1mDXo0fWf1hjS5Mydm1voFGF_IHIXzQ6hv_8qJwQRFz1hh2v9hL1aX2iQGOlPryFOEv1tp7WzLN5Wtv_ZIAz_NW-7T9MYxzUYtkMlI-l3tB6C4fKnq0muWn5cEhAomLc53FRCv-3ngLrMHFiAGhSDtjgR1Rkkr16P_9OQPrwNESes-A",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "283-291 Wandsworth Road, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.5432602,
+            "lng": -0.1489363
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.54460918029149,
+              "lng": -0.147587319708498
+            },
+            "southwest": {
+              "lat": 51.5419112197085,
+              "lng": -0.150285280291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7e60eba9110027e60f840cbd7da2384726ca657d",
+        "name": "Centro Cultural Senzala De Capoeira London",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 710,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117369434153677697682/photos\">Centro Cultural Senzala De Capoeira London</a>"
+            ],
+            "photo_reference": "CmRaAAAA1U8plDIbui9RBD9ga5fL7F_ZwOxYja8ihLVY8WLq18LaKzRLWWlf8p4ydvVthnFISBTXb-CgVszG8e6T0Y6bERuMVo_9SVvtu2qGelWV52FOK0C1H9-7dLFyKO-60u57EhCqzONkjO_QWd0sDhNL7qI5GhTqtPbs03RqbH13p5po8leMn47QBA",
+            "width": 950
+          }
+        ],
+        "place_id": "ChIJJSlqW-QadkgREkSXlDYDiqo",
+        "reference": "CmRSAAAABOvv3qHGB10XnokUgO4jCCus3czWynOXfMb5_dQqKBJjGLPFJjHa4_uJvWPTXlyF1yQFudzorOaoZGj9QEvmI4aA7A0NNyjpXh7QOLWSNxcUXCUVeOluVZ58kr-h3S8mEhCsWIcwEmu_MYRPuNYFhF0PGhRVyePmD1sfd7iZcAFXdSyKvKuaHA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "112 Great Russell Street, London"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.46474010000001,
+            "lng": -0.1151367
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.46619983029149,
+              "lng": -0.113636569708498
+            },
+            "southwest": {
+              "lat": 51.4635018697085,
+              "lng": -0.116334530291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dae40f8a691d8891038857e999883ac21ace5a8b",
+        "name": "Capoeira Nago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJoU_9qGcEdkgRgZU0n1QAFn4",
+        "reference": "CmRRAAAAP5YDAX2HNALvp9Z0yDgPgHUntJ7pWvgN678jWYZXZqgeuQKeRa3PWOE2S0cNqZUhLEU2tafuhL0mUOlFXILfvPV-qspX7viUnuyw-dKPgez9WWs9XMbu1WQpUrJVpqvkEhBWKc8Yc6qWGzXnKwcfXO8IGhSRSJIt7t45g5202AoXVS-2UxYfBw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Fitness first, 234 Stockwell Road, London"
       }
     ],
     "status": "OK"
