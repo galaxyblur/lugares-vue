@@ -1,20 +1,84 @@
 {
-  "city_name": "xian-cn",
-  "city_rank": 37,
-  "city_population": 3953191,
+  "city_name": "chengdu-cn",
+  "city_rank": 38,
+  "city_population": 3950437,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "34.258333",
-      "108.928611"
+      "30.666667",
+      "104.066667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1975219,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.6733007,
+            "lng": 104.0573396
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.6745265802915,
+              "lng": 104.0586139802915
+            },
+            "southwest": {
+              "lat": 30.6718286197085,
+              "lng": 104.0559160197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "39af0647127ef99cf86bdb483bceada9478b7291",
+        "name": "Whytewoolf Fitness Club",
+        "place_id": "ChIJ63FxDyvF7zYR8S1yZ7jxi88",
+        "reference": "CmRSAAAAMaHlrxml2haJts3_53TpdAN8XZaoIe0GMZUOG4BdMl2oi8qh7oKrCX3yEQdYUOe7AUHvGd87mGmPob1gOkZt_2gsDsv_zS1rIcQC9EnVTa7B-LnpQleYL03Ktq7UbfGhEhA92gonr_4KnGCGcQnF59AKGhT2Yujj7I3eHnel8OjHD1fd1StPJg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7 West Street, Qingyang, Chengdu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.6653038,
+            "lng": 104.0466808
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.66660643029149,
+              "lng": 104.0481272302915
+            },
+            "southwest": {
+              "lat": 30.6639084697085,
+              "lng": 104.0454292697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ee201ae90a4f5533599ad34265127460b2730e3b",
+        "name": "軽盈瑜伽",
+        "place_id": "ChIJg-aNC9rE7zYRggzOlPww7-k",
+        "rating": 4,
+        "reference": "CmRSAAAAGKkeoJcsVSlpk4ABH0kvpXNCuZnaQi0b6JiRLVNIRDxurEvKu_TM5I7In9atCgiW_AElUvrNzi9SsOlK-eZZihjrhquH4-lvMLc4zUyA_kJMiEWCGJV0tvNi3xSenB80EhBiIkmLVfwsV2luO-5KPukeGhTatn9Vm6rk9rdQgBHnVP_MPKX-xA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "63 Xi'an South Road, Jinniu, Chengdu"
+      }
+    ],
+    "status": "OK"
   }
 }
