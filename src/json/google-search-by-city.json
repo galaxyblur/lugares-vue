@@ -1,52 +1,20 @@
 {
-  "city_name": "chongqing-cn",
-  "city_rank": 36,
-  "city_population": 3967028,
+  "city_name": "xian-cn",
+  "city_rank": 37,
+  "city_population": 3953191,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "29.562778",
-      "106.552778"
+      "34.258333",
+      "108.928611"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 3967028,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 29.535957,
-            "lng": 106.512215
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.5373059802915,
-              "lng": 106.5135639802915
-            },
-            "southwest": {
-              "lat": 29.5346080197085,
-              "lng": 106.5108660197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "dc8b1543d3696d4305e91496f0ff78eca8368b94",
-        "name": "Kamo Yoga",
-        "place_id": "ChIJO9ajZSLL7DYRtmWo-2JDT5U",
-        "reference": "CmRSAAAAnYzJW-G66BhBvlldk_cW-sD5XjYEzmRl4YTXDeiA7XAlDz1xgUxbu3CnGkq46ZjkFeG-62PGiehZ48JUJhundFPlyFzH1SYFf4JndfbvgQ3S0xGgK7i5cdYFofYsYt3oEhBH8CGlSknQQ--_Ob_POQd4GhSf9xM1h9GicbBV9ZWQlfWkdLhP_g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "龙湖时代天街C馆, Yixueyuan Road, Yuzhong"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
