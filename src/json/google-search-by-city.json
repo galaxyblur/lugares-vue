@@ -1,100 +1,20 @@
 {
-  "city_name": "nairobi-ke",
-  "city_rank": 70,
-  "city_population": 2750561,
+  "city_name": "taiyuan-cn",
+  "city_rank": 71,
+  "city_population": 2722475,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-1.2833333",
-      "36.8166667"
+      "37.726944",
+      "112.470833"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1375281,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": -1.264103,
-            "lng": 36.8007178
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -1.262754019708498,
-              "lng": 36.8020667802915
-            },
-            "southwest": {
-              "lat": -1.265451980291502,
-              "lng": 36.7993688197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f0e63bf7067322446f591165cc9e00faf6a8c3f5",
-        "name": "Acacia Studios",
-        "place_id": "ChIJO2WffWoXLxgRtaarmhlXHgc",
-        "reference": "CmRRAAAAxtRbTHzdejEJ3SdP2wjpbwwtuDm0rOSxWMn5Oodp616FG31p5cQtTPEm09rnvXVevllVOLkutNA91KzjCVEt4KjXoMYKtcXLqekojD0dkugU_lRCwMM_Wn6E53JmAzIUEhB6LfFqnAtgH5Ys_xUC5ClzGhSWaC0g1XlCYJIKJNB0u5LOVkztNw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Viking House, Nairobi"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -1.2636368,
-            "lng": 36.7846194
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -1.262348969708498,
-              "lng": 36.7859626802915
-            },
-            "southwest": {
-              "lat": -1.265046930291502,
-              "lng": 36.7832647197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "577ec17297eae41de1401ddf149f5a75676770bc",
-        "name": "King's Gym & Spa",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111688151264851677922/photos\">Robert Kariuki</a>"
-            ],
-            "photo_reference": "CmRaAAAAyVR0LQFWW4JwKssmFNRtGJNOCX3ZYFrmVFUnrmLV7OlU3D0QvZ-50C_y4Pl8NReVp6NzHdZL-UYBmzIvjWhLWet_y047QzhMzKrsS-w1WtEhgdzEUMkfndfBJ4xlBO4lEhDxYPAtt0JGCwCqQqu82jWKGhRqqJdqDPkkh7BlCXNcPz5zYUXWbA",
-            "width": 6144
-          }
-        ],
-        "place_id": "ChIJuQrR5GAXLxgR2XFxAn3TRkg",
-        "rating": 4.2,
-        "reference": "CmRRAAAAynJVYfUkGw055wXg3HYo7TZ2QqEOzcGygYQuw9fzsAmYt8pfywRe3b66oM_J_cqrZb-Yd5JCO479dYlMTRlAY7R6O-fmxDiJEzKUbGTP2PqzpiZ22SDDxFSAh1PU_cE-EhCWOihgUzKQNbfcZJxTOABiGhQMOJ9mIQA_Q_lVi--s3j90MFFw1g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "beauty_salon",
-          "spa",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rhapta Road, Nairobi"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
