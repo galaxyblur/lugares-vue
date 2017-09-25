@@ -1,20 +1,52 @@
 {
-  "city_name": "harbin-cn",
-  "city_rank": 57,
-  "city_population": 3229883,
+  "city_name": "guangzhou-cn",
+  "city_rank": 58,
+  "city_population": 3152825,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "45.75",
-      "126.65"
+      "23.116667",
+      "113.25"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 3152825,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 23.133152,
+            "lng": 113.309943
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 23.1345009802915,
+              "lng": 113.3112919802915
+            },
+            "southwest": {
+              "lat": 23.1318030197085,
+              "lng": 113.3085940197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8a7b3c2eeb32d8612b16a331d378196e836ed107",
+        "name": "Eastern Club",
+        "place_id": "ChIJFZRQwiH_AjQROI35ZCOZMUc",
+        "reference": "CmRRAAAA4gFKKOhI2K0Jhu6-KQsHTsK4ojmy1HjbTLqjoIQU19A_0zz3p1R1CtJKNj5KFr4_OESxiFLQhRLTtuTQEs7XMPXXqS3lisPdaU2Asp15JPX2ZyUG73_n_PDa2g1tBdwJEhBbfN3W1vdDAjIjAa7VKy1tGhSl_ps7dNcBmKxBKoEzq3aUfqeYvQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "东风东路787号, Tianhe, Guangzhou"
+      }
+    ],
+    "status": "OK"
   }
 }
