@@ -1,20 +1,96 @@
 {
-  "city_name": "ibadan-ng",
-  "city_rank": 48,
-  "city_population": 3565810,
+  "city_name": "singapore-sg",
+  "city_rank": 49,
+  "city_population": 3547809,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "7.387778",
-      "3.896389"
+      "1.2930556",
+      "103.8558333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1773905,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 1.2944241,
+            "lng": 103.8492946
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 1.295734130291502,
+              "lng": 103.8507151302915
+            },
+            "southwest": {
+              "lat": 1.293036169708498,
+              "lng": 103.8480171697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b9f375becaf8e9fb994351c9707ac5d79e530efb",
+        "name": "ASSOCIATION OF CAPOEIRA ARGOLA DE OURO (S)",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115115083838795603174/photos\">ASSOCIATION OF CAPOEIRA ARGOLA DE OURO (S)</a>"
+            ],
+            "photo_reference": "CmRaAAAAFEi21YoEv8sZUWKR1niZ3CQYK_KnoO6Kwy0woidyShYIkWVwo1Pyd3HEcTQdNKQNlSgUtW5nEmxbsPIUrlBk4lFcSqhGS6WCABD_7NM-UGeBDdn3lPKo-Jd7_fya3wlqEhC0rFEL_n80O2ZsZFZjEIeMGhSj2w8BeOfZZm23uWrMOo2EiLv4hw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJZ7ve66MZ2jERrZbh0cM-3DE",
+        "rating": 5,
+        "reference": "CmRRAAAAeNlXgCClGgOqfTDxqab9U4xowd3Ml4QXD300nWe_F9x62UMNNtUzXL07DUBbBL5Wb6kB_J4fpva38mYzsJ5HYDJVHh5R4fKTpxsIwPlLVjRn99Ygm1X63wE7eLwA9CScEhB3HssZMHbVB4TjLeyjy_aGGhRLnOnrBZRL07K3PYT200n82uHxdw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "45 Armenian Street, Singapore"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 1.2871316,
+            "lng": 103.8467372
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 1.288445630291502,
+              "lng": 103.8480676802915
+            },
+            "southwest": {
+              "lat": 1.285747669708498,
+              "lng": 103.8453697197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "49fbbf5d1c4411f5d0af5c504165efd3d7066963",
+        "name": "Vida Academy (Bantus Capoeira Singapore)",
+        "place_id": "ChIJcwtG5AoZ2jERZeG-D6mYEFM",
+        "rating": 5,
+        "reference": "CmRRAAAAU_kXH8QaowCserdkskRrKagSvQIqYsbHu8I5Lhw8YEsNUQUqKNXN45xueOC1MNBq-j8N3BihAS7R8Q6k-aL3V_2KXwwC8ML52j2MPc2CdO2xhjZgGCzx3XAjRyISpWubEhCpsDIGk3Cl_II0EmAYieofGhTlg5WUStkuf5nhIMzJlCgu4Dup-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "44 North Canal Road"
+      }
+    ],
+    "status": "OK"
   }
 }
