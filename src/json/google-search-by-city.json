@@ -1,20 +1,65 @@
 {
-  "city_name": "dakar-sn",
-  "city_rank": 74,
-  "city_population": 2702820,
+  "city_name": "dar-es-salaam-tz",
+  "city_rank": 75,
+  "city_population": 2698651,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "14.6708333",
-      "-17.4380556"
+      "-6.8",
+      "39.2833333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2698651,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -6.7405117,
+            "lng": 39.283484
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -6.739162719708498,
+              "lng": 39.2848329802915
+            },
+            "southwest": {
+              "lat": -6.741860680291502,
+              "lng": 39.28213501970851
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1f12d6cb174607ec4a16e81cda8c28fc1e6434f3",
+        "name": "MMA Dar",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102884446040601030041/photos\">Jérôme A.</a>"
+            ],
+            "photo_reference": "CmRaAAAA6BpCVKVMbEG7rnt5E7de2W-FSeP4O3ghlRcHo3le7EsRhYURKExuCiWuru6_qVB-va2UHUso89M96ZMo3GpORj6ayuytcibFg1mCfcuZkap4H5HqcG9NzUqGdUZsDLpFEhDjpQVnLZv-Ys7IalRrEIMlGhQinLFn3zsUmTJ0cWHGPdRrcWFqqQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ6y8tsnRNXBgRPgg-JERdEII",
+        "rating": 5,
+        "reference": "CmRSAAAAORRo9JZStcrS--URuLuNPV20B_GNRvtuNh37bqWtBVxz50pnbKecpVtQpHU0LQF0vDPsPrLEURd4agb20YNxJn1b6s4HhmzNli86EDZ99-4crmAIlCF4EpeY744eyYehEhDujvYuy_AG_bBfmBikWryVGhQnSLvgUS1eM1dg9-xw0UfwZrWvrA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Body Fuel Gym, Village Walk, Dar es Salaam"
+      }
+    ],
+    "status": "OK"
   }
 }
