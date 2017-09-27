@@ -1,20 +1,826 @@
 {
-  "city_name": "aleppo-sy",
-  "city_rank": 96,
-  "city_population": 2139878,
+  "city_name": "paris-fr",
+  "city_rank": 97,
+  "city_population": 2110694,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "36.2027778",
-      "37.1586111"
+      "48.866667",
+      "2.333333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 105535,
+  "possible_duplicates": {
+    "ChIJxQW6tFRu5kcRvpilSO3NZmA": [
+      {
+        "place1": "Arte Capoeira Instructor Gaviao 5 Rue Lacaille, Paris",
+        "place2": "Arte Capoeira Instructor Gaviao 62 Rue Cambronne, Paris",
+        "score": 0.8205128205128205
+      }
+    ],
+    "ChIJCbWbWjxw5kcR022S32txaog": [
+      {
+        "place1": "Arte Capoeira Instructor Gaviao 62 Rue Cambronne, Paris",
+        "place2": "Arte Capoeira Instructor Gaviao 5 Rue Lacaille, Paris",
+        "score": 0.8205128205128205
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "next_page_token": "CqQCGwEAADC4GXfSXgzQRRcFL5iP46H0XBP1MsFM7iE9N1WRqo-TRIUnI5M92RGNOqoZs_tkLTEtNPe2xfKi2DcVEujUkBpCV-_YAhFllf8iWx0ntMdP78ex5IKDpopoy4jI0LEL-QE521qAq1-O7rHMARgxlYTK_2vaH9R71pJAo99uBIjY_NKphTtKPokX1NxwVoet-cwUsLXlKMD6wMvEnFKbcVH5JbAV46iFIilGVxOqQY93Riez1gdcR10A9YJUgtW9DhHHxfTguvHTZ_cB_9bxykj7Kw0vDG6mlHe1JdlYBM-gRDdZ_37lSQaWN3vLLJJgLBno5q7wFmSEJBJLMR-XwmlRjOJSFi_vEVoe7vcmWsEZcoNlCPIm-WX3LxKCqWil3hIQn-mxbiWo86h9cLxHh50rAxoUfW9IdMPqNtnW3BrLbzXJxOlSbJQ",
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.85960069999999,
+            "lng": 2.3538751
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8608972802915,
+              "lng": 2.355308780291502
+            },
+            "southwest": {
+              "lat": 48.8581993197085,
+              "lng": 2.352610819708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6addd469e10d804580e7139edf3f0ce9e69ea12b",
+        "name": "Marais Dance Centre",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 290,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107176222118865311565/photos\">Centre de danse du Marais</a>"
+            ],
+            "photo_reference": "CmRaAAAAX6G2MfYTbKunqyp1NlAqp4XUPHtLrwkVW-saikK9FfbNxE9PqwFQ8M2mOMXaTgDAb0iplEZkpuA_XHM-VJuIHKUE1SBUSMS4EpJT1gjNT1jtZluKiMfo7NYcL8PI0W1rEhD_CkipnRsF-K2KbFYQFA2WGhRQIyGKZvLbzLFYws04no1CkvRW1w",
+            "width": 851
+          }
+        ],
+        "place_id": "ChIJ21XX7Rxu5kcRMJie6Eo0Zjw",
+        "rating": 4.2,
+        "reference": "CmRRAAAAfoWR8YavR-m6GI4kR17w5NgjPy_A0EOQAZHYVerq6VHZnurzxFWbSXxoQQaupIc3-cFfTwI-4r4wNOtzIDI7Hm3qd2honDsIUA6kFIKilGTVOo20WuiC8rwIvhxvHgz7EhAaHSNI1HUCwMbDuBJLVi6MGhTVCR-6y987ZOkZH-VJxLH6eSom2A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "41 Rue du Temple, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.86221459999999,
+            "lng": 2.3563066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.86353898029149,
+              "lng": 2.357632830291502
+            },
+            "southwest": {
+              "lat": 48.8608410197085,
+              "lng": 2.354934869708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2afd7b6aee27122473508814dbe5958ecfe3d093",
+        "name": "Festival Rasteira Malandra",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJyfRrtQRu5kcRg6VRWuZKsbc",
+        "reference": "CmRSAAAAhPVjtbdHAMY4YLny29mAVAzBQ2s85nvYEFTqqVXyCWz8sWj7h7_Ysewe245lIC_LRmQsBRorEJbU5webir4eBbLH45rXMOwC4Va_jISf4XX_UuY2WqFl936a3zKttcaSEhAGFIHpPqDjBLrUGx96wFFTGhQ6EoAZ6UFuUCOr_KFZ4fm6aMwhQg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "14 Rue Michel-le-Comte, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8622561,
+            "lng": 2.3565426
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8635297302915,
+              "lng": 2.357821930291502
+            },
+            "southwest": {
+              "lat": 48.8608317697085,
+              "lng": 2.355123969708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "481bdd1a21ff140f21758de88b6238f89d3094ce",
+        "name": "Capoeira Cordão De Ouro",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 338,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104079342892406376862/photos\">Capoeira Cordão de Ouro</a>"
+            ],
+            "photo_reference": "CmRaAAAAHsnNCLASx_o1WvYK7EqPCtvg0JD6TWeFADl7TbjgSZ6QFiOlhHHCEAbXNOLveVxYlBor7XbIwA1KLma-whpP8Gv2NNbTDfD-YtKENTx2M0jwRyczzHbJ0iycxp-pBrY5EhAGNHFUpbqf9zFADoiglmQCGhQxuJC7ZmUadzrVCsmJTTS0cKgUWw",
+            "width": 306
+          }
+        ],
+        "place_id": "ChIJPX_wShtu5kcRq90x9gWadmk",
+        "reference": "CmRRAAAAfWpHrXg52jlsGjY9ySqTC07mmIwbpmNgiIwJpqpl4EPfBWNeIIyRcmPd8UaLkv82_XopPa-QKA5D3b0duqQtbJvxjO21HdQQ0Of07CKAmBV6rjO9QEzkqN2_5BlUdNTYEhDSFMOhw72XoaBxnMVw5A2rGhQds1b7s4uwSYDhmHWFbJS5ju6VIg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "14 Rue Michel-le-Comte, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8774317,
+            "lng": 2.362434599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8788259802915,
+              "lng": 2.363820330291501
+            },
+            "southwest": {
+              "lat": 48.8761280197085,
+              "lng": 2.361122369708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a8e9acb8e1f0f6af651f5f0cb93b5e2aa5df5ab9",
+        "name": "During Dance, Sport Children De 7 À 12 Years Paris - Animations For Anniversaire Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101548602447509465662/photos\">Cours de Danse, Sport pour enfants de 7 à 12 ans Paris - Animations pour anniversaire Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAfBih0Hep_KBCDHT7j5doq3rM7vWEUX1HEon9HzNTuCjmdhbczjWvWjnZqYU96admXp1RmUZm7EwomIORhaLF8xtH2pXhrOPNiKruYSm3P8R0hFJTd4LKAFjUxv2nEpSMEhB_K3zTlm2SFQSna7Pcn-r7GhQakT0yqGelkuSCkjznVl8A-YEWxw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ1XtCZnNu5kcRu4HTZLLrvAo",
+        "rating": 5,
+        "reference": "CmRRAAAAAwn1TqOGLCy1pVm3OkKVr-8iCw8KOnajNQOvRkJfeVcsx7LSFALhY9qERSId3n1aScUXiX4mD97JSy9h8Nr5D-dO4xR_YVH8qc83lXJuqeWjFt36KY0B5iEAzfwx4JvIEhDc-8aM8pYqx_3FzeVexUnhGhSiXhyuOFaS4Z7FIVvxHZYeTaS3oA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "25 Rue du Terrage, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.844242,
+            "lng": 2.335764
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8455909802915,
+              "lng": 2.337112980291502
+            },
+            "southwest": {
+              "lat": 48.84289301970851,
+              "lng": 2.334415019708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e3d7179a859eef37bf243ae540cc621fff25dc1f",
+        "name": "Capoeira Cordão De Ouro",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJnZCBoxNu5kcRPuCAxZiFIm4",
+        "reference": "CmRRAAAAG2SbnEmruDc5J1cDV0QFwwm4ld2kzw5BixUFy0g9Hu96C27ysz-CCs3G_cqAlMkujN29uXdcp-Mmh5imB_TLmfH8cyD0Lx3-1bxO6pyuEB3GU4m7MEr2_GCn8BSJX_3AEhDYHIppfEQ0n-vGmhbqvfDqGhRCrxUuJgcfbxq5A0DeKWNhpF25DQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Impasse du Jardinet, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.887204,
+            "lng": 2.3472424
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8885760802915,
+              "lng": 2.348688080291502
+            },
+            "southwest": {
+              "lat": 48.8858781197085,
+              "lng": 2.345990119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "39a02982575ddc658e71a975422f9ff264a21d9f",
+        "name": "Association Capoeira Canta Galo",
+        "place_id": "ChIJ9W_gVT1u5kcRM5xeO_3uatg",
+        "reference": "CmRSAAAAkaObDUcLogMxQ0YJmrwIISGH4z-TfiK3pO2GxakCgUmlxFxU6f9WFoOkd2SXL5Qfx4bBpWucjLUWZZ4ymVKdN1pUjeEp2FPdxVFoh09SRe48iV9mtGmiL1FF0cym4Qw8EhCbCK6Vxl6QSghJFJVOerCQGhSZxU4tdBMevTFThFdYpOPeUBA7gQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5 Rue Ramey, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8426201,
+            "lng": 2.3268797
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8440497802915,
+              "lng": 2.328290080291502
+            },
+            "southwest": {
+              "lat": 48.8413518197085,
+              "lng": 2.325592119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ae05498e8b606e0c6365edcbd3b135c84dd7e9b5",
+        "name": "Vamos Capoeira Paris",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJqT_bIZpv5kcRmgsdAnZ8190",
+        "rating": 4.6,
+        "reference": "CmRSAAAAKpQDeZqPSYoY5pWyIj6auawMSEMDDDNk1-ZDuBY_naZihMbbi55fOUXanyyF6e3vvlw9X5XCChBLB5zjQgP88ipoSQOV-0_tEjezz-DF-iMZeqsn9RzJmEuCBWEDqpCxEhCa7QF0DXWneXBAICR_sG6RGhSKS47U3cHTxjKxPTUZ53Omw2vrQA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "92 bis Boulevard du Montparnasse, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8885292,
+            "lng": 2.3151538
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8898171302915,
+              "lng": 2.316652880291502
+            },
+            "southwest": {
+              "lat": 48.88711916970851,
+              "lng": 2.313954919708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "70e67384fc72a3105b5073c5693ba12c4f0b1847",
+        "name": "Capoeira Sul Da Bahia",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJf0YGrq9v5kcRKOddY961x6E",
+        "reference": "CmRSAAAALLgz5pYd9y2VXAo4BBvSMvy-x5AIXuKX25cXcXd-5fQtj7Shbg-WBsSokEG-6wLxatmuTeX7Uc7Atym4PYvEAKM8j3RntFLnkyug4uHNFb7KuMxMzL2xqyPigZl3YtWNEhCllKyoyeGkoJxriQa5o6AsGhSJnKpwFAE58M0Ol-jt-q59ceHJ8g",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "147 Rue Cardinet, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.842078,
+            "lng": 2.322986
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84359698029149,
+              "lng": 2.324537530291502
+            },
+            "southwest": {
+              "lat": 48.8408990197085,
+              "lng": 2.321839569708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9d41b629e0cbe7ecb68e9bf1cae5c39ca82d19bd",
+        "name": "Jogaki Capoeira Paris - Course De Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 379,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115392694436839450786/photos\">Jogaki Capoeira Paris - Cours de Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAuYg_mg5C_bA3vSCTM7idbvvLAkBDlLOtbi1kZzcbZM77jCRqkPB7jC5PLIxBPjHfH9XueXTccdnnZH_AkxJ1ZNM-CDTAWSHEXALqVH1hTdtadsDqtDbw1eZ1S8BEUcUsEhAuqbzCMZz_J8dOYp_jQW2iGhStUuF2j0vHpRw6IYoMRR2kpICuGA",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJi0yappV65kcRNdOumXRmX4g",
+        "rating": 4.5,
+        "reference": "CmRSAAAAG_BAjUvqcGQ8VKbldRaytNCXu58mhM1vCZ7CHlR7n1wh9eWNJ8Bse3HCzE3Hg9wQs1-HEbGivAoi8EO1j3SreTlUKLl-U2CG1i9l5nAeY3iIvxhT5LGR-Ih-CoaDRvZkEhD6k7pKhvALTqkHcjLiVV2fGhTmQFEnc9wxs0jm407qJoXyVs3e2g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "23 Rue du Départ, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8898447,
+            "lng": 2.3506639
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.89125003029149,
+              "lng": 2.351943880291502
+            },
+            "southwest": {
+              "lat": 48.8885520697085,
+              "lng": 2.349245919708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8ee96dd201781c64d88dd1df156635dc20e5dfd8",
+        "name": "Sattva Yoga Paris",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1026,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103390355186924301302/photos\">Yoga Sattva Paris</a>"
+            ],
+            "photo_reference": "CmRaAAAAIxW0f3eQoUuV9tzn9wEz-tBo97VcP2l61rAt9MGIajfNdrrsoSgnJP81hb86LoEX4t7Xmn5BTCjquFWP8vW9dHm13OGpiPKTKSqrIfxcHoO0JWXZw2l3Y644WzcZtv3mEhAR0rNtroGUnnCX96HenrQaGhSQvlffn5BOLo_TB05cWfN_a8GbyA",
+            "width": 1026
+          }
+        ],
+        "place_id": "ChIJ3yRr5mZu5kcRy0Mya8bR010",
+        "rating": 4.8,
+        "reference": "CmRRAAAAI8kEtsHMgWhqcp_QdrS1b8sc_n_rkwJHpBk5M2WnFVGEe4BCWYGDHaVSt03XL5NQCuouHEK1k_29NA-I6Oynhmb9QqZm81NJ8l-5X-jsmfzX8_Iy-B3KmwA0rxtfygWmEhCxGTPGYtSu_AfSwIk9mAW9GhQeFxv4IuD2_XvraxlIrOTEGMUVGg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "11 Rue Labat, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.89287220000001,
+            "lng": 2.3250295
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8942211802915,
+              "lng": 2.326378480291502
+            },
+            "southwest": {
+              "lat": 48.8915232197085,
+              "lng": 2.323680519708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4c5a4a10d2e70d327b3cce34a194be880788520a",
+        "name": "Arte Capoeira Instructor Gaviao",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJxQW6tFRu5kcRvpilSO3NZmA",
+        "reference": "CmRRAAAAURpc2bRszM063uZxn_Ys_H82aPwhKUT-FioK4fpgSmp8mEF-vKmmNbO62pAKpzimtp07MusKI2lKeQtvpVsItGRjCU6QoHZjGv7W1OZKhDUoEe0wCPXr-dB1zYsWnPPCEhCCrqWfSQY9d8GpwfDJEVyVGhTK3TpC2p4Y4fHC2L6Z5XMtgUYX7w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5 Rue Lacaille, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8479349,
+            "lng": 2.2980785
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8493477302915,
+              "lng": 2.299312930291502
+            },
+            "southwest": {
+              "lat": 48.8466497697085,
+              "lng": 2.296614969708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8a2ecd1052c7a8ce6ef606d8e63738d6c8db0c80",
+        "name": "Vamos Capoeira Paris",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102788935047425674126/photos\">Capoeira Paris</a>"
+            ],
+            "photo_reference": "CmRaAAAAGVbhkIfSspXHKCZu55cuuy2g8GGjsmkt_cx7IqKqSkdRm4FmkKCzNe9kP4PAZOdBZsqLa1xuKEA3XM7cj86LD0RN803q8a2G9DBIXDoHNmJ2-kgjfRPKvz859-bSpxuSEhBcxQV5W1hB4OfLhGDnt8nxGhRXzUvwFOO7Vx01lB40FmR_A0llgQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJvXGyJmtu5kcRdCBQrfmYptg",
+        "rating": 4.8,
+        "reference": "CmRSAAAAFAxCVOZwv1Ys9_yXhT8VYVUbGImB8dt3C-x7WkNK8-Ljj72SXj3bba5_d2Iyu8wdr0sdQZDmmfsvxvqG5Q-WfNGZ9J_cuuPZH-SPfE4RjpoJhNc6zsRW6NdgRikGTFASEhDoSil0o1gnMXLfocmpy8vLGhSF-xuSuYTe9V_Uae3ALk7TMDpyPw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17 Rue de l'Avre, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8755557,
+            "lng": 2.376889499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8769360302915,
+              "lng": 2.378063280291502
+            },
+            "southwest": {
+              "lat": 48.8742380697085,
+              "lng": 2.375365319708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4687ba348e2e89c9f6b75a317b68723010ee0f8",
+        "name": "Course Capoeira Paris",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 464,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107257519167815420060/photos\">Cours de Capoeira Paris</a>"
+            ],
+            "photo_reference": "CmRaAAAADAGEBvhoayQu3L0w9vsCDrorU3reQIMkhbVA6LY3uaOHkoc3NjEr4eADw7hl0N0ipRS_33CHSqMGk2HmE8vnDK7hu-5C3loIYFHQgNlmbsioSFkWJvvnWQgM-P4NfsxbEhDCLVuu6jOsrq9zuxy-YouWGhRA4KdFiz-9I1_uuOPfLoRE_Bxstg",
+            "width": 464
+          }
+        ],
+        "place_id": "ChIJrUBw8mlu5kcRNG34xmYGuSM",
+        "rating": 4.9,
+        "reference": "CmRRAAAAICUsiIYPUjTiHLsCSlClswxBdK1GpUHrAzapqkQrzYOw7EZbfdmWemm2T4Kw3KCIp3dbsvoXMq6vf_zUkGdtNEk06qDS9FODOxfyUl6bCN0UW3-v_UPBR5M8Z-Szk8iGEhBwzKzLyncgccjwijdyaA1DGhT12Sp3B4aFZ08zDPl-pM68w9GPWg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "18 Rue de l'Atlas, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8947314,
+            "lng": 2.3513411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8959852802915,
+              "lng": 2.352645680291501
+            },
+            "southwest": {
+              "lat": 48.8932873197085,
+              "lng": 2.349947719708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d0b145af3558e0b3ec2c3074513c07fd886c38ec",
+        "name": "Vamos Capoeira",
+        "place_id": "ChIJdSxru2Fu5kcRQcGbWnPgAeI",
+        "rating": 5,
+        "reference": "CmRSAAAAUEGmqZCiKKNYoEARjNgX4MMKyobe0HgpO7mIUV_7qwBQ-MXHuk-df8RStXgto-xW0b9dCAErP06-QpUX4ZRMVwwTvyHhdpynVAiDCNNEB6ZaPshwG2Y83XWnTMM2AuOvEhBTtf03SS9Tln6Ut_LZhxrsGhR46yV_4Kf7Bbc4vGardOpDktPnkg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "12 Rue des Amiraux, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.84396779999999,
+            "lng": 2.3020647
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8453167802915,
+              "lng": 2.303413680291502
+            },
+            "southwest": {
+              "lat": 48.8426188197085,
+              "lng": 2.300715719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f6eb28cfe2d3ff0ce74a39469fe2c58078e9b009",
+        "name": "Arte Capoeira Instructor Gaviao",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJCbWbWjxw5kcR022S32txaog",
+        "reference": "CmRSAAAAZlPYPg_NDTu-2qGNaZcDUqpisjexos3U62QfDe0O5QmFtczSsOidQ71lxg-ZxlcZozb3srleyEgN02yw04mOg_zlh3PJT01KK8KYXou1zsQY293rDL-x2i9uW8AZxdGEEhA5Y4nPrhQf4xA8P4QIVoI8GhSJsmtVUyCZaqYe-fYNeA7oJHsD8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "62 Rue Cambronne, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.83587309999999,
+            "lng": 2.318054099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.83719283029149,
+              "lng": 2.319419030291502
+            },
+            "southwest": {
+              "lat": 48.83449486970849,
+              "lng": 2.316721069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7732d97fcbfcdaae10592133e6f1a6bd505180bf",
+        "name": "Course Capoeira Paris - School Senzala",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 538,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104616905403131598718/photos\">Cours de Capoeira Paris - Ecole Senzala</a>"
+            ],
+            "photo_reference": "CmRaAAAA1u7wdRSANJbOUeq0LL7MW-hR4VI1rNjOfikKWAU_GWjcsWVOahMy_ZAoKutFMDVmv63amvZSnpvBBHt5LGjr6719MvO9j5r3J__qe1uVjP1e9OCwTtvHT1ZzhluDneozEhBA_K9aVBnyrF_Jym7aAfDGGhQ6qUEuPwCZk_PXyiGLFkPjGBsoAQ",
+            "width": 538
+          }
+        ],
+        "place_id": "ChIJSbwFj0pw5kcRyrg5U6A_klo",
+        "rating": 5,
+        "reference": "CmRRAAAAdPC0wZXZycWHNL69zRilUysGMYz1nkEWLgLEmP6zMIN745pOoGoTo2AvcsWGZefmtn9tHpMcdM8Ete4EEgGk_ELD9zWNmsgraq7zg-A490fsDuDr3AYNRnjxsgURI_2rEhDGPVkcmge-N9qmQ8yKuAFJGhTwshvn_JyCiHDSXnbiMy8byHJcdw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "22 Rue Guilleminot, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8889068,
+            "lng": 2.2961079
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8901606302915,
+              "lng": 2.297591080291502
+            },
+            "southwest": {
+              "lat": 48.8874626697085,
+              "lng": 2.294893119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0b103890faba7ca6caa1c0f06ca9d00828b59a1d",
+        "name": "Vamos Capoeira",
+        "place_id": "ChIJ1SqbiZlv5kcR1b1vKSYweCg",
+        "rating": 4.3,
+        "reference": "CmRRAAAAyBZjmLsIEJVLsLR4QpWDeIwEjmNy7PneHltn_IVauclN-4BT8Nq1VYINKwgOj65wuVGTUkpg9VMuhO2rjeJ6qcIB6wYyqk_3QbVYR76YVOZZCOBzFZZfMSXjbeiDex0GEhC8SExJIvYDycUDLDuYBaLFGhQaeeB7_ahVhdqhPQYvJUOA-6QFyw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "32 Boulevard de Reims, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8993444,
+            "lng": 2.3252508
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.9004688802915,
+              "lng": 2.326615430291502
+            },
+            "southwest": {
+              "lat": 48.8977709197085,
+              "lng": 2.323917469708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "617e1785557505f9937c82a42e8de4fc484abf2e",
+        "name": "Capoeira Brasil Paris - Professor Deitado",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109176555610955050286/photos\">Capoeira Brasil Paris - Professor Deitado</a>"
+            ],
+            "photo_reference": "CmRaAAAApi5i2kP7XO8OvuYPKlIWjMrMLTcNwzeqEUQ-bagb9yLkSc0EbqLbGPOY35l8B3Ryu3ANFjDZu2OB3eE_VR5Q32o3HMeT5iStbN3iTW7nnFB7i6HtUEGQWPK9b7nbgAzaEhDwRq-w1Ik4HC-tDrpg8H1wGhRfMiuE5R3lT-FGSotjTHKgtFRwvw",
+            "width": 1360
+          }
+        ],
+        "place_id": "ChIJJ1ZRKABv5kcR5D804QAeJww",
+        "rating": 5,
+        "reference": "CmRRAAAAhI2A4-1zjlmfMAcYY-elmmgPOIfU8sY1eUXKd_wcM1zrgATKRHJlzK40-4Kc_ITaX5lEepQRxVSGjUHa9epy-Q8SdV8-mLhUiMQjEKNUT71esENJwcAtFgXsv465pjlFEhCKfE8tjBif0ZIIG4GD0V9VGhSLg5PKQMbcOqwauntl-s35U6mGMw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "28 Rue André Bréchet, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.833946,
+            "lng": 2.320886
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.83546713029151,
+              "lng": 2.322314030291502
+            },
+            "southwest": {
+              "lat": 48.83276916970851,
+              "lng": 2.319616069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fea0d7ac690e7ac407a8b1bec70ecacee22a223a",
+        "name": "Capoeira Cecica",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 270,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102243294079761587686/photos\">CECICA COURS DE CAPOEIRA</a>"
+            ],
+            "photo_reference": "CmRaAAAAOJD3niQ58lgoa9WJOSSdXk74BD9IsM2aMX7hPDjIJVNkhT1zvmklAUobgGeNYY0uL5diGxEwc_TfOqXDvnMwBeJ7hwbJlScFaBA191E1bkgza_R0poIy9uthVdi2aksaEhBxpZHzqjTcsZ_iAdWkycaCGhTD2JfB6JHDDr4tooA5Xfg8PE4bcQ",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJZbbjJrVx5kcRF_xhmDRGaus",
+        "reference": "CmRSAAAADClezRdUJLCaeS8dySz_iJAEY41nemTZnMRY3IVHyDiETi3ujiC2vmzlYEFt12mOKddBNVTbgExl7kjZblkVuNHpWIMu-q1gijUmi-UdH0kgo-AdCSA8yBrtzEgxqchjEhBE9__miPXVMbLH4PiOX60kGhRisn_h5kXA7QwBDFRzQcCjKVLb9g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "13 Rue du Moulin des Lapins, Paris"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 48.8954316,
+            "lng": 2.3605918
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8967543302915,
+              "lng": 2.361933730291502
+            },
+            "southwest": {
+              "lat": 48.8940563697085,
+              "lng": 2.359235769708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "640e13eadf3cd1779e03b3fee13bdf39d689906b",
+        "name": "Capoeira Viola",
+        "photos": [
+          {
+            "height": 2848,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112153859930245114471/photos\">Capoeira Viola</a>"
+            ],
+            "photo_reference": "CmRaAAAAhwtCCiVBt7S20RE6-pJ5e6ktclO-xCsJS8sHRfEED19BXYAizBfYqaC4EqWNQCrpBQ9lpJluu2wbb0gtC3vv4jLfqpJ1vltyCsXCSnPX9YEyhBi0Hi1aPhnS-5W_y_ppEhDKp82rwKRX-Ic7Qwbwu0_kGhT-ToCO5JvP7GfxGZrabQNKIwN4Wg",
+            "width": 4272
+          }
+        ],
+        "place_id": "ChIJqRGaY3pu5kcREDDMKGtlWT4",
+        "reference": "CmRRAAAAxSccBGfgdiaNKzRbSkyQ--2nn4fOeHI4hJ93-2mDDdTTyH_A-JTgINfqSaC_RUwZfU1t6FOt18JT43HUYhHGpE_T6Skv3Hkzc7HFzShzh4LfSb9qJhFIoqBiro20rahuEhDfZQJOz7fQ16LTepGZhdJiGhRD-DT6keDmJTXvrNh2NVpzSMWzPw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "26 Rue Raymond Queneau, Paris"
+      }
+    ],
+    "status": "OK"
   }
 }
