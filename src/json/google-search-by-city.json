@@ -1,20 +1,67 @@
 {
-  "city_name": "algiers-dz",
-  "city_rank": 104,
-  "city_population": 1980242,
+  "city_name": "tashkent-uz",
+  "city_rank": 105,
+  "city_population": 1978078,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "36.7630556",
-      "3.0505556"
+      "41.3166667",
+      "69.25"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1978078,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.31938630000001,
+            "lng": 69.300891
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.3207352802915,
+              "lng": 69.30223998029149
+            },
+            "southwest": {
+              "lat": 41.3180373197085,
+              "lng": 69.29954201970848
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "dda656da9d3abf58b5073c460d038c78fb9a1480",
+        "name": "Ideal Fitness",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111188745302621980785/photos\">Janny Reytar</a>"
+            ],
+            "photo_reference": "CmRaAAAA0KwkRfTP3pjNv1Ngu-VkwckdirZ1kEnoFO6Q8KceO_GcnWWhdrqLgDwTm3TqiSJhotDVnq3DZt6Mj9_aBlGGyi78bKArV37Oif0sn0fIuo1f5VIhj0_SaBCfjWFGZ7C_EhAtpRi2LxE6gWAFfmU8HLpWGhR25dZrCh0eSqAzMYkSM7TcAAhxkw",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJnUY-vtr0rjgRrEkTzzcRUUA",
+        "rating": 5,
+        "reference": "CmRRAAAAWCFyjsgBnOkwbwBLzGV7qRV08hDmmt4wikExC9gGY56Avzf2FR0UR6Tp8D0l_vIVhC_H0yv6sLIgCLWSW5qcBS_NUJ8X_TvutqHJmGDlci_tMQLiPdwRzfIhf_pQCmBSEhCKQUHYvRXSS08ZLzCIudwmGhTXG8juQp6fhx-1R32KrQkHYPgIqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Tashkent"
+      }
+    ],
+    "status": "OK"
   }
 }
