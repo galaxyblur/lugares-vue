@@ -1,67 +1,20 @@
 {
-  "city_name": "khartoum-sd",
-  "city_rank": 106,
-  "city_population": 1974780,
+  "city_name": "accra-gh",
+  "city_rank": 107,
+  "city_population": 1963460,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "15.5880556",
-      "32.5341667"
+      "5.55",
+      "-0.2166667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1974780,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 15.5477421,
-            "lng": 32.5875735
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 15.5490910802915,
-              "lng": 32.5889224802915
-            },
-            "southwest": {
-              "lat": 15.5463931197085,
-              "lng": 32.5862245197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "b3099ede13bac94622ef4ab94ae98dce38f0c9e4",
-        "name": "Muqatel Training Center",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112479732886190525491/photos\">ahmed shnnan</a>"
-            ],
-            "photo_reference": "CmRaAAAA6jRewhxwafM9t6ae0Xz0LKWiUEe6x4GFX7CToUW8BZZlH9pyYascsBARKmK5sSIZYILd3rQAU4pnDozAIIjxRUuVUXw-nw0h6CV6s-3BUxv60bk7pdlooT3aCK-b_CHaEhAwqL7FhFnM2vA1zySjf_HSGhT1Is69F0fZe65znEFd3F8vs5wzjw",
-            "width": 720
-          }
-        ],
-        "place_id": "ChIJeaTo_PmQjhYRw1yUf5x5HYc",
-        "rating": 1,
-        "reference": "CmRSAAAAsRqOtGqFFsdxTRBJ8c23TO51MMXNNMdzZVW4HIT6l4ykywbAFSrRUgx5uZP7g-MRv7Za_a74NFjr-gp_8E_11BG5ThXlOzroEEyXzejLACrC1MtA6QiPmoixFbct5ANMEhBpaX0aWpN1aCFq0jPQagv0GhRSEM92TBGSD4xhQH7ZwVNAfQZmCw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "نادي المقاتل"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
