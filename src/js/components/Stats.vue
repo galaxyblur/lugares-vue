@@ -7,50 +7,53 @@
       </div>
       <div class="uk-modal-body">
         <dl class="uk-description-list">
-          <dt>Last run city in US-only search</dt>
-          <dd>
-            <span v-if="stats.lastUSRun.name">{{ stats.lastUSRun.name }}:{{ stats.lastUSRun.index }}</span>
-            <span v-else>n/a</span>
+          <dt v-if="stats.lastUSRun.name">Last run city in US-only search</dt>
+          <dd v-if="stats.lastUSRun.name">
+            <span>{{ stats.lastUSRun.name }} (rank #{{ stats.lastUSRun.index }})</span>
           </dd>
-          <dt>Last run city in world search</dt>
-          <dd>
-            <span v-if="stats.lastWorldRun.name">{{ stats.lastWorldRun.name }}:{{ stats.lastWorldRun.index }}</span>
-            <span v-else>n/a</span>
+          <dt v-if="stats.lastWorldRun.name">Last run city in world search</dt>
+          <dd v-if="stats.lastWorldRun.name">
+            <span>{{ stats.lastWorldRun.name }} (rank #{{ stats.lastWorldRun.index }})</span>
           </dd>
         </dl>
         <el-table
           v-if="stats.cities"
           :data="stats.cities"
           border
+          :default-sort = "{prop: 'date', order: 'descending'}"
           style="width: 100%"
-          height="250">
+          height="300">
           <el-table-column
+            sortable
+            prop="date"
             label="Date"
             width="100">
             <template scope="scope">
-              <timeago :since="scope.row.date" :auto-update="60"></timeago>
+              <timeago :since="scope.row.date" :auto-update="60" :title="scope.row.dateLocale"></timeago>
             </template>
           </el-table-column>
           <el-table-column
+            sortable
             prop="name"
             label="Name"
             width="120">
+            <template scope="scope">
+              <a :href="'https://www.google.com/search?q=' + scope.row.name" target="_blank">{{ scope.row.name }}</a>
+            </template>
           </el-table-column>
           <el-table-column
+            sortable
             prop="resultsCount"
-            label="Total Groups In Area"
+            label="Groups"
             show-summary
             width="120">
           </el-table-column>
           <el-table-column
-            prop="peoplePerResult"
-            label="Per Capita"
-            width="120">
-          </el-table-column>
-          <el-table-column
-            prop="population"
-            label="Population"
-            width="120">
+            label="Population / Per Capita"
+            width="200">
+            <template scope="scope">
+              {{ scope.row.population }} / {{ scope.row.peoplePerResult }}
+            </template>
           </el-table-column>
         </el-table>
       </div>
@@ -100,13 +103,17 @@ export default {
           const cities = [];
 
           _.forEach(response.data.cities, (c, i) => {
-            const d = new Date();
-            d.setSeconds(c.lastRunDate);
+            const d = new Date(0);
+            d.setUTCSeconds(c.lastRunDate);
 
             cities.push(_.extend({
               name: i,
               date: d.toISOString(),
-            }, c));
+              dateLocale: d.toLocaleString(),
+            }, c, {
+              population: new Intl.NumberFormat().format(c.population),
+              peoplePerResult: new Intl.NumberFormat().format(c.peoplePerResult),
+            }));
           });
 
           response.data.cities = cities;

@@ -6,7 +6,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const OptimizeCSSPlugin = require('optimize-css-assets-webpack-plugin');
-const LodashModuleReplacementPlugin = require('lodash-webpack-plugin');
+//const LodashModuleReplacementPlugin = require('lodash-webpack-plugin');
 
 const webpackConfig = {
   devtool: '#source-map',
@@ -41,7 +41,7 @@ const webpackConfig = {
         dead_code: true,
       },
     }),
-    new LodashModuleReplacementPlugin(),
+    //new LodashModuleReplacementPlugin(),
     // extract css into its own file
     new ExtractTextPlugin({
       filename: './css/[name].[contenthash].css',
