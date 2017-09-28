@@ -1,20 +1,102 @@
 {
-  "city_name": "conakry-gn",
-  "city_rank": 115,
-  "city_population": 1871185,
+  "city_name": "brisbane-au",
+  "city_rank": 116,
+  "city_population": 1843459,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "9.5091667",
-      "-13.7122222"
+      "-27.47101",
+      "153.024292"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 921730,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -27.4829144,
+            "lng": 153.0031131
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -27.4816418197085,
+              "lng": 153.0046181802915
+            },
+            "southwest": {
+              "lat": -27.4843397802915,
+              "lng": 153.0019202197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fe712a0d855920a8c031d76dd6859284c16f9c69",
+        "name": "Xango Capoeira Group Brisbane",
+        "photos": [
+          {
+            "height": 612,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102590057799609294995/photos\">Xango Capoeira Group Brisbane</a>"
+            ],
+            "photo_reference": "CmRaAAAA78QP8QcQmQOZVAPBludLGskvi98vqJjWWn2Qh2IPzGcD4PlK8E3Nd-JKOTu1ZlKTmaUhDBvpIfzZ4L3eG2Z3a4iHqvgE0hwQ7g33eJGYSLKdO-vef4fEHb6MOnsL3zT7EhBF0hYIX9-nakdFDJSv_mSoGhTmCYBrc3OVRXVL22KDjF-dKxpsRA",
+            "width": 612
+          }
+        ],
+        "place_id": "ChIJLaSkiqFQkWsRTFpypMhfO8g",
+        "reference": "CmRSAAAAUkbU35OiUsEkSVNkAG0CkA3K5VhiOZmmmfU8xok3w1xbEHMY7t7faGYvQSaTbbNfIJQdPN6jpvPbZFUYKErkUpeRs0A-4fiNIf8OMc3q_j3FoahW6ATKOivAV_Zw_bfXEhByX-Z_8WTvaQn7-RYUTdNvGhT9NA1mor8MsgGzgcTHmwvzM9vhHw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "349 Montague Road, West End"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -27.5157488,
+            "lng": 153.0142695
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -27.51426096970849,
+              "lng": 153.0156404302915
+            },
+            "southwest": {
+              "lat": -27.5169589302915,
+              "lng": 153.0129424697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1ca9080c6136a555db799961919192e45838ad09",
+        "name": "Capoeira Beribazu Brisbane",
+        "photos": [
+          {
+            "height": 772,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114850941755504472791/photos\">Capoeira Beribazu Brisbane</a>"
+            ],
+            "photo_reference": "CmRaAAAAZV6G-wFPHa8pLHOYuYrrQGYfJ5WStSHvI21f7Kkv2f0jg5f-3v2crsOMIGyXDdpg2HVV7-Q8-SyITgIj1-7dWrI_80ZZDg33QNm_j6DiPZ_BSS72OVEvaLWHJtvo3LEUEhAvYhYCKl6YgsPZCKzxtMRKGhRfpCIFqtwrJkBvuP1HoWT5I0dy0w",
+            "width": 772
+          }
+        ],
+        "place_id": "ChIJyzVkSrlQkWsRl2DRnLbrd7I",
+        "rating": 5,
+        "reference": "CmRSAAAAZsJe_ZpNlBWg0uW4CU-2iDCkZdCCzelTpxHE2UeGo2MGWmKBBTBexTtt2sxfL2u61dQja7Psq5KGUStnX4W785Uawik5XkuBtjWm4b1nduVLIrTk8m51s-9ChhttRWrpEhAHoXQGt-z27yWoO4507_WzGhQs2LK-vnoe_TgF3Up01KnALbAXoQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "58 Kadumba Street, Yeronga"
+      }
+    ],
+    "status": "OK"
   }
 }
