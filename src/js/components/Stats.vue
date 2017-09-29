@@ -27,7 +27,7 @@
             sortable
             prop="date"
             label="Date"
-            width="100">
+            width="130">
             <template scope="scope">
               <timeago :since="scope.row.date" :auto-update="60" :title="scope.row.dateLocale"></timeago>
             </template>
@@ -36,7 +36,7 @@
             sortable
             prop="name"
             label="Name"
-            width="120">
+            width="110">
             <template scope="scope">
               <a :href="'https://www.google.com/search?q=' + scope.row.name" target="_blank">{{ scope.row.name }}</a>
             </template>
@@ -46,14 +46,21 @@
             prop="resultsCount"
             label="Groups"
             show-summary
-            width="120">
+            width="110">
           </el-table-column>
           <el-table-column
-            label="Population / Per Capita"
-            width="200">
-            <template scope="scope">
-              {{ scope.row.population }} / {{ scope.row.peoplePerResult }}
-            </template>
+            sortable
+            prop="population"
+            :formatter="formatPopulation"
+            label="Pop."
+            width="110">
+          </el-table-column>
+          <el-table-column
+            sortable
+            prop="peoplePerResult"
+            :formatter="formatPerCapita"
+            label="Per Capita"
+            width="135">
           </el-table-column>
         </el-table>
       </div>
@@ -110,15 +117,22 @@ export default {
               name: i,
               date: d.toISOString(),
               dateLocale: d.toLocaleString(),
-            }, c, {
-              population: new Intl.NumberFormat().format(c.population),
-              peoplePerResult: new Intl.NumberFormat().format(c.peoplePerResult),
-            }));
+            }, c));
           });
 
           response.data.cities = cities;
           this.stats = response.data;
         });
+    },
+    formatPopulation(row) {
+      const pop = new Intl.NumberFormat().format(row.population);
+
+      return pop;
+    },
+    formatPerCapita(row) {
+      const perCap = new Intl.NumberFormat().format(row.peoplePerResult);
+
+      return perCap;
     },
   },
   mounted() {
