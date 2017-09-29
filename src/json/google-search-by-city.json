@@ -1,239 +1,50 @@
 {
-  "city_name": "warsaw-pl",
-  "city_rank": 129,
-  "city_population": 1651676,
+  "city_name": "qingdao-cn",
+  "city_rank": 130,
+  "city_population": 1642245,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "52.25",
-      "21"
+      "36.098611",
+      "120.371944"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 275279,
-  "possible_duplicates": {
-    "ChIJ0YxsHXDMHkcRGqIcJXDJYlw": [
-      {
-        "place1": "Fundacao Internacional Capoeira Artes das Gerais, Mestre Museu Miła 26, Warszawa",
-        "place2": "Fundacao Internacional Capoeira Artes Das Gerais Miła 26, Warszawa",
-        "score": 0.9074074074074074
-      }
-    ],
-    "ChIJUTBXXoAyGUcR-EbO4is_Z-0": [
-      {
-        "place1": "Fundacao Internacional Capoeira Artes Das Gerais Miła 26, Warszawa",
-        "place2": "Fundacao Internacional Capoeira Artes das Gerais, Mestre Museu Miła 26, Warszawa",
-        "score": 0.9074074074074074
-      }
-    ]
-  },
+  "people_per_result": 1642245,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 52.2484198,
-            "lng": 20.9802321
+            "lat": 36.062647,
+            "lng": 120.3973733
           },
           "viewport": {
             "northeast": {
-              "lat": 52.24943303029151,
-              "lng": 20.9819487802915
+              "lat": 36.0636449302915,
+              "lng": 120.3981622802915
             },
             "southwest": {
-              "lat": 52.24673506970851,
-              "lng": 20.97925081970849
+              "lat": 36.0609469697085,
+              "lng": 120.3954643197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2c234ed68e783e0591a1d2cba185b9be90606c2c",
-        "name": "Fundacao Internacional Capoeira Artes das Gerais, Mestre Museu",
-        "place_id": "ChIJ0YxsHXDMHkcRGqIcJXDJYlw",
-        "rating": 5,
-        "reference": "CmRRAAAAWcFvl5ifcYOhtjs3SCiM-saelOnwbX5lvj6PJ8lhBhfk5279iJ2c7BzIemf45VzFCTtRaUYXluGV0oTRlcIZ1elinJGvG9dfPLJVQ_xMIeuoh2AfrHrK3qLESRa6iC7BEhCWXI3VuGHCsjRwmCi2acU-GhSVFY9lKSFD7Z0MVy3tFud9pNPvWw",
+        "id": "a8a1dfbc7a621beb6b9fa96d96c2329a8e400fb0",
+        "name": "Tinghai Yoga",
+        "place_id": "ChIJXRiAHfEQljURyzs-LhcgCew",
+        "reference": "CmRSAAAAtnxObAbcAnJgdUz4RRAYgD2VvvtPhIxqJD2iNKZZgSk3G3ElNgK6QRqdwan2Alelaj_XH0QH8MN88XU0sfHmPgTUk-QT76mN5ixXloU7ZfS-SBnshigzan7-Rou9opn2EhAZzfiMkSF-02QQifIgvvYLGhT9NMaPp1BKjOhuQ_03pWcJFwdN0g",
         "scope": "GOOGLE",
         "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Miła 26, Warszawa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.2482489,
-            "lng": 20.980248
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.2493420302915,
-              "lng": 20.9819461302915
-            },
-            "southwest": {
-              "lat": 52.2466440697085,
-              "lng": 20.9792481697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dff6425aa9c6b4480ae6704bf15de1206f450c0a",
-        "name": "Fundacao Internacional Capoeira Artes Das Gerais",
-        "place_id": "ChIJUTBXXoAyGUcR-EbO4is_Z-0",
-        "rating": 5,
-        "reference": "CmRSAAAA5uKDr_tSS5ltjhUHMO-MyKHJtdwygO7bPdTqkNUiqas2VvbOfn9POjdWqh3Bix5W3RSR-Ry2aFBjieiisYHsV-hTsUFuvOB9rOy5MfSgmK79kGKoT-mql4tXh33Yzs17EhC3rCMsZvuml2HHkZwNkb32GhSrtGPZsqnEiHO9Ku53V3q_C467jA",
-        "scope": "GOOGLE",
-        "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Miła 26, Warszawa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.2499535,
-            "lng": 21.0365546
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.2514016802915,
-              "lng": 21.0381205302915
-            },
-            "southwest": {
-              "lat": 52.2487037197085,
-              "lng": 21.0354225697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bb96d145e365bb0ffad8123efea72afbc876bd70",
-        "name": "Capoeira Esporão",
-        "place_id": "ChIJK2VEh0bMHkcRLdrmgyI7w2E",
-        "reference": "CmRRAAAA1xFnMkoKT_gXYQvk_Drk7n_JCOGgud23I_YSavRar28moPR6CBqKci-omNxiz8mIrTgzbGDkE0SEjWKxKq1MY8o396MJ5Qafe0PHZWh7R5IDuQG0OqTG4r7togYLR6BUEhBPI4XRBJFVN5psQva-936-GhSWY9mojrfPO4EYRe4cZF_UBEMBug",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Jagiellońska 7, Warszawa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.2251011,
-            "lng": 20.976228
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.2264500802915,
-              "lng": 20.9775769802915
-            },
-            "southwest": {
-              "lat": 52.2237521197085,
-              "lng": 20.9748790197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0a9e1a7bc38fd2d20924facdbc15eb5f4284b454",
-        "name": "Capoeira Beribazu Warszawa Monitor Bujão",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJLwZe2J7MHkcRzb9xb5tjVLI",
-        "rating": 5,
-        "reference": "CmRSAAAATaiPKTHg3lyxj4XZ6yWiv4spFQ3votK_5PUoTGTEGHBOoPTqU3UpgnTjg_RXKLzsvpSgftPWWb_y0vwd--tjopRIruapPPq9rXtxuxdb8ib1CW26W7oYHS1jWfjaT6-wEhCrgcCOQCAiAQAf7jtA9TgaGhQOTK46PI3Ckt0bfx5fyEL982UdlQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Zwrotnicza 6, Warszawa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.275388,
-            "lng": 20.9582112
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.27670313029149,
-              "lng": 20.9598565802915
-            },
-            "southwest": {
-              "lat": 52.2740051697085,
-              "lng": 20.9571586197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5375a80f7b8eefd78d3dd4c46c15f8fbc78c34cf",
-        "name": "Capoeira CPPA",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ6wSo4cXLHkcRkwMjXzY7rGU",
-        "rating": 5,
-        "reference": "CmRRAAAA4yH97-U3h894tBR41fnERhc9NmoibJeCu0x3w-JwkA0y96ewSqbMI3712HrqRCqaRd4wznIvMkZoj0xVZ0ib0PSpPwOez8FBB_xCLm6V1uZsn7E6p1NtZewd4JZDruxlEhAqcwVWmLCZ6qciWfvP-RReGhTXwfuQR8LYIv1qFJCOBIsV8TWGGA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Duracza 23, Warszawa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.2264889,
-            "lng": 21.0868814
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.22870274999999,
-              "lng": 21.0884173802915
-            },
-            "southwest": {
-              "lat": 52.22575095000001,
-              "lng": 21.0857194197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1821c1220c347eb199ace92831fd613f83f8a6ee",
-        "name": "Capoeira Liberdade - Polska",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 993,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112765197351134663098/photos\">Ricardo Marques</a>"
-            ],
-            "photo_reference": "CmRaAAAAyT-5NaseLZ0NtqVZHOz3kWgj2HoJzCY_9_2uIu5CQTBGfIVmH--uGSAwnIR7g8XPYGIJnL-UdclO-s3qngLbhmpLZ32_X6gQQYcu3obQAnOD7pwDXix7wP0TFyXYfBIgEhBHPHAcUwuEVz8kNFQa2HHAGhS05QZogX35_KN5mNuHdYtEIQWnYw",
-            "width": 993
-          }
-        ],
-        "place_id": "ChIJWxBvUpzNHkcR--RFcxV4hAM",
-        "reference": "CmRRAAAAoq29xVtq_ozbPiD3oVSFqPDS5qCYnoXvcktIh1YJLqjZGoMm3x7M7XixvETFuOui6JP5-CJyON8KfyfN_PpV_udWQ0tzwkKCzibNEUggBmPlj6sbFkaWKZi8e5EY7TZaEhCOdNhk72Db07_jbf_uiEQnGhRO6yssWfci3xk0uwBpRdneoglRCA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "gen. Romana Abrahama 10, Warszawa"
+        "vicinity": "51 Donghai West Road, Shinan, Qingdao"
       }
     ],
     "status": "OK"
