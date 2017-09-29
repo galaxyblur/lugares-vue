@@ -1,20 +1,20 @@
 <template>
   <section class="uk-section">
     <div class="uk-container uk-container-expand">
-      <el-row type="flex" justify="space-between">
-        <el-col :span="8">
+      <div uk-grid class="uk-child-width-1-1@s uk-child-width-1-2@m uk-child-width-1-3@l">
+        <div>
           <h3>Search Results</h3>
-        </el-col>
-        <el-col :span="8">
+        </div>
+        <div>
           <el-input
             placeholder='Filter results (try "New York" or "Luanda")'
             icon="search"
             @change="handleSearchChange"
             v-model="searchTextInput">
           </el-input>
-        </el-col>
-        <el-col :span="8">
-          <div style="float:right">
+        </div>
+        <div>
+          <div class="uk-align-right@l">
             <el-pagination
               @current-change="handleCurrentPageChange"
               layout="total, prev, pager, next"
@@ -23,25 +23,25 @@
               :total="groupsInCurrentSearch.length">
             </el-pagination>
           </div>
-        </el-col>
-      </el-row>
+        </div>
+      </div>
       <el-table :data="groupsInCurrentPage" stripe>
         <el-table-column type="expand">
           <template scope="scope">
             <el-row>
               <el-col :span="6">
-                <div v-if="typeof scope.row.location_coords.lat === 'number' && typeof scope.row.location_coords.lng === 'number'">
-                  <div><span class="uk-text-muted">Map</span></div>
-                  <div><img :src="'https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w&size=200x200&zoom=11&markers=' + scope.row.location_text"></div>
-                </div>
-                <span v-else>Not enough information to display map.</span>
-              </el-col>
-              <el-col :span="6">
-                <div v-if="scope.row.schedule_text">
+                <div v-if="scope.row.schedule_text" class="uk-padding-small">
                   <div><span class="uk-text-muted">Schedule</span></div>
                   <pre class="group-schedule">{{ scope.row.schedule_text }}</pre>
                 </div>
                 <span v-else>n/a</span>
+              </el-col>
+              <el-col :span="6">
+                <div v-if="typeof scope.row.location_coords.lat === 'number' && typeof scope.row.location_coords.lng === 'number'" class="uk-padding-small">
+                  <div><span class="uk-text-muted">Map</span></div>
+                  <div><img :src="'https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w&size=200x200&zoom=11&markers=' + scope.row.location_text"></div>
+                </div>
+                <span v-else>Not enough information to display map.</span>
               </el-col>
             </el-row>
           </template>
@@ -61,9 +61,9 @@
               <li><b>Address:</b> {{ scope.row.location_text }}</li>
               <li v-if="scope.row.location_locality">
                 <b>Tags:</b>
-                <el-tag type="gray">{{ scope.row.location_locality }}</el-tag>
-                <el-tag type="gray">{{ scope.row.location_administrative_area_level_1 }}</el-tag>
-                <el-tag type="gray">{{ scope.row.location_country }}</el-tag>
+                <el-tag v-if="scope.row.location_locality" type="gray">{{ scope.row.location_locality }}</el-tag>
+                <el-tag v-if="scope.row.location_administrative_area_level_1" type="gray">{{ scope.row.location_administrative_area_level_1 }}</el-tag>
+                <el-tag v-if="scope.row.location_country" type="gray">{{ scope.row.location_country }}</el-tag>
                 <el-tag v-if="scope.row.permanently_closed" type="danger">Closed?</el-tag>
               </li>
             </ul>
