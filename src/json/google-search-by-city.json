@@ -1,16 +1,16 @@
 {
-  "city_name": "qingdao-cn",
-  "city_rank": 130,
-  "city_population": 1642245,
+  "city_name": "guadalajara-mx",
+  "city_rank": 131,
+  "city_population": 1640649,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "36.098611",
-      "120.371944"
+      "20.666667",
+      "-103.333333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1642245,
+  "people_per_result": 820325,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,25 +18,30 @@
       {
         "geometry": {
           "location": {
-            "lat": 36.062647,
-            "lng": 120.3973733
+            "lat": 20.6859023,
+            "lng": -103.3092992
           },
           "viewport": {
             "northeast": {
-              "lat": 36.0636449302915,
-              "lng": 120.3981622802915
+              "lat": 20.6872323302915,
+              "lng": -103.3078874197085
             },
             "southwest": {
-              "lat": 36.0609469697085,
-              "lng": 120.3954643197085
+              "lat": 20.6845343697085,
+              "lng": -103.3105853802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a8a1dfbc7a621beb6b9fa96d96c2329a8e400fb0",
-        "name": "Tinghai Yoga",
-        "place_id": "ChIJXRiAHfEQljURyzs-LhcgCew",
-        "reference": "CmRSAAAAtnxObAbcAnJgdUz4RRAYgD2VvvtPhIxqJD2iNKZZgSk3G3ElNgK6QRqdwan2Alelaj_XH0QH8MN88XU0sfHmPgTUk-QT76mN5ixXloU7ZfS-SBnshigzan7-Rou9opn2EhAZzfiMkSF-02QQifIgvvYLGhT9NMaPp1BKjOhuQ_03pWcJFwdN0g",
+        "id": "82513122a2a0eb048b7bff73d8b642323d9b01ad",
+        "name": "Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ859ZgXaxKIQRQ72-NfWCohI",
+        "rating": 4.7,
+        "reference": "CmRRAAAAG_mwXT1AFvrJdSopYj3mObpjnO8h5R8J6shJoO-IwmRHLX-lLHDMjOq30yR6Hs-Nspc5SusZ850DzhZoXrQb3vZqoAK5GdaMkb5G6yiePeK6nQEeJuqOvz7URgq67ovGEhAmfsOnu3WiCnNTV2USvB1DGhSAqyMzEz0R7nXnqExB1UTOJTwsZA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -44,7 +49,52 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "51 Donghai West Road, Shinan, Qingdao"
+        "vicinity": "Calle Juan de Dios Robledo 909, Talpita, Guadalajara"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 20.6663744,
+            "lng": -103.3834523
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 20.6678065302915,
+              "lng": -103.3821039697085
+            },
+            "southwest": {
+              "lat": 20.6651085697085,
+              "lng": -103.3848019302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a5dfd70d27a07150731c4621ab54eadb0ca58dfe",
+        "name": "Clases de Capoeira en Guadalajara grupo Cordao De Ouro",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 401,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101441412820566431455/photos\">Clases de Capoeira en Guadalajara grupo Cordao De Ouro</a>"
+            ],
+            "photo_reference": "CmRaAAAAlzRPI9vTq-DhbyT0Yw8rTfR0S6HISwI4PN_YRHh5DIAsLtYtx4CdQRLI6LBtE2g5ZqBfNCYXU2tb0-_ZFg0GFiL6aDj8MtepK79Vf1m95DMJv3X4oLlYHOj1QtGNbouyEhC9HS-CE6QRcHdnj0fgL4j3GhRHDGcP7Ub4rNCLdBBHl_HGELa_Ow",
+            "width": 400
+          }
+        ],
+        "place_id": "ChIJBfUITyasKIQRFM1v08atDyE",
+        "rating": 5,
+        "reference": "CmRRAAAAJFmzK-m28ElNXW7LAct2hgLte7pIkKl-Pe5GsXtDd9qYdaVNDIEENhOHOeruif1XCCf6iNOLQ93TSpVyuyvIarT2L9PMdmSliMEjlYGmP7bYby2eKKyScbXtAu9mVDS0EhC9CGmiEWjAQWJOxGGgxYSwGhQ9KhdCwy0_r4o2Ls2syRYL37UUeQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida Niños Héroes 2641, Fraccionamiento Jardines del Bosque, Guadalajara"
       }
     ],
     "status": "OK"
