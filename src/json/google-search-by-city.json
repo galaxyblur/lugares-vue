@@ -1,20 +1,99 @@
 {
-  "city_name": "damascus-sy",
-  "city_rank": 138,
-  "city_population": 1576843,
+  "city_name": "phnum-penh-kh",
+  "city_rank": 139,
+  "city_population": 1573523,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "33.5",
-      "36.3"
+      "11.55",
+      "104.9166667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 786762,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 11.5523047,
+            "lng": 104.922215
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 11.5537012802915,
+              "lng": 104.9235566302915
+            },
+            "southwest": {
+              "lat": 11.5510033197085,
+              "lng": 104.9208586697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7bd497b05ba70b71c3a8e7cee44a47462eb3f781",
+        "name": "Nataraj Yoga Studio",
+        "place_id": "ChIJUeRD6SRRCTERMu-lTGvH5-E",
+        "rating": 4.2,
+        "reference": "CmRSAAAAJGzcAoUkpKuPejECi5qdDc-bWmjO8i8ea-WVTEugUi2FPhzcRiXv58CmxNvywC3BZHENeMwqAKHhWLuKtvNXWOOOxrTJgT0fo_l2rcFrvBJL508imKKemSR6upkaVWipEhCe_lHZW8-mzgNhD4llgmP_GhRHuzlT1AlamhQcfzRALAPK_ykfjw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "52 Saint 302, Phnom Penh"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 11.549751,
+            "lng": 104.935955
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 11.5510999802915,
+              "lng": 104.9373039802915
+            },
+            "southwest": {
+              "lat": 11.5484020197085,
+              "lng": 104.9346060197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8df2f2ae75db51bf7d95f83ef66699f3c0bf2fae",
+        "name": "Prokout Fitness & Fight Center",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101152898083653529787/photos\">Philippe Ardes</a>"
+            ],
+            "photo_reference": "CmRaAAAAPrAPYTrwcsuWJIKokvT9grkT6GdHyq3Im5DeIMGPKWi8KnFA-wKamtkMEMLwgIH8MZr_MBikZpReqaOboonOfok3XgS53rCKkAcPkhoKiVhQ6b87dow0W7Kkgjz5hPbHEhDyF91ukbzyt-1t9MFKRMQ4GhS0QO0_8UK6pV3jT0DfA1LiPWsDUQ",
+            "width": 1944
+          }
+        ],
+        "place_id": "ChIJjwdfXyxRCTER7cxsQg0tsg8",
+        "rating": 4.8,
+        "reference": "CmRRAAAAw_KO6oe6SNQTWKYSZtrikte8Rbgtn7rBcwZ1aKRJmc-RwzemZwBuD22Zgl87fOC35tczyEasrpX1dzpcJjXKoUl1UMfP-so1yxL9Pb8yPloCkYUDTNS8E0Z73zdLQZASEhA6M3ZaO9RpqAr8j-0eJ2AMGhQo9oKXgLULCe9TCFlnREKOT5MBGQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "#2, National Assembly Boulevard, Sangkat Tonle Basak, Khan Chamkarmon, Phnom Penh"
+      }
+    ],
+    "status": "OK"
   }
 }
