@@ -1,16 +1,16 @@
 {
-  "city_name": "kuala-lumpur-my",
-  "city_rank": 152,
-  "city_population": 1453978,
+  "city_name": "philadelphia-us",
+  "city_rank": 153,
+  "city_population": 1453268,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "3.166667",
-      "101.7"
+      "39.9522222",
+      "-75.1641667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 290796,
+  "people_per_result": 726634,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,181 +18,88 @@
       {
         "geometry": {
           "location": {
-            "lat": 3.1473999,
-            "lng": 101.7361285
+            "lat": 39.9559353,
+            "lng": -75.1595418
           },
           "viewport": {
             "northeast": {
-              "lat": 3.148745980291502,
-              "lng": 101.7374999302915
+              "lat": 39.95723828029151,
+              "lng": -75.15820246970848
             },
             "southwest": {
-              "lat": 3.146048019708498,
-              "lng": 101.7348019697085
+              "lat": 39.95454031970851,
+              "lng": -75.16090043029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "826a90714b4f2f28cc6695eea3fb6bb7ba9afbae",
+        "name": "Project Capoeira/ ASCAB",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109505459312584145533/photos\">Project Capoeira/ ASCAB</a>"
+            ],
+            "photo_reference": "CmRaAAAA8Q2yt5YVW-dbM3xAwqYgk8d5UL0gRoEMTkomLwx7HHptVFIf79OP3gRqCLOh8yoca2svGk7vDvwZy7ThURPPrjYb58Y-mwlJ1PqYtKig2FPw7f3lyn3Mc6NxgIxaIDqcEhDf8ubGJNciL-w2tD7pdaHdGhQxTQ5LDuAZfRluqiuSQh-pRTwBww",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJXc3gnCvGxokRYVY7P40AgSs",
+        "rating": 5,
+        "reference": "CmRRAAAAlQpd6sJKFw8C4G5sYKkkiu7mx_s8jZTgVX6fidX0lKOFxIhuL_OQemTSag-oGwkrmouehaIQ--OsQSLTpVxKW70foDns6IRcPNJJDxVcjDKWzGP3C-KM2zyTAiX0zsSbEhAsy8WgQGW0NEQLh-G1wUtRGhR2hyohZzG3DhfzvZPGhAYvVHuogQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1213 Race Street, Philadelphia"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.9359998,
+            "lng": -75.1675589
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.9373298802915,
+              "lng": -75.1660471197085
+            },
+            "southwest": {
+              "lat": 39.93463191970851,
+              "lng": -75.1687450802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "516a1148c5c02d0b54e350c9aeec5ea821df235d",
-        "name": "CAFOBO: Capoeira Angola Foundation",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ8T8WbUw2zDERwNAvJcF_3-c",
-        "reference": "CmRSAAAAiiWO7_KO4PIXwIHEYwsRwpCZGUGT5ITu9AlGC4zTxcqqLhdpuX9E76UZqyNHZW4XMq8R61B8lrNXfeQ9aZE-PU3qerDg0Q93ghaqFbAjoSgv3WN_PgRbqp9UNQYFKynmEhDlZfQMjWrB885Ji57JBs21GhQnT_ArVa7cL8tTihQ7K-VgBlyZTA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5, Jalan 2/76c, Desa Pandan, Kuala Lumpur"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 3.1641621,
-            "lng": 101.6558728
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.165508980291502,
-              "lng": 101.6572234302915
-            },
-            "southwest": {
-              "lat": 3.162811019708498,
-              "lng": 101.6545254697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8e14140138aec0a52f3f1403af1ace1209025141",
-        "name": "Casa Do Capoeira",
-        "place_id": "ChIJEcUUKvdIzDER--uDCi5I07M",
-        "reference": "CmRSAAAAJEbVpESw53FMiXOHLwJgpRHN8cBslJ0jBbfhVujHEEGafgaHDOtTMBm5VDtYjzcCIYNoYBOWPaGF3MHZyqgy-_9nxcri9TCQV6rfU_hE3YnoWPM8LHjmyqsGBM-i_AY2EhDVqzWvBqJcuj0S1fzl9cXNGhQrDGr0ulfisxLCzJYpESyEwL7Ldw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "B-3-2, Block B, Plaza Damas, Jalan Sri Hartamas 1, Taman Sri Hartamas, Kuala Lumpur"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 3.116621,
-            "lng": 101.669008
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.117969980291502,
-              "lng": 101.6703569802915
-            },
-            "southwest": {
-              "lat": 3.115272019708498,
-              "lng": 101.6676590197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5edf716f97503fabe983fbdb2b451a41985545d0",
-        "name": "Au Capoeira Malaysia",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
+        "id": "2ea0b326b9dc61560f06a811f41f07a29fdcac67",
+        "name": "Vai Capoeira",
         "photos": [
           {
-            "height": 303,
+            "height": 397,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110416952560418663204/photos\">Au Capoeira Malaysia</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/104592184097279412634/photos\">Vai Capoeira</a>"
             ],
-            "photo_reference": "CmRaAAAAp7Ho1cFVga9n6qxIcvj-nk-J19Sk2Wmiv8jVh-xfNV4lmGX8v3xa9esGwve4og3hxt4WBKjNUe7hGMCCtZDNlcDhuliqZu42-uFTJCF5OxpvpdAzSiHxpV11XQc4dLKzEhD6acLGY1_nU9JPk5_OVZIlGhRCHDwdHpU3c-ubi4icfFRulLeHhg",
-            "width": 298
+            "photo_reference": "CmRaAAAA_Jx-7Tjda0iUp13n_jkgzuAqoj-o_FshZdDXgzBbi_XLBiWZvvueU1U5S6jp2S5PV3jj1zWaLkYi2lwuTMYcs_Z4uigTXfZ4n-aJmfo1-L_riVpCzfEjo3sc2CLjRFbiEhBmzlPDJ2SdU0vkP9cXDR-RGhS21AZocS42W86pccNJYzzlVnh0mA",
+            "width": 600
           }
         ],
-        "place_id": "ChIJ6exBkIZJzDERFFlrxUAveZA",
-        "reference": "CmRSAAAAq3CTaGEzIZ0SH7_oT39EF9gWCU8gj9fgNojzM8v76HNoOVKDF2e_FPggmK1umQc_0czKNVB4oSrpgEHDDdlbnC5JVP7STkrHnEGjm-tq7NIkY2W2E_SUHu29uPLAte-NEhArPdwbOGP11R2lGrAS23vMGhSLYyF69CNnmajKbU7z-5ZGcc1aeQ",
+        "place_id": "ChIJYQ32QRfGxokRnvBIXOAn4Y0",
+        "rating": 5,
+        "reference": "CmRSAAAAFv6fFGVzO8akzVNAQj8M9mg5e-C45hhN3UK8PWA_glcVwOCvL3zOKrEBEIdA5DxpH9qFer1VbT6BDcONujhiIdN9-iAPycvLzF9Aw14v2T4WZ5_05PIbuSSDT5w83FlMEhAs2-2IEHw6lqN9167wTNH1GhTuKmCMXz2LuqOLAaCEhsxwSDDbLQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Pantai Baru Highway"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 3.111322,
-            "lng": 101.633972
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.112670980291501,
-              "lng": 101.6353209802915
-            },
-            "southwest": {
-              "lat": 3.109973019708498,
-              "lng": 101.6326230197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b23b3d8cc4faf9ca925d596a108103e7c02f764c",
-        "name": "Grupo Capoeira Cordão de Ouro Malaysia",
-        "photos": [
-          {
-            "height": 384,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111941156838760086316/photos\">Grupo Capoeira Cordão de Ouro Malaysia</a>"
-            ],
-            "photo_reference": "CmRaAAAA9TV8FMg4m51L3I5wa9Vv59px3nMCYQkPngC0bokT5ZR2jPxYJitm8sCR05L3KQdb2VpXKwumjcf-0o2cHBAgkX19BSpFf5PlVtEWlQkTKJyRzVPi7pTHaskz5ejSF-iCEhDvRNjCXdI98MwLcpkWy7I4GhTky3U8qItzTzUtkOPe_o7xEH_IEA",
-            "width": 512
-          }
-        ],
-        "place_id": "ChIJJQpdmOFLzDERNc_aA652ylU",
-        "rating": 3.5,
-        "reference": "CmRRAAAA8VUCRmXwLXL6mllPGn7C2V_KS8VlDSnybFt5RCQmNAVJnA2YA1cfSMkIYIyBTOzYyGPb5MZC7oHqaq7slMUuuN6ZIh3ZCyz-DSHeuRLY6MG3ntOOR4Jjsn9tDOTSw7_KEhBT7Q6TKhJCmN4euHnv7yMLGhSyPOAXt7lgxC7DhgFX3TZMAPCvWg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "19-3 Right Angle,Jalan 14/22, Petaling Jaya"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 3.078188,
-            "lng": 101.744372
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.079536980291502,
-              "lng": 101.7457209802915
-            },
-            "southwest": {
-              "lat": 3.076839019708498,
-              "lng": 101.7430230197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4d0c447bf116e048e0fca8d84be7b01e1f4cb41b",
-        "name": "Bantus Capoeira Malaysia",
-        "place_id": "ChIJJ7pY3K41zDER-3MjDbFSnhI",
-        "reference": "CmRRAAAAYuXByNBAS2IxEhIaVsfPpCLU0P99A9iNxCKBthi6ThDvLqBnINUU8QAANefrcoiQB6n8AftBkMSr_JaqVMEZGD7D8AgH5h9vkxA0fYz1JWxHna_DXSaHB1L-oU5sSF34EhD9ck0pNHFrN9RlRdUPm8hsGhT1dXT5mq2zMwKCFsB11Q3eILBl0w",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "No.23-C, Jalan SS22/23 Damansara Jaya, Selangor, Petaling Jaya"
+        "vicinity": "1170 South Broad Street, Philadelphia"
       }
     ],
     "status": "OK"
