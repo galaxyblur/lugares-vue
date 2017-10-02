@@ -24,6 +24,7 @@
         </div>
       </nav>
     </header>
+    <warning></warning>
     <data-table></data-table>
     <about></about>
     <stats></stats>
@@ -46,6 +47,8 @@ import About from '../components/About';
 
 import Stats from '../components/Stats';
 
+import Warning from '../components/Warning';
+
 UIkit.use(Icons);
 
 export default {
@@ -58,6 +61,7 @@ export default {
     'data-table': DataTable,
     about: About,
     stats: Stats,
+    warning: Warning,
   },
 };
 </script>

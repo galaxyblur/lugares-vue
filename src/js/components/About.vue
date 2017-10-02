@@ -11,12 +11,14 @@
           and groups all over the world. The data is collected city-by-city and is updated periodically.
         </p>
         <p>
-          One purpose of this tool is to show the strength of a capoeira group's online presence & searchability --
+          One purpose of this tool is to show the strength of a capoeira group's online presence &amp; searchability --
           this is reflected by the <b>score</b>.
         </p>
         <p>
           The data is currently collected from the
-          <a href="https://developers.google.com/places/">Google Places API.</a>
+          <a href="https://developers.google.com/places/">Google Places API.</a> That means that the data reflects
+          Google search results for the keyword "capoeira" and does not mean that each place actually practices
+          capoeira.
         </p>
         <p>
           Lugares was created and is maintained by <a href="https://www.capoeiraonline.net">Capoeira Online</a>.
