@@ -1,20 +1,61 @@
 {
-  "city_name": "esfahan-ir",
-  "city_rank": 142,
-  "city_population": 1547241,
+  "city_name": "ludhiana-in",
+  "city_rank": 143,
+  "city_population": 1545476,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "32.657218",
-      "51.677608"
+      "30.9",
+      "75.85"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1545476,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.8924088,
+            "lng": 75.8223678
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.8937577802915,
+              "lng": 75.8237167802915
+            },
+            "southwest": {
+              "lat": 30.8910598197085,
+              "lng": 75.82101881970848
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc9cf8174c2b27ed94a0b83b206b0c1019bbf641",
+        "name": "Studio the X Factor",
+        "photos": [
+          {
+            "height": 680,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100987197468334857620/photos\">Studio the X Factor</a>"
+            ],
+            "photo_reference": "CmRaAAAAEHDYREKcw0vy9zrgf9OK5javUfW2ekh7vqbAswYJD16JpSB0DAQitPADoAEAm8W87y6YJoqbcWS6ITUP1jiqGzbBrwL2-6C6QjVnTZ6c3tjmRD9Pmu_dFjJqr8RbulxzEhAw72JZq6RCtD36PohN5rT2GhQ7NQGzG75Y146QC270v-6CLCtz8Q",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJbc_BJMyDGjkRsM_nfYudMDo",
+        "rating": 3,
+        "reference": "CmRRAAAA_U5RqkPPcGjSPt77xKqMYfn2pxFk7Xo83XOhdQscBXyz2aVNpVZ_Mq74rDSIA0ulKOCJb_iZowoL0ZQUSUdJEdK-1PoQ4ftfNUgwdXuDieN0gx9k9mPVz4ciKyGRgmSAEhAtFhb5_Py3TQG25M7hAIZiGhScI6ry9mpYjy-ZB5LGlM5fBmw8zA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "65, Malhar Road, Sarabha Nagar, Ludhiana"
+      }
+    ],
+    "status": "OK"
   }
 }
