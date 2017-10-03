@@ -1,20 +1,112 @@
 {
-  "city_name": "fushun-cn",
-  "city_rank": 169,
-  "city_population": 1400646,
+  "city_name": "quito-ec",
+  "city_rank": 170,
+  "city_population": 1399814,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "41.7",
-      "123.883333"
+      "-0.2166667",
+      "-78.5"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 699907,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -0.186069,
+            "lng": -78.483231
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -0.184720019708498,
+              "lng": -78.48188201970851
+            },
+            "southwest": {
+              "lat": -0.187417980291502,
+              "lng": -78.48457998029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f009562d1dbb52e53e5362dab1fd8754a30246d0",
+        "name": "Capoeira Nago Quito",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104791675765388507807/photos\">Ratata ooway</a>"
+            ],
+            "photo_reference": "CmRaAAAAmONehzrEqyqQ9pQcVxQM9rSVWVKA3KV5pU6oMjZySuJRk2zUPY03Z2qz_hiprtj8_vNK4RWu0z7iUI9ahw0nIVdp8m7QxmM7h6Ujea_NZkRu9BgutBe_DSIYFsLF8GVXEhDNrDIh-Zb9o-jJfi9k4P4PGhQuxqSETm2oOvfbFkxjceALYmCVDw",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJp40KDG2a1ZER72TkAJLL890",
+        "rating": 5,
+        "reference": "CmRSAAAAWArGpqBFAgMjjznmYrGQBsLpdPx04Uf7WXqx6uDbsR2OFgBOHP1cQytr0cXhm-yOgboExrmu0j_WN970Sp7kQnVPfvDJPTZ4EXf_ABa4WHDFFmmes0ETmu8Fz-jbs78JEhDJ1Tp3lhL0zO7x5lYJ2FfZGhTr6ztUsD3YDqhCV6kbHTg2D7vREA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Mundo Juvenil, Pasaje Rumipamba y Av. de los Shyris, Quito"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -0.1629567,
+            "lng": -78.4771167
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -0.161679419708498,
+              "lng": -78.47577976970848
+            },
+            "southwest": {
+              "lat": -0.164377380291502,
+              "lng": -78.4784777302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5f8b6792973777ba344830cbc04119ff2326e2a5",
+        "name": "GRUPO DE CAPOEIRA RUMIZUMBI",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108465760553414754601/photos\">JuanG Aragón</a>"
+            ],
+            "photo_reference": "CmRaAAAA74FdMZnQV3jq1t6IM_Q6sRwXluZRDQYRopgYNtLne-PjoZQdxtQaLqEkf09V1UO1D3vxUr_uhdAXfwD022GtyOI5PtSxpPNQjVirfUPdRw7t6yXfi2BXXDNWvtQvM42LEhBJpXG9aePnQF5vJntO3q7bGhTN-osd9TFDxkJooehjYt5YvuhEmw",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJgyWpW6Ca1ZER2MWbvKTEVEE",
+        "rating": 5,
+        "reference": "CmRRAAAAQRIp6s2RW2xMJVqELPVBm4IWe4ItuhwwYYQBpnWsmCdwgKtkYtHSri8H5BxuSQg_aqafQhYXE3AyzMd5k08EGoiW-TphrwLBo2ZfsPoSz0l1-jj-k4qotC6NOmyOV01hEhC4B1ODe-JYfl-hh7khEpPdGhRMxwKGLwxU8rLVoCo7jYGXrwyoNw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Río Coca E5 255, Quito"
+      }
+    ],
+    "status": "OK"
   }
 }
