@@ -1,20 +1,67 @@
 {
-  "city_name": "hyderabad-pk",
-  "city_rank": 175,
-  "city_population": 1386840,
+  "city_name": "valencia-ve",
+  "city_rank": 176,
+  "city_population": 1385202,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "25.39242",
-      "68.373656"
+      "10.1805556",
+      "-68.0038889"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1385202,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 10.1956998,
+            "lng": -68.00585149999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 10.1970612302915,
+              "lng": -68.0044173197085
+            },
+            "southwest": {
+              "lat": 10.1943632697085,
+              "lng": -68.0071152802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "758621c5f86301c0862039d1ac1b64b231a7fa68",
+        "name": "FUNDACION GIMNASIO PANAMERICANO",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102038368038157325195/photos\">jhann rodriguez</a>"
+            ],
+            "photo_reference": "CmRaAAAANKM1gi44Lh3xnoiA5KoZeO3EogA-5CVanjRfYNMLFeS02TjBrIPQxUk9dn0F9EOtvo9BJm2kRuwoiloUVgMfVmAwz7qqSsYwljbAf28BO22ladlZY8BRArHV46uJigHLEhA6XeXAcI4QOsUoRdS3Q2VBGhSpK2nR5KcBLqbVrNTfzocwjxu25A",
+            "width": 499
+          }
+        ],
+        "place_id": "ChIJ0TvXgn5ngI4RJKYt0hhALQE",
+        "rating": 5,
+        "reference": "CmRRAAAAL8dgI3qQQIPXPPcI_m2Mx7PkB9t6I0kKoRlS4YsNPl-L8fmB3KK8LGQNtusLRjAqQCaBFbb51HZAuN77eJWbgf_5mbqLsQzzRVoTgnXdATkgrlrZDv85-2i5ZfRgVVd3EhCxm6SYYQWzXDxrcKcYWJBiGhQ1-rjbT3xfp0DbiqteTET5lLEScQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "113-117 Avenida Bolivar Norte, Valencia"
+      }
+    ],
+    "status": "OK"
   }
 }
