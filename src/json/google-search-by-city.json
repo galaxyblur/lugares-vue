@@ -1,20 +1,55 @@
 {
-  "city_name": "suzhou-cn",
-  "city_rank": 185,
-  "city_population": 1343091,
+  "city_name": "khulna-bd",
+  "city_rank": 186,
+  "city_population": 1342429,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.311389",
-      "120.618056"
+      "22.8",
+      "89.55"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1342429,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 22.8170068,
+            "lng": 89.56131719999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.8183557802915,
+              "lng": 89.5626661802915
+            },
+            "southwest": {
+              "lat": 22.8156578197085,
+              "lng": 89.55996821970848
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "503ef18189e1f761960a4ae059368bd666e60c0a",
+        "name": "DHL Service Point",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJnUWhdhuQ_zkRn5wRiXBP6B8",
+        "reference": "CmRRAAAAIXeL_dFzQeNNfXfVC7zi7JoHIgp4PYFTNrJLjHNG4skWAyOPfYk9T2jMBAezBeGnLUcnmcDS2rfZIaXtOhdM_ra_hhzGgvKuUsuRAmhVcMZpF-yKs-NOP3J5G5EUkLcPEhCq5d1euwL0H0jumJVS9Tw1GhQ8ASo2vKzE-sunuNoWvwqnQwBukA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Chamber Mansion, Khan A Shobur KDA, Road 5, Khulna"
+      }
+    ],
+    "status": "OK"
   }
 }
