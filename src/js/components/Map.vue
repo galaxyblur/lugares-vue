@@ -27,8 +27,6 @@ import HexgridHeatmap from 'hexgrid-heatmap';
 
 import 'uikit/dist/css/uikit.min.css';
 
-window.mapboxgl = require('mapbox-gl');
-
 export default {
   name: 'map',
   data() {
