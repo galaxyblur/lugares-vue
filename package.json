@@ -11,6 +11,10 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
+    "geojson": "^0.5.0",
+    "hexgrid-heatmap": "^0.1.2",
+    "mapbox-gl": "^0.40.1",
+    "mapbox-gl-vue": "^1.5.0",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0",
     "vue-timeago": "^3.3.6"

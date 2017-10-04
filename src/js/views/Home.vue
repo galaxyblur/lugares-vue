@@ -19,6 +19,9 @@
               <li class="uk-navbar-item">
                 <a href="#stats" uk-icon="icon: info" title="Stats" uk-tooltip uk-toggle></a>
               </li>
+              <li class="uk-navbar-item">
+                <button id="map-trigger" class="uk-button uk-button-link" uk-icon="icon: world" title="Map" uk-tooltip v-on:click="showMap"></button>
+              </li>
             </ul>
           </div>
         </div>
@@ -28,6 +31,7 @@
     <data-table></data-table>
     <about></about>
     <stats></stats>
+    <div id="map-display-container"></div>
     <footer class="uk-text-center uk-text-small">
       Copyright 2017 Capoeira Online, LLC
     </footer>
@@ -35,6 +39,8 @@
 </template>
 
 <script>
+import Vue from 'vue';
+
 import UIkit from 'uikit';
 
 import 'uikit/dist/css/uikit.min.css';
@@ -46,6 +52,8 @@ import DataTable from '../components/DataTable';
 import About from '../components/About';
 
 import Stats from '../components/Stats';
+
+import MapDisplay from '../components/Map';
 
 import Warning from '../components/Warning';
 
@@ -61,7 +69,29 @@ export default {
     'data-table': DataTable,
     about: About,
     stats: Stats,
+    // 'map-display': MapDisplay,
     warning: Warning,
+  },
+  methods: {
+    showMap() {
+      let $el = document.getElementById('map');
+
+      if ($el === null) {
+        const MapContent = Vue.extend({
+          template: '<map-display></map-display>',
+          components: {
+            'map-display': MapDisplay,
+          },
+        });
+
+        const map = new MapContent();
+
+        map.$mount('#map-display-container');
+        $el = map.$el;
+      }
+
+      UIkit.modal($el).show();
+    },
   },
 };
 </script>
