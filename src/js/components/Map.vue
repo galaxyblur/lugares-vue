@@ -107,8 +107,8 @@ export default {
       mapOptions: {
         container: 'lugares-heatmap',
         style: 'mapbox://styles/mapbox/dark-v9',
-        zoom: 4,
-        center: [-122.42534069839593, 37.77444125366313],
+        zoom: 2,
+        center: [-38.516667, -12.983333], // lng, lat
       },
     };
   },
