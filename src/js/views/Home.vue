@@ -6,7 +6,7 @@
           <div class="uk-navbar-center-left">
             <ul class="uk-navbar-nav">
               <li class="uk-navbar-item">
-                <a href="#about" uk-icon="icon: question" title="About" uk-tooltip uk-toggle></a>
+                <a class="uk-button uk-button-text" href="#about" uk-icon="icon: question" title="About" uk-tooltip uk-toggle></a>
               </li>
             </ul>
           </div>
@@ -17,10 +17,10 @@
           <div class="uk-navbar-center-right">
             <ul class="uk-navbar-nav">
               <li class="uk-navbar-item">
-                <a href="#stats" uk-icon="icon: info" title="Stats" uk-tooltip uk-toggle></a>
+                <a class="uk-button uk-button-text" href="#stats" uk-icon="icon: info" title="Stats" uk-tooltip uk-toggle></a>
               </li>
               <li class="uk-navbar-item">
-                <button id="map-trigger" class="uk-button uk-button-link" uk-icon="icon: world" title="Map" uk-tooltip v-on:click="showMap"></button>
+                <a class="uk-button uk-button-text" href="#map" uk-icon="icon: world" title="Map" uk-tooltip v-on:click.stop.prevent="showMap"></a>
               </li>
             </ul>
           </div>
