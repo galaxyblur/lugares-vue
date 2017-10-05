@@ -1,19 +1,17 @@
 <template>
   <header>
-    <div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
-      <nav class="uk-navbar-container uk-container-expand uk-padding-remove-left" uk-navbar>
-        <div class="uk-navbar-left">
-          <a href="/" class="uk-navbar-item uk-logo" title="Lugares">
-            Lugares <div class="uk-text-small uk-margin-left">find capoeira.</div>
-          </a>
-        </div>
-        <div class="uk-navbar-right">
-          <a href="https://www.capoeiraonline.net" class="uk-navbar-item" target="_blank">
-            <i>a free Capoeira Online service</i>
-          </a>
-        </div>
-      </nav>
-    </div>
+    <nav class="uk-navbar-container uk-container-expand uk-padding-remove-left" uk-navbar>
+      <div class="uk-navbar-left">
+        <a href="/" class="uk-navbar-item uk-logo" title="Lugares">
+          Lugares <div class="uk-text-small uk-margin-left">find capoeira.</div>
+        </a>
+      </div>
+      <div class="uk-navbar-right">
+        <a href="https://www.capoeiraonline.net" class="uk-navbar-item" target="_blank">
+          <i>a free Capoeira Online service</i>
+        </a>
+      </div>
+    </nav>
   </header>
 </template>
 
