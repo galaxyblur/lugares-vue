@@ -1,8 +1,8 @@
 <template>
   <div>
-    <header-view></header-view>
-    <warning></warning>
-    <tabs-view active="Stats"></tabs-view>
+    <header-view />
+    <warning />
+    <tabs-view active="Stats" />
     <div class="uk-container uk-container-expand uk-margin">
       <dl class="uk-description-list">
         <dt v-if="stats.lastUSRun.name">Last run city in US-only search</dt>
@@ -56,10 +56,8 @@
         </el-table-column>
       </el-table>
     </div>
-    <about></about>
-    <footer class="uk-text-center uk-text-small">
-      Copyright 2017 Capoeira Online, LLC
-    </footer>
+    <about />
+    <footer-view />
   </div>
 </template>
 
@@ -84,6 +82,8 @@ import About from '../components/About';
 
 import Warning from '../components/Warning';
 
+import Footer from '../components/Footer';
+
 Vue.use(VueTimeago, {
   name: 'timeago', // component name, `timeago` by default
   locale: 'en-US',
@@ -100,6 +100,7 @@ export default {
     'tabs-view': TabsView,
     about: About,
     warning: Warning,
+    'footer-view': Footer,
   },
   data() {
     return {

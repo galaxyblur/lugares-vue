@@ -1,13 +1,11 @@
 <template>
   <div>
-    <header-view></header-view>
-    <warning></warning>
-    <tabs-view active="Map"></tabs-view>
-    <map-display></map-display>
-    <about></about>
-    <footer class="uk-text-center uk-text-small">
-      Copyright 2017 Capoeira Online, LLC
-    </footer>
+    <header-view />
+    <warning />
+    <tabs-view active="Map" />
+    <map-display />
+    <about />
+    <footer-view />
   </div>
 </template>
 
@@ -28,6 +26,8 @@ import MapDisplay from '../components/MapDisplay';
 
 import Warning from '../components/Warning';
 
+import Footer from '../components/Footer';
+
 UIkit.use(Icons);
 
 export default {
@@ -37,6 +37,7 @@ export default {
     'tabs-view': TabsView,
     about: About,
     warning: Warning,
+    'footer-view': Footer,
     'map-display': MapDisplay,
   },
 };

@@ -1,13 +1,11 @@
 <template>
   <div>
-    <header-view></header-view>
-    <warning></warning>
-    <tabs-view active="Search"></tabs-view>
-    <data-table></data-table>
-    <about></about>
-    <footer class="uk-text-center uk-text-small">
-      Copyright 2017 Capoeira Online, LLC
-    </footer>
+    <header-view />
+    <warning />
+    <tabs-view active="Search" />
+    <data-table />
+    <about />
+    <footer-view />
   </div>
 </template>
 
@@ -28,6 +26,8 @@ import About from '../components/About';
 
 import Warning from '../components/Warning';
 
+import Footer from '../components/Footer';
+
 UIkit.use(Icons);
 
 export default {
@@ -38,6 +38,7 @@ export default {
     'data-table': DataTable,
     about: About,
     warning: Warning,
+    'footer-view': Footer,
   },
 };
 </script>
