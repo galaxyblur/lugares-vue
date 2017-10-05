@@ -132,7 +132,7 @@ export default {
     formatPerCapita(row) {
       const perCap = new Intl.NumberFormat().format(row.peoplePerResult);
 
-      return perCap;
+      return row.peoplePerResult > 0 ? perCap : '-';
     },
   },
   mounted() {
