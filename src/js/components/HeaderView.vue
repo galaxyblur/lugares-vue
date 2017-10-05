@@ -13,13 +13,6 @@
           <div class="uk-text-large">Lugares</div>
           <div class="uk-text-small uk-text-muted">find capoeira</div>
         </a>
-        <div class="uk-navbar-center-right">
-          <ul class="uk-navbar-nav">
-            <li class="uk-navbar-item">
-              <a class="uk-button uk-button-text" href="#stats" uk-icon="icon: info" title="Stats" uk-tooltip uk-toggle></a>
-            </li>
-          </ul>
-        </div>
       </div>
     </nav>
   </header>

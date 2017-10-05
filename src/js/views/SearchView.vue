@@ -5,7 +5,6 @@
     <tabs-view active="Search"></tabs-view>
     <data-table></data-table>
     <about></about>
-    <stats></stats>
     <footer class="uk-text-center uk-text-small">
       Copyright 2017 Capoeira Online, LLC
     </footer>
@@ -27,8 +26,6 @@ import DataTable from '../components/DataTable';
 
 import About from '../components/About';
 
-import Stats from '../components/Stats';
-
 import Warning from '../components/Warning';
 
 UIkit.use(Icons);
@@ -40,7 +37,6 @@ export default {
     'tabs-view': TabsView,
     'data-table': DataTable,
     about: About,
-    stats: Stats,
     warning: Warning,
   },
 };

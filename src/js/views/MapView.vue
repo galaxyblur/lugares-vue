@@ -5,7 +5,6 @@
     <tabs-view active="Map"></tabs-view>
     <map-display></map-display>
     <about></about>
-    <stats></stats>
     <footer class="uk-text-center uk-text-small">
       Copyright 2017 Capoeira Online, LLC
     </footer>
@@ -25,8 +24,6 @@ import TabsView from '../components/TabsView';
 
 import About from '../components/About';
 
-import Stats from '../components/Stats';
-
 import MapDisplay from '../components/MapDisplay';
 
 import Warning from '../components/Warning';
@@ -39,7 +36,6 @@ export default {
     'header-view': HeaderView,
     'tabs-view': TabsView,
     about: About,
-    stats: Stats,
     warning: Warning,
     'map-display': MapDisplay,
   },

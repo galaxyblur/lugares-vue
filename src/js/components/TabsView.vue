@@ -7,6 +7,9 @@
       <li :class="active === 'Map' ? 'uk-active' : ''">
         <router-link to="map">Map</router-link>
       </li>
+      <li :class="active === 'Stats' ? 'uk-active' : ''">
+        <router-link to="stats">Stats</router-link>
+      </li>
     </ul>
   </div>
 </template>
