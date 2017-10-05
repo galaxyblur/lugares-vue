@@ -1,20 +1,62 @@
 {
-  "city_name": "xuzhou-cn",
-  "city_rank": 220,
-  "city_population": 1199193,
+  "city_name": "depok-id",
+  "city_rank": 221,
+  "city_population": 1198195,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "34.180454",
-      "117.15707"
+      "-6.343333",
+      "106.498889"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1198195,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -6.303650899999999,
+            "lng": 106.6719682
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -6.302301919708497,
+              "lng": 106.6733171802915
+            },
+            "southwest": {
+              "lat": -6.304999880291501,
+              "lng": 106.6706192197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "994fd21b7e8be02fb7b5e50ed389bc304cb8a80f",
+        "name": "BSA Martial Arts Center",
+        "photos": [
+          {
+            "height": 1170,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109397094523601513701/photos\">BSA Martial Arts Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA4XGJpiioIdVcshpMNFQUWo4BS9vZ92dK0cJL8NW6hmNV_95f7efwVoSi-yP06t5hUvBKGkkpcHx7mg93mMWNtIBFlaqlxo_ioyv19QDoP8uYzARgZZTT-LDhLj7su9gYEhChSuA_vLn-F2a5M_OE2HFCGhQf01_P0JvYCCjUB8xbs7kchDxaVA",
+            "width": 1138
+          }
+        ],
+        "place_id": "ChIJZ9l6LSv7aS4Rc-Oxa2aRPsU",
+        "rating": 5,
+        "reference": "CmRSAAAAh9mA67__WXIRXfdFV_RyDUANBDI4GSETmiR2YfrFSsJcjoPi6cQq6D-bwDuj_6rJzC-yDVygYjkpl0uUtBPUBJIFfodDq0130xdaOpFpDnSTDN61wCYw0ryx0_nnPZ51EhBobWygmatoaFK-KoQuovYyGhQyEmrtmPObIk5F04CohsEFwrjY1Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "BSD Anggrek Loka Jalan Anggrek Ungu Blok B No 16 Sektor 2-1 Serpong, Rawa Buntu"
+      }
+    ],
+    "status": "OK"
   }
 }
