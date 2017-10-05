@@ -2,8 +2,8 @@
   <div>
     <header-view></header-view>
     <warning></warning>
-    <tabs-view active="Search"></tabs-view>
-    <data-table></data-table>
+    <tabs-view active="Map"></tabs-view>
+    <map-display></map-display>
     <about></about>
     <stats></stats>
     <footer class="uk-text-center uk-text-small">
@@ -23,25 +23,25 @@ import HeaderView from '../components/HeaderView';
 
 import TabsView from '../components/TabsView';
 
-import DataTable from '../components/DataTable';
-
 import About from '../components/About';
 
 import Stats from '../components/Stats';
+
+import MapDisplay from '../components/MapDisplay';
 
 import Warning from '../components/Warning';
 
 UIkit.use(Icons);
 
 export default {
-  name: 'home',
+  name: 'map-view',
   components: {
     'header-view': HeaderView,
     'tabs-view': TabsView,
-    'data-table': DataTable,
     about: About,
     stats: Stats,
     warning: Warning,
+    'map-display': MapDisplay,
   },
 };
 </script>

@@ -1,18 +1,10 @@
 <template>
-  <div id="map" uk-modal>
-    <div class="uk-modal-dialog">
-      <button class="uk-modal-close-default" type="button" uk-close></button>
-      <div class="uk-modal-header">
-        <h2 class="uk-modal-title">Map</h2>
-      </div>
-      <div class="uk-modal-body">
-        <mapbox
-          @map-load="mapLoaded"
-          :access-token="accessToken"
-          :map-options="mapOptions">
-        </mapbox>
-      </div>
-    </div>
+  <div class="uk-container uk-container-expand uk-margin">
+    <mapbox
+      @map-load="mapLoaded"
+      :access-token="accessToken"
+      :map-options="mapOptions">
+    </mapbox>
   </div>
 </template>
 
@@ -100,7 +92,7 @@ const createMapPoints = (map, data) => {
 };
 
 export default {
-  name: 'map',
+  name: 'map-display',
   data() {
     return {
       accessToken: 'pk.eyJ1IjoiZ2FsYXh5Ymx1ciIsImEiOiJjajhjMGN0ajQwNDkwMndzZnJ5Z215cmRyIn0.khRbFE6oQhHyZ_KrS_aHlA',
