@@ -27,6 +27,7 @@ const getGeoJSONFromGroups = (groups) => {
       name: g.names[0],
       lat: g.location_coords.lat,
       lng: g.location_coords.lng,
+      description: g.location_text,
     });
   });
 
@@ -38,56 +39,23 @@ const getGeoJSONFromGroups = (groups) => {
 const createHeatmap = (map, data) => {
   const heatmap = new HexgridHeatmap(map, 'hexgrid-heatmap', 'waterway-label');
   heatmap.setData(data);
-  heatmap.setIntensity(900);
-  heatmap.setSpread(20);
+  heatmap.setIntensity(10000);
+  heatmap.setSpread(7);
   heatmap.update();
 };
 
 const createMapPoints = (map, data) => {
-  // Each point range gets a different fill color.
-  const layers = [
-    [0, 'rgba(0,200,0,1)'],
-    [10, 'rgba(250,250,50,1)'],
-    [20, 'rgba(200,0,0,1)'],
-  ];
-
-  map.addSource('groups', {
-    type: 'geojson',
-    data,
-    cluster: true,
-    clusterMaxZoom: 15, // Max zoom to cluster points on
-    clusterRadius: 5, // Use small cluster radius for the heatmap look
-  });
-
-  layers.forEach((layer, i) => {
-    map.addLayer({
-      id: `cluster-${i}`,
-      type: 'circle',
-      source: 'groups',
-      paint: {
-        'circle-color': layer[1],
-        'circle-radius': 3,
-        'circle-blur': 0, // blur the circles to get a heatmap look
-      },
-      filter: i === layers.length - 1 ?
-        ['>=', 'point_count', layer[0]] :
-        ['all',
-          ['>=', 'point_count', layer[0]],
-          ['<', 'point_count', layers[i + 1][0]],
-        ],
-    }, 'waterway-label');
-  });
-
   map.addLayer({
-    id: 'unclustered-points',
+    id: 'group-points',
     type: 'circle',
-    source: 'groups',
-    paint: {
-      'circle-color': 'rgba(0,200,0,1)',
-      'circle-radius': 3,
-      'circle-blur': 0,
+    source: {
+      type: 'geojson',
+      data,
     },
-    filter: ['!=', 'cluster', true],
+    paint: {
+      'circle-color': 'rgba(0,150,0,1)',
+      'circle-radius': 5,
+    },
   }, 'waterway-label');
 };
 
@@ -113,6 +81,31 @@ export default {
         const geoJSONGroups = getGeoJSONFromGroups(response.data);
         createHeatmap(map, geoJSONGroups);
         createMapPoints(map, geoJSONGroups);
+
+        const popup = new window.mapboxgl.Popup({
+          closeButton: false,
+          closeOnClick: false,
+        });
+
+        map.on('mouseenter', 'group-points', (e) => {
+          const canvas = map.getCanvas();
+          canvas.style.cursor = 'pointer';
+
+          popup.setLngLat(e.features[0].geometry.coordinates)
+            .setHTML(`
+              <dl class="uk-description-list uk-margin-remove-bottom uk-text-small">
+                <dt>${e.features[0].properties.name}</dt>
+                <dd>${e.features[0].properties.description}</dd>
+              </dl>
+            `)
+            .addTo(map);
+        });
+
+        map.on('mouseleave', 'group-points', () => {
+          const canvas = map.getCanvas();
+          canvas.style.cursor = '';
+          popup.remove();
+        });
       });
     },
   },
