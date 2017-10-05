@@ -34,7 +34,7 @@ import Warning from '../components/Warning';
 UIkit.use(Icons);
 
 export default {
-  name: 'home',
+  name: 'search',
   components: {
     'header-view': HeaderView,
     'tabs-view': TabsView,

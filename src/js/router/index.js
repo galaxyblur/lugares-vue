@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Home from '../views/Home';
+import SearchView from '../views/SearchView';
 import MapView from '../views/MapView';
 
 Vue.use(Router);
@@ -9,8 +9,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Home',
-      component: Home,
+      name: 'Search',
+      component: SearchView,
     },
     {
       path: '/map',
