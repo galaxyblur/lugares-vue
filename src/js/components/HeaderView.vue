@@ -8,7 +8,7 @@
       </div>
       <div class="uk-navbar-right">
         <a href="https://www.capoeiraonline.net" class="uk-navbar-item" target="_blank">
-          <i>a free Capoeira Online service</i>
+          <i>a free <u>Capoeira Online</u> service</i>
         </a>
       </div>
     </nav>

@@ -11,7 +11,7 @@
         <router-link to="stats">Stats</router-link>
       </li>
       <li>
-        <a href="#about" uk-toggle v-on:click.stop.prevent>About this site</a>
+        <a href="#about" uk-toggle v-on:click.stop.prevent>About</a>
       </li>
     </ul>
   </div>

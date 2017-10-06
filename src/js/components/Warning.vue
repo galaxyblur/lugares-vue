@@ -4,7 +4,6 @@
       type="info"
       title="Disclaimer: Unverified Results"
       description="These listings come from a computer program that searches Google for the keyword 'capoeira' near a given city and collects the results. They are *not* verified to be capoeira schools or groups."
-      close-text="I understand!"
       show-icon />
   </div>
 </template>

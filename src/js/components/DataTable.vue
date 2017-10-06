@@ -10,8 +10,9 @@
         </el-input>
       </div>
       <div>
-        <div class="uk-align-right@l">
+        <div class="uk-align-right@m">
           <el-pagination
+             small
             @current-change="handleCurrentPageChange"
             layout="total, prev, pager, next"
             :page-size="perPage"
@@ -25,7 +26,7 @@
       <el-table-column type="expand">
         <template scope="scope">
           <el-row>
-            <el-col :span="6">
+            <el-col :span="6" :offset="6">
               <div v-if="scope.row.schedule_text" class="uk-padding-small">
                 <div><span class="uk-text-muted">Schedule</span></div>
                 <pre class="group-schedule">{{ scope.row.schedule_text }}</pre>
@@ -42,7 +43,7 @@
           </el-row>
         </template>
       </el-table-column>
-      <el-table-column prop="names" label="Name" />
+      <el-table-column prop="names" label="Name" fixed width="150" />
         <!--
       <el-table-column label="Image">
         <template scope="scope">
@@ -51,7 +52,7 @@
         </template>
       </el-table-column>
         -->
-      <el-table-column label="Location">
+      <el-table-column label="Location" width="200">
         <template scope="scope">
           <ul class="uk-list">
             <li><b>Address:</b> {{ scope.row.location_text }}</li>
@@ -65,7 +66,7 @@
           </ul>
         </template>
       </el-table-column>
-      <el-table-column label="Website">
+      <el-table-column label="Website" width="300">
         <template scope="scope">
           <a v-if="scope.row.website" :href="scope.row.website" target="_blank">
             <span v-if="scope.row.website.indexOf('https') === 0" uk-icon="icon:lock"></span>
@@ -73,7 +74,7 @@
           </a>
         </template>
       </el-table-column>
-      <el-table-column label="Listings">
+      <el-table-column label="Listings" width="100">
         <template scope="scope">
           <a v-if="scope.row.location_text"
             :href="'http://maps.google.com/?q=place_id:' + scope.row.id"

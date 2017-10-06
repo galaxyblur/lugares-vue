@@ -19,11 +19,13 @@
         :data="stats.cities"
         border
         :default-sort = "{prop: 'date', order: 'descending'}"
+        stripe
         style="width: 100%">
         <el-table-column
           sortable
           prop="date"
-          label="Date">
+          label="Date"
+          min-width="130">
           <template scope="scope">
             <timeago :since="scope.row.date" :auto-update="60" :title="scope.row.dateLocale"></timeago>
           </template>
@@ -31,27 +33,31 @@
         <el-table-column
           sortable
           prop="name"
-          label="Name">
+          label="Name"
+          min-width="150">
           <template scope="scope">
-            <a :href="'https://www.google.com/search?q=' + scope.row.name" target="_blank">{{ scope.row.name }}</a>
+            <a :href="'https://www.google.com/search?q=' + scope.row.name" target="_blank">{{ formatName(scope.row.name) }}</a>
           </template>
         </el-table-column>
         <el-table-column
           sortable
           prop="resultsCount"
           label="Groups"
+          min-width="120"
           show-summary>
         </el-table-column>
         <el-table-column
           sortable
           prop="population"
           :formatter="formatPopulation"
+          width="120"
           label="Pop.">
         </el-table-column>
         <el-table-column
           sortable
           prop="peoplePerResult"
           :formatter="formatPerCapita"
+          min-width="140"
           label="Per Capita">
         </el-table-column>
       </el-table>
@@ -132,6 +138,10 @@ export default {
           this.stats = response.data;
         });
     },
+    formatName(name) {
+      const lastHyphen = name.lastIndexOf('-');
+      return `${name.substr(0, lastHyphen)}, ${name.substr(lastHyphen + 1).toUpperCase()}`;
+    },
     formatPopulation(row) {
       const pop = new Intl.NumberFormat().format(row.population);
 
@@ -150,4 +160,7 @@ export default {
 </script>
 
 <style>
+.el-table .cell {
+  word-break: normal;
+}
 </style>
