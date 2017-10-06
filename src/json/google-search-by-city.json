@@ -1,20 +1,67 @@
 {
-  "city_name": "hiroshima-jp",
-  "city_rank": 235,
-  "city_population": 1143850,
+  "city_name": "managua-ni",
+  "city_rank": 236,
+  "city_population": 1140499,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "34.434844",
-      "132.740622"
+      "12.1508333",
+      "-86.2683333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1140499,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 12.1201112,
+            "lng": -86.2680525
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 12.1214601802915,
+              "lng": -86.2667035197085
+            },
+            "southwest": {
+              "lat": 12.1187622197085,
+              "lng": -86.2694014802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "01c006bd8b722bebfee8c6788b00ad46d6318fb6",
+        "name": "Gimnasio Ilusiones",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2336,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111002442118934180152/photos\">Eric Martinez</a>"
+            ],
+            "photo_reference": "CmRaAAAA7AksZRU5Ed0Yt8Q7f9GdiRaUB8ZfSeL0LI9IVFlGUct4c8_wlzyIVWMpJ-DC_P31b0aYoCs0xVJkKohG45TLzfaCRsxq32uWBAf7YTNzvUBLEwLiUunj288lcy6HFIp1EhBy16XqmKMK3r9lPJpjLYABGhSlPKq4a9BvgtceHMXlkbk125qZXw",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJGT7nw-1VcY8RoxIi_a4HpZY",
+        "rating": 4.1,
+        "reference": "CmRSAAAAml31BvO5xU6hAhRmncUTiSzArkGIrgO_XxpYCkR748EhAohRKyvVEM3xh0NCZQEIVTyAfH5ezvyijH93uOOH_o9b5b7eF3hxUNtuRx6KTIoLEumzj29PpKCw65aSqkHREhC2cOqy1DPZasdIjzG3TkLQGhQL1Rf7G9bVrxFAuJkUPzYQLVZ3XA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Managua"
+      }
+    ],
+    "status": "OK"
   }
 }
