@@ -43,15 +43,14 @@
           </el-row>
         </template>
       </el-table-column>
-      <el-table-column prop="names" label="Name" fixed min-width="150" />
-        <!--
-      <el-table-column label="Image">
+      <el-table-column label="Name" fixed min-width="150">
         <template scope="scope">
-          <img v-if="scope.row.image" :src="scope.row.image">
-          <span v-else>n/a</span>
+          {{ scope.row.names.join(', ') }}
+          <div v-if="getWebsiteDetail(scope.row, 'logo')">
+            <img :src="getWebsiteDetail(scope.row, 'logo')">
+          </div>
         </template>
       </el-table-column>
-        -->
       <el-table-column label="Location" min-width="200">
         <template scope="scope">
           <ul class="uk-list">
@@ -68,10 +67,13 @@
       </el-table-column>
       <el-table-column label="Website" min-width="200">
         <template scope="scope">
-          <a v-if="scope.row.website" :href="scope.row.website" target="_blank">
-            <span v-if="scope.row.website.indexOf('https') === 0" uk-icon="icon:lock"></span>
-            {{ scope.row.website }}
-          </a>
+          <ul class="uk-list uk-text-small">
+            <li v-if="getWebsiteDetail(scope.row, 'title')"><b><i>{{ getWebsiteDetail(scope.row, 'title') }}</i></b></li>
+            <li v-if="getWebsiteDetail(scope.row, 'description')"><q>{{ getWebsiteDetail(scope.row, 'description') }}</q></li>
+            <li v-if="scope.row.website"><a :href="scope.row.website" target="_blank">{{ scope.row.website }}</a></li>
+            <li v-if="getWebsiteDetail(scope.row, 'status') === 200" class="uk-text-success">Status OK</li>
+            <li v-if="scope.row.website.indexOf('https') === 0">Secure (https)</li>
+          </ul>
         </template>
       </el-table-column>
       <el-table-column label="Listings" width="100">
@@ -158,6 +160,17 @@ export default {
         return foundInName || foundInAddress;
       });
       this.handleCurrentPageChange(1);
+    },
+    getWebsiteDetail(item, prop) {
+      let val;
+      const hasWebsiteDetails = Object.prototype.hasOwnProperty.call(item, 'website_details');
+      const hasProp = hasWebsiteDetails ? Object.prototype.hasOwnProperty.call(item.website_details, prop) : false;
+
+      if (hasProp) {
+        val = item.website_details[prop];
+      }
+
+      return val;
     },
   },
 };
