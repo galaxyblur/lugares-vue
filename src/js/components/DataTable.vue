@@ -43,7 +43,7 @@
           </el-row>
         </template>
       </el-table-column>
-      <el-table-column prop="names" label="Name" fixed width="150" />
+      <el-table-column prop="names" label="Name" fixed min-width="150" />
         <!--
       <el-table-column label="Image">
         <template scope="scope">
@@ -52,7 +52,7 @@
         </template>
       </el-table-column>
         -->
-      <el-table-column label="Location" width="200">
+      <el-table-column label="Location" min-width="200">
         <template scope="scope">
           <ul class="uk-list">
             <li><b>Address:</b> {{ scope.row.location_text }}</li>
@@ -66,7 +66,7 @@
           </ul>
         </template>
       </el-table-column>
-      <el-table-column label="Website" width="300">
+      <el-table-column label="Website" min-width="200">
         <template scope="scope">
           <a v-if="scope.row.website" :href="scope.row.website" target="_blank">
             <span v-if="scope.row.website.indexOf('https') === 0" uk-icon="icon:lock"></span>
@@ -166,7 +166,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
 .el-table .cell {
-  word-break: break-word;
+  word-break: normal;
 }
 
 .group-schedule {
