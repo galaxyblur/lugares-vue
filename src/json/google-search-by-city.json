@@ -1,697 +1,121 @@
 {
-  "city_name": "chelyabinsk-ru",
-  "city_rank": 259,
-  "city_population": 1062931,
+  "city_name": "sofia-bg",
+  "city_rank": 260,
+  "city_population": 1062065,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "55.154444",
-      "61.429722"
+      "42.6833333",
+      "23.3166667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 70862,
-  "possible_duplicates": {
-    "ChIJZw0JRpiSxUMRQRpUvsgdsKo": [
-      {
-        "place1": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Obraztsova, 26А, Chelyabinsk",
-        "place2": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Mamina, 25б, Chelyabinsk",
-        "score": 0.8245614035087719
-      }
-    ],
-    "ChIJX6Pd35XtxUMR3r5VWygMGXs": [
-      {
-        "place1": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Mamina, 25б, Chelyabinsk",
-        "place2": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Obraztsova, 26А, Chelyabinsk",
-        "score": 0.8245614035087719
-      },
-      {
-        "place1": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Mamina, 25б, Chelyabinsk",
-        "place2": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Akademika Korolyova, 15, Chelyabinsk",
-        "score": 0.8
-      }
-    ],
-    "ChIJU9nf4tLsxUMRJVHxRh1vJgE": [
-      {
-        "place1": "Kapoeyra v Chelyabinske ABADA-Capoeira д., Komsomolskiy prospekt, 18Б, Chelyabinsk",
-        "place2": "Kapoeyra v Chelyabinske ABADA-Capoeira Komsomolskiy prospekt, 94, Chelyabinsk",
-        "score": 0.9448818897637795
-      }
-    ],
-    "ChIJxyjddFOSxUMRIbYyc8DNtqc": [
-      {
-        "place1": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Akademika Korolyova, 15, Chelyabinsk",
-        "place2": "Kapoeyra v Chelyabinske ABADA-Capoeira ulitsa Mamina, 25б, Chelyabinsk",
-        "score": 0.8
-      }
-    ],
-    "ChIJByrM_nKTxUMRDq7Gw_LrxiU": [
-      {
-        "place1": "Kapoeyra v Chelyabinske ABADA-Capoeira Komsomolskiy prospekt, 94, Chelyabinsk",
-        "place2": "Kapoeyra v Chelyabinske ABADA-Capoeira д., Komsomolskiy prospekt, 18Б, Chelyabinsk",
-        "score": 0.9448818897637795
-      }
-    ]
-  },
+  "people_per_result": 354022,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 55.152412,
-            "lng": 61.4100489
+            "lat": 42.6836786,
+            "lng": 23.3159823
           },
           "viewport": {
             "northeast": {
-              "lat": 55.15370978029149,
-              "lng": 61.41122628029151
+              "lat": 42.6850937802915,
+              "lng": 23.3171860302915
             },
             "southwest": {
-              "lat": 55.15101181970849,
-              "lng": 61.40852831970849
+              "lat": 42.6823958197085,
+              "lng": 23.3144880697085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cd577a9c0bf9273d475b130d478eed8c0b3b6631",
-        "name": "He and she",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJvxKKVlPtxUMRzwwajagV-0M",
-        "reference": "CmRRAAAA557LC0JWK42pO55_1JP-fBFKRIjmOajuM4z6sofpVf9xuC2rA-1LLBvuGJrWJl6By6PGiEfH0sV08TywobeH92dcDt-mIs3LDhej0-JkOz8apnOvDRNAf4g5mX7EQmAoEhAhO31nOcpsfmwVJ20hzxvTGhTGsE7OXe31hay_FRI1p0AJDyE88Q",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Tsvillinga, 55А, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.164795,
-            "lng": 61.44431100000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1663666802915,
-              "lng": 61.44570108029152
-            },
-            "southwest": {
-              "lat": 55.1636687197085,
-              "lng": 61.44300311970851
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "1572ac60468049a6c274fb0f2926b6bbeaed6dc2",
-        "name": "Culture Center",
-        "place_id": "ChIJ0zdBTmbtxUMRxqggTPLeEWY",
-        "rating": 3.5,
-        "reference": "CmRRAAAAJCFLaeYEgS9_Uljng4iKh8BBDxPuSzMgMwJF9Ns_Q2AjCOxFvEQ1SuIqi58C5sS59xD7CAq3_ImeeGrguHG30AnsDZbgAYXIPQ95-cFQaU6sozvl_WS_pasWz_A3IZCiEhB70VkWDvvATp11GY-pVUnpGhThLnkFGYuWQNjAtOcnhY-G2dfohg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Savina, 5, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.165799,
-            "lng": 61.397752
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1671523802915,
-              "lng": 61.39927143029151
-            },
-            "southwest": {
-              "lat": 55.1644544197085,
-              "lng": 61.3965734697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "668f8ea73ed72ac95bdc88beb4c57be258b8d39a",
-        "name": "BallGames",
+        "id": "8f6fa130d1bf24649732973c82c95eab927ca07e",
+        "name": "International Dance Academy 360°",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 672,
+            "height": 2448,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108079971648879465311/photos\">BallGames</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111499628689233529828/photos\">Vladimir Eftenov</a>"
             ],
-            "photo_reference": "CmRaAAAAA0F8sEoa5iMoB4l0Wm-2cCKO-QD35sRZcOOSkSPPrbVRlTe0tDfm0qCWARl4-OPH4gXT4CQkl-wqygrgzRKf2nH7hjOsfMjpLitOPrZwKeudXrfpkVc6h3tQi7NwZL4YEhBfe_zvPbMKJpbItgJfA2zwGhST6EZzteNdQqFN5AN_EripBtaO2w",
-            "width": 1008
+            "photo_reference": "CmRaAAAAHAlEMk23d2fb8LQOtakiVQb937W4wfq_mUI3JlhAYvU91Wurk7ZCUr4riDigaNHUW5uXte__eZmn4H05XJMPYjaZGDu1W4u3VTGOgNfEw3cYsjPrQvL_dJ1oOnkSoKqIEhCy7LABk_akuihEYNYixqiiGhSSjkZkfLk4-vQfnrxg5sgHJPEU1Q",
+            "width": 3264
           }
         ],
-        "place_id": "ChIJbRh8jUrtxUMRgAHJ0MnMj0I",
-        "rating": 5,
-        "reference": "CmRRAAAAaar9s4_Mg78NFrLcXgna4Fb7xvhFIk52eLtn8IKBmldz20AcvIPA7hYlJFxpE3NUSg1IDbp0SEGO3SOy5ikmhYZwPK_4MK_1gnVAogS6LnAqWoJI93DP295taSYDO8ovEhC8SYWL7BXnUOfy0in43qAaGhQl_crD3LK1WPM3okzXYLYJtS2AqA",
+        "place_id": "ChIJqf7n_Q-FqkARhq-0g46mcEA",
+        "reference": "CmRRAAAAkDu8nM1j1miwHZ7SGwaodzCHhyZmbx9X8KFt7y4QQWhDSPGMGLpKupJ6Rz-YjT7nYI2L-4va4ucbfChJqAvFL3xit-L88AgjcA3VfStNpcZ3z84naTtA5K4qoeenGzp0EhAu-dJQxOye5pKdZQ8NjAM_GhTeVAf2EY029M1nsr3bgC1cfPwjQQ",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "ulitsa Elkina, 24, Chelyabinsk"
+        "vicinity": "bulevard \"Vitosha\" 87, Sofia"
       },
       {
         "geometry": {
           "location": {
-            "lat": 55.15307499999999,
-            "lng": 61.37895009999999
+            "lat": 42.670572,
+            "lng": 23.29821399999999
           },
           "viewport": {
             "northeast": {
-              "lat": 55.15435498029149,
-              "lng": 61.38053023029151
+              "lat": 42.6719209802915,
+              "lng": 23.2995629802915
             },
             "southwest": {
-              "lat": 55.15165701970849,
-              "lng": 61.37783226970849
+              "lat": 42.6692230197085,
+              "lng": 23.29686501970849
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7417c419fcfb9e1d4cbf49e803bcbd7ba165aafa",
-        "name": "Sports Club Rekkom",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1337,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110876548917182004341/photos\">спортивный клуб Рэкком</a>"
-            ],
-            "photo_reference": "CmRaAAAAwaguWSUxxNsZSw7e-7FraxKtMlsBAAommkjCS1XljqooTsolywSlFdI9MhYiRg7Sfb9IIqqJwZyw6xgMELUY27Nykt-RxwukDYIs72He74AFw1IyMEf0MKHnMRL4_lVBEhDet42_8BXakYpzsoV7lj3fGhTjI4mwoQ_2Kbw6fzUsjbWar_BxWA",
-            "width": 1338
-          }
-        ],
-        "place_id": "ChIJ5zHMoLuSxUMRiMkRpkp8bbU",
-        "rating": 4.5,
-        "reference": "CmRSAAAAxgz6Ekoaj5vDMmZ4YJPhfjtH19bmYkPw8Mt5-J6QmYILGZ48lln153tfYH8onLxahf2YenXpNhTI8lFTQI6PKE6kv6okkj3dVFl8MCzgh7GqT60AnvymstLsyT8E7ZcQEhA_AM39-8OV40HuQvrpCYT6GhRPfT7ppB1akeotRpFt4IP7OCz9tA",
+        "id": "eef5c2fefc37822b2d44180d71a9e29a19d99813",
+        "name": "Capoeira-World.com",
+        "place_id": "ChIJw7og0uWEqkAR3u1yW8aakTQ",
+        "reference": "CmRRAAAATf7Fy_GdbghMatNJYvh-G-ShhTGF82r6qLxxcF2Arb16G9lzEfKnlW5CoYRT55C0sMiqmclzV_xJMLMeM1R6jgoMtxEcDh1_Z_5VwfDoyh9aqu_rLGkaK3Er8GzVZVpkEhD4bAta-jmOjMIB4_oPcJeWGhQO_PxzFJrriberOPEm-NoUlod0rQ",
         "scope": "GOOGLE",
         "types": [
-          "gym",
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "ulitsa Engelsa, 44 Д, Chelyabinsk"
+        "vicinity": "Zlatishki prohod, 27A, entr. B, София"
       },
       {
         "geometry": {
           "location": {
-            "lat": 55.177324,
-            "lng": 61.38955789999999
+            "lat": 42.67897349999999,
+            "lng": 23.3668569
           },
           "viewport": {
             "northeast": {
-              "lat": 55.1786787802915,
-              "lng": 61.3910716302915
+              "lat": 42.68032248029149,
+              "lng": 23.3682058802915
             },
             "southwest": {
-              "lat": 55.1759808197085,
-              "lng": 61.38837366970849
+              "lat": 42.67762451970849,
+              "lng": 23.3655079197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5620b0ee82748422e87c9dd8382d5b240fc4700b",
-        "name": "Aravinda",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ641y9y3txUMR0K-HCe0zGeM",
-        "rating": 4.5,
-        "reference": "CmRSAAAAdEVqDovTiV9I2zSl7Xa1MvFEWdsiR2unzvjDUx5LElzmDPc0h2OWPNwV1-Jei0R9boNWEBm1aKQFtLh-J9VBZzidK0djC-oh5ddtPSQ-zMcTqYKesQ2P5kBYbnCSs2ehEhAYzoy4Sm3maZdupU18iKQ2GhSYEHAxX7jtkoFC_sqUFHMt2oZa9A",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Tagilskaya ulitsa, 42, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.146051,
-            "lng": 61.370113
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1474139802915,
-              "lng": 61.3708446302915
-            },
-            "southwest": {
-              "lat": 55.1447160197085,
-              "lng": 61.36814666970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2c56ab385038fbea0c061ef2127901ab14ae0d62",
-        "name": "Kapoeyra v Chelyabinske ABADA-Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1167,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100652820799598189062/photos\">Капоэйра в Челябинске ABADA-Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAApuUXpH37uFu42N9s6r8_K7GiW6Vj-yeDmaiAogHiQMH2WNEA9Z3XjrBhN6hXLy2cqGu6epV7cKLCNdOGtstQCL-IFtQJ9lXM-vqbX2NdeMuLT4Gyg_EXE4cYey0TnsPDEhAX0IHqd4b85kMsK9QJ_6ooGhRbdqjzh675K1evk_YAL6OwxAJvLg",
-            "width": 1167
-          }
-        ],
-        "place_id": "ChIJZw0JRpiSxUMRQRpUvsgdsKo",
+        "id": "37e99afa5319d571777374cb34bc47856fbcc966",
+        "name": "Capoeira CDO Bulgaria",
+        "place_id": "ChIJsU8FlZGFqkARYUjA6KIsHXo",
         "rating": 5,
-        "reference": "CmRSAAAAWoRyV0-e69nl3scMKD_eVe0ImXpE2JgNrj8d-lXVoOu1Q47YJCrL4sqahQm8Exn5ahF8bed0zl8vQ4A5hWdsLLkFGIkQuP6tQJ5PTdbedukWBfLPmrh0W-XxJe9OY5XwEhB6TbieZQxs7Opw-WFVkdHCGhQwhia-I-59oVHUHs4VhVVGT84bCA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Obraztsova, 26А, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.15777999999999,
-            "lng": 61.367683
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.15889738029149,
-              "lng": 61.36905543029151
-            },
-            "southwest": {
-              "lat": 55.15619941970849,
-              "lng": 61.3663574697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "cb297c6ab9d9078406fc9eb1fcf4e7c03ad3fbba",
-        "name": "Sportkompleks YuUrGU",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116149057683624420539/photos\">Спорткомплекс ЮУрГУ</a>"
-            ],
-            "photo_reference": "CmRaAAAA2Rvoajk1FvPaxiWOrgddq3oBfRtY57hDwlUSvROtxDWS3Au-7Qz9w2DT9FcMy_J-Y8stoxMaSmZjR9EHAZXnxfYj4b5JbtEd5jBSaAw94ieubMOjf-1XheRmhT3zUQ81EhD2ACFz70nmXw0HlRGdpGWoGhRmocJ8NBVWo5eUXGV0HIyBKwzA_A",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJKW_aFb-SxUMR9YGXbe0Jbsc",
-        "rating": 4.5,
-        "reference": "CmRSAAAAYC2qTkX_pX1GJPT0YKoXse_OsFBMh4ZAMeQ9htvPVf4iBaNiTpkPe8mP-TgEYRVS4cybdwhPL41q66IqbAsBEBaB0K-B9NX7kUiZiuTYzNyYjgZD0LlaOl-150BDTWLaEhCXakX_qzcD8Z2NSzLvZvxVGhRr8WRysPN2Ck-bXoNsJ_O-20QEpg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "spa",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Soni Krivoy, 60, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.14607299999999,
-            "lng": 61.36905299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.14742133029149,
-              "lng": 61.37031468029151
-            },
-            "southwest": {
-              "lat": 55.14472336970849,
-              "lng": 61.36761671970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a250467deb372cd89f38a18ee05e5d20bbf6b53e",
-        "name": "Sports Club \"Balance\"",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102301085983644779375/photos\">Спортивный Клуб &quot;Баланс&quot;</a>"
-            ],
-            "photo_reference": "CmRaAAAAIRtHfwu2Ov6chBGutUdSvzVeXiRuiOeR3s9aSOCvzxtY1iw6InqYepZUp1v54zvmxXocL0FcnjtkOUiamGV0myC-gDMrsNMs5eR24x8bG4MwSmlEIkezwgl_6t6FgmVwEhAsrwm00S0A3a4S2D5M6FJLGhRvBYZfWWbti-fsC66SmLIGpK7k3g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJM10ISZiSxUMRjTD2zgyXM-4",
-        "rating": 5,
-        "reference": "CmRSAAAAZyyeG4A0HYYqiW6Nj33eFZUwk7NhHhq-ox4ocTgFP_PVA5JQxbEazWJyuE3B-zuujjXQch00FvuPyuraZ2NkEwPCRpFUDlNYI3p41k9R2ZBxG62QtzuyNFCQpGFVVHPdEhCXCFXPVFIuDtaXcAvsgDVKGhQBcKFrcKuKCqzPeUbn45emRoJThQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Obraztsova, д. 26\"А\", Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.188774,
-            "lng": 61.384556
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1901177802915,
-              "lng": 61.3858131302915
-            },
-            "southwest": {
-              "lat": 55.1874198197085,
-              "lng": 61.3831151697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0142474d3f24e64ab5c3aaf2f6d6a8d74779e25b",
-        "name": "Wushu Federation",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "place_id": "ChIJI2qPxdfsxUMRVQeE0w_Vg8Y",
-        "reference": "CmRSAAAAXjNcAtHrWuNh7WlI4v02R_SlZpcesll560Jh64fWjTTp5hOqMDMFx0FgXvXOdDTatsBgQlJZKbKDitt0DMnrjKfmle7akQYBAiFEhES8q9JVl35WuRkRTAPpval0ffHrEhAhn0QN-bPzCGildUQ6MaRqGhReepRmO6x5E_UbePMUvi1D1M1Hzw",
+        "reference": "CmRRAAAAR4KXx_YlX1hc59luNDdcuNtZhYPeQuCw4u3wUk_l1_Av6men4FbtbMoGwXXuVjNbyTqTjXo78_I-2384AiqGJfcL0NsRFWbxsfrMQmZJq18HrvYiTMBapCojYx__45ZvEhCW0045NVUGmt2JLHyFlolxGhQNggJXL-Foa51ESi8VRxGouX8LIQ",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "ulitsa Ostrovskogo, 18А, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.1884913,
-            "lng": 61.3765612
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1900736802915,
-              "lng": 61.3776747802915
-            },
-            "southwest": {
-              "lat": 55.1873757197085,
-              "lng": 61.37497681970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "949233c48b3ccba5ee355f0db2ac66f7ad921550",
-        "name": "ABCD-Capoeira, sportivnyy klub",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 800,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111170278478597271386/photos\">ABCD-Capoeira, спортивный клуб</a>"
-            ],
-            "photo_reference": "CmRaAAAAXzOVZPkUZr_FalSg_B0vjQvaNeT2ZAK8I62kHUpifBe0TZ6mExacPA2IaRXZsZtVdYUoTQMmDcQGKHfvFNiyej8bgg2U4RgykQzffYcm-q_xS9Ob3UXmGKwU0HlRVn8pEhAawSZzH4DHPE-cFE6v3LGrGhS5cil-5zzklmrXeozIoPf3LEbYTA",
-            "width": 1200
-          }
-        ],
-        "place_id": "ChIJTfe7FKqTxUMRvznVgJsCpdc",
-        "rating": 5,
-        "reference": "CmRSAAAAWtw1g991g9CDF6tVeBINFkylPKOocfvBVIgbaYxrYgT-N0GsyuBEDg_gBU3h9BaM6JmVE3INaS0vUCM8U-SpFUWIalKUvCW--_1eoRqy6YFVlyIRw_vcV3nwpQos9k-NEhAGjHG-T_7Spo_hwY9kfX91GhQNLcdyYQQ1nvkyluFDDu83pzoJ4Q",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Titanovaya, 3, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.18815999999999,
-            "lng": 61.48638509999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.18935108029149,
-              "lng": 61.4874756
-            },
-            "southwest": {
-              "lat": 55.1866531197085,
-              "lng": 61.4831136
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2ac4a906eadef018ece1b73ffb0a01b52ebb354f",
-        "name": "Kapoeyra v Chelyabinske ABADA-Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1167,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106365435967518331066/photos\">Капоэйра в Челябинске ABADA-Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAuw7QZArGyHuvlnDbj6QKNDav3os4uKhhssHQol-fUdSerLPnW3efNfR-yr10eILZ1b_nXspxn8EjGjELhIOrW3hM3aLwUjFzNM2gjoFMTP0SUSq8iSfnwolm-nzibKM-EhCKD2Ibyic_AER9OSLlE0ZDGhQYaKZnJl8K2ZDhjeUi9sO3ZnK4LQ",
-            "width": 1167
-          }
-        ],
-        "place_id": "ChIJX6Pd35XtxUMR3r5VWygMGXs",
-        "rating": 5,
-        "reference": "CmRRAAAALycPp6pRNZT0gr77YVubwwSw5x-wL9Q6PGHeQv4u5GS6nZ0HYTeVx0hL20l00icreDmWLB_on-bw4QDKhliaWf5JnWB9u8D_eXnvwX6vq8rg30oPxADUBGWlwJr3Zn17EhAZS1BuVSEWmHb9VVqPnSpPGhQRmx8uihGnaFzD1AqZfOXwZqYTFw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Mamina, 25б, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.19245,
-            "lng": 61.3665061
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1936496302915,
-              "lng": 61.36766838029151
-            },
-            "southwest": {
-              "lat": 55.1909516697085,
-              "lng": 61.3649704197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b6ad36cd30f691e3c5cc5086a7bfda2aab3b9339",
-        "name": "Kapoeyra v Chelyabinske ABADA-Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1167,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104278215002700353306/photos\">Капоэйра в Челябинске ABADA-Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAq3KO9osrp8FGGwC_UUmTfHjAPyhCfGnrH892PUDeMIZTzocrazNHGkf1xjUzbd0K0YEA8U6lI2hbW2Pmiu-MutxKeJyhDk6Cj8h8J5FaE8hQl0gNo9sNqBfRSHkO57DIEhDh4apm9zdY3iupXNiNnjJJGhTOaPvHgC0r4lS7ro9PnjgdJQueMQ",
-            "width": 1167
-          }
-        ],
-        "place_id": "ChIJU9nf4tLsxUMRJVHxRh1vJgE",
-        "rating": 5,
-        "reference": "CmRRAAAAhumtLAFT1TeC4DdJt9qmif99Y-ZSY9r6FTDugasaA02-xH-sfBzjugY2wJuXoY7Z37HCHvChKUH5lnkfCZLT3Obr7PWJ3_ekyQ7MnTef2TLFG-gFdiXow_S6Kz33Y7mFEhBRN_zw0Gdu7QltGToAhxzpGhQyn2ZpsX9MFTtxQ-wIqR7e0gmrhA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "д., Komsomolskiy prospekt, 18Б, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.192518,
-            "lng": 61.366521
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1940340802915,
-              "lng": 61.36786488029151
-            },
-            "southwest": {
-              "lat": 55.1913361197085,
-              "lng": 61.3651669197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "59a9871c66a4a90dd34c528bbaad75b5c4dc30c8",
-        "name": "MNP Dance Studio Studiya tantsev",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 400,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101322754511393059281/photos\">MNP Dance Studio Студия танцев</a>"
-            ],
-            "photo_reference": "CmRaAAAAmaAsaqmoIh4dV3mUHy_BaO74d5TC3_JhxQYQxja6HBqZoW2i7cBhdfZypCT_bPKBLnQ9R9R0HMVIlm1cWdGlMCQv6YjlVlfwWBbyjOeA2HB74eVJ3wCIAaeFMvZvUSddEhBwqx31pgFMTDLC7_aHqpkUGhTuI9T5Nv5Dpkg2pJ2JElADoTyZsA",
-            "width": 1590
-          }
-        ],
-        "place_id": "ChIJBXgW49LsxUMR8ePmN9O1eKU",
-        "reference": "CmRSAAAAE_XDl7_-cfWhasfeimi_7MgroVxk66_d9oSxQJ2K-5EMkcC-V9_ihto4VEujyzq_6suB7Xrn9pz7w5HLJe6cJTUOFOQb_VCwdyPV6iqLG4SgkMb097bcQlnFhrSEikX-EhBbvn-yMhoTqejCS4pOsaJcGhTTSajFhK3T6ewSFcVsXpFIGGn4CA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Komsomolskiy prospekt, 18Б, 2 этаж, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.162805,
-            "lng": 61.29744900000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1642247302915,
-              "lng": 61.29879813029151
-            },
-            "southwest": {
-              "lat": 55.1615267697085,
-              "lng": 61.2961001697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2e54585c3021fc43849ac4a0f0977921a2b651ea",
-        "name": "Kapoeyra v Chelyabinske ABADA-Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1167,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118132102021049766209/photos\">Капоэйра в Челябинске ABADA-Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAARe5wxo2JrTbTNoKUQSRegztVbyrCaAmM6T6y6ay-85UAb0wHCb9BK1v9Wv8LRhaCJztA9mFLU1VkhQu7TVwv0H1fjUG--zLkTd1MVje3NG0yF7LqBxu0JkRuPBiY5R-zEhDndpYlt1XwBs9TAs89HsC-GhQw2_fLh3vq4GcrumX-vu7FUww95w",
-            "width": 1167
-          }
-        ],
-        "place_id": "ChIJxyjddFOSxUMRIbYyc8DNtqc",
-        "rating": 5,
-        "reference": "CmRSAAAA7H42u9-I1dOXRA9VEaLOJtWEk5F6y_qe0tY6bD2d6UizspPrvvrkZMLWc5PVzBnN5BbARAKyk-0VintmRmX6sSv-yJX57iCdxFmFkYHC-7J10vFRnxGs3KZ7_ZbzPET-EhBY4Ek-VLiOkpQQ1pU4LUnWGhTuXg-6mGOeQzdugROCrX1uc3APxw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "ulitsa Akademika Korolyova, 15, Chelyabinsk"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 55.19121999999999,
-            "lng": 61.29443799999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1925275302915,
-              "lng": 61.2957166802915
-            },
-            "southwest": {
-              "lat": 55.1898295697085,
-              "lng": 61.29301871970848
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d58b6c5b2e3f464a626295868368dd0fb4167a84",
-        "name": "Kapoeyra v Chelyabinske ABADA-Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1167,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103973819879290765013/photos\">Капоэйра в Челябинске ABADA-Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAsR1EEsBDPGD0AlQvuIfHxKkeK1mcrc5bfVA_0u3nhYqDT8jYkEj084z9bNj6mggOyeL9iDMrPVwkQ-FDlMZgPVywrMpLwbqL0s3sdjhun4zXV3xoJmHS-lxCnL_Zc3x3EhA10MIlpOW8g8ebDl0cWtL8GhSaHDfz58HTgnT6LHtFj9u9NNeeMw",
-            "width": 1167
-          }
-        ],
-        "place_id": "ChIJByrM_nKTxUMRDq7Gw_LrxiU",
-        "rating": 5,
-        "reference": "CmRRAAAAGBPA8ZoPaoe3ggbacS6pxuSFSYcix3hn9pyY7jjtOd7vczWB4NbdKersKiWOJBQXOyIIswx4Y-3kN4dgD6EWzGUd3fDuEMcgJLbh48BK8ilT0FuzD1StdFOTxWDO6PvBEhBvOst1VhPB9AcqrPb8m7bWGhRgEct2RRXcWn-V5X8zvm2t9lt7OQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Komsomolskiy prospekt, 94, Chelyabinsk"
+        "vicinity": "ulitsa \"Kaymakchalan\" 29, София"
       }
     ],
     "status": "OK"
