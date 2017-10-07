@@ -1,20 +1,99 @@
 {
-  "city_name": "allahabad-in",
-  "city_rank": 256,
-  "city_population": 1073544,
+  "city_name": "gaziantep-tr",
+  "city_rank": 257,
+  "city_population": 1066561,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "25.45",
-      "81.85"
+      "37.059444",
+      "37.3825"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 533281,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.07415299999999,
+            "lng": 37.367559
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.07550198029148,
+              "lng": 37.3689079802915
+            },
+            "southwest": {
+              "lat": 37.07280401970849,
+              "lng": 37.3662100197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "bdb7efb89274e470bc8ca3d5bb7354fa86c73f90",
+        "name": "Yakup Cin Spor Merkezi",
+        "place_id": "ChIJyRbTblvhMRURpmzdh29JkHw",
+        "rating": 4.2,
+        "reference": "CmRRAAAASdVnMJWRGZCr1B1KYctCoBDGthrUwSEUQDfYzwA8lStcY9_c5irOG1s3syEX1i1jfwCfArYoxLRLwTgUgOTy6kGnrGTQruz9nrOcSgUZahHuDeWIbUHxtlDrn5QBqxVJEhDUp4J2WbI5vpmF-N3MksaDGhQ6aeem41w16fIG-4R_IGVcmBoZNA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Turkey"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.078665,
+            "lng": 37.333123
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.07997778029151,
+              "lng": 37.33445238029149
+            },
+            "southwest": {
+              "lat": 37.07727981970851,
+              "lng": 37.3317544197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "1020bf54a00c6771516635771f4f27b75348f925",
+        "name": "Newform Fitness",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 470,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110692541630068459622/photos\">Newform Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAKdyMdoZXElesBdMuOcbjfPLY15iPKxVsyBN8dOH8Ipg-9TyCJrONH6q7aXj_v5mxaCbdFWoUCyrTryXh2ci5eWoqZdGROSscIciRqhE0M_10KTtSgvHIfL1KcfkPmlsdEhDNiPZjhRjI1A1oSHbL1UTUGhQgFhatUmKmkaBK20QTOWbAI4QD2A",
+            "width": 470
+          }
+        ],
+        "place_id": "ChIJs3LWHpnhMRURmLRhF4IoV2s",
+        "rating": 4.5,
+        "reference": "CmRRAAAAbeKs63rMxXZ7VonZATL5QOYSuypwxJyM-bDsxrsuvS6wMsiwtimupOqrsMUaIRaBhIBFGGJPtb5Su8xCJ9Wk5wFEhSTj-umRAw0FcPyTmoDKCIpDntfnRl8__CRTqxLHEhDbK_YlF5oreaxYwzo0r2JLGhSK3eJAty4q25ulwK7s76mg9SCWqw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Atatürk Mah., Adnan İnanıcı Caddesi 34/A, Şehitkamil"
+      }
+    ],
+    "status": "OK"
   }
 }
