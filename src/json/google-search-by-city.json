@@ -1,20 +1,53 @@
 {
-  "city_name": "datong-cn",
-  "city_rank": 261,
-  "city_population": 1052678,
+  "city_name": "tbilisi-ge",
+  "city_rank": 262,
+  "city_population": 1049516,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "40.093611",
-      "113.291389"
+      "41.725",
+      "44.7908333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1049516,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.7087862,
+            "lng": 44.7686541
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.7099787302915,
+              "lng": 44.7699769802915
+            },
+            "southwest": {
+              "lat": 41.7072807697085,
+              "lng": 44.7672790197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d615ca9d6dccea0fafe017d96d56a250e6e1f33e",
+        "name": "ლოტუსი",
+        "place_id": "ChIJD9GoGDNzREARoNucAgKmxcY",
+        "rating": 5,
+        "reference": "CmRSAAAAXKBYo6AYmFVjG0i02fvdqdNiS7p1ta_ygo6ymLo5RtlioHBbDUDVqogmfYD3xWLCwGcGHePJIourJ2Er9kvttJryQEZt-N9QZl2_H_rqscZfxCUU5RLXI2ns4_4AN6oxEhAAY8VrKcLbHqoDZ4sU-o0RGhT4XID_KY_hAeHA_JcIPn_jGx5b1w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "35-37 Zakaria Paliashvili Street, Tbilisi"
+      }
+    ],
+    "status": "OK"
   }
 }
