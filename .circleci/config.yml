@@ -6,6 +6,6 @@ jobs:
     steps:
       - checkout
       - run: npm install
-      - run: node lib/google-search-by-city/index.js world
+      - run: node lib/google-search-by-city/index.js US
       - deploy:
           command: bash automated_deploy.sh
