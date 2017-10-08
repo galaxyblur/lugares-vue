@@ -1,20 +1,63 @@
 {
-  "city_name": "kinshasa-cd",
-  "city_rank": 16,
-  "city_population": 7787832,
+  "city_name": "cairo-eg",
+  "city_rank": 17,
+  "city_population": 7734602,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-4.3",
-      "15.3"
+      "30.05",
+      "31.25"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 7734602,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0510252,
+            "lng": 31.24719519999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.0523741802915,
+              "lng": 31.24854418029149
+            },
+            "southwest": {
+              "lat": 30.0496762197085,
+              "lng": 31.2458462197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "cd95cb801833ce9c8a87fa1e3b54bdb2eff0cc64",
+        "name": "Capoeira Brasil Egypt",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106331980314720469412/photos\">Mostafa Mourad</a>"
+            ],
+            "photo_reference": "CmRaAAAAbWwWNPbkQS-LSblg3pE8bLBM6XLIGY8n86FFqo6ysdNpMQeIvNeI5xijTZA-JaR2XKNPS7N5kOsL21Qn64HGOwS43F0WZpf0p8sZfvy_RUOSumT8HkfrYQyx0_UFdosXEhDBP3S6Bop3LpN7MeELHO9-GhRitgY7g-u2pieVNuoo1-HDG-HzSw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJw5GQJpZAWBQRR6sHoO0E-Go",
+        "rating": 5,
+        "reference": "CmRRAAAAZzjz1rOHEpeUSnSOllsHXU3sJbjEDlz1Mmkn-XPZgLbJ7RpQlV9ej0G9e0EMnFuQZZaGd__wENCcRzXtRoJ4B3hZ_uz0DsOf2xmbihJZn58fCd7mMKooYXGGnBd8NoNFEhBB_uI2oye4Q9IGddRpdWxiGhTjNW3-p1ijjP22qDDowf8IpitljA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": ""
+      }
+    ],
+    "status": "OK"
   }
 }
