@@ -25,25 +25,21 @@
     <el-table :data="groupsInCurrentPage" stripe>
       <el-table-column type="expand">
         <template scope="scope">
-          <el-row>
-            <el-col :span="12" :offset="6">
-              <div uk-grid class="uk-child-width-1-2@m uk-child-width-1-1@s">
-                <div v-if="scope.row.schedule_text" class="uk-padding-small">
-                  <div><span class="uk-text-muted">Schedule</span></div>
-                  <pre class="group-schedule">{{ scope.row.schedule_text }}</pre>
-                </div>
-                <div v-else>No schedule found.</div>
-                <div v-if="typeof scope.row.location_coords.lat === 'number' && typeof scope.row.location_coords.lng === 'number'" class="uk-padding-small">
-                  <div><span class="uk-text-muted">Map</span></div>
-                  <div><img :src="'https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w&size=200x200&zoom=11&markers=' + scope.row.location_text"></div>
-                </div>
-                <div v-else>Not enough information to display map.</div>
-              </div>
-            </el-col>
-          </el-row>
+          <div uk-grid class="uk-child-width-1-4@m uk-child-width-1-1@s">
+            <div v-if="scope.row.schedule_text" class="uk-padding-small">
+              <div><span class="uk-text-muted">Schedule</span></div>
+              <pre class="group-schedule">{{ scope.row.schedule_text }}</pre>
+            </div>
+            <div v-else>No schedule found.</div>
+            <div v-if="typeof scope.row.location_coords.lat === 'number' && typeof scope.row.location_coords.lng === 'number'" class="uk-padding-small">
+              <div><span class="uk-text-muted">Map</span></div>
+              <div><img :src="'https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w&size=200x200&zoom=11&markers=' + scope.row.location_text"></div>
+            </div>
+            <div v-else>Not enough information to display map.</div>
+          </div>
         </template>
       </el-table-column>
-      <el-table-column label="Name" fixed min-width="150">
+      <el-table-column label="Name" min-width="150">
         <template scope="scope">
           {{ scope.row.names.join(', ') }}
           <div v-if="getWebsiteDetail(scope.row, 'logo')">
