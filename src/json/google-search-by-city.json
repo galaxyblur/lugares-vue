@@ -1,20 +1,67 @@
 {
-  "city_name": "dhaka-bd",
-  "city_rank": 22,
-  "city_population": 6493177,
+  "city_name": "lahore-pk",
+  "city_rank": 23,
+  "city_population": 6312576,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.7230556",
-      "90.4086111"
+      "31.549722",
+      "74.343611"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 6312576,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 31.5202611,
+            "lng": 74.29049789999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 31.5216428302915,
+              "lng": 74.2919812302915
+            },
+            "southwest": {
+              "lat": 31.5189448697085,
+              "lng": 74.28928326970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2a25cc5dc77213bfcf93fdc201b95e296f47e31b",
+        "name": "Fitness First Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2031,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103871376383611432762/photos\">Azhar Masood</a>"
+            ],
+            "photo_reference": "CmRaAAAAD2CTROATMlb6igLfOyKmupTxEXnYDOWSRoD0Pxv0ajrgfCQdPouRJEa6ra__zzRzLwFQFmq0BqXWyYcK2CzJK-pj32705oFzxuDvxN0Fry37D5tanUaiWEyRUqISvJQYEhDyRYPuc8ObOESk7IKO7tq9GhQiC7BAlKfn5EUsEurApavyNYvdSA",
+            "width": 1949
+          }
+        ],
+        "place_id": "ChIJe1AV_XIDGTkR13v33gEZu7E",
+        "rating": 3.2,
+        "reference": "CmRSAAAAPpEwCKHQyMeTfLM1G_pk_XeiN4lJghs2Txv3GieheihcDVOY4y_Fh43C7eMVKaozdULEKsAfVEgE_CtG6our88RS_irEncsdIak4uHGLXm0CsqTQymVhE5o2NIA71kvBEhBGvTB2KAzzOA5UJSRGikvcGhRn7CW_ulIzXfQAI9VRMsuh3XdKBw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Main Boulevard Allama Iqbal Town, Lahore"
+      }
+    ],
+    "status": "OK"
   }
 }
