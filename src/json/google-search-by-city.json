@@ -1,57 +1,87 @@
 {
-  "city_name": "sao-paulo-br",
-  "city_rank": 10,
-  "city_population": 10021437,
+  "city_name": "istanbul-tr",
+  "city_rank": 11,
+  "city_population": 9797536,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-23.473293",
-      "-46.665803"
+      "41.018611",
+      "28.964722"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 556747,
+  "people_per_result": 489877,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
+    "next_page_token": "CqQCGwEAAGj2rDjqrYBT6R3VLxbdSoIFevkEiRKHfZVkqgaa1V1v82KDY269A447JjhQkIvfnf2k5L0n37H9br3E8MOppAeeVLYk7IbztAn8oVrgwhmeHF5JZ-a_cvDWZ6endHg7eF1_jOEZqJDSs3CjNJqgXmzbgGHPBMGWOxS2vUr1XNa2vqR5YhpHJQbMhQLPsH6HX5ixeYIjVfR3PrFiT0bLG6QTPUGj7NeRLFZy6-obA0FoHRcGaTPKYvrjSgBFNNwuhURnPJbYMidt5p2OLVO3K4SXqzKNmcrXwNb7Z9h5iGEZZFx8p4aW9kgrcJ6o6NMza8McS5Ia_aXsZhG4IFPcmoffaXAuYeW2APZuQtKHbJrKwPV-S3fSvtajyRmd7LfXfxIQ3FrioFcBq64qE6t2kDkBWRoULJLdqzpI493kzs43CKL15SirZ68",
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": -23.4695936,
-            "lng": -46.6648062
+            "lat": 41.0265434,
+            "lng": 28.97497289999999
           },
           "viewport": {
             "northeast": {
-              "lat": -23.4682141197085,
-              "lng": -46.66349116970851
+              "lat": 41.0279233802915,
+              "lng": 28.9764218802915
             },
             "southwest": {
-              "lat": -23.4709120802915,
-              "lng": -46.66618913029151
+              "lat": 41.02522541970851,
+              "lng": 28.9737239197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "54ff78497b9a1c86946dd2da60c762c7582dee0c",
-        "name": "Academia Round One",
+        "id": "204fee5e9d4b6877e699012b56834882223b0418",
+        "name": "Dans Buluşma - İstanbul",
+        "place_id": "ChIJyYYZQue5yhQRX6lV09Gj0mo",
+        "reference": "CmRRAAAAOjJkFpsH8AhuysJZeMJtdblZZmFr-zmEi_3bDbeX3BzQvYtyppBik9SDX8IfVHmyP3v1gfa1No8y_YVDZ0lp9YoZspmBqOcxnjcwS3YrSQgP0Y0w-i9gUQ8p3wvC-HIfEhAR5ImPYhoGMb-n4b6X2Dz8GhSZ5hTOHVjc5eL1Qr8E6DZTx1-fFw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ömer Avni Mahallesi, No. Kat.4, Serdar-ı Ekrem Caddesi No:5"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0290007,
+            "lng": 28.9731681
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0303496802915,
+              "lng": 28.97451708029149
+            },
+            "southwest": {
+              "lat": 41.0276517197085,
+              "lng": 28.9718191197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "57e65a77a10797c182e282dd11231834ef9fb069",
+        "name": "Fit in Time - Beyoğlu",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 720,
+            "height": 250,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106058176991945519320/photos\">Academia Round One</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/101604253526325213537/photos\">Fit in Time - Beyoğlu</a>"
             ],
-            "photo_reference": "CmRaAAAA6Fg9MWLlESwiKAcZBrgDEekeoCMUckjXHs4xXkLG2SNfZ1B7Ppm-B6VUUNiKlfZty2Ndb9Ng8E5P4aYbZS9Wb-FcdGlW6qFuoBPJiA-yjPzjGKA8uexXHI0qrzOMUtAMEhDoqnyc0U5tlZKHQ1YYHN6EGhQevDI-jajYMo_PpwTO5c0KD-tnIQ",
-            "width": 960
+            "photo_reference": "CmRaAAAACLB9qvqu8ECUF47S3jl3SBjDbyupzPy3qRnw4mSHTLrB8QZlGSiNsBOmyRkYUlW2PI2rou9vWd3Hx_3MeYhfk7HAT0RmXe1BF6B-l2_O-Va0cirFSHwJ0aL0dVZGanh8EhBzCV30WQphjL49lQ3xZpAKGhRdwLRCl8Mb7QppQU37DUFk7smT4A",
+            "width": 250
           }
         ],
-        "place_id": "ChIJh3OgamT3zpQRgTorfI4MMGY",
-        "rating": 4.3,
-        "reference": "CmRRAAAAl5tWLK3IRKzyhV-c0n93aSNB6Rxrj9ZLkD6OSRfm0efylR6Z4MDrMw1WPSWLMZ7itheWiFZqFP97Q_Ih54wyafa9otdnCrRWdS6K5nNLfCbIDAXwsQmp5Olcm49VWqWrEhAyVlQMnwK83uK0oVnNmrtOGhSuFPSggTC5UtSdm5SN_rp8P0t1mg",
+        "place_id": "ChIJBav-KeG5yhQRqT0z58uTGTU",
+        "rating": 4,
+        "reference": "CmRRAAAAoBB_xU1pRSK7HC8xWF1OKPHO6U6Okvx1bOJXftWmn4Py2O2ANFQ_7VBX705QF58UvUbztxsorTHrOzzKrcLAJMMFqtA_IHBs8QzbtpOpKXAB1CPeh2J6mH3SlvoT_zuJEhB4t7NrRZFPwGdmaWiwbFVQGhRNm1Izwfc90HE4KCqfMCRhfgEapA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -59,661 +89,399 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Avenida Parada Pinto, 542 - Vila Nova Cachoeirinha, São Paulo"
+        "vicinity": "GENERAL YAZGAN SK. ARZU APT D:15, Şişhane"
       },
       {
         "geometry": {
           "location": {
-            "lat": -23.469129,
-            "lng": -46.663091
+            "lat": 41.0264526,
+            "lng": 28.97805129999999
           },
           "viewport": {
             "northeast": {
-              "lat": -23.4678089197085,
-              "lng": -46.6617943697085
+              "lat": 41.0279407302915,
+              "lng": 28.9793370302915
             },
             "southwest": {
-              "lat": -23.4705068802915,
-              "lng": -46.66449233029149
+              "lat": 41.02524276970851,
+              "lng": 28.9766390697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3357e11016e22fa86dcf8bd2b3dbbe8afb19a184",
+        "name": "Çatı Çağdaş Dans",
+        "place_id": "ChIJ-52w3t25yhQRjhWKN67QT-M",
+        "rating": 3,
+        "reference": "CmRSAAAAN1k92v1tPtZi8g6VYswwbqG-cLNHNqlOI4-j-FZQiajDWxRZiNsewUZwIQeLEG5ZH8ZvI4jUqBA_wD18VQ363hJpL-xpnjuRRsy05QSuRIiRFxXuGxOxprBFXg_G_S4OEhCtdnxcbt2vMw75Tq6nUHcRGhQ0HqVHUk--nTshqb-CCU6-MQiMCQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Hacımimi Mahallesi, Hacı Mimi Külhanı Sokak No:1, Beyoğlu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.033263,
+            "lng": 28.976628
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0346119802915,
+              "lng": 28.9779769802915
+            },
+            "southwest": {
+              "lat": 41.0319140197085,
+              "lng": 28.9752790197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "3e3767ab38f92b1966debdbe35bfe5f69f98fd1a",
-        "name": "ACADEMY PLANET FIT",
+        "id": "bcc4d52eb85b9de0b9cd3c0177cf06e2492b4196",
+        "name": "AfroCubanos Dans Kursu",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117462123742428032309/photos\">AfroCubanos Dans Kursu</a>"
+            ],
+            "photo_reference": "CmRaAAAAnWPpfqHCtbI8JEp-5IH7ayUEhh7Xp8lRChIanCnmfLsrN4VjAub_00wtgbVacG3dBF6bH5OoHaRQTppMWueY5HSlqw2hB0OkSLSsthzOW11SMitY_OJpyOlF4GZeewp3EhBDosG2ztrktXs0n5hL3YgKGhSWD0I910N0rlYKFDTtM68QJpZ2Rg",
+            "width": 1202
+          }
+        ],
+        "place_id": "ChIJgVmjc2C3yhQRwrlCaSDYRdQ",
+        "rating": 4.2,
+        "reference": "CmRSAAAAcZjxsxysfOJS7VW3JpVgYL1KWCQimHZYtY8RncK0Bm9lu6fy1UlC2GV5OGLaGT_7uoDn0_hRDDf5owdbmiV7wiGyj3I0xGi_UWV0cc6_Daw1VZ2V6G1_eYObSP9TKcHEEhCZIYUrVVcljv25ySQu0LD2GhQ5yFZ7EIy57W8uhjs2HZzVAfn5uQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Istiklal cade no 112-114 ka1 Galatasaray Beyoğlu Yapı Kredi Kültür Merkezin karş"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0314928,
+            "lng": 28.9825643
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0328157802915,
+              "lng": 28.9839760302915
+            },
+            "southwest": {
+              "lat": 41.0301178197085,
+              "lng": 28.9812780697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2063deb0d5255b084b03cb282d48f55a1682eb54",
+        "name": "Ad Kickboxing",
+        "place_id": "ChIJqbmpImK3yhQRpfK2woC1uGs",
+        "rating": 5,
+        "reference": "CmRRAAAA3Cb3GWuWAAFIMxDcy_mUebuMufjHNP1PoJBLUCUFNdpsG1PIaeh2noieQWcaXCKXM0-3NhrydXJvkvvmIDaCPkNhO9s8_bs0skxiCRCSN1UcGgvPMl6JAM0FhcmMIK-xEhA0aMqT7UtL65NXlHl9lAysGhQ9JK7iEiRmuCYD6ljgLKXSAM0LTg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Kuloğlu Mahallesi, Sıraselviler Caddesi No:188, Beyoğlu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0138801,
+            "lng": 28.9404088
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0152290802915,
+              "lng": 28.9417577802915
+            },
+            "southwest": {
+              "lat": 41.01253111970851,
+              "lng": 28.9390598197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c2c2603c0e28858085014668984845e0ef802a7b",
+        "name": "Yaygınlar Spor Kulübü",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1345,
+            "height": 480,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111851287445510595239/photos\">ACADEMIA PLANET FIT</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110142034398803235490/photos\">Yaygınlar Spor Kulübü</a>"
             ],
-            "photo_reference": "CmRaAAAAZR5lSJZUGybi46ytxiqPqqh3aUGkOYfNikLKF-J_7sgDRGSPxyMk4V8lu2gc7cAWdNoytV94f6nS5_89uZO1AcL91VKwoJLAgR6JmsChoRjn6d8MRGTs6eqFSo4KAC6iEhCgGzgXca4TH9617HAeKAgcGhQ047Teo7GqjizZ4IC8h_hV67PUsg",
-            "width": 1344
+            "photo_reference": "CmRaAAAAVwv30yp53J58K7KWJz8Pug1GhpUGfqxFrTDkwtMcNDc0kd7Of3s6pMbsC55ScNk0EE2vEJxnF6RrWZHS0PjesDbPVe2hDqWeSabKpfPRB-XpTNS3fhgmgFH6DbscJx6mEhDK8NjhH4cxi_yY7-GyS0SlGhT61KOCk22ZcPUr8_BvTTCG0Kl2dg",
+            "width": 970
           }
         ],
-        "place_id": "ChIJrxuxs2X3zpQRRpQVBuJANaE",
+        "place_id": "ChIJ2QBzBjC6yhQRkS-uO1rGxAI",
+        "reference": "CmRRAAAAs7Ndnm52I6Zisu-Ho4msQ4gIpciBRVtc7Z4IfwrETffqCy3L5HWWUi38tgnDALWoxdOwsA9hTRzyeG4_TPVAmVf6IwiUDOl-HPP6MMw3EG56pVzLNA4sy59sGpkbw6mBEhC209LP9EMnIRaeQygk_D4lGhT0ZMi_QMpCqSN7Fh646w6zFWdYJQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Molla Gürani Mahallesi Oğuzhan Caddesi, Saray Hamamı Sokak No:32/A Fındıkzade, Fatih"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0343662,
+            "lng": 28.9791856
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.03569068029149,
+              "lng": 28.9805525802915
+            },
+            "southwest": {
+              "lat": 41.0329927197085,
+              "lng": 28.9778546197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f69594c566d437ed266673f0504ce6649e8d0cca",
+        "name": "Yunanİstanbul Greek Dance",
+        "photos": [
+          {
+            "height": 1912,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109249071477379076597/photos\">Yunanİstanbul</a>"
+            ],
+            "photo_reference": "CmRaAAAAIdHOL0NLgZmU4BwAB5jz2LlcknQ7DjJmqO4WGw7nonlpm8RovZMbZyt_W4_S6NJ8KS89Bja-ZQ3FAqcP49OPeCGdrC1Wu0xjskcWyMjLkJH8IaL6l8K6Fpxq3MC7BdXsEhDgPBr2q67H14RTL7vLE6-jGhRCDf65DNjKk35WMbC2cbPRD-eHVg",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJLfBfHWG3yhQRz6Lqu65k0Ao",
+        "rating": 5,
+        "reference": "CmRRAAAA6w6BUObHIio7kITWTKUJb1wKob8idPX2b0rtYW62W2QvmENeEuCiLijI_k6mHpzVIYugmUtCgSUZHb7tACIa6Mtbjeo0oRotwt7KUqSAgLg-4BZKlQGNObRu7nlz1RwEEhCENVcDhQR-gO_oB2IJ9xRVGhQlu1f8znk4mxjk7olB16ANiKywNw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Hüseyinağa Mahallesi, 7, İstiklal Caddesi Halep Pasajı No:62, Beyoğlu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0310341,
+            "lng": 28.9845282
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0323830802915,
+              "lng": 28.9858771802915
+            },
+            "southwest": {
+              "lat": 41.0296851197085,
+              "lng": 28.9831792197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0e39d3ef9f350a43aa0d3aff3176f89ac0437004",
+        "name": "Depo Dans Cafe",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112678190536476534759/photos\">Alp Berri Ariti</a>"
+            ],
+            "photo_reference": "CmRaAAAA2vsbQiQ2MDuObylFl0KLVo3RbiU1OZlivtWkb7TXVdGUSUoPgAgVrpFeRCVqnCEHS_OtncIR1K0ITXpV_Df8DfRds2ro2jVv-jyBTAQTAM9-aEZm8ZPQwqKzRvufbuteEhCJMz_VneDO9FlMy39XQV-lGhTjxMf_wq6OIwB8NDqTHhIgkTmnhw",
+            "width": 4640
+          }
+        ],
+        "place_id": "ChIJv5uwQmK3yhQRrBGrM7BD-dU",
         "rating": 4.5,
-        "reference": "CmRSAAAAxZVGbZYy0rUw9W09-VPsDHNof-HQz4AxWQEymqTarvf8DkA-dEM4pB-n9LKen3LYon9PRfWvs7obZNXZilQwjzWsoNHtpnR86RxKXNdaG0KN3n0NU8ywtucKJZ5sEE_lEhAytKHAFRGqrVQ8zG_6LKjDGhSJ0EJNfoYhWGbHGaF60Kmxu3j4pg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua dos Patis, 23 - Vila Dionisia, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.4872078,
-            "lng": -46.6744269
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.4858588197085,
-              "lng": -46.6730779197085
-            },
-            "southwest": {
-              "lat": -23.4885567802915,
-              "lng": -46.6757758802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b5efd7b3e54ea2a83ba2669259370f8d230ecf88",
-        "name": "Centro Cultural de Referência Mestre Brasília - Ginga Brasília",
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112250121006022161404/photos\">Rainer Lopez</a>"
-            ],
-            "photo_reference": "CmRaAAAAoNAd51tBOzag-xnMKL0RAwU7XOUkY2jCbI49qq3Zz_BXg8iPIx0GDldHS2nyXdPtLtaeXvWv8Xg1ZEnfkJouqv8QcsojXWOwqLFLNR4u07-WkeVkx7wKQixZuAkXpWpkEhDKrYZzGT7KlV9gbzuDm6UEGhRmsT2qVbJxvS2muj5l5TUJhPNkgw",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJwVH4ayv4zpQRNI2FIUg1CWU",
-        "rating": 5,
-        "reference": "CmRRAAAAJ8lbP4XI1BgmJQHEw2rgIZycs1w3CVRLsPAsIbPr6B4_092j1Jt68CggFfWJTZJdddPNDxLrzBQUHZmINieMVtstwZSnugDEcwYKBaKPyD5owCK5oN06ojmaxiwn04l4EhDVgJW1x-ozK6SKfd8Je85aGhQCL_9b52Ce8sIRDk8YhJAPcsJ6HQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua Thomaz Antônio Villani, 244 - Vila Santa Maria, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.475551,
-            "lng": -46.63908399999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.47418111970849,
-              "lng": -46.6377480197085
-            },
-            "southwest": {
-              "lat": -23.4768790802915,
-              "lng": -46.6404459802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b43b8b2c4db5c55d0afc25a8c95c5e5d6ef00678",
-        "name": "Wr Fire Gym",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3301,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100864340109365849115/photos\">Hernando Almeida</a>"
-            ],
-            "photo_reference": "CmRaAAAAK0fwXUMyK8hNbqTNRgMWF4QaC1tvT3ckgDiO1VTy5-s3xzjGDBNcTM2sXt-zjvUd8R7PhbRE-wE3fPw_mcdXosSW58jraUUBtC_tFkQdav-qo0hto4tD9s4kFY4g1qbfEhCZKFvtdYmM7jvclurNdzDEGhSpYkq93gKSPPYQsCI2JUTzHszLmw",
-            "width": 4890
-          }
-        ],
-        "place_id": "ChIJOyM3Nqf3zpQR8m55yTXdN7s",
-        "rating": 4.8,
-        "reference": "CmRSAAAAlsAgqAe6hg3UkvLuAkev1_pyOt6zKcNZVXTge6EzQKZQRIu3StiQDxaFq__OAArTr8rKtrME30BwpGAltsKPnYH4Jrjg04pAyTzOEqVjySDij2GouLrsMcVltansAthLEhCkMNb4I3xHJVsfPGoGyDfaGhRHfFNGdGEuVG_75qfyJBMLzy5Q7A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Avenida Direitos Humanos, 2125 - Lauzane Paulista, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.5259958,
-            "lng": -46.6877072
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.5246868197085,
-              "lng": -46.68635871970849
-            },
-            "southwest": {
-              "lat": -23.5273847802915,
-              "lng": -46.68905668029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "47ac6cdf9ff33e2d7417eda7c0267c4fad6c8d96",
-        "name": "Cordão de Ouro Vila Romana",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 898,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101185823007068713676/photos\">Cordão de Ouro Vila Romana</a>"
-            ],
-            "photo_reference": "CmRaAAAAVBHWm3ciUj_bUHT5yhQnFm30Wm1BoCbt86HTSbkeX49bGjNv09Gm0D4_y8YqV541KSkur9dqukUuyq421srTP3QjgTycmd-YGKmcqTSvnR36CXHqRjb4Z_otdSomGOCrEhCNtB4Lkxrxq6gAwcW75z-wGhTqPUPfTFJofF8tIwhwmGjbMrJemA",
-            "width": 899
-          }
-        ],
-        "place_id": "ChIJS-jyAQv4zpQRy7alVvmoEUE",
-        "rating": 5,
-        "reference": "CmRRAAAAcw01oXg2fcAU5uohbohyfCL3KQUJEsTeA8G3y_3yMTYyc_PImCSWT-bUfd0Gfro6GtmKOVOEBv-aMqgsRZQ7eIGYThj92SfnukQ0AHugCUEWKqDHzozOLHLfRuLpKFZZEhD7CPmTB9qW2Tltx4PzaanrGhTDoXhT8nirtYy6Hc3xA6YONxd9pA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua Coriolano, 232 - Vila Romana, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.5304139,
-            "lng": -46.67252570000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.5290193697085,
-              "lng": -46.67125666970851
-            },
-            "southwest": {
-              "lat": -23.5317173302915,
-              "lng": -46.6739546302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "245897be6c080c412c2cff9ce2e4e0caf42e80fc",
-        "name": "Projete Liberdade Capoeira - DEFE",
-        "place_id": "ChIJCdswVvhXzpQR2Ch9CXsDRBg",
-        "rating": 5,
-        "reference": "CmRRAAAA7tCoU8LG2KkoTEYX642ksZ4DwRFfXm8pp3Na-SUdY_LHL7yoEkdT_S0I8_FT_beTX69gc055Mr-QJPMTcA9j5vl1ufT79uMJ82zWe_7ZNqHSQuRu5gjaMU-gcEP-260REhB13dcFCtE2dPzx3xCRkYCoGhQStlknPfEvVPV_BI-a9cyeDNCU5Q",
+        "reference": "CmRSAAAAvxC3MjLVI7Kl0lzVVMPweldblLeIAP6YJXLyo6stXyXeudOMoN6AY2S147pLSvZMdfVfKW4-oN5xKJk1ddjBkdqdXtYJNJt2zX70FQSIrqCVcMdkr0Kj_SACNh4oOCcqEhBqI_c2agsL47QN4D0T96vOGhQpZwg9pkMGHpXV_fAm3oMplWeQpA",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Rua Dona Germaine Burchard, 451 - Água Branca"
+        "vicinity": "Cihangir Mahallesi, Yeni Yuva Sokak 18/B"
       },
       {
         "geometry": {
           "location": {
-            "lat": -23.5314263,
-            "lng": -46.67415829999999
+            "lat": 41.0353493,
+            "lng": 28.9802273
           },
           "viewport": {
             "northeast": {
-              "lat": -23.5301264697085,
-              "lng": -46.6728443197085
+              "lat": 41.0366982802915,
+              "lng": 28.9815762802915
             },
             "southwest": {
-              "lat": -23.5328244302915,
-              "lng": -46.6755422802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4e9e5cf1149e89752319bce9cb5bf508ea172caf",
-        "name": "Centro de Capoeira Angola Angoleiro Sim Sinhô",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJy5sSmPlXzpQRk-E5VAuN-EM",
-        "rating": 5,
-        "reference": "CmRRAAAADTrV40DrwaP7cla4KzC8UkbQcyc8iIQOLGzt0uLCgxcgeErToxI_6W90mCLQkijpbfEDdBbikMMre9LQtLU1WarAiH4FlQor6z3L213evCGEKeOEjm6XFPL4XGI4MATREhDKITRPsHadZz5uiIYVsHwOGhSD7PE5u233cqUDxXf3rnBFpiy7pg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua Turiassú, 1172 - Perdizes, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.4484319,
-            "lng": -46.7313281
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.4470835197085,
-              "lng": -46.7299830197085
-            },
-            "southwest": {
-              "lat": -23.4497814802915,
-              "lng": -46.7326809802915
+              "lat": 41.0340003197085,
+              "lng": 28.9788783197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "88b58253047b6d1a96f29a383958461ed03b24ea",
-        "name": "Associação De Capoeira SPORT BRASIL",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ52qRLuv7zpQRLCcoBo_J09c",
-        "reference": "CmRSAAAAZgkLXHlXVe1wyJO4QsUNQDs3h72ZzerGCg_WSzKKEOoevVKj9_PhetcWs4LUGkJxxjwpt7m7UVY9_tleb8stH8pQU8w8Us2vsv41Tc__woCuH1Ono2-Ylity3Iqe1ECJEhCBqe5jZcHiomxzOXYHP847GhTmfTBNidlKW6FFTAa-wck212J-BA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Igreja Mãe Rainha, Avenida Pinheirinho Dágua, 435 - Parque Pan Americano, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.5392131,
-            "lng": -46.6791385
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.53788931970849,
-              "lng": -46.6778094697085
-            },
-            "southwest": {
-              "lat": -23.5405872802915,
-              "lng": -46.6805074302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "640ca86539d05a3a0238977cc04dfd0f802de526",
-        "name": "Jacarandá Yoga",
-        "place_id": "ChIJWTx-8vFXzpQRjR2I_kmtQFA",
-        "reference": "CmRRAAAAftB1VbdopMxPRGUcNzYXmB6MFA23MqYP26dxyxkhq1c3m4-q_acxQRDMJvF_yXqFhz3u2ievgeVfBHcj8OuSDQYT0murUEC2AuEMop1MGswLT3Wlr_K2tHIbUm9tMdaIEhDaCM54mAIjxnXPwhHWp7ONGhT4Eui2ihDt7eAi0TGSJcTPgx7qFQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua Ministro Gastão Mesquita, 374 - Perdizes, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.540681,
-            "lng": -46.6463979
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.5393241697085,
-              "lng": -46.6450928697085
-            },
-            "southwest": {
-              "lat": -23.5420221302915,
-              "lng": -46.6477908302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1ac5c730dfc381f8e7a6215224888784698f7634",
-        "name": "Cordao de Ouro Duque de Caxias",
+        "id": "dfc54df19ecc87adadbe2f5cb6ebaaae95d38815",
+        "name": "My Dream Dance",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1000,
+            "height": 685,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105922383052679297760/photos\">Cordao de Ouro Duque de Caxias</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/101052964304090750433/photos\">My Dream Dance</a>"
             ],
-            "photo_reference": "CmRaAAAAd04qG-HajilQY36Vs1PGLT1M0J2pSOZN3sxhdO-mP1qHkKqaGKLXSgbT_GHMz3gr-ikhGAbhTQWprIXazEoVrPVLVhb9ZwSyjCsJ0IQUnDZLh6Zpc_96gqQYL_2gZTQtEhABzOert6qp266AgkuIaa8UGhQclS_BcOcS9vf4UazJq_tOZE1Ncg",
-            "width": 1000
+            "photo_reference": "CmRaAAAApoSQ0PJhav-LDbmRH2VpVNp0Moz4PWEx0ODr8ZBxglaIGDLzgFp4NF7xVqItmcXNbrKa2wW0n7Ps8YbF1uHQarHYTunZto1ouh1NfW7hF25dg7L-CMbnA7QH0IlmJRUXEhAq6d-L8tBIuHgIQvoFyQhGGhSk3SkeQVbq1Ail-hWzADQZzWsMzw",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJxf9Vf0ZYzpQRlg0rZE7LLwI",
+        "place_id": "ChIJPSG4hG-4yhQRap8JlCxb-A0",
         "rating": 5,
-        "reference": "CmRRAAAAIOuR3ZewH8qCQgb393tJVJU-0p_Y696FrAe0NI6qkTRu8Bs7xrCL93Dk1f1cEpHG5S-ZoPji_WIu-vE22P-lIBKoJdWL7H62gaOndSHvxzVntlC7_m02t8zE3gG8w5hDEhA6xnLMk5c-AJdqlOTETKGMGhTx-9tRfT9IGjvlZWw3lFNstEcZSQ",
+        "reference": "CmRRAAAAjIeSDOH4zBErU6kI9C3vObt3IaHXLUb_3X0EQVF1C12XVq9WT241_ZtOhMki8UeqnigaLgs4n-J6O0MwTSS_xuBeWbN4Vdf3BbNqaiTQAkiMP0zPvd0xPMS-P5HmJUDaEhAJ2BcKOtdwUJDt-piJpsYHGhSBW3c43AS_KEYJ3NInnRc7BsRlzA",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Avenida Duque de Caxias, 94 - Santa Ifigênia, São Paulo"
+        "vicinity": "Hüseyin Ağa Mahallesi, Atif Yilmaz Sok. Yoğurtçu İş Merkezi No:9 D:2, Taksim"
       },
       {
         "geometry": {
           "location": {
-            "lat": -23.5531153,
-            "lng": -46.64677589999999
+            "lat": 41.0346769,
+            "lng": 28.9827075
           },
           "viewport": {
             "northeast": {
-              "lat": -23.5517107197085,
-              "lng": -46.64543241970849
+              "lat": 41.0360258802915,
+              "lng": 28.9840564802915
             },
             "southwest": {
-              "lat": -23.5544086802915,
-              "lng": -46.64813038029149
+              "lat": 41.0333279197085,
+              "lng": 28.9813585197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b66a473263364b3eaf67285150b74400fe027716",
-        "name": "Quilombo Capoeira Light",
-        "place_id": "ChIJhVjppbRZzpQRsdUqWdIpE2U",
-        "rating": 5,
-        "reference": "CmRRAAAAG6KzsHpgVE_p3SKzRHxisWvnrxKwGFZvWgmqZKhtR-vl3R5Xady3dyUQvyIpGyL1KDts1LaJLNGU8Gv_ReIAzY9PBDxiNhsHF4xB95o8C8TnttTg0D5cT1BOCffUXYkJEhDpC6jtGDWwUMiO80HfwMMfGhTv5mZuu8sKbrIixS2wF7JHPeeLOQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua Luis Porrio, 467 - Bela Vista, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.564825,
-            "lng": -46.6317254
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.5634668697085,
-              "lng": -46.6302442197085
-            },
-            "southwest": {
-              "lat": -23.5661648302915,
-              "lng": -46.63294218029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b77ad2c4094a2fbff781ede1f9eb869234824d01",
-        "name": "sede grupo geração capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJwfqcngpZzpQRo8tApYtSc4I",
-        "reference": "CmRSAAAABOjOmFPh2seUbtIMIFgHEaqHqN05XFs96CDWg4cCqvMkjM1uJUZBMPY3EpJN4LZdkES7Qg0HGU4LslAkakhIBYnRJ9AhcbRUDYKd5bymfMjuI9ANbMNbyxLs1Myt8RibEhBx5PAbKKe-YQX59-Ux_KJOGhQnMJbgs4TgPmlkNIQOWDKKWe21mA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua Bueno de Andrade, 516 - Liberdade, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.5564759,
-            "lng": -46.59505449999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.5550815697085,
-              "lng": -46.59368111970849
-            },
-            "southwest": {
-              "lat": -23.5577795302915,
-              "lng": -46.59637908029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ee4fb217cad71e6ae2606b54d43199491c47df59",
-        "name": "Centro Cultural de Capoeira Brazil Berim",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 316,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114429491964784200879/photos\">Centro Cultural de Capoeira Berim Brasil</a>"
-            ],
-            "photo_reference": "CmRaAAAAZJcEim_A9Vh9XwT3aYLvcyoh3vbnWBbwwGhjJzHVNuR6RsexOiALxpmajqoCGOB6OfAER4tM7ZZCsflrirVvkGfCY0Mprqs-cc8CqkWtzhyKX9TAIRpxtj700z5BqwvrEhDJI4KZWVs6_ZjzfDff0Z5OGhSiJ7Tnz9Ir3OEQC8JZpMsvcZ7Aig",
-            "width": 315
-          }
-        ],
-        "place_id": "ChIJQRggG0tZzpQRchv-PN2zIZ0",
-        "rating": 5,
-        "reference": "CmRSAAAA3jCBrlxZPy0bdin2kBahmSJT28rCLhh6zMiE1dVdEAKXMCr3fPTfX3poNcG3CiSPLJx04fcJq2WFeJdqO1p_4Bfc4rkOfseE762u0HoU8nlkFnXKWNhctd0f9MCKUnmREhCgdDI3Yc9N5CLjK6PSdhwXGhRKHwt0H-ou5E2Fr2ej5lfNE0sX7g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua da Mooca, 3108 - Mooca, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.5574767,
-            "lng": -46.5956546
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.55610516970849,
-              "lng": -46.5943582197085
-            },
-            "southwest": {
-              "lat": -23.5588031302915,
-              "lng": -46.5970561802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "02ab4e7b13213c2d5cda0b8bc14fc9d42b314255",
-        "name": "Capoeira BerimBrasil",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ3w0WmVFYzpQRYJ4CSLRHWLA",
-        "rating": 5,
-        "reference": "CmRSAAAAfwbtZMYytkeIY9IvWzBbAM94o_96r1g45qAno8om1_onexLmMt52OheqirgSAbeI_P2lUTjCcr79p4B5A6P7ACOijxodr63HI0cRF5aofqKPSNuFdfQSI0hEdI1jQUD7EhBReoNKg5MDZiEsyRXTAsGtGhR-j4qt6jPqUaJnPds2AcW_O7jtvA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rua dos Capitāes Mores, 403 - Mooca, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.5997839,
-            "lng": -46.6346903
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.5984308197085,
-              "lng": -46.6334304697085
-            },
-            "southwest": {
-              "lat": -23.6011287802915,
-              "lng": -46.6361284302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4d4dd70698ab139d39809a66d83d48b19cd0176c",
-        "name": "Capoeira Gold Cord - Master Flavio Tucano",
-        "place_id": "ChIJZfWbbzJazpQR7FNoV5P-Fus",
-        "reference": "CmRSAAAAi1gA1t7tvd7EO5ixuYPvmjMkfj-mK2SK2eHZykEa04XqP2n1LKYn0t9Dpl_rLTA8BgCWVVXh-1vcwDPQWT4Lx4nBNivsBAADIlV1aI5SyXSxkC8oApddIk2iQf5xfnPLEhBgbQ_Pt0nJSAFI0YAbWty4GhROwf3_hgyBqRNMBE-Jul2UQYsXKw",
+        "id": "5db6ba068ab5dd490a560e5e2728ff7a5f6ed32b",
+        "name": "Taksimv Ewet Dans Kursları",
+        "place_id": "ChIJ5dy9HWG3yhQRw693JBrXau0",
+        "rating": 3,
+        "reference": "CmRSAAAAsFgFBXzF-j251IaCE3Vvc84YiagEJ6vXiNPILRHJTE3onmdvU25HEEQCjSS_lGyuUrVNCmgZzikZ_p8Hl75bhZDPlWfOHVqho2Vo3mVuhovjIPxEDGl3Gk1FE2ha1YF4EhB62612gFNlpM-qiBPt3gx2GhQt4P1tJxjuWSU3XoNXgO6kmlyHoA",
         "scope": "GOOGLE",
         "types": [
           "school",
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Rua Afonso Celso, 943 - Vila Mariana, São Paulo"
+        "vicinity": "Katip Mustafa Çelebi Mahallesi, Büyük Parmakkapı Sokak No:25, Beyoğlu"
       },
       {
         "geometry": {
           "location": {
-            "lat": -23.6115759,
-            "lng": -46.57246500000001
+            "lat": 41.03621690000001,
+            "lng": 28.9811621
           },
           "viewport": {
             "northeast": {
-              "lat": -23.61022796970849,
-              "lng": -46.57106941970849
+              "lat": 41.03756148029149,
+              "lng": 28.98251188029149
             },
             "southwest": {
-              "lat": -23.6129259302915,
-              "lng": -46.57376738029149
+              "lat": 41.03486351970849,
+              "lng": 28.97981391970849
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d856cec7ea94bf5a901ae8b90983676abd330f31",
-        "name": "Friends of Capoeira (Center Unit)",
+        "id": "c23330d59165b09b6dcd406a9189240d2021653d",
+        "name": "Tango Kursları",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 720,
+            "height": 417,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113767219597249489880/photos\">Thiago Ito Magri</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114284526584511656069/photos\">Tango Kursları</a>"
             ],
-            "photo_reference": "CmRaAAAAaekxpPk0aNEs4cOiHOmQQnZefZEjXRCl7yMQwWjvps70_XS6RBIHdP2hHmtsPqLhZ4nFRjw5yWkd5dbzMbxWdZbBLtUyDgPoUpt7NT6CVAykDKfe0BiiY1Y8oyhxur1jEhB_jhCpo4z5GC2088K5QADXGhTzoIHh4Cg3_kWNxzxJlDG6H6Mrsw",
-            "width": 950
+            "photo_reference": "CmRaAAAAohjFCHIdhviseE8z6xvDvXRZspyyShM6wYewLT1W2TvErWo2sX4U6YbYCTbmwdWJj8vjirhiMXheyzrUnGwNpW3HPzM7h_64lJlPuK0yV17Z4wbDDB5XQ7WzMZNoX8q6EhDnhzIPMc5nOfLLaS1CFh-wGhQxPaRHzISApKEgygI42YqtOQlhxg",
+            "width": 417
           }
         ],
-        "place_id": "ChIJ58HdkfJczpQRHHmKsXJa9XM",
-        "rating": 4.3,
-        "reference": "CmRRAAAAiU41vHyWhc0r8xZJVsiSlufl0NHlZiZ17lHf_RbmB2cJXgbKSC4fSRl8bdGEBX3r7jxGiYs9kwy8zo7bL7Io7ldxW9gp_hJGYND10BIQfFKDNNv3UI-4eoIGXVFt-bHFEhD2Y3XYxC399ZzhZck5SL6QGhTeKwVxWCRhVIYqbA3qrWUEFXPDwA",
+        "place_id": "ChIJs8OivGa3yhQRy9lg4LFR758",
+        "rating": 5,
+        "reference": "CmRSAAAAm6Xd484cDazzos3NbXeM8AdhF_2_ywIkFawZHSbHDBHmRDceikYm1aVEyKabqbRLqvBybpK4jUEgH4yyLyfOSrU5NsF71HutWKkKgd9ovs7kE33vxUl51VekbVBA4hxxEhBOcSObh03Q9lCZWqrHaBLsGhTK12BfFbL3EtGfRKavocNjU5wYyA",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Rua Manoel Coelho, 228 - Centro, São Caetano do Sul"
+        "vicinity": "Süslü Saksı Sokak No:1"
       },
       {
         "geometry": {
           "location": {
-            "lat": -23.5423501,
-            "lng": -46.45967690000001
+            "lat": 41.025782,
+            "lng": 28.931487
           },
           "viewport": {
             "northeast": {
-              "lat": -23.54130401970849,
-              "lng": -46.4581849197085
+              "lat": 41.0272268802915,
+              "lng": 28.9326709802915
             },
             "southwest": {
-              "lat": -23.5440019802915,
-              "lng": -46.4608828802915
+              "lat": 41.0245289197085,
+              "lng": 28.9299730197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a5ae801577250e719c3834f4953b579f10db6534",
-        "name": "Grupo Esquadrão Arte Capoeira",
+        "id": "a451d6f0c32e653ee11aeef087cf3c7316d983d8",
+        "name": "İBB Fatih Spor Kompleksi",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 2322,
+            "height": 1440,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105689194013028491255/photos\">Rodrigo Ferreira Silva</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/118142795046941062159/photos\">Hüseyin Yazıcı</a>"
             ],
-            "photo_reference": "CmRaAAAAhEcwts0icKBl06-1BsDI8aWK2Aqzomdjjk6Lg9QpWhYDvjsx-zLatP4Xk8MIddxdAEQGMEQ2cQHbytL0BrYo0bgYj08_ZXvS_p4-W_4CjmWaYexBelx62cLg5DF6EYz-EhBVB9xlOsE-_cV-9yYTv5c8GhTqQr9RvyoW51pCKDTnfCtvhtMohw",
-            "width": 4128
+            "photo_reference": "CmRaAAAAII6E6OgAbDXc-0r7dpKA46UUnK-06pbA90g_VT9X7F5GgcDDdFp2lpAJj9qk3eLVr0FgVz1JypZM-8VA3GO_WEaoN6dZ9iGyPWm1ttO-NNNaw2FT2TF8nWDkCLgw7FYFEhDmOs10Kewz0xgk_nOfv_P3GhQry5gsW6-I-SrVQ5UCk5vbgGbs4g",
+            "width": 2560
           }
         ],
-        "place_id": "ChIJZ6gWYMBmzpQRAJCjHhOZckw",
-        "rating": 5,
-        "reference": "CmRRAAAACJjbaGbJkoYy5DXJAR0FO51fG9CDfVGgPjmfrDJoDgLDXm--MZD7jR8uILxtsfJBan0rKMZ2fU3WU-mXnMG-LCF4zoguv-Xq0KzIF8taqwk6Ij2IwQQ3UnGAHxMzGIcQEhBp5Su8Rk59TyV_TP7ghXvMGhQ9npCwd-ByDAMgmrZq6pFkrFmbvA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Parque Linear Rio Verde, Avenida Itaquera, 7691 - Itaquera, São Paulo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -23.2136121,
-            "lng": -46.8457132
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.2122632697085,
-              "lng": -46.84435621970849
-            },
-            "southwest": {
-              "lat": -23.2149612302915,
-              "lng": -46.84705418029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "4d262ef3bde3b2fd07d7a4811db35939f0436d15",
-        "name": "Capoeira brasil mestre bola 7",
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106287568087708195023/photos\">Anderson Marangoni</a>"
-            ],
-            "photo_reference": "CmRaAAAAV6JcD9xpFmm8oTm1OhEFXRMJqBcI7DPq92Q1BmgvYfUbRA2fhG86IEpK49RWiBx_q2feEjaE4wO1C8L8S-2d4ysjf9JlemM5TV0touTVrtAPKi_fj7i-TUUWaWi_8oVgEhCWXV0P0xqsUUYpUxzG1Fb5GhRfw8jikTYOj6YUxaNzzuwWn7yFlw",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJqfuCa8cgz5QR37lsEU8HQws",
-        "rating": 5,
-        "reference": "CmRRAAAAHd6-uqF57_Zr7Rv0ZpY_tDwDQyZkiRDRBbt4rE47SV0xza8if4wyDpdgAobToHcY0dT3hyx64t1WxzVUrmjHJL8EV5_WoWWmHcfP27xcQzR2hB2snO_IgwA4FgbJ_ulKEhDv8Vv9hiYxRXz7ZoGvJgOXGhTNcljtHQY3m0T8YRWNQSw25k1Aqw",
+        "place_id": "ChIJlTBzYhW6yhQRLtEbDHgfQK4",
+        "rating": 4,
+        "reference": "CmRSAAAA-ICr74Ewz79d37UW6TPVQhJ86kPbjoYPaOh8Jl8lNwpFZYAUUxifsr9U6XdIcrTaNGVYHUOHvyTdjEvJGAA8oMUihCSjl-v4RhHf6SxJrIofEHrTIZeQ78M6L3I5-7utEhBkNZPr2bFe9kmrp6zXcmRMGhTtlxDXODznJX8knOSc5JFIdU6sIQ",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -721,7 +489,371 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Rua José Rabelo Portela, 326 - Jardim Maria de Fatima, Várzea Paulista"
+        "vicinity": "İBB Spor İstanbul - Fatih Spor Kompleksi, Karagümrük Mahallesi Kaleboyu Caddesi No:111/A, Fatih"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0193021,
+            "lng": 29.0126046
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0206510802915,
+              "lng": 29.0139535802915
+            },
+            "southwest": {
+              "lat": 41.0179531197085,
+              "lng": 29.0112556197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a69f05d038ebacd50250cf04d9313abc6e7a8d35",
+        "name": "X-Angel Spor",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 748,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101984700939191041848/photos\">Hürkan Gültekin</a>"
+            ],
+            "photo_reference": "CmRaAAAA8g_Y8ofVQJqtBV1zYuQJfXCVfFYgEWq6HzIwfC3NWroNEOGn7eq-9ehnOJd125YrgSAkwCYgT9L28dd3kpiaaGsg7ZW1rN12w8nqUgdGEn9zl2F84ZkMFWd2pjbgk7QxEhB2I1upP5HDJyrIP1u4265rGhSDXY1F8AJPYvEiG-HfwWYXFtMiLg",
+            "width": 1328
+          }
+        ],
+        "place_id": "ChIJnTjurCe4yhQRF6Wql3DLU_8",
+        "rating": 5,
+        "reference": "CmRSAAAAxm6FO2W04f0lXAZq2RglLNe9cd81IEoIC7WtxsmQHw8wZ76Yo7uWQSOUctTTE47eFgiRhLCV8Tj3EQNkyTO05N6sQVdJ4bLI2IdlND3wUjr5lKyBWET7ZZNTcFWz0608EhBI41j5d8G5WOjVJPLQh4y2GhRzfEGnB4brvP37sqJmMMqODJbMTQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Halk Cad No:80 D:1, Üsküdar"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.001859,
+            "lng": 29.031389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0032117302915,
+              "lng": 29.0327616302915
+            },
+            "southwest": {
+              "lat": 41.0005137697085,
+              "lng": 29.0300636697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dfc2dc11ea5a35fd95141d6ee2637224860b2cb7",
+        "name": "Stars Dance and Music Academy",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111404642213861349523/photos\">Yıldız Dans ve Müzik Akademi</a>"
+            ],
+            "photo_reference": "CmRaAAAA0GMPlPKwjO7it-oCdJxIXLjl68evgLl3l6rMvblKsg9pHfZo51dUzWWxcdHve76XTq1upKCba-pzwXJTeEMlABakkLOxmGQB3UPwXU-TfTrRCmscygKV3Ah7xtaAoC40EhC3-4kLtyPLP2x4b2MEVG2gGhRh-TJeVCAsKmBPSKOlP40F_jPS4w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJmxlBJBK4yhQR-f1B818lM98",
+        "rating": 4.8,
+        "reference": "CmRSAAAA8o2Pzs7PQF_VXQBhJEGvMc0wJGdK14WJGZ-zOD8rjg4deEIhizI1sYlSMruX_73btfokJXBH1VIQS2mcZghnxSeEZf3uNoZtiRh5GlmL3Lgce2eyKB346UX1xe1KkhXPEhBCYxg8KS70Zy-dggyMOfCgGhQn2Z3SSJqk7odvFmHMVN1GtAf4rw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Koşuyolu Mahallesi, Dinlenç Caddesi, Arda Sokak, No: 4, Kadıköy"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.98859149999999,
+            "lng": 29.0248114
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.98994048029149,
+              "lng": 29.02616038029149
+            },
+            "southwest": {
+              "lat": 40.9872425197085,
+              "lng": 29.0234624197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "063e4de70f5cc2f6360ff313214e5ef6d8605ca1",
+        "name": "Sports Universe",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105205689130305753672/photos\">Özgür Arda BAYRAM</a>"
+            ],
+            "photo_reference": "CmRaAAAAtofqzkkPTXGctK1RP5oJMBUC5wvHJ5OnWOsKGklnKXapEJorYgV2ICOUzEgQGsp1Xm7Ch-Cj4cQUHigktk5DHhctB0Os3mIu2xUXEQNQp-nSsfIOsyTXB74eO4U45ieQEhA2kX00ejPjxgWb8CnMbkxkGhThXAlDEU1-VOGfs6ZA2sK_zBTpIA",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJxX54pWe4yhQRypjLNJZDZjs",
+        "rating": 4.4,
+        "reference": "CmRRAAAA83EXSF7ciRMsXfM12SvcnjGun_OtHr9f9QUleUFWpgsL-nGFhORuB1H_yORK29pnO1pnVmgexqi78DnVqjxFcyf76HkbQxB9yMx_YroeK5eqpBI-56mHY55g25_5SEfCEhDp3382xtJF95IvQNAq_z03GhSWiNGLsuOgCQLF9FyLhVgsHsSeqw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Caferağa Mahallesi, Moda Caddesi 26/A, Kadıköy"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.024004,
+            "lng": 29.0383027
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0252481302915,
+              "lng": 29.0396988302915
+            },
+            "southwest": {
+              "lat": 41.0225501697085,
+              "lng": 29.0370008697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c29fa2835e1d891c12400a044a15e9bc65a143a7",
+        "name": "Dans Keyfi",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 400,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105792895556324675741/photos\">Dans Keyfi</a>"
+            ],
+            "photo_reference": "CmRaAAAAMVKK1NRZ-iaEqtZ1l5yVnntCDWEth9b3VaZxHDNW5ROJb0IsOvlxhLxqwdxmYdvNDZIp6NzUAh9cpZTfdbbkwQItaZN0cgqr4UA-hT44-yKoajocYHjTjHs5bQlAJSDWEhBdxy5Gh_FP-r30hCqaCoMGGhTmijfzH0gBvA17TyyTw4_UCKDUQw",
+            "width": 401
+          }
+        ],
+        "place_id": "ChIJ5bEqMfu3yhQRmzK8PR5AOjM",
+        "rating": 4.9,
+        "reference": "CmRRAAAADj-Bjf2UhO-P7tSjgNU7q5xyJUcO777DkRgNYeykwWzPPal_fE60NtoQ-2UvrqmoBsm8Wl0d3WkwBiN1bseOutGDFDWUmbxGM9tOvgs-OFuxJIhIwOStitXjGmRrbkwoEhB2mvg7fJtaGb04EBMt5vt-GhQAwqlQB09E3LnKjhIwcI9Ph7etiQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Altunizade Mah., Haluk Türksoy Sok. Başaran İş Merkezi No:1, Üsküdar"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0680652,
+            "lng": 29.0039629
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0694094802915,
+              "lng": 29.0052451302915
+            },
+            "southwest": {
+              "lat": 41.0667115197085,
+              "lng": 29.0025471697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c64972ebd9459ee0b241f93f8cc5f9511ac5ab14",
+        "name": "Tolga Han Dans Kursu",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116851036257605834975/photos\">Tolga Han Dans Kursu</a>"
+            ],
+            "photo_reference": "CmRaAAAAW8AN5Un01ApYuGY8T5XYl4tCkCJjvuQYU41FKmCLdOvYN8FuH9c6sx_dJdEJoK0o8sbIDzzz_X0Q0KI-gTVong1_DToxMjO63YlNdTQLEkUPNSayecek6T8eWLi3HiGQEhCvVlvIswV3eFcXYAB1jlyVGhTtnBfPe4Mv9d0hrjOXU_TdM2dE_g",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJ23y83Va2yhQR2w_j08Z4hco",
+        "rating": 4,
+        "reference": "CmRSAAAAhtn2QBN8KOTi-ePuXFI2bLZXuIPjK3w_-Icx5WKeyvnGYJEiJxef3TpH9dtR2JgQMc8vbSaG1P3wB_NVidNdxp08pdzmt4hizJEQ5wiIZxolkR_EFiku9iuMQ60AERu3EhBnSAVAgxylmvhFkQh7XTXXGhQOwu5A6jNV5Zm00QuVz4vRAhB32Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Salih Tozan Sokak"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.06983899999999,
+            "lng": 29.001266
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0711879802915,
+              "lng": 29.00261498029149
+            },
+            "southwest": {
+              "lat": 41.0684900197085,
+              "lng": 28.9999170197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bde9f9f98c46c8ed34132735c6bea9f30dafafea",
+        "name": "Njoy Sports Club Profilo",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 580,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103869314673707993048/photos\">Njoy Sports Club Profilo</a>"
+            ],
+            "photo_reference": "CmRaAAAALEc-1Os-Pdug-i3pTPAsgv12yPKdvcuHQd-usNWRgVXFVdEsHSvZkxQNQLZyouD8O8zbeicNTRS4yCazo0X6sMQCL6q3L-mt8GmJErdEuFE29j36pUOoM1hUvNs2F76ZEhDkmEi9oYUC-KxyMVXV50w4GhQ8iDtd_5Cq1EDS4l3XlzOsR6yf3w",
+            "width": 776
+          }
+        ],
+        "place_id": "ChIJNzlCsFe2yhQRE6giSn446y4",
+        "rating": 3.5,
+        "reference": "CmRRAAAAXLoLc0E3wVkh2ik-3HR6B-QpIru6Y4sZgcPNBXq2S05_C1imuPQpKRwJf7l9Q3_BgyqOWOAg9hjD3-VxzxfrCwo9te8YkehMNG3sRmuqwns_TkVYccshXMe6unCKFgeYEhBYUmT9KxHE_CdLD8SY0dc2GhS-n9QfMdMXHkVvYjWFFd8QgwvxKg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Mecidiyeköy, Cemal Sahir Sok Profilo Alışveriş Merkezi 26-28, Şişli"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0685203,
+            "lng": 29.0059957
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0698692802915,
+              "lng": 29.0073446802915
+            },
+            "southwest": {
+              "lat": 41.06717131970851,
+              "lng": 29.0046467197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5fb0cdde730a01caf3d37e106359b6d1bb8ffd92",
+        "name": "Capoeira Senzala Türkiye",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1309,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110527051312397004896/photos\">burcak demircioglu</a>"
+            ],
+            "photo_reference": "CmRaAAAAuneRMkkur3syzyIOCW4l7OCLp0Pzk11GvtUhA4V_20DdrB4iYijbxXRCFV2U5M2LglZd6OvUaqoZQdWCpPGxYjp_45virmRgNPSOgKrSm8tL4M4RU98QPiynnyIy0Au6EhBeb84BwKbUz3UPrO_eEd3HGhSV40CGQUAM8bAiq6Nvw2c55gZGpQ",
+            "width": 1309
+          }
+        ],
+        "place_id": "ChIJJ4tgxVC2yhQR9tK-gGXWS6I",
+        "rating": 5,
+        "reference": "CmRSAAAAeHtBECufF09lFzv5WCLABte9GZfDKPPNXZFYKK-9o4aeme-ro9yQpkKETS2V3-Ny2R3CgBGF87V87qpScG3bpyef9D6EpHllL6YlTxilS1dKPAUxAatXGFAeov2VVk6bEhB653EVrN0s1JSW0EXxsKfiGhRb2KzNUCc-z32sIcCFwxzVgdjWHA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Esentepe Mahallesi, AVM Kat: -2, Astoria"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0877543,
+            "lng": 29.0052844
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.0891032802915,
+              "lng": 29.0066333802915
+            },
+            "southwest": {
+              "lat": 41.0864053197085,
+              "lng": 29.0039354197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b83149346e02e28e6f9c72c1a1d6f5dba34e660b",
+        "name": "Axé Capoeira Akademi",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116613474164448205395/photos\">Axe Capoeira Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAubgBOk5Y6s2I5cJKCIWqy_pwQlPbWso7tdnXuw1Zn8aFBHed6s9IDgbFyf-v9hgSCqLP3ZooSH16e6TL5oxsgcZQp3F3XfpmOMiglZPQBAUx5LKhCNr5_SpIuV79z0ttEhDub1_ALmzbzWj2XSQrBe_HGhTLPQYIiS8PmFrJu928UHm0t3CnhQ",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJKxUEoGS2yhQRRLRhBFGtIx8",
+        "rating": 5,
+        "reference": "CmRRAAAALt0rEeOdGJXk99MCyvb6lmxsnk9IIkTC_UXD-YxCErn6yjRWRbGYuISpk3EBzaLl28QPnsHLPZsOpBW2uVRHN_JElF4CINm4GGoDH0WnhDvlyqp6tgK6vaSpW5Uv9wMjEhDbuuyVtk2-ymqrQhrkabKkGhT2zF2797ehduOpHYQM1YG20mSbFg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Emniyetevleri Mahallesi, Yeniçeri Sokak 12/b"
       }
     ],
     "status": "OK"
