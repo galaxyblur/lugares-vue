@@ -1,5 +1,5 @@
 # Lugares - Find Capoeira
-https://www.findcapoeira.com/
+https://www.findcapoeira.com/ [![CircleCI](https://circleci.com/gh/galaxyblur/lugares-vue/tree/master.svg?style=svg)](https://circleci.com/gh/galaxyblur/lugares-vue/tree/master)
 
 ## About
 Lugares is a free tool anyone can use to find online listings of capoeira schools and groups all over the world. The data is collected city-by-city and is updated periodically.
@@ -22,7 +22,7 @@ Lugares was created and is maintained by [Capoeira Online](https://www.capoeirao
 
 > A Vue.js starter kit that lets you focus on more programming and less configruation.
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
@@ -33,9 +33,9 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
+
 # build for production and view the bundle analyzer report
 npm run build --report
+```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
