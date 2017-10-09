@@ -1,80 +1,883 @@
 {
-  "city_name": "milwaukee-wisconsin",
-  "city_rank": 31,
-  "city_population": 599164,
+  "city_name": "albuquerque-new-mexico",
+  "city_rank": 32,
+  "city_population": 556495,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.0389025,
-      -87.9064736
+      35.0853336,
+      -106.6055534
     ],
     "rankby": "distance"
   },
-  "people_per_result": 299582,
-  "possible_duplicates": {},
+  "people_per_result": 27825,
+  "possible_duplicates": {
+    "ChIJR2oZwbx0IocR8uIjqbNVBDg": [
+      {
+        "place1": "Ninja Park 2420 Comanche Road Northeast, Albuquerque",
+        "place2": "NinjaForce 2513 Comanche Road Northeast e, Albuquerque",
+        "score": 0.8
+      }
+    ],
+    "ChIJl3NFJL10IocRCnHLD33GRyI": [
+      {
+        "place1": "NinjaForce 2513 Comanche Road Northeast e, Albuquerque",
+        "place2": "Ninja Park 2420 Comanche Road Northeast, Albuquerque",
+        "score": 0.8
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 43.0507176,
-            "lng": -87.8998992
+            "lat": 35.0805082,
+            "lng": -106.6087877
           },
           "viewport": {
             "northeast": {
-              "lat": 43.0519703302915,
-              "lng": -87.8985529197085
+              "lat": 35.08184463029149,
+              "lng": -106.6074692197085
             },
             "southwest": {
-              "lat": 43.0492723697085,
-              "lng": -87.9012508802915
+              "lat": 35.0791466697085,
+              "lng": -106.6101671802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2ef83b82c11c3694754f18357b38380728589f9b",
-        "name": "Capoeira Nago",
-        "place_id": "ChIJHe14bhsZBYgRIq_Ghm5wHpQ",
-        "rating": 5,
-        "reference": "CmRSAAAALh0xdPwxrq4MOriUQaXHjX9SwtS5GgAis-MgZ2rxnrhlEv2YaorWyLWofFqITwFwINvKnj1T-htFyhPiaRgEk8qjKEMvUg-y81a24A1X2mhvjWCXiE6hy18YRiLSsmBfEhCXzSTTC7XakvDMXSXtaKiVGhRDG-BhHnIrq7WPstrO7v73VTfTnA",
+        "id": "f29d00d23bcbaa02a1ba9f41c7fd47ffe51c412d",
+        "name": "Maple Street Dance Space",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104089124842976417628/photos\">Lynne Sturtevant</a>"
+            ],
+            "photo_reference": "CmRaAAAA6irwIxIeoSXqXrNAkYkunjFyr4YmsJSZgaP_CYrYFVUusTxtK3lWS3H7bXENEt3EwPT3HBeufzmz2yiZqSZiA1XO92fGTmNMsQeBlk268i_J_eI-esARjRN_fQyC-5PcEhDjg6isWY1AEjbzxkwnjXFQGhQxqd1lw8A8NWHzhMxyuwtcCX7mHA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJnz5MnZNOmYcRgXuJ58OJ3FU",
+        "rating": 4.7,
+        "reference": "CmRRAAAAiR_cbVf8taqzkXkDe9ag-dxiGTXZMcxfxBSe9-VD5XBumGg5sYdwnWF1t3GmZyER0bvQFjc9qAnf1AJeLyqCYDZX7t7o1MWlrVy1mO99zK-9G8CBLEZwX6nis4d13nbgEhDiCOkXQjsGW_qHRfSkFoAfGhSlP1Ww1DzRPkVWPP_MhCX8r9fTwQ",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "932 East Pleasant Street, Milwaukee"
+        "vicinity": "3215 Central Avenue Northeast, Albuquerque"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.9980772,
-            "lng": -87.8917141
+            "lat": 35.08183090000001,
+            "lng": -106.612558
           },
           "viewport": {
             "northeast": {
-              "lat": 42.9994954302915,
-              "lng": -87.8902625697085
+              "lat": 35.0829383302915,
+              "lng": -106.6110940697085
             },
             "southwest": {
-              "lat": 42.9967974697085,
-              "lng": -87.8929605302915
+              "lat": 35.08024036970851,
+              "lng": -106.6137920302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e679bd33dea04adff58569183b1a3798ce83bdd8",
+        "name": "Lumen Mind Body Float",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108474025159709806225/photos\">Lumen Mind Body Float</a>"
+            ],
+            "photo_reference": "CmRaAAAAI4DdNo9lCA-K-lRu3K3M8s0cdPyhRwP-CCCEpGXfgaPWlJ-toy8EHCBNbcPs1LzSRkbWtzFIc6w0w_OL1CFt0gjFzNAd4oPetDC7bZMSzaeU7JqKq-5sBJXucCP_vX1QEhDIGcIvBeixhuKDUMxB3DRkGhRrB33xIb7xdSuNlOUwJlBeMyes8g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJuXR_nmkLIocRwTAzOI_4bHE",
+        "rating": 4.8,
+        "reference": "CmRRAAAAfxxDAzUhbxXRfBeMwHsfI4bPZhdqK0axudtsexJDBX0BvLxJz-0eAXbqHbTzaGmk6etXcl8WzvxVrObW0417trQVeNa-0j847sB2f9SEjEgKny5AurllZGwIEPIZooYJEhCps-vICTPSJw7g8PG78Cr8GhQwPVJ82BvNNT4X7Vs8PVlhWDUqQg",
+        "scope": "GOOGLE",
+        "types": [
+          "spa",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2931 Monte Vista Boulevard Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.09599059999999,
+            "lng": -106.6045009
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.0973382802915,
+              "lng": -106.6030200197085
+            },
+            "southwest": {
+              "lat": 35.0946403197085,
+              "lng": -106.6057179802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cc5b16e5c9b8c070a90d48ca5c2a67c3037702bd",
-        "name": "Body and Movement Capoeira Angola Association",
-        "place_id": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
-        "reference": "CmRRAAAApRyR4gisbjC09xhdgKVlWyp6Ag7RUZSa7MAc-5oVdFgS0vnLla5yeRW7XCq1u1dXiqpia-WWeatjG37PaTLdCgKApINdqF49ZubsXIKSTME2IldPzhn-8O8F7vM10bDSEhAFdWiICy5me0fQjjkNJp8bGhQYeO9GAUXaqnwri96Josu24sJCbA",
+        "id": "d5a903d57798d254a2c30231ee60d962c99a1412",
+        "name": "Four Winds Martial Arts Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 475,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110123231128186182003/photos\">Four Winds Martial Arts Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAq5WutcDu3X6CcTmUnDtnXaZi0hmQmCY-IzIFdY3pG2ikcvOpYE4MTixsjpVQmnYQLGPpN9RQjFhxiO_2mALKNCtnsJFOOVZmnXi69MtCNNwFyvT2CpwKefpj1IPGdDWdEhCcuArkc9e4QJM1_y0qGaUlGhQWh7uSp3W5WjBvxGWLGAFuTOinfw",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJq9erGTgLIocRycpBqvtg1-A",
+        "rating": 5,
+        "reference": "CmRSAAAA_D4OQqnIvXyx-jq8QfO3IiKcRtdFLlW2rLvPItW95XSyuUknPunLt8c0mS5BfWZp0-PqpPeMochW9En4UbBbsBJxhrDX6wjiALP6F9ASAD4rza8EoqigrO2nPP7FF1c3EhDDRNayVOn0TS1aJ77gAaenGhS40KNXjQV1vVmMtY94vInKTU1uOw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2499 South Delaware Avenue, Milwaukee"
+        "vicinity": "1427 Carlisle Boulevard Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.07922550000001,
+            "lng": -106.6217145
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.08052693029149,
+              "lng": -106.6203655697085
+            },
+            "southwest": {
+              "lat": 35.0778289697085,
+              "lng": -106.6230635302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "38459ad05dcc02ffff25a93e2096c36a89a35472",
+        "name": "Yogasaar",
+        "photos": [
+          {
+            "height": 1025,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109561463930194035756/photos\">Yogasaar</a>"
+            ],
+            "photo_reference": "CmRaAAAAuUqalXPgcs6zhACFX_E6vMY5LkqvgJ2mNjU7K68BGB9lcoY1E_vWMH70C7dVqBoHkomaNPJUX721uW_ErKru9MGCJZGL2YQhOKVxolyThvwmlNh0owUG280Aqpx20aTiEhAfBglgCSIiv-6TZlTuw2p5GhTqIdXc75LKY1PeDipi-B4ssW5-fw",
+            "width": 1023
+          }
+        ],
+        "place_id": "ChIJo0Ns6mYLIocRdMeV3DVB2kk",
+        "rating": 4.8,
+        "reference": "CmRRAAAAGuX8zj3tajk43BybOSyinaNHG4SGs-9F8S7u7IZ-SCP0Dv8x5J9rnxG4OVOr6xzij0EWkATB3Mx56TWZfsyDRLLqZDyVlhzWzTdWcPdj5k5QF4WWZHXZiuxBkE2eLDL-EhDB3lu9l71YnQSRA_OemT7gGhQa2Vl992UFuNu7wS9r2PZF7qAi1A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2205 Silver Avenue Southeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.0774616,
+            "lng": -106.6209773
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.0787336802915,
+              "lng": -106.6196310197085
+            },
+            "southwest": {
+              "lat": 35.0760357197085,
+              "lng": -106.6223289802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ea813613ceb146e6645ab21853d13dc05ea1f444",
+        "name": "Shifting Sands Dojo",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJgRx4JmQLIocRjgHizPGEKIc",
+        "rating": 4.4,
+        "reference": "CmRSAAAAaoiRHMTiYROim_TcD3wn6_7KsWrst4Og532kCI5MAv2aEgYS04vbL7c__hTHYz9GH4H7mhB8wmsm6JSRx8WAU1ytC7WrtWgqIRKtcMlv7kRnGJJx1iHat2CSEyAmwdaPEhA4NJvRXTGroKRSKgSEeBPlGhRY8928wfNGgvyvzWx2-doiCd7vYg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2219 Lead Avenue Southeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1058702,
+            "lng": -106.6000983
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1070738302915,
+              "lng": -106.5987491697085
+            },
+            "southwest": {
+              "lat": 35.1043758697085,
+              "lng": -106.6014471302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "24fab0482290ec20ab8b7e1ab4f979e6ef57684c",
+        "name": "Keshet Dance and Center for the Arts",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114470633680032781850/photos\">Keshet Dance and Center for the Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAwWrH9GnhxfMcwwfx_QnGLRZWsm8e3AI1jm2RMps7vuYqen73vS7bp6F2uU24LBGcopO0R6r-Ytzw4rrYaP3rChK7Up0yAVujGsV_JNyKl76Km97pIigQtvxbAOfvvlllEhDpU7zqsO49lgsqAbiV3_wAGhS9kyiqk34rZTEE2BxeW7ixQyPlmw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJV-PMyb8MIocR3n55nyxzMXY",
+        "rating": 4.8,
+        "reference": "CmRRAAAAt-rpIwImsoCs3uEYOVoxHuV0834VSrCAHPAyS_hMMVLFJM9k5fFU_otjeFXfQlntC8aSn4_K-n2iJfsNv0sGZFK9sUtmmFR7J95-LRkQ6-WvVAdf5nf8h_lBZQfvBfCjEhClMJHNb7H-o2hzrj0inDMuGhQlng4UPk9iaja8hCIfslKO5IfyLw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4121 Cutler Avenue Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1095752,
+            "lng": -106.6213721
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1107576802915,
+              "lng": -106.6200185697085
+            },
+            "southwest": {
+              "lat": 35.1080597197085,
+              "lng": -106.6227165302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a9fe7b1b70cbb8fc8a40b9137cdc2c8d30ec98fd",
+        "name": "CrossFit Zephyr",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 875,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102665116085246482724/photos\">CrossFit Zephyr</a>"
+            ],
+            "photo_reference": "CmRZAAAAL7VLsJuYkKVILAUM0Gw0yh_cx7cwOwW55lRx_mR4Lob5T2Vb2Fe3Cemk5x3VloTB20UvB7Xqh0FbmzvUsaXZa0nuQr6unx_Jle2ZE7Orkyk_Cwo5O4iyBk8dDn36jEyTEhCZqiOnGeVana7cTPOKda4fGhTcmwMvYD5einzWKEDf5kGMdng_Zw",
+            "width": 1167
+          }
+        ],
+        "place_id": "ChIJmfbWOU91IocRpWCHnl6imoY",
+        "rating": 5,
+        "reference": "CmRSAAAA66nbFyW6eCGETJMxDHRBTnWHsyyrWVR_L4OVLbZc4qOUJSY3PR_3HsnN2UBXQpk4mqdXd16eMe_87_pyQ-Wr5AE9oe_vhRp3izEUztlneDls1ySEjRyrGf8Y6j-8jHdPEhArSoiECG6Gj_lAT4uQZULeGhRfOJ10zoztHSqw3AJzC-6eF1RGtw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2019 Menaul Boulevard Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.086551,
+            "lng": -106.643356
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.0877433302915,
+              "lng": -106.6420547197085
+            },
+            "southwest": {
+              "lat": 35.0850453697085,
+              "lng": -106.6447526802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6c81bd43092b3e1ac216d92928ab49e1f8bb2b08",
+        "name": "Jackson Wink MMA Academy",
+        "photos": [
+          {
+            "height": 3516,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106252953778633389237/photos\">Jackson Wink MMA Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAaq2V_z8lSuPFGXl9-pj2bmnMKFItt2XQyJpLJhZqu3No4YqK1pv2XgE4qFOd4R6SF7wWi65arm2F9mgfUuywz25pMIskWv2l8IaDdQVeVxteKcsLL5-ITbzU-IweceX9EhDBBgC958cpZGF6BjDLMwfuGhTGevxgF5W6IcDX9olulMqeIUbSSg",
+            "width": 3516
+          }
+        ],
+        "place_id": "ChIJ0Z-qc7sMIocRsqLH1WLXPeA",
+        "rating": 4.8,
+        "reference": "CmRSAAAAkhPpghvEvymSQPTfwO3yIeCwDUc6Ug9xFGv21nMc4sx7w2Jja6EH6jUjqXD3UA4BQj2nalxa9UhVnI7sPoycay9gRMkujZhWbmUlO3wfoiOSEjrDjAbSSF-SU6SqmNcFEhCyyapOZPtCKciaDQteVyqTGhQT73HWvmtxylUGIlO1tS4Eli7m4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "301 Doctor Martin Luther King Junior Avenue Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.122262,
+            "lng": -106.616159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.12453465000001,
+              "lng": -106.6148100697085
+            },
+            "southwest": {
+              "lat": 35.12150445,
+              "lng": -106.6175080302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "cb60323f181846bfef60b1d02643fcd57bd825c8",
+        "name": "Ninja Park",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106121341889619277666/photos\">Ninja Park</a>"
+            ],
+            "photo_reference": "CmRaAAAAQHikrtQeiBBwafIVUYKIQVa4IwoVothpJOYhm-uXkAhAczDNt8MHeijfJwOWU_pvsPLq2f15YHkpw3Hz0ksguLdQWedTGfKCo5cOvVmi4h98Hn6N1l95_JC0l9vgrmSBEhCYnxiSOfhOfYsvc8FDHAqDGhTy8CDdZq_GwlCOP4BhTqtihPwYIA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJR2oZwbx0IocR8uIjqbNVBDg",
+        "rating": 4.6,
+        "reference": "CmRRAAAABkJ_41E5iTCiODJDKso5ctzrRy26RZvYQyYBhMihP-q8aOqREF4_-MjHKYznL58MuAFdVia0dxAawQP52tJw1ddh3KLQI3rGUIh2PNqQh-0obb5cWas5Z03WauVCKDXbEhAGNhuhmeJC0pnXklcG1ewHGhT5OXAkmrL4I5K89PgWTQ5YOdm28Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2420 Comanche Road Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.122832,
+            "lng": -106.616126
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1246535302915,
+              "lng": -106.6147770697085
+            },
+            "southwest": {
+              "lat": 35.1219555697085,
+              "lng": -106.6174750302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "afee1be112e9f52d434b28ff3114dc483cd6b2a1",
+        "name": "Big Barn Crossfit",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106378023985874658202/photos\">Big Barn Crossfit</a>"
+            ],
+            "photo_reference": "CmRaAAAAAozoLYxHnlxVsbyXDh2aHAWwEcSG3Xub3es3iMBNNRQx_GUm2bny4jm2xKYGuorzXFMFn4qxOklbxHBFRpGSPqi_bK2OSRGhrEaJlQREei2E33yu750m4J3-5bfsj1ZtEhCeDc_NTQzifVV770dmTs4iGhRtZIE4puWLleGZcp16EfWk2Kdxyg",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJR2oZwbx0IocR2fdgy026RXk",
+        "rating": 4.9,
+        "reference": "CmRRAAAArEGcloA_eVRR_2usjOKfD985Ot3wxepkzXxag_TsyusNp0Uz0smjIqpNeBxmnYraQK2y9z80FJoJz8cieqrjG5qzRSNtK6eyXB0D-qfgQtnaA9uTW0hYwrXzdgv65PGWEhA7twhzhJw20MbyqKHEJrtOGhS5HkCvF6-cSZn5UIgAGAxyAJGhVw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2420 Comanche Road Northeast G1, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1230004,
+            "lng": -106.617469
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.12434938029149,
+              "lng": -106.6161200197085
+            },
+            "southwest": {
+              "lat": 35.12165141970849,
+              "lng": -106.6188179802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "3677ea107134d03d3e9ad81d8f5d5dd974c1d74c",
+        "name": "Capoeira",
+        "place_id": "ChIJSabvMqN0IocR66f7wtxEJWU",
+        "reference": "CmRRAAAArKo_NrGi2175JLBFxYz_A09BqFeMWZ2BtDlzn_w8xvGFyWVmyQYbxnkZCzYEwgq7ax0bRxTr59Y1LqQEIK-HarMLOlBgfLf6ulu0RDabCyLuia5_2dVL18K5RRejv-wUEhA7SyK5Xpnz6U-yY49HolbWGhSJC5rYXh3cGq8UpiMCejs3nUYtQw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1243921,
+            "lng": -106.6163697
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1254335802915,
+              "lng": -106.6150206697085
+            },
+            "southwest": {
+              "lat": 35.1227356197085,
+              "lng": -106.6177186302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0501d4c729e4d6769c529b194cfcc3a3591079da",
+        "name": "NinjaForce",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1698,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117311605829205043619/photos\">NinjaForce</a>"
+            ],
+            "photo_reference": "CmRaAAAAf6yqt9xyvUAfhLGifnHjc7uJgOKuszK7hwNd76d_DoFHU7vfBNooQG93OhrFncAt53FQtvMjjBvW_2DkLcWR1wqWfViilwWUtoKnhcPEYDohgAETJ4ztQH0IY3eexYzdEhAWtjUyIpvTVBbj2ZNGmKoIGhQ5pQaJVyobJC8lHeLLbZelsXtTVw",
+            "width": 2943
+          }
+        ],
+        "place_id": "ChIJl3NFJL10IocRCnHLD33GRyI",
+        "rating": 4.8,
+        "reference": "CmRRAAAAX_58WMurrvovWP6o_VUEsyim6DeDskqbxBZ5N4U8Zl3xrFxa_lxsLSt6bhUs_GSH448vUTZDNbHaSRY9FGJYILVoFkVn5CaEM4L8gihBRDtELWhwRg3vUc-AG4GKVtopEhAamCzZc5IdlXpEX7BWo6wfGhTWYKDroKlcDedk5qRDA_xPxo3i-g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2513 Comanche Road Northeast e, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1195518,
+            "lng": -106.6420813
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.12075643029149,
+              "lng": -106.6407925697085
+            },
+            "southwest": {
+              "lat": 35.1180584697085,
+              "lng": -106.6434905302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "85eb2df859cdbcd95ce647ad8676e1995694ce8b",
+        "name": "Jim Hawkes Karate",
+        "place_id": "ChIJ6etqw4J0IocRsTY4hkwYLno",
+        "reference": "CmRRAAAAOXeQF4g9N64sOGoCbp8Uk6e4ijZaxC-iaiqzhvurv49Mlg0hNNKe0-H2FCBVU169LsobUm9XQTqvsYmngMf0F68uj3PE_lapuonVOzgn4tO2VEC-MkJGaHLY0SPp_f_OEhDE_V4ZhC7pLvR3QPFD_4ztGhT6IR8eGsG9gO6_bfdtN-lLqzFFGA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "207 Candelaria Road Northwest #7, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1382401,
+            "lng": -106.5834451
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1397661802915,
+              "lng": -106.5820951197085
+            },
+            "southwest": {
+              "lat": 35.1370682197085,
+              "lng": -106.5847930802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e92264360ae359581785e2b99e0560f6a61c524a",
+        "name": "Aikido of Albuquerque",
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108104484057150699770/photos\">Kayne Whyte</a>"
+            ],
+            "photo_reference": "CmRaAAAAcCshznZJBZirk_uSnHYwto20E06G8qUiKZ8fyjDxur2uuIVt9Pd2C5h3nASyYXIASIsSsw8BHaV9qRl2UkzWC6nKdOiz_n0r7SAG1BL_ARd8F1_5r2Rqcwpft4Wgp3jUEhAjonQNLUNsW0NpquzHxa5nGhTJKhlkxi8hNJ_Yk180sO-PblMNSw",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJN34CauJ0IocRemP95zw5HlM",
+        "rating": 5,
+        "reference": "CmRRAAAAL9ZdW1FVjoZEkgfTzJA5ynqcHrr6ShZ7vciFm28Bfi81mdq_c0aJagpQ_cxRiofl96AIhvuDpfsx8aeIDzfMhQyF2dYjDK4Lk0cOS2I9M_lHTvwJJ1eYaqiRPigtZNrlEhDnXL7WVnRCHSleTwZOghv0GhSFzH81w9aaSQG5MyCEy8gZw-A9TQ",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5600 McLeod Road Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1431171,
+            "lng": -106.5913745
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.14446608029149,
+              "lng": -106.5900255197085
+            },
+            "southwest": {
+              "lat": 35.14176811970849,
+              "lng": -106.5927234802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "6b38b8e2697bea310d425f95f31ad0f8d0c8d780",
+        "name": "Z-fit",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJrd9WO6J0IocRVQZBIA1NJ6k",
+        "rating": 4.4,
+        "reference": "CmRSAAAASFSKWhjqkROyKoK6OqeKosqkiX1GTrzGLJXCbJagiJw_KPvddi_rMx9uLPWjGBesKMF95MQaXyZvwrKdMQ019J1Tj3kW04vfmv3h_n7ha4hMLnTa0g-t8beKeIOAt8H_EhAMoAKZEptbLgPipJKQ3xzZGhQHaVJaOzxI4cZIcHDTYfu413gkiw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5334 Pan American Freeway, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1488645,
+            "lng": -106.5854682
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.15021248029151,
+              "lng": -106.5845593197085
+            },
+            "southwest": {
+              "lat": 35.14751451970851,
+              "lng": -106.5872572802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b5ccbb95dc1be80bb70b3543b6fab10875a151a9",
+        "name": "UFC Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115704020050434273857/photos\">UFC Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAAjwM2k-QiN6fo2CVDkxUeHkvKRnSSgvKDWVdsJPQw2QwyN3iuJqbTLVL-K1t4cEihhlVmqipVDCTmx6nLZMdg-r6-vVuoERMvph4gvdPeeKtjUOl3TX0IXGgTaRbh_G10EhAVyZn1miT9RtoveZ19exSeGhRuDuTymeIiSV4nkzHSeZwII7Fo_g",
+            "width": 1540
+          }
+        ],
+        "place_id": "ChIJ8eLkmJB0IocR67bMm8Wb-1M",
+        "rating": 4.1,
+        "reference": "CmRRAAAAgrcWMknZ22S7ngcrpaGu1vwXqkSyTb9WIOI7E6PUF_DsgHqqLksOl0bvW0bQtoAs4breyvbf_H4lPEGkjdMotJvH1wrITLRwHLseCeLmttMZLAElwAn9tUNPh7LbWghqEhAu8oX56NHIyw6iWKFkXxrOGhSK-LngzINr4rTQOMxsftiFlQHmnw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6300 San Mateo Boulevard Northeast q, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.151344,
+            "lng": -106.6151469
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1524517302915,
+              "lng": -106.6137632197085
+            },
+            "southwest": {
+              "lat": 35.1497537697085,
+              "lng": -106.6164611802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "bedb302c8ac6f4b163039364d2bfd96b2738b620",
+        "name": "CrossFit Assimilation",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114079785893677941987/photos\">CrossFit Assimilation</a>"
+            ],
+            "photo_reference": "CmRaAAAA23vwjit8kuScflBX8iqa6rYQ92lpW95FSZbfONnf-9tcQD8BGWZAoYLhUuK_9GwjnEBX8PJKS-v9XlZLhusotmJjV7lGJCZ36WV9MfSBTbubU3ZapTLPFQ0gP2G5SRdTEhC_4fNtl3Vjksh2KTE8V-fjGhRiEXzO0QSvf3M9QzD7ec9pXuNBLg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJmUwqG2N0IocRNHnRHlF9KEA",
+        "rating": 5,
+        "reference": "CmRRAAAARZGBooF7c8ii3AL3aILdI564nkKLkvYj5aGFSl7b4jslBQ-H66bu8cmGsavQrD5zlbINC7lg_OGhyjzN5nNkxo5r4xZ5WhXLMDknCIlHd3yy-TguWWC1pDtcsxWT7xe8EhCefTp7t3XqcvvZ06rLeYi0GhTRuO2NtU1_0383AbTqO9lLWS73sA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "701 Osuna Road Northeast #1000, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1405167,
+            "lng": -106.6997766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1419526802915,
+              "lng": -106.6983385697085
+            },
+            "southwest": {
+              "lat": 35.1392547197085,
+              "lng": -106.7010365302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "944ade9ee2b5444ef672fad4c532976a11f1eb89",
+        "name": "UFC Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 431,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113844877184070059951/photos\">UFC Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAAurG4SwWT8TOMgngy3Mh1b23wUaBfA7z0C61N-ZUoZ73F06JthhwCampNH9QWau4exHw-qnp9TXybCCy0dwvxpFabQtMYWGqPklreidMUufx9a7L685bFgFseONUbXlR3EhDQ2tc5gv9bkWK2vcDa8kxCGhRvGw7dYL2yrsUve2vWvDO_vh49BA",
+            "width": 763
+          }
+        ],
+        "place_id": "ChIJJ-KuoWByIocRfyshGfGqOiE",
+        "rating": 4.3,
+        "reference": "CmRRAAAALrAwJ-2c2jrNaMUX9Eyf1GcWec8SPyyXWejqYHoaxadQCfRSk5En_HLIemnrmZx2AMPWnUVaXQDG4SGgs7bmUf9I42q83hnNcm3lzY_zt18K_wTmTFd043yCPSAU2XM8EhBjWRlsqfdWa6ag7Cfd3dLJGhS6ITgjkOVODDH09jC3D-rWXiWzng",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5400 Sevilla Avenue Northwest, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.18783210000001,
+            "lng": -106.5733694
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1889486302915,
+              "lng": -106.5720192197085
+            },
+            "southwest": {
+              "lat": 35.1862506697085,
+              "lng": -106.5747171802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "78094a20e042a245838adfdb8cdeb6347a92bdd4",
+        "name": "CrossFit Albuquerque",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100944774879449342813/photos\">Yeni Trinh</a>"
+            ],
+            "photo_reference": "CmRaAAAAZkUneaVJgauGWJ-LS4eT2U8ieI6AUC4vrF4P7Jh7RuaR74oI7ZEcXuIJAR4gIOMTX-Cgeym76GSGPy39O9UfVDvtHdGMqm0gOhx8PxTMJmkUecVU3Ct7HfU-oxAtJut7EhB0DOvHLjH5FAJm9_WEYJJBGhTlaALJ6L3hNjK0oR7HzrV0T8TAlQ",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJe5bpLlt0IocRTq-ipB0xfs0",
+        "rating": 4.8,
+        "reference": "CmRSAAAAEXmO3prauZ5q0iAaBITRXy3qwI_FHDbSsebs0oXSr_vOC-Ymy_5WoaU1Q54DXkyHtOFXUmm3M_t5OaYxP-uPV3RZaVo-Ej_ronDe4EbtwWUrwiEpNFg-Vd7FYf__E67REhBLMZAuK_TiWK5bukZWnfEaGhQlOdZrRnEDbnXoN-m7P-R2zMm7Xg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6501 Eagle Rock Avenue Northeast, Albuquerque"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2335765,
+            "lng": -106.6551055
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.23492548029149,
+              "lng": -106.6537565197085
+            },
+            "southwest": {
+              "lat": 35.2322275197085,
+              "lng": -106.6564544802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "55cbf746fffa13e3b4ac419d32171c4a26e117ad",
+        "name": "UFC GYM Rio Rancho",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114955465290821371278/photos\">UFC GYM Rio Rancho</a>"
+            ],
+            "photo_reference": "CmRaAAAA2iAOmGnaQM3lNBXm91v5mhUBNWsB5GVols81Plho518fjxPxqF4-dSFRtp49UFaiiORHB586IupSSk9mAyuZtI1Hql4BVzZhwAy-xRk3GmNLmZ9gw6u3Yq-ut2VHzdySEhCrJ8znFLckO4FkLFjlaFt2GhQpMxD73aQFZyjK5ldnzafRmgo5xQ",
+            "width": 1368
+          }
+        ],
+        "place_id": "ChIJD_XT1ONwIocRJmM6JkX_zBs",
+        "rating": 5,
+        "reference": "CmRRAAAATozclHkc8URIj0k-vS_2z7j0AMTePn1zjAyf540F7oymjsQIUgSKYzBEtN8xIZc6fn9e4wyyMZqac1VOEY0FS2G6IkO95GTiEKMRMUbDqo__J1CHrmistCI6pyv41m0lEhD97_GF9uBsM5DTMDA4pi--GhTwmqq5D8ULRAkH86Ja4rzBJbfEYA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1650 Rio Rancho Boulevard Southeast, Albuquerque"
       }
     ],
     "status": "OK"
