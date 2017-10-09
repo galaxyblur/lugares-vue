@@ -1,16 +1,16 @@
 {
-  "city_name": "philadelphia-pennsylvania",
-  "city_rank": 5,
-  "city_population": 1553165,
+  "city_name": "phoenix-arizona",
+  "city_rank": 6,
+  "city_population": 1513367,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.9525839,
-      -75.1652215
+      33.4483771,
+      -112.0740373
     ],
     "rankby": "distance"
   },
-  "people_per_result": 776583,
+  "people_per_result": 504456,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,88 +18,129 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.9559353,
-            "lng": -75.1595418
+            "lat": 33.4954773,
+            "lng": -112.0831415
           },
           "viewport": {
             "northeast": {
-              "lat": 39.95723828029151,
-              "lng": -75.15820246970848
+              "lat": 33.4968227802915,
+              "lng": -112.0819602197085
             },
             "southwest": {
-              "lat": 39.95454031970851,
-              "lng": -75.16090043029149
+              "lat": 33.4941248197085,
+              "lng": -112.0846581802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "826a90714b4f2f28cc6695eea3fb6bb7ba9afbae",
-        "name": "Project Capoeira/ ASCAB",
+        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
+        "name": "Capoeira Brasil",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102374082423708030204/photos\">Amanda Harris</a>"
+            ],
+            "photo_reference": "CmRaAAAA8vl7Wba767owskuiLAR_fnU2_yRfNlVRuRA4xko4SOjU7xXq9XGwtmXSt2AXgoqEf_BkTS60t_7Jn3jAmBo52M3B9pro95W9frHK8JzL6AN_UTzXeyMJxZpZ8PaLT7SoEhDkq-PrwnfBnOCblCGmiTlCGhTdGpUGZKKwMotIXC79BiT0lfYgRQ",
+            "width": 3984
+          }
+        ],
+        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "rating": 5,
+        "reference": "CmRRAAAAW4keWO7Ss2wSljlSSex5GDAg4YBS85W_aEOou3e5y9vGV-MfBQhePDsqrAh3XCi1PS6hMMgCgwhou9LO7G0oU-TQ5r-ROaAwXFryTgBJ3JSFcDP4c0rHIKuWN2mJ54GfEhA_3wlKkl06FYgnleRIBGtlGhSOK4K-DM-p-cqXXJBxelThTAngQg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4113 North 7th Avenue, Phoenix"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.4483845,
+            "lng": -111.9269977
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.4497333802915,
+              "lng": -111.9253755197085
+            },
+            "southwest": {
+              "lat": 33.4470354197085,
+              "lng": -111.9280734802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
+        "name": "Axe Capoeira Arizona",
+        "photos": [
+          {
+            "height": 866,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
+            ],
+            "photo_reference": "CmRaAAAA2NMSS3ujmd4XVoci3I2NxiPbtBV1TzIPIpe-w1Xwdrk43LDu1VUf6WtStyjxqwz7JHT1SVDJTEp-GVkpTabRjIN6_UF5NbuLt7BgeVs6HNrymBRm4CD0NQ0wUviBCgKtEhDbduYD15Y65kr9Euy1Ul7jGhTmr44zfhaoKqf8rJ_vI7tiVkREqA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "rating": 5,
+        "reference": "CmRSAAAAyt_CNdYdCiQ6MdTLRPvfdj27saXV7cqr1aL-DmScyJoOmKL4gI2BivPNgfsTn9yffbEX50xvZAy_yCY7klLp9p5jOxdIURA2lDa32L8tt_hCD6qvDt_6huXVHQvrvoivEhB3fs71l3WyMMCRiganwyl9GhQwZb8nK6VcDy_HQA1A3Lh_AjLriQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1650 North Scottsdale Road, Tempe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.3632505,
+            "lng": -111.9269745
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.3648550302915,
+              "lng": -111.9256263697085
+            },
+            "southwest": {
+              "lat": 33.3621570697085,
+              "lng": -111.9283243302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a31f332f5caa4509caae34a0bb013ff1c069e9e3",
+        "name": "Capoeira Brasil Tempe",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 2448,
+            "height": 480,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109505459312584145533/photos\">Project Capoeira/ ASCAB</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/105735552656224354361/photos\">Capoeira Brasil Tempe</a>"
             ],
-            "photo_reference": "CmRaAAAAAGZEq2XkE9oDqXPMJJgtumSbOn6V9ms3JHI5G7EajJEDgWhHSKjytw0BvhONwRJhcP4TCokfSRIvN-k8VaQmBlB0kbLPm5xnGSo7Uds7d8J2oJps9VqWFMuw-WC_FtOwEhDppeDj49-JDQDRJAomP-cAGhQz743udLoAKjCeHyPsrLxOacpwhg",
-            "width": 3264
+            "photo_reference": "CmRaAAAAalbcjHhCGFCzZtWbxGfTRH59vF-r_CMbcazXxGiD0v0Fp3Tyz9c_FZa97yQU64gVrWPCMcw3nx5lr9_XJ8UBPSlh6xVmtYU5IwIs-HN34gdbOIDueegkEj0_C1yi8mXxEhC9g_AyTe2lBSkAzEWMjZADGhRL6A4gw8SDavo_4eJY-KBb9CKuXg",
+            "width": 720
           }
         ],
-        "place_id": "ChIJXc3gnCvGxokRYVY7P40AgSs",
+        "place_id": "ChIJ5Z5ObUAGK4cRBXcO_VfY4B4",
         "rating": 5,
-        "reference": "CmRRAAAAAzLOZkmQHUoyUyAxj3L_hZskpmHtK47GpzCNeIUozlaAVgxnWGAhCMAegsYVXDGAVLRWz64oMyYOiXcitIAWEOkuGsHmaBaF5smW73YOpsXHWtG0BknGQJ6Khz3lnaLcEhCQW2HFHpZDgR_vA2Ht71FSGhTj7OAftuev_snIHaESPpX195rAug",
+        "reference": "CmRRAAAAdVN-9ITNS7DVEdJ2-KX0cUI11quRpsQEYwaRo96NZpkj58ziEMOAV8GrK9PrdJFU_5gLIdJeoKagg_xEC2hxJcYdExb6mK6RDy6N2c2CQNl85O4gQmRPhIECDhQWxNCPEhBZmOdylSRg9GYF2LyZDMQ0GhRbJ69V4cL8EbAwYEuqKh9g2KF4Sg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1213 Race Street, Philadelphia"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9359998,
-            "lng": -75.1675589
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9373298802915,
-              "lng": -75.1660471197085
-            },
-            "southwest": {
-              "lat": 39.93463191970851,
-              "lng": -75.1687450802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2ea0b326b9dc61560f06a811f41f07a29fdcac67",
-        "name": "Vai Capoeira",
-        "photos": [
-          {
-            "height": 397,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104592184097279412634/photos\">Vai Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAy8djwxxSuKJz1Cwma4JvNl2g90jwY4n3aHvla8nrWn9k1d3Le15SPxcGnrdHdfxkS0MIdftv1pI0E-Ucjruok7BWJwLBbJRD0uwWAPh2QUInx9Ub-gu-s5aeJlny3kJXEhArz1bWBgHJ4bwntNb44goNGhQTqmxdrZbpQHkp6ugFmJfEHiwLYg",
-            "width": 600
-          }
-        ],
-        "place_id": "ChIJYQ32QRfGxokRnvBIXOAn4Y0",
-        "rating": 5,
-        "reference": "CmRSAAAAea_ZHIlzT-ZK9stoZPoJbO3SE3XzLLeAuqFImnpbPbpr7Otmz_YAEben1f2D-8i4fVJnSud56d8jp-lXZvPChv9M1FschbrG7WZmQuZep9bhdUmUw2lrvEntZMKH14p0EhD_xeWZsVS9pdi_21VR98znGhQ2tWoHpxhXz0b_ngk1RKyOmv9CXQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1170 South Broad Street, Philadelphia"
+        "vicinity": "965 East Guadalupe Road, Tempe"
       }
     ],
     "status": "OK"
