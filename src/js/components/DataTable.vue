@@ -93,6 +93,8 @@ import _ from 'lodash';
 
 import axios from 'axios';
 
+import VueFuse from 'vue-fuse';
+
 import ElementUI from 'element-ui';
 
 import locale from 'element-ui/lib/locale/lang/en';
@@ -107,6 +109,7 @@ import Icons from 'uikit/dist/js/uikit-icons';
 
 import GroupFamilies from '../../json/groupFamilies.json';
 
+Vue.use(VueFuse);
 Vue.use(ElementUI, { locale });
 UIkit.use(Icons);
 
@@ -121,6 +124,18 @@ export default {
       currentPage: 1,
       currentOffset: 0,
       searchTextInput: '',
+      searchOptions: {
+        caseSensitive: false,
+        distance: 1000,
+        findAllMatches: true,
+        keys: [
+          'names',
+          'location_text',
+          'website_details.title',
+          'website_details.description',
+        ],
+        threshold: 0.3,
+      },
       groupsInCurrentSearch: [],
       groupsInCurrentPage: [],
     };
@@ -132,7 +147,7 @@ export default {
         const end = this.currentOffset + this.perPage;
 
         this.groups = response.data;
-        this.groupsInCurrentSearch = this.groups;
+        this.groupsInCurrentSearch = _.clone(this.groups);
         this.groupsInCurrentPage = this.groupsInCurrentSearch.slice(begin, end);
       });
   },
@@ -164,19 +179,15 @@ export default {
       this.groupsInCurrentPage = this.groupsInCurrentSearch.slice(begin, end);
     },
     handleSearchChange(searchTerm) {
-      let found = false;
+      this.$search(searchTerm, this.groups, this.searchOptions).then((results) => {
+        if (!searchTerm) {
+          this.groupsInCurrentSearch = _.clone(this.groups);
+        } else {
+          this.groupsInCurrentSearch = results;
+        }
 
-      this.groupsInCurrentSearch = _.filter(this.groups, (item) => {
-        _.each(this.getSearchableValues(item), (v) => {
-          if (v.indexOf(searchTerm.toLowerCase()) >= 0) {
-            found = true;
-          }
-        });
-
-        return found;
+        this.handleCurrentPageChange(1);
       });
-
-      this.handleCurrentPageChange(1);
     },
     isLikelyCapoeira(item) {
       let isLikely = false;
