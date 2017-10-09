@@ -33,7 +33,14 @@
             <div v-else>No schedule found.</div>
             <div v-if="typeof scope.row.location_coords.lat === 'number' && typeof scope.row.location_coords.lng === 'number'" class="uk-padding-small">
               <div><span class="uk-text-muted">Map</span></div>
-              <div><img :src="'https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w&size=200x200&zoom=11&markers=' + scope.row.location_text"></div>
+              <div>
+                <a :href="'http://maps.google.com/?q=place_id:' + scope.row.id"
+                  target="_blank"
+                  title="Open Google Maps listing"
+                  uk-tooltip>
+                  <img :src="'https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCs8hRBrRIsSo9El30ywpJWlkDDO0yap9w&size=200x200&zoom=11&markers=' + scope.row.location_text">
+                </a>
+              </div>
             </div>
             <div v-else>Not enough information to display map.</div>
           </div>
@@ -71,8 +78,7 @@
       </el-table-column>
       <el-table-column label="Listings" width="100">
         <template scope="scope">
-          <a v-if="scope.row.location_text"
-            :href="'http://maps.google.com/?q=place_id:' + scope.row.id"
+          <a :href="'http://maps.google.com/?q=place_id:' + scope.row.id"
             class="uk-button uk-button-default uk-button-small"
             target="_blank"
             title="Open Google Maps listing"
