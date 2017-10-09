@@ -4,16 +4,21 @@
     <warning />
     <tabs-view active="Stats" />
     <div class="uk-container uk-container-expand uk-margin">
-      <dl class="uk-description-list">
-        <dt v-if="stats.lastUSRun.name">Last run city in US-only search</dt>
-        <dd v-if="stats.lastUSRun.name">
-          <span>{{ stats.lastUSRun.name }} (rank #{{ stats.lastUSRun.index }})</span>
-        </dd>
-        <dt v-if="stats.lastWorldRun.name">Last run city in world search</dt>
-        <dd v-if="stats.lastWorldRun.name">
-          <span>{{ stats.lastWorldRun.name }} (rank #{{ stats.lastWorldRun.index }})</span>
-        </dd>
-      </dl>
+      <div uk-grid class="uk-child-width-1-1@s uk-child-width-1-2@m">
+        <dl class="uk-description-list uk-margin">
+          <dt v-if="stats.lastUSRun.name">Last run city in US-only search</dt>
+          <dd v-if="stats.lastUSRun.name">
+            <span>{{ stats.lastUSRun.name }} (rank #{{ stats.lastUSRun.index }})</span>
+          </dd>
+          <dt v-if="stats.lastWorldRun.name">Last run city in world search</dt>
+          <dd v-if="stats.lastWorldRun.name">
+            <span>{{ stats.lastWorldRun.name }} (rank #{{ stats.lastWorldRun.index }})</span>
+          </dd>
+        </dl>
+        <div class="uk-text-right">
+          Searched for top 20 results in <span class="uk-badge">{{ stats.cities.length }}</span> cities
+        </div>
+      </div>
       <el-table
         v-if="stats.cities"
         :data="stats.cities"
@@ -111,7 +116,7 @@ export default {
   data() {
     return {
       stats: {
-        cities: undefined,
+        cities: [],
         lastUSRun: {},
         lastWorldRun: {},
       },
