@@ -53,8 +53,8 @@ const createMapPoints = (map, data) => {
       data,
     },
     paint: {
-      'circle-color': 'rgba(0,150,0,1)',
-      'circle-radius': 5,
+      'circle-color': 'rgba(200,200,0,0.25)',
+      'circle-radius': 3,
     },
   }, 'waterway-label');
 };
