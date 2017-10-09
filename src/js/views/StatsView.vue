@@ -140,7 +140,13 @@ export default {
     },
     formatName(name) {
       const lastHyphen = name.lastIndexOf('-');
-      return `${name.substr(0, lastHyphen)}, ${name.substr(lastHyphen + 1).toUpperCase()}`;
+      let formattedName = name;
+
+      if (lastHyphen === name.length - 3) {
+        formattedName = `${name.substr(0, lastHyphen)}, ${name.substr(lastHyphen + 1).toUpperCase()}`;
+      }
+
+      return formattedName;
     },
     formatPopulation(row) {
       const pop = new Intl.NumberFormat().format(row.population);
