@@ -68,7 +68,7 @@
             <li v-if="getWebsiteDetail(scope.row, 'description')"><q>{{ getWebsiteDetail(scope.row, 'description') }}</q></li>
             <li v-if="scope.row.website"><a :href="scope.row.website" target="_blank">{{ scope.row.website }}</a></li>
             <li v-if="getWebsiteDetail(scope.row, 'status') === 200" class="uk-text-success">Status OK</li>
-            <li v-if="scope.row.website.indexOf('https') === 0">Secure (https)</li>
+            <li v-if="scope.row.website && scope.row.website.indexOf('https') === 0">Secure (https)</li>
           </ul>
         </template>
       </el-table-column>
@@ -85,10 +85,6 @@
         </template>
       </el-table-column>
       <el-table-column prop="score" label="Score" />
-      <!--
-      <el-table-column prop="style" label="Possible Style" />
-      <el-table-column prop="teachers" label="Teachers" />
-      -->
     </el-table>
   </div>
 </template>
