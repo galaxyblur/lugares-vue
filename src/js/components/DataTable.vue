@@ -41,24 +41,25 @@
       </el-table-column>
       <el-table-column label="Name" min-width="150">
         <template scope="scope">
-          {{ scope.row.names.join(', ') }}
-          <div v-if="getWebsiteDetail(scope.row, 'logo')">
+          <div class="uk-margin">
+            <b><i>{{ scope.row.names.join(', ') }}</i></b>
+          </div>
+          <div v-if="getWebsiteDetail(scope.row, 'logo')" class="uk-margin">
             <img :src="getWebsiteDetail(scope.row, 'logo')">
+          </div>
+          <div class="uk-margin">
+            <b>Tags:</b>
+            <el-tag v-if="scope.row.location_locality" type="gray">{{ scope.row.location_locality }}</el-tag>
+            <el-tag v-if="scope.row.location_administrative_area_level_1" type="gray">{{ scope.row.location_administrative_area_level_1 }}</el-tag>
+            <el-tag v-if="scope.row.location_country" type="gray">{{ scope.row.location_country }}</el-tag>
+            <el-tag v-if="scope.row.permanently_closed" type="danger">Closed?</el-tag>
+            <el-tag v-if="getPossibleGroupFamily(scope.row)">{{ getPossibleGroupFamily(scope.row) }}</el-tag>
           </div>
         </template>
       </el-table-column>
       <el-table-column label="Location" min-width="200">
         <template scope="scope">
-          <ul class="uk-list">
-            <li><b>Address:</b> {{ scope.row.location_text }}</li>
-            <li v-if="scope.row.location_locality">
-              <b>Tags:</b>
-              <el-tag v-if="scope.row.location_locality" type="gray">{{ scope.row.location_locality }}</el-tag>
-              <el-tag v-if="scope.row.location_administrative_area_level_1" type="gray">{{ scope.row.location_administrative_area_level_1 }}</el-tag>
-              <el-tag v-if="scope.row.location_country" type="gray">{{ scope.row.location_country }}</el-tag>
-              <el-tag v-if="scope.row.permanently_closed" type="danger">Closed?</el-tag>
-            </li>
-          </ul>
+          <b>Address:</b> {{ scope.row.location_text }}
         </template>
       </el-table-column>
       <el-table-column label="Website" min-width="200">
@@ -107,6 +108,8 @@ import UIkit from 'uikit';
 import 'uikit/dist/css/uikit.min.css';
 
 import Icons from 'uikit/dist/js/uikit-icons';
+
+import GroupFamilies from '../../json/groupFamilies.json';
 
 Vue.use(ElementUI, { locale });
 UIkit.use(Icons);
@@ -163,6 +166,32 @@ export default {
       }
 
       return val;
+    },
+    getPossibleGroupFamily(item) {
+      let groupFamily;
+      const tryValues = [
+        item.names[0].toLowerCase(),
+      ];
+
+      if (item.website_details) {
+        if (item.website_details.title) {
+          tryValues.push(item.website_details.title.toLowerCase());
+        }
+
+        if (item.website_details.description) {
+          tryValues.push(item.website_details.description.toLowerCase());
+        }
+      }
+
+      _.each(GroupFamilies, (tag, searchTerm) => {
+        _.each(tryValues, (v) => {
+          if (v.indexOf(searchTerm.toLowerCase()) >= 0) {
+            groupFamily = tag;
+          }
+        });
+      });
+
+      return groupFamily;
     },
   },
 };
