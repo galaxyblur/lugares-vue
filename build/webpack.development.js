@@ -1,3 +1,4 @@
+const path = require('path');
 const webpack = require('webpack');
 const config = require('../config');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
@@ -35,6 +36,11 @@ const webpackConfig = {
     }),
     new FriendlyErrorsPlugin(),
     new CopyWebpackPlugin([
+      {
+        from: path.resolve(__dirname, '../static'),
+        to: config.assetsRoot,
+        ignore: ['.*'],
+      },
       {
         from: 'src/json',
         to: 'json',
