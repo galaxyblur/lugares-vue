@@ -3,7 +3,7 @@
     <nav class="uk-navbar-container uk-container-expand" uk-navbar>
       <div class="uk-navbar-left">
         <a href="/" class="uk-navbar-item uk-logo uk-padding-small" title="Lugares">
-          <img src="/static/logo-192x192.png" class="uk-height-1-1"> Lugares <div class="uk-text-small uk-margin-left">find capoeira.</div>
+          <img src="/logo-192x192.png" class="uk-height-1-1"> Lugares <div class="uk-text-small uk-margin-left">find capoeira.</div>
         </a>
       </div>
       <div class="uk-navbar-right uk-text-right">

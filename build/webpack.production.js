@@ -91,7 +91,7 @@ const webpackConfig = {
     new CopyWebpackPlugin([
       {
         from: path.resolve(__dirname, '../static'),
-        to: config.assetsSubDirectory,
+        to: config.assetsRoot,
         ignore: ['.*'],
       },
       {
