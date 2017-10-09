@@ -42,33 +42,29 @@
       <el-table-column label="Name" min-width="150">
         <template scope="scope">
           <div class="uk-margin">
-            <b><i>{{ scope.row.names.join(', ') }}</i></b>
+            <b v-if="isLikelyCapoeira(scope.row)"><i>{{ scope.row.names.join(', ') }}</i></b>
+            <span v-else class="uk-text-muted">{{ scope.row.names.join(', ') }}</span>
           </div>
-          <div v-if="getWebsiteDetail(scope.row, 'logo')" class="uk-margin">
+          <div v-if="isLikelyCapoeira(scope.row) && getWebsiteDetail(scope.row, 'logo')" class="uk-margin">
             <img :src="getWebsiteDetail(scope.row, 'logo')">
           </div>
           <div class="uk-margin">
-            <b>Tags:</b>
+            <el-tag v-if="getPossibleGroupFamily(scope.row)">{{ getPossibleGroupFamily(scope.row) }}</el-tag>
+            <el-tag v-if="scope.row.permanently_closed" type="danger">Closed?</el-tag>
             <el-tag v-if="scope.row.location_locality" type="gray">{{ scope.row.location_locality }}</el-tag>
             <el-tag v-if="scope.row.location_administrative_area_level_1" type="gray">{{ scope.row.location_administrative_area_level_1 }}</el-tag>
             <el-tag v-if="scope.row.location_country" type="gray">{{ scope.row.location_country }}</el-tag>
-            <el-tag v-if="scope.row.permanently_closed" type="danger">Closed?</el-tag>
-            <el-tag v-if="getPossibleGroupFamily(scope.row)">{{ getPossibleGroupFamily(scope.row) }}</el-tag>
           </div>
         </template>
       </el-table-column>
-      <el-table-column label="Location" min-width="200">
-        <template scope="scope">
-          <b>Address:</b> {{ scope.row.location_text }}
-        </template>
-      </el-table-column>
+      <el-table-column label="Location" prop="location_text" min-width="200" />
       <el-table-column label="Website" min-width="200">
         <template scope="scope">
           <ul class="uk-list uk-text-small">
             <li v-if="getWebsiteDetail(scope.row, 'title')"><b><i>{{ getWebsiteDetail(scope.row, 'title') }}</i></b></li>
             <li v-if="getWebsiteDetail(scope.row, 'description')"><q>{{ getWebsiteDetail(scope.row, 'description') }}</q></li>
             <li v-if="scope.row.website"><a :href="scope.row.website" target="_blank">{{ scope.row.website }}</a></li>
-            <li v-if="getWebsiteDetail(scope.row, 'status') === 200" class="uk-text-success">Status OK</li>
+            <li v-if="getWebsiteDetail(scope.row, 'status') === 200" class="uk-text-success">Website OK</li>
             <li v-if="scope.row.website && scope.row.website.indexOf('https') === 0">Secure (https)</li>
           </ul>
         </template>
@@ -114,6 +110,8 @@ import GroupFamilies from '../../json/groupFamilies.json';
 Vue.use(ElementUI, { locale });
 UIkit.use(Icons);
 
+const isLikelyCapoeiraCache = {};
+
 export default {
   name: 'data-table',
   data() {
@@ -139,6 +137,24 @@ export default {
       });
   },
   methods: {
+    getSearchableValues(item) {
+      const values = [
+        item.names[0].toLowerCase(),
+        item.location_text.toLowerCase(),
+      ];
+
+      if (item.website_details) {
+        if (item.website_details.title) {
+          values.push(item.website_details.title.toLowerCase());
+        }
+
+        if (item.website_details.description) {
+          values.push(item.website_details.description.toLowerCase());
+        }
+      }
+
+      return values;
+    },
     handleCurrentPageChange(currentPage) {
       this.currentOffset = (currentPage - 1) * this.perPage;
 
@@ -147,14 +163,39 @@ export default {
 
       this.groupsInCurrentPage = this.groupsInCurrentSearch.slice(begin, end);
     },
-    handleSearchChange(v) {
-      this.groupsInCurrentSearch = _.filter(this.groups, (g) => {
-        const foundInName = g.names[0].toLowerCase().indexOf(v.toLowerCase()) >= 0;
-        const foundInAddress = g.location_text.toLowerCase().indexOf(v.toLowerCase()) >= 0;
+    handleSearchChange(searchTerm) {
+      let found = false;
 
-        return foundInName || foundInAddress;
+      this.groupsInCurrentSearch = _.filter(this.groups, (item) => {
+        _.each(this.getSearchableValues(item), (v) => {
+          if (v.indexOf(searchTerm.toLowerCase()) >= 0) {
+            found = true;
+          }
+        });
+
+        return found;
       });
+
       this.handleCurrentPageChange(1);
+    },
+    isLikelyCapoeira(item) {
+      let isLikely = false;
+
+      if (Object.prototype.hasOwnProperty.call(isLikelyCapoeiraCache, item.id)) {
+        isLikely = isLikelyCapoeiraCache[item.id];
+      } else {
+        const values = this.getSearchableValues(item);
+
+        _.each(values, (v) => {
+          if (v.indexOf('capoeira') >= 0) {
+            isLikely = true;
+          }
+        });
+
+        isLikelyCapoeiraCache[item.id] = isLikely;
+      }
+
+      return isLikely;
     },
     getWebsiteDetail(item, prop) {
       let val;
@@ -169,22 +210,10 @@ export default {
     },
     getPossibleGroupFamily(item) {
       let groupFamily;
-      const tryValues = [
-        item.names[0].toLowerCase(),
-      ];
-
-      if (item.website_details) {
-        if (item.website_details.title) {
-          tryValues.push(item.website_details.title.toLowerCase());
-        }
-
-        if (item.website_details.description) {
-          tryValues.push(item.website_details.description.toLowerCase());
-        }
-      }
+      const values = this.getSearchableValues(item);
 
       _.each(GroupFamilies, (tag, searchTerm) => {
-        _.each(tryValues, (v) => {
+        _.each(values, (v) => {
           if (v.indexOf(searchTerm.toLowerCase()) >= 0) {
             groupFamily = tag;
           }
