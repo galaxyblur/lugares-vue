@@ -1,12 +1,12 @@
 <template>
   <header>
-    <nav class="uk-navbar-container uk-container-expand uk-padding-remove-left" uk-navbar>
+    <nav class="uk-navbar-container uk-container-expand" uk-navbar>
       <div class="uk-navbar-left">
-        <a href="/" class="uk-navbar-item uk-logo" title="Lugares">
-          Lugares <div class="uk-text-small uk-margin-left">find capoeira.</div>
+        <a href="/" class="uk-navbar-item uk-logo uk-padding-small" title="Lugares">
+          <img src="/static/logo-192x192.png" class="uk-height-1-1"> Lugares <div class="uk-text-small uk-margin-left">find capoeira.</div>
         </a>
       </div>
-      <div class="uk-navbar-right">
+      <div class="uk-navbar-right uk-text-right">
         <a href="https://www.capoeiraonline.net" class="uk-navbar-item" target="_blank">
           <i>a free <u>Capoeira Online</u> service</i>
         </a>
