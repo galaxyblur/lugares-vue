@@ -1,146 +1,213 @@
 {
-  "city_name": "scottsdale-arizona",
-  "city_rank": 95,
-  "city_population": 226918,
+  "city_name": "north-las-vegas-nevada",
+  "city_rank": 96,
+  "city_population": 226877,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.4941704,
-      -111.9260519
+      36.1988592,
+      -115.1175013
     ],
     "rankby": "distance"
   },
-  "people_per_result": 75639,
-  "possible_duplicates": {},
+  "people_per_result": 56719,
+  "possible_duplicates": {
+    "ChIJ2xtIRN2_yIARiFxUyYAxoXw": [
+      {
+        "place1": "Capoeira in Las Vegas 5060 South Fort Apache Road #120, Las Vegas",
+        "place2": "Vegas Capoeira (CBPT) 5060 South Fort Apache Road #120, Las Vegas",
+        "score": 0.9069767441860465
+      }
+    ],
+    "ChIJi-RYOL24yIARWTtSoD3yPXw": [
+      {
+        "place1": "Vegas Capoeira (CBPT) 5060 South Fort Apache Road #120, Las Vegas",
+        "place2": "Capoeira in Las Vegas 5060 South Fort Apache Road #120, Las Vegas",
+        "score": 0.9069767441860465
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 33.4483845,
-            "lng": -111.9269977
+            "lat": 36.16608770000001,
+            "lng": -115.114987
           },
           "viewport": {
             "northeast": {
-              "lat": 33.4497333802915,
-              "lng": -111.9253755197085
+              "lat": 36.1674366802915,
+              "lng": -115.1136380197085
             },
             "southwest": {
-              "lat": 33.4470354197085,
-              "lng": -111.9280734802915
+              "lat": 36.1647387197085,
+              "lng": -115.1163359802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
-        "name": "Axe Capoeira Arizona",
-        "photos": [
-          {
-            "height": 866,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
-            ],
-            "photo_reference": "CmRaAAAAaLem3jPJGNeLmeZRtRGn70EFJgobH-Dv1PN3_pnn7zI9003RUe7dYkrvmxvHUNIABY1h0QCm8XwEz_VzgNOpBjkOuqx3R13vbBH0m03ZFptqE4T3vlH_mxc6836WxAY2EhD_tB4RWTugDPKOeWXNiJzNGhTQM3FSUhoswsnMQ9xsawWfC8qk8g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
-        "rating": 5,
-        "reference": "CmRSAAAABljstQ2d0rdz-7_H8yhwmDfuLoRgnzZW1nBRHgCZuvZmn_rM5W2a7Ek-Afii38MYbhf4WSsFvYH9W-utD20DCuXuoGbWEnwCj_4xxnlIo7xJi5PFMCanU353GdKEc0WnEhAk7wr1lpni2SaqH9V3lEmjGhRzDuKYgMb84jU016GIug3U2H8rNw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1650 North Scottsdale Road, Tempe"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.3632505,
-            "lng": -111.9269745
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.3648550302915,
-              "lng": -111.9256263697085
-            },
-            "southwest": {
-              "lat": 33.3621570697085,
-              "lng": -111.9283243302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a31f332f5caa4509caae34a0bb013ff1c069e9e3",
-        "name": "Capoeira Brasil Tempe",
+        "id": "3f58ecb045fa5dcb09fece8ee55949a9982785ca",
+        "name": "Capoeira in Las Vegas",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 480,
+            "height": 640,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105735552656224354361/photos\">Capoeira Brasil Tempe</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114023828948254623556/photos\">Nego Capoeira</a>"
             ],
-            "photo_reference": "CmRaAAAAs6TD3EbtnM1Ge9tuP7QNGSPy6TwWrPmvdSbQlfmV0Y5Pl9KpX8-gkE3v0xZeKnQtpDYU4yVO_Pxdrhenfv9--U7SJoxuZeytLnJgNJ4ekYqxMdX9kP6a_DozzU3Bcq_HEhDacHWUQXY2Cot7-1z-ThkeGhRUztABhoyyKuRnmYZveq1Okk4MhQ",
-            "width": 720
+            "photo_reference": "CmRaAAAAH44GVnBMy1BHJ4chx381m1dIWi4yxLnybcjmohCA-iDYFIIMc4x7S-PRfyQ0u0zOJH0FBZDhCOEXYaSIdVd0M59_QWhydU9__1j6Cg5gmtymydIf1uMhgeBtUkk5PBWnEhAlxBGEf8SHbP3Sw3TjksnSGhSW7ZMdyNBu0lNXHVGS5nCuf9iv-Q",
+            "width": 960
           }
         ],
-        "place_id": "ChIJ5Z5ObUAGK4cRBXcO_VfY4B4",
-        "rating": 5,
-        "reference": "CmRRAAAAVjXBJrR0L4n3zqg0gHm28HlU9NXQoQWBmuqwkkdcv95Ru16NhmVSyRcsXvaAdPDfKxCKAUelLbPDrzsh-hb7-TfPN9uKXQFULFJzhr0bUgc6T4xIt85_cjMSFlaEuu6tEhASatWw_I87Y-nxkJ2BBGPDGhQPS1GcTW5ElufOn8cTMQ1wIHdcDg",
+        "place_id": "ChIJ2xtIRN2_yIARiFxUyYAxoXw",
+        "reference": "CmRRAAAAyMu3Bv-o15yi-onUw5PSLi2_iJcvo3OiEsxQ4L-cXtb2duVGe2kSGm-UU2HIIhWA2E4glqYNco6ymfH5jQRpbQQuX0HqATqj0SlZzviYwAnXJf1Qh-eXsuQKJOI3nzvlEhC8HGdReFHdicqInUNB39eVGhRzWMJdGjGmDWlekB8R3yrL2gDwYA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "965 East Guadalupe Road, Tempe"
+        "vicinity": "5060 South Fort Apache Road #120, Las Vegas"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.4954773,
-            "lng": -112.0831415
+            "lat": 36.23903349999999,
+            "lng": -115.1479927
           },
           "viewport": {
             "northeast": {
-              "lat": 33.4968227802915,
-              "lng": -112.0819602197085
+              "lat": 36.24055638029149,
+              "lng": -115.1466474197085
             },
             "southwest": {
-              "lat": 33.4941248197085,
-              "lng": -112.0846581802915
+              "lat": 36.23785841970849,
+              "lng": -115.1493453802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
-        "name": "Capoeira Brasil",
+        "id": "32545bc6f49bcafa3180db2fafb9cd97055f824b",
+        "name": "UFC Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
         "photos": [
           {
-            "height": 3984,
+            "height": 500,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102374082423708030204/photos\">Amanda Harris</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111567740978272253827/photos\">UFC Gym</a>"
             ],
-            "photo_reference": "CmRaAAAAgDPKxYEZakXk6CWtmdXdk9Z_smQe14c3VChEh5Du7XPLolTUO90RIT_1Gp_5pCw3w1Dw7yjc2Y_yAlF0wZC0t7dZgqyAVQgUYh3BMU7JOqUMBpTUpbfpEFzknc9zFjyzEhBneThMR8gxzYM2HK6ZSjmaGhQXB2vYxykYw7qB8vPq-lQIiyiONA",
-            "width": 2988
+            "photo_reference": "CmRaAAAAdW3-rngGu6nYXmDw2bpdZP74jCzMh878kbf-8-PfBeYfyQttsQ90VYuOD4ZoEG0630R4sHoMGXdxAwIcxSphDfmBCKaUaNIw491xA_FcgFID7BhwNICL4go5BhQsGThwEhBPx2azM9XwdCRre1FoILATGhQv56s5rBU4nfQk_vjs1U4HGne_Gg",
+            "width": 500
           }
         ],
-        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "place_id": "ChIJI99FKNLpyIARqdxEkIgGEY4",
         "rating": 5,
-        "reference": "CmRRAAAAa9P09IukPSpA1W16mWh3B7zCkJwDQBwTXy8XBl-p0ujG18EQpTl6eSIoJfiQPLKWcFWEAVAPV03cKl7CCU58oRD44mtA0T6EhL0dDCCdi730qUgve_YYGquP4U6ys1LEEhAK-qgUUV8kM03iRwo79A6NGhSoDdRjaj1ORUId45uNfdAzQ6hBPg",
+        "reference": "CmRSAAAAr8UBcVTzTb6a_0i_B7Pxti1JMK9FuIXeIZoML8Vbwe566oZGW2cuVYMIiyrZ8wUnw7vV1VGwBZctjKomCq256tz2F8gc1t6ZdHeSOW7J4WuZc70Hu8_WkXYF6UbiVLr9EhAPA6aY3_IqdY-rP3aa1JOTGhTm8YwT8PWvk5ezuiAh2S6BzSyrng",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "479 West Craig Road, North Las Vegas"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.08076459999999,
+            "lng": -115.1174711
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.08211268029149,
+              "lng": -115.1167161197085
+            },
+            "southwest": {
+              "lat": 36.0794147197085,
+              "lng": -115.1194140802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1cb54f69e8ef842be5842eb56f96604e2197f0f0",
+        "name": "AIP ACADEMY OF THE ARTS",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101131305202178053626/photos\">ASET BRAGG</a>"
+            ],
+            "photo_reference": "CmRaAAAA7bkDYW4_MdR1FNBGxz-En7Va8R5CATEnXWPIsh5NZygv2PZu2e4xdtAHA-we9ypSlM4_vrULXFROKdqRb6gAR8q5Na1YzYs3P15cGk0NE8TGgy5L-Nu92vfICs38Z1ZwEhDsoNRpZB88zhy_2PB-56xUGhS1Yw3YWYG1umguhy-JdSISSamBTQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJnQTJil3FyIARJpFxfXZnLeI",
+        "rating": 5,
+        "reference": "CmRSAAAAiqPBqqd-godrOXg-g2-QjjuajXbkF6vBO16rTomEfoPcZGGraCQidLXI3YISD16QTSZmnG2iIyfgUN_D0oiocFUecJkJezZQ9Y3sl4V5jAU55NZf6KkcXLezfdB6OWUuEhDD7RFYMirhxS-nMH1l5bAnGhSj00mvKS7_KHDDMVE6ZyrSYGCN2w",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6000 South Eastern Avenue, Las Vegas"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.096711,
+            "lng": -115.296528
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.09806503029149,
+              "lng": -115.2955344697085
+            },
+            "southwest": {
+              "lat": 36.09536706970849,
+              "lng": -115.2982324302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "06a0119bd798c5b56fec3e8b9ec6a1791e60f7e9",
+        "name": "Vegas Capoeira (CBPT)",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 917,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101430804899276208575/photos\">Vegas Capoeira (CBPT)</a>"
+            ],
+            "photo_reference": "CmRaAAAAsFF0OCVsfT0IJ1AXU4gEfepE7R5Rt4M286Z-QZmjj8H_dcXGrNPdkby5D7NLhWc7YKArkHx0wcMrBXrJJWTYAf6gogyhXAAfUm0CJAswQgOgZLrrRMIyacOZlx--tkN0EhCRCMQbvRK5W1ZJYZmm_pOhGhRgqIhKxmsFknq7vusTOPpmxDcT5Q",
+            "width": 917
+          }
+        ],
+        "place_id": "ChIJi-RYOL24yIARWTtSoD3yPXw",
+        "rating": 5,
+        "reference": "CmRRAAAAyOyyTBRw6e82aKw9HcuMEElkDAQrr7EWA1tKnH45fOH64t1oHzP65LLG4B1rK_MsiM1KersISH7Gzs1pAigoG3CK3pYKkQcH4WbxU4PZ7NcI4Up15z3X8cnp6tmVNc_xEhAoFiWMgcNpJk_gVG-VQYroGhQJb0r2xhIxZNfiSU-_HlKRNdC4TA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4113 North 7th Avenue, Phoenix"
+        "vicinity": "5060 South Fort Apache Road #120, Las Vegas"
       }
     ],
     "status": "OK"
