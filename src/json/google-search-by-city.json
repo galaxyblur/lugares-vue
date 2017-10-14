@@ -1,81 +1,238 @@
 {
-  "city_name": "eugene-oregon",
-  "city_rank": 155,
-  "city_population": 159190,
+  "city_name": "palmdale-california",
+  "city_rank": 156,
+  "city_population": 157161,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0520691,
-      -123.0867536
+      34.5794343,
+      -118.1164613
     ],
     "rankby": "distance"
   },
-  "people_per_result": 39798,
-  "possible_duplicates": {},
+  "people_per_result": 15716,
+  "possible_duplicates": {
+    "ChIJu44tsd9XwoARc1km_2Ycahc": [
+      {
+        "place1": "Dragon Han Martial Arts 2321 93550, East Avenue South, Palmdale",
+        "place2": "Dragon Han Martial Arts 4621 East Avenue South, Palmdale",
+        "score": 0.891566265060241
+      }
+    ],
+    "ChIJrZQ9dJn4woARH2shKh6Nw30": [
+      {
+        "place1": "Dragon Han Martial Arts 4621 East Avenue South, Palmdale",
+        "place2": "Dragon Han Martial Arts 2321 93550, East Avenue South, Palmdale",
+        "score": 0.891566265060241
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 44.05788299999999,
-            "lng": -123.09935
+            "lat": 34.5879187,
+            "lng": -118.0957622
           },
           "viewport": {
             "northeast": {
-              "lat": 44.05911428029149,
-              "lng": -123.0980047697085
+              "lat": 34.5890265302915,
+              "lng": -118.0944102697085
             },
             "southwest": {
-              "lat": 44.0564163197085,
-              "lng": -123.1007027302915
+              "lat": 34.5863285697085,
+              "lng": -118.0971082302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fc18d4f351ab0795cfe9f0f85d2edd40532478a1",
-        "name": "MooDo Taekwondo",
+        "id": "20aacafd224c81d2f7d133bd280285b2d9aedd45",
+        "name": "United Self-Defense Academy",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJBy8VigwewVQREWnxtiCu2ag",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108436476050606141239/photos\">United Self-Defense Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAYh0_azj96xUsWimS2YpMdKIya81W7K6lrTzmQCbXdjanx0KkoDpN9nPsKJzd-mQNJtmYibmha5JtQtk0EXqFg4m_ioR8BRxRX7fz_-xPq-SGJzqRR8o9TkAawkl4eWYMEhActUlOMXv8g_Ve8R9hrIKvGhSDMLp5srmtl8LBql9nRHYje_CYfQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJYacwSppXwoARM9U71P8LcOg",
         "rating": 5,
-        "reference": "CmRSAAAAz6tFGei352H0sA0cPuawU-0GVRH2Vf1_Y3gdfpVOiIzbiKAyZXFQ1aoNF7ZG8kMNNay5yU41dP-10ORV6qM3JQAQMd4Ll47klbwtjaCzIATt2jmOM9Gud2y6UF2EyfCdEhBLcTJXrpl-Zh5hihny1Kc0GhR8xS82-Q8ukHEb60dPoml9-TXcxw",
+        "reference": "CmRSAAAATKCRsHttEuqZP5JSvDCz_MLt5TtKjLkxNV5lNndIhNfA81gKc3qEHvrHZ2zG29bWd_yS5in_wCR-BlgSTvBQ_kYpYmUG-K-cRu7SYE2SJUAOJV1WaAUvNbG8WwKwsX9dEhBmRFTmBMesgW7vQujoHuNhGhS38s7ZXB5xLgmyviOQLEh5RO4exQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "439 West 2nd Avenue, Eugene"
+        "vicinity": "1817 East Avenue Q A-7, Palmdale"
       },
       {
         "geometry": {
           "location": {
-            "lat": 44.0578317,
-            "lng": -123.0995388
+            "lat": 34.5589439,
+            "lng": -118.0870132
           },
           "viewport": {
             "northeast": {
-              "lat": 44.05909018029149,
-              "lng": -123.0981927197085
+              "lat": 34.5598682302915,
+              "lng": -118.0856525697085
             },
             "southwest": {
-              "lat": 44.0563922197085,
-              "lng": -123.1008906802915
+              "lat": 34.5571702697085,
+              "lng": -118.0883505302915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2b965ee0b0d92dd8be95bbdca063877729536e2b",
-        "name": "Capoeira Mandinga Eugene",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "21c55ca32de98d2a36bb72e9eb0c57209c040281",
+        "name": "Dragon Han Martial Arts",
+        "place_id": "ChIJu44tsd9XwoARc1km_2Ycahc",
+        "rating": 3,
+        "reference": "CmRRAAAAS5G3u-jGN79OxoCgBj1zadn7UTpZEXljSxYxNMGfZe-Tm1tBO2IFNtzJLKFMj1YU1wXcKO0J3NTRFeP2JjPACx7-DAwwe8Lb-ypODFtdfo6YVl3F-gP1rAVT5aQ5OKuFEhDW3-pQt09eglaQdH6nBSzwGhQajaOdKxdAODl4dvWtIBrlJSG0wg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2321 93550, East Avenue South, Palmdale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.55951890000001,
+            "lng": -118.046842
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.56020955000001,
+              "lng": -118.0454811197085
+            },
+            "southwest": {
+              "lat": 34.55744694999999,
+              "lng": -118.0481790802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cce87c762bcf94e9be2e65ba6683fd9b46f03ae7",
+        "name": "Dragon Han Martial Arts",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJWQK-iwwewVQRaIRxMWhXR2I",
-        "reference": "CmRRAAAAnz7nx7SaI3QbF9dsRfOEdBRq36FpHpGjIwok8fpWXGlOG_k7eTK7s0XQ-zTMn017cRTXBI68bzo9Ocm0DyFWuFrGAmfPBsD91CCVAvkaG1338zPRfuy6NAvYXHyaenCIEhBjZgEgIFbOPVIoH8W0z-BuGhT5WHfBM5_iOZjNl-7gT-sbyNIbHw",
+        "photos": [
+          {
+            "height": 563,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117362119303212820994/photos\">Dragon Han Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAXnQHs-wshEX2ce0ljmsOWwq9vYAHthaEfl87faGYRrTIEjYC2S3476ry7t5xxfVyMDICWqzV8grgn1cMY5xuqi2pWWz7oPEdIvW-7LSxQpVT3tfReOTbCTzkVqeuz8QeEhAiV2NePsB4A7I5dGhZmc0_GhQfyaaHN14bIkmNwKbcDxTSVCwiAQ",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJrZQ9dJn4woARH2shKh6Nw30",
+        "rating": 5,
+        "reference": "CmRRAAAAqT0sPFc42rSwmkCgBrPHoiRNZB25AS8B2PaZG-eOSktaiJ3_IDNyhyS07YUqi7sjUIKUV7uesAMbSoRYwK495rsF_1P1hmiaQciI2A9pw2uAq5UQm5O5zTXHPnKgJ21OEhBtVuR2zGOPN0UDdaN-BgppGhQRw6mKJspAmOnmfSSybsZlY_b24g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4621 East Avenue South, Palmdale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.60370960000001,
+            "lng": -118.1871929
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.60505858029151,
+              "lng": -118.1858439197085
+            },
+            "southwest": {
+              "lat": 34.60236061970851,
+              "lng": -118.1885418802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "43fecca7041851527dad5e96de66e082744301c6",
+        "name": "Dragon Han Tae Kwon Do",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 504,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101303644180486689513/photos\">Dragon Han Tae Kwon Do</a>"
+            ],
+            "photo_reference": "CmRaAAAAHt2o-MX2-KgPNjZuGhj4gQxJx-s9z79SI6aA7rCrAbqxbza0i5_9IKtAeTwmsqdmPZ9VagLmdkBnU24ZH6sphVk2m-K-m0d24_Vze8I2lIm4iyseJi02h79hiOMptZxPEhDUNSMmAfimXx8DpggNdUcnGhSpxbI0MllUY_BAIUGgGEBzoUiPvQ",
+            "width": 504
+          }
+        ],
+        "place_id": "ChIJ7UAQs1xZwoAR2oEdl_t48os",
+        "rating": 4.5,
+        "reference": "CmRSAAAAMDXn_RNMMQzkhMDYbhP3CiNnKlMsFqT0DXVvXOSoDjpfh6LckPM7Yxaroe5Uqb07BIVuGsR7SqvIEBJN84AxXOc6ysmJB-i6JqKl4hNTlOuYfzaeCcmtm_kq7ZHWi5UCEhBK8snusMKasz0oRU5mQBpUGhRfB62nm4ij9UdasjwaXJKy4JSKHQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3145 Rancho Vista Blvd, Ste A, Palmdale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.6507605,
+            "lng": -118.1525795
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.6521078302915,
+              "lng": -118.1510269197085
+            },
+            "southwest": {
+              "lat": 34.64940986970851,
+              "lng": -118.1537248802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "ae975025ff2020b853dfcc851de02acb624196a4",
+        "name": "CrossFit Inner Chamber",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102112786400332830836/photos\">CrossFit Inner Chamber</a>"
+            ],
+            "photo_reference": "CmRaAAAA4QqsGwI_BTOFBnwyZFcHMlxTRH3dZ97Je2dWvJT9v_9sRys1XsW02kEEKZa27Zhseq6uk8CzQ1X5Y30fYk6zoPPMJF76fOFmX00EudI4g0oZ6EMlcroAwmwdhbATDrrnEhBJuu5UP9I8IWsVkmUQMxJlGhTnDfnHi3gionSP_CSOjBBMoK469w",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJX8U_cE5awoARX5C3Q2qMw5g",
+        "rating": 4.5,
+        "reference": "CmRSAAAAGGD6FJpVnrHRskH1PSLK4ZE7x1PtbeUsVKVk8Zg_OZoUyAnaWhjfkKpxtgbUtvKunUpbSzrkUCjrUVABNDf0dgga-ZkCjNXf_aYGerUZ_DKehBSTUj8X6_IfrU1fJRAMEhAOjLw3nctEtnihjAxWxBM2GhQ4bCOOwsi-2gUAEzT6ZlIJIADG_g",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -83,92 +240,226 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "439 West 2nd Avenue, Eugene"
+        "vicinity": "42247 12th Street West #101, Lancaster"
       },
       {
         "geometry": {
           "location": {
-            "lat": 44.0396089,
-            "lng": -123.0930871
+            "lat": 34.6963225,
+            "lng": -118.1376811
           },
           "viewport": {
             "northeast": {
-              "lat": 44.0409590302915,
-              "lng": -123.0915756197085
+              "lat": 34.6977282302915,
+              "lng": -118.1363404697085
             },
             "southwest": {
-              "lat": 44.0382610697085,
-              "lng": -123.0942735802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d7d3dfe29c6d1bc0c4b550b5aac2d8b1f5d9dda1",
-        "name": "Celebration Belly Dance & Yoga",
-        "photos": [
-          {
-            "height": 331,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104013443469526037003/photos\">朋友老</a>"
-            ],
-            "photo_reference": "CmRaAAAA2Hny0bUtXqNKa5Z4D1HXbWOTbp_IZw3uc9zor8HoSJ3skVSYP2jO48cP0Q6uGFhre1qDU03pNl0rVtJBeQXP64ahl5DJfPvA_ooXm7f5iyzpxPpQtqZ_9OnGnCtILmJ6EhByFSiYfPfoCs9yh7zHQUxJGhQfCUBDCmhUYB-x0GZHV0qSVHQ8kw",
-            "width": 810
-          }
-        ],
-        "place_id": "ChIJ04_sYUQewVQRCGXelmw86i4",
-        "rating": 4.5,
-        "reference": "CmRRAAAA6_VPbsePVHpCxdRtrPkRc5CJNmSXAf8zFmPs0x-uhORsln_gxU82JiK9ovvwIaxEl-93dTYIKo5fx7XxBHp8yOe6hKvmni0JtYIJtRZedIvg-tsgQtlESb38mBX2E1wsEhAFUULZDSnaYOVCtMdbfYzXGhSiMEA8xfpNcnqXisIzhdnicLx10A",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1840 Willamette Street, Eugene"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.03714,
-            "lng": -123.083212
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.0384851302915,
-              "lng": -123.0820867197085
-            },
-            "southwest": {
-              "lat": 44.0357871697085,
-              "lng": -123.0847846802915
+              "lat": 34.6950302697085,
+              "lng": -118.1390384302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ee439c86398c7a4607fa183404a93bbdd0f48d57",
-        "name": "Eugene Family YMCA",
+        "id": "b7224bfeb17972c45286e42bba59282c64cf8b54",
+        "name": "Human Element - Mind | Body Fitness & Wellness",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 918,
+            "height": 1936,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115937871577934480972/photos\">Eugene Family YMCA</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106124542655848623732/photos\">Human Element - Mind | Body Fitness &amp; Wellness</a>"
             ],
-            "photo_reference": "CmRaAAAAGzkOBvyQTvqwRcZNweA6qZOvCOrdXxwcNZWyQx-eXtKpSIj-AtkGDKuSaOGCYwAl5IE-FHl-tlIoEIWAK1DpnV9e27zRMcAl2taGf7Ah0Vral1v04dcQpcc5Hu7QdqFDEhAxJqMB_09dAmfMcBAMK5qlGhS4RtbKqEfbj72dHhMOisN1tlfmng",
-            "width": 916
+            "photo_reference": "CmRaAAAA1q0E8jq68T-D_f7jyPpovceK-_3c99_iZLs4ZDLHRLacf7S67SVZGliGM9fvzd5eoE4dvD2bPlaYBnMeEwp15b0XAF45KXCYkD_wRNIBiRv3DoevY3lTP0z5zFp8rIbdEhCpPtDbdJdXusqh06aVIto4GhT9JMvft3xwA644QnjRkzFKimVaPg",
+            "width": 2592
           }
         ],
-        "place_id": "ChIJpfZW20gewVQRFhzYs5Gtx5w",
-        "rating": 4.7,
-        "reference": "CmRSAAAA4tvwMadcqvftjNo72wXwx1JK0nKqcREximhyjmUrxxaGAqQDbvsEv2xwq3xhfkOJXWJ7bVyNez_GaTs9MzNbtP55res240jHfp8E3tI2YcRSBuG4nM9HPIYfHjqc3zg4EhDHenAWWiccFGlHV7MSS9zOGhTxhTRshodcELfe4NGTYtRKCESDCQ",
+        "place_id": "ChIJAU3M2sdawoARJsI8C_bFgvU",
+        "reference": "CmRSAAAA8-OJIkdQyaegxj_uLkgCn1aNnn81WY_eph1xR4jRgB6HAEQRA6esR2CyQqTtAZW2vM5hKRHaTQ2IPUdNLvgEThRNPz9BeoUYU6m56mO0KOybAUaA-u4PboovRmJdZz5EEhDrqLWfu9lHl0clUgVrbfsKGhRIXNm69TZKE2L54HxOZxqNHc65YQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "530 West Milling Street, Lancaster"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.7069733,
+            "lng": -118.13878
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.7083222802915,
+              "lng": -118.1374310197085
+            },
+            "southwest": {
+              "lat": 34.7056243197085,
+              "lng": -118.1401289802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "805394edf7fec2a6d273ee04fa3c9a6c9696ee65",
+        "name": "Okinawa-Te Karate",
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111376154855888082194/photos\">cody Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAA2_tM5mpTJC3TknK0nSW1r8IGy6GRV9Xzr5n-45tbgN49sAKiEhlBYmfCYpCYMCg8AvP4xqmKlLfRb8KMxhSZr5BwdCslM2lZROZtBF60uwaN0ohzqAv5GgssRUoozScDEhAiO1PKXNGAXBB4eE3dJ9fxGhQKd9IMcLQdJqaaZU13ejul2ahw7w",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJPfUwK8tawoAR9yEXYc2uEZM",
+        "rating": 4,
+        "reference": "CmRSAAAAHQW5Cbbat_fvdxUU1Sg1J6nulxu70u_-TDE3V6F_6oj6KHJ8DOxdr-d8Q3FqlkEBlDo7JmvABPz60Dko94HVTD3L7-rb-0-q0hxmtt4tKHKU_u74VS5KIYOrfFSaU3RQEhB-D1_-mGCUwQb9ex3osZOxGhScPafBVFUEml7wHbtGlCnLZ1ir5w",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2055 Patterson Street, Eugene"
+        "vicinity": "44211 10th Street West, Lancaster"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.1553515,
+            "lng": -118.1502209
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.1567633302915,
+              "lng": -118.1488731697085
+            },
+            "southwest": {
+              "lat": 34.1540653697085,
+              "lng": -118.1515711302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1dfd671f3bb870cab1d1b191472390a9e4fa313a",
+        "name": "Capoeira Batuque Pasadena",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 671,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102270479381716928729/photos\">Capoeira Batuque Pasadena</a>"
+            ],
+            "photo_reference": "CmRaAAAArlAEub0pCG1gCoiJrgE-9glouIBF7obzVxyeiQfn_qe9k3sVqssoagkOz1JQLS6Pp7qknTTnFnwIj5b260P9yZHWO5qNMvUVAnYdWQmYqnEPAhrotC4KqaBio-3rVZ9LEhC_O7RukIu4YL02HBaEs6u-GhRRRJhGLhL01QXosBT0LNn_BGFU0g",
+            "width": 671
+          }
+        ],
+        "place_id": "ChIJxdvCqg3DwoARuFvCnYuTGww",
+        "reference": "CmRRAAAAwlt-HOJPML6LCpsAiL-NukPBrwzK1hB9cT1ToFqKYchqpYH3_SXIYhbDXWWkrthA5W1jB8TgdJawmBQLzlm7mNNMaIFxOhJ5g2RU3mIyi6JY_jIrL4n9PCIPre-UzGU4EhAIJk6iPM90Sn_4QY9VeoXJGhQWiYLAhx6tTXP8vUALxYtgkW1SUg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4 Esther Street, Pasadena"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.1508685,
+            "lng": -118.2554992
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.1522180802915,
+              "lng": -118.2539493697085
+            },
+            "southwest": {
+              "lat": 34.1495201197085,
+              "lng": -118.2566473302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "716e47130c7b5ed2a25550a49aeacb6a8fc99c73",
+        "name": "United Capoeira Association Glendale",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 300,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108317311801175371142/photos\">United Capoeira Association Glendale</a>"
+            ],
+            "photo_reference": "CmRaAAAAy4QXag7ZLzOVECV-JLTP1CRjEe5JBibntKzYz1fuxIydYMKCllDi5uuEMQ0Sizf7EfA3qiqqO2f4S0MMYnYV6Lec5ifIobFcNlWA8Tg8vtILgeKl7_yuryUDqmE5ABzKEhB-ccCl9kwa3JPyyNZIVgjmGhQ0Vvo_JEY5wVGr9HLDW_zmGIbeaQ",
+            "width": 300
+          }
+        ],
+        "place_id": "ChIJRStOi1TAwoARJE7mJaG_PeQ",
+        "reference": "CmRSAAAATPKIYsrn8AG3gCUmjXNwEKXSmV7iGLjAmhrhd0uECureCBaOW9otZ6AeKbxbQADfC16uy6EYL2eivBCudk-u_mG2fOSu7btiEc0cKjg2ZbsROZV-jvtkaTNxF94dpIQDEhB4YB9AxRHjYvnZ6V76ntbOGhSmmGy3XEIWEdyQ91QeFxY1oKsX6g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "325 North Brand Boulevard, Glendale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.138808,
+            "lng": -118.212174
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.14030253029149,
+              "lng": -118.2108340697085
+            },
+            "southwest": {
+              "lat": 34.1376045697085,
+              "lng": -118.2135320302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "028bec004e5539435c522a038be6cd4583762b27",
+        "name": "Capoeira Brasil East",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1333,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102647717033297088660/photos\">Capoeira Brasil East</a>"
+            ],
+            "photo_reference": "CmRaAAAA6Ma9qEQ8KikO2-YlzRHkpei2JDyAtG-XpObMhKYthqPPNGFaBqLX5ks68-A6FmCKGXX5GSfS4YKdM7r5bPw-Y5BdstCkwzi-Y7xLih39pBAfSsWnETWrDIsX2Vgg6CxcEhCtW1MszTDM68Iul962K5ibGhTEdE8Ncw4e2wNKDGnwI_IUHt2hKw",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJc-OqJmfBwoARQsntVKT7os0",
+        "rating": 5,
+        "reference": "CmRSAAAAvt_Iikw4ufzjK2nzFWmeilbQPx6K8zNSm0IjPMLxM2Zr09oeb9q1hzmApVYf73rp2h3Hju0qi3hnAj6uYQkQbaICm3AECD1Kpq2KD9CSAhSrQkeBOBGrqfH22uqVZ4ehEhAMuhQo6olYEW0DVQ1wsloYGhThMh1TTVcLKNw7Zks_Ez0ASWkamA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2102 Colorado Boulevard, Los Angeles"
       }
     ],
     "status": "OK"
