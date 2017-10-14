@@ -1,71 +1,101 @@
 {
-  "city_name": "lancaster-california",
-  "city_rank": 153,
-  "city_population": 159523,
+  "city_name": "corona-california",
+  "city_rank": 154,
+  "city_population": 159503,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6867846,
-      -118.1541632
+      33.8752935,
+      -117.5664384
     ],
     "rankby": "distance"
   },
-  "people_per_result": 22789,
-  "possible_duplicates": {
-    "ChIJu44tsd9XwoARc1km_2Ycahc": [
-      {
-        "place1": "Dragon Han Martial Arts 2321 93550, East Avenue South, Palmdale",
-        "place2": "Dragon Han Martial Arts 4621 East Avenue South, Palmdale",
-        "score": 0.891566265060241
-      }
-    ],
-    "ChIJrZQ9dJn4woARH2shKh6Nw30": [
-      {
-        "place1": "Dragon Han Martial Arts 4621 East Avenue South, Palmdale",
-        "place2": "Dragon Han Martial Arts 2321 93550, East Avenue South, Palmdale",
-        "score": 0.891566265060241
-      }
-    ]
-  },
+  "people_per_result": 12269,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 34.6963225,
-            "lng": -118.1376811
+            "lat": 33.8869272,
+            "lng": -117.582225
           },
           "viewport": {
             "northeast": {
-              "lat": 34.6977282302915,
-              "lng": -118.1363404697085
+              "lat": 33.88824753029149,
+              "lng": -117.5806478197085
             },
             "southwest": {
-              "lat": 34.6950302697085,
-              "lng": -118.1390384302915
+              "lat": 33.88554956970849,
+              "lng": -117.5833457802915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "b7224bfeb17972c45286e42bba59282c64cf8b54",
-        "name": "Human Element - Mind | Body Fitness & Wellness",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b053ba72db1e22c86f0048b060924a507bb4db86",
+        "name": "Center Stage Dance School",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1936,
+            "height": 840,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106124542655848623732/photos\">Human Element - Mind | Body Fitness &amp; Wellness</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/112017402091570461147/photos\">Center Stage Dance School</a>"
             ],
-            "photo_reference": "CmRaAAAAGJrC-50yLO0vnRO-vOCE1SsoATDy9Cn1qTQfaKVEC2OhkUM4AX8uUKlJ8CuIxeaf_SKFohNaCfY1rrmkjxXeAroY6i1IK8RAt2nCMHCnYAEXHy63_vmDAZKLKolq2dZCEhBJO1lkrnUiUbigpNcAcwq8GhQBqKHpQxRhQse5zimo0oGH_aRJuA",
-            "width": 2592
+            "photo_reference": "CmRaAAAAWAARd4dTP6KxFjhyQUp6_5a2oFQOEm9xPsaESclTo3B-mAimB5jylqtKYL0jqbj2Uj9NV27CTDi6Tr5G86HEWTh5fehQe6S9NK8x2Jyi-8Wt60Go2mTShHPPEDAt2h3YEhBEA0FJ-OB2SOMh8aEnz8qOGhTPK6C_r__d5KRbopybCUvVuGJZkg",
+            "width": 510
           }
         ],
-        "place_id": "ChIJAU3M2sdawoARJsI8C_bFgvU",
-        "reference": "CmRSAAAA4WZiciVF1kbgivGeE9DxinvF_dBk733oCdW-xUCPb0FMIteQYD4FMHxDihmquTlX6GCESPMlNZllYLB4sHq5-bGQOM4ZnsIyWPa3XwtI5ReHZpxka1isoSNv8qVyIjheEhB9FT0uValdtxwgMz5Zp5ByGhShyDK5C62R24oMGoOq-WF84k7EHA",
+        "place_id": "ChIJRTRazRXI3IARNMzLg1pxcYg",
+        "rating": 5,
+        "reference": "CmRSAAAAlexK8vexlaSuVXBbj7Qoa2O2P81jckFR8CvvdHktHOOXPtZAG3CNYMJMrTgVUKLjvbELBtB3SHChC9JrfyF9vzhODy2ipiTAL0Jd-2rSXiRCZ_0cJl0xyVcAuLziuMI7EhD_4kPhPU3tqQgBg_JqAvb_GhTgluJrgnCNsy6Jv7d5cotsit22yg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "268 North Lincoln Avenue #10, Corona"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8569811,
+            "lng": -117.5681104
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.8579627302915,
+              "lng": -117.5668523697085
+            },
+            "southwest": {
+              "lat": 33.8552647697085,
+              "lng": -117.5695503302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "db467f505db9fc5252ff21ddf43eb8634b3a7994",
+        "name": "UFC GYM South Corona",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111903497108714779783/photos\">shaun ly</a>"
+            ],
+            "photo_reference": "CmRaAAAASykEW2jeppv81N6xqrXZOCFyAGkTyHuu0ovlY1179dTZ9165JX18BjhpLhjWZUUOoQTiiyXyPpNZZD8p5HZkwfPLH5DStSngLq2EBYElydrmlMZt-45j7AIyZh7aSTqUEhB9cfW9h8Urzat62M8LX6UJGhRInqHiXFhxYLWrWbum1WaxJ989RA",
+            "width": 4795
+          }
+        ],
+        "place_id": "ChIJY_q5kebH3IARqdzknsWfcvw",
+        "rating": 4.5,
+        "reference": "CmRSAAAAsQz4g-umucsZOf-ihD34sY2-BLIIpXey_a4GDrHGelcHOHBtgzZHHGs0YUAIc62sxaiIRV3oVYPfFqkzzBvauBRTU1reGbRwKNCdK42idnWn_o51H6c60juakqk0nEhxEhDTdkAiN6ACX4H_RPdfC41lGhTnb2r6CidmGzwBwJDKQ1rXN_kijQ",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -73,86 +103,125 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "530 West Milling Street, Lancaster"
+        "vicinity": "265 East Ontario Avenue #105, Corona"
       },
       {
         "geometry": {
           "location": {
-            "lat": 34.7069733,
-            "lng": -118.13878
+            "lat": 33.882975,
+            "lng": -117.533607
           },
           "viewport": {
             "northeast": {
-              "lat": 34.7083222802915,
-              "lng": -118.1374310197085
+              "lat": 33.8844206802915,
+              "lng": -117.5322639197085
             },
             "southwest": {
-              "lat": 34.7056243197085,
-              "lng": -118.1401289802915
+              "lat": 33.88172271970851,
+              "lng": -117.5349618802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "805394edf7fec2a6d273ee04fa3c9a6c9696ee65",
-        "name": "Okinawa-Te Karate",
-        "photos": [
-          {
-            "height": 5312,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111376154855888082194/photos\">cody Rogers</a>"
-            ],
-            "photo_reference": "CmRaAAAAgSH59tVFqzA37bSDK3iCqiR89zsgP1tANpGXCzdmx_Rt5r7SJE9M8sUZWPU6ZENyysLiA6SJXltPENOTBvWEHtuJSR0pjhzjDvb8MbX36ftDDPr9ObeMM9m7lzErCrUKEhB6DI4b3XPuslhjdpVcAyNOGhRFbIr3V8rIMdSDsd1TL1tViFbkew",
-            "width": 2988
-          }
-        ],
-        "place_id": "ChIJPfUwK8tawoAR9yEXYc2uEZM",
+        "id": "4550f408809e2f292eff7f39ca39dc2780dd0f37",
+        "name": "USKO Corona Studio",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJW9kJ5fXI3IARbRimiwqkUkE",
         "rating": 4,
-        "reference": "CmRSAAAA0-eNmTB8CyWr_THwTmWGl82V2itJaiA8QY07uWlkzpLENj5SI4SUmV7Iy4tcYPZqVjcLx6bfjkyVF4ya-cHQIJ5c3QP8IZRw30Wh2RmIJFG-AlKHuJwW70zSD-DDJn4VEhAnomXz5VI4wBtGW8k2vZrpGhQNvc-_dIIwiLwEndCEuYq5yPlFoQ",
+        "reference": "CmRRAAAAm4AyJHbdu4HrYoN9FgaBOuOfBpJeG7eQGJF_87_YImPUJd9G33ckuaXXY085awCPx15bmPbzFbbqdNYRebbQUBkWaFJJLQWfcDPPXimgPxHma7rSVfKo8DSjLKzZCKU1EhDcsx_TfW2XRwytRI0i12LlGhQUZbHWrHE56SqJb7VyBmV8bOSu_g",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "44211 10th Street West, Lancaster"
+        "vicinity": "351 Corporate Terrace, Corona"
       },
       {
         "geometry": {
           "location": {
-            "lat": 34.6507605,
-            "lng": -118.1525795
+            "lat": 33.8519483,
+            "lng": -117.5369938
           },
           "viewport": {
             "northeast": {
-              "lat": 34.6521078302915,
-              "lng": -118.1510269197085
+              "lat": 33.8532912802915,
+              "lng": -117.5352225197085
             },
             "southwest": {
-              "lat": 34.64940986970851,
-              "lng": -118.1537248802915
+              "lat": 33.8505933197085,
+              "lng": -117.5379204802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ae975025ff2020b853dfcc851de02acb624196a4",
-        "name": "CrossFit Inner Chamber",
+        "id": "9ee5757ad59190349e45ca20268c55c53a671d60",
+        "name": "CrossFit CrownTown",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 405,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111967719851018779516/photos\">CrossFit CrownTown</a>"
+            ],
+            "photo_reference": "CmRaAAAAGSD9rrhJcMONbnBq6uiXBL8eJCZw0K0tPrk5gmAMnAFKgrFnNuaY_DQ8mt7WUisfRiSIVXkozFtNLlTlCM1FBVL0UJLJYflr7dzlPLCNHqHPFeJQKGpQcrAPArV70AvSEhDW9tJs7sFjlzC8MQaArYMjGhT6SwqhHaoEj4lQMk1OGWfQwAzzRg",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJDzrWlxK43IARwCN8GqPRykQ",
+        "rating": 5,
+        "reference": "CmRRAAAA9NnJiFfWPVKIKS6k5Z5NN1B5gp4fo3EreDn25kk4AiWT8AOajdSfhv37vj20074CoVmSiUyHqWoV-2hys1CATeTBjxg6HEeZfuPRTCtiD4z9nmeWYSfPuZfkyvI8YkiCEhA4P51U-afmGPGGr9QIB2esGhSS-EaxiLfgBbrl9ji4EX26fMXMaw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1950 Compton Avenue, Corona"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8836244,
+            "lng": -117.5247356
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.88482843029151,
+              "lng": -117.521852
+            },
+            "southwest": {
+              "lat": 33.88213046970851,
+              "lng": -117.5256968
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b7f79f1ab8bcfe034a8cf285df16c0e7dda4097e",
+        "name": "Gracie Barra Corona Brazilian Jiu-Jitsu Martial Arts",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 640,
+            "height": 628,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102112786400332830836/photos\">CrossFit Inner Chamber</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/100996023794124332746/photos\">Gracie Barra Corona Brazilian Jiu-Jitsu Martial Arts</a>"
             ],
-            "photo_reference": "CmRaAAAAyQiHIwZAk6IlVAfpIeD0yaMiGrE3_aypqmDEoK78X35VRqB9bBCf-LdcZqnxUWlXO4Ai_2s4dXIAMlapOh_OmXIEf8gf33VXvEqgexW0Jbrnf55jw2avkbl2nMnmmcUoEhCu7s-JePIq5qzZdP3YsKgrGhQ6B5JMFsIc2XxehoP6lFxnzS9f4A",
-            "width": 640
+            "photo_reference": "CmRaAAAAm681z8n180inz6aYFAxDMQL_3a1HAaKYL_EvfhRjCu9NkHkmbe_kZTwl2Xo-xXqkwfMB8fkZfpjiY6Z991EE3cfUtl_xIi3vVbwYoCJte9Lb_t9Et4IjPAVlL6ILzSGJEhCWlLgxZ3-YjVUE8BDmhxxWGhR_cV3bq8Mq5dD1F9mLUi0tB4bkpQ",
+            "width": 1200
           }
         ],
-        "place_id": "ChIJX8U_cE5awoARX5C3Q2qMw5g",
-        "rating": 4.5,
-        "reference": "CmRSAAAA8sHKmhUXS5UfsvsefBWCli49jL0hHvvKzaNUyhb11K177IVALZeCKcxHcH3zAsfLHsnTCg8Fmn88Yx8FpQVKIrOK4LxHw5rP5qnzZvf5pMEXc25CA9VbYzq_mw7GpZh6EhB5aVICrTsubg-S-Zv3JepzGhRco0nhaY89qADGm9kwzeDHlYPNHQ",
+        "place_id": "ChIJb9sIno233IAR1NnRA-hX1Gs",
+        "rating": 5,
+        "reference": "CmRRAAAA_DIvI4WgoOlUK0F1E6s5cTCeGz7BHrZkidq_EyN2N5PVWhL2mCEq6cE7R3Ihda7IQJJvGnDnrzRsk-RdVSILnJ8_FkwJUsF7H63oKZeHsiAIvbJzcq6WQ8ARXUCphCF6EhCJhL6HY8Df1ZdmnW50B1ORGhTtxlGOwP3z3HHKXf_rWfWb8XTo9g",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -160,173 +229,350 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "42247 12th Street West #101, Lancaster"
+        "vicinity": "280 Teller Street #100, Corona"
       },
       {
         "geometry": {
           "location": {
-            "lat": 34.60370960000001,
-            "lng": -118.1871929
+            "lat": 33.88791509999999,
+            "lng": -117.5233427
           },
           "viewport": {
             "northeast": {
-              "lat": 34.60505858029151,
-              "lng": -118.1858439197085
+              "lat": 33.8892640802915,
+              "lng": -117.5219937197085
             },
             "southwest": {
-              "lat": 34.60236061970851,
-              "lng": -118.1885418802915
+              "lat": 33.8865661197085,
+              "lng": -117.5246916802915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "43fecca7041851527dad5e96de66e082744301c6",
-        "name": "Dragon Han Tae Kwon Do",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 504,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101303644180486689513/photos\">Dragon Han Tae Kwon Do</a>"
-            ],
-            "photo_reference": "CmRaAAAA8V8dHJK-wM_myakBE3w144xwHO3Ski4roGiIGdOE6rigKHAzxp86e2_Q6Q8TCijIJVd9ZZ2UjXqHwUi8Velk_d3usXTddLYh_AatGBeIVf8BFMNsZnXITas0LCy7hRAKEhApjfhu5yzXM4dWanRRAPujGhTPLG17uyDodofyb5o4ej378HS0zw",
-            "width": 504
-          }
-        ],
-        "place_id": "ChIJ7UAQs1xZwoAR2oEdl_t48os",
-        "rating": 4.5,
-        "reference": "CmRSAAAA89EiIijJt62TU7UvoXaTGzDF5yATZITJNZcUYQEy4K9PvZ_Y5sM3jEM1hsG_C30mxtFh0Mt-vJg7pji1-XOPEVVUSCe_N4fdCElwO3wroS3Ti8HLKXFuArEx96QFhg7AEhBJLrEu2p8Qpct48CTHNdr-GhRVDQkissy8nKkfuplVy6HCkS_4NQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3145 Rancho Vista Blvd, Ste A, Palmdale"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.5879187,
-            "lng": -118.0957622
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.5890265302915,
-              "lng": -118.0944102697085
-            },
-            "southwest": {
-              "lat": 34.5863285697085,
-              "lng": -118.0971082302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "20aacafd224c81d2f7d133bd280285b2d9aedd45",
-        "name": "United Self-Defense Academy",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e76f2d701b69a382a460ad14dcf53b39169f8730",
+        "name": "UFC GYM Corona",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1536,
+            "height": 648,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108436476050606141239/photos\">United Self-Defense Academy</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110633656006190636088/photos\">UFC GYM Corona</a>"
             ],
-            "photo_reference": "CmRaAAAA-dssX7l1vvWnGv9Z6apBBhX6h22lg28r5gFZF3XXDPpGv6sGM1zmSLBTxBFFkE7H20U-N7lFkYuUURi-ppebGNzwjHogoklfAj88ejgMJ6oHhRz1OE1GOmvmSIvscPOlEhDJhmULkOgK90tCRbxS8vhsGhRgyOF8nENRxjBSf0wD163Voi0UJA",
+            "photo_reference": "CmRaAAAAD90YJ2sgXaNZSww8xG92RbIL5W5reagY3geRF9bw8pxv_m3KWCbpqGK-WuTjP81K-UqfRoRFY6VicyHeU1XBU_znLRbRoCWSWJKEAPj-DS3QG3nlHaMAmxexWCxSRLSqEhCwF14Nvsn7HZX0Ywgqkb71GhS7TvXWgQEF-Zgjra3pcIuxzuQqXw",
+            "width": 972
+          }
+        ],
+        "place_id": "ChIJY4NMCJS33IAR6aKlAJ8U0Sw",
+        "rating": 3.8,
+        "reference": "CmRRAAAAQUytBz6W0Am4Fa3SnS_aRIGBzq81j4oKvz4PKC5eFw_U4oSSEgnrAz44DyiIcPa67kk9A5FcS2y0HviJwQnBuJB1ZGJjwNXSvVkrR9eU-xM5uneDNxPwWa4onSco_IfAEhBaaVlAlXxrlPRD6zbfmaCqGhSRDkzlCjV8ZrTNMY4UqZklL-nK1Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "470 McKinley Street, Corona"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.7995591,
+            "lng": -117.5006605
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.8005218802915,
+              "lng": -117.4990594697085
+            },
+            "southwest": {
+              "lat": 33.7978239197085,
+              "lng": -117.5017574302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "72fc7c32260444721f9cda1aed1440ac3f8b91c0",
+        "name": "Crossfit Corona",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111657273104544645446/photos\">Crossfit Corona</a>"
+            ],
+            "photo_reference": "CmRaAAAAHe5Wq0XyJ5JMDfqrAwr0nSPiB1jsKflSZPsghVrnIu77z5g9eXl59P8lJgcHYeN46LYfBxwi6Oj4lUUMBZiQI9ApXSjLJ0WLJuXpzxtEoirWjTBxsfySi8aJ0NmZtDJhEhBA2-l0IYEJLVh_MkNXXYb1GhQXcLEGWvqc_kF1DqNhpdIKQSjnxQ",
+            "width": 1638
+          }
+        ],
+        "place_id": "ChIJH_Gp4Cq53IARVegrmM0UZTg",
+        "rating": 5,
+        "reference": "CmRRAAAASUUvsjfPag8QRGZw2tH2GDHZFaxCRLw00T44_FQFOUKhia4xcPyGPdfBzwLlKkVjnWx9fW1NVqZolBPBUSTB5dS-Xtlbtthb2Q99JHrqVRo1gJ5M1drOy37FcfXM5_w5EhBOXIn84C-FiikBbjVuGh5iGhR2KD3TrAoOngFWCtcJBPPDpUbLRA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9106 Pulsar Court, Corona"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.95016,
+            "lng": -117.396137
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.9515061302915,
+              "lng": -117.3950940197085
+            },
+            "southwest": {
+              "lat": 33.9488081697085,
+              "lng": -117.3977919802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6ac703739d3774fce5c05c28d68160f183155b30",
+        "name": "USKO Training - Riverside",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102704783656554746408/photos\">USKO Training - Riverside</a>"
+            ],
+            "photo_reference": "CmRaAAAAqLvSqms-S4psrjz1asodLPjr353oA8KdaThco7gFyC369nK6UWg6_74E5yJ5V0dOrhkRh6NY6M3jou9tDWZo_jXKoNBo_ZVJTZ-cbxXKXmgkg41PPbiXyD3vTdPgYYdgEhD-Iqx59-NPmTQX8Side0v8GhQBzVX6JlUjCdMPaY0VUS0oz2bhlQ",
             "width": 2048
           }
         ],
-        "place_id": "ChIJYacwSppXwoARM9U71P8LcOg",
+        "place_id": "ChIJZWt7bbKx3IARifQZY54WXvw",
+        "rating": 4.5,
+        "reference": "CmRSAAAACmEfptKcPZjonvnsff9m9aQM-nOFFfcS-31V5fzlrsFvtSaVV0hH6SkwN2c4kWzbF6-Lgnu0Qbcn24lKkbktJg718q-J-PYVfzUmIbaNmCBMZoA-s9BKgpGtV3bBESxHEhBwDiDEAux2N3UHkEKy8-4PGhSCaAGReLL_RZoRZr0-UyNYMi2inQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6794 Brockton Avenue, Riverside"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.79136819999999,
+            "lng": -117.7631056
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.7933388302915,
+              "lng": -117.7615358697085
+            },
+            "southwest": {
+              "lat": 33.7906408697085,
+              "lng": -117.7642338302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2101d733a8dc65fc2a8ccb5979a8ef6bdfefba60",
+        "name": "Z-Ultimate Self Defense Studios",
+        "photos": [
+          {
+            "height": 608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114054893556862333286/photos\">Z-Ultimate Self Defense Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAAwDXnnxAHK840T_phPfVZLYK1iax589VTr23FvUUDShSQG-Xblv2bzNETO6C5dB40Z7O7lnXVk2XlpxPYeIt2RKTO2_xHnlLYE-ZJS1ieNGOULcEsFUwUrrXsZZd764ljEhCkJAWBWH4jNXzfk8H-UVDhGhTkfQb82gNNdJpgmp5cu7LLmd6lsg",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ4e60jmDa3IARJFfftLnNnbk",
+        "rating": 4,
+        "reference": "CmRSAAAAwtTaze2DYOruRCk__0zml71jTyugcHcvQ7ROnNo2lofQMh5i3Toq7lB_rK_Kt94YA_HefdswoF0GsHR9g5D6buqE2aw0rSeP9Z7n-kzFFEVKH9gUJWmV8uW9CEN3gIISEhA01SNrRuoZB2MTh4HCxbVjGhTMVhnwYMkKje1codnj8p06qoZVzQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7532 East Chapman Avenue, Orange"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8187213,
+            "lng": -117.8365233
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.8200740802915,
+              "lng": -117.8348747197085
+            },
+            "southwest": {
+              "lat": 33.8173761197085,
+              "lng": -117.8375726802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ebd4aa37511fef35dd1a2a1e2a51d25edebcaa7a",
+        "name": "Z-Ultimate Self Defense Studios",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112771186079100759266/photos\">Z-Ultimate Self Defense Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAALsNnKuNMBTaC4uovXGoR9oItekJCqMySoNV4m35uH9Ue7UbeWTv0orqSYJCUPzbnPjBeh83BgMD_pZC_Kj6zj85PBmtCWdawQ-wjOxFZHa3hYvSZezFeijgztPi_R5IcEhB2gzbqiw7WIiitmelcLmyhGhTHABRJrn_j_HswcIUtkUmpQhG3gQ",
+            "width": 1362
+          }
+        ],
+        "place_id": "ChIJTVk59jXX3IARF-jkJXsBzk0",
         "rating": 5,
-        "reference": "CmRSAAAAPtR49AR7Hy4oTa1Tn7NSnx0m5vzcY1miVtRvRHefq1PLeR1uc6AzdmSMQZL3dUtH78qrq0DTHsqjPrG2JGYUtVnmyvLOPf6DYzHLFxAOuyNp91QN5f695XUyGfUAI6vnEhD4bgehDd3TRseftXOkHQhXGhS_VmGfqRMh0EdwmOdhHa7LlIgOUQ",
+        "reference": "CmRRAAAAmNTU_GIwqPhP0YV9cVf8mFd7dW0rw9Y4bEgVfYuewRy7l8_req41ojcfbABN41dCO3eteHxBr4oTCTH8P35F3RVCxRtUONLIXbY1TKiwbjXxXG0m1ChEuM2CkuSaTIf1EhA1F9IL_D0UISR7toVHxwmQGhRJMszUjgDP0hK4EC6vgoklzXl5dA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1817 East Avenue Q A-7, Palmdale"
+        "vicinity": "1876 North Tustin Street, Orange"
       },
       {
         "geometry": {
           "location": {
-            "lat": 34.5589439,
-            "lng": -118.0870132
+            "lat": 33.739077,
+            "lng": -117.820502
           },
           "viewport": {
             "northeast": {
-              "lat": 34.5598682302915,
-              "lng": -118.0856525697085
+              "lat": 33.7405498802915,
+              "lng": -117.8193315697085
             },
             "southwest": {
-              "lat": 34.5571702697085,
-              "lng": -118.0883505302915
+              "lat": 33.7378519197085,
+              "lng": -117.8220295302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "21c55ca32de98d2a36bb72e9eb0c57209c040281",
-        "name": "Dragon Han Martial Arts",
-        "place_id": "ChIJu44tsd9XwoARc1km_2Ycahc",
-        "rating": 3,
-        "reference": "CmRRAAAAL4CbBYhZRVzAHg-2bWWkWEZwWn7ZLyWi-P_GMXXXsxK0u2pgHJDAq3OGtmbfj8d4K5d8zrURCgV0MkZXNh0kZRn3fHooMuiSPCiN4whVftILCeFPMY_LbflBlSRKIG4DEhCoiSALOwitu9MscgqirFVwGhRYiM_6eFIR2Enwe42eXxho0VDIaA",
+        "id": "cf03ec36dd43cde50e56d83fd5f1e644b4688aa0",
+        "name": "Z-Ultimate Self Defense Studios",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1836,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113263927117310653603/photos\">Z-Ultimate Self Defense Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAAGnE1YWVJuifd6gzwcr-M6mzJk97vc2ubYN-8WNH3a5rNeVQlfMjAiO4mn57_f0opCybnG9jRNWbpgG-xjVohQ9sgA7-LvL4-06gHsd7vIx8SV_vK_kJr6pd3sog53KaJEhB1R6o5WGr4vWTZVp4QVMEnGhQePt3-3cHpJgpeIUknmApVs2wiPg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJc9MGB-jb3IARi3fbJ2b5l24",
+        "rating": 5,
+        "reference": "CmRRAAAAsEYcicAAnxAeJjOrITu40ZFWthKac-irkPKrFbxXjTX-vFAvY66P4B2HZT81axTYReim9Pb-1JRb0JWzuGZ_6AOD2TX67grmYhVcZ0GBdTXwZMv_FKvXJVEZJyPPz5D7EhAmgSwWmsFQE9njCN-Xn1h7GhQFH4AKNHpozXW9vkZsO9WK2KvvPQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2321 93550, East Avenue South, Palmdale"
+        "vicinity": "13882 Newport Avenue B, Tustin"
       },
       {
         "geometry": {
           "location": {
-            "lat": 34.55951890000001,
-            "lng": -118.046842
+            "lat": 33.6809383,
+            "lng": -117.7790654
           },
           "viewport": {
             "northeast": {
-              "lat": 34.56020955000001,
-              "lng": -118.0454811197085
+              "lat": 33.6820243802915,
+              "lng": -117.7771589697085
             },
             "southwest": {
-              "lat": 34.55744694999999,
-              "lng": -118.0481790802915
+              "lat": 33.6793264197085,
+              "lng": -117.7798569302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cce87c762bcf94e9be2e65ba6683fd9b46f03ae7",
-        "name": "Dragon Han Martial Arts",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 563,
+            "height": 2448,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117362119303212820994/photos\">Dragon Han Martial Arts</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
             ],
-            "photo_reference": "CmRaAAAAek_job2_y5SBm0FROAdWrktwLDHvkzJK7qnccEbEieIgD0KBL71uVDckzRrk74Iu4yM_WHDNOGSXuoKt64YxozGsGU6lOhVv9vMqrmd899DmkNMuGnGudREu0YpQ3Mr6EhC9YWG1FsaQX3rqap_m9hJvGhQD7MmUAsOKhJ_fzoPjanlT4urI8A",
-            "width": 1000
+            "photo_reference": "CmRZAAAAGf2vonjSfvkrKMD3-8goQUJ1lPnGjp9NlqR_NzCSJdTJgHx8WBlvvQCKQmeVTPgS9i5bv9ncf0Z5lZNtn18U8ju7ugoArhC16frVC4krQt-kAImaPGb4Rjq9KnJgct6bEhAPv7c9mdg2u6n_qJCRfrQiGhTbXxV7XHgUN8pyETKLjIboA-FvGw",
+            "width": 3264
           }
         ],
-        "place_id": "ChIJrZQ9dJn4woARH2shKh6Nw30",
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
         "rating": 5,
-        "reference": "CmRRAAAAHo1sCAsdfN0zRf2gyaJVvSAAmFA4eW7X7N3c5z_TEODTqB2B2Z5nyOa7BpIyBGWvo_ZwQZbxXfBrUE1Udm6fgYyu_40_xxMxfYo4DosJ9_OT61cK3iqJXWfM9JdfmkC2EhCrMNyGHj8Ydus7am6nywFEGhSxLh9IvaviWLaVIiRzfVVQA-ol5w",
+        "reference": "CmRRAAAAUPOFxJJdI7Mmr2aSyUIxZ_vzKSffsMEK9KJPuTjI5GxJMSTwkpK1SQNMYCDH6XQlQrrWSpRGWFKzsRH_dPu27L9060frc9yPm1l6KXYdZ5wp29gKj4iKoNvLvWnBTxXEEhBFXVzxnRzpO-Kyj1uXh2PoGhSkaVyl8mKfEY9-FGMNavbde033uA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4621 East Avenue South, Palmdale"
+        "vicinity": "15435 Jeffrey Road #100, Irvine"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6550863,
+            "lng": -117.9194759
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.6564368302915,
+              "lng": -117.9179431197085
+            },
+            "southwest": {
+              "lat": 33.6537388697085,
+              "lng": -117.9206410802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c06ddc2b38ef3baf0a885a954b50ca2eddb81218",
+        "name": "Capoeira Brasil Orange County",
+        "place_id": "ChIJNYBpUX_f3IARfLrZ75yCbJE",
+        "reference": "CmRSAAAA9whf2lEDq24j5ydj8l8nDwUS9WrB2YxjP1oJf_DpTko0w5Xi6srYb5R7R3IIbwH8q5uIAHokKEEXcrth0jVFQWbMtG10SW3aTlPU4Is-dY4nlVN-V86fem-kOwi8kwIjEhA1uklBCFgaIEBEg1MJni-kGhSc3iHofj1lapAAWon4HaalxVmntA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2221 Harbor Boulevard, Costa Mesa"
       }
     ],
     "status": "OK"
