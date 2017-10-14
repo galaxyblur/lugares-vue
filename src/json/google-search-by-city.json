@@ -1,57 +1,72 @@
 {
-  "city_name": "peoria-arizona",
-  "city_rank": 149,
-  "city_population": 162592,
+  "city_name": "pembroke-pines-florida",
+  "city_rank": 150,
+  "city_population": 162329,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.5805955,
-      -112.2373779
+      26.007765,
+      -80.2962555
     ],
     "rankby": "distance"
   },
-  "people_per_result": 32518,
-  "possible_duplicates": {},
+  "people_per_result": 8116,
+  "possible_duplicates": {
+    "ChIJG9ZAmY-3EhQRIUkSn8ekr2Q": [
+      {
+        "place1": "Po Chi Lam Training Center 9948 Pines Boulevard, Pembroke Pines",
+        "place2": "Club KO Training Center 8050 Pines Boulevard, Pembroke Pines",
+        "score": 0.8275862068965517
+      }
+    ],
+    "ChIJ67QzzsWo2YgR3UIWZlX46E8": [
+      {
+        "place1": "Club KO Training Center 8050 Pines Boulevard, Pembroke Pines",
+        "place2": "Po Chi Lam Training Center 9948 Pines Boulevard, Pembroke Pines",
+        "score": 0.8275862068965517
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 33.597437,
-            "lng": -112.200847
+            "lat": 26.0069951,
+            "lng": -80.27716389999999
           },
           "viewport": {
             "northeast": {
-              "lat": 33.5981874302915,
-              "lng": -112.1994893197085
+              "lat": 26.0089544302915,
+              "lng": -80.27583786970848
             },
             "southwest": {
-              "lat": 33.5954894697085,
-              "lng": -112.2021872802915
+              "lat": 26.0062564697085,
+              "lng": -80.2785358302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "36341a2b5d3e6100a1842432e1643dfe3d2d12e7",
-        "name": "Cyclone Muay Thai & Soul Fighters Jiu-Jitsu",
+        "id": "82e4fae0ab885795dd3d8e4b99260085e1e26633",
+        "name": "Po Chi Lam Training Center",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 5997,
+            "height": 311,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106147689801227497147/photos\">Cyclone Muay Thai &amp; Soul Fighters Jiu-Jitsu</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106817614601097107615/photos\">Po Chi Lam Training Center</a>"
             ],
-            "photo_reference": "CmRZAAAAI1cg2wsjmkFic-lRL3MAOlhSeSQCvIDrlTTAp1yxFD0MZyyMUoXq9zNx24kQQY_Pp6uib_W7ah9rh2ua5qVJANAV4VkqEbwCekXy0YiZ_RTO783FnG-vXlX-5ZFm6OyWEhB4YxImWWVcrhxNgKJfdxDFGhSpagQl3-MQFf3LCtrsUXakVebwGQ",
-            "width": 8997
+            "photo_reference": "CmRaAAAAXCLVQoSS-7ZGiZtDRZxaCbCQlW49RPJNLrDaepM0-8aGTuDzjN-ANSrGeEylufxYNFx2J45-8bYHyFPeMDik0uHbQaNPL5kQBd2Sidz5-tUHwGti2sxbKZdYMBbaWsaDEhDO-PygRy_5wgTGHpAoWZ5oGhRoB0oHSKuF3P_4rcxGq2ShwUWahw",
+            "width": 311
           }
         ],
-        "place_id": "ChIJLzsx5oVpK4cRsB_1UgiAN0M",
+        "place_id": "ChIJG9ZAmY-3EhQRIUkSn8ekr2Q",
         "rating": 5,
-        "reference": "CmRRAAAARtv1p5l7oxsCGHZX_cYihBnqQNP_bSLaoPKeMvAmpQo3KvFbq_51M_5ILcfF4p3sZ43DCXTV1aBRvm8a0pegoE7p52QkHXNPWZPCtAZh_TaSXJtNd4OWi0KocB5V6RRkEhC73JOG6vGdwSTp7anRjJpyGhT015wFxHtsDiTitWnXJ_M3X1lUdg",
+        "reference": "CmRRAAAAezWb40SdNU79aa3T1pc9TvA7Lynzk5mkikEssMWO-Db0RSXEEifhzI6-K8cQprI5wESUkXV3RMWj10MCD6yOWSM-1wAdaj4yUFfo3XE1m0flVjF45m-giGOOh7zciTgWEhCPfoV-n3zx0D0TVxxJhO9iGhRztCqxtK3mzoIb79tNJxROS50gGA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -59,179 +74,811 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "6640 West Cactus Road A116-A117, Glendale"
+        "vicinity": "9948 Pines Boulevard, Pembroke Pines"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.5831853,
-            "lng": -112.183871
+            "lat": 25.994931,
+            "lng": -80.31040209999999
           },
           "viewport": {
             "northeast": {
-              "lat": 33.58453428029149,
-              "lng": -112.1825220197085
+              "lat": 25.9957442,
+              "lng": -80.3090597197085
             },
             "southwest": {
-              "lat": 33.5818363197085,
-              "lng": -112.1852199802915
+              "lat": 25.99249139999999,
+              "lng": -80.3117576802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "45395679d3b478962e2ebdef2f360eb6022a5c11",
-        "name": "Ucelo Martial Arts Glendale",
+        "id": "eaf6d1d1d4e7e342e6ea86690163e79bce97d790",
+        "name": "START Jiu Jitsu Academy",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111596707873564656303/photos\">START Jiu Jitsu Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAZpeH-0k9Qd1KwLeI0A7MbeOblFhYM3-MTtJZOfrlefbDSrMAuDaaKEB90Xpge1TtlNwPE3blcLq1fqqkvNP6ulr-zopVdLWn3bMlOIAdtIxkbVb9hOI5jB4J_fUVLD-KEhAAiYtguoZnSvf1a5CNeBPkGhT4-4x_nAUXoBmYITwJEotFF310_A",
+            "width": 959
+          }
+        ],
+        "place_id": "ChIJUbkAXiup2YgRZW0orvIFWsw",
+        "rating": 5,
+        "reference": "CmRSAAAAC-_GOL3dNSgpt1oMLnS3kaDTD8tHkSHiLClm86gPiQ8dn3ApSU1T_5-Y9ZeovEk74NzehkiyoTKyTS5nn5FKZHM0M4Sef5cwv4NPrqh0mVA4EgjCyh0ZPsksFkKgHSW3EhC9fPNBD9TzPV3M52XhK0BwGhTHMtjQeb139FSKRz3w_D__8D3vnA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "12335 Pembroke Road, Miramar"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.9774509,
+            "lng": -80.2957526
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.9787998802915,
+              "lng": -80.29440361970849
+            },
+            "southwest": {
+              "lat": 25.9761019197085,
+              "lng": -80.29710158029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ae72ea02e26ea3628ba0d895bb94410fd57d3df5",
+        "name": "Capoeira Superação Arts & Fitness Studio",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 958,
+            "height": 1360,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105580683816779507377/photos\">Ucelo Martial Arts Glendale</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/113927745163600557521/photos\">Capoeira Superação Arts &amp; Fitness Studio</a>"
             ],
-            "photo_reference": "CmRaAAAAqQt09Ca76q9vRMA_s8X6qZfLOKjpQ5RM2GlIWVTPfsj06ipNLg8GFo7nU_8georhjb9f2kDb9bbfDT3SoMq1mFizxqRKT0xZw7KglTrFVLq5oeO33pj4_stdzFiQkf2ZEhBI_iMsI1oDGP6wXty95YSvGhT9_VyLeJJZvgeDfFi-yyBfKSg9xQ",
-            "width": 1704
-          }
-        ],
-        "place_id": "ChIJX27uGtJrK4cRuGjJ8xwoKgE",
-        "rating": 5,
-        "reference": "CmRRAAAA8_srrioyzxdYL1tS_XZ1Ua6gQQP0WUxQGzNN2fDv9VpDhOxMxWC84ys1q2rI6XBF08Hx_YRS5D1jbPBwbv0Lx5FvtIXV0PwXo6yLaRY1VTbi7jLOf-5wPVt5WdTANJP0EhB46WhUn0xnMEY7pgjUv2BzGhRC8kxwo5zVNjuO3XmFtzEkHP7i7A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5800 West Peoria Avenue #107, Glendale"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.4954773,
-            "lng": -112.0831415
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.4968227802915,
-              "lng": -112.0819602197085
-            },
-            "southwest": {
-              "lat": 33.4941248197085,
-              "lng": -112.0846581802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
-        "name": "Capoeira Brasil",
-        "photos": [
-          {
-            "height": 3984,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102374082423708030204/photos\">Amanda Harris</a>"
-            ],
-            "photo_reference": "CmRaAAAA2QWETzxH19-k9N6juPhh1lZopPuEmVkb6XTSuTdzTyBG87NQusmveQ6OxzXelHGJbK7i5UT1kWCj18ZV_TRuLZsRCOZJGCUF4NhdhcHdAabbytsznhpTtb6bEfUCOde1EhAWaqjQE7aBhF39cgcY-hYFGhQ677lwJ6JR8LLOqdy4wQ2Ru8GL6A",
-            "width": 2988
-          }
-        ],
-        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
-        "rating": 5,
-        "reference": "CmRRAAAAWib9ukBpqP_K27bKsK_-encOp6Jwfk35hVovgepDBZKuFsgvf5DQEILaH8HXuvxlJ_bS6jJaXs5utpJcAisfwBzBNDxx5WWhfg546JuR2Arj5rhHVDE3MMP8XwnRE-DgEhCOLNTAaoUrkxHbVGnPT1Y-GhRn2ozsVSxa3aECtRc85piV00QPQg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4113 North 7th Avenue, Phoenix"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.4483845,
-            "lng": -111.9269977
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.4497333802915,
-              "lng": -111.9253755197085
-            },
-            "southwest": {
-              "lat": 33.4470354197085,
-              "lng": -111.9280734802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
-        "name": "Axe Capoeira Arizona",
-        "photos": [
-          {
-            "height": 866,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
-            ],
-            "photo_reference": "CmRaAAAAeat6h5dlEm6HP2dbKAop6hYb53228Ru-LTewWSPj7vmgri43RALXrPHqCOTKUxDDvrw3R5R9iVA8uWTCvOR1AP4vU3a7P_WEsDFx2ObS8Vpx5Ij4PL01s1Hx4R_QB8kBEhDXSSINY4mUWsvlpfJde4VrGhQWl10VUaq4rLQW4rxgGcO5KSL67g",
+            "photo_reference": "CmRaAAAAZ8EdJSZol55_RKu2idl5BYGs1X7MyN_4rBCqdixOGCeWX_6uSIPDlVKU95bvNhiwaOj0wdJHtrmTMj2eLR6IAi7kGOAaNT-Yuwsy6VDW_MJLAoFahr-_KJnnhbS1B__BEhBqe8AYcrwgPuwfZqBjsQcMGhTfR5DsAT5vha5mlPqdYbD5zSLouw",
             "width": 2048
           }
         ],
-        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "place_id": "ChIJO5z6Buul2YgRNtj2vpQ3kK0",
         "rating": 5,
-        "reference": "CmRSAAAAkcDt3-1tNkPqvzW3kzTqDFJr_bYvK7NhB6WRzdEHgLx_VMpYWevcgKlFF96R1ypswpQ8mls-BO-Mmq6bxY5S789ga5Ib8NkTl_EXGSmVAgL9EERhH_5RMDmyM4zkqfC4EhCD7KB3l7uBX5QekGuaFCWTGhQab00q3kTYERVnk1fZn5GPku9sIg",
+        "reference": "CmRSAAAAHyn7S6hH7DaDkDSq3zyhSJdYEmJ8zfNLrw0Ai649CAHBfIsA_7M0iblKbg2XA4kfkGT_VWY5_MGx7qUuHrU8Ru4MLovmv7xYQSKMQd1a7SeOorb7oHVfRx3mHcubg2qCEhBZKLPYr0XozfeS3II_B1Y5GhQJnety01ZEv9UGMiQthUnDvhR5Jg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3416 Red Road, Miramar"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.007786,
+            "lng": -80.2498272
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.0097438802915,
+              "lng": -80.24849521970849
+            },
+            "southwest": {
+              "lat": 26.0070459197085,
+              "lng": -80.25119318029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c13ddc5472f6cf7d12c831cd83a8b877cec0adba",
+        "name": "Club KO Training Center",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108783705225172998483/photos\">Club KO Training Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAolPfYh3w0k0kGcsbxqb_XijKEmrB3WyDH05NAlOatN-aNzb5ZFMcX8DnKsLsyzFxDrH1SQ3IFpfm5-X9tGMpmFg2lKFfO3iIQ9m9521bgPIQ8lFMQV8NRgl4RXXU1llLEhDwF4hFjye-E5yXTD5UmxmkGhTI_sa-Ldz3qT2G2yYkVdQCGieAHA",
+            "width": 4896
+          }
+        ],
+        "place_id": "ChIJ67QzzsWo2YgR3UIWZlX46E8",
+        "rating": 4.3,
+        "reference": "CmRRAAAAmlxUOdIl0t8Cy3FkYDflo-u-9U-h9GBlxzibMoMcxx7lejtK57PYD6cgbLdkt-Xzg98M13sZVBhbpUuFkWV6Ol_dBu5jfD4QvthiYScJRcKWil5nXD7QxBNHgzh6LFzgEhBOLTuH0g0XZH7vdyuQt5U6GhQbR9vJpctytP6aX5CUIiL6FDegjw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "8050 Pines Boulevard, Pembroke Pines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.0467642,
+            "lng": -80.2530056
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.0477618802915,
+              "lng": -80.25102966970849
+            },
+            "southwest": {
+              "lat": 26.04506391970849,
+              "lng": -80.25372763029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2d2a3fac149f0912f39024e41ff2496be8808c87",
+        "name": "American Top Team Davie",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102509851803325612697/photos\">American Top Team Davie</a>"
+            ],
+            "photo_reference": "CmRaAAAAtfI1xhzMfEE0zBEu4JHeC8ouoPa4s-J1R88Hly3g86i0kYLYcWdo6G5kiCHicMEPVE13HWS2cqQ_HRaAVR_o8n3Mb_4n9aoC8oxL2d2eX9beEtpn4vfjkXuEjt8VvWWKEhBMs_O6yBW70YYGIFxRZBKrGhT_2eOzcKb0doSbR7m8TJ1o7Z-pqg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJfdldYV6o2YgRq2QQeHecNpE",
+        "rating": 4.8,
+        "reference": "CmRSAAAAQjQFbreGW_1YHj1Lbe9Jekug5kQR8a4uN9nCqjtl8-fFmLYgw9CYCT_B63YUPFX4O8QhUzx_WmUmZnsPsfMwxmdVb4-vqJAOwRBeoHkc6sydHaQEPXklD3euWC6tN_mUEhBD3xdnYd3hcfCM1ziYKVbzGhRVbfHprYBHGGVutfVVJtNgCTZgFA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5929 South University Drive, Davie"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.0113565,
+            "lng": -80.36057869999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.0127054802915,
+              "lng": -80.3592297197085
+            },
+            "southwest": {
+              "lat": 26.0100075197085,
+              "lng": -80.3619276802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "af5544f064704db9ba5a322010652db870fc4967",
+        "name": "Premier Martial Arts",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 315,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110346702203651705003/photos\">Premier Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAVwHZbW7cHBqYOw_amFF9AH31ThEcfvvUmZ8snVmyWaGEt3-6NFWMR_WeJzXcLAVhwmoWDudzpRkh391Q7U7mGQF7IKyDp2SPPxj5x9fNNXUsKACsufRhwLrAxHgupnzAEhAyLbQD0ngHSnf6EunoxYTNGhQvA0PJXqLNcoRl7r0T2j8M7ks6Rg",
+            "width": 851
+          }
+        ],
+        "place_id": "ChIJf29fbVmh2YgRWzh_ZxL7qgM",
+        "rating": 4.7,
+        "reference": "CmRRAAAAKy6iSIPjZSvytOb9rIC9t2AXdeR7VJ7KzMTjXsBuedCYKWFGYBOLTYGtWq4a3Rm2dr5AHsg70yXp8VDFwcfxtFwgitc7VG2BfrGvz2XuSW3WYrQ4BZyZqcDQ035iH0rDEhAelNZ6OVKTeaWknQ7pJ45HGhSVWUhPeaHzXi3MIjaMf6xM8f52zw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15999 Pines Boulevard Suite 104, Pembroke Pines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.9805583,
+            "lng": -80.37409219999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.9818072302915,
+              "lng": -80.37274826970848
+            },
+            "southwest": {
+              "lat": 25.97910926970849,
+              "lng": -80.37544623029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0a5007d32f5648ac7f46dc15db927c8c7b09c3db",
+        "name": "CrossFit Siege",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103386861908693941985/photos\">CrossFit Siege</a>"
+            ],
+            "photo_reference": "CmRaAAAAB-V4Ydo4YrOD6krD3MWlpa-leUgBemncuClA__RHEd1wzfv6ctHuvXbAB8sisCNmj-77mmMjLz8Ebcutk-ydxxbAtuP6tGBliLC-NrPc57VAMaQ7VTC-he4ClqAlS4VUEhCZUnF9-iSEsdluoi99iXFnGhRXNhuVOPPySqiO_rJxyuFpsAFdVg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJW8Hp0_Kj2YgR81BrWNm5yK8",
+        "rating": 5,
+        "reference": "CmRSAAAAt7Ia7eNBf1anLVsHBHjamt943h3vqJOivLAHNSPZawbRENBYX3GFAoogIag5F3XZOPggurSwI52ego_XASU0tw9BDidHwlYKUd0xyGThrmygYFjZZmJZQe3SlYW8y3ygEhCsTmkR7gN8UOqMo3pfI-TiGhTrhusDQjxaCq2HE-0JxqSmFMurAQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17051 Miramar Parkway B-19, Miramar"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.0056057,
+            "lng": -80.3832357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.0069439302915,
+              "lng": -80.38187576970849
+            },
+            "southwest": {
+              "lat": 26.0042459697085,
+              "lng": -80.3845737302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "44767f9b9ec5edc6d09364fddf998c1c052d4cfc",
+        "name": "Aim High Martial Arts & Fitness",
+        "photos": [
+          {
+            "height": 1825,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108131571783508941200/photos\">Aim High Martial Arts &amp; Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAEGYDkY-gbUkNdscPv39ql5JjCvZYkSqYCALjLrafBxD4yUZi-5VmrjRmSm3s1v6e6Gl40y7eFCBED7ZDHsm509_DKE4JYPLsxG5Q11Tn3gPDHfnPHeKbqSDarx1Q0OtfEhCSqEqBnTDYASM1rKkU0wCWGhQXrvZdZMdRFkOx8jRnDXw2H7yI5w",
+            "width": 1490
+          }
+        ],
+        "place_id": "ChIJt8YKal-h2YgRercdps_h8Qg",
+        "rating": 5,
+        "reference": "CmRRAAAAIKDYRTr1sS7gm6MtHSOz0cFA4upTmF3dH3G1XMfBIOMh1qpilIOF68JgnGnkBmwN1g8BKqAwW7ZRC40_LXct6EsnMQw8QISKPDT9mnu-Fn6IMoUdn5yS1lT6Vmm-OLf0EhAE1qHAKkEpBUEXFmAiJMfMGhQoUx3S6bM7RIRy_hX4Di7cDYV4cw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1650 North Scottsdale Road, Tempe"
+        "vicinity": "17786 Southwest 2nd Street, Pembroke Pines"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.3632505,
-            "lng": -111.9269745
+            "lat": 25.981385,
+            "lng": -80.1664608
           },
           "viewport": {
             "northeast": {
-              "lat": 33.3648550302915,
-              "lng": -111.9256263697085
+              "lat": 25.9827262802915,
+              "lng": -80.1649906697085
             },
             "southwest": {
-              "lat": 33.3621570697085,
-              "lng": -111.9283243302915
+              "lat": 25.9800283197085,
+              "lng": -80.16768863029151
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a31f332f5caa4509caae34a0bb013ff1c069e9e3",
-        "name": "Capoeira Brasil Tempe",
+        "id": "24ae73e317b3b9749176be2549d1c76848b2b8fa",
+        "name": "Maculele Miami Brazilian Arts - Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115279063917047714550/photos\">Maculele Miami Brazilian Arts - Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAaUj7mFwUf4KZbEmMMOQd9xS375TbaWlxrJysJyd1qFduVkdSM8Nc5hUH9ov2PNTRjo7igW0wHfufdMO8PKdbBkzH76fzzxRAkSnqjxJioKYw0J90dgOdqqYDUpVTv7mmEhBpsn6CO6WEReFPZWnCYCM_GhSldtfH_6Ieh5E8HnBj0h2_AnVlbw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJe894PF6s2YgRdL-fMyQ4Y5o",
+        "rating": 5,
+        "reference": "CmRSAAAAI0DZRn4HoQ7sctg9rmaXznqGHYJlO4kmTWTgv-lKs5TEEYEXkqRhAUCUFlzUj7asf3wLsfXrVN9N6_rzZyvT7I3cbxnyARpEevyGpzoiGaQmPKrbZ6OGAGM3xut3XNOvEhDBGiSFOH96J1oyq-HYOmTgGhRLx141CuwQeWNb50JQNuqIqHPXpA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2954 Southwest 30th Avenue, Hallandale Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.9506753,
+            "lng": -80.147868
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.9521363802915,
+              "lng": -80.1465234197085
+            },
+            "southwest": {
+              "lat": 25.9494384197085,
+              "lng": -80.14922138029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6d858c9d5c07be9113940523331124c6b4a5ff1b",
+        "name": "Nago Academy Miami - Capoeira Nago Miami",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 480,
+            "height": 2760,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105735552656224354361/photos\">Capoeira Brasil Tempe</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109463962580008551553/photos\">Nago Academy Miami - Capoeira Nago Miami</a>"
             ],
-            "photo_reference": "CmRaAAAA4IsKyYz2YIHl7DEcBiOYpmjydQoiAecZTgRJqcP0GhcolnfTWt7WnGmctDJicAIZdoGhcNRtWKWCX9j-Q4g-PmSxEIMcbYj_kgHIlxY9bs4WECpXFcsQC_f2XG7O7BS1EhBJ7aWa0Pdd3RySgdhES_6RGhSgUHqZrrzRpcrFf2RHwkDK6t6F2w",
-            "width": 720
+            "photo_reference": "CmRaAAAAcQNpPvIQ4zILwUruaSQH8I-j60DINxSp910VspQ-rwIo2SfRprbpAEAgOU-6af6xF0g8eB3Mddzlr35WXqBpw9dZ-txbaH_BgTYORieUxhAKYi94o6MXuwpNwtqP_PNlEhDVAsWN_0EgPF9cGdrUYjMQGhTXDe30YEk27mwZvxlNHNIGNs1_pA",
+            "width": 3680
           }
         ],
-        "place_id": "ChIJ5Z5ObUAGK4cRBXcO_VfY4B4",
+        "place_id": "ChIJM7raL1es2YgRrIDv7MwU11I",
         "rating": 5,
-        "reference": "CmRRAAAAQ8JBk18CB38TVQnpjCTiQxM9LrgsRyYL7mcu_e5JlYoUwjkQoMrgWn-nevvod2hv_937fO1OMw1ccgYmd-JnJzmdHPJAu_RJzat7k_ZbV42OOXEm6TnO-j8m0uEMNXr2EhCT3HjqSJdvKtO0CuIuA67eGhQi0ysJD49F1CXlt7s5KGo8BsNIhA",
+        "reference": "CmRRAAAA4rDz33FDljurKqSisZzT1p3g5QeyRsIMKzHn_wRIznsmHTPW6B0exZAdUxTYl2t52Iqxylb8ff6GVLjeBVazeCFuUM8i8DVT_UuJuvfssy-vsAGNP1DYDdkwIUYeIJidEhBv-nzL713z_5KV70wsZ6acGhSB7H-D7rCOqKKq-Y_m7VL_KdpHWA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "965 East Guadalupe Road, Tempe"
+        "vicinity": "2656 Northeast 189th Terrace, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8890287,
+            "lng": -80.1589594
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.89052218029151,
+              "lng": -80.15761641970849
+            },
+            "southwest": {
+              "lat": 25.8878242197085,
+              "lng": -80.1603143802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9e4ccf0a6c93d97977917a206f39331ef531705d",
+        "name": "Capoeira Abolicao Community Foundation, Inc.",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 315,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100329052909860157610/photos\">Capoeira Abolicao Community Foundation, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAos9PSBr-L6LgPXQ9niq__sILiEUS6wHD-CLd0NOS_NBSEl95UoYJeektgOG6qxPNPJqlk4fsjpMG0GDB3ywBNcLg8kC7jLdcrkbaNtom4in8HyaVc8JPbJDxaThKDMc1EhB3m44IPGDHzKB3XZh0hl8mGhSKumO1Rsgg3CWtEAnYljKfhlamLw",
+            "width": 852
+          }
+        ],
+        "place_id": "ChIJI96NH96y2YgRCoYNIi90cRY",
+        "rating": 4.8,
+        "reference": "CmRRAAAAX5mBw7lBIjJaCOAnxbVszAdgG13cpd0jLDsxKpgFYFmU7A45H7gmLv560NIak4MjEdy1k6itRL84mbbqywBcMMtX2J25WfkhhcF5v3YqrMuoFsNKtyu4Qby3Sk_kWEpeEhBdmTdhVuVnhhTE2Bl-trdbGhTzMAJr6cdbAizyNx8h7ab-DpzI9A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1948 Northeast 123rd Street #102, North Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8742956,
+            "lng": -80.1702385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.8756445802915,
+              "lng": -80.1688895197085
+            },
+            "southwest": {
+              "lat": 25.8729466197085,
+              "lng": -80.1715874802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c7989f6c17cd4e4dc023e52135f4b9073e7b4c6",
+        "name": "Capoeira Artes Das Gerais in Miami",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 950,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117661432144992254112/photos\">Capoeira Artes Das Gerais in Miami</a>"
+            ],
+            "photo_reference": "CmRaAAAAX70B2kLS_9Dwdskm9hUNq4HYLkeXVykxWSfQspLJwwUt_vXHjUhrat-vUZHtfvJ9nxZAXenzQ3xZXVaxrUTVB4y8-1DPJbKedMk4gbZDgAsNpi4SqQJuvnQTQ2wxlxSZEhAGm3yW-0Z5fZrKGWlK1P6zGhSCa_sqo6IT9hifE4lMI_r-H0UF_A",
+            "width": 1500
+          }
+        ],
+        "place_id": "ChIJd8xAioGx2YgRTKEuPdhhkhg",
+        "rating": 5,
+        "reference": "CmRRAAAAUjyTznvpEggLbzEzY1xR3bxw701Bfh2XlwRbRz1x6sluyNYphGKzwjcXB6CkgmXaIXGZRZv56ClFkP1Qj-2wEUV1NAOayYIORpKBuWL5Xg-9K_5Tlygqcb1CFghxoDRrEhB_M6XBUcU0wK_YVlA8hwqYGhR2eHTicU2IfsVBKhCrYsPneT0YZA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10705 Biscayne Boulevard, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8863274,
+            "lng": -80.1313976
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.8876805802915,
+              "lng": -80.12996666970851
+            },
+            "southwest": {
+              "lat": 25.8849826197085,
+              "lng": -80.13266463029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f2b544f6e36d8c86fb53ae7af58dc5e61db4d266",
+        "name": "Carioca Capoeira-Miami",
+        "place_id": "ChIJa9v8S5uy2YgRRU2whdChTFE",
+        "rating": 5,
+        "reference": "CmRRAAAAeYllxBrOIx5Bcoh6udVE9XKOPkgB4XXLpSID41x4f7u8-HHH1M7ZkhGPmkcp3nhmrQjySkFJ_npQmZIaC1uRPHqx71dKs6da7io_WV_5f7NQMkAMdrwkzrMZCw-u82TiEhDPTUyt7LHJFZ5t07FKkcwLGhSv-iuQcXj06xpvszTSYkARhZDOTQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9550 Bay Harbor Terrace #215, Bay Harbor Islands"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8256104,
+            "lng": -80.1882644
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.8268988302915,
+              "lng": -80.1868814197085
+            },
+            "southwest": {
+              "lat": 25.82420086970849,
+              "lng": -80.1895793802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f7516df065c066f6b501cc3004f8b8624d9ba476",
+        "name": "Capoeira Cordao de Ouro Miami",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJGzqA8l-x2YgRrVLJNqMZQgA",
+        "rating": 5,
+        "reference": "ClRQAAAA9QaozwoDRDeJW-C6Vk4tOhFdRka5F-KWv3gI3DcI41A2mvRjDyC7kTo1K3XPBqsJE0wuEwrqCYtKiSgElu3UXjN76tBZmzlY6DoC-q2JAhUSEGTz3U0PUj1YZey4dpEqj6EaFFAfTAGqIWAhTsrDPdn-UUkTXYq6",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "375 Northeast 54th Street, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.7952295,
+            "lng": -80.33758619999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.7965804802915,
+              "lng": -80.33596651970849
+            },
+            "southwest": {
+              "lat": 25.7938825197085,
+              "lng": -80.3386644802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7cbbf56a7e363f2808bf1b5deed8b0c8de41e940",
+        "name": "Nação Capoeira",
+        "place_id": "ChIJPaEQGmy52YgRZ8qkZ93LVQ0",
+        "reference": "CmRRAAAAB6mniQRyxQx6GzehwN5fd8DCKkW3wKCPnlkTYa5aU2IB-08_ECaAVriBVJT5SL5b-P8-aEFyTE_kylbVIZ9Qsi0-1EbZJkaLO0FgPigJmXc8fTx0RPUX3ecPR_AQzoDlEhAoQR76jBJq82ZGZX3nFxoYGhScXoPGIAyLqc9T3tyKYCMUrr7ruA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2216 Northwest 87th Avenue, Doral"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.1829023,
+            "lng": -80.13302279999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.1843944802915,
+              "lng": -80.1316780697085
+            },
+            "southwest": {
+              "lat": 26.1816965197085,
+              "lng": -80.1343760302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "33301501cfd20ea9440668cd27d67f5aa7f386d5",
+        "name": "Corpo e Movimento Capoeira Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102645708759780433676/photos\">Corpo e Movimento Capoeira Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAlQDhgKg4w5kJpy7uajAuVv0Iis_sL3bF7ozElrPevIXkueqsp5HBPf19-QM2tbvABJ-p9UZCHeYUfEI7FNUd4GoOQnreUFK1WtKNqy7HYbu-CCi_zmlEUxaQMNR2mO36EhDmhuLGx9YtzrvGZM-1FILGGhQnOiExYMlhpmbZObn5YWU-RCvmaQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJKbufpXkB2YgRPIwar9ODTrI",
+        "rating": 5,
+        "reference": "CmRSAAAAklDSqg7BmkKnrmWabPsTgWu6lONEzjO_doV4A2X5BdsodhB1Jc6XdwTGJinQGGM5x45bHbNzBjpGKvtay2PuhQlfs_3vVDJ7XUFPMxBTQxuXd1_67wLkWFaWgu4zhMuKEhAoTkTPxZkvyoy75f-Hvc2xGhQ3HVga-qqwTrG_5RM-_AqXC8SIYQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1151 Northeast 45th Street, Oakland Park"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.7578211,
+            "lng": -80.2308231
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.7593189802915,
+              "lng": -80.22948291970849
+            },
+            "southwest": {
+              "lat": 25.7566210197085,
+              "lng": -80.2321808802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "023d6f30f98b07f45d7013ec76f37226e95f7832",
+        "name": "Miami Capoeira Sol e Lua",
+        "place_id": "ChIJSa85PlW22YgRr-L57dHSKFY",
+        "rating": 5,
+        "reference": "CmRRAAAAadrXpQt__ul31l3LTQXf3XZvOVX4ZWPuDOaV-atQANivvDcz0-3vlbGwnEaSv-Otq0wPjLFgbEMpDLQ01n-TBrZkpN8v0Hb2YsRznllhsoIiNoKtavccgTY0uu9tcVR1EhBa4C-TKBzDFjKYW_7XZAjxGhS7eXtakuFrIPkZBCuVleHbKO5ZWQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2200 Southwest 16th Street #122, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.28602099999999,
+            "lng": -80.237016
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.2877164302915,
+              "lng": -80.2356608697085
+            },
+            "southwest": {
+              "lat": 26.2850184697085,
+              "lng": -80.2383588302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3d27950116d017c22b58df1944e0e3b095b292de",
+        "name": "Capo Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115642361276110212923/photos\">Capo Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAX98AALVKXNpwQZpFctThHUKJK7iokzWMsvx9Mr8NSnryidSpugeyer_0dSpLHxPio-7inhNORz96SUZ5k8KDh9lnrSsMRlMKUrrBRdScDpCSm8IMaeaqpcRIujDVv-gtEhC4nxCtfWLmOlwCEwW3s7mAGhRavzKq4t6KB243uELykZWnWHwr5g",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJsRhn9CUb2YgRDnlSQ6-h1ic",
+        "rating": 5,
+        "reference": "CmRRAAAAQ-Y6jIYGwZtdoZPXSQWen_z7BNObp-M8mpoJePu3T_y3DhLSfqlbA6GrTAOoxjgY7-0yr80hJY3oiPoi9zxyE06XvA7o0ZeZrln2RDwM0Ddm3SS4HMDU2zZ75nXS2oEYEhDe4MaSW_uSzLJNgDh-B6G2GhTO4albpZ_u_RUZcKj6rwbBjs1jDA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "8256 Wiles Road, Coral Springs"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.3067813,
+            "lng": -80.0940633
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.3081792302915,
+              "lng": -80.0930149197085
+            },
+            "southwest": {
+              "lat": 26.3054812697085,
+              "lng": -80.0957128802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "12145f54eb41eb2b368f0e2d1affd86d6cb429e2",
+        "name": "CAPOEIRA REVELACAO",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 482,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118163837555615933796/photos\">CAPOEIRA REVELACAO</a>"
+            ],
+            "photo_reference": "CmRaAAAA_a1VvSjASuS8VT2PezcV-eYqZNyAz-QaqB5-VVR2nS6-PElHE3lWC8cR-_O2OeWyEfVPkSP_zASdjZTJxvzSN-xbl9x2ZCYM9_3_otAiiR7qOitZmII18eGXXbcm3XDyEhA56xKeHrhA6sKnXJDIAa-CGhTuaacbFayJ-5JKyyavIVpSrSxOvQ",
+            "width": 512
+          }
+        ],
+        "place_id": "ChIJAa9raIHi2IgRSyrisCNRLoM",
+        "reference": "CmRSAAAANRrU_FeJyyVxWZgJ_jdKs1k_fGUbyB3wnllVIwYkcH58_JJuo2MZ8JAtOF6NznJoJEB0dCqSZC2hhIArrwF2LfVjsItK6sUq-dyX3jRJo5Og0CuSAHMtZaCZmH5m-zUjEhCfJUZ6hSxQOdmS2DS26L7mGhQfv1NBl6-WVwLtot4m-ygmppVleQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "807 Southeast 8th Street, Deerfield Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.3702735,
+            "lng": -80.0844518
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.3716204302915,
+              "lng": -80.0830866197085
+            },
+            "southwest": {
+              "lat": 26.36892246970849,
+              "lng": -80.0857845802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "988a4ad9d5b25eaad46639669ac5fb88cc88d40c",
+        "name": "Capoeira Malês of Boca Raton",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105278611108131037302/photos\">Capoeira Malês of Boca Raton</a>"
+            ],
+            "photo_reference": "CmRaAAAAIFAvow3toZXqN5BsnOynVNAuJ3m8tgef2EWeJ9lil4u4TwLvK3LOrNdsxfQKqbgUV-AU-lyde8QkpGj3K_aDPqE3kiUQ2sWCWPUDS72hHnRrUmVRTGV-KyCvxbobbWAKEhD50ElYAdD0zRAtmrtWkijbGhSuRAfXpJWz6SR44phQ0eaXxGK_nw",
+            "width": 1366
+          }
+        ],
+        "place_id": "ChIJvwJx0u_h2IgR00Cr2zD6n2w",
+        "rating": 5,
+        "reference": "CmRRAAAAg4hgSSU_1IJ5ATtCDxgJNeLXO6nke6zN4_DaAYhTcHSERP7INPfyyefOKM_Z79j2BxBSPpQWAN9WNxE6mprVgQMDGijX-7yJ4UedGFsekJvfX6cq0uUAsQKTH8CxOAFAEhCazSXDqvzZjmmDrk6A9Z0_GhS8Z5wM01q_qqGdZ-LzMeRJEz8yKQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2260 North Dixie Highway, Boca Raton"
       }
     ],
     "status": "OK"
