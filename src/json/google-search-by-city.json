@@ -1,177 +1,55 @@
 {
-  "city_name": "rockford-illinois",
-  "city_rank": 164,
-  "city_population": 150251,
+  "city_name": "alexandria-virginia",
+  "city_rank": 165,
+  "city_population": 148892,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2711311,
-      -89.0939952
+      38.8048355,
+      -77.0469214
     ],
     "rankby": "distance"
   },
-  "people_per_result": 37563,
-  "possible_duplicates": {},
+  "people_per_result": 13536,
+  "possible_duplicates": {
+    "ChIJFb6j4zSyt4kRkXCgvJR3_dk": [
+      {
+        "place1": "PIES Fitness Yoga Studio - Valley Forge 33 South Pickett Street #200, Alexandria",
+        "place2": "PIES Fitness Yoga Studio 374 South Pickett Street, Alexandria",
+        "score": 0.8282828282828283
+      }
+    ],
+    "ChIJ6XAU7TSyt4kR4OUvZoltrOM": [
+      {
+        "place1": "PIES Fitness Yoga Studio 374 South Pickett Street, Alexandria",
+        "place2": "PIES Fitness Yoga Studio - Valley Forge 33 South Pickett Street #200, Alexandria",
+        "score": 0.8282828282828283
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.27704749999999,
-            "lng": -89.0890389
+            "lat": 38.8110206,
+            "lng": -77.0504906
           },
           "viewport": {
             "northeast": {
-              "lat": 42.2785279302915,
-              "lng": -89.08788856970848
+              "lat": 38.8123502302915,
+              "lng": -77.0490063197085
             },
             "southwest": {
-              "lat": 42.2758299697085,
-              "lng": -89.0905865302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "9f6bf460893221e5a4d0ae1bd065663ca787038b",
-        "name": "Rockford Dance Co School",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 816,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100668571536158858668/photos\">Marc Johnson</a>"
-            ],
-            "photo_reference": "CmRaAAAAbabP9zCBU-zWd0wdr_f6JqZVp4ZbKaZITr1BHLHAHQ2NM55OmUGNsScn611XfjMrdvwyYspA_BeYkAjwO-oY9XwtMc1o16USiTKRCPZKMiYdHWsNc0r_Fw0Ee-35UK92EhBtTVFj7Sxn6zW_OMcKd-YfGhThBpxiGZHiBsRJspIO63KoBTd9Sw",
-            "width": 459
-          }
-        ],
-        "place_id": "ChIJsQ22Aiy-CIgRvqXJnEmKE0U",
-        "rating": 5,
-        "reference": "CmRRAAAAMKkKH_5Y6e6Zo7SPgk1xfX3v6T3DW8WzqgFlEeQbcPlO1P4BOt0uymHtLUH4OHG9AeYCrfzkplOXNJDZtivG3Hl_JFKfIstJ3E0dprnGxQJf7iTrXucNs617_jiK9qhtEhDr7Kvf6eqkNdYO656tdLgPGhQs-MupQzrHvUkLqII71xqOohkVyA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "711 North Main Street, Rockford"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.225457,
-            "lng": -89.02211419999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2269643802915,
-              "lng": -89.0207700697085
-            },
-            "southwest": {
-              "lat": 42.2242664197085,
-              "lng": -89.02346803029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "018bd2959b5070f39c833bda27f606cb488c142f",
-        "name": "CrossFit Supercell",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 800,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102163151371326094066/photos\">CrossFit Supercell</a>"
-            ],
-            "photo_reference": "CmRaAAAACbpMypU1riXqBUhwP3rFLaJaZ1htM9kGFZcECR00AhEGvqB6j4k8dVSX0Ht0MIX2lIvopkYjUpBFmEib15GajuhmQTrSc5fUZiPjfMxg7gbLcAfuDpobbYEBDzZW0HlrEhBNmUwLMqrFDMXiqio8wU6OGhTKxo2ZlYFtgylXNtPUMZL8I1-dmA",
-            "width": 800
-          }
-        ],
-        "place_id": "ChIJcyEqJazACIgR3aofCFBr5a8",
-        "rating": 5,
-        "reference": "CmRSAAAAd3HDiC3IOSI_wighD3S_0_BTIW91ohkm95ZA2SRHULDi3zFwLfKScc7PP-ifqKFCNkQu9n4vtiSXbWtoKg5yUruILA175OUtkxu_2nNVfClQDKdjOlQ0rZNcV2l9BsMYEhBh35jpMtuWvUmPCG2lPH78GhRVQ89qRgobJTR5_TawWlGH04_bgA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4831 Colt Road, Rockford"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.31993930000001,
-            "lng": -88.9932661
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.32118198029151,
-              "lng": -88.9919136697085
-            },
-            "southwest": {
-              "lat": 42.31848401970851,
-              "lng": -88.9946116302915
+              "lat": 38.8096522697085,
+              "lng": -77.0517042802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "90c953f3ff6ad8891cb17943b1cb7932d29b170c",
-        "name": "No Joke Mixed Martial Arts",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105079365901617236405/photos\">No Joke Mixed Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAz52qbR4mWUvWjH46W91RiY356bznr3YrM5TxkLwx7Pcan_HHGInO_XwJepmXyFEbGpYHpUfHndqHDg2LquZ1ymxKrd2fmrDYuZHRCbpEfwuJPLpZfksXTOhpgJrJZFSwEhDWoGRTItxTqN7lycHu-U-lGhQ-oyWjT0oB34RFcY8nbgoMog93Rg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJudmF8am5CIgR32uDZ50eLxI",
-        "rating": 4.9,
-        "reference": "CmRRAAAA6gj-msUCIBHwYrxS7xMi204SY-PMvptbySTZe3q4ayQPdbxMgPZbyBgzAILuhzuvnfLiXl7_CZMiWF8zg48vUfseAFE5kIvJGlSHxtM5fA7ek_Se0eeeyhbDvp9sWhk0EhAVlF4gFU1ua7dh1E2UGblcGhRtnU_z8P1EMkm-FGi-UkzuPlADeA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "store",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6358 Daytona Drive, Loves Park"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.49890239999999,
-            "lng": -89.03630539999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50018873029149,
-              "lng": -89.0347210197085
-            },
-            "southwest": {
-              "lat": 42.4974907697085,
-              "lng": -89.0374189802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a9525db17a3091ee5bccd8d25e0952b524c7ce17",
-        "name": "CrossFit Beloit Coach Scott Thiele",
+        "id": "b5a0885b54eb1199351c969bef05874403c11efa",
+        "name": "UFC Gym Alexandria",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
@@ -180,15 +58,15 @@
           {
             "height": 1152,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114155639603219628201/photos\">CrossFit Beloit Coach Scott Thiele</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/102318877135521383815/photos\">UFC Gym Alexandria</a>"
             ],
-            "photo_reference": "CmRaAAAAy4UE7SHrU5crV6_anyhslhXz-fIXN15whkQIRHNcbdiE95CwNIRMyc4O6XvpuDCfhvOmfGJqhCleazNhJ7xCQcRhmkfTCNDP7gjMx2bjUSIbXsQn0AcavnAW1MrT8wPJEhCK7tbf6WctLq84kVsAZk3fGhTUiTGiU10E-81mWBiqlpqycb2cgg",
+            "photo_reference": "CmRaAAAA5XZ3S_3DoIOKIE5MS9sJSZMNGeVMr4W0-C2FOaH5lqikXdbeqUP-PoKv8pPXiplKe5vyZZeBcvzbir9Hny5s6ShdnG9DTwplqN0AAHJJnRt6NZIhS3GP_KIK7vhbHLfkEhDW6yjLX74ypSAV7Z4rFUQBGhSKOPfSZVgokyNfcxOvqwjoHW8MBg",
             "width": 2048
           }
         ],
-        "place_id": "ChIJ99WXU9wdBogRL0CIkRnq_m0",
-        "rating": 4.9,
-        "reference": "CmRRAAAAqAbgaC2oOA54IQKNeKw2PHrhQhaMuBCRL3pGN-wCHYwFJQf7f5MdmEZ9CMvZKAHYUpcPKjAwsILwms9VtdCuMffGfPiENEl_wIq_B89HcuY7Xnwn9FUMFRwHPmlDyO5hEhDNhGwB-H2Pwfra01RS-cEPGhTIQLQtP6iAnVbBlVewHwU0n8n4CA",
+        "place_id": "ChIJjezV9vuwt4kRVLGDkxJrEZ4",
+        "rating": 3.3,
+        "reference": "CmRSAAAAy2QzdCpYsz-5tALUyBOQrtd7lXosdWOCmmteHb-yQMJpEv8i9mvx7VLaD09saiAEcGYWG5nVera3Kh02vxVYnOcHeugdh-2pRSfTTojdBWcrgvFZ6Ytd648DG-t_mg8QEhCI6lJhsYfVDthwaWBU4xb0GhRBcOGteAXd7JdvQo3qWuD18ptCWg",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -196,7 +74,426 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "302 State Street, Beloit"
+        "vicinity": "528 North Henry Street, Alexandria"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.78128359999999,
+            "lng": -77.0785373
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.78263258029149,
+              "lng": -77.0771883197085
+            },
+            "southwest": {
+              "lat": 38.7799346197085,
+              "lng": -77.0798862802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a945ce7893ec30497850667dc52ef8cf43a65c08",
+        "name": "Capital MMA & Elite Fitness",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 765,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103717136678835316111/photos\">Capital MMA &amp; Elite Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAA7lAQDUyHxm2KasIC_8JsOzL2f1b_g3lbM_6uNviGxKd14hry4GPl0-BEJjMHzoRbwGJcEjfhY3fdnQO8XUahNGdPJBl9NfpEfv1ZJpdYoKAEjGmEUwGsptO6FdfyyvtHEhBIYkvDu6Eb7VgQo02zlWpUGhQsCUch7ZSfMbL_dmBLaY5JVscTgQ",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJDZnwpK6xt4kRiTf1jLd7mYk",
+        "rating": 4.8,
+        "reference": "CmRSAAAA2OH_pX0nMC-QvIYXx8IsGr_9YDPF6MNkjTRWX80eWjreQBFMa5gLMNFdJYJv112G3RY6-j826z7nV5zekcBbopazP1vZdnwA-WmoAiGdo7bfti2ie7APY3vuw49sZ7UgEhD48lr7fhht9Yg6v8pptggRGhSLBtbtiAVKVNCajKPdDAvGqCW2Ng",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6301A Richmond Highway, Alexandria"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.8114015,
+            "lng": -77.12237569999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.8127165302915,
+              "lng": -77.12081436970848
+            },
+            "southwest": {
+              "lat": 38.8100185697085,
+              "lng": -77.1235123302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "66ada8f3fc577cb2517ec8a7a082e71c42fbb5bd",
+        "name": "PIES Fitness Yoga Studio - Valley Forge",
+        "photos": [
+          {
+            "height": 2848,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102564697453587629657/photos\">PIES Fitness Yoga Studio - Valley Forge</a>"
+            ],
+            "photo_reference": "CmRaAAAAp1k2n5BuBjDmbbOIeBx670wcleAdVXp5qyJveEz872ixwVEWHGG2vOeN8tUslmATlazPdAUhkVPRKwPxpWNdQDPIF8tNATouN9y08nZRD-Npgu6LuZahmg2iK2J9YsAAEhCJ1BCYNUMk8wnpeiqvF_CHGhSLbeCvf2aKuDY7dZ2f31cHkhCm4Q",
+            "width": 4288
+          }
+        ],
+        "place_id": "ChIJFb6j4zSyt4kRkXCgvJR3_dk",
+        "rating": 5,
+        "reference": "CmRSAAAA_AjZIes8sgZtMAM0pbJge7u6T1IwM00Ys3RUexQE0YNVILagWcltTcUEyuVL73guz8n1DMdWj6YNMjSmoHEsB8Vk8j623nuh4JvotCeQRgLo0uFXm4VjtuBBdzIiWDo9EhCRZ5ayTXY0Ibw_lansV6j4GhQ9KycwnGycQrB9vLx7XlpDDLivsA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "33 South Pickett Street #200, Alexandria"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.8072234,
+            "lng": -77.1247164
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.8094524,
+              "lng": -77.12350401970849
+            },
+            "southwest": {
+              "lat": 38.8064804,
+              "lng": -77.12620198029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c95b17e0627511f3d5602e029c0da97fe9a3b8d6",
+        "name": "PIES Fitness Yoga Studio",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109308678131417207083/photos\">Jose Armando Gonzalez Del Riego</a>"
+            ],
+            "photo_reference": "CmRaAAAAxLX1cAsed867hR7A3ok5qisbStaIhVqr3Ct78VQuxbrYb0iKFDbe9Nl1qaR1XM9AkvziKC_grz2UaxB1XPLY6DGOmbzDOLzARzRGJv-ThzJzdEc_EFUKBKLB34fJub-oEhB6VKM9ujvTmQdX-pX5nQdlGhQKA_VJOjmInNgS8Ye1ZIUI1c_nmA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ6XAU7TSyt4kR4OUvZoltrOM",
+        "rating": 4.2,
+        "reference": "CmRSAAAAQ2JTdKDqo1G7vxUW_3gPiAJVAjHBjQxpG0h2Kd38ho-i3ObBOPko2ZybPVLSO4CMzgkg-2x_AJewipWg3M71r3cyz1cyHMsULSXiVorGyiAPsDFCFzjSxbvfr59rFhm_EhD78jFtJFrk8__n3UNKLKROGhTeelsN23wxcApaFYhEHu1dfKBeXA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "374 South Pickett Street, Alexandria"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.84703,
+            "lng": -77.12725499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.8485906802915,
+              "lng": -77.1256815197085
+            },
+            "southwest": {
+              "lat": 38.8458927197085,
+              "lng": -77.1283794802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bbef4a0c504d42e619600974eff20935f3f2a7b0",
+        "name": "Delete",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 472,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115334481126866118307/photos\">Delete</a>"
+            ],
+            "photo_reference": "CmRaAAAA1SnWSF0p48V3kjX8-8sF6jMVc6nZwSDlZFv85pi235hCteY5Q3QgMdF2B9QhWCGDda536Eu0PmTbrHx5GAZ-WXhu4tCD0X7bWuX2VmE-Fq2FJXItPdasBcF0prszQLxUEhDh8gnlvWpKKG60snNhS2eGGhScXpfODzy90Cy5p-VuDjbiG1opwg",
+            "width": 622
+          }
+        ],
+        "place_id": "ChIJc5ttHo2zt4kRaxlIqXX3Doo",
+        "reference": "CmRSAAAAxNf4cdNiYjxf_2ABNma69VuQo0HP6qda8ZHsMIeTi_3CGJMRe8aMK02hIAUenBWby6505zJ3FsV1Mfl4ERkkpLsW2zkGbQysQXfv6sQp7s0Ym2M3H4Gt6k9jhWnjyjlHEhCMlanZmKz5_VO8IRpqlnqTGhQAuP_SgkpjPfmSK-OcvpfCk5y_dA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5818 Seminary Road, Falls Church"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9117368,
+            "lng": -77.0360719
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9130862302915,
+              "lng": -77.03494431970849
+            },
+            "southwest": {
+              "lat": 38.9103882697085,
+              "lng": -77.03764228029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b43b771ccedb73fb16a5818f7b87807d241b5421",
+        "name": "Capoeira Fitness DC - Capoeira Barro Vermelho",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100835181527565456058/photos\">Capoeira Fitness DC - Capoeira Barro Vermelho</a>"
+            ],
+            "photo_reference": "CmRaAAAA8T7f3llX3v4aUno4-HJVUuGkYpg9yaHbcTrkWrhuwjbHdShDYpSsWlivjdpStOZ1t5EO52HjPjN9lsPr4C_VKI9DoOhFHW5nK3yMhjNIs_H3tzsoOSwK0lZAsMvXNWPLEhCqKQzSYbNZQO0DwjCodboqGhSUp4EY1rvdPHLauKdjVLlZuuef8Q",
+            "width": 3872
+          }
+        ],
+        "place_id": "ChIJ--GHK8K3t4kR7JOqIJTYSWw",
+        "rating": 5,
+        "reference": "CmRRAAAAFY4Mx1wo9FtD3ZVhPoR5HsGrhrofrckJTKuuEZxJ_YwB2vvuBUse1d66q-C8yjFEqznvOUoOpRhHOV7Cm1p6DYhgJvpWpXbEnIQJulnmDyRNEJoTz9OgcAK30IP6mTBNEhDIiSX56t2gqhOstK08o0rAGhQd8oIOxlgwnRcqzopKg19PsXfaMw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1611 16th Street Northwest, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9172649,
+            "lng": -77.0311462
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9184868302915,
+              "lng": -77.02979901970848
+            },
+            "southwest": {
+              "lat": 38.9157888697085,
+              "lng": -77.0324969802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "282ef5a408f2353b9b957f8006816e220912c03e",
+        "name": "Universal Capoeira Angola Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1588,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116567867559936487566/photos\">Chenault Morton</a>"
+            ],
+            "photo_reference": "CmRaAAAA_W7NFqt8lRrZhwWt6iOyf_r9v3Y9r1_onHO2ubbrY75XiYpa6uxn4bhBdxdxSw17aa0CoPYrh2niY4BXKdoBChp7Q4RyjTwVl2SVumPsbqVtmZQw4ByG_eOXEllFhvGkEhCHYN49xEAnUpZpfUY0xjRMGhTl13U0JtRo3jBlNxKEAJK_e5OkEw",
+            "width": 1018
+          }
+        ],
+        "place_id": "ChIJ45QfDca3t4kRpgZXkMFCoj4",
+        "rating": 5,
+        "reference": "CmRRAAAAIypihPjJNqYVV28Ye1ScISiWA-xeeebxD9c4PN1IaMrdeIEDkpJWtJscdCoEaHxGmVAuzWfW6Y64vnlZcjaqVprjQREQmXfEqqPyaeMfx-MNHrrocNas-tzIMbyfL77qEhDPyz7Ceh48Gx13h6nBlZQjGhSy4ip4W-9ZvjT6FpbpvjAkThsItA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1351 U Street Northwest, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.8293845,
+            "lng": -77.1967708
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.83087638029149,
+              "lng": -77.19574701970848
+            },
+            "southwest": {
+              "lat": 38.82817841970849,
+              "lng": -77.1984449802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "388b46f51eef34c26c0a0e30d15e5a77fbb0b98d",
+        "name": "Grupo Ondas Capoeira Virginia",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJR67lVNJMtokRQjo9HrSIIK0",
+        "rating": 5,
+        "reference": "CmRSAAAAxT1QYrDb9qkptwfRqo7Kykv0HkwnunEJMWPm3WNLRwXiUse4ZomBElq7LOxJ2YAOQ94OyX6TwYlM3sBunFzTd0AE62qDSZM9HIOMPrHi7hWWaEJTe0CVr3te5pYZcmUwEhDXMJYru7RDZMSggGcvM3C8GhTL3F_GM6MIuQQWisPMe9NLosikIg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4317 Ravensworth Road, Annandale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.92427199999999,
+            "lng": -77.0237664
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.92551993029149,
+              "lng": -77.0224015197085
+            },
+            "southwest": {
+              "lat": 38.92282196970849,
+              "lng": -77.0250994802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2a8166838027d5eb82d3a7034651af52d4a213fc",
+        "name": "International Capoeira Angola Foundation",
+        "place_id": "ChIJ-VRYk-K3t4kR_-oSh4Kcz5k",
+        "rating": 5,
+        "reference": "CmRSAAAA62RamG46J_iNsFjrPqcPeNNFaqY1EKZbN09uZTfBxRNogFf-TuLUrnp0e9-Ta4Cw8RCt2dIujnsn11ppnXvs3Bw7SKhlVFWKE6k1yOc8wsiQPe7fuXNBJVjO1VbjALaWEhCZ8YwrXR8QueDjI9O4jwjGGhTC3erXSrQ8hcdzINiB8cn-WGPIXw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "733 Euclid Street Northwest, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9295765,
+            "lng": -76.9757362
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9308415802915,
+              "lng": -76.97432171970848
+            },
+            "southwest": {
+              "lat": 38.9281436197085,
+              "lng": -76.9770196802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "783860a7af432fde42f1d70ed7c749d093315bc2",
+        "name": "The Capoeira Spot",
+        "photos": [
+          {
+            "height": 816,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115527755269739039499/photos\">Mekonnen Gabremedhin</a>"
+            ],
+            "photo_reference": "CmRaAAAAx2htIAQ9_x8i6wvwRLCfVU3m9Pq4AVBwXL-YryQS7H6m-pit_UdxDw8viB6XIzo7jxVnJx4ZJeYaiuc2Xlg81_0zBmTzXNY3X1a6B83mz98oTzVMVyWT9_qliwLozQvQEhBpe6_iceN1V-8JmBg1DItgGhSMIzZcZHEHkO5rcnSCnojp0NyF_g",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJTSs-WIXHt4kRZuLSoO1ptng",
+        "rating": 5,
+        "reference": "CmRRAAAA5zb1lr_IVJFtbYztBLcBBeGr3URbv0JZUP91iE-8Yl3hge87c3Z5bSKxcpWXPMcWXxIGXHS-pX5xa5rZQ6Ubdvcjhaah7v0HnrcOvw3ruadnMZUzSUt1o8huZn2Em5ROEhDSmg8giIz1GggslbvDhFctGhTeRrcNmLa8b7Cs-367wnnxzqecfw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2008 Rhode Island Avenue Northeast, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9745732,
+            "lng": -77.0116168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9759982802915,
+              "lng": -77.0101479697085
+            },
+            "southwest": {
+              "lat": 38.9733003197085,
+              "lng": -77.0128459302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "274cfd190c626f782779fbea7f637799fce3899f",
+        "name": "Roda Movements",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 666,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102578877158398789266/photos\">Roda Movements</a>"
+            ],
+            "photo_reference": "CmRaAAAA1ZXhCiFGVdZB9B0A5Q1N54ofagra3DTORgWBV4OaICTISs2lmojR4rAAAWvnZI9vI-DV4RhTmJPkbiicQ7XOm5DE5PC-KCjy7JmWWncExFsZsm06yXB95wRt9JEqLNf4EhBIh2s6haXHwTN3lXMxqlxQGhSes1sRUAfvC3GeBg-gTcxWi2eFVw",
+            "width": 666
+          }
+        ],
+        "place_id": "ChIJwVd1yILIt4kRV1lfwm2yetw",
+        "rating": 5,
+        "reference": "CmRSAAAAYHG39gQiNa4fX2_0I0ZOUEERTc4V816EFKWITVnCzCrDqKe8ZYEg6wi8vhSHPvDEcfHOxFRPLa2xbfAQgPlyBluiVkeK24dfvu816y8n5ltqW7f9Wl6w1H3r1lDEDLGqEhDnbvCKPHpoqxiQ_r8E_6nuGhS5i1_hlQcrBmInqO8E2zGl_QZ1Ig",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7014 Westmoreland Avenue, Takoma Park"
       }
     ],
     "status": "OK"
