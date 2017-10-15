@@ -1,16 +1,16 @@
 {
-  "city_name": "fort-collins-colorado",
-  "city_rank": 160,
-  "city_population": 152061,
+  "city_name": "hayward-california",
+  "city_rank": 161,
+  "city_population": 151574,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.5852602,
-      -105.084423
+      37.6688205,
+      -122.0807964
     ],
     "rankby": "distance"
   },
-  "people_per_result": 152061,
+  "people_per_result": 75787,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,77 @@
       {
         "geometry": {
           "location": {
-            "lat": 40.57167139999999,
-            "lng": -105.0766516
+            "lat": 37.6748522,
+            "lng": -122.0810687
           },
           "viewport": {
             "northeast": {
-              "lat": 40.5730209802915,
-              "lng": -105.0754564697085
+              "lat": 37.6761014802915,
+              "lng": -122.0799054197085
             },
             "southwest": {
-              "lat": 40.5703230197085,
-              "lng": -105.0781544302915
+              "lat": 37.6734035197085,
+              "lng": -122.0826033802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "c34793f142640c306988b7c42809fe0ab05575fd",
-        "name": "Capoeira Canavial",
-        "place_id": "ChIJs4gfL_9KaYcRb6LqrzqP9oE",
-        "rating": 5,
-        "reference": "CmRSAAAA2sO8kNggw-T87RZeE3na61esesULxCWsbullKtbyicONJvzJZ8P69S8TQ8uhhy1mgk7y8F10ZhxqMHQ8UrqTgxMAPil3gGxJg0wNtdwXUj8-3XuEkD-2Md4_LMvd4CDyEhC9bkSYLq6X8jW5DUEnFrvNGhTgBbcy9vXGl2aCY7e6IOtpbyFxfg",
+        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
+        "name": "United Capoeira Association - Hayward",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 453,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116049420993522808852/photos\">United Capoeira Association - Hayward</a>"
+            ],
+            "photo_reference": "CmRaAAAAl2s7deF_wNj4Ff3flTmVT5lUIPZdF3WkIjAvtUIRqozZ_qV1GHkTD5eaAc6lS7oFatDPfUAz1JiJwW7lJ7lgwdL6UPeoKvNWnd6HEBQR5eGrDSRb1ijar5ZrhP5j_IZ4EhA89qVdL3MJYaYcF9dcGpluGhTKh9zt8InHnFxu7puicLR2saL8HA",
+            "width": 453
+          }
+        ],
+        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "rating": 4.9,
+        "reference": "CmRSAAAAEWZJy8Nj4tdK6l9LqX0m8fB6wbiVpz9ButqY6lmfr7anNkQBs0uv2vokkvgoV_rBuS1k6B3-iiLXKaCgScuikjaZiafWNe3mXX5ABT6SZ8DqZa4pX9D3yTQCDor5eYIxEhC-uTIcyrHygN_XtmSEKfhrGhRTFn1U50rcqC63dVpcPU5rp2-14Q",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1200 South College Avenue, Fort Collins"
+        "vicinity": "22540 Foothill Way, Hayward"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6574762,
+            "lng": -122.0545358
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.6588251802915,
+              "lng": -122.0531868197085
+            },
+            "southwest": {
+              "lat": 37.6561272197085,
+              "lng": -122.0558847802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "408369ee432ff5c5dd4753f07a502e78f3982f8f",
+        "name": "Omulu Capoeira Guanabara - CSU East Bay",
+        "place_id": "ChIJjbzlMfOTj4AR6SCrnIIQmq8",
+        "reference": "CmRSAAAAWnw0IxSg7boJPAo4Bier_4CJjV7I7fnvAzuYbYsp4k3DA8Va3oMY5nug3ZOk6qpnz_OMdoxJHMdwrAbGNvzzcgP48Ubi_k7yBTOm5eLb8Tr2cxtSFKISaoihydY39vHlEhA7TVbBlE_P-GfMK96NmBlNGhR-hHGTJoOgFjzveUCKb0fi7ovqtw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "25800 Carlos Bee Boulevard, Hayward"
       }
     ],
     "status": "OK"
