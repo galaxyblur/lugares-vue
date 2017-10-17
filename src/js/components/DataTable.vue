@@ -22,7 +22,7 @@
         </div>
       </div>
     </div>
-    <el-table :data="groupsInCurrentPage" stripe>
+    <el-table :data="groupsInCurrentPage" v-loading="!groupsFileLoaded" stripe>
       <el-table-column type="expand">
         <template scope="scope">
           <div uk-grid class="uk-child-width-1-4@m uk-child-width-1-1@s">
@@ -191,6 +191,7 @@ export default {
       currentOffset: 0,
       currentPage: 1,
       groups: [],
+      groupsFileLoaded: false,
       perPage: 20,
       searchResults: [],
       searchTextInput: '',
@@ -199,6 +200,7 @@ export default {
   created() {
     axios.get('json/groups.json')
       .then((response) => {
+        this.groupsFileLoaded = true;
         this.groups = response.data;
       });
   },

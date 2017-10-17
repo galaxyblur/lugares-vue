@@ -21,6 +21,7 @@
       </div>
       <el-table
         v-if="stats.cities"
+        v-loading="!statsFileLoaded"
         :data="stats.cities"
         border
         :default-sort = "{prop: 'date', order: 'descending'}"
@@ -120,29 +121,10 @@ export default {
         lastUSRun: {},
         lastWorldRun: {},
       },
+      statsFileLoaded: false,
     };
   },
   methods: {
-    fetchData() {
-      axios.get('json/stats.json')
-        .then((response) => {
-          const cities = [];
-
-          _.forEach(response.data.cities, (c, i) => {
-            const d = new Date(0);
-            d.setUTCSeconds(c.lastRunDate);
-
-            cities.push(_.extend({
-              name: i,
-              date: d.toISOString(),
-              dateLocale: d.toLocaleString(),
-            }, c));
-          });
-
-          response.data.cities = cities;
-          this.stats = response.data;
-        });
-    },
     formatName(name) {
       const lastHyphen = name.lastIndexOf('-');
       let formattedName = name;
@@ -164,8 +146,26 @@ export default {
       return row.peoplePerResult > 0 ? perCap : '-';
     },
   },
-  mounted() {
-    this.fetchData();
+  created() {
+    axios.get('json/stats.json')
+      .then((response) => {
+        const cities = [];
+
+        _.forEach(response.data.cities, (c, i) => {
+          const d = new Date(0);
+          d.setUTCSeconds(c.lastRunDate);
+
+          cities.push(_.extend({
+            name: i,
+            date: d.toISOString(),
+            dateLocale: d.toLocaleString(),
+          }, c));
+        });
+
+        response.data.cities = cities;
+        this.stats = response.data;
+        this.statsFileLoaded = true;
+      });
   },
 };
 </script>

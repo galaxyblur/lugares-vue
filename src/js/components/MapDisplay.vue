@@ -3,6 +3,8 @@
     <mapbox
       @map-load="mapLoaded"
       :access-token="accessToken"
+      :geolocate-control="{ show: true, position: 'top-left', options: {} }"
+      :fullscreen-control="{ show: true, position: 'top-right' }"
       :map-options="mapOptions">
     </mapbox>
   </div>
@@ -15,7 +17,7 @@ import GeoJSON from 'geojson';
 
 import axios from 'axios';
 
-import HexgridHeatmap from 'hexgrid-heatmap';
+// import HexgridHeatmap from 'hexgrid-heatmap';
 
 import 'uikit/dist/css/uikit.min.css';
 
@@ -36,6 +38,7 @@ const getGeoJSONFromGroups = (groups) => {
   });
 };
 
+/*
 const createHeatmap = (map, data) => {
   const heatmap = new HexgridHeatmap(map, 'hexgrid-heatmap', 'waterway-label');
   heatmap.setData(data);
@@ -43,6 +46,7 @@ const createHeatmap = (map, data) => {
   heatmap.setSpread(7);
   heatmap.update();
 };
+*/
 
 const createMapPoints = (map, data) => {
   map.addLayer({
@@ -79,7 +83,7 @@ export default {
     mapLoaded(map) {
       axios.get('json/groups.json').then((response) => {
         const geoJSONGroups = getGeoJSONFromGroups(response.data);
-        createHeatmap(map, geoJSONGroups);
+        // createHeatmap(map, geoJSONGroups);
         createMapPoints(map, geoJSONGroups);
 
         const popup = new window.mapboxgl.Popup({
