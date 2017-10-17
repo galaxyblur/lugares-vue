@@ -129,7 +129,9 @@ const searchOptions = {
     'website_details.title',
     'website_details.description',
   ],
+  matchAllTokens: true,
   threshold: 0.3,
+  tokenize: true,
 };
 
 const groupFamilySearchOptions = Object.assign({}, searchOptions, {
