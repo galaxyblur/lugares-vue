@@ -1,16 +1,16 @@
 {
-  "city_name": "victorville-california",
-  "city_rank": 218,
-  "city_population": 121096,
+  "city_name": "evansville-indiana",
+  "city_rank": 219,
+  "city_population": 120310,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.5362184,
-      -117.2927641
+      37.9715592,
+      -87.5710898
     ],
     "rankby": "distance"
   },
-  "people_per_result": 60548,
+  "people_per_result": 120310,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,26 +18,40 @@
       {
         "geometry": {
           "location": {
-            "lat": 34.4723169,
-            "lng": -117.283364
+            "lat": 37.979651,
+            "lng": -87.500856
           },
           "viewport": {
             "northeast": {
-              "lat": 34.4736695802915,
-              "lng": -117.2817714197085
+              "lat": 37.98099613029149,
+              "lng": -87.49992111970849
             },
             "southwest": {
-              "lat": 34.4709716197085,
-              "lng": -117.2844693802915
+              "lat": 37.9782981697085,
+              "lng": -87.5026190802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ec68d6f47e80432ef14731a0a770b2233fa99387",
-        "name": "CrossFit BeeHive",
-        "place_id": "ChIJ-4EaYtlmw4AR-Z62AXDIO2E",
+        "id": "bbbc7984aace80e035d70938cda2db5e10ac25a8",
+        "name": "CrossFit 8085",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100950032496758897612/photos\">CrossFit 8085</a>"
+            ],
+            "photo_reference": "CmRaAAAA5CLyyuXUpTG1VsWfjBs_roAPXlfvq5UH2Cem1kzyVMn9xI1jBlVdHSnJzKEsSKleq9hTeb1-oaxksGWNhDQ3vCwsfjTsMfKM7K-xOvYRxc6SY1w_C_UbpOvUfE2gdICREhC9jwpIK7rEDGF_s216iaqLGhR5qej2garX0Kxzs10bkP-b6qqtUQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJa3VRFOIqbogRroUmf4McmYk",
         "rating": 5,
-        "reference": "CmRRAAAAQLzmrQ04kIw3cKzL6DguFmv9XBV6a96R8q2o4CYBfqeNewA0pVXPEXJUyWBh9JRYfh4ApycAy6D6LdsUfN8OtAWFiW3pH9v-DAzLbDLAKvI3m9UCgaoSKMqVPB2TXETQEhBnTXLNS_l1eHwZOEJ9B9acGhQuBnLQL0DTVfNVSNoyNVu1BKIx8w",
+        "reference": "CmRSAAAAyYO-mR88A780GYGBO8T7prQBlW9jRFZbTRfVb8RhwsEKSt3IrmhbYT19WYLsJ2Gxs6WYmB1s6bEnVVhfeiC_LtHFLZHkPu_gIUyoTgRc7u8UezgXciGTZlypYSn-sR4JEhAZXmPk-ErpgSzkLdND6RxAGhRdO4SlQm1CeW8iJmmUWRNeLVU2VA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -45,36 +59,7 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "12176 Industrial Boulevard #2, Victorville"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.421716,
-            "lng": -117.3075669
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.4228915802915,
-              "lng": -117.3062577197085
-            },
-            "southwest": {
-              "lat": 34.4201936197085,
-              "lng": -117.3089556802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a475ae9a10ff2a1530c160c231de81023ee130bc",
-        "name": "Multi Cultural Dance Center",
-        "place_id": "ChIJn14Hk31nw4ARBbXZTH_6tUg",
-        "reference": "CmRRAAAAnVhJszggpX0416AZbLp1VRn-KwqbOz6RQNEOsB66JfGe4rvOXYzppEqQyG7587G6NXqarDVNE6PlhliM5dO91_3ZL6fNAdTfjmzct8S_u9t3RXCoTDu1d7rQ_MIs2Y97EhBtUmNokuhSUspUvV2oCpLUGhT_uat4u7516AMIeAIWo-XtKmRC7Q",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "16298 Walnut Street, Hesperia"
+        "vicinity": "301 Stockwell Road, Evansville"
       }
     ],
     "status": "OK"
