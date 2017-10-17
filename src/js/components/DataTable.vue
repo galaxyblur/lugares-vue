@@ -49,14 +49,14 @@
       <el-table-column label="Name" min-width="150">
         <template scope="scope">
           <div class="uk-margin">
-            <b v-if="isLikelyCapoeira(scope.row)"><i>{{ scope.row.names.join(', ') }}</i></b>
+            <b v-if="scope.row.isLikelyCapoeira"><i>{{ scope.row.names.join(', ') }}</i></b>
             <span v-else class="uk-text-muted">{{ scope.row.names.join(', ') }}</span>
           </div>
-          <div v-if="isLikelyCapoeira(scope.row) && getWebsiteDetail(scope.row, 'logo')" class="uk-margin">
+          <div v-if="scope.row.isLikelyCapoeira && getWebsiteDetail(scope.row, 'logo')" class="uk-margin">
             <img :src="getWebsiteDetail(scope.row, 'logo')">
           </div>
           <div class="uk-margin">
-            <el-tag v-if="getPossibleGroupFamily(scope.row)">{{ getPossibleGroupFamily(scope.row) }}</el-tag>
+            <el-tag v-if="scope.row.possibleGroupFamily">{{ scope.row.possibleGroupFamily }}</el-tag>
             <el-tag v-if="scope.row.permanently_closed" type="danger">Closed?</el-tag>
             <el-tag v-if="scope.row.location_locality" type="gray">{{ scope.row.location_locality }}</el-tag>
             <el-tag v-if="scope.row.location_administrative_area_level_1" type="gray">{{ scope.row.location_administrative_area_level_1 }}</el-tag>
@@ -119,125 +119,109 @@ Vue.use(VueFuse);
 Vue.use(ElementUI, { locale });
 UIkit.use(Icons);
 
-const isLikelyCapoeiraCache = {};
+const searchOptions = {
+  caseSensitive: false,
+  distance: 1000,
+  findAllMatches: true,
+  keys: [
+    'names',
+    'location_text',
+    'website_details.title',
+    'website_details.description',
+  ],
+  threshold: 0.3,
+};
+
+const groupFamilySearchOptions = Object.assign({}, searchOptions, {
+  tokenize: true,
+  threshold: 0,
+  distance: 0,
+  location: 0,
+  matchAllTokens: true,
+});
 
 export default {
   name: 'data-table',
+  computed: {
+    groupsInCurrentPage() {
+      const begin = this.currentOffset;
+      const end = this.currentOffset + this.perPage;
+      const groupsInCurrentPage = this.groupsInCurrentSearch.slice(begin, end);
+
+      groupsInCurrentPage.forEach((g) => {
+        const hasIsLikelyCapoeira = Object.prototype.hasOwnProperty.call(g, 'isLikelyCapoeira');
+        let hasPossibleGroupFamily = Object.prototype.hasOwnProperty.call(g, 'possibleGroupFamily');
+
+        if (hasIsLikelyCapoeira === false) {
+          this.$search('capoeira', [g], searchOptions).then((results) => {
+            g.isLikelyCapoeira = results.length > 0; // eslint-disable-line no-param-reassign
+          });
+        }
+
+        if (hasPossibleGroupFamily === false) {
+          _.forEach(GroupFamilies, (tag, searchTerm) => {
+            this.$search(searchTerm, [g], groupFamilySearchOptions).then((results) => {
+              // Check the property again to stop if a match has already been found
+              hasPossibleGroupFamily = Object.prototype.hasOwnProperty.call(g, 'possibleGroupFamily');
+
+              if (results.length > 0 && hasPossibleGroupFamily === false) {
+                g.possibleGroupFamily = tag; // eslint-disable-line no-param-reassign
+              }
+            });
+          });
+        }
+      });
+
+      return groupsInCurrentPage;
+    },
+    groupsInCurrentSearch() {
+      let groups;
+
+      if (this.searchResults.length > 0) {
+        groups = this.searchResults;
+      } else {
+        groups = _.clone(this.groups);
+      }
+
+      return groups;
+    },
+  },
   data() {
     return {
+      currentOffset: 0,
+      currentPage: 1,
       groups: [],
       perPage: 20,
-      currentPage: 1,
-      currentOffset: 0,
+      searchResults: [],
       searchTextInput: '',
-      searchOptions: {
-        caseSensitive: false,
-        distance: 1000,
-        findAllMatches: true,
-        keys: [
-          'names',
-          'location_text',
-          'website_details.title',
-          'website_details.description',
-        ],
-        threshold: 0.3,
-      },
-      groupsInCurrentSearch: [],
-      groupsInCurrentPage: [],
     };
   },
-  mounted() {
+  created() {
     axios.get('json/groups.json')
       .then((response) => {
-        const begin = this.currentOffset;
-        const end = this.currentOffset + this.perPage;
-
         this.groups = response.data;
-        this.groupsInCurrentSearch = _.clone(this.groups);
-        this.groupsInCurrentPage = this.groupsInCurrentSearch.slice(begin, end);
       });
   },
   methods: {
-    getSearchableValues(item) {
-      const values = [
-        item.names[0].toLowerCase(),
-        item.location_text.toLowerCase(),
-      ];
-
-      if (item.website_details) {
-        if (item.website_details.title) {
-          values.push(item.website_details.title.toLowerCase());
-        }
-
-        if (item.website_details.description) {
-          values.push(item.website_details.description.toLowerCase());
-        }
-      }
-
-      return values;
-    },
     handleCurrentPageChange(currentPage) {
       this.currentOffset = (currentPage - 1) * this.perPage;
-
-      const begin = this.currentOffset;
-      const end = this.currentOffset + this.perPage;
-
-      this.groupsInCurrentPage = this.groupsInCurrentSearch.slice(begin, end);
     },
     handleSearchChange(searchTerm) {
-      this.$search(searchTerm, this.groups, this.searchOptions).then((results) => {
-        if (!searchTerm) {
-          this.groupsInCurrentSearch = _.clone(this.groups);
-        } else {
-          this.groupsInCurrentSearch = results;
-        }
-
+      this.$search(searchTerm, this.groups, searchOptions).then((results) => {
+        this.searchResults = searchTerm ? results : [];
         this.handleCurrentPageChange(1);
       });
     },
-    isLikelyCapoeira(item) {
-      let isLikely = false;
-
-      if (Object.prototype.hasOwnProperty.call(isLikelyCapoeiraCache, item.id)) {
-        isLikely = isLikelyCapoeiraCache[item.id];
-      } else {
-        const values = this.getSearchableValues(item);
-
-        _.each(values, (v) => {
-          if (v.indexOf('capoeira') >= 0) {
-            isLikely = true;
-          }
-        });
-
-        isLikelyCapoeiraCache[item.id] = isLikely;
-      }
-
-      return isLikely;
-    },
     getWebsiteDetail(item, prop) {
-      let val;
       const hasWebsiteDetails = Object.prototype.hasOwnProperty.call(item, 'website_details');
       const hasProp = hasWebsiteDetails ? Object.prototype.hasOwnProperty.call(item.website_details, prop) : false;
+      let val;
 
       if (hasProp) {
         val = item.website_details[prop];
       }
 
       return val;
-    },
-    getPossibleGroupFamily(item) {
-      let groupFamily;
-      const values = this.getSearchableValues(item);
-
-      _.each(GroupFamilies, (tag, searchTerm) => {
-        _.each(values, (v) => {
-          if (v.indexOf(searchTerm.toLowerCase()) >= 0) {
-            groupFamily = tag;
-          }
-        });
-      });
-
-      return groupFamily;
     },
   },
 };
