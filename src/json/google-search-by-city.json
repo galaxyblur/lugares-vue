@@ -1,175 +1,149 @@
 {
-  "city_name": "gresham-oregon",
-  "city_rank": 254,
-  "city_population": 109397,
+  "city_name": "fairfield-california",
+  "city_rank": 255,
+  "city_population": 109320,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      45.5001357,
-      -122.4302013
+      38.24935809999999,
+      -122.0399663
     ],
     "rankby": "distance"
   },
-  "people_per_result": 8415,
-  "possible_duplicates": {
-    "ChIJMVMG6oKYlVQRTwpN5vCOn_4": [
-      {
-        "place1": "CrossFit PDX 2206-1 Northwest Birdsdale Avenue, Gresham",
-        "place2": "Crossfit Cimmeria 2425 Northwest Birdsdale Avenue, Gresham",
-        "score": 0.8045977011494253
-      }
-    ],
-    "ChIJZ5A4eXiilVQR97JVjhjQnOQ": [
-      {
-        "place1": "Crossfit Cimmeria 2425 Northwest Birdsdale Avenue, Gresham",
-        "place2": "CrossFit PDX 2206-1 Northwest Birdsdale Avenue, Gresham",
-        "score": 0.8045977011494253
-      }
-    ]
-  },
+  "people_per_result": 12147,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 45.50327129999999,
-            "lng": -122.4273888
+            "lat": 38.25925699999999,
+            "lng": -122.065671
           },
           "viewport": {
             "northeast": {
-              "lat": 45.50444788029149,
-              "lng": -122.4260363197085
+              "lat": 38.2604735802915,
+              "lng": -122.0639530697085
             },
             "southwest": {
-              "lat": 45.5017499197085,
-              "lng": -122.4287342802915
+              "lat": 38.2577756197085,
+              "lng": -122.0666510302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "6347d05f658b6bd95373dbb6a524bf99150ceb36",
-        "name": "CrossFit Mt. Hood",
-        "place_id": "ChIJUfpZoIqYlVQRjknckY0Xtqc",
-        "rating": 5,
-        "reference": "CmRSAAAAh-j6cbaskOvN8dgiBgALjEFCjCd1jtjT4bUvYeiLJm2lW0-3Nx2hkyFaWTfJmnCJV02bgiVI1mlsn9EhvfSiXdSwKNi9ijjVBRYSaymdue5n3B4w5NWSzDeDG1arMksSEhDGKlf_FzvDBF5jyh89XXN7GhTH1C-abTaBecj1OwTb0W2K5vRT9w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "335 Northeast 8th Street, Gresham"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.5124,
-            "lng": -122.454085
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5137328802915,
-              "lng": -122.4532214197085
-            },
-            "southwest": {
-              "lat": 45.5110349197085,
-              "lng": -122.4559193802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "1235ff6b98198ae465d9ea2128adba37ebe1a707",
-        "name": "CrossFit PDX",
+        "id": "b0e710f9890d2e6e051df047046bc6a036c4250b",
+        "name": "In-Shape Health Clubs",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 486,
+            "height": 645,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107664518313497962931/photos\">CrossFit PDX</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/103591523825160648051/photos\">In-Shape Health Clubs</a>"
             ],
-            "photo_reference": "CmRaAAAAGEvBWaGASipjzBf4xMhmiMiF2rfGorvPu8DjOVFuCnERbYL6qIrQJ4ZNfM-bnQOLq4adIG5llDBEmmPHU8qDPEz-612y-E4OO6OmmjL4LFdSCzvE4PA-GZiZyFnJLInCEhCN5GGsBE27ywl8xmSC12XfGhQVhcaC0HsKl6KW2wsCQYU_HbCW0Q",
-            "width": 487
+            "photo_reference": "CmRZAAAAs4X-v-Fvb39OP0QYIF0VMEMUeeRxTTcG5sUmTZ0xNBJVRGmLnSkpEpYRCB-KTDeo4K24SpqkW1OGkHeCvuPDIoz00WY89sqLzcSYJa5y7vrxq4ng5FkE1uaA9ZNiDTFkEhBfBtWQ47NryEBKOrjfb4zsGhR8H_zjmhJt1_V5TCjQPLZMBEYLlA",
+            "width": 645
           }
         ],
-        "place_id": "ChIJMVMG6oKYlVQRTwpN5vCOn_4",
-        "rating": 5,
-        "reference": "CmRSAAAAV3oX17XehZw2gwHWiCcmL3EPms0qQ1lwVmnZ3exUG-otc0N9v-dpQukcekTnDOVMu4HMeTsERmckwPBnz2VleexM7lGRgvCrNI9AgoqcVSYNq-H8z2BDz5KI7AfTVZSEEhB0jWiAFzrw_QFG3kMQhSYXGhSkDBmuuvcZnHkUVEcKF1E0so_Lbg",
+        "place_id": "ChIJe5AubB4UhYARUY71Ca88a58",
+        "rating": 3.7,
+        "reference": "CmRSAAAAgbfiEmnlp73KZMlTdzhFSBj_GtbqoNJcyJdZzzUMyQEtiZUI1wDvNbipRt9lOqKGoV6AhIRqVmGr6Nf1-fp-iw8PxEJeFk7EDF1wmTrX44XnHSqLBYz77R-Lw28cU8YWEhAaF14CZbLUATZk39yp1yMSGhRKx5F3RiA7qLOQvkvZXG2YJPjiTA",
         "scope": "GOOGLE",
         "types": [
+          "gym",
+          "spa",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2206-1 Northwest Birdsdale Avenue, Gresham"
+        "vicinity": "1471 Holiday Lane, Fairfield"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.5145551,
-            "lng": -122.455594
+            "lat": 38.215867,
+            "lng": -122.136213
           },
           "viewport": {
             "northeast": {
-              "lat": 45.5159155802915,
-              "lng": -122.4540077197085
+              "lat": 38.21736728029149,
+              "lng": -122.1352855197085
             },
             "southwest": {
-              "lat": 45.5132176197085,
-              "lng": -122.4567056802915
+              "lat": 38.2146693197085,
+              "lng": -122.1379834802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0c753f653f14a0e1c7997a93840c632467a58f4a",
-        "name": "Crossfit Cimmeria",
-        "place_id": "ChIJZ5A4eXiilVQR97JVjhjQnOQ",
-        "rating": 5,
-        "reference": "CmRSAAAAqZBI3f7Mr285-Zbw7mmEhlP-le5PAztDP1msLZDIC_JyC0cQZORvJ3ucDJo1giH2I6SU91KAbnKHdcQQ4muMj_kuYT1ynUdyQ3AXjcwi83mLmnv_bPjhxRW-lACWq187EhDsMHrplFCVcxXoTfk2LXeUGhTs0K_ZKZ-dvokIMZWCrcVN4MJFTw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2425 Northwest Birdsdale Avenue, Gresham"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.5261247,
-            "lng": -122.4369143
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5274736302915,
-              "lng": -122.4355388197085
-            },
-            "southwest": {
-              "lat": 45.5247756697085,
-              "lng": -122.4382367802915
-            }
-          }
+        "id": "ff7ed80e34f1dca4355cb4d002248edb17ce88f6",
+        "name": "The Fitness Coalition (CrossFit)",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "8ee1972d466aaaac48e9d337bc2905ce83b6be25",
-        "name": "3-46 GRIT CrossFit",
         "photos": [
           {
-            "height": 1172,
+            "height": 1080,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113088436136290029136/photos\">3-46 GRIT CrossFit</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110610768006000021746/photos\">The Fitness Coalition (CrossFit)</a>"
             ],
-            "photo_reference": "CmRaAAAAo8DHo_UMZWCmkp4tvFI2uMoy-qlaUscJ-N9Yeqq5N1NSaIahYZKVX5cFG2supV05zdMyDQ_Ij83CSSwC9ZYZd-GEFV2F-lnUy6FXrBaj3TBET_lhpNeOvMys6cikic6qEhCj4VmLch3hI8pE423-BnyaGhRzg9PK8Uvr-YYRC0-3L-O64rCq_A",
-            "width": 2683
+            "photo_reference": "CmRaAAAA1_v_gzRdLGj63HQk7B7PLeXq8kBYs4XNLJ49jHpBab1bH4BXvhd9Yl7nfag64Ee6mCHrCODC3RTu2qQkC4HoAP6BmR0NEWmEN1-LnACLV8eBg6kmz-D91oZtc2bE2DW4EhBCy3a_zoYpCIJnYiZr8GqxGhQgFPashfjcFuiMcG1rPrN71wS0Wg",
+            "width": 1616
           }
         ],
-        "place_id": "ChIJR-1BRZuilVQRwHDbBvs5Psg",
+        "place_id": "ChIJK-bAF04ShYAR3Wx1qBnGI7o",
         "rating": 5,
-        "reference": "CmRSAAAA01k5ulqlOqdaOUahEbsCFFPVlB4mfciKB-EPHr0gAxfW4_jTE9C0KKMNGJfBVoUYro5AB_keUij1RWnhCgW97kj2z0Cpg0A99VFV1Qn7yDl4YdtRu1nrfRJiE0SUS_kcEhABGDNJJTt0NQvnG6xPyIi8GhR82pEcJgbRQ_BaXgyEJTVRoeJccg",
+        "reference": "CmRSAAAAxm-ZIa2w6gMmVy0qe0F4xh8ldTU0sNnL3glH5_2wwi37pfgTfKWcvN1K0idTtlpjZ1bESrEEOzDDjqam782EMO1nXzU6Ro6cXj5U-nWypokyQMNbEnoeBr231z7Ol2x1EhBbGOiYgUpwM9sQuqedLztfGhQOJ4oTNusGZ7mjwrxlErnATAsAWQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4739 Central Way, Fairfield"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.3483929,
+            "lng": -121.9874424
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.3497252802915,
+              "lng": -121.9860901197085
+            },
+            "southwest": {
+              "lat": 38.3470273197085,
+              "lng": -121.9887880802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "43696106848f542e0baed42e63ec0c87a5c656c1",
+        "name": "CrossFit Vacaville",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1085,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112722427274769700444/photos\">CrossFit Vacaville</a>"
+            ],
+            "photo_reference": "CmRaAAAA_nITjNRtKS0vqYMoAoMECQQNUL2OPdr47Qw4xblgd81YQJ6a5yRkuRhjkx4z6tVU0tnnjw7IK8naf2jxRVZxQVxjuT8Ir1UVyxEsEvLno8BOUPFdIyfrrUxxdvOiwM_-EhC8YLjRmsa6RNOQM204ILWMGhQabrhdsBOGc3S4Ne3VfSebhDz_Vw",
+            "width": 1926
+          }
+        ],
+        "place_id": "ChIJaz4A1xwYhYARTpnF-25-sw0",
+        "rating": 4.7,
+        "reference": "CmRRAAAAwmV-4rL1B-uCLNy5Q_rezNq7CZr6TYzBu55ibj14tZ5fsued6VWOoJH4A3xXZpVsBrG9hWLs_1Tv5gw7o1Hd-z_duTezGhwXI_zBeXqcdzzuzwLo9Cf4qa18l6BRUSuwEhDzWCY9uZHfx7R6qUK1-0vWGhQ-DLuvqnLIXe60Faw4smIdRYn6ug",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -177,35 +151,41 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "346 Northeast 219th Avenue, Gresham"
+        "vicinity": "192 Bella Vista Road d, Vacaville"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.5334693,
-            "lng": -122.4745694
+            "lat": 38.3860004,
+            "lng": -121.9355419
           },
           "viewport": {
             "northeast": {
-              "lat": 45.53496863029149,
-              "lng": -122.4731333697085
+              "lat": 38.38670815,
+              "lng": -121.9341561697085
             },
             "southwest": {
-              "lat": 45.5322706697085,
-              "lng": -122.4758313302915
+              "lat": 38.38387715,
+              "lng": -121.9368541302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "abadde236b6a1dc08fe13fd53bd59c854708990b",
-        "name": "CrossFit Dragonfire and Dragonfire Weightlifting",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ5ZmroV6ilVQR7a-WUt2fYiM",
-        "rating": 4.8,
-        "reference": "CmRRAAAAUDYMnv8KVP-eOh8iV1q6opsJCa03_GbJKiJPnr9oJQGbALU9Gx03-0O41278gsyMwzr3hADsmkKD6LpJ66hMaO0n8rle0ZRC_sd2joFMWUIOpYYFetW14w7twr9YYWFREhAxXjh_MqXorR4w8iYKpHBFGhTqpFNMHyQVGVQlJPqjX0YNpA2now",
+        "id": "4b02ead2e0062e3b8465e5a621a07ed677c44996",
+        "name": "CrossFit 1892",
+        "photos": [
+          {
+            "height": 3648,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115693298549985980615/photos\">Kyle RC</a>"
+            ],
+            "photo_reference": "CmRaAAAADXDdQmggykuhdTJE8pCJxAqZdAtAgUzVN9RGPgYvf6bKYj_GLYlZxoBUpyBzWxiRxc4GfpKQyo2DexU8xcsv4pgUn_CiCwj6Hdx0nDde8lRPfE4vf2bPCkeSU77KUo1vEhCnNhcbUidfnm0YKNvNonyQGhTwdGlLprQcIzXYFmG-PZqxFUJvIA",
+            "width": 5472
+          }
+        ],
+        "place_id": "ChIJTx1cqDojhYARbj5RTEHjsP8",
+        "rating": 5,
+        "reference": "CmRSAAAAr5i9q6xUckIjHY-tYj9l3GKiIoLoDdVE_X-IAV_6kyMhzSP863JbSsMMt_ebmqLJalenNJgdNAqpjR88YUysGSYW3Xd86AtzSp0Uu9aQNEFl7LzRmkkLwqPrvw6iuODBEhCsk7n8bJuFpWeK308kAoLaGhQu2O_Dy9CU45v6hnxW_viS8XbYVA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -213,317 +193,193 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "18412 Northeast Halsey Street, Portland"
+        "vicinity": "785 Orange Drive, Vacaville"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.4798625,
-            "lng": -122.5684413
+            "lat": 38.1150762,
+            "lng": -122.2522406
           },
           "viewport": {
             "northeast": {
-              "lat": 45.4811641302915,
-              "lng": -122.5671185197085
+              "lat": 38.1163429302915,
+              "lng": -122.25117285
             },
             "southwest": {
-              "lat": 45.4784661697085,
-              "lng": -122.5698164802915
+              "lat": 38.1136449697085,
+              "lng": -122.25544385
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b0d915ed4e3995d2ddf815be6ba31afe6ec06ce2",
+        "name": "North Bay Athletic Association",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJiQuF60RzhYARXTND2jozdYY",
+        "rating": 4.1,
+        "reference": "CmRSAAAA7RmZfTq4PbI6L9rvOvLAAOQ3Z7V2eGBNdTXxdGE0vK4zj0jXRKhr90Cr_YwuHuH7MJsXt2Bw8HwPLsY35B0UCX8Z86u3cb-g66zzqMRvUcJ0EBmS3ITBeaCMF_MIexAiEhDf3IUrRDLDN8Hao2jX4Ey8GhT9l4o6HCWpy0st6CNd79J64G8iDw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "415 Mississippi Street, Vallejo"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.9708499,
+            "lng": -122.056075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.97206663029149,
+              "lng": -122.0542834697085
+            },
+            "southwest": {
+              "lat": 37.96936866970849,
+              "lng": -122.0569814302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b071370a954fba472dc54c84398081fbc3319c33",
-        "name": "Capoeira Angola Palmares of Portland",
-        "permanently_closed": true,
+        "id": "13f0f6a8f8e530ece47a412fc672c82db222a36e",
+        "name": "Omulu Capoeira Concord",
+        "place_id": "ChIJZybGasZmhYARJ1HShJnOyVs",
+        "reference": "CmRRAAAAM4XaM8_YunCAgV5FMpNh1sLsgptoFHNLxAs6-YvOrpdvo7geathfeC9AVUxglHRAGyJccQxeDviglm_XMHsuoM93Y9ffJ9EcJU5OFoiAFusbkUpl0GjxsSZJeuw3ehncEhAebnIzPxvWis4oxmd79jf2GhRHNDpkNgQdTE7q3xt7FqxgAadDuw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1975 Diamond Boulevard, Concord"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.89683119999999,
+            "lng": -122.0679904
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.89829663029149,
+              "lng": -122.0667064697085
+            },
+            "southwest": {
+              "lat": 37.89559866970849,
+              "lng": -122.0694044302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e5000d63c99a232dcf738262d8631037949ae4a4",
+        "name": "Capoeira Luanda - Prof.Sabiá - Bay Area",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
         "photos": [
           {
-            "height": 537,
+            "height": 1920,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114706501280731296509/photos\">Capoeira Angola Palmares of Portland</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/116516575096562565887/photos\">Capoeira Luanda - Prof.Sabiá - Bay Area</a>"
             ],
-            "photo_reference": "CmRaAAAAI1NnfFc8PyIANuQLopeDjSGpJKEdOqofTnOQkBhMnsC7JhnPSHZkb4Zx31O0VXJU-fLRnfly2sjqbd7cfpTKzrG3xCjfTVWJ8BTcDwFhAZfhAoL49jo-Rq8ALjd2gOKlEhC4cWJfTvlVgMqYAa2M7YvFGhRh_aY2FAApS9dqJG-8N57iN9HeFw",
-            "width": 504
+            "photo_reference": "CmRaAAAAMtXf4BVrgjtIb_6JaAeTSbjnoryIkU89z6uFCcMu7xiYbnrRBF4WrQddnbZTlNGrhqjTl2T2MZo3SR1H-Kweck4PCZ_vqr4FEwnHdLfzzFwwo3CUWJEPLJEwTox2GQRCEhCMxhSx6auY6Q_dwXkkoPjpGhTe06w1SMvwCySEz7XBsXEkyoef9Q",
+            "width": 1920
           }
         ],
-        "place_id": "ChIJnzO2NieglVQRUtnzkhqo9Bk",
+        "place_id": "ChIJ8yVX35dZwokROMhyfuVLazo",
         "rating": 5,
-        "reference": "CmRRAAAAr1K6WTG2KETP2iogqRhHutKvEDA2lwoNP2UCZysSKp85VIGFKzZVmkK8k2CA8KCCcgZVGW_lKVgsf24BVn2kjDei4zF-W3P8xxAeGc-CPB_owKmbMs8jH6TzBQX_PGEPEhADoPTmz3z96ORmjgLpGvDiGhR0VjiuawohLaAnioxCNGzkUVrMnQ",
+        "reference": "CmRRAAAAVm98lg7ElDMaLBOX-ee53KN3-iznJkfGVRgaSnYPWCUNzMBjv6AnbwMSpPwEtyMTtl8tRmDJM25-ErgZ1NQxsrQ-j_x6u2ixqAEXe-znTlFdJ_ipEjJa6ysTY6Ayf358EhDPm-n2nB60XDtD8jAeSyM0GhSlMMGajAzYd66z0EM46O1PfylEbw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "9201 Southeast Foster Road, Portland"
+        "vicinity": "2029 Mount Diablo Boulevard, Walnut Creek"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.49366999999999,
-            "lng": -122.605878
+            "lat": 37.8703062,
+            "lng": -122.2921361
           },
           "viewport": {
             "northeast": {
-              "lat": 45.4951361302915,
-              "lng": -122.6045304697085
+              "lat": 37.8716237802915,
+              "lng": -122.2909407697085
             },
             "southwest": {
-              "lat": 45.4924381697085,
-              "lng": -122.6072284302915
+              "lat": 37.8689258197085,
+              "lng": -122.2936387302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6c3474819ad9300cb78807eee7dd3df5dff81514",
-        "name": "Capoeira Angola Palmares of Portland Oregon",
-        "permanently_closed": true,
-        "photos": [
-          {
-            "height": 719,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105789583967519080618/photos\">Capoeira Angola Palmares of Portland Oregon</a>"
-            ],
-            "photo_reference": "CmRaAAAAwEzjQYmJoY6VeMqsBUvpLJiX3Aa6ggvB9gUbmaAF7U_491FUJdbFQ7Np6ik0x0qDhpIqsiXFc63-2uezSKBocb_EzRTlqtTWPEGclaxtiIoIogjM4_2DbCfKUa4exWX7EhBeytHcUZKL0aE6GValAWyzGhSaXdyTfHJ7r8LISE8CYnocjB8X9Q",
-            "width": 719
-          }
-        ],
-        "place_id": "ChIJ8a4ONmmglVQRls_-wmSEtr0",
-        "reference": "CmRSAAAAv1r3X047iQ7J9hDzHzTbLtMFcleRbr0gTsb3GtFSj2lBg4GumXxHCIDGPfRbgIPgdadNW6nI1P_E50XMbfFmjrw2XRGlUs7sE663Qo-oedmh_q8j4u96mVFjy3BSJssgEhDdK6NgyIIt1KXdPjLY6yYKGhSKVCqYwJkNX1hgQqePIWLM1mLEqw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5516 Southeast Center Street, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.5262372,
-            "lng": -122.6170556
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.52767808029149,
-              "lng": -122.6157051197085
-            },
-            "southwest": {
-              "lat": 45.52498011970849,
-              "lng": -122.6184030802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d39d3f8cfcfb47d3a763e4746b7c587da22c2743",
-        "name": "Capoeira Besouro Oregon",
-        "place_id": "ChIJMxV6Z92glVQRGY8NjwDZKFg",
+        "id": "9a5bb45f2100a3fc2d3fb05f4261f6750a205097",
+        "name": "United Capoeira Association- Berkeley",
+        "place_id": "ChIJ4dCxo8F-hYARC7xZxocw_BQ",
         "rating": 5,
-        "reference": "CmRRAAAA35znvEpPDPIVV9K0CjoB8CxF7AWyhhV3vmt7xcCL1x6FxwobbjIfxXj5GWVl9WoocdBTkK5pylW2YBwB6tDPgMl7C1-D4slJj3lFhtBs9PQtuwXOGvKg5hlX2Eb4x_XeEhCrXZ-r0bnob_KAPEIUclsRGhT5Pr3aagGOfBkiFfHbNinNupqFTw",
+        "reference": "CmRRAAAA2ehH4BaAoKXd1sChlcIgk2dvyBM06WDp0BBwOSQXnl3QUB7MvuQrwErDRI0bDi8dc7BvOpNpNLFuHmgGYZy9LUegBiQeF3GC7WqsU8CyI9ZFwaSUHSLFd1MMrbkLnuupEhCS7gzZDh86dBpUZo-cilO3GhRn628fJf-UECK1h8R-w2e1_hQT_g",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4400 Northeast Glisan Street, Portland"
+        "vicinity": "1901 San Pablo Avenue, Berkeley"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.4930945,
-            "lng": -122.6402903
+            "lat": 37.8538179,
+            "lng": -122.278754
           },
           "viewport": {
             "northeast": {
-              "lat": 45.4945802302915,
-              "lng": -122.6389415197085
+              "lat": 37.85514533029149,
+              "lng": -122.2775542197085
             },
             "southwest": {
-              "lat": 45.4918822697085,
-              "lng": -122.6416394802915
+              "lat": 37.85244736970849,
+              "lng": -122.2802521802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1970b8c2a8f6405d00ba476153a05fd9d7f1ad1d",
-        "name": "Capoeira Regional LLC",
-        "place_id": "ChIJlRr2SoEKlVQRh_JWdu9UvWs",
-        "rating": 5,
-        "reference": "CmRRAAAApyH8I0-zc2z5Nfp09WMyuLV5H41d4fCoxkbB0k-6cK_W4OvPb6i45GyGDcg8RLHU7hsn-r07M1qTtZyr83MBfpeGnIcLifX12LJzPgBJHTyu1n4S-sYWnK5VvmsvDMaQEhCLjxQN923hMX3-gS9Bfw8WGhRQrnwXOIAT8JXuFGpP_2qllFFZrQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2512 Southeast Gladstone Street, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.4996362,
-            "lng": -122.6443979
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5009863302915,
-              "lng": -122.6431705697085
-            },
-            "southwest": {
-              "lat": 45.4982883697085,
-              "lng": -122.6458685302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a085cc5f51d1fc64a176d5cc205f986ff07cfe8b",
-        "name": "Capoeira Ijexá Portland",
+        "id": "df9843557612f84b95d67f95a24a95d90c43b026",
+        "name": "MVMNT Studio",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 375,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100219885680901653619/photos\">Capoeira Ijexá Portland</a>"
-            ],
-            "photo_reference": "CmRaAAAAtD-1bPtTzpgYQrDe7IRoEAl5Ba222_ZQf7DLCEY3fay2_PptpDn8fX_sK2smflGaGJv7cHkEPg8URtMXcNVcgi7fDVEt4wO1slZ2-uK4zbQndUYvkpRTeLBanbyqa_I-EhAtIMPC8fCJhnjya5_oHD8TGhSk5oJ0Rl9bFEy2XoSmdDk3yQUBAQ",
-            "width": 500
-          }
-        ],
-        "place_id": "ChIJdal54X4KlVQRGhwUp0U5V9k",
-        "rating": 5,
-        "reference": "CmRSAAAA2jwlgUAvfkF8k6UXxfVlJ0oHXk65hjttuOkgYuond4B0NhzURdkxWp9AeHRrcDgLf7qScvjb2jsV9r5-A-9hGD2OhULb9CuFdlTrN2j6mjMjhSLAbglILhvO-n49slneEhCqbP4WmNJRRZ1JAfq6vkSRGhS89V3F_kBtvdOoKtu80Lyx1SshTQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3228 Southeast 21st Avenue, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.4921876,
-            "lng": -122.6763929
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.49362543029149,
-              "lng": -122.6750390697085
-            },
-            "southwest": {
-              "lat": 45.4909274697085,
-              "lng": -122.6777370302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7cfa3b3d20d59dce48000b5e73831bb9640e959e",
-        "name": "Raízes do Brasil Capoeira Portland",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
             "height": 640,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115031096535672368050/photos\">Raízes do Brasil Capoeira Portland</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111617050279321011776/photos\">MVMNT Studio</a>"
             ],
-            "photo_reference": "CmRaAAAAOwOliWoyWw4umglxjDYHd0vGRhNywFmCpguGFdt5nfRFyVWppSnhG5rC0zD2CVVXskoeVKEMMzOw1C8xqMq8ysItZj-XpkhM9D2sH3F57qQEeu4IfmCgGpNDhW4DQ5UtEhD2NF-22_1w7pggUNyXQQW8GhRtB3CPvF_L1aH9RVC9peO3eu4afw",
+            "photo_reference": "CmRaAAAAdCz21_-aNBJC8mUTYc_9ZGy50p3ExFDsKd4FnIs3Mo1lsg4J6LfArjZx12N3CGpLyAd039vaJbDd8IYu1_Wt_GGLqHPQHe_M6aDwOl_XXuJQ-7Btkwbqauh4QPp3D8-KEhAcGcTmzUkRa7JQy5YN-WuAGhRkEHyvqmGHALBEthmLtlGUTUbl1Q",
             "width": 960
           }
         ],
-        "place_id": "ChIJV5bi8lsKlVQRx7rOqM1E0vk",
-        "rating": 4,
-        "reference": "CmRSAAAA_nXoqNVbtjm57_WZ1lwQCGgcjiUWXO6AXxUmtUX4vRpluZmRTET7iyu3Vqu1D6DGe_uF9Za-9e0Uf8jGQjbKMD8fBTV8ewHu5ScyjLtVEmmoqBepM0CaKYjBus5RI4U1EhBe1PCaYAfmFu4F1JGXy34lGhQDEoUYCRDVIqdG6zTujrh71Gql-A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "0110 Southwest Bancroft Street, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.5338455,
-            "lng": -122.6892567
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5351902802915,
-              "lng": -122.6880901697085
-            },
-            "southwest": {
-              "lat": 45.5324923197085,
-              "lng": -122.6907881302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e9be7773c45ba90282ce1dddb4c350a62d82eaa",
-        "name": "Capoeira Regional LLC",
-        "place_id": "ChIJaWaNzfwJlVQR577NEmoe8rA",
-        "reference": "CmRSAAAAbKsT0pfQs0B32dv7Ie30haNjykpC8EHxMZQ3U6Xlq_vuiJkxIDaTvvkM4pnBbfusy1yzwzjVmW3uG3m7NkMjR2W8W-MyL9wjFKZ8MVCZRAHMXI_l7OYjQDEq5jlgae_iEhBsHr0q-vVIA0AisnOiasUTGhSVrazeFEgDsZeBaMzcvFXThxEZvQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1500 Northwest 18th Avenue, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 45.58041,
-            "lng": -122.719025
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5817589802915,
-              "lng": -122.7176760197085
-            },
-            "southwest": {
-              "lat": 45.5790610197085,
-              "lng": -122.7203739802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e75cbb686f30b6d38c7b6a7d61918f00c701ae4f",
-        "name": "CTE Capoeiragem",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112698177599274947373/photos\">CTE Capoeiragem</a>"
-            ],
-            "photo_reference": "CmRaAAAAL0BAjIatrItw6JsiT_IHsGjf1efwHFcZfjfTI21Gsjqt6-O3Dj_N-QeiH5gsD8fGEcsy3TOxqtxwWWW0gmGzkLQdqRjpjfS2OEfFFTMMm9CnSX4pYLXSnUhrLLHjYCtIEhAD5T56s9NAwg19a74PKzbuGhSBJc6HPC99XbWtOfzf1GoKmZ2KLA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJ80P_WE6nlVQRGRm-LKaf3jw",
+        "place_id": "ChIJ1XMKJYh-hYARUBgAt43TQvo",
         "rating": 5,
-        "reference": "CmRRAAAALebsfGtv46bblaQkBOU2TGTl_L2FxQi0J-Ybd7vcuPt8b-keGiNeyTso4-cJeRLN_Jhaj0A0hR8SSus3wysPW1xSl4I8nN3evP_QLEeGfkvgSIS4YBSHKzN-t0ajMSFdEhB9BVWcaSvat2t8V5KyKoOZGhQ24_8KJbMOKKWWHDwBuPw7ckllZA",
+        "reference": "CmRSAAAABwY47GVUVyiNso-yXTsz9nnr2MG65VGy3ppEiVTJalbmTxl-FRCaOvu8lWwaictT71YheWDqGFSls9M0VvqMdxyqeIDEASoeXUu7YFvqwJvi8ytArSMUSKfuOfiVOltNEhAcTOb-3hhnva8H1lYRdkXzGhQCDRbhD-lJzc04n3IDti2VawlMbw",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4830 North Lombard Street, Portland"
+        "vicinity": "2973 Sacramento Street, Berkeley"
       }
     ],
     "status": "OK"
