@@ -1,16 +1,16 @@
 {
-  "city_name": "billings-montana",
-  "city_rank": 256,
-  "city_population": 109059,
+  "city_name": "lowell-massachusetts",
+  "city_rank": 257,
+  "city_population": 108861,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      45.7832856,
-      -108.5006904
+      42.6334247,
+      -71.31617179999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 27265,
+  "people_per_result": 15552,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,81 @@
       {
         "geometry": {
           "location": {
-            "lat": 45.766917,
-            "lng": -108.538633
+            "lat": 42.6329895,
+            "lng": -71.3026539
           },
           "viewport": {
             "northeast": {
-              "lat": 45.7682660802915,
-              "lng": -108.5371481197085
+              "lat": 42.6343924802915,
+              "lng": -71.30106716970849
             },
             "southwest": {
-              "lat": 45.7655681197085,
-              "lng": -108.5398460802915
+              "lat": 42.6316945197085,
+              "lng": -71.30376513029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "873b60cbf2fdca99ed31af8a4050dee6ac31ed5f",
+        "name": "Gary Card's Martial Arts Academy",
+        "photos": [
+          {
+            "height": 400,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115173244810772037675/photos\">Gary Card&#39;s Martial Arts Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAA6truLPN-cHef_2g4ngW-oiANz96DPGT6PT9RooNuvAqDMG-DNCUtZXBMlAnDR_ITpzKP6dnYZnuhRUhNeDDDNZW0YvyNOx2p93Zv3BFMZ2vuY48n4u2piQpyVzwocW8SEhC6qdtDXxBeJNlPjnGSS2q-GhTp44cCVQj1Gtx1z1uwfyWedZL2Lw",
+            "width": 462
+          }
+        ],
+        "place_id": "ChIJefqOVBCk44kROZd8lC-UIyQ",
+        "reference": "CmRRAAAAx9yR31X7JM0pFzECGImUSpTj_L4R98LDs6FHXOMc9XDCPwP4esx4TkDxGUuL_EjejfhHjK2bCQTeYOoJUruOupGTkjku5h1gSp5JEH1xx09l30A_kaeOlf_EzVg0E3EeEhCPwzPh_1_ngwHoYC0xceB_GhTqCryKjTIdora1pBlu8aXM0_bH-w",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "649 Lawrence Street, Lowell"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.6262503,
+            "lng": -71.3067658
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.6275456802915,
+              "lng": -71.3056825697085
+            },
+            "southwest": {
+              "lat": 42.62484771970851,
+              "lng": -71.3083805302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "100e95dcea47d69b7bc14e45b5b9a8bf1255e34c",
-        "name": "Yellowstone CrossFit",
+        "id": "4c2a82150be1d9ee5a9907f017d71e70d99f0fbd",
+        "name": "CrossFit Merrimack - Lowell, MA",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 510,
+            "height": 639,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107674120012109165155/photos\">Yellowstone CrossFit</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/104513674769512395782/photos\">CrossFit Merrimack - Lowell, MA</a>"
             ],
-            "photo_reference": "CmRaAAAALv5rFhEnS9xP6lBaxHxXernOjl1UJfnR3YjgLQsnivyX6bguS_u6yFEhg7LctjKYpx0vQiz_C7M8m_HlLACeFDbEPCyjQBQ1aisIk01nqFIjqDxnZFpobLIXp6pJzSeaEhDsFavDMO-VVtgqqko6scX6GhSrhbhS4xnQ9oOis2J6RqRuhyYNTw",
-            "width": 680
+            "photo_reference": "CmRaAAAA_Mws9cl4Fudp-X7CBQ1ZuRWQ07zl6o3YgkrXMntRjFWzKErD4pGO6EpSRBiSSjgodGlkmtUN5g8cmzelfquWhaOVRa7ueTZVqeGSxQi3F7-o927oKUWMz9MBRQlFlV_QEhCyjmdBLDHxL98ihGUnBhfGGhTr9uKlyipuY391qsl59IMWO1E_Gg",
+            "width": 960
           }
         ],
-        "place_id": "ChIJfVMY5qp8SFMRt_p2cTGWSzo",
-        "rating": 4.8,
-        "reference": "CmRRAAAA4aFzakgHS0Ceg3k5B-azpinL01Ar4kVKrJROpyX_A5h4qRi19rUWnOkpRBTzu2AW-3gpt5P16qtKKrscYRgrTbAUX9QAiA5L3CeArrvFdYctpRpsEuuqmv6_4ozzFwdLEhA1QFI-lSynkBuON4-SGlJIGhTrgK57VS7e2mmzhcPVKv2H3N20iw",
+        "place_id": "ChIJ1_PjkAuk44kRdF1FAwPgOyE",
+        "rating": 5,
+        "reference": "CmRRAAAA5SRv6zSTZW1iKS6gfTaBfgeDsCbv8Ao2N3VsAFCqGt1NzbVP-QYxDM6ygmwvPQUoyMd1lgrGiu5omaPlWQ_dY3cIJDSzsdqTc9SZYFMdlYwTclsqp57SP_08ZegFTOOMEhAuR816z0Tp9DFd4EAPU47QGhTZYOwlA7_nCcWKHOPWx9Jvby4DDg",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -59,41 +100,35 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "138 Florine Lane, Billings"
+        "vicinity": "1100 Gorham Street, Lowell"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.78323049999999,
-            "lng": -108.5525825
+            "lat": 42.6647206,
+            "lng": -71.3240661
           },
           "viewport": {
             "northeast": {
-              "lat": 45.7850091802915,
-              "lng": -108.5512350697085
+              "lat": 42.6660695802915,
+              "lng": -71.32271711970849
             },
             "southwest": {
-              "lat": 45.7823112197085,
-              "lng": -108.5539330302915
+              "lat": 42.6633716197085,
+              "lng": -71.3254150802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "45e250e6bd081a8e24f285dacd2ce33773dbc26c",
-        "name": "Cross Fit Billings",
-        "photos": [
-          {
-            "height": 1024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101936381824590534698/photos\">Scott Stonier</a>"
-            ],
-            "photo_reference": "CmRaAAAAwKetnPJyca54rUEnouh-Vi55uWgf3i4ijAMEp1oiDaLbLNYez5HmIbHReHzxbkeSkWC2BJxfwUroIHFPo2J0UzCF5OCa1xE2P1hK_Wr6ibjVDq3dMcedHqFEWCG19vCYEhDWDoayYb0QSCds02FeZZlwGhSwlivsDs4POeCeEFAMe-dC8tTvww",
-            "width": 768
-          }
-        ],
-        "place_id": "ChIJAQAAAPB8SFMRbTcNOM5VNJU",
+        "id": "b4318fc5d861bf9461c8409b9aef3c96db0abbdc",
+        "name": "CrossFit Dracut",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ1zDvhbKl44kRXf7AfbwQzyA",
         "rating": 5,
-        "reference": "CmRSAAAA-9KEhrcckewBfY6_AWTuEu9oyynfUx45IvmIIq8Fr1WKZgT11vCyobYGtK31tQdYHP693deYnNrFYUroFH4fK4b66tilmScGmmI2HFU71WPnCJmF0ZbH_ucTXXGty4WyEhBv8XXbzRxp7fD7M8_Vri7rGhQcs0ZEMAQ5P8r3X4Fej31ND7CGeg",
+        "reference": "CmRRAAAAkl-CvRFFgDJS1pcgODkgvFeW4BbdD6ARWU8bcW1v6n9-GB8sPxw3_iDa-ar7U3jAQCLINrGLOwYEP71mLD1Zj0Rt5BtZtyRrhwPM7K1jBdrzjVTfeayBzzzz3JmXEEUeEhAZG5jvzSNG-89zNnyT7xCBGhSCJcsXG7avCgtSlW-3jg6SBJZTEw",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -101,69 +136,157 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1428 Grand Avenue, Billings"
+        "vicinity": "100 Pleasant Street, Dracut"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.8269404,
-            "lng": -108.4727788
+            "lat": 42.390248,
+            "lng": -71.12150199999999
           },
           "viewport": {
             "northeast": {
-              "lat": 45.8285153302915,
-              "lng": -108.4714362697085
+              "lat": 42.3916872302915,
+              "lng": -71.12006701970849
             },
             "southwest": {
-              "lat": 45.8258173697085,
-              "lng": -108.4741342302915
+              "lat": 42.3889892697085,
+              "lng": -71.12276498029149
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "63f9c7ab1dc24b1e3907ac7bded398ba0c2ac7c1",
-        "name": "Rimview dance studio II",
+        "id": "5d3640aec54a62f0677665759a070940e54bf372",
+        "name": "Sinha Capoeira Cambridge",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1392,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111612155413556623211/photos\">Sinha Capoeira Cambridge</a>"
+            ],
+            "photo_reference": "CmRaAAAAUFMjP5ZNlZEDOzqi4Hf3fsOT1uOqe67kuMie9DFfpp8ee4CXiqoClCdPndUyUkr0qECl_M8A7bmHeFUl22x-oXDV7kdUDdUDox2Hh8Gfeh0v-_snypQmoSdyXaTs9KW9EhDueSn8Fva4pWURyhFpVGUnGhQCa6W4jGgkSuRyoTc8vV_8KxmdLQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ09kv3Bd344kRLdUWL_Ea8fc",
+        "reference": "CmRSAAAAueixCQ79tIMGfGDwNnZCQNDzz284rrRHCOtuuDVcxrJ05kJLVbTGjIQSpUyc7CQZN7zHL7zCI-sy9pgIKLvzRBQsDL0Xm712uknOXlGwJWgNWjbwsQ47W5g4yovnd3HoEhAtXo7U5_scKgsC-i_4BmbJGhT19BCcvruLvKW9PBjSleilSNeUhA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2000 Massachusetts Avenue, Cambridge"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3406189,
+            "lng": -71.1260898
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.3420269802915,
+              "lng": -71.12478006970849
+            },
+            "southwest": {
+              "lat": 42.3393290197085,
+              "lng": -71.1274780302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a7b12a6244391c45809edf01fc60bce08d68c135",
+        "name": "Sinha Capoeira",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
-        "place_id": "ChIJY23z9Hp6SFMRrhaOmK8TpL0",
-        "reference": "CmRSAAAAp1r5naU84s1TsmFY2zuYCn9Elapqgc_lQNCVUSDw09ESGTjw8_uHpvHg_NmdblA5ktriLmZ96ayhQO_cPM5jFp-NZ6RT2LDz6QGPz2M8Zjid3CJ2pWTYDZRzpC2TCfw5EhD5dG2koCYSgtn7XoOj0dz2GhTRjZX3OptllsfsYNbh_Nw9gKqvYQ",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117711978517138280389/photos\">Sinha Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAZBYoa2lFRdtGc6uRyB9A2nxC1CgbWeQK3zEJhM9e7RXxOugaEcu-DZG4XpWiSVx_yOXe_Xaoj8TDNiUullFRI6R_D0ODKEpjnzazOBsDzzJfUjqz5euUG9smlRBaMym3EhATmN0ZZs_D7h1M_sclSzXAGhTEVQmMhaU2VT9ReGnfEXXE8YVfIQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJpTz-VMV244kRpTCenr2dHSg",
+        "rating": 5,
+        "reference": "CmRRAAAARW5DSseI-i7fBAGluUyaPfaanoa4HXiuXHbYaHHeJmwVd5o2Uh8u9hkHQYkzvko5lQzhRibBO8CdrynMkJZLu4GBUF86teMtd0z9EQe2_IQyoUgGudLdCKZDaIxsikMLEhDGrAvMmxp5XbOjIgKE26yyGhRauEKSTtNOT9exsq1D0FmX3k463A",
         "scope": "GOOGLE",
         "types": [
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "520 Wicks Lane, Billings"
+        "vicinity": "1431 Beacon Street, Brookline"
       },
       {
         "geometry": {
           "location": {
-            "lat": 45.770027,
-            "lng": -108.60264
+            "lat": 42.3860637,
+            "lng": -71.017906
           },
           "viewport": {
             "northeast": {
-              "lat": 45.7711687302915,
-              "lng": -108.6012973197085
+              "lat": 42.3876465802915,
+              "lng": -71.01707066970849
             },
             "southwest": {
-              "lat": 45.7684707697085,
-              "lng": -108.6039952802915
+              "lat": 42.3849486197085,
+              "lng": -71.0197686302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2c14acdd8bb350e685ca0fb7fbcd342efe197e1a",
+        "name": "BENEFITS of CAPOEIRA KIDS Classes",
+        "place_id": "ChIJg87zWcxx44kR3i9mFIzLIko",
+        "reference": "CmRRAAAA53EbyPM3ouF3sXhwNV5mayWsMbj6WvJL8IdChsw3dRT0Fx3QeoOWIfsx-irCDoV9Lw-Mxdg5bktQTpG979kjWPxfuB-YKXYO5hIyEXRsSSnU-qa0dEN9kjqa2STVCIR2EhBIzyWEm7TDHXeswdf0FE2-GhRgbIY8n7hch6cy7S50ltWDjLhywg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "175 William F McClellan Highway, Boston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3175695,
+            "lng": -71.10561229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.3188725802915,
+              "lng": -71.10415256970849
+            },
+            "southwest": {
+              "lat": 42.3161746197085,
+              "lng": -71.1068505302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "793d5a467e3f978a1734d28446818a623b06d65c",
-        "name": "Rim View Dance Studio",
-        "place_id": "ChIJaU99_yR9SFMR_iBCPaUOl_4",
-        "reference": "CmRSAAAAFOqv9a9b6LisP6Dyq4ZzU43c1njydkEJ9OjcVPqbo40CF-m-WAfH1GbVtB-P2Rzddrk1c2H6UqRNOKVMhmwrSQZ8wxOO3qHN-OIzuIS01jhdRp1cG69pAHym3sLGHwYVEhCQBqajD4aA8TURfzjNpPMYGhRjqKR2JbBlC76WHkg7nEIbolAxgA",
+        "id": "ffc41db1d2f247855ff50157b529b73c7a270525",
+        "name": "Capoeira Gerais Boston",
+        "place_id": "ChIJrxXBGHh644kRrzvK7vx-6gU",
+        "rating": 5,
+        "reference": "CmRRAAAAxnrulv4OfDS4niC-zc2H-tRdn91qSLrXwq4yXt38qndfHABIhfYI2Jb4mbEu32yLL8Iw--4G5e2QVZmsw-0SI7dcbSBfTB6N4qTbte9IFZEnSoyTY-lAp71-HRwrHF6CEhD-5wd934sW7XBjoej0itQiGhSHbV63q0Z5nFnLzyw2zuq7kJKK9g",
         "scope": "GOOGLE",
         "types": [
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3419 Central Avenue, Billings"
+        "vicinity": "45 Danforth Street, Boston"
       }
     ],
     "status": "OK"
