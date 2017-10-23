@@ -1,16 +1,16 @@
 {
-  "city_name": "nampa-idaho",
-  "city_rank": 361,
-  "city_population": 86518,
+  "city_name": "bloomington-minnesota",
+  "city_rank": 362,
+  "city_population": 86319,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.5407172,
-      -116.5634624
+      44.840798,
+      -93.2982799
     ],
     "rankby": "distance"
   },
-  "people_per_result": 10815,
+  "people_per_result": 28773,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,315 +18,122 @@
       {
         "geometry": {
           "location": {
-            "lat": 43.555096,
-            "lng": -116.5739219
+            "lat": 44.885463,
+            "lng": -93.285648
           },
           "viewport": {
             "northeast": {
-              "lat": 43.55645663029149,
-              "lng": -116.5720561197085
+              "lat": 44.8869337802915,
+              "lng": -93.28474136970848
             },
             "southwest": {
-              "lat": 43.5537586697085,
-              "lng": -116.5747540802915
+              "lat": 44.8842358197085,
+              "lng": -93.28743933029149
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "1ed3d7d6b021f714283e91c4b413702d7d83ef94",
-        "name": "Crossfit 2C",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "34b2fc3db44933329ed6b1771eeb629ad4a2c5ec",
+        "name": "Minnesota Capoeira Academy",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 517,
+            "height": 713,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102894520644584554015/photos\">Crossfit 2C</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/117562375695623979223/photos\">Minnesota Capoeira Academy</a>"
             ],
-            "photo_reference": "CmRaAAAArJ78ntGL4lPGtRkYn7B3lsTeN9KFOOCNdxKnGpaILD4bGCXRCojomC8JHXwgDosrRD2ItwtAjokOROHEqxhj9tO9wRWjtNgDFyDfVoMVlN9XT3pFz1gXaPou64dwme-CEhAtIoPnPk6rdLpgVO51zUGkGhQpfg0aSlP7Wc9dbXFfSRYVq0IwlQ",
-            "width": 518
+            "photo_reference": "CmRaAAAAXtLZYvsKM9AZ1dMp2UTmp2I-rMyRlRHeb-BwnXvDoMhjdp5FuXSNH-yptO80ESDZUFm0kCYLaBZmAvoKl12h37n95TiY9gbRiZsw6cVU_e68um7QB0OTHP5rrVY291ZGEhBZ8mDMAGK-T0doJ1an367iGhQvsLrGHvp3ePjaDqjNG39h_na6UA",
+            "width": 1069
           }
         ],
-        "place_id": "ChIJkQLSDvxLrlQRAx6WKhcSpVY",
+        "place_id": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
+        "rating": 5,
+        "reference": "CmRSAAAA2zG7QTu77OL5LYYAlIn0KioRCY5dr8tcbGKB2dODNgD14Oa14rHXx7QKP1N1o7cC3yaa1P5QmTA3_SkZKdZaxlrO5ulxgQdeGLtB_3BiNqYmu_R1OZ2LxKsMPfMLQyk8EhARyRw5-7lW1eiF6vTyQQW-GhQZmlLKH0JZHMw7Y3ai-AbHLGyUCQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6463 Lyndale Avenue South, Richfield"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.9558916,
+            "lng": -93.29506699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.9570679802915,
+              "lng": -93.29371711970849
+            },
+            "southwest": {
+              "lat": 44.95437001970851,
+              "lng": -93.2964150802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d91d98688d83ed1d5f1f438072f31fb016d3a50f",
+        "name": "Afro-Brazilian Capoeira Association",
+        "place_id": "ChIJ_deEDM9TVEARvybmao31Lvg",
+        "rating": 5,
+        "reference": "CmRSAAAA1_kvzBV7PzErWELFKd5CGDjvq_M_5D2KHncsvkISsjP6Ue_-dB_IQb_T5Xhn4P8SLsMkUEgGLmaCUSvrN4GF5GIpR_lefvs6HHpD3bbaYYPBCi-eHz_MFKRJuHEIFy--EhAnHFCE2_QR2gmmEntGnTu9GhQWQHLkh2vyhD8xiaR4nwAZyCditw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1200 West 26th Street, Minneapolis"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.957209,
+            "lng": -93.169113
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.95868858029149,
+              "lng": -93.1677641197085
+            },
+            "southwest": {
+              "lat": 44.95599061970849,
+              "lng": -93.1704620802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e159e8833adfd8e68a3d1dddb4623fa1b337a412",
+        "name": "CapuraGinga Capoeira MN",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 479,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100688324126308350534/photos\">CapuraGinga Capoeira Minnesota</a>"
+            ],
+            "photo_reference": "CmRaAAAAgqcgayDv5JX5q8VKGZ6cxrJoE6utKpTRtm5T9nxKZR3x_mI71DS0oCa8s5er-5OG1OLnDJ-M_PxxQQb6Stl-PeSi8nGfkNnbURtDKVQ7dp_WHk_YBZMJYprNGsEjpM7VEhCfENlnqnnJ4lULCaUyxWTfGhTYessmoYgfKWdeRVld4Og3XOk12Q",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJeSpfUrHR94cRyKh-GcNUjr8",
         "rating": 4.6,
-        "reference": "CmRRAAAA7lLH4y-q7Al3hY2sLzxb9ogpdWIHUCJVqgi92yM2BxkkunpNbyUZW0JA4qyYfjWmesgrwd3B-5tRYnhhBdxAn3NgE3on1OfJRVbYU8GlZmIHZ8fBxH2s6Ek3Mnb6juDLEhApLzN2Uo0TgauXbiVcintkGhT--Nnq05vrLQEuF5HzvQql_yShEA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1331 12th Avenue Road, Nampa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.5850729,
-            "lng": -116.5335903
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.5864218802915,
-              "lng": -116.5322413197085
-            },
-            "southwest": {
-              "lat": 43.5837239197085,
-              "lng": -116.5349392802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9254599143fc1717e45e40eb7dfd9fafd6f668e9",
-        "name": "Nampa School of Karate",
-        "photos": [
-          {
-            "height": 2340,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108895219899536331179/photos\">Andrew Mecham</a>"
-            ],
-            "photo_reference": "CmRaAAAANPE1Sa33Ca4FGUL_h3SaEUmxeaob5tMg-62u2ln9I38TvTMG_uVj4dN6aZ_n9p2IFHZ0AsGLKz4nr_L7NTQYsiUs--FIGsdnQgn6RUynK3HsiV7NajQjW2I97z3D2BDIEhBPZyZAZNtnqyPzFZM4tLYGGhQfKwAyDR3I7vhCDs3y1SaT99we6A",
-            "width": 4160
-          }
-        ],
-        "place_id": "ChIJG8lrJPZLrlQRN3P13rneiBc",
-        "reference": "CmRRAAAACmC3s4YK3qWkXWBAsczOvavv3cnRXbrC5IC4wshXCGUhmOp6j7l86S4AJYYJoOF3o2aCLW58RK1zD3JfA01CTxYIl-w4nFYswtl3kaf5_3_80eZtxhMFH-pBmsIlSJl5EhDuB0_UjbkqCqsbHrcFxU8gGhTT5Xp0GBsg0-fgTwzoD1vfSdt6-A",
+        "reference": "CmRSAAAAIS2hYOGODPsvw_HHXUJ4y1lrCDOj5P3nNlOIPuampIF-zxtywraQ3_6DiC2PUfgDOjNBdRXx5HAz7hL88KrlKT8lej3dskli7bh2T5lZVZwaQBHclhqW9ot9pJVipB27EhDo9rbpDnESmM0MZPpXxoAoGhSXK2KLKEk-fkqDrKk95f0rM1B4dA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "201 North Kings Road, Nampa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.595102,
-            "lng": -116.5274159
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.5964516302915,
-              "lng": -116.5260109697085
-            },
-            "southwest": {
-              "lat": 43.5937536697085,
-              "lng": -116.5287089302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0fbb9c39e1b9281533120f564a8ada94fcd2b10f",
-        "name": "Snake River CrossFit",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 687,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116188461894659234178/photos\">Snake River CrossFit</a>"
-            ],
-            "photo_reference": "CmRaAAAAXqVaX6BPVPWCELXUlFg-2ewOrxmCq3_EHB82_95OZMx8bDd4Uqh8CDCoCmMWJJGcYcAbGk5Smu3-C-AhmTjD1uWr_vhwXX-7DbYRiirOiSFcWvB04u-5JKdiuPhxbG90EhAHgRYOSmE8LKjQDpcxNwXkGhSwr-qicec5AEf5V9wNye4aWE12HA",
-            "width": 687
-          }
-        ],
-        "place_id": "ChIJ43M9_mpMrlQRZ-4F4dBvspg",
-        "rating": 5,
-        "reference": "CmRSAAAARbwPjfu_RAxoDNRMftLTPgt5tzGhc2iwnX-8nDtG4EMm0UrzRogDz1QQDRha1o200BXP-sYhMVqZA71iZwsixTB0dDMFFjtemEWePU7nKv_sE4wYNrQSqtucVbbs3oC3EhC5IxrzNErOUHkwpOgRKlMGGhQsHt7Si66uLMt8jFh2dYPh_TfQMw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1123 North 36th Street, Nampa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.60934,
-            "lng": -116.605945
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.61017083029149,
-              "lng": -116.6052488697085
-            },
-            "southwest": {
-              "lat": 43.6074728697085,
-              "lng": -116.6079468302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "23261ee9caec9f8c58d2a53f3e389af8b3616776",
-        "name": "CHAMPIONS ATA MARTIAL ARTS",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1005,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115321205264441867829/photos\">CHAMPIONS ATA MARTIAL ARTS</a>"
-            ],
-            "photo_reference": "CmRaAAAAGCe4p80TbA-euqId6XKtU8R-_iHUkqknFY-V6wdF2N6D5i6Z5rCF03wizQJui2jRKfYDK5kDTmM6QK-cUm-HWCJaTjHpfGPmImSISEs87K2Ij_M0vqYU67OLsM4DEo85EhBV_Jgqho2mCQljZx3hIzZDGhRfaIc7LSZHlrn4qm2eCf3uHmPwRg",
-            "width": 1440
-          }
-        ],
-        "place_id": "ChIJZSvgpqVMrlQR3YxUiiA4CT0",
-        "rating": 4.9,
-        "reference": "CmRRAAAADLBHq7t4BTp6F-1wz27PoEoFENW4pJNW5sGIEkJNgtehP9RTpIygcW6zCaRObXFLB2qHbWWjpg52NcF3v6YpPgIJTbv9Lql1BvGv_hdPR3vtmvVMunYP5okpach0dutlEhAZmw5gP2Vrfffk3GqYc7KpGhTInk1baRJl5ZGo6TFdmpG-QksNfQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2108 Caldwell Boulevard #117, Nampa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.6142044,
-            "lng": -116.6101883
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.61525298029149,
-              "lng": -116.6092303697085
-            },
-            "southwest": {
-              "lat": 43.61255501970849,
-              "lng": -116.6119283302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "03fcd0b5877cb14b9266d7d5e1453c7a1b763b2a",
-        "name": "Cross Fit 208",
-        "place_id": "ChIJ91-ye65MrlQRi9CQ71FlRvU",
-        "rating": 5,
-        "reference": "CmRSAAAA9-Qq9cyTsRkqDgnN4rCJ14oSlbJNVE1hnV1qq8pxTC5ZMrgIcqrKJf_j99sWs6reKqOm4uNpgw4AoZIUNoCr0bFH9jUt21MmUWvbVC0MDgxr6a37c-D6FCNHa2CebnHwEhDk3uB9qqjtoN3ylpwjzkWwGhRPP4Ttu-0zN3u2Z61QA_RfAy3BlQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2346 West Hemingway Boulevard, Nampa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.59933820000001,
-            "lng": -116.3888989
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.6004605802915,
-              "lng": -116.3875381197085
-            },
-            "southwest": {
-              "lat": 43.5977626197085,
-              "lng": -116.3902360802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "306f365d551a52017cc01fd6f080f7497e2667ea",
-        "name": "Motions Dance Studio",
-        "place_id": "ChIJRQlYVuBTrlQR0Wti8VcV0KE",
-        "reference": "CmRSAAAAeyqE7GpTtmR1-x6rVHdoNeV_fZfNN4G6iJcFepy8HaBVDRAG4yLH2KUJMfWrWXFzJay4lE9A-bpb3LA9iDDPxxmbS3RrgBPtUiAuk31SMZVPx6RLGBWQiQ8bxRvUW8ZfEhC1ZHLX_cl5QFrxwYIo3IA5GhQKUgHnJr9_1PtsRh_6ZVBwxY9-kA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "390 East Corporate Drive, Meridian"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.61081899999999,
-            "lng": -116.3898522
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.61227298029149,
-              "lng": -116.3884997197085
-            },
-            "southwest": {
-              "lat": 43.60957501970849,
-              "lng": -116.3911976802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "07a133cb6daa70cecfa5eff491d4a7c54b93b318",
-        "name": "Motions Dance Studio",
-        "place_id": "ChIJGyNzDe5TrlQRarZgmDEI8os",
-        "reference": "CmRSAAAAHT2LW44dfh6RV5r0C_QwX4RVmsdzux5_ZLDRtwFpGJu7JQPwxqKLGw9ev4jUHyaomfZaG7tOn15bKa1nCDxoEDD0L35AB0uQOA07vuBe21c-5qufThY5TD_jycrrG_6yEhDfLW_LiGeot7rbnXw7DoPcGhRQfRCmkMnF3IDBF7VWVI0zfQNI3w",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "201 East Idaho Avenue, Meridian"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.6015582,
-            "lng": -116.3778949
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.6029035802915,
-              "lng": -116.3762920697085
-            },
-            "southwest": {
-              "lat": 43.6002056197085,
-              "lng": -116.3789900302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "fc9f3a30b7df11b67fcae8d07f51964edd6a5b91",
-        "name": "Cross Fit Meridian",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104745951379776485617/photos\">John Allen</a>"
-            ],
-            "photo_reference": "CmRZAAAAb2yzp5klama_26tkT9mvYd1pE-C5WO80rOq3IWo5h9QtGsmxqrmQyyyvSmNjvNB3ou_9h6AUggKaOxUc2A2lJATx0FbxHhBh8UM_FgLFkIWzKxYeCIcNPhS917LFZhTLEhBmepAdvT9_o_ZA4YRISVYMGhSzvT3CAXr4Hs3r0KRxxGu6fUSGgQ",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJoZs3I_tTrlQRbiTsH41b6XI",
-        "rating": 4.7,
-        "reference": "CmRRAAAAhcE20QQBNval17gNfgH0ieKVe0nYcNEGRav_OP5Lm6y3pDqX0RIN45gW5Liv2dyRZk1FKILopcHFQaRzpdxjlwsOPnZeu2VMwXt_ThiuG8bG7HgaKRtXdfAD2TF44mRLEhCgSFOGxFkC-yxzD4sYHoo8GhScNFbMj8B8y-cFxv6cyYI8qjgguw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "345 South Adkins Way, Meridian"
+        "vicinity": "1632 Charles Avenue, Saint Paul"
       }
     ],
     "status": "OK"
