@@ -1,16 +1,16 @@
 {
-  "city_name": "bloomington-indiana",
-  "city_rank": 392,
-  "city_population": 82575,
+  "city_name": "sioux-city-iowa",
+  "city_rank": 393,
+  "city_population": 82459,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.165325,
-      -86.52638569999999
+      42.4999942,
+      -96.40030689999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 82575,
+  "people_per_result": 41230,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,32 +18,80 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.1615338,
-            "lng": -86.5216805
+            "lat": 42.4950693,
+            "lng": -96.4622862
           },
           "viewport": {
             "northeast": {
-              "lat": 39.16266273029149,
-              "lng": -86.52033466970849
+              "lat": 42.4964345302915,
+              "lng": -96.46092781970849
             },
             "southwest": {
-              "lat": 39.1599647697085,
-              "lng": -86.52303263029151
+              "lat": 42.4937365697085,
+              "lng": -96.4636257802915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cdd24f0adad8a9fb29847c91649368cdb678464e",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgRVF7ksNLbo1s",
-        "reference": "CmRRAAAAWDHKUPbMMrJnxDx_fHyr6DaLKiXi6UHk2dhPKhx4nGGnzEp3nrAYGpKuTHAheN14YGEzEnliLKTv7IpkHIesAd_AamhF5H_zw_N1ajEf0TDCepor1EwAYL1GdzjyMCpLEhBywP-ppSV9rsRz4pmkRc9UGhR1F4o7H4WqwTnG50o1CcAfIBCYiQ",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e8479750a48927be1bfb892623862de191001674",
+        "name": "CrossFit Beo",
+        "place_id": "ChIJyRBSlVoGjocRA3KDtU-dRC4",
+        "rating": 5,
+        "reference": "CmRRAAAA4RCQXax9EdjfQG-SzTxp5LRH2QJ_k3PoaJxLH3lkANYQT2IkKsvZ-T6qhHc98ROnUs4zPREP68Jv-vy96ewVETq6s4UyAtbtsSRFd_ZL0FPTq2p_tjThOCILewC125u1EhCmFyZJgMSgo9V4nyj_dUz5GhQsUYsjLD62FfMtaXHGo3tI0b2nDA",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "909 East 2nd Street, Bloomington"
+        "vicinity": "4101 War Eagle Drive, Sioux City"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.535151,
+            "lng": -96.498283
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.53650358029149,
+              "lng": -96.4965922197085
+            },
+            "southwest": {
+              "lat": 42.5338056197085,
+              "lng": -96.49929018029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d939aefbbd5a3463b3a175cb0597c74fc27ea41e",
+        "name": "Alter Locus CrossFit & Extreme Fitness",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112999099824658106361/photos\">Alter Locus CrossFit &amp; Extreme Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAbbL-oJFxDswpnbADr_02pXjeoVvTnT5TocCdjbSoM0mpYdaHootCXqVBIhaJiVcrg3W3upF99rjSNhTdEdMkheuLlEfJglQvj13kERYMhaRpSToTqch-qHL0oSvhI2fcEhAuXIubdtxUwUuCIeaVGpoJGhQhDmJCQ5ibt6q58NRe9kV5eKDOHg",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJE-4O2E0PjocRAHJY4eYSaCA",
+        "rating": 5,
+        "reference": "CmRRAAAAgqGQJI2eNqDKL8BGNLffOV5J8wB5rL26sgXNs4JMqNsFaYT1_AWGrugrL4gZjl5HsNoVray4BC8L0A0Ui195i7ygZBqGqQMQbVB5TtBs2IZ81se_hMxprVRKyjhfz_D1EhCbmCC4MDxYSSZCphFnU9arGhTf6juCekAtZ5NnP5Pb1HRGLgHwbA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "707 North Derby Lane, North Sioux City"
       }
     ],
     "status": "OK"
