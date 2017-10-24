@@ -1,454 +1,233 @@
 {
-  "city_name": "menifee-california",
-  "city_rank": 384,
-  "city_population": 83447,
+  "city_name": "champaign-illinois",
+  "city_rank": 385,
+  "city_population": 83424,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.6971468,
-      -117.185294
+      40.1164204,
+      -88.2433829
     ],
     "rankby": "distance"
   },
-  "people_per_result": 8345,
-  "possible_duplicates": {},
+  "people_per_result": 13904,
+  "possible_duplicates": {
+    "ChIJ3cC2c8uMb0ARQLfjEuXTsbA": [
+      {
+        "place1": "McVicker's Martial Arts 1914 Round Barn Road, Champaign",
+        "place2": "McVicker Martial Arts 1808 Round Barn Road, Champaign",
+        "score": 0.8974358974358975
+      }
+    ],
+    "ChIJP9Gc3PTQDIgRAv94mDoG-sQ": [
+      {
+        "place1": "McVicker Martial Arts 1808 Round Barn Road, Champaign",
+        "place2": "McVicker's Martial Arts 1914 Round Barn Road, Champaign",
+        "score": 0.8974358974358975
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 33.688468,
-            "lng": -117.177193
+            "lat": 40.11653,
+            "lng": -88.23184300000001
           },
           "viewport": {
             "northeast": {
-              "lat": 33.6898180802915,
-              "lng": -117.1755575697085
+              "lat": 40.1177930302915,
+              "lng": -88.2304934197085
             },
             "southwest": {
-              "lat": 33.6871201197085,
-              "lng": -117.1782555302915
+              "lat": 40.1150950697085,
+              "lng": -88.23319138029152
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "be60fd4cc03cb3ca7d78ed5310861091f5077f49",
-        "name": "CrossFit 951",
+        "id": "4d791083f43a349f180158d2223be0c10208e66a",
+        "name": "University Ave CrossFit",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
+        "photos": [
+          {
+            "height": 2677,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAzpsWj8y9ZWi1njrIJ8mZwlBVugFRA_HX4PsvA8RbvnLtJS2ckPivElyVvyVQU_uVCTq0didHVVCqybIbAKUm5Tll4byYAZy_zo6ZebAQ_Pi7nJhDzoQh3YcuZJEmSxoxEhCjLzrlznNHRqzoIl1GP_G3GhR2C2adbUVj3FCFP4Ip3PAAsHjxBw",
+            "width": 2009
+          }
+        ],
+        "place_id": "ChIJNfj5_EPXDIgRsdAbPz20J6I",
+        "rating": 5,
+        "reference": "CmRSAAAAM36B9Hxn8nz051UymW2C_kcyV25MT7jg7NNeYmMZ3a00rOBRbcM-Qr_e3E7pl7t0QlWdocViepCqQKe3FuwcgWo-67TnGRk3ccpxjTQVEe6TqYNEQdaKCy4imYYSKr7CEhBMs64DcHWYOvmPzPyoyp_eGhRQ0BetLfZ6tQKXHtiZpaXwY8cl9w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "508 East University Avenue #101, Champaign"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.11245,
+            "lng": -88.208343
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.1138126802915,
+              "lng": -88.2069946697085
+            },
+            "southwest": {
+              "lat": 40.1111147197085,
+              "lng": -88.2096926302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2205694c43c90fb322cf0674e230004e517272c3",
+        "name": "Capoeira Angola Center of Mestre João Grande-Illinois",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1121,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAWSSsVcvTDM6LCoIC3q8TM8Pdc_h1MvUugqqsoL6YycyNews6uHT3u3aIOHNpzCGEyBSbuaeP_vff1BcqrtxDjvTuwKO3gTOddMjbYTozRNzGp2oaO7uPUS1w2aeYbuPGEhDhloFiY5G-lX4FR8HThKbMGhTiiE6GofBT86tQh5DdnIvH-CDJ7g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
+        "reference": "CmRSAAAAkBYFjOCieRFzkS8pjdc0WEhUP6FSm39FTVSZxQgkSwVwkLYSvgGZlSI4z2gF2jGtJzvJU4PrnNhX5GprIl0FG9OpcWY_5ezryKXpujXF5-mZakKYov0GvGJ6GcFW9f3OEhD4RC86zjbxEgv0R_fe9hW0GhQ1UqgViFzq-NNWu6FVRsPsKKheJQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "122 West Main Street, Urbana"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.1118557,
+            "lng": -88.27969399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.1127997802915,
+              "lng": -88.27834226970847
+            },
+            "southwest": {
+              "lat": 40.1101018197085,
+              "lng": -88.2810402302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7688717b5351c0fd0b351827d435feb056693fb7",
+        "name": "McVicker's Martial Arts",
+        "place_id": "ChIJ3cC2c8uMb0ARQLfjEuXTsbA",
+        "rating": 5,
+        "reference": "CmRSAAAAZr6tl2CAzoCO4cnLSaFZUV2wI4mMDOw0U9Xxpn647Z7W7PvVYwq7tiTjKHPTkHm5K_KUSBuyWnOb2vWPkDXS1QS_kqDTfIFHVI6XY_vxqBccisIm9czzhgOZVVVt-i_MEhDqIPqLTJJK-FfPOJB8bCdsGhQIvlTQ4XL95XcfB436ysjOtYt6Qw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1914 Round Barn Road, Champaign"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.111205,
+            "lng": -88.2821094
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.1125090802915,
+              "lng": -88.2807635697085
+            },
+            "southwest": {
+              "lat": 40.1098111197085,
+              "lng": -88.2834615302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "de7af8ac11026dd0dcb08b1203a1f43aa4819d45",
+        "name": "McVicker Martial Arts",
         "photos": [
           {
             "height": 1536,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112813326082231570505/photos\">CrossFit 951</a>"
+              "Photos are copyrighted by their owners"
             ],
-            "photo_reference": "CmRaAAAAsiurMRS_-1_E6mstfDTkf1F845cVGVFh4TIH25S6KcAG6VKcO8ud_k7wBbdjYoo38SfGnn_aCTAFLLM-CbQnJBBaHjSLu6HwQyGgZG2cGqFlkwgN2nk-A0iBFu5AdIv2EhCGGfQN8hRrG7SWHkCXnf0WGhSCqsn33x6-Tep_K0-WJ9irOPfOjQ",
+            "photo_reference": "CmRaAAAAT4IQ_Mk2BwaIA2WVK_xjcqfVwpbvl41dprzUCKVl1s6maZqTUEvk3Yyf69xhBRhVjrBFoF8a9YGm2swmZZiZblugHg8C7yLLXs2C8jcr2HGoYojAmOmx7qUnxnGmHC_FEhAnljF_iXyBzoiKB97W1Wc-GhRl9Mm7qC2L_3KNrXK3-4uFYrPDxw",
             "width": 2048
           }
         ],
-        "place_id": "ChIJ06SBK4ud3IARhy4nHRMYte0",
+        "place_id": "ChIJP9Gc3PTQDIgRAv94mDoG-sQ",
         "rating": 5,
-        "reference": "CmRSAAAAuVK9sqHXp-R9NWR40n_FNyuW97M8ErFDYtZMXYRyM2JYIi7fayF_THQjeNPTCQZxJDRunj6gFgfDVIWeV_e9fdUaDw_iDbDgRe-Qmbs5zUPNugUl5KO7uc59sfcN26MMEhCOCjMgdzeW0wA-Bn9hutLQGhRt67wKxCfJ2UHBXTPcTsoElwqVzw",
+        "reference": "CmRSAAAASa1P4XR6GgHnYDnvsVQcObW16nh03U7eFBfx9BL5i6U-25mRQehAk8VB2CQSbSo30jjeCJcf0jSi2TJ3n-vfqVlXLtZSscELLpwXk5P0MQGKvpqhKzXxCB-BcZfxI2RsEhAr0umfIoAj-wrJY7emiXXxGhSO6YJBvvgvyIcPDVeGTz7z3LMRVQ",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "29723 New Hub Drive #G, Menifee"
+        "vicinity": "1808 Round Barn Road, Champaign"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.61461299999999,
-            "lng": -117.259316
+            "lat": 40.1095541,
+            "lng": -88.28434709999999
           },
           "viewport": {
             "northeast": {
-              "lat": 33.6155380302915,
-              "lng": -117.2584018197085
+              "lat": 40.1110259302915,
+              "lng": -88.28299536970847
             },
             "southwest": {
-              "lat": 33.6128400697085,
-              "lng": -117.2610997802915
+              "lat": 40.1083279697085,
+              "lng": -88.2856933302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "518bfaf070bbd992b323ca697972bff36b9a521b",
-        "name": "Default CrossFit",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1240,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112335916274681218963/photos\">Default CrossFit</a>"
-            ],
-            "photo_reference": "CmRaAAAAFcaa5wKlMDRfwYr_0EjkdPXrY869dwicZgxUYMdr5MiPJijpnbTM148hq2lq1RNfPbJQJKs6PUEiHL10J_6z8YElY0daM0UUckrj1734SminodERL4Q14YcbBi-En56eEhAkNN2FMl0A7mteRaPWYq2-GhSardIf03DwVheOk_k4ktj6ptalaA",
-            "width": 1786
-          }
-        ],
-        "place_id": "ChIJVcJb_K6c3IARvfg6C5baxf8",
-        "rating": 5,
-        "reference": "CmRSAAAA3Hh9zgULCRYlls8aod6bxwM6SMcLFSBy3Eq0I3wQ3FVS9cOqVe92ly_vWoALzug4kLEAi0lG5IxUoE5euETFduRmwu0CfznBfvjvDppjM4jYNXQDMureG_N2IETQ27J_EhA7BCPFk0nlKvl2RSlo8u-4GhSA1XNY8bxUYk5eAs49Cijgg79cGg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "34862 Monte Vista Drive Suite 111, Wildomar"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.594054,
-            "lng": -117.242367
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.5954029802915,
-              "lng": -117.2410180197085
-            },
-            "southwest": {
-              "lat": 33.5927050197085,
-              "lng": -117.2437159802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "24fa4cceac68ccc580ab5ccec566617f3adc89b7",
-        "name": "West Coast Krav Maga",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104631588716770075384/photos\">Melissa Sampson</a>"
-            ],
-            "photo_reference": "CmRaAAAAIwUEJAIk-DkdBqg8nnLWcMrapetv-0JA-R4qNuDNGlmH69w4CPkSzv3MsWFBYVZVv4XYKsniVkVvHXTDhGWhNdz4rcdx7ui0XYXSxmgItyOExrL-Ik1KfsDdFN_iqN3OEhBSJkb5HQ_DpKn-BHXQ4yT5GhSr6o3wddMQzJvZ-AUUq980zO7k3w",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJMb9rFD-D3IARkWkzvcj4rPU",
-        "rating": 5,
-        "reference": "CmRSAAAAq1LRV-Y1qNG8zvxZ0tgDoLMnfB11Tg_KPapw1dQSGSCnV6OAulCIHFPL3UZN3HePFSBGrrWep4qRN8lQJwyaOCZai7iZO4Omqq9HQf9UiqctV2SQORQ4cLtQWES2C2xeEhBRr2xdPzOYpxHVPUEYN1OgGhRz3jZUD0Pudp5MPt9geyzpYrhWPw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "23861 Clinton Keith Road, Wildomar"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.6847201,
-            "lng": -117.3283176
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.6861621802915,
-              "lng": -117.3273207697085
-            },
-            "southwest": {
-              "lat": 33.6834642197085,
-              "lng": -117.3300187302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "98f61783a6cd51dbde0aeba054138913a647b388",
-        "name": "CrossFit Uncensored",
-        "place_id": "ChIJPfoFSZCZ3IARzeiHLNxHaPw",
-        "rating": 3.9,
-        "reference": "CmRSAAAA2_bIR3K7iBOrg8R0rer_cDA6yu5d0TOf7jVzyuf7C4Z8FPtzYaP4f0oQFifo4r24QY22KmkhfMK0bIEZQ09XA82XWIICeFXsv03hVuFU6uLsPL3zD4NJ9sx-LQ8B-9lIEhDNojtn8B4XTsyj9z8bKPsMGhRPdL2C1qmxDmwpc26pEjlDAb81bw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "29910 O Hana Circle, Lake Elsinore"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.559739,
-            "lng": -117.137848
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.5614384302915,
-              "lng": -117.1361553197085
-            },
-            "southwest": {
-              "lat": 33.5587404697085,
-              "lng": -117.1388532802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "315e69d428a3edad3e873c8a5d890d23f4219702",
-        "name": "West Coast Krav Maga",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116593295112945075442/photos\">West Coast Krav Maga</a>"
-            ],
-            "photo_reference": "CmRaAAAABmMrvGzxhZEEwYp3vV8ix9Yp649LuM7u9mbMR3Dk9bSB7cmfTjiqGPuZRgHDwruRH5gs4jYdfpk3rELbHyahqN_ogSpLBXnhc4Wvdr7XNt6pr7ISv1fMXKxPqht2TAWBEhCDeowYhlMyjtID8TtoMmQaGhQb0PMrCRQnQXNV4EVekveuLgYj4Q",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJbcFtjtB924ARRVEPomo2Gw0",
-        "rating": 5,
-        "reference": "CmRRAAAAKJZkW7ds2G5zlIq0RYDi2B_vx4kCCgri0MaHyrC0natAT-qvun5rE-l16x_3aI6uZRODUF1Huh4jlwoKi-aJWF9xhgtPtnYt8KsiNR4E0X5v5GaPg1lNn8CxYhEP2ZjJEhDQHVOH_JFILxFC92vuqO1WGhSzcZ09v1jDVpM062EBO0wnDUmLlQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "29975 Technology Drive, Murrieta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.5500743,
-            "lng": -117.139171
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.5516337802915,
-              "lng": -117.13833745
-            },
-            "southwest": {
-              "lat": 33.5489358197085,
-              "lng": -117.14167165
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1e8ea605960beddb557295be302624951f9dbae4",
-        "name": "Z-Ultimate Self Defense Studios",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 500,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108460193472266166988/photos\">Z-Ultimate Self Defense Studios</a>"
-            ],
-            "photo_reference": "CmRaAAAAkdeHTFaV_DK2kN6REUJa0DzhFStPtpsfM0s5zf0dzAsKdzbDP-umlrPLwow_YQ89FVHEIZm2VALpI-KsW2_EcALhMvaWyIzfeX4R7wOJ7DHd8aCqTJc4x1EtouYapllzEhDzJYqSP007Agki862TU1dUGhTxxaJbR9Vwqj4cyDoWjB-ifsx_wA",
-            "width": 500
-          }
-        ],
-        "place_id": "ChIJKco5nnd-24ARp5PBuiRCmu4",
-        "rating": 5,
-        "reference": "CmRSAAAAVtsltnLVVAgXGgzblaoL1W8Vl6JJ_V2QR0wYdzthH5G4bCoYaMKL3OphKhqE706LKQkQOBmqtVIfZ066JilgPBlnihfJpPnGhNAUibfsdnDPW83VnvKXUmUsCHOhMH2rEhBQQQOmq4hCCgP-1yDuA5QAGhR_UVC1X1C6ySuMxAxy-HnB0_PZ4w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "store",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "39252 Winchester Road #114, Murrieta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.52036919999999,
-            "lng": -117.1603348
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.52171818029149,
-              "lng": -117.1589858197085
-            },
-            "southwest": {
-              "lat": 33.51902021970849,
-              "lng": -117.1616837802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a3ab09434035c67f2a571cb4811dc5a48731289d",
-        "name": "Z-Ultimate Self Defense Studios",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112789367870558339311/photos\">Z-Ultimate Self Defense Studios</a>"
-            ],
-            "photo_reference": "CmRaAAAAfX0kxkSVg2IQzv-3w2nyaaZixghGonCmixnsDnYIcwXzVFggZKmMqObo5O4FtahDZVcv8SOZ1f9zJtmwF_z0atbGiECSUMYAREJhQ3AhsYCI0Skb5KqJ_RXv1GPzNKa4EhDVQOzZZaHb8x2Kr7Msbm8MGhQBglhwHmAJ-vha81IhnufO6CGG1g",
-            "width": 1362
-          }
-        ],
-        "place_id": "ChIJnXzgiTt-24ARd0nOJ8oMevQ",
-        "reference": "CmRSAAAAbP9COyPZtM9geYob-4a7O3Be90Tv-wxN-uAtvyMJgDQEkzh1B69E0FGDOFPOoEZRroMvnhUjRLKoiWTP9diPhO1cpom6VUIESCrS85CXs03_5nHqtYvP0tIgzP4gefhHEhBZVOZ4E_EX2pQJphqGscejGhT_ebrziazGumSy5APP7uxVZ6AEHA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "store",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "26451 Ynez Road e, Temecula"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.3751525,
-            "lng": -117.252086
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.3765025802915,
-              "lng": -117.2504271697085
-            },
-            "southwest": {
-              "lat": 33.3738046197085,
-              "lng": -117.2531251302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6e506e668b955460179543912ac2ec8943a5045f",
-        "name": "Z-Ultimate Self Defense Studios",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 500,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109451512619810925041/photos\">Z-Ultimate Self Defense Studios</a>"
-            ],
-            "photo_reference": "CmRaAAAAAhmvA0CzgyERVf8KA18w4GV73oprEVEbF8HudN-fACN4ZT2zEQdjfsUaS-Ns-BUiZIQn3eTMMVC67Cl2RjOmdsU1_5SlcnYrwNFFai0-bEULVFNFqvHAXTCCGIKuJ2LUEhBPRd0jxbydbFXBmnzILXARGhQodSeHIaLMTynVm5NMzxv7a5Bf9w",
-            "width": 500
-          }
-        ],
-        "place_id": "ChIJKf4vibt-3IARygQhrSLoQNw",
-        "rating": 3,
-        "reference": "CmRSAAAA35BQNwQq9IWil5FRC0uowSHLiSP4-leinwC3zfjFqM8TlcZ9bSRD_yS7654iKjcxB-jIHQbig5ZMfMQESzqR-YaLh1bWKZHONd2ReF0RHOla88ZvkLGXQmQ52G-dnpz7EhBLM63EImQoi0CU2J0mZGcVGhSNz3IXQY9psj3NtXBLUkK7vDvlOg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "833 South Main Avenue E, Fallbrook"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.88791509999999,
-            "lng": -117.5233427
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.8892640802915,
-              "lng": -117.5219937197085
-            },
-            "southwest": {
-              "lat": 33.8865661197085,
-              "lng": -117.5246916802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "e76f2d701b69a382a460ad14dcf53b39169f8730",
-        "name": "UFC GYM Corona",
+        "id": "e551743ab8b72aa84d1219b55f1047b036c99602",
+        "name": "Refinery",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 648,
+            "height": 679,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110633656006190636088/photos\">UFC GYM Corona</a>"
+              "Photos are copyrighted by their owners"
             ],
-            "photo_reference": "CmRaAAAAHKvtYPCOx2_JH_vcUFnLHUt5Lh7EyFZJ7HJg5B7F4OD3CkI5fX2Dn7d8FkAz_miqMG7xfCyW6liycsmDRQP50aDcLE-aBgtV0AlwaamVdT7Tf60a8FhC3XmF32H6JXu1EhAiUrihz1Bk_8NaazMFk5i8GhTYQESuYrFPzHFxsZtB9REadr3w0A",
-            "width": 972
+            "photo_reference": "CmRaAAAA5COxjtaxEupkRn9VUOJrVnp-6Te2KvrTdxFWzRbUNclf1jfZpUsJLItj-ObUNmsWtnE5ILEmOpiZrsmYPrGnxKLkgjAre2hLKeCBgpQ-5r2mE3QC1bAYRO7f2603zq36EhAahxxcMmyYPclpbGqar8KXGhSbkQYJh6RBrxf8xOVnx8cN115tCg",
+            "width": 900
           }
         ],
-        "place_id": "ChIJY4NMCJS33IAR6aKlAJ8U0Sw",
-        "rating": 3.8,
-        "reference": "CmRRAAAACahD0xcCFij8EnJBuR7vPKZNXD-5U2CAy_hVEgy1E9Cc8t8cUL24vPGHaH_tqnOq1P8gsa6fkah5sCY92ilAa0ZUh7XVWgy8F2nzT1Erj-W92RPXo6TVrPugH3xO8XvzEhBDGlX51C6xUhGDzEIcsz_cGhTV30BwuovxCo6iXeOmeyhSp0T5hw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "470 McKinley Street, Corona"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.8569811,
-            "lng": -117.5681104
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.8579627302915,
-              "lng": -117.5668523697085
-            },
-            "southwest": {
-              "lat": 33.8552647697085,
-              "lng": -117.5695503302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "db467f505db9fc5252ff21ddf43eb8634b3a7994",
-        "name": "UFC GYM South Corona",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111903497108714779783/photos\">shaun ly</a>"
-            ],
-            "photo_reference": "CmRaAAAAQEyoGDdhoRsPCUlR6ZW6PL2euLiVoXpH7fMGQ-GwyTCXi6lj8jRzdiUxR6_Wxp_RWBdPkMwJFdGJCO-7d2QlxSJ6CQNvGVikWVmOkevwewCj9BpDzOsaysGlblhfAylZEhDDxuLgwTzKhrlEV-t7NA43GhQ16QzXg_ZyhhrWgprXtYvCGlg8rg",
-            "width": 4795
-          }
-        ],
-        "place_id": "ChIJY_q5kebH3IARqdzknsWfcvw",
+        "place_id": "ChIJ8XH8fvXQDIgRbHQMRmL7YsE",
         "rating": 4.5,
-        "reference": "CmRSAAAA85LDvCMFDFPhG4WeCJqX7-aUUq-BAH2CIOZML6cOXAjBWneYmI3owejyjLJaaocs5ZpwpObHWBBPBeMMhAZNYoaacoPIq1dD6On5MKnfYc10D4IAIN0o9rE2IfeLCfTlEhD0jsv7IkZqZRaUKSv5V8-MGhQrjRU6vk2ikbLfFEdyz1ktekmziA",
+        "reference": "CmRSAAAAIU0UU26TS5m_BKCNdk5pjWJwDkvke81rE1IMnCNhyUe97i0Z-f3QebDlK482eWErQoJ4ggMztVH8zjBx9_zTpHxUWx9BJsShN7BKrLxLW8AybAn1Sw3EFftxskjXzGNNEhA23SzcFzdOfkQ6igimxiq3GhR2oF3cVgswZ2VKPbpCRCMruapcaA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -456,7 +235,53 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "265 East Ontario Avenue #105, Corona"
+        "vicinity": "2302 West John Street, Champaign"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.0577286,
+            "lng": -88.256428
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.05881353029149,
+              "lng": -88.2550820697085
+            },
+            "southwest": {
+              "lat": 40.0561155697085,
+              "lng": -88.25778003029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "39dcacc4e0ed988c048e00928336b6a3a35dd816",
+        "name": "Savoy Recreation Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAXe1fhBsHJ0m133y4JuZNNDC-ca_zyD0clLLhy70o7yPinDc-jiRPhChkwIaHY2LUSNcGxBioKQ48e4hiMVAA7cohQ-M2yzQY-oH8U7zCfHSVuoWvJiU7rp_bGSrRYMx0EhBxZs3q3DAb81oEaMljXrXSGhQsKNExO4KLtcSXrsajTvBXgkl_IA",
+            "width": 795
+          }
+        ],
+        "place_id": "ChIJ_dS_QlrRDIgRDCuUPpbO_O4",
+        "rating": 4.6,
+        "reference": "CmRSAAAAHWLcrh_3V-RhcsxBv2RMDLqidGg-30O1pA9uSV0liqSBvbiqxMNGSkuswIsCT42HsL9tIJ_Tyx_QKP7eDRKHIzcvGx6S6iWg7KkEJHfp0IGTWTw_HjE9ZA5L5Qf68tj4EhBBTgaCfZxqHwZxxle4BBoQGhRWCk_RhgBpCbw74BCOtdJECLX_tw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "402 Graham Drive, Savoy"
       }
     ],
     "status": "OK"
