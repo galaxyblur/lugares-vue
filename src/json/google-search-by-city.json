@@ -1,20 +1,113 @@
 {
-  "city_name": "dothan-alabama",
-  "city_rank": 502,
-  "city_population": 68001,
+  "city_name": "rancho-cordova-california",
+  "city_rank": 503,
+  "city_population": 67911,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.2232313,
-      -85.3904888
+      38.5890723,
+      -121.302728
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 33956,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.6097166,
+            "lng": -121.3675389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.6113482302915,
+              "lng": -121.3661860197085
+            },
+            "southwest": {
+              "lat": 38.6086502697085,
+              "lng": -121.3688839802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5725453a83c9d9d87023864cd02c9cc8bb00887a",
+        "name": "Allied Capoeira League - Sacramento",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 632,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107896513263160867384/photos\">Allied Capoeira League - Sacramento</a>"
+            ],
+            "photo_reference": "CmRaAAAAitIB55rOjkj2i8nvU7oCPwXxRGdC75aObYBF5-fnRHSJJw4u7-EC5WVjOM9PQ3UIsW8BldzI2bIpfhin9f7xzEQRCV5Y2xOgPwGxfxo-CTtW7lvM0SObf1qSaMJ4B9k4EhDGzLdylsY-gyfsjj8-WS4hGhSHqHUEEBfuiAU3x3pUuBEqf41cPg",
+            "width": 948
+          }
+        ],
+        "place_id": "ChIJQWOsQ-7bmoARAuUT05XRRVY",
+        "rating": 5,
+        "reference": "CmRRAAAAZPo0z7gQpRoDg_enBk5jZpx2bPqTVlz3w_eSrg-9giaUlWZ7aOd8D5fMAIaFBBosWLlSVpRyJI39IzU7kwhKU8TqAXF8uniKi38SkjJ6JCnQHgJ14zPyNL7-aGjEcy8jEhDkiLL8lbH1SrQvGd1qMfskGhTYaw8UB_CAR5D67RsBQjV8FA4lMA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4128 El Camino Avenue, Sacramento"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.56487010000001,
+            "lng": -121.506203
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.5664162302915,
+              "lng": -121.5047670197085
+            },
+            "southwest": {
+              "lat": 38.5637182697085,
+              "lng": -121.5074649802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2a7851cf7da06351e91bcedd40650e5bdf604874",
+        "name": "Move Studio",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 272,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100659567219182919118/photos\">Move Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAid6lnYv062kOsuDEf47QGiezRh8xfOhaxE84wQzFBteqz1o7vPz-sReXFVK7DAoNOh4NpHw8UfdkVgk5fl3HeRAOOeGtqvF06H6EoruIDL6ThIxryeRptgw4MiH849O4EhB2ZHw_rp1ZbJQMlD6kmMaaGhS6MlWYKZhooz0n0qAc6alBl4xZhg",
+            "width": 272
+          }
+        ],
+        "place_id": "ChIJrcHnVDzRmoAR5zhGjn1UPVI",
+        "rating": 5,
+        "reference": "CmRRAAAAfdcZ5UZbrFwTNzE2Qwh174YNxa9TUWGTW7PzmfCM25-nEyIgimRQl6WtvsJhX8Y5mYZdn87Il2MAzDsJ0FBbqjOKOKRxcZUjZeH6aN0pOVcQxoTR-zci6vviTydfUYz7EhB33vyAb-fytTLQTrQs0ulAGhSqytmtlmm_Fx2EXHCJYF5TwGK6Iw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "600 Broadway # D, Sacramento"
+      }
+    ],
+    "status": "OK"
   }
 }
