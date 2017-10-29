@@ -1,20 +1,385 @@
 {
-  "city_name": "oshkosh-wisconsin",
-  "city_rank": 515,
-  "city_population": 66778,
+  "city_name": "pittsburg-california",
+  "city_rank": 516,
+  "city_population": 66695,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0247062,
-      -88.5426136
+      38.0279762,
+      -121.8846806
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 7411,
+  "possible_duplicates": {
+    "ChIJZybGasZmhYARJ1HShJnOyVs": [
+      {
+        "place1": "Omulu Capoeira Concord 1975 Diamond Boulevard, Concord",
+        "place2": "UFC GYM Concord 1975 Diamond Boulevard, Concord",
+        "score": 0.8
+      }
+    ],
+    "ChIJ4Ysi38VmhYARyZomCJFSglo": [
+      {
+        "place1": "UFC GYM Concord 1975 Diamond Boulevard, Concord",
+        "place2": "Omulu Capoeira Concord 1975 Diamond Boulevard, Concord",
+        "score": 0.8
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.0107964,
+            "lng": -121.8299025
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.0122404302915,
+              "lng": -121.8287377697085
+            },
+            "southwest": {
+              "lat": 38.0095424697085,
+              "lng": -121.8314357302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "074099a3b2eabdd0a81eadc22b8afa1b5b332983",
+        "name": "Evolve Aikido & Movement Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 885,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104398099469476310029/photos\">TheCHIEF BIGFAITH</a>"
+            ],
+            "photo_reference": "CmRaAAAAGA5-enSCfyJj2UFYAC47ZW7fbBwCG-G5leFLzXrJGRL4WnwELnToQzINxfw6rGmrURVzC7XO-z0htVx-NeOB2MT6CAqxXfOQs2wflqQcGFX1hDnv0KX6zlfPY8MOTf1vEhBJgnA5VJYYTBFnvkjuFyDtGhRtzzE896pM7Rf0-10qhoPxBdOjSg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJz1oHTupZhYARYZC5MTLFtuc",
+        "reference": "CmRSAAAA-LnyZtZypvGxEMnKySeE22uavjP2EQ3a_7fT72buQiUc5i6JjhN8fYmPHmizruhELjSV3DA3joDGQgvHWx2ggz9O5-qaDQStShJiBxqtu8MUJ9gTeVJiKhIQrMZkA3ylEhDpiI1Il1cKWqJGgZy6CLHZGhQ5HDk2-o1XqZTyAd2F0kWZsdsv8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1211 Auto Center Drive, Antioch"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.9708499,
+            "lng": -122.056075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.97206663029149,
+              "lng": -122.0542834697085
+            },
+            "southwest": {
+              "lat": 37.96936866970849,
+              "lng": -122.0569814302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "13f0f6a8f8e530ece47a412fc672c82db222a36e",
+        "name": "Omulu Capoeira Concord",
+        "place_id": "ChIJZybGasZmhYARJ1HShJnOyVs",
+        "reference": "CmRRAAAAY8mGye6dNro38gcBbnqPaLeKMZXoP7QDTW8UM_lQMwUNCwMkhUrpIgo-GSCH1wB-TH5gSEw9wAXVqFDpRZsm4kLXdWse5Uq5sXach6WdduBlgPycXMEsL9FkZLGPGAKzEhC4Fl-edaR_D2QzSD3kfzNiGhQaPlb88yFLVMMG2JOeBXwIKUdMUw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1975 Diamond Boulevard, Concord"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.9681978,
+            "lng": -122.0561157
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.9695467802915,
+              "lng": -122.0547667197085
+            },
+            "southwest": {
+              "lat": 37.9668488197085,
+              "lng": -122.0574646802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "be42518bf04a6746dcf1b9a24df156634c0f4d1f",
+        "name": "UFC GYM Concord",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101921365002599424559/photos\">UFC GYM Concord</a>"
+            ],
+            "photo_reference": "CmRaAAAAc_zbDpM73b3ikCM-QYwyNZIflU5-t99a8joHtHwb5nxMtLDzYeH63RWIuy6Dc6eyPEZQr5Sv-I1iUFNTySJnB5_lDYwiS2zCii_qdy361aRzBkk3vSU84_V5NOPTbC98EhCecyd4GiC_heGExgoqh6X1GhQIeJeCXsNLBR7CHdgCA2fFdsQ9FA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ4Ysi38VmhYARyZomCJFSglo",
+        "rating": 4.4,
+        "reference": "CmRRAAAA0_VWDLDIkZx6gfE0syg-x2-XQTkDqJQBUT9YuP6bxOh0RXdk8HtNPUdSqigRZAZNApCTvvACDM7ysEetvsZwzkcZGRj3Dks5SlQIfaAklJwoo28SgAdN0N1Ul0TbP6ExEhCbXQyqmYQjrS7sLS7L91VhGhS0iYR1GJJeQTquPFGorp4j3KPF4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1975 Diamond Boulevard, Concord"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.89683119999999,
+            "lng": -122.0679904
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.89829663029149,
+              "lng": -122.0667064697085
+            },
+            "southwest": {
+              "lat": 37.89559866970849,
+              "lng": -122.0694044302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e5000d63c99a232dcf738262d8631037949ae4a4",
+        "name": "Capoeira Luanda - Prof.Sabiá - Bay Area",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116516575096562565887/photos\">Capoeira Luanda - Prof.Sabiá - Bay Area</a>"
+            ],
+            "photo_reference": "CmRaAAAAJSLrYyCnXd4TYpg0Qz1wf52Rf9cJE75J7KPdaZ46R1GMPHxGPkbnqYSf0zAeYzFFbf-1z25gfo3xvUUYYl029VwqVw4ABFoUSe4IzN0lpmbmRlQobbXDqwbSeP-4sZ32EhC_Uh4PM6AK-aiqIadFtyZLGhT7ebOn8_fE-ityonA5j3VPCUkYww",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJ8yVX35dZwokROMhyfuVLazo",
+        "rating": 5,
+        "reference": "CmRRAAAA-KjwdIQmQPc46D17YaYRQChv9qyjQE0nsvQYI-kC9n9nZANk9XHPstAMPPjhIp9LcbRz8q6dfegLRrvF3QaJncTaqCvImta73v9XsMfJrunjXVslFzBLEx7MIFjFz6doEhDVSR62tPBB9MSrFPXoVXxuGhSqRtIBfR9cVaYJtjPFyjE3lW3kVg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2029 Mount Diablo Boulevard, Walnut Creek"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8271247,
+            "lng": -122.2519954
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.82837113029149,
+              "lng": -122.2505227197085
+            },
+            "southwest": {
+              "lat": 37.82567316970849,
+              "lng": -122.2532206802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "951ad1d12a905d2adeef6239614515c817afd189",
+        "name": "Capoeira Institute Inc",
+        "place_id": "ChIJKy8nl_N9hYAReFW98BVkFpQ",
+        "reference": "CmRSAAAAgwhkUBhSwnOKY7zYqhnwH7yJyE1Cv7AI13gUZSBEm3XcDAd0hcG4Gw-PtPSVO0nXb1RESK9X43QJDFpwwCJXm9rxPQAI6Ji2tNY8S1slqoCu9wp_QNixltVbsc_hBMOUEhAgARHInB757GZ318ASpu0fGhTIa3QSctTVE53seggR_oynUOM0-w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4444 Piedmont Avenue, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8703062,
+            "lng": -122.2921361
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.8716237802915,
+              "lng": -122.2909407697085
+            },
+            "southwest": {
+              "lat": 37.8689258197085,
+              "lng": -122.2936387302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a5bb45f2100a3fc2d3fb05f4261f6750a205097",
+        "name": "United Capoeira Association- Berkeley",
+        "place_id": "ChIJ4dCxo8F-hYARC7xZxocw_BQ",
+        "rating": 5,
+        "reference": "CmRRAAAAL6WHTk4299dCPGe6iPp0cGuy5gvHGQC98SEWR7FD7xSC4S9v3Hov1hqTt0qJMoVWfrDaFkzrFK_CU4rg3U5DsZNYj1QzJuG3tsCf1sxQZF7h69w8i-dWOwotEsyx0HWHEhCQ0DNZacHniquzdwbOxI4IGhTCYqob5YJmNme8JZtuREIOzyVdSQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1901 San Pablo Avenue, Berkeley"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8028283,
+            "lng": -122.2655877
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.80427188029149,
+              "lng": -122.2644825697085
+            },
+            "southwest": {
+              "lat": 37.8015739197085,
+              "lng": -122.2671805302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4e403497890e9d41aff48e389684011f52504c0",
+        "name": "Omulu Capoeira Group Oakland",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 797,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108872424464866073361/photos\">Omulu Capoeira Group Oakland</a>"
+            ],
+            "photo_reference": "CmRaAAAAadp_-R-bSjEkiWOe49GJryN1fyZKmGWDifiL5TyVtcD9pe33L7Ud5Xv_VfOhWzHDTvKaB3fd-jeBZFjHBx4uQxWFw2pRAqn8qIVr917IIn8YJx6kck81pgpbahoZeXCwEhBJbLX6RqFlEp1XmaVFF96PGhSXckdY4_IbzxFaQzBrWL2RNKxouQ",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJ1wap1rSAj4ARw1rSgqvOpkE",
+        "rating": 5,
+        "reference": "CmRRAAAAZB7fWhiPZGzJLWH6SVNP6c4ffbcBeYI4ws5KAerhpv_sjd6cfJqPznYZORp6fQkjtOA_915e6Ga8cfiSjZY1XnDnSOMYSKVQRF7XqGh3alDgdMbk98sX1U6fv9V1nTb8EhAlfGhpLjNAsfO0-nEfoVjeGhS4lkiMFKxLE6VooW0oQWQWEPA4nw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1428 Alice Street, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.821198,
+            "lng": -122.284279
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.8225424302915,
+              "lng": -122.2829096697085
+            },
+            "southwest": {
+              "lat": 37.8198444697085,
+              "lng": -122.2856076302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "700bb4ddfd27ef86fb653972fff15281f0491075",
+        "name": "Capoeira Brasil East Bay",
+        "place_id": "ChIJObXtpBl-hYAReCxNKGB4PS8",
+        "reference": "CmRRAAAASbF2Cnp9TWgOWRqpfBjsxO6de3EIPZqmTEqLT97H3OJR1klNN_mTkvSVgIGG2MKSsr8q4SfzWpfdS2nXft_YXD3wS7WA-Jpw7iadM6M6dUztmPHR5lJsLe7gjA0x-jwdEhAGjHfrZI97ZEYuEHROm7SiGhRfh2krY8SKrT6FFuc-hPI6hMjvFg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2822 Union Street, Emeryville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6748522,
+            "lng": -122.0810687
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.6761014802915,
+              "lng": -122.0799054197085
+            },
+            "southwest": {
+              "lat": 37.6734035197085,
+              "lng": -122.0826033802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
+        "name": "United Capoeira Association - Hayward",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 453,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116049420993522808852/photos\">United Capoeira Association - Hayward</a>"
+            ],
+            "photo_reference": "CmRaAAAAtGRGrkAokoAP7qJYVqdI6sqvV-GQFgw0_56oc60pjjhLJIrrjcjjPaqZw2kDmvZDR47whUCju94KBFPiCuEqH8OLztwDpMkFO5eFI2LoxCeBJFOI4RnHg1m_-AmR1eyaEhDaBU6AkmUQekrqUCDtEqp-GhSkkgBbNaU8BpsdWQt2SU3smg1t0A",
+            "width": 453
+          }
+        ],
+        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "rating": 4.9,
+        "reference": "CmRSAAAA1jhaZK5mfDRGCbllZl0X9V2dkkRIG_LF96jz9IPY7gQidCG3rVhKWIUIGeat-xw5hVvM5Xewk9n_G1wXvbeqGQKw5d5Z-xxvbtjy5u6xnYhPKOjgsxrKqfOcNPeCVvTdEhDFdDVGJ_R88PM4b_JEWKexGhQ-2KHkNQqvWXVGYTpw7HKUbn9Fkw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "22540 Foothill Way, Hayward"
+      }
+    ],
+    "status": "OK"
   }
 }
