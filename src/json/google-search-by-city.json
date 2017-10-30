@@ -1,53 +1,20 @@
 {
-  "city_name": "johnson-city-tennessee",
-  "city_rank": 535,
-  "city_population": 65123,
+  "city_name": "victoria-texas",
+  "city_rank": 536,
+  "city_population": 65098,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.3134397,
-      -82.3534727
+      28.8052674,
+      -97.0035982
     ],
     "rankby": "distance"
   },
-  "people_per_result": 65123,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 36.3201612,
-            "lng": -82.35222580000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.3215101802915,
-              "lng": -82.3508768197085
-            },
-            "southwest": {
-              "lat": 36.31881221970851,
-              "lng": -82.35357478029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "48f89821efabacd3d4dc9d1c187c370e7c609d18",
-        "name": "Quantum Leap",
-        "place_id": "ChIJ7dkXvv18WogRo82mI_YCssU",
-        "rating": 3,
-        "reference": "CmRSAAAA3GmuQs-4_ncWQm9CgO8DoMQYyq9mbCewM6SDN7Wkqb8-ZMaLHW52et1uPfwqeJN3FtaVmPS3ZLzK5NDKGw7xuk84duzLPef5lXzBDA_UvBf_d9XMeaD8cgnYAQ7nqfb8EhD2KU6ocCFTnVEQXr68FK8EGhQ-GIs9b939P3jQ82FxdzwL6A61kA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "117 East King Street, Johnson City"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
