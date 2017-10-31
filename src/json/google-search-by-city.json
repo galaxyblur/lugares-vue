@@ -1,20 +1,66 @@
 {
-  "city_name": "cheyenne-wyoming",
-  "city_rank": 558,
-  "city_population": 62448,
+  "city_name": "daytona-beach-florida",
+  "city_rank": 559,
+  "city_population": 62316,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.1399814,
-      -104.8202462
+      29.2108147,
+      -81.0228331
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 62316,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.12956109999999,
+            "lng": -81.0080133
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.13091008029149,
+              "lng": -81.00666431970849
+            },
+            "southwest": {
+              "lat": 29.12821211970849,
+              "lng": -81.0093622802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b973a4748d945c66ca0dbd549e5aa08e28267101",
+        "name": "Bully Me Now",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113266405725380505398/photos\">Bully Me Now</a>"
+            ],
+            "photo_reference": "CmRaAAAATGWq2zgBzTiw60jANxCp_2hrgI2peUxpQk5nEhU-NCnfsxDbhlWOmVfnLYrYKzLD6A9km2T2Jo_vtREjlzEND1nbDmHeCrgRf4Wc8aDwS36vB9CRbFNmzsRXmkUGiPmMEhAw2GJ07Uoj67X2TTY3UCOvGhQQj1tB9-WARFe2Jb3Tasbr0URZUg",
+            "width": 1500
+          }
+        ],
+        "place_id": "ChIJCbTEcIMn54gR4dvMipLNdR0",
+        "rating": 4.3,
+        "reference": "CmRRAAAAsL1iPBcbQmQk2TdbW3NXLscdjmyRtjeQiTQ1s7WfLHCKc35LXRNBmtLqmWR0CYVr-j6Vf1n8xmQqW958hjJTeotObvkvb3xNuT37RDUCCKIZO4M8rv91wVZrSYl4wraYEhAZl9GY4zpeUhlyUK5e7o1zGhSooj7TIXiYYyWyUnrBGCSeOrKaGg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3780 South Nova Road, Port Orange"
+      }
+    ],
+    "status": "OK"
   }
 }
