@@ -1,20 +1,91 @@
 {
-  "city_name": "madera-california",
-  "city_rank": 554,
-  "city_population": 63105,
+  "city_name": "conroe-texas",
+  "city_rank": 555,
+  "city_population": 63032,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.9613356,
-      -120.0607176
+      30.3118769,
+      -95.45605119999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 31516,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0538019,
+            "lng": -95.4860411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.0553196302915,
+              "lng": -95.48481786970848
+            },
+            "southwest": {
+              "lat": 30.0526216697085,
+              "lng": -95.4875158302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f852fad29fe28a931cfc0e0295bc62dced4b6ef3",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJiXjaSBPNQIYRE2a82Kzr7yo",
+        "rating": 5,
+        "reference": "CmRRAAAAo5aX1O_b29XrMuiofz7PD9yJaIUNHJxsDGlaaKyLFd5KZm4mJD80u0vR3CPEdPFoiBpoDS5-j3ycAiLX92LHQsn1B_28w-xpw6eEgGbUMy1Qm4dwrAtOLAkVTEt0pt18EhCKoSGndmPEqLf0H6w4LOIYGhQb856QrOb0sULWe9NfPCbPLHwrqA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Road, Spring"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.9979223,
+            "lng": -95.5093029
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.9990490302915,
+              "lng": -95.50779186970848
+            },
+            "southwest": {
+              "lat": 29.9963510697085,
+              "lng": -95.51048983029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dbb67b8c95b5054e06a002441a3c44defb826bb",
+        "name": "Grupo Cafu Gingado Capoeira Houston NW",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "rating": 5,
+        "reference": "CmRSAAAA3uXwcJPunjhdaXFVdT41PfBGpgNurAL_ApC-5vNOwhatZyAvOhh73VfWGDdgoToASFMM63TGQ1m0iFupK-n8sXNLyJIhDYbB3NeHxi9VI6g_gOsaoNol13rYYpauvrLZEhADsH2e_WBfD49CsZV40fLKGhTqSGIsGcpW67Vt6m7vGWWSr_7taA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4622 Mittlestedt Road, Houston"
+      }
+    ],
+    "status": "OK"
   }
 }
