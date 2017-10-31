@@ -151,6 +151,12 @@ const initPopup = function initPopup(map) {
   });
 };
 
+const initCenterOnClick = function initCenterOnClick(map) {
+  map.on('click', 'group-points', (e) => {
+    map.flyTo({ center: e.features[0].geometry.coordinates });
+  });
+};
+
 export default {
   name: 'map-display',
   data() {
@@ -185,6 +191,7 @@ export default {
         createHeatmap(map);
         createMapPoints(map);
         initPopup(map);
+        initCenterOnClick(map);
       });
     },
   },
