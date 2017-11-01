@@ -74,8 +74,8 @@ const createHeatmap = function createHeatmap(map) {
       // increase radius as zoom increases
       'heatmap-radius': {
         stops: [
+          [1, 3],
           [11, 15],
-          [15, 20],
         ],
       },
       // decrease opacity to transition into the circle layer
