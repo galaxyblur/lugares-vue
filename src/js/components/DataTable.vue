@@ -211,12 +211,12 @@ export default {
       const newOffset = (currentPage - 1) * this.perPage;
 
       if (newOffset !== this.currentOffset) {
-        this.$recordEvent('search-pagination', currentPage);
+        this.$recordEvent('search-page-change', { searchPage: currentPage });
         this.currentOffset = newOffset;
       }
     },
     recordSearchEvent: _.debounce(function recordSearchEvent(searchTerm) {
-      this.$recordEvent('search-for-term', searchTerm);
+      this.$recordEvent('search-for-term', { searchTerm });
     }, 1500),
     handleSearchChange(searchTerm) {
       this.recordSearchEvent(searchTerm);
