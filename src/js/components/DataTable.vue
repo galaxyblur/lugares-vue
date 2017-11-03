@@ -219,7 +219,10 @@ export default {
       this.$recordEvent('search-for-term', { searchTerm });
     }, 1500),
     handleSearchChange(searchTerm) {
-      this.recordSearchEvent(searchTerm);
+      if (searchTerm !== '') {
+        this.recordSearchEvent(searchTerm);
+      }
+
       this.$search(searchTerm, this.groups, searchOptions).then((results) => {
         this.searchResults = searchTerm ? results : [];
         this.handleCurrentPageChange(1);
