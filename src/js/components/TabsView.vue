@@ -11,7 +11,7 @@
         <router-link to="stats">Stats</router-link>
       </li>
       <li>
-        <a href="#about" uk-toggle v-on:click.stop.prevent>About</a>
+        <a href="#about" uk-toggle v-on:click.stop.prevent="handleAboutClick">About</a>
       </li>
     </ul>
   </div>
@@ -29,6 +29,11 @@ UIkit.use(Icons);
 export default {
   name: 'tabs-view',
   props: ['active'],
+  methods: {
+    handleAboutClick() {
+      this.$recordPageview('About', this.$route.name);
+    },
+  },
 };
 </script>
 

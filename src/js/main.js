@@ -3,15 +3,13 @@
 import Vue from 'vue';
 import App from './App';
 import router from './router';
-import keenClient from './keen';
+import VueKeen, { recordPageview } from './plugins/VueKeen';
 
 Vue.config.productionTip = false;
+Vue.use(VueKeen);
 
 router.afterEach((to, from) => {
-  keenClient.recordEvent('pageview', {
-    routeTo: to.name,
-    routeFrom: from.name,
-  });
+  recordPageview(to.name, from.name);
 });
 
 /* eslint-disable no-new */
