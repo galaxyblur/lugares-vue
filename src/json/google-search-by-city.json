@@ -1,20 +1,113 @@
 {
-  "city_name": "dubuque-iowa",
-  "city_rank": 621,
-  "city_population": 58253,
+  "city_name": "bartlett-tennessee",
+  "city_rank": 622,
+  "city_population": 58226,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5005583,
-      -90.66457179999999
+      35.2045328,
+      -89.8739753
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29113,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1750665,
+            "lng": -89.79390579999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.1764123302915,
+              "lng": -89.79214246970848
+            },
+            "southwest": {
+              "lat": 35.1737143697085,
+              "lng": -89.7948404302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ee77281d68357a9dd2c6be6cc669089c5a71979a",
+        "name": "UFC Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 315,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110023979061360220703/photos\">UFC Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAADDyTgp8W5pw-SG77VUTNjkwlvfhNlvfS7jXP1gAfeQ3o3VMvb5aW6pGIg1pqNveHoceCB_dAlj9fcveaJ1ZwASqgOgl30B5Ay-GcWqLoAPm2v6sTalq73DbbZv8l41-MEhDb7thRmCsN0vwL2wRj2g2YGhQNqO5vFGTGbc5UUIGrrkCtUYgucA",
+            "width": 851
+          }
+        ],
+        "place_id": "ChIJxWB0Qsqdf4gR2SbFccD_fgg",
+        "rating": 4.5,
+        "reference": "CmRRAAAAc2LhL6d7M3MCMuAJnOlCfNZ61TWPjO93CfOnDC6S66yOCmRLFblstyxHA8AfI_2xJ66bzJqUdJtaiB0rUl3xq1y5xop_S8qmCOwGauaSKG_fb1QGXyRISoIaJun0GYmDEhCfafR37eVFPeQ8slb_aOTWGhTkynPhbsXoSJslFeve1CEBcNSeWw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1791 North Germantown Parkway, Cordova"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.0679777,
+            "lng": -89.76028409999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.0695814302915,
+              "lng": -89.75874311970848
+            },
+            "southwest": {
+              "lat": 35.0668834697085,
+              "lng": -89.7614410802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d0d5d7cc286cbb9f17d51901ee046dfc5f5e2fd5",
+        "name": "UFC Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110020028902921273642/photos\">UFC Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAACdANw0I0fP2Qc8ZmI8PGWE51ykIdYcR4pp_LrSeLjBo3Lv4UmuE0V50UlyFe_CMAwRcUjaFh05tzW504tLuvqQrhSp4xR7SVnE5bHteF16H2MgunyOmWKt88z674kbDwEhB-hhzGlmyvH3V7FAIg9vVYGhRA1L5D2TAVVG9b_WwngR4p-nozIQ",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJu8Pr5JaZf4gRb5X4P5zacCI",
+        "rating": 4.9,
+        "reference": "CmRRAAAALOsl95lyP-9W273rAeAvARuQmvEld78Gfj_1VhvLaVoXbyTrRVE91b5i1pVs31uNbteUW7MD9tkzKf1u7tPxhp685uQTHWUXrimPtyHpx9o2qbWuziS475DXWZsKHFfbEhDkKiybttWYqz2XNQXxoWyiGhRO-C8PLhBgFGzKi04bkJJ556mC8g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9091 Poplar Avenue, Germantown"
+      }
+    ],
+    "status": "OK"
   }
 }
