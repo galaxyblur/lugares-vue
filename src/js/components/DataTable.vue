@@ -208,9 +208,18 @@ export default {
   },
   methods: {
     handleCurrentPageChange(currentPage) {
-      this.currentOffset = (currentPage - 1) * this.perPage;
+      const newOffset = (currentPage - 1) * this.perPage;
+
+      if (newOffset !== this.currentOffset) {
+        this.$recordEvent('search-pagination', currentPage);
+        this.currentOffset = newOffset;
+      }
     },
+    recordSearchEvent: _.debounce(function recordSearchEvent(searchTerm) {
+      this.$recordEvent('search-for-term', searchTerm);
+    }, 1500),
     handleSearchChange(searchTerm) {
+      this.recordSearchEvent(searchTerm);
       this.$search(searchTerm, this.groups, searchOptions).then((results) => {
         this.searchResults = searchTerm ? results : [];
         this.handleCurrentPageChange(1);
