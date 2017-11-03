@@ -3,8 +3,16 @@
 import Vue from 'vue';
 import App from './App';
 import router from './router';
+import keenClient from './keen';
 
 Vue.config.productionTip = false;
+
+router.afterEach((to, from) => {
+  keenClient.recordEvent('pageview', {
+    routeTo: to.name,
+    routeFrom: from.name,
+  });
+});
 
 /* eslint-disable no-new */
 new Vue({
