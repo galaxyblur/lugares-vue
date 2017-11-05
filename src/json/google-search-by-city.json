@@ -1,20 +1,52 @@
 {
-  "city_name": "port-arthur-texas",
-  "city_rank": 677,
-  "city_population": 54135,
+  "city_name": "carson-city-nevada",
+  "city_rank": 678,
+  "city_population": 54080,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      29.8849504,
-      -93.93994699999999
+      39.1637984,
+      -119.7674034
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 54080,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.5253396,
+            "lng": -119.8139874
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.5267571802915,
+              "lng": -119.8126583197085
+            },
+            "southwest": {
+              "lat": 39.5240592197085,
+              "lng": -119.8153562802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e76eb4e56e1e04a2aebed6c2e103c466455a9249",
+        "name": "Reno-Tahoe Capoeira",
+        "permanently_closed": true,
+        "place_id": "ChIJm_JqwspAmYARZ8XHfKhG_xE",
+        "reference": "CmRRAAAAWBjwRRObf3vyqZXZXyiofYSrjngrH-Ve_iFxri85vOdeGKxYu2Od1IZMvsmuE9ze3-uxkmk7RgCJbt3i0B-JjeFfVe9Kgg0Q0Nzc23Irp6LjPkLfXx5OIxGg87XAPQMGEhClnkfJijhPnUyrIt6K2WNhGhSDQqtL2RkH2FiX9hIRvlhZGgBt3A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "80 West 1st Street, Reno"
+      }
+    ],
+    "status": "OK"
   }
 }
