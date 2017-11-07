@@ -1,20 +1,56 @@
 {
-  "city_name": "elkhart-indiana",
-  "city_rank": 721,
-  "city_population": 51265,
+  "city_name": "lakewood-ohio",
+  "city_rank": 722,
+  "city_population": 51143,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6819935,
-      -85.9766671
+      41.4819932,
+      -81.7981908
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 51143,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.45736099999999,
+            "lng": -81.7132273
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.4587488302915,
+              "lng": -81.71199806970849
+            },
+            "southwest": {
+              "lat": 41.4560508697085,
+              "lng": -81.7146960302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4bbea685732598f9e223c378b51895195ff7a7a8",
+        "name": "Grupo Unidade Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ1ch3Ad7vMIgRDX7bpIaO1lQ",
+        "rating": 5,
+        "reference": "CmRRAAAAn50omWhgYW2E-SY9vdtLCOmM-0mRlE4z2uB6qC2-SydM9p8tAlplhizBlTEwb-48oxfrSW26ahn41mE2ga2J_h8VhIA588Yyk6ZcaLeJPSGjjLyPDO-NPndCQi7P1e_TEhDWoZoZoRJDURRAFNwErawMGhS0QLOKbRFXz6SpBBuTiOhjOEwQMg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3565 Fulton Road, Cleveland"
+      }
+    ],
+    "status": "OK"
   }
 }
