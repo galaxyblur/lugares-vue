@@ -1,20 +1,62 @@
 {
-  "city_name": "palm-desert-california",
-  "city_rank": 732,
-  "city_population": 50508,
+  "city_name": "huntersville-north-carolina",
+  "city_rank": 733,
+  "city_population": 50458,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.7222445,
-      -116.3744556
+      35.410694,
+      -80.84285040000002
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 50458,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.21967739999999,
+            "lng": -80.798678
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.22081353029149,
+              "lng": -80.7973582697085
+            },
+            "southwest": {
+              "lat": 35.2181155697085,
+              "lng": -80.8000562302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d948b56efce10724fd5fc68788e9876c08859d39",
+        "name": "The International Capoeira School",
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109089230800118934888/photos\">Nathan Hayes</a>"
+            ],
+            "photo_reference": "CmRaAAAAGlA-t0Wzfb8X_5uz4XqOh3-Woy6KtLHmUUCNaGsqpHcsWOGCQdejntD-7bSwRkd2L-wl0eSlpuOdwpGidIdwj7UPb1x3wn5NCo6eFU4o7kyt-4sgSx5ilh3b7cVbsZrtEhD9nSdgaNwha4B50jQ2JC8BGhRde7-SE13bd6EoAegdXzS6izfPWA",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJ9yk9ZvcfVIgRT79rJBbb_eM",
+        "rating": 5,
+        "reference": "CmRSAAAAPRu5yPnL0h0P7bTAtY592w6k7KcfDDII5-2wJX9c_SPBGTzK9bO0n_Dj5G4qhFs0JqXG6qb9BNnnlmlEjuoQEoSOzLkX4YjcWkSx4jIHQFqE6oQiYe7jvpk8yCUuvVAwEhBQFf-AQnHtcKGkxkzf9CQqGhSolgxhwy9LGElp96YY8uI2q9esnA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2609 Central Avenue, Charlotte"
+      }
+    ],
+    "status": "OK"
   }
 }
