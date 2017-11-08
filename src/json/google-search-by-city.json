@@ -1,141 +1,50 @@
 {
-  "city_name": "pinellas-park-florida",
-  "city_rank": 744,
-  "city_population": 49998,
+  "city_name": "troy-new-york",
+  "city_rank": 745,
+  "city_population": 49974,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.8428025,
-      -82.6995443
+      42.7284117,
+      -73.69178509999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 16666,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Avenue North, Saint Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Avenue North, Saint Petersburg",
-        "score": 0.8421052631578947
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Avenue North, Saint Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Avenue North, Saint Petersburg",
-        "score": 0.8421052631578947
-      }
-    ]
-  },
+  "people_per_result": 49974,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.8387367,
-            "lng": -82.72365
+            "lat": 42.68839669999999,
+            "lng": -73.7990902
           },
           "viewport": {
             "northeast": {
-              "lat": 27.84026878029151,
-              "lng": -82.7223014697085
+              "lat": 42.68974568029149,
+              "lng": -73.7977412197085
             },
             "southwest": {
-              "lat": 27.8375708197085,
-              "lng": -82.7249994302915
+              "lat": 42.6870477197085,
+              "lng": -73.8004391802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6aa5387ff02b63e6b034d4c8118fb5a75f97ee6a",
-        "name": "Capoeira dos Escorpiões",
-        "permanently_closed": true,
-        "photos": [
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103716196320857910320/photos\">Capoeira dos Escorpiões</a>"
-            ],
-            "photo_reference": "CmRaAAAAwVfkoVY3iMX6EBQnCqRj7fCH-FMv85jbLgOmEZWPXHHIW2czLKSpaLDA6Q3ecOBrlnO1WYyg1By2sHfj9gEZ7lTJSJ2CVfmzgxvkCDzrTBLeKf-UAYynt2CiATLQn5B-EhD3eagGqjbHSXxk5fqGZohEGhTWCT6Sfj4LeiyuZvd5QV20IDnLAA",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJCSSDqbrkwogRZhhp8RBQvvo",
-        "reference": "CmRSAAAAx3D6hy2u5RtiDi5BW6p82lAHnr5mzpYb5_wR1UJo2ytmW6Nts0ygtNQp4_3EaqdO95jhpg4BbnTOnFTUhkfghQmf2WwlTuci0OmcINZVlUYlwSSkck05F9YAUP7WoE-LEhC5-eLfVTz-4ew3MCOk26rdGhS6kD8bFguYERb0cvZ4xcm923Q9Sg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6390 Park Boulevard North, Pinellas Park"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.8226674302915,
-              "lng": -82.6596354197085
-            },
-            "southwest": {
-              "lat": 27.81996946970849,
-              "lng": -82.6623333802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRSAAAA4wgkCGnrT7CRm5LuvuY6uWMMcnPmwonksPFd7edNRvRNxl33Hveh4-5uPMpr5RfjK67yJF9VrZA5m6VpYr6oYOMAEelGz1ia5DHwFktQNQWnl4DosxGSTgVVvnzPJet4EhD9ysmIlArcEhgVc74Ms7_DGhRzaFDPfpGc3teV8X67zGyWT7wX-Q",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Avenue North, Saint Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634428029151,
-              "lng": -82.64560261970848
-            },
-            "southwest": {
-              "lat": 27.7736463197085,
-              "lng": -82.64830058029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
+        "name": "Pil-Sun Tae Kwon Do",
+        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
         "rating": 5,
-        "reference": "CmRRAAAAQqP4UhWqUgHlwhP4vEEYHpmezh-U2lQUPXJ8tXWWIIR76NfXOhcHBMBGMfw7m8Lyfh2ws4kXEyaDgf7g4UMskU6-LcHaVLmHR4vbb9IG4b-Mz35TG4pN71zYhGgCKwAfEhDlPrks2PARRqSjTMMJ6-FuGhTXcZS4WT_-hcGG0Jcs2Xbd7iqpUA",
+        "reference": "CmRRAAAA-pcUULhzysH-RZtZOqkbdXJfm94y9EZpD3YbNg5FvhnSUrQFjNQQaSt9D5ANlIRTRlr07ob8WKQi_340xYJyvUCxg9KD1oKx1Y05MO9O5Du2TrMChL_DEmGw1xKqdQmDEhCEQQYzSvyc5Lhea_d3eEAcGhQuPKN2EQhtRZnfEOjnni3Ln8WPmw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Avenue North, Saint Petersburg"
+        "vicinity": "1095 Penn Central Railroad # 3, Albany"
       }
     ],
     "status": "OK"
