@@ -3,11 +3,11 @@
     <div class="uk-modal-dialog">
       <button class="uk-modal-close-default" type="button" uk-close></button>
       <div class="uk-modal-header">
-        <h2 class="uk-modal-title">About Lugares</h2>
+        <h2 class="uk-modal-title">About Cadê a Capoeira?</h2>
       </div>
       <div class="uk-modal-body">
         <p>
-          <em>Lugares</em> is a free tool anyone can use to find online listings of <b>capoeira</b> schools
+          <em>Cadê a Capoeira?</em> is a free tool anyone can use to find online listings of <b>capoeira</b> schools
           and groups all over the world. The data is collected city-by-city and is updated periodically.
         </p>
         <p>
@@ -21,7 +21,7 @@
           capoeira.
         </p>
         <p>
-          Lugares was created and is maintained by <a href="https://www.capoeiraonline.net">Capoeira Online</a>.
+          <em>Cadê a Capoeira?</em> was created and is maintained by <a href="https://www.capoeiraonline.net">Capoeira Online</a>.
         </p>
       </div>
     </div>

@@ -1,14 +1,14 @@
-# Lugares - Find Capoeira
+# Cadê a Capoeira? - Find Capoeira
 https://www.findcapoeira.com/ [![CircleCI](https://circleci.com/gh/galaxyblur/lugares-vue/tree/master.svg?style=svg)](https://circleci.com/gh/galaxyblur/lugares-vue/tree/master)
 
 ## About
-Lugares is a free tool anyone can use to find online listings of capoeira schools and groups all over the world. The data is collected city-by-city and is updated periodically.
+Cadê a Capoeira? is a free tool anyone can use to find online listings of capoeira schools and groups all over the world. The data is collected city-by-city and is updated periodically.
 
 One purpose of this tool is to show the strength of a capoeira group's online presence & searchability -- this is reflected by the score.
 
 The data is currently collected from the [Google Places API](https://developers.google.com/places/). That means that the data reflects Google search results for the keyword "capoeira" and does not mean that each place actually practices capoeira.
 
-Lugares was created and is maintained by [Capoeira Online](https://www.capoeiraonline.net/).
+Cadê a Capoeira? was created and is maintained by [Capoeira Online](https://www.capoeiraonline.net/).
 
 ## Technologies Used
 * [UIkit](https://getuikit.com/) -- UI library

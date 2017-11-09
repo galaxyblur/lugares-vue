@@ -163,7 +163,7 @@ export default {
     return {
       accessToken: 'pk.eyJ1IjoiZ2FsYXh5Ymx1ciIsImEiOiJjajhjMGN0ajQwNDkwMndzZnJ5Z215cmRyIn0.khRbFE6oQhHyZ_KrS_aHlA',
       mapOptions: {
-        container: 'lugares-heatmap',
+        container: 'cade-heatmap',
         style: 'mapbox://styles/mapbox/dark-v9',
         zoom: 2,
         center: [-38.516667, -12.983333], // lng, lat
@@ -199,7 +199,7 @@ export default {
 </script>
 
 <style>
-#lugares-heatmap {
+#cade-heatmap {
   width: 100%;
   height: 500px;
 }
