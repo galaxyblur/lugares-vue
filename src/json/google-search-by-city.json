@@ -1,51 +1,20 @@
 {
-  "city_name": "sheboygan-wisconsin",
-  "city_rank": 766,
-  "city_population": 48725,
+  "city_name": "middletown-ohio",
+  "city_rank": 767,
+  "city_population": 48630,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.7508284,
-      -87.71453
+      39.5150576,
+      -84.39827629999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 48725,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.755616,
-            "lng": -87.730603
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.75696498029149,
-              "lng": -87.7292540197085
-            },
-            "southwest": {
-              "lat": 43.75426701970849,
-              "lng": -87.73195198029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "e17be2d0be35f6ded93ece41ed1a1d89cf364745",
-        "name": "Hap Moo Do",
-        "place_id": "ChIJAQDAvJunBIgRxDn1qbPG5xQ",
-        "reference": "CmRRAAAAOs-j7TS3ikqyvn9_tY7laCVqsO6dedG5uR_WWtXcS0QG0a7Dn64Q_GeWjti3clL8lTiyEisUswJyRQkY4ogvqEAlHG3aGxrhVSdjINNmBspN41p-s5UNUmGqVCBfuyYtEhAnAe_1SHyFx9pGZ3ks-7efGhQvmROjlodGhxIdtodL1dqML3Jnaw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1825 Erie Avenue, Sheboygan"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
