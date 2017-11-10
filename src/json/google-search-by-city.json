@@ -1,16 +1,16 @@
 {
-  "city_name": "lawrence-indiana",
-  "city_rank": 794,
-  "city_population": 47135,
+  "city_name": "wauwatosa-wisconsin",
+  "city_rank": 795,
+  "city_population": 47134,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.8386516,
-      -86.0252612
+      43.0494572,
+      -88.0075875
     ],
     "rankby": "distance"
   },
-  "people_per_result": 47135,
+  "people_per_result": 23567,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,32 +18,63 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
+            "lat": 43.0507176,
+            "lng": -87.8998992
           },
           "viewport": {
             "northeast": {
-              "lat": 39.8096908802915,
-              "lng": -86.1454529697085
+              "lat": 43.0519703302915,
+              "lng": -87.8985529197085
             },
             "southwest": {
-              "lat": 39.8069929197085,
-              "lng": -86.14815093029151
+              "lat": 43.0492723697085,
+              "lng": -87.9012508802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "reference": "CmRRAAAAsUHseecqWGkrvIj7BxySRoPmqIw5aGJW7uIOFM_geJh-IcmN4pNZ5DnXufBoiKYk6DTmOyZZdHbSSKORmABN9BOtrvHVIo61LfC1oL7TUcH6rMXM51OCdt3xgm7XB3KLEhDia4wPCFDYooIkqHYCQnLtGhQaf4jDUTm2ZlmTAmbmNNyZM8aK1w",
+        "id": "2ef83b82c11c3694754f18357b38380728589f9b",
+        "name": "Capoeira Nago",
+        "place_id": "ChIJHe14bhsZBYgRIq_Ghm5wHpQ",
+        "rating": 5,
+        "reference": "CmRSAAAAcdowWNAvyj3duNq4vqj5wN4vDapLtAbaC-grs8M7QSGjUyO1Ng9kaVDet1_Tizu3Th616BCYNJQjqwWgp3Bg8hPOSwDnALbLBKm6QgANlNWRD_sy8UEN2gkxnmJTc-GXEhCOqOvtC0O7oM-8l9qsaJ7WGhQ7zkHW5tuqXBFiBxsKcW7LYAxwLw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "609 East 29th Street, Indianapolis"
+        "vicinity": "932 East Pleasant Street, Milwaukee"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9980772,
+            "lng": -87.8917141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.9994954302915,
+              "lng": -87.8902625697085
+            },
+            "southwest": {
+              "lat": 42.9967974697085,
+              "lng": -87.8929605302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc5b16e5c9b8c070a90d48ca5c2a67c3037702bd",
+        "name": "Body and Movement Capoeira Angola Association",
+        "place_id": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
+        "reference": "CmRRAAAAp3yVGFv-9ECzXAPpJxekV_BrT2d0qBwlCqTlwucT5pXxEtxW4pXogIASuU_-Zs2i6YaM8Qmii3J10DaTnmLG2P4VkLg6Tr4PnyhI4OCxtbqtsKQHHQoFtvawPkqWLeWKEhBe2zo9PQbI5Kn8DYpLw1IWGhQsbYLkMKyt3Vz4TRtydgXhwLPyjg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2499 South Delaware Avenue, Milwaukee"
       }
     ],
     "status": "OK"
