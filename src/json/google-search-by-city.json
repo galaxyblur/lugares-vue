@@ -1,62 +1,20 @@
 {
-  "city_name": "kannapolis-north-carolina",
-  "city_rank": 830,
-  "city_population": 44359,
+  "city_name": "charlottesville-virginia",
+  "city_rank": 831,
+  "city_population": 44349,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.4873613,
-      -80.6217341
+      38.0293059,
+      -78.47667810000002
     ],
     "rankby": "distance"
   },
-  "people_per_result": 44359,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.21967739999999,
-            "lng": -80.798678
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.22081353029149,
-              "lng": -80.7973582697085
-            },
-            "southwest": {
-              "lat": 35.2181155697085,
-              "lng": -80.8000562302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d948b56efce10724fd5fc68788e9876c08859d39",
-        "name": "The International Capoeira School",
-        "photos": [
-          {
-            "height": 3036,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109089230800118934888/photos\">Nathan Hayes</a>"
-            ],
-            "photo_reference": "CmRaAAAAes4N30G2b46W5luJF6N_Pvq8HKNCIFuTjWO7rmCrmG2ujW-tsxv8zF_9EVNSOLZqW-rE3L0YQ0WNRF_zGovyeIT-GmomXPyGnlpVHhYmATEboPuiEqcK5Kag_fdaFA_QEhDJ6Al5XPPCgIZJ1IROL4POGhQrPRPT1eqb77tR3b_iKFQ7rqHBdg",
-            "width": 4048
-          }
-        ],
-        "place_id": "ChIJ9yk9ZvcfVIgRT79rJBbb_eM",
-        "rating": 5,
-        "reference": "CmRSAAAAcvvsq9r5vXgHuKlPR8bfi8dDp8W16gRCORguzXx0KEO1050m67k8gCeftCpqkbu8VPCpzIRcNC0tKlgkpH0ZHg5a1SLUrMYbWv1PS3KS3UIHRTWCwKi-i59JYJqkCAS5EhCFai0BKvjzANQnhVxskhwLGhQ9H5rTB4V4ve0NqmGnI7C1AOaAOQ",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2609 Central Avenue, Charlotte"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
