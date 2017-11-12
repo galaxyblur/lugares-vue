@@ -1,20 +1,108 @@
 {
-  "city_name": "lompoc-california",
-  "city_rank": 844,
-  "city_population": 43509,
+  "city_name": "el-centro-california",
+  "city_rank": 845,
+  "city_population": 43363,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6391501,
-      -120.4579409
+      32.792,
+      -115.5630514
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21682,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.65859479999999,
+            "lng": -115.4501826
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.65994378029148,
+              "lng": -115.4488336197085
+            },
+            "southwest": {
+              "lat": 32.65724581970849,
+              "lng": -115.4515315802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2bb7d2088863e71948ec4c9e891414c17ebd7427",
+        "name": "CAPOEIRA Mexicali",
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112691419559891540486/photos\">CAPOEIRA Mexicali</a>"
+            ],
+            "photo_reference": "CmRaAAAAdoXbFhih4JtvapjWISRcauJVHfS3CMHffnVlP4ZoaoRe97hT8OCfgtQk4rG8DfpvMH_zQLrGUW-etd95c2rlGwf8AKT08oiT8pBt-s1aGnODDcso8O_z-4rmaYnaQnxnEhBUXqp27W1G6Y6XBo2n58OOGhQ0CdVN0sD3eSb50qwgwsjpl8bKRw",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJi-HyUBVw14AR0XcmAMdZLuw",
+        "rating": 5,
+        "reference": "CmRSAAAAVFmdSJgmNT3qMrd_t0KwgJPPT5LBrbSp8Tsa7gKshPXn1GtD-FK34AzdPZcRvIa2pos3fYGjtYl1WJgIgluWH-DQ6T5Hw14ItBw3AHXuX_bgwo2thxGSpW6nIti22FdtEhDjogVhbm3fmyQIDMIRHJMFGhSkIYoQg52eDM6PAzjChTxAGvygxw",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida República de Uruguay 99 Sur, Cuauhtémoc Sur, Mexicali"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6170048,
+            "lng": -115.4052545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.6183544302915,
+              "lng": -115.4039324197085
+            },
+            "southwest": {
+              "lat": 32.6156564697085,
+              "lng": -115.4066303802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "27806084d7dcd1607a48c4a3bf5d83ab14a4f137",
+        "name": "Capoeira Brasil Mexicali",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111043538642937907494/photos\">Promocao Sanchez</a>"
+            ],
+            "photo_reference": "CmRaAAAA812FNdr0G47JxGDn2Sm5tl8sRg_lpdnSLae7qnkuluMFpupZ5fkC_IqBNIibTG0JZW0bwqzQNkfNI2ABWeIXLsichdu7lWOYFMSXdN0NqfrR8Kd3aftwThgRvHjENDgKEhD244GadzZPa74RlyaRn6eRGhQ4xufryS22ROe0Mvl2nQQrT10oig",
+            "width": 2560
+          }
+        ],
+        "place_id": "ChIJJ9wzrTlx14AR2sMWqZ7_zOg",
+        "rating": 5,
+        "reference": "CmRSAAAA8lbgbT0GM3BzBz6btEBu7JOa7W0bSt-VXbqt1OcqVNN9CZNwFxEDBXDWPr7zaPFMjlUbzQv9DWZ7tIEAA-CxsZ7wMmLzmxtix1FaDsQFt-KmiDfSlDZ2E5pj1nbS5H4kEhCnXtWQDT_sezmQoWSSFDmtGhTADc_fCE-k02sgCeUjxlRgfwmRSQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "y #2004, Bulevar Venustiano Carranza & Villa Avenida Valle de las Mariposas, Villa Bonita, Mexicali"
+      }
+    ],
+    "status": "OK"
   }
 }
