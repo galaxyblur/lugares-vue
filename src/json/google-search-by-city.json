@@ -1,64 +1,20 @@
 {
-  "city_name": "urbana-illinois",
-  "city_rank": 878,
-  "city_population": 41752,
+  "city_name": "plainfield-illinois",
+  "city_rank": 879,
+  "city_population": 41734,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.1105875,
-      -88.2072697
+      41.632223,
+      -88.2120315
     ],
     "rankby": "distance"
   },
-  "people_per_result": 41752,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.11245,
-            "lng": -88.208343
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.1138126802915,
-              "lng": -88.2069946697085
-            },
-            "southwest": {
-              "lat": 40.1111147197085,
-              "lng": -88.2096926302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2205694c43c90fb322cf0674e230004e517272c3",
-        "name": "Capoeira Angola Center of Mestre João Grande-Illinois",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1121,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107750628238277818830/photos\">Capoeira Angola Center of Mestre João Grande-Illinois</a>"
-            ],
-            "photo_reference": "CmRaAAAAC6ZC2O_ta4l738I1Pvae2sG6TOhR1T90IJlRAEKSXh2vbXQvjC5fY72S-kbUQgiI19mEpL5rm7XWARVnav5bNbLXbbpJH7zU1_UghuMMODY6XRdbx2IJuEQJE0M-Xu-bEhAo60aX9Hdx5qBPTNjyngrOGhR03OnFTd0Xeg0QB9-6vIaHKQTjeA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
-        "reference": "CmRSAAAAaUhapbc_Pv32QIJtyWeMY091L7XgUN1EZlXD6OdVPr3-3t5suGmWo_ETnc-GzEmSYRbrFYA8Wt9gNwRiLQGObGda2NGbod6_VkqLC_LEH1Qo55lWibr0UQJITqMzRyAWEhAa44zRE427MHKrjjFSD0LKGhT3cCgPzWbjShl8vfgRkIcKDcditw",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "122 West Main Street, Urbana"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
