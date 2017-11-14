@@ -1,20 +1,410 @@
 {
-  "city_name": "plainfield-illinois",
-  "city_rank": 879,
-  "city_population": 41734,
+  "city_name": "manassas-virginia",
+  "city_rank": 880,
+  "city_population": 41705,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.632223,
-      -88.2120315
+      38.7509488,
+      -77.47526669999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 4171,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.8581853,
+            "lng": -77.376988
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.8596287302915,
+              "lng": -77.37568696970848
+            },
+            "southwest": {
+              "lat": 38.8569307697085,
+              "lng": -77.3783849302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e7e8c6459512ac588b3328b5437eaae8894aec1d",
+        "name": "UFC Gym Fairfax",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106655953705764189824/photos\">UFC Gym Fairfax</a>"
+            ],
+            "photo_reference": "CmRaAAAAQrcBEjkxi4I5pwgHRZq3EdvS42eoFPvnAe-O6CVilxLbc-q9ZcwnUu-Ei6xxg7sU4Wp3wERsxLTHzAmQpqzn3se8NafXwm19hrVh0QQets8EsBrIIrcJuxiKGlByPq-bEhDmCIgJyPOVJBjCBnIqYb-7GhRfN3cchOuBn6VgexRbhAhJfV8Htw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJdXjKxmFPtokR8Ux45orttII",
+        "rating": 3,
+        "reference": "CmRSAAAAOxjs53iM2j9B_ZJ9lpATbQkVyaMjUN4DVg3nVsdhL1_83UMIvbcmTBoJC1fWWVrNWjlig0wJQn3ultn284RN7Ry3eluPVUuhdwhIRZi17Ip0svy8w3PvbTGKW_T8wpaQEhCGg1e8Q2TNPtJhZc_mAS8HGhROffuP_kaq0BpxzsSZMdEWanLpug",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4475 Market Commons Drive, Fairfax"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.67471440000001,
+            "lng": -77.3339231
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.6759558802915,
+              "lng": -77.3325827697085
+            },
+            "southwest": {
+              "lat": 38.6732579197085,
+              "lng": -77.33528073029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b00d2437a52193eae249e74e3f32c78d4a5046ac",
+        "name": "UFC Gym Woodbridge",
+        "photos": [
+          {
+            "height": 431,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106445684962981097350/photos\">UFC Gym Woodbridge</a>"
+            ],
+            "photo_reference": "CmRaAAAAaFtsRtrV88Diyvkd5noCwQC6k9nAGVkrkbO_dBDQ00ubbVhbaYumY1FlbyOVjIAI3-wd_qtTK8UJSppBilHlxKvhWhflyy-jANCYfyPBcUnI9v6KfR7rmv3Yi69F2_coEhCm2wHKia2ZUL_P5nKATVkIGhRW3M0KH0aSqr9cTCMjFbZT55xGvQ",
+            "width": 763
+          }
+        ],
+        "place_id": "ChIJuaUKygFXtokRbyI7SIreAo0",
+        "rating": 2.8,
+        "reference": "CmRSAAAAO8Y2DIXSaRlNjJ6LHyZyf65Tp_3MQymQEehGWpkET_lGqc3BTdfWxPLrcQEduq6cvsPW7xr_mBWlmCkRWDd8A4ll9RwgRdlI28tznxMti_nMjWRkqrSY7a_ILfdHdg1wEhDYuQHYLRAWA1bpt_iOxvbEGhTX6yWNTjj1GmWpSrgEmdYsn504WA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4188 Merchant Plaza, Woodbridge"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.88332699999999,
+            "lng": -77.435705
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.88488558029149,
+              "lng": -77.43427551970849
+            },
+            "southwest": {
+              "lat": 38.8821876197085,
+              "lng": -77.4369734802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1eeb437d72adbf6e7b1f270edb249c2422decd14",
+        "name": "Fairfax Jiu Jitsu",
+        "photos": [
+          {
+            "height": 1363,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104380700601983472165/photos\">Fairfax Jiu Jitsu</a>"
+            ],
+            "photo_reference": "CmRaAAAAYvoCzGQ_Pok8EUYRBvzvCa-2nAMhn32r2CfXrANbHLTMHrdl6furDpmIsXToo0nrWDfTIPiuwJ2ih9a91nxgW1sDcVPUwmGxzSMrF0sW5_O8_1_4gk2W4d-85f8npTbpEhBW5om42OlZXWwAxpOIYnm7GhQ_R_wttDy6CqgtZRZsBsWy36vhSA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJWUfXEkhGtokR29F8xCA7ZYQ",
+        "rating": 5,
+        "reference": "CmRSAAAAiL0Mx5hdndgVZaqWjl4TYjA9y_VH8oJoPJPRpewBeMHI6ldrCwqLCcBaHkbud3ovcmW15JKJBas8cTp8_lcrbCxWsZb2iEh8TeoEyuC6UFJ5ZBkSYCD1XxNVB90flmRkEhDBi_NbcHjWyuQJXk74wZbxGhQJ_0tQO3TOv8PbGFYHz315xxl-kA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "14119 Mariah Court, Chantilly"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.8293845,
+            "lng": -77.1967708
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.83087638029149,
+              "lng": -77.19574701970848
+            },
+            "southwest": {
+              "lat": 38.82817841970849,
+              "lng": -77.1984449802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "388b46f51eef34c26c0a0e30d15e5a77fbb0b98d",
+        "name": "Grupo Ondas Capoeira Virginia",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJR67lVNJMtokRQjo9HrSIIK0",
+        "rating": 5,
+        "reference": "CmRSAAAAYG5MGOWKcOqSXwy0vvXnIFZnk5SOAN2j3eAqJfeyf-1IEHUr168GT_3LmXJJtkemSi5lC9fP2AHeElhsvcYraB-uElkIJiLAx_Wdk-78RUlJkZaRUu4bdz6tEiBaQr92EhCcAHnVkw95lEQHstNxQE9bGhTyXX_o3neooBE-HtVx-Jm1i1Sy2A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4317 Ravensworth Road, Annandale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9117368,
+            "lng": -77.0360719
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9130862302915,
+              "lng": -77.03494431970849
+            },
+            "southwest": {
+              "lat": 38.9103882697085,
+              "lng": -77.03764228029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b43b771ccedb73fb16a5818f7b87807d241b5421",
+        "name": "Capoeira Fitness DC - Capoeira Barro Vermelho",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3313,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100835181527565456058/photos\">Capoeira Fitness DC - Capoeira Barro Vermelho</a>"
+            ],
+            "photo_reference": "CmRaAAAAOmsMWpuFyf_Qaz2vpXY6Yw4x-UCen0CVYMFqf7z9oXJX6u1ThqLYX5p5zPrPR-j-5mvasGTZspxp_lUulb8b7dJsNPYgFHstpIRzS9-z2WgBVQcKof0hybygKMMkRDw5EhCZHD-xXDOTEnd4aO9uBgxuGhR5CLWQ7snqgDovk71A_D5-tZRwsg",
+            "width": 4141
+          }
+        ],
+        "place_id": "ChIJ--GHK8K3t4kR7JOqIJTYSWw",
+        "rating": 5,
+        "reference": "CmRRAAAAkaj92GqhFJ9VB3ipBgFtR-GhCqL6fbjKKGGg2SE_6Jv1di0XI0MDDeMrw1msxBZOdlLxOL32JptsFD8B6TSaRM1D3oJrHNoVL9ZfddIsZwdWvilnUxkH5AbI78GB4VrdEhB5UhFBc4IUx0pVXF-QxjJlGhTXznmnVSQF6Mi55gOuqUtJx7n9Og",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1611 16th Street Northwest, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9172649,
+            "lng": -77.0311462
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9184868302915,
+              "lng": -77.02979901970848
+            },
+            "southwest": {
+              "lat": 38.9157888697085,
+              "lng": -77.0324969802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "282ef5a408f2353b9b957f8006816e220912c03e",
+        "name": "Universal Capoeira Angola Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1588,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116567867559936487566/photos\">Chenault Morton</a>"
+            ],
+            "photo_reference": "CmRaAAAAIhnwWkWwtcprpfPi8VsIQoOqNgR8q5YynaDs50h2UxdzPTQNPO8FeOv3UXVv3lwje6zNfjA92LhkUBNY4KjltZPkxmtMAQ-RU6qDIwBMf8Yw4LMSZzx5xA0c-IpLwgOVEhDBhat4WPXZ2Ox598BRhhaPGhTSjGCVBYMhv5kH2nEC3JHmYgD0wA",
+            "width": 1018
+          }
+        ],
+        "place_id": "ChIJ45QfDca3t4kRpgZXkMFCoj4",
+        "rating": 5,
+        "reference": "CmRRAAAAihjfUs9LNwq_hQPpEqyo0JJ3YYKZmxO-TjOUKjMpjlg8FG9nRt8ev-XB6GPieBkLHuKLDDds40K1h-T804V9KmEBaVa6ijWRNwG1Ut8VAw943kZn3-9d6VXCM3YlFG8VEhAmrxrK_C1-Q_ucMb4vovEjGhQ_SM8tpmP_3DLXGT43vDfg2NJgBg",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1351 U Street Northwest, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.92427199999999,
+            "lng": -77.0237664
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.92551993029149,
+              "lng": -77.0224015197085
+            },
+            "southwest": {
+              "lat": 38.92282196970849,
+              "lng": -77.0250994802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2a8166838027d5eb82d3a7034651af52d4a213fc",
+        "name": "International Capoeira Angola Foundation",
+        "place_id": "ChIJ-VRYk-K3t4kR_-oSh4Kcz5k",
+        "rating": 5,
+        "reference": "CmRSAAAAlfIZ_CHmfPdw9a7qnY0wgwyblcmE3QmrsBOQ0xUUrSvkd_bYNF875_9780-o8HRBtobjBeIfKJjpRK5gGFolnNPSIYA2XkGK1ytiGe2x12QSwxrFXJv2ELNDgrolRatZEhDaIDOqYkYjgeLDz4Ja3EqyGhS7HK_SxC4II1EYjOJ7YaZRdJLV6A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "733 Euclid Street Northwest, Washington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.0745836,
+            "lng": -77.13844399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.07639948029149,
+              "lng": -77.1365447197085
+            },
+            "southwest": {
+              "lat": 39.07370151970849,
+              "lng": -77.1392426802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a630eb9d1bab5abd650ee19ea28344d30ef15a5d",
+        "name": "Abada Capoeira DC",
+        "place_id": "ChIJLev43aTNt4kRkOaX0I_xdEk",
+        "reference": "CmRRAAAAitYHlIJNCvXPbOyH0ag_JojI60AORJUGhxbOPILn7adJu_SJdRKUD5BUM_vUpzAKLt-OXPlbW8CV6fKyepG7JxZRAhAEM40xv0hD8_pPNoMaXljdwcAurAOMBFEgVETFEhAnHE_4r02JpAw27AIrF7aIGhT9S2aD5-iRtNeKR0Q7L_VRf4j_6w",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "837-d Rockville Pike, Rockville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9745732,
+            "lng": -77.0116168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9759221802915,
+              "lng": -77.0102678197085
+            },
+            "southwest": {
+              "lat": 38.9732242197085,
+              "lng": -77.01296578029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f16c75f534a4fdf7eeb46aaf2c1b7c0fd9140be6",
+        "name": "Capoeira Sul Da Bahia DC",
+        "place_id": "ChIJERgEuYLIt4kRnCOeQw9YD9E",
+        "reference": "CmRSAAAA2iHPApI4Zgs5KzhMHwEFoGy6cZsMQ9LGI9qm-TZOPVE0ijkmwO-RB9B9PGRmKFQSRieBSUIamnj59TAfzc2XMlxJcb1sFaoYlrW3roptACO_CXb58eyVaB2V2gLOFmXiEhCB_aU5POeSuIJc5UlTa4K9GhQe05jZBE4cb6j-8b6_izxKmuyOiA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7014 Westmoreland Avenue, Takoma Park"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9295765,
+            "lng": -76.9757362
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.9308415802915,
+              "lng": -76.97432171970848
+            },
+            "southwest": {
+              "lat": 38.9281436197085,
+              "lng": -76.9770196802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "783860a7af432fde42f1d70ed7c749d093315bc2",
+        "name": "The Capoeira Spot",
+        "photos": [
+          {
+            "height": 816,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115527755269739039499/photos\">Mekonnen Gabremedhin</a>"
+            ],
+            "photo_reference": "CmRaAAAAt6orFSPCuFSbUATpJY9clTpOZnzNchxWm54pgncFhqIMZWQx3LNijw6dt4-SNylJaqX6ndYM2i-tlwqsRKF7i7wOEPpG5KL9m8tkIVv4FSqIrYnud3yeRU8PK13HxP_-EhD3i3jeld6b3_PDtNDa9T6OGhRLuwELNa_AfgmJxPqBMqzrklvbXw",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJTSs-WIXHt4kRZuLSoO1ptng",
+        "rating": 5,
+        "reference": "CmRRAAAAPDDw0Ue8v7gV7Qg1yFMXSz1EVjnZWcFIf-hC8P3YwAy5uRBsw2qpi-NCwpLse2WDz3rB8ICnOwWhwbqtGUbqUtXKw6W-KpWSYVU3YJ-fX9CJExg_UKYtXfSFEXAv8mtgEhAyYBLyoNZZZ2fS2LkSP5NXGhSVOhJqTpYFc1DJYvsWwW5-KBKQxw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2008 Rhode Island Avenue Northeast, Washington"
+      }
+    ],
+    "status": "OK"
   }
 }
