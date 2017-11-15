@@ -1,20 +1,91 @@
 {
-  "city_name": "crystal-lake-illinois",
-  "city_rank": 912,
-  "city_population": 40388,
+  "city_name": "fitchburg-massachusetts",
+  "city_rank": 913,
+  "city_population": 40383,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2411344,
-      -88.31619649999999
+      42.5834228,
+      -71.8022955
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 20192,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.35238899999999,
+            "lng": -71.5334938
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.35373798029148,
+              "lng": -71.5321448197085
+            },
+            "southwest": {
+              "lat": 42.35104001970848,
+              "lng": -71.53484278029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a8a7c8677433ccf3fed3947a638c89a519c34355",
+        "name": "Capoeira Brazilian Jiu-Jitsu",
+        "place_id": "ChIJq4qNY3yL44kR-yJaPd1dca0",
+        "reference": "CmRSAAAAkEORw5OEZsw69cLSJqU2dX087LK6hxc7L88vyS2TtkXFOTRXcR52HZIRgxfvnVJ8is-O0AnrJwXPzM4w9E7UxTBZqWeoL779Ng1uYn5_VvzIQ0VYbDgYC98mDz6bTRYfEhBvbfP1M0RQ0LmAmS1NQtoZGhTAs_MvpzVxeI9XX1txYYueoxnXyg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "24-28 Hosmer Street, Marlborough"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.351699,
+            "lng": -71.5338002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.3528978302915,
+              "lng": -71.5323492197085
+            },
+            "southwest": {
+              "lat": 42.3501998697085,
+              "lng": -71.53504718029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5f1d6164ed100fa3c2abb1455c7dd60f16b302c6",
+        "name": "Marlboro Fitness and Martial Arts",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116652928616832309820/photos\">Marlboro Fitness and Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAPO4BdgcvuadOXLP87r_VspcapzlaiCLPxpLe6V4XUW_PmIuJUqbed6oGedZ1VRKJac09No_88hD8b1RbU3hLK8EEgXOSYIB6UScsp2uSVx7v1ufy4HFcd1NLP3No-fFbEhC4s1uz1wHhh7hnvKYBcXBBGhQw81ss7ih7wjtftsPPi26yaQGa7A",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJz_w9eHyL44kRqzyT_3JALeA",
+        "rating": 5,
+        "reference": "CmRSAAAAOSeF9ZAOtK28OH8HpjReSkVr1nZO2eYUc3GK1q71X31rFIZoLCmEet7Eb_l3UinmEMm7n0dHmRFEQkM25adoXKyuTtT33GpDK-sPDJkqRAPvnY2E0iCjJQWRwKVxYffIEhCx4Iozx8YvUxt4jIKwYomDGhQDrq_2SMWZ2lKzr5toUK7PauG0jw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "282 East Main Street, Marlborough"
+      }
+    ],
+    "status": "OK"
   }
 }
