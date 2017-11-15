@@ -1,20 +1,66 @@
 {
-  "city_name": "mankato-minnesota",
-  "city_rank": 905,
-  "city_population": 40641,
+  "city_name": "hagerstown-maryland",
+  "city_rank": 906,
+  "city_population": 40612,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.1635775,
-      -93.99939959999999
+      39.6417629,
+      -77.71999319999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 40612,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.67468299999999,
+            "lng": -77.5622719
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.6757865302915,
+              "lng": -77.5603474697085
+            },
+            "southwest": {
+              "lat": 39.6730885697085,
+              "lng": -77.56304543029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5bb635cc1b2bbf01de93686c786ea7ae30612afa",
+        "name": "Flowering Heart yoga and Whole Hearted Health",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 532,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113928908944884188977/photos\">Flowering Heart yoga and Whole Hearted Health</a>"
+            ],
+            "photo_reference": "CmRaAAAAL88uWJUwejHQS5JSXarudlTNichJI9jN-jyCH1qR-X8WcJFNGdhXg4NOnUfnptuWuI3Re5oCIyqrQdvhpoilcI_JTxakWBP8cq7MJn9UuFWvPh_xS5_cDaalM0nrQJNJEhCA810hyD5poyQU_Vi-P9TkGhToo77MOR00X5xNpt5wBYq4HRRRrw",
+            "width": 793
+          }
+        ],
+        "place_id": "ChIJJevWAH6VyYkRy5YAk0HW9P0",
+        "reference": "CmRSAAAA_KR8yV-kE4Zn3OsKwROs_6Oo3myM0MIyBTf4BR6gfZzbZ3FHLfWFCGzAPhWH9c5e0sGA4uyVeQtHO89YCGkPwa_G0lK24y8ZA_qYDABoCHUKyviFJn9wVPALQLkX60qLEhBf27pe1M_maRtrZb1tTn7TGhRE74jhzIXREOO5WSnCtZ4VjQfHTA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "13112 Bikle Road, Smithsburg"
+      }
+    ],
+    "status": "OK"
   }
 }
