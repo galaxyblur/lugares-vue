@@ -1,20 +1,66 @@
 {
-  "city_name": "huber-heights-ohio",
-  "city_rank": 967,
-  "city_population": 38142,
+  "city_name": "lancaster-texas",
+  "city_rank": 968,
+  "city_population": 38071,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.843947,
-      -84.12466080000002
+      32.5920798,
+      -96.7561082
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 38071,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.9302614302915,
+              "lng": -96.83128836970849
+            },
+            "southwest": {
+              "lat": 32.9275634697085,
+              "lng": -96.8339863302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 379,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116170564287772599311/photos\">Dallas Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAlXkQOjYyXDx_ffiWnfzUle8yItVw3FgW3_cNDk0CKC7KPiKjjrGEshsCpbmn2D9KeTl9brWfwSYkX9fUwXYcp_l4gAADA9oQe5Komkk7V0uBgF3A5lAVJtVAqiwd0-uDEhB63JX9qhmOvE3N-DT6ir_YGhRSeJ73eWtbHn1y12GqnAQm04ZnHg",
+            "width": 570
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRSAAAAq_K_Sy_wm4YnFIGcXRIlMHFMMib-Tqfw-pMOsgNsdZIn6efKnYCeAwu_DKt6F-CVxg9EI_a8-D5TTuoMei-a6GG4hZ0_HUJ5tjHlgNjetezj2pBqdYmfytz9YO30jPuaEhCezsly6VRaslWcj4dCjnZRGhQajssB81xNE1S1jXLow3aLOO5YpQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Road, Dallas"
+      }
+    ],
+    "status": "OK"
   }
 }
