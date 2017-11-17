@@ -1,20 +1,52 @@
 {
-  "city_name": "muskogee-oklahoma",
-  "city_rank": 952,
-  "city_population": 38863,
+  "city_name": "cape-girardeau-missouri",
+  "city_rank": 953,
+  "city_population": 38816,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.7478769,
-      -95.3696909
+      37.3058839,
+      -89.51814759999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 38816,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3030064,
+            "lng": -89.548312
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.3043386802915,
+              "lng": -89.5469652197085
+            },
+            "southwest": {
+              "lat": 37.3016407197085,
+              "lng": -89.5496631802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "42cea4d12e2e0df5c98887620aea34716298bdc5",
+        "name": "Simmons Family Martial Arts",
+        "place_id": "ChIJL781yP2Hd4gRydGJsDD3GDc",
+        "rating": 5,
+        "reference": "CmRRAAAAx8HNlBiVwCrcfx9RYf4zlMriCb5_OcvHdJLAbGj-cC296HB840Tc0FZpuFbeY_YV8nqR78tkmMoNVtO_gmAu0F3NKmHJN71dmetFKOwV2gIdqsJHRMZiCaC_vNpP_jZKEhDBsIisXQpaOP12nnP15b3sGhTcYsJtaT1yvkWeO1CxJ9m_IDVqFQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2129 William Street, Cape Girardeau"
+      }
+    ],
+    "status": "OK"
   }
 }
