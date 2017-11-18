@@ -1,20 +1,66 @@
 {
-  "city_name": "florence-south-carolina",
-  "city_rank": 973,
-  "city_population": 37792,
+  "city_name": "roy-utah",
+  "city_rank": 974,
+  "city_population": 37733,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1954331,
-      -79.7625625
+      41.1616108,
+      -112.0263313
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 37733,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7667678,
+            "lng": -111.9106359
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76829653029149,
+              "lng": -111.9092685197085
+            },
+            "southwest": {
+              "lat": 40.76559856970849,
+              "lng": -111.9119664802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "444c5f04635f4254114077eb2ad479a143995288",
+        "name": "Salt Lake Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAA5Rq2faxPUx4djhb0Sc-Zy_JVdcGhagm_vhrvn6UbBeZ7Byan91rx3TyfnOce42CeWDGvSb2Ev8NqC3YL3qWt7wOPg9DUUgJN-DuallxqYgoynaxMwW5oqcuUaoVNXE_oEhADR3Atk2Id1p0kjX5Xos2tGhRyQy_0qnh6T3eCxqC8y-CD8sIGfA",
+            "width": 852
+          }
+        ],
+        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "rating": 5,
+        "reference": "CmRRAAAAvhE4DfR5ZiIhgPj7_7-UtIgjFKOxxylFp-9VCRKd_xB1W7EDlbgVVy3RBAY1hNrfsGFEXYLept7HCYv-6QT6iS27wLRm9yai9gSJc-Z5F1XzhRB7rH3IcjJ45aMIEugtEhC5H4KnsTfaGR-SyPEPWC4WGhT5-CFQX7C1enez6fdH0mDSQUqhag",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "West, 663 100 South, Salt Lake City"
+      }
+    ],
+    "status": "OK"
   }
 }
