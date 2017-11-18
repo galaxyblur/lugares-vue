@@ -1,20 +1,111 @@
 {
-  "city_name": "dover-delaware",
-  "city_rank": 987,
-  "city_population": 37366,
+  "city_name": "lincoln-park-michigan",
+  "city_rank": 988,
+  "city_population": 37313,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.158168,
-      -75.5243682
+      42.2505943,
+      -83.1785361
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 18657,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4602986,
+            "lng": -83.1370883
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.4617724302915,
+              "lng": -83.13574626970849
+            },
+            "southwest": {
+              "lat": 42.4590744697085,
+              "lng": -83.13844423029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
+        "name": "Capoeira Mandinga Detroit",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1626,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAA_tO1f5WZniqztoiLDeHws2ApfDPIJhO7dzU4d74UaERFQXACslS17-VO_BiuTUnnOJfa0LQq_XplX-3IqR37FgWG3jPRHziBlv34pnivWYOVstoI4J-K5yCILk6aGwDTEhA28_dexrdImaXNOW_Wzl0XGhSygXTOjZSt6B6vV9YkDxY2TXohiw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "rating": 5,
+        "reference": "CmRRAAAAPQHNVnfS1TzxUNs-rm4r7X4eLOqmXYea3tOLtnCp8EkRqFU4-XbusKR1-vI1gWqYgAhARNiwlOsIw3_AMH7wZ-tpeLEVmobuO4ZCz1ojdsBiu9oMHA7d2GvqXjucpNYBEhDPOkCFRIjWj_ZrI1HReJfWGhTwj456rLvaoQJ81Y27_Ont29gXZA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "247 West Nine Mile Road, Ferndale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.50065949999999,
+            "lng": -83.3608659
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.50200848029149,
+              "lng": -83.3595169197085
+            },
+            "southwest": {
+              "lat": 42.49931051970849,
+              "lng": -83.3622148802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 414,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAbxwAqwiierD0aq91utHH1Rrl4oQklvZDNBTN5atZTt9TXlfsuLxy-9Na_eSfEueyNYTMyBe4sAk1T0qfy__JCsCFoGAmHZAAqAyLhfkB6_Rru5woJYXHaq0JlbqX3MqDEhCTBKB24TQtDTpHOWRGgE7vGhTGOz7cH0EDZHdz_gP5agmief2Xqw",
+            "width": 820
+          }
+        ],
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "rating": 5,
+        "reference": "CmRRAAAArcWGLXifqH5MnY9cYa2qqXt-fQQVt82kT1vYLcWaxncK87ZjrfXDNovt43t2rH9GuKSvX1QzRHXPnVnywI4LmikIT-QDInZPLiU_u7nCu6sZutgLC4_I_kvaOUSaVjpGEhB8-NfkB2j3RiRXVG-5U3VWGhQ8g4bfLHz2iU4De-IS3Ob1tUWY6Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "27865 Orchard Lake Road, Farmington Hills"
+      }
+    ],
+    "status": "OK"
   }
 }
