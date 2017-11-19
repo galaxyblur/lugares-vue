@@ -1,20 +1,61 @@
 {
-  "city_name": "ahmadabad-in",
-  "city_rank": 43,
-  "city_population": 3719933,
+  "city_name": "abidjan-ci",
+  "city_rank": 44,
+  "city_population": 3692570,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.033333",
-      "72.616667"
+      "5.309657",
+      "-4.012656"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 3692570,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 5.358947800000001,
+            "lng": -3.9935088
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 5.360296780291502,
+              "lng": -3.992159819708498
+            },
+            "southwest": {
+              "lat": 5.357598819708499,
+              "lng": -3.994857780291502
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "06db9118bc5017862d5eaa71c2332fa7c5be5665",
+        "name": "Owlavé",
+        "photos": [
+          {
+            "height": 682,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117842319830056918480/photos\">Marcia Kablan</a>"
+            ],
+            "photo_reference": "CmRaAAAAdt9TrPG5YY9CbUFJyXjEcgqUcMgdPlibvhWH_mt21FwYmtp3RbvP3myvUJrN52sUw8SLfkKMlVnw3k5dIAnmWh6g5L56DJ0NLaGLyBpst2w7q_yXbInYAuxutbM-cibmEhA0KVp_muXlD-_IfTd8WqA2GhQpDK0rX2cShW_HpeR1RDAb72RMwg",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJyZiSSGfrwQ8RiX5EeZrgXjU",
+        "reference": "CmRRAAAAqDXZVPRhqRAnROfZ_khIUJWl0mHvlzpeidn1l8_Y6MG-50kp0f079haLHHje8qOUIQv2WJBsmhJqC92d9SLxCB6zYPUU67lZpysquBrnI8Gp5_-j6Pop5U_0mg4g3wPVEhBKbFgWl6_xfTZuXT7wgDFxGhQuOhkwArP2sDJvjBgPIUlzY4dHog",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Abidjan"
+      }
+    ],
+    "status": "OK"
   }
 }
