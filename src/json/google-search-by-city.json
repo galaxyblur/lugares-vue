@@ -1,20 +1,109 @@
 {
-  "city_name": "ho-chi-minh-city-vn",
-  "city_rank": 53,
-  "city_population": 3467426,
+  "city_name": "cape-town-za",
+  "city_rank": 54,
+  "city_population": 3433504,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "10.75",
-      "106.666667"
+      "-33.925839",
+      "18.423218"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1716752,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -33.9264651,
+            "lng": 18.4453958
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -33.92506991970851,
+              "lng": 18.44675173029151
+            },
+            "southwest": {
+              "lat": -33.92776788029151,
+              "lng": 18.4440537697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5a5617befb7d59572434532e8baad6a1d2468c67",
+        "name": "Capoeira CDO",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 486,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100994240938710066880/photos\">Sam Soosi</a>"
+            ],
+            "photo_reference": "CmRaAAAATXaKKc9fMtR15wZAilbAYbAacPMme3S9-IvqyZ33u0p5HJrUDHGz0Db_Fo6YhBktWkiX6DV3ZmOkjd5BwL1V-Ccqvf0zaAws12VbyrmB1vv6Rn_TELSGVdiq_kmRwNlQEhB7nJ0ER-DeAmoNaHN-FAf8GhTsMkOYyJbgyNSSZ9lFLmgkw573qA",
+            "width": 847
+          }
+        ],
+        "place_id": "ChIJY8mh2JtdzB0R0gsbamm6pw4",
+        "rating": 5,
+        "reference": "CmRRAAAAffFvvBJMtkjcYTv6NwEvODZnyCxs0FA1ayjl3aOequkmWLrkcMFfb6JK9DFix5ZdMm2va0t9ybmjVS8TpGBLr6CDdSdVwUqI-wqabTYA4L3zrY64ImHPrYOSu_Bi-5MXEhB84i41VM_OiTvh8gg7Md-NGhQhub07ldNTcwtZPiLskChZWq924w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "47 De Villiers Street, Zonnebloem, Cape Town"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -33.9384299,
+            "lng": 18.46853
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -33.9370157697085,
+              "lng": 18.4698510802915
+            },
+            "southwest": {
+              "lat": -33.93971373029149,
+              "lng": 18.4671531197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "174ad566745c20fba16037b84e9c3d1d95b98e17",
+        "name": "Capoeira Educational Youth Association - CEYA",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112375786955773293223/photos\">Capoeira Educational Youth Association</a>"
+            ],
+            "photo_reference": "CmRaAAAAcE4llv7Bb_q0w3VwV1LMeOOy_GJ-0YNHxiMM_RupJWUbFmnNtZhUgw6BpAq5jfskL7Rz6NA8i1cuABH1vUuWQl0qjSeWQD4F_EGwxF43QEnpEcj7kvm0hYwCNPxEgjqEEhADDhMtv2ejFIkUKUoHuvX1GhSe8HDGqWMYuapj7OToG4z9LSdryg",
+            "width": 852
+          }
+        ],
+        "place_id": "ChIJuct2hgRdzB0RKu7EvQlSLqY",
+        "reference": "CmRSAAAA_ZGFl3bR90SWjEA69lkf8yFvu8A1FlNvEB-VjSGVUIlU_m3pl7Gt_O8cigsk_Bkm4Oqo9URb4XJlvv5CcM0Qp4IAfNdfvWIUNcyzbmW3LC3tXLeX96aLtyq6vGvYBlupEhCEZCf97Kkn2mR2HfvG88xpGhTHOIiIKndoK_NoVPGsGhZjK7ISXQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "51 Station Road, Observatory, Cape Town"
+      }
+    ],
+    "status": "OK"
   }
 }
