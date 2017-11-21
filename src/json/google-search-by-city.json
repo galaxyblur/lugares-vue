@@ -1,20 +1,65 @@
 {
-  "city_name": "faisalabad-pk",
-  "city_rank": 82,
-  "city_population": 2507302,
+  "city_name": "izmir-tr",
+  "city_rank": 83,
+  "city_population": 2501895,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.416667",
-      "73.083333"
+      "38.412726",
+      "27.138376"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2501895,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.456191,
+            "lng": 27.228968
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.45753998029149,
+              "lng": 27.2303169802915
+            },
+            "southwest": {
+              "lat": 38.45484201970849,
+              "lng": 27.2276190197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "90c1927ca276c26879471baf47585655cdcba24b",
+        "name": "Capoeira İzmir",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101293740301696895415/photos\">Capoeira İzmir</a>"
+            ],
+            "photo_reference": "CmRaAAAACj0PlpcbWVwcLR26SUUe4xkho53dMmGVe5u_NSRam3ZLBRRJiMXpnMEjiD7gXIUA_rgZk03FrwrWL6IJKSddNnBwcIiL6jYjydXkCEMkLZXFrbHD8fHfIEyp8jDyuvW_EhDx4UEqziGwqe8tHDSG6A6qGhQ6cXxJM9GWlmkLgoqjFzvAwaaUXw",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJdeS5XOPYuxQRNYKeseeRZgo",
+        "rating": 3,
+        "reference": "CmRRAAAA-y6nhbzKaxjKShirjq57zozfWKA_BbsqGMTqtNNmiWuRxz6wbthNVCZ670RtYEk1rZyU6d0hVTl0tzZz78zI6Ns0YDHe1dS1cnbd5jqBaCeblEFcSy85yeT7KrOhpAltEhCB8aFR-AWBNHbkyLumtFxtGhQs4axQPIE0XpRB1Y05WYRJzMuHVw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Büyük Spor Salonu Ege Üniversitesi"
+      }
+    ],
+    "status": "OK"
   }
 }
