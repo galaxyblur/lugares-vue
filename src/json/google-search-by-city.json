@@ -1,20 +1,94 @@
 {
-  "city_name": "fortaleza-br",
-  "city_rank": 86,
-  "city_population": 2416920,
+  "city_name": "cali-co",
+  "city_rank": 87,
+  "city_population": 2392897,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-3.316667",
-      "-41.416667"
+      "3.437222",
+      "-76.5225"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1196449,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 3.4224069,
+            "lng": -76.5262834
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 3.423738980291501,
+              "lng": -76.52493336970849
+            },
+            "southwest": {
+              "lat": 3.421041019708498,
+              "lng": -76.5276313302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "ffb4837e3cbd02acfc3a697fac784dd0b45dad8e",
+        "name": "Centro Cultural Capoeira Cali.",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111956564478636335233/photos\">Fundacion Madeira Boa.</a>"
+            ],
+            "photo_reference": "CmRaAAAA7qyX3ZRLP9l3lZhyMqGSioBy2Ar1n6mp3H2dn0x4hZR6DEfGpz5CNg34wWlzldj5t5yHb4Quw_EP6fUWgKHnx-l0mMKnWx9fblvgbk68RjsTPYjBYjFbvALDSf14QFeMEhAx_P4qCgJIbk5Tr0sQDVaWGhRGkcGEpJbI5-W7ROFeyuw5TUNurA",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJnevPjb-mMI4Ryno_h1OnyqA",
+        "rating": 5,
+        "reference": "CmRSAAAA7zgkGtvLwFMtxQUdtLJUn3cZ1urqbFli1me4_7Z4aCe7LOp5wXKeIsvmJOBsDSLBZaaoaHtx_37xIjmYoRRi7bXdoj22Qx23HiqSa1_X3ZOCjR-CPzUYuRn0Deuznz3wEhAuxVRRRteYVOlTcY-YWLVmGhQd-CUhn0XpmqgreuJJEzd04q1n1A",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Carrera 34 #14 C-39, Cali"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 3.437534,
+            "lng": -76.539073
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 3.438852130291502,
+              "lng": -76.53768941970851
+            },
+            "southwest": {
+              "lat": 3.436154169708499,
+              "lng": -76.54038738029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5bf18b3d1d94f39a8b17aa25d451cf1b4bcf9d20",
+        "name": "Espacio Cultural Capoeira Cali",
+        "place_id": "ChIJ8Vu1uIWmMI4Rq79ztWxg8KU",
+        "reference": "CmRSAAAAFhZjpY7rL3wTBqxPgdYEw4VDPTf27kNoUi6eO_6x6mho11tUuZu3alfSZP9UMn6ybzZVymqIqUWNQGXmsEkeAC1chtkkgdmO-hS7u2Wlsm7_zye9ZA0cHg2Ogpi7zqdTEhCho5wGkfuCJhT3WWezgR5eGhStgXrFTskn8fU1htT4Byd4f4U6Mg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Calle 5 #24-34, Cali"
+      }
+    ],
+    "status": "OK"
   }
 }
