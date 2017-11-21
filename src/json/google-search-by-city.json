@@ -1,63 +1,20 @@
 {
-  "city_name": "gizeh-eg",
-  "city_rank": 85,
-  "city_population": 2443490,
+  "city_name": "fortaleza-br",
+  "city_rank": 86,
+  "city_population": 2416920,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "30.0086111",
-      "31.2122222"
+      "-3.316667",
+      "-41.416667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 2443490,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 30.0510252,
-            "lng": 31.24719519999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.0523741802915,
-              "lng": 31.24854418029149
-            },
-            "southwest": {
-              "lat": 30.0496762197085,
-              "lng": 31.2458462197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "cd95cb801833ce9c8a87fa1e3b54bdb2eff0cc64",
-        "name": "Capoeira Brasil Egypt",
-        "photos": [
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106331980314720469412/photos\">Mostafa Mourad</a>"
-            ],
-            "photo_reference": "CmRaAAAAbjlMlRuSYuo7knvS0K6Ur5a6Jb-v__546r3gLtfEyh9GcQ2lB24f9KF5b6Sjs0QmxkYJnEo84JqPVJhePW0RG4nWbzUYDaD87EAcrEFTOFQ5NuG4BfIoguWwsosKj7i6EhA8uZxh8hrhTuSvDH1b9KX-GhR1iL7FMGqzBd0hN7K2vBcIDlDRZA",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJw5GQJpZAWBQRR6sHoO0E-Go",
-        "rating": 5,
-        "reference": "CmRRAAAA-qoFS5hLc7A3mGE16nChnEJ501Cn3EkbGuV-9x1HgE-3SzQdZC9pPmAxcQEKe0GEO6V5Np4IS6VRWByj9OQCPUA-qM5J4rsRciMQC4I-IspGUsKF3UWLU5VrJdyuIOFBEhD7KL6zxgVL0P9unGI03zJsGhS0MNESMlPyii6NS7CVnIMOBy7EfQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": ""
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
