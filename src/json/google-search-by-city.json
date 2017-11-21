@@ -1,20 +1,101 @@
 {
-  "city_name": "changchun-cn",
-  "city_rank": 79,
-  "city_population": 2537421,
+  "city_name": "taipei-tw",
+  "city_rank": 80,
+  "city_population": 2514794,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "43.88",
-      "125.322778"
+      "25.0391667",
+      "121.525"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1257397,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.0580834,
+            "lng": 121.5311294
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.0593730802915,
+              "lng": 121.5324771802915
+            },
+            "southwest": {
+              "lat": 25.0566751197085,
+              "lng": 121.5297792197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "68d86c7112f0976d04cddcdebc0359d205fb118f",
+        "name": "Capoeira Mandinga Taiwan",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJf73WKlypQjQRwm1ke_pt7Ms",
+        "rating": 5,
+        "reference": "CmRSAAAAF4DiGr6KvLnSi89xpoJT9QEsXGiYt1N1I1AKLkJPH3MXjUeqv_p1sBf5dRqIIVfwdcMPVwcbNSMG9qIlcjccKRzv2YXr17yl19XBf_x86rAtgs5KTHQXUIaeooIDX-e5EhCadz72yj8El6AdrC9EMoP0GhSJiHhTfI-VGaYqtu0YZKH2xtVPDQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "號, No. 101, 民生東路二段, 中山區"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.070746,
+            "lng": 121.496013
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.07213268029151,
+              "lng": 121.4973480802915
+            },
+            "southwest": {
+              "lat": 25.0694347197085,
+              "lng": 121.4946501197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "60805d47aaf217f31afa519266c65df8e67688c2",
+        "name": "MarsFitness瑪爾斯全方位運動空間",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1774,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112558374639377109667/photos\">MarsFitness瑪爾斯全方位運動空間</a>"
+            ],
+            "photo_reference": "CmRaAAAAshUggtOvAcDhD73n2eCCDOR5wHn0piB2COzvt1KQzC6O6JSKGVNcuS8_SLWa3S17UlURLPrptQgKWXs1osE_0qXRF_807nfF4W9xgSPzhuRmmGxe5h2pzGPIbL1GufzyEhDmTrXPfb88k97MaMkQKLTOGhQYOTdW88v0gAb5WHS8DGdl689z0Q",
+            "width": 2364
+          }
+        ],
+        "place_id": "ChIJ1b5WyhipQjQRi9m3-I2QcNo",
+        "rating": 3.5,
+        "reference": "CmRSAAAAyKqoA-wDQ8k5FnW8Xybx7_m6T112DpLalYayZ1PsJJJrYGaACaqoDEuNqGo6wvZjqLX0DHh7M1kKvjpAkEtP0AsrHJv7Jdje9ILp1hkd0ef8P7Lzv8U1Lhz4KwGnxDkSEhDfdcX23KpbdtSyI3capMo8GhT-lEfrygv3jn4t44xTaLmtKqaV7Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "三和路三段40號3樓, Sanchong District"
+      }
+    ],
+    "status": "OK"
   }
 }
