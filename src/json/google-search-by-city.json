@@ -1,147 +1,20 @@
 {
-  "city_name": "bucharest-ro",
-  "city_rank": 113,
-  "city_population": 1877155,
+  "city_name": "nanchang-cn",
+  "city_rank": 114,
+  "city_population": 1871351,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "44.433333",
-      "26.1"
+      "28.55",
+      "115.933333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 625718,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.4303447,
-            "lng": 26.1048394
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.4316768802915,
-              "lng": 26.10616398029151
-            },
-            "southwest": {
-              "lat": 44.4289789197085,
-              "lng": 26.1034660197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "5bcb838298d57a9a5d470f4e5d2917230ca65381",
-        "name": "LadyFIT",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "place_id": "ChIJkx6dcT7_sUARIUo7n8SJPPs",
-        "rating": 4.6,
-        "reference": "CmRSAAAAwe0Q5BYabQ4Hfd2TlHlhIWpi2Ut6kgGBrBHNl6fSS7Fxbi5gBT_bYgiW-QqOzOjvHJrH2EzwjdIS_k9qgl3KHj1nicPR6DR5I3OhFQPH43H2g9Oms6yrMYTSNrW1nNZjEhCvLhM9oEkKd0i4qmr0DLM5GhQBylx7bznFc1gvlyLA-6Xu-mTQhg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Ground floor, Strada Bărăției 35, București"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.43303299999999,
-            "lng": 26.12557099999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.43438398029149,
-              "lng": 26.1269390302915
-            },
-            "southwest": {
-              "lat": 44.43168601970849,
-              "lng": 26.1242410697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "9fee198909157efdcc3087ee177fbdde63e1a06c",
-        "name": "Next Door Fitness",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113970198802682271555/photos\">Next Door Fitness</a>"
-            ],
-            "photo_reference": "CmRaAAAA94JQrOEks15mwg5LzzXKPFPdTe82MBdpZjZdv_oonVbvkd_tlRxx9BstUlHoVM1gEMe5FShJf4vGBCzmOcFLzDSeGb1H8Tc_zgBq6q5aWdD3WXkbvLzzPTywJ2aJ1LkLEhARMBChdA4c0nLPMZvlLBUUGhSio5xRY_y_yRHcLsi9tvJ-CXaeIw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJcbKT3yX_sUARG_xVnLmKHfE",
-        "rating": 4.7,
-        "reference": "CmRSAAAAQpc0bxuv1a7uVfKrSfvqr99CTJsE0ufVZlVGs1jsiVc5WVVqD0TL9pbT8wTaJyDkOmh089lDGmK_yV12Wga5_3n_nhMJzQYpop84ujPoaSwUOj6Z46j3run3nQBoWj9YEhAfxD_D9tDd6Rb6ehZZ92VJGhQp9LnRPjoH0d2HJk_rY7DeO5ekbQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Strada Popa Nan 82, București"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.4545653,
-            "lng": 26.1215729
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.45576028029149,
-              "lng": 26.1228307302915
-            },
-            "southwest": {
-              "lat": 44.45306231970849,
-              "lng": 26.1201327697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "55198a372e1be0f57be55cb7662a0ecd3b159be0",
-        "name": "Alemar Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103255651424152056814/photos\">Andreea Pht</a>"
-            ],
-            "photo_reference": "CmRaAAAAuepd_LwbTXZCiHnWMNBsXsTV9wb7pqcUS8kpCH-CPfXzHTin-kMn18zEyf4t-Aa82Dk5ar2yntNA6v3tXDn1qYidy3I9cdtM9QAbzhZlFJ_6YVP5AimAHodtpinhUdLxEhA175xQIRygrw703WUIb51TGhQ3I69ttL8m84nBEKWZZDx6zbhScA",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJUcJXB7j4sUARYYSfXUs-h44",
-        "rating": 4,
-        "reference": "CmRSAAAAHHe6BAQM21DAOt7CYz_xxbxpEsmcr8xwZDKahjWM74zXFQHTcFtKZ61QNqIHPTR1ZBjL2fL-yuV0qRF3OsvC97jGO_WV6-1-hZud74jpHiQq-QwAPQqyUgoomqAWynVjEhDQ3Ac6xbceD6oR2fA0H-rQGhS47t73XsdIspgEex5Gc8lj4zv8Xw",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Strada Brădeşti 8, București"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
