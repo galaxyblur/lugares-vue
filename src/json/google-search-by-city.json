@@ -1,20 +1,112 @@
 {
-  "city_name": "bhopal-in",
-  "city_rank": 134,
-  "city_population": 1600080,
+  "city_name": "manaus-br",
+  "city_rank": 135,
+  "city_population": 1598227,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.266667",
-      "77.4"
+      "-3.113333",
+      "-60.025278"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 799114,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -3.103472,
+            "lng": -60.00988700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -3.102123019708499,
+              "lng": -60.0085380197085
+            },
+            "southwest": {
+              "lat": -3.104820980291502,
+              "lng": -60.01123598029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fb6f5cf10e35a5800a7157602a2e89fc1b54db",
+        "name": "Espaço Pacto ( Muay Thai / Boxe / Capoeira / Krav Magá / Jiu-Jitsu / Zumba / Kung Fu / Taekwondo)",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAARli6TDj365DcpMRuXRvts8-U4Dn9_ctyTPjN_0nDlJwtfFrFyRiPxSMw196CuPCcXFqfPmlgm10PIhYOjrJ5RKxRqHqBWquxhsu8yASiBHHMQ79KD4mUD4d9g2PWl0_AEhDMhAF_hj6D4bSX0WA5Yl9HGhSUuWSDwGBMZ_Pyt6ppgH2kb58cFA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJt_FVuEwFbJIRqcYgaaI0SC4",
+        "rating": 3.5,
+        "reference": "CmRRAAAAyLp1io7QEnSGCcG71s5DZnefTfLNNuCg6PRR6Xwk7cxJuEoakLGT9ucqTMpRduXz0lKwrMhh0FzK9R2IFR13E7CU9JAFjvdbI47ZzUzMXl9rZI6ultA7ZIFNKb1b0YikEhAWs7UuDCXtYEVkNma6bMEjGhTXuDVXXEKNFj6arSEuQrBEn8-kHA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Rua General Miranda Reis - Nº 10 - Conj Celetramazon - Adrianópolis, Manaus"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -3.0872206,
+            "lng": -59.9815774
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -3.085948819708498,
+              "lng": -59.98023461970849
+            },
+            "southwest": {
+              "lat": -3.088646780291502,
+              "lng": -59.9829325802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4f7be5d81ea0059e10e5e17bd1c98c14c560aa8",
+        "name": "Associação de Capoeira Honra Negra Brasil",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 730,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAiTZRzhxiCpCC6wgM6orWWIa-_pFVxko090i7ugUe2d5LdzDEsc_Wsff-j0L-jDOQ_rxDrFTMPDbZN7gHR5rg-n2eXgZVYPrS05DfEhn6NHxMbmUhcoV3-TBF6K5albWFEhAK-nCuGXdgJwbFsfcvagVUGhTN7udHyCFUTx7ucfpgdBX4EkA3xQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJIxA8sRkbbJIRF3OGF1mRXVw",
+        "rating": 4,
+        "reference": "CmRRAAAAavFXSTnB_iPA8xUjWBsMEvZVif5Gb_c-DFQWFGp_z2TI1szJ0Kosp5hOsPibtxtILfBAKCTMzD9NA2gNsUw_8mzC9wkFeMaIPHRon0J0Ult2xDhuVJ9TcL3ul1L5pQFLEhDLriLjH4Jhr5XkVwL3j-81GhQ0MJdS960XIvPplsM8RWgdl2r1jA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Rua Ouro Preto, 513 - Coroado, Manaus"
+      }
+    ],
+    "status": "OK"
   }
 }
