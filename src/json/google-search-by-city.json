@@ -1,20 +1,93 @@
 {
-  "city_name": "ludhiana-in",
-  "city_rank": 143,
-  "city_population": 1545476,
+  "city_name": "kobe-jp",
+  "city_rank": 144,
+  "city_population": 1528487,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "30.9",
-      "75.85"
+      "34.691304",
+      "135.182995"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 764244,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.71132549999999,
+            "lng": 135.2126425
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.7126744802915,
+              "lng": 135.2139914802915
+            },
+            "southwest": {
+              "lat": 34.7099765197085,
+              "lng": 135.2112935197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "617826ffed4e728074fa4f8ae93e2149032b7681",
+        "name": "CAPOEIRA GERAIS 神戸支部",
+        "place_id": "ChIJ7fMkkAPnAGAR2tcj7-CmHGo",
+        "reference": "CmRRAAAAR76CfbAU8w_exkBphIvS8KljrqaxEb3KuTTS0pM4AhyViLXo13wtC3q3_Z1sQP1Quz38PA48gc4orsvBKamsHAyZbymMUQPWA0znk3E4wNMVT0VFd2ZPaUWDubBDEHwxEhDnMl6Byrd5E2eZJRDlQe0IGhTHpcyDQlyvg341xI4MvobGQVIkDw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1 Chome-1-1 Aotanicho, Nada Ward, Kobe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.684384,
+            "lng": 135.491874
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.6857329802915,
+              "lng": 135.4932229802915
+            },
+            "southwest": {
+              "lat": 34.6830350197085,
+              "lng": 135.4905250197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "035dcd66611eae95b87af6e021c88170f173ebaa",
+        "name": "Capoeira Ache Pernambuco",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111632627626862903294/photos\">harunamatata128</a>"
+            ],
+            "photo_reference": "CmRaAAAAC41nWbMZ8pk5f_TIHz2ZU_F64K2ON8ngD0paDOq3YcFNDfsJQGpeLqbIkXq9mXQ7Xkcrpa_oa-wqSfhcIIqkVgnMQogM7GkYWI9jtdkCqlKfaCpVN8Ulk8_u14gqmwEGEhDKf1pD8VdFShYXdOEz0jnKGhSXqpKYK2RJy-zbfRbecnipghcqAw",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ0WNbU_nmAGARGa4DUe1NXrI",
+        "reference": "CmRSAAAAyQn9QN_PqTObAxS6JQHAsmNI3-BPHuvAUTD57WEihZGl1fqnxUYEtlPtorm14Nhkd2RLyhDhziCTNrghRm4LulpbYkSIdUgitfzXA-7u-1azoTpR4vmpjxLq1X4iXVAnEhA63VwGINbcaWSxVvuwQUqfGhSHCgcQTxWr7K-pRrRz8Ini7eXoNQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "靭テニスセンター, 2 Chome-1−14 Utsubohonmachi, OsakaNishi Ward"
+      }
+    ],
+    "status": "OK"
   }
 }
