@@ -1,20 +1,102 @@
 {
-  "city_name": "rawalpindi-pk",
-  "city_rank": 122,
-  "city_population": 1743599,
+  "city_name": "minsk-by",
+  "city_rank": 123,
+  "city_population": 1742123,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "33.6007",
-      "73.0679"
+      "53.9",
+      "27.5666667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 871062,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.91576129999999,
+            "lng": 27.5692047
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.91711028029149,
+              "lng": 27.5705536802915
+            },
+            "southwest": {
+              "lat": 53.9144123197085,
+              "lng": 27.5678557197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c58193a0e23c399622ffaa099a4d7ff19976b2fa",
+        "name": "Axé Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 579,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117889004743449922594/photos\">Valery Zhurovich</a>"
+            ],
+            "photo_reference": "CmRaAAAAjmqE0JwrLfuiAqppy3dCzbuNwMxk4L_1eRcGZsqqbKqHFze3x8qQQTCpxvyqPDqNmzs6_XjYpcvDY21ro_PljN21kMwdTlbp96Rv3yNM6j7QmV8MYOtF-vMn2v-jERfmEhAaNfp35Fou66yMmuOqEzAXGhRTv8qZJkJWCVTXKm4WgGtyJVDEVQ",
+            "width": 691
+          }
+        ],
+        "place_id": "ChIJ703sOpjP20YRnjhC7L4X_2w",
+        "rating": 5,
+        "reference": "CmRRAAAAaaL4cXVVShxxshvB0nNPNn3qChb5OWBrO0pzlK3eiG0DwasJ63sOFn1_VfMpef6Us8TRsPdv27r4L_T6Le45C-70xGAtfAUbp01UxYzufYBBH5YQ4jNdFmgO7wxV6Ml2EhA0Q1VgtHAJtjTO4rdoFWGvGhQaNTRTfMrplqA6sXcBDiyObqYPZg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7 этаж, 220029, проспект Машерова 11, Минск"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.91873349999999,
+            "lng": 27.5851185
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.92021313029149,
+              "lng": 27.5866124802915
+            },
+            "southwest": {
+              "lat": 53.91751516970849,
+              "lng": 27.58391451970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "4b0bf45b3441cc625ddecee465a73c3bb90fdf67",
+        "name": "Capoeira abada",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJK52mMKHP20YRX98FnbgQUtw",
+        "reference": "CmRSAAAADuVzLIAlQXbaRtFTtoOI5ZVRX-i_qJEnCnGafRoePQ4sNFvyAlzTi1JuPEDUZ2bZ-WnGe7XiDAA9_zLsZfwRk5lTAdp0tytAXWamBXnM-My0_94x08ysw1lmVuEc_v5tEhAsjtXb7Z1M6DRRxALMo_uwGhQRY_gKN9JbaISc_TdBGdQgIq2oUg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ulitsa Kul'man 1, Minsk"
+      }
+    ],
+    "status": "OK"
   }
 }
