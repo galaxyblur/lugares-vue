@@ -1,53 +1,20 @@
 {
-  "city_name": "kaohsiung-tw",
-  "city_rank": 147,
-  "city_population": 1512832,
+  "city_name": "urumqi-cn",
+  "city_rank": 148,
+  "city_population": 1508225,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "22.6333333",
-      "120.35"
+      "43.800965",
+      "87.600459"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1512832,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 22.6272429,
-            "lng": 120.2997535
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.6285858302915,
-              "lng": 120.3010836302915
-            },
-            "southwest": {
-              "lat": 22.6258878697085,
-              "lng": 120.2983856697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "9815c7be2c205eb3733befb66f970f478122fbe4",
-        "name": "真武会馆",
-        "place_id": "ChIJRSKneYgEbjQRtbBwotGPzAk",
-        "rating": 5,
-        "reference": "CmRRAAAABUM-Gi1fGZxUAFDuGlFRI9DahQWgDA3zO9Yx3sAp9sGnTyq48P5f95fnPzjriQo-4DvQetmJ0aW6X7DwZzXzBCKW702j6hxgBU59ESrOBFKi50z0QCTvEu_C_uGNO-dvEhA2iFHB8CfS96djaaDdd3weGhT16m7lNW25Kadq9km9CaAAs9S0DQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "No. 6, Lane 229, Datongyi Road, Xinxing District"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
