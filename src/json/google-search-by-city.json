@@ -1,20 +1,121 @@
 {
-  "city_name": "vadodara-in",
-  "city_rank": 166,
-  "city_population": 1409565,
+  "city_name": "belem-br",
+  "city_rank": 167,
+  "city_population": 1407737,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "22.3",
-      "73.2"
+      "-1.45",
+      "-48.483333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 469246,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -1.472693,
+            "lng": -48.47626599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -1.471335919708498,
+              "lng": -48.4747957197085
+            },
+            "southwest": {
+              "lat": -1.474033880291502,
+              "lng": -48.47749368029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "668cabcf3471d9d32333824b7ce536781df0f78f",
+        "name": "Academia de Capoeira Cambara",
+        "place_id": "ChIJBXMGxd6NpJIRR5ZV8u3njK4",
+        "rating": 5,
+        "reference": "CmRSAAAAbUb5rZVw4QsW7qBXBbkYLcKn-Podq7JCEWBAepE50SVD0sRAwE0qwElrRWTSqFxn_wx0cKcFX_3V6iA5-woCM_DpGXqysxEeYBSK2f3F1lcjZjQrebIIKHbq_7t76003EhDnM8avCLUazbKwIPEq-gh9GhQUHxoPDWbZyR5wBR0e0Gwamn-oEw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida Alcindo Cacela, 4092 - Condor, Belém"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -1.3989868,
+            "lng": -48.4183679
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -1.397639619708498,
+              "lng": -48.4170660697085
+            },
+            "southwest": {
+              "lat": -1.400337580291502,
+              "lng": -48.4197640302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2941480890b568b2a889e864e18b6e26e79ac077",
+        "name": "Academia Muzenza Belém",
+        "place_id": "ChIJCQIY5t-KpJIRX_kLC4oqAuQ",
+        "rating": 3.5,
+        "reference": "CmRSAAAAYbYv930HzCUCqLkweTcin5jHzRHXF9lQ5EU694DFP3VGU4Fd14Ot3UG_x-u9wr-DjXpLd8DI8FhUd9eMNHvWbV0igjFBOMPY0AbqULXaeK0HSkIsizkJw4P-1C_rANeWEhDXifLAWvehi97k8Vc8fCgjGhTU-0IBrxVB0VHfCVjAyfuSbVAAJg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Rua do Fio, 147, Ananindeua"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -1.2960542,
+            "lng": -48.459081
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -1.294592719708498,
+              "lng": -48.4577439197085
+            },
+            "southwest": {
+              "lat": -1.297290680291502,
+              "lng": -48.4604418802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "cf58b14143a6f21379f314d842ac4e67550e6705",
+        "name": "Treino Ass. Capoeira NOSSA ARTE",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJJQQFzpRmpJIRjp-lAYN6QYg",
+        "rating": 3.3,
+        "reference": "CmRSAAAAG_Vt8BU5UFYRq5uJbpvfxJyJnO_p-lrQ9YRocZTjOMwZqPLGjNfULV8ztfrm6MPky2y24kK5xsv2m71C9EH9pfqyW6J0DpS35uZWWE73piBcgwBCpV-L3gv8dJ7AxdujEhBT8phMjGzfSLaxfrdk7QRvGhQ231NdKda_kJ1ZI8_g2wJ6M4TYpQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "150, Viela Santa Rosa, 2 - Maracacuera (Icoaraci), Belém"
+      }
+    ],
+    "status": "OK"
   }
 }
