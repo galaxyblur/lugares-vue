@@ -1,62 +1,20 @@
 {
-  "city_name": "juarez-mx",
-  "city_rank": 168,
-  "city_population": 1403025,
+  "city_name": "fushun-cn",
+  "city_rank": 169,
+  "city_population": 1400646,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.733333",
-      "-106.483333"
+      "41.7",
+      "123.883333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1403025,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.7833733,
-            "lng": -106.4431482
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.7848513802915,
-              "lng": -106.4417995697085
-            },
-            "southwest": {
-              "lat": 31.7821534197085,
-              "lng": -106.4444975302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "51d691e2223d1aa2c0ce4e77bfee08023c61fd25",
-        "name": "Capoeira Quinto Sol",
-        "photos": [
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109679038538911578455/photos\">Daniel Ibarra</a>"
-            ],
-            "photo_reference": "CmRaAAAAOlJWIWVQMqgSbCiquDfWwF1jNqamKvZY4mTURjfJ5bX3RQwHo3OhsYw5muPtzjlOhbGOwzOHyRr_5y4hq0Y5saWxukXD8kNgRmnh7gDnWjT9N0UgStfWggfBdhy_oiksEhCobB_4_sA4s4l-QL9mikGqGhTzjdbidPFoy6_NWjRkqKbJ40n4wg",
-            "width": 2448
-          }
-        ],
-        "place_id": "ChIJJXNB0YdZ54YRjpyf1-99IKg",
-        "rating": 4.7,
-        "reference": "CmRSAAAAmCL5PF8MnXYrN1dJhhU_n4XjbBDr93xUkcFUcKfPyz4C-UIfY3rXjrnheZpBJ_skJ7muJh4FzVxcmqBKdZDvZ09qumuF9Ndl6NBi0BKkTmIiYw_5hh5LS5yF_KVwzcEQEhAUsdk4cLKTV1bTuI4Z7DjDGhR1sIzJmfJ2Byp1k8OSFVUPgOgKHg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4106 Montana Avenue, El Paso"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
