@@ -1,63 +1,20 @@
 {
-  "city_name": "maputo-mz",
-  "city_rank": 222,
-  "city_population": 1191613,
+  "city_name": "freetown-sl",
+  "city_rank": 223,
+  "city_population": 1190761,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-25.9652778",
-      "32.5891667"
+      "8.49",
+      "-13.2341667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1191613,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": -25.975573,
-            "lng": 32.59137399999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -25.9742240197085,
-              "lng": 32.5927229802915
-            },
-            "southwest": {
-              "lat": -25.9769219802915,
-              "lng": 32.5900250197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "c0952441b86a617083e0baa0990d236b36b0e838",
-        "name": "Ubuntus Capoeira",
-        "photos": [
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118414519840634777207/photos\">Ubuntus Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAzfycdBEFnBZmHKBZjTlz6XiMms_CxMSkV2bVcl6IPOySLEl29qdlXdJn7f1LPdvLlTDb8JbrLYRCfbe0z5-B4hTooO835OrjtLNuLgG3g6Q0R9wYdhVZnNhK6dokp8seEhCaQZZyQEIAtcFxGyWEtr3MGhT_F856xZa9UstUIrPpVS43ZSqOeA",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJTVVBbaOb5h4REt51ATlje10",
-        "rating": 5,
-        "reference": "CmRRAAAAEamDgUS819O5fE32vNiCvqJ-fYzxC0i4wUboBbZ7U2AeW8MN99HbLics8-92zMarYNIudEDfnqmdnt-iCjoEWsKgGE_CiOOEf-ceL2oYBzD22r4eMQ7RwZNdyAxYN1LyEhA57ass-gq_d6srxTsFebdqGhRqz6ZTeosfbXyOF-2YphyVGWHTGQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Avenida Francisco Orlando Magumbwe, N 502, Maputo"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
