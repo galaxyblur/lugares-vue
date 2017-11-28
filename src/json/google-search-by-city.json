@@ -1,20 +1,66 @@
 {
-  "city_name": "brazzaville-cg",
-  "city_rank": 243,
-  "city_population": 1115773,
+  "city_name": "belgrade-rs",
+  "city_rank": 244,
+  "city_population": 1115200,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-4.2591667",
-      "15.2847222"
+      "44.818611",
+      "20.468056"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1115200,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.784706,
+            "lng": 20.4903475
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.7857566802915,
+              "lng": 20.4916530302915
+            },
+            "southwest": {
+              "lat": 44.7830587197085,
+              "lng": 20.4889550697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "04cdbdf8affc4691d7b93359e18bfc00e828bbf0",
+        "name": "Kapuera Za Decu",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117058029944098523349/photos\">MIlan Gočmanac</a>"
+            ],
+            "photo_reference": "CmRaAAAAEmOSp8Xi-zKJkVNOInKEwfYl1yqoLKhnwyQRQP1X_0ZrDMI-dHDvSMfUMFF452ltSO4bHanrS3cnJ9MHvKwqF7Y9C-BrwG1-yydeNOz1lLCwUgAGnmq0no2qzFD5aPD6EhDERMthAvFfIJqpCt46x0fiGhS3B11Kpvo0cz-dlo1QWUmfypnesg",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJD1kE9YlwWkcRNmMtjDH3dSQ",
+        "rating": 5,
+        "reference": "CmRRAAAA7W_4XnB2hd-WYWLGkG3yTK2Iztp04IkCKAyFrFfWn7s2C9XzoE-lJxX_efZGzYPVCNmWw3CTnTxn4JCaqXPdh4XCf5zvxopwvQscgkYn_FCqFho3AkLtT6qu-GmBIBSCEhDHL1J4WBvsgUw4QCMhaUAIGhT3h6vyQwtm3L0GzyMMQR-ZobBlvA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ustanička 125, Beograd"
+      }
+    ],
+    "status": "OK"
   }
 }
