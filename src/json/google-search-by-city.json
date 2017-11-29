@@ -1,20 +1,66 @@
 {
-  "city_name": "jabalpur-in",
-  "city_rank": 267,
-  "city_population": 1030276,
+  "city_name": "haora-in",
+  "city_rank": 268,
+  "city_population": 1027771,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.166667",
-      "79.95"
+      "22.589167",
+      "88.310278"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1027771,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 22.5126767,
+            "lng": 88.32822499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.5138949302915,
+              "lng": 88.32955408029149
+            },
+            "southwest": {
+              "lat": 22.51119696970849,
+              "lng": 88.32685611970848
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a7d616a3432c1ffe8b4f9ff80fb1d5d3e88d07c",
+        "name": "Dtdc Courier & Cargo Limited",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106717742389905130120/photos\">Hirak Chatterjee</a>"
+            ],
+            "photo_reference": "CmRaAAAAWB-PS95snlDIq_f1BeputBA2GI6SIiGZlinCVJadRpecvqvzELG7chJhKlhHECItUd8pJ5tgbFFUrFKi0vgMjTSlu9biJLtrxnlHf5V0VYHd8avJKabt2nYH3M18qy_zEhCSrmYobwXBDcJtMWOyyePfGhTabuO1aoW1bCe0N1CrKrghrH2AEw",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJsXzdhKtwAjoRk5TqBnPDzuY",
+        "rating": 5,
+        "reference": "CmRSAAAAPEp7wgY-GADAG18kIYdAkvilcW39uyxF7E9QubIsGWS4FhCJX7yuSdsKCmpVNIOnAgKPg5bYNNVOiaUGL5YuzoHlzWr7yEkuvJhtmU-u6zdl3mavLmOH4rIYZ7zNlEEpEhBaSPEJrcGltxk1q3nNK6gVGhRYTktmRQuoEnaR9dbnhRP7Ihg-jg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "P-165,Block -J, Bankim Mukherjee Sarani, Opposite Triangular Park,Beside Gupta Brothers, New Alipore, Kolkata"
+      }
+    ],
+    "status": "OK"
   }
 }
