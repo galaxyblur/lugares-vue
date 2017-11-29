@@ -1,20 +1,101 @@
 {
-  "city_name": "huainan-cn",
-  "city_rank": 269,
-  "city_population": 1027655,
+  "city_name": "dublin-ie",
+  "city_rank": 270,
+  "city_population": 1024027,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "32.626389",
-      "116.996944"
+      "53.3330556",
+      "-6.2488889"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 512014,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.3413163,
+            "lng": -6.2804194
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.3427706302915,
+              "lng": -6.279079369708498
+            },
+            "southwest": {
+              "lat": 53.3400726697085,
+              "lng": -6.281777330291503
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a1e739e8397d11915d460a3b7982a2425bb468b4",
+        "name": "Mundo Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJoVs52iQMZ0gRJXmolV9oF7A",
+        "rating": 5,
+        "reference": "CmRSAAAA5v2UjHdgY_GxdxgqckFjcTJ2gJpvLXL7sUjEtcJcqK0f5vd2xvR6z5N0PYjQ8LlnmfvUzc5sNcwM7D5vcGYoc7Lf_d82aRkqUKsKairOpvPUoP809u-573O0A0_NvQ2eEhBG-5oxSPFJKDqikVY2DfkOGhRTsekUlpebDc5x_g1wYSDS9ODdgQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Synge Street, Dublin 8"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.3681603,
+            "lng": -6.1909851
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.3695092802915,
+              "lng": -6.189636119708497
+            },
+            "southwest": {
+              "lat": 53.3668113197085,
+              "lng": -6.192334080291501
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f25c3dc7a05e5b8b63eec5a7ae38a4a56fd6d563",
+        "name": "Capoeira School Dublin",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103438444648202660362/photos\">Francisco Souto</a>"
+            ],
+            "photo_reference": "CmRaAAAAfnqGBHLB0nQp67vkErW6Z1gMYPgD631QVHI_txE8MeItj_FkN7tP-VgN31HRXUFGUatZgXr15UHngWNLNcFpjBsvA2TIAAaOwc8JNlLCxBWGvXRHdQiObQdgGJqfdCgEEhDdZTB1G7hX-WMM2xMbwQCkGhQ_dh8LSzvXE3JER5tnm53mU3MPBQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJSyQ49aIPZ0gRa0tevvPG8l4",
+        "reference": "CmRRAAAAT4AmjHlgUB42r-nVpSNU7pSAnBcH_kDaTa0pdN4oyxV7zj-Z7n9Q7xNg_eTunDC_xN0IS_6w7lF64ZRAUQChcn9Ud_lfu-MsUjkWaw7ctqR61C1RPBgWGHxSHKJCht1cEhBhu9WlIV-nVRaMy9rqFkVDGhS6-iwVeqFoia2nIS_THYBumFYPwg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Castleknock Laurels, Dublin"
+      }
+    ],
+    "status": "OK"
   }
 }
