@@ -1,20 +1,111 @@
 {
-  "city_name": "rongcheng-cn",
-  "city_rank": 278,
-  "city_population": 1001985,
+  "city_name": "odesa-ua",
+  "city_rank": 279,
+  "city_population": 1001553,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.528858",
-      "116.364159"
+      "46.463934",
+      "30.738551"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 500777,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.481497,
+            "lng": 30.730009
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.48281043029149,
+              "lng": 30.7313977302915
+            },
+            "southwest": {
+              "lat": 46.48011246970849,
+              "lng": 30.7286997697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "35b18d6b1ce8b2a792339d6d755979c5be059996",
+        "name": "Expressão Paulista de Capoeira em Odessa",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 375,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100077710587092564747/photos\">Expressão Paulista de Capoeira em Odessa</a>"
+            ],
+            "photo_reference": "CmRaAAAAQgnPZ4PHr-7jysP_HFr767h9LUQ6WFuXzeiSminWNn4-UA1F6Y8rKKFwQoNOG9Pu7emlTyeIN0SqugMtiL0-xwRqCoWEAJsBFEr0vKEDXKXOthFSPnzuv9kxNfOM7um-EhANqLa50_OyfZnr22THTkiCGhT4g0ABX1oz0OuwEBi503Kd4Bpj8w",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJD3xfGJIxxkARDiEm5tYfXIE",
+        "rating": 5,
+        "reference": "CmRSAAAA_TdeDF_ytLHx0kpsu9A6QpsdRTOnUhiP-ID6Km9EOyD1vi2-9YCMl3nNmx_9BRKbCJJxlkM-CHI8sTLn4S5-E1P2-2oXeQrKz10Oq5aLg8RGm4u6NN-gzs5vVzYRXOXpEhDhXUFdECDwW6uzCZ98gdxDGhThA96YRGqXUoIAIonG3bYn9FlsaQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Spyrydonivs'ka Street, 10, Odessa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.4927374,
+            "lng": 30.7214221
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.49404598029149,
+              "lng": 30.7227024802915
+            },
+            "southwest": {
+              "lat": 46.4913480197085,
+              "lng": 30.7200045197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "3d852589fbffd3597698ba09ef6ca8258c4be4cc",
+        "name": "Капоэйра Сензала",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112190365980070251700/photos\">Наташа Корниенко</a>"
+            ],
+            "photo_reference": "CmRaAAAA1eQ90NtngohA2_YELfvKPHqCgvnHD_C8am1UnmXsxNu3vlH65CgMnqLL_gsJQVnFOrfzo8Xc1_H5980pvj6bDNh_0GnGPNmQEJgdVAoqRKS6JoK1XjYT749qClfExQxwEhBzfTD0UQtwmLiZoNf9XsLHGhTHcK-pTDPnuvv_HyHiqrcrdVRu0g",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJZzntLMIxxkARsgT2W3BRkIg",
+        "rating": 5,
+        "reference": "CmRSAAAAnnebbTr76fGi6OXzO3IeFco-UR8umZpfKxAkuXygsJbvD2ZA_UljC_FOoeRtm3cP9CuoDzm4OBhffCxtFAsWSdpCWfGntTdsjqNsLU01xycFJa451m6vZkWjOJ5ZBtdpEhBI7uMtsG6IP_wEfgPxrHO2GhQa-plANROU3k5oTImDxHqleLgS_w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Knyazivs'ka Street, 5, Odessa"
+      }
+    ],
+    "status": "OK"
   }
 }
