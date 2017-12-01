@@ -1,16 +1,16 @@
 {
-  "city_name": "berlin-de",
-  "city_rank": 55,
-  "city_population": 3398362,
+  "city_name": "montreal-ca",
+  "city_rank": 56,
+  "city_population": 3268513,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "52.516667",
-      "13.4"
+      "45.5",
+      "-73.583333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 199904,
+  "people_per_result": 326851,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,616 +18,253 @@
       {
         "geometry": {
           "location": {
-            "lat": 52.5362,
-            "lng": 13.3989499
+            "lat": 45.5056363,
+            "lng": -73.5670793
           },
           "viewport": {
             "northeast": {
-              "lat": 52.5373030302915,
-              "lng": 13.4008731302915
+              "lat": 45.5069852802915,
+              "lng": -73.56573031970849
             },
             "southwest": {
-              "lat": 52.5346050697085,
-              "lng": 13.3981751697085
+              "lat": 45.5042873197085,
+              "lng": -73.5684282802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9b42000dbea9e6aea275d8c133d68deb74f23be5",
-        "name": "Yoga Delta Berlin",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102891878846651507863/photos\">Yoga Delta Berlin</a>"
-            ],
-            "photo_reference": "CmRaAAAAa3XG5P8rvlCmNBQBIePcf5ZAzJj3uRhFqwfpZzSNQAFxoWrj_wNis5Eh2yyy7betWM90Pb8DjZHnVdSiFVAuHouPp-0BBxdftbOTISkLR51aSu4vqKtdsQ4DeehD2TaOEhDkvF-HsuLUzJs4K39UXEKGGhSTCe9FIhNq-hN3sr5PhkDoVS46SA",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJn_k_ePpRqEcR_rnVXMlmj9M",
-        "rating": 4.6,
-        "reference": "CmRSAAAAwSEMUvYywja4UhQ_8TfjR86qjNSQWwuS7XcsolItnYCYvqYhHwyoKXE_jEg8PLqWz7V_s1-D4l7B0sJghPH3kMquBbBUkElfuNw6zOyzavl6t9D1UNYOata4DgsIQBcMEhD3DJO_0LJvVziP_1R4t_dnGhT1ausNAhNuBeR56GOyXVjMxRiiFQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Anklamer Straße 33, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.5306849,
-            "lng": 13.4236793
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.53192158029149,
-              "lng": 13.4249165302915
-            },
-            "southwest": {
-              "lat": 52.5292236197085,
-              "lng": 13.4222185697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "c6410b904d51d469408dec582333f5f19bc7f2ce",
-        "name": "Capoeira - Berimbau De Ouro Berlin",
+        "id": "c40e2bb39121ab1dd6d165d4ccc6c395d41ed3a9",
+        "name": "Grupo de Capoeira Porto da Barra Montreal",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1177,
+            "height": 510,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104064553566711266843/photos\">Capoeira - Berimbau De Ouro Berlin</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/115684516780106578332/photos\">Jean Marc Pokou</a>"
             ],
-            "photo_reference": "CmRaAAAAChMvlVNgpLq0nS0zc7iToEeDfwvCpWr2uQzYJ4EsEvkX3NALYy5OQR_jjT9PFUQ84CqWEY6uxZzJFPMxcVw9p4Ngjj8jLRPPNA2V6oEu2cLxyvs84AmUMivdsWry1LgHEhBSE4On5Y2jEhEkHLunV9aIGhSEUfQd5O5HRoEqxTiiy7utW5_FyQ",
+            "photo_reference": "CmRaAAAA3kCXaoiYdIys-dOel01sARAkXcY6hbjIov0LsCf3SMgK-s26V1z0woe23Neqvt9sOt5wosCnFLMM481ks87xDe2fBeIlRxf9hrrDGWKcmaprtyfG8JhAb_teaUKW_AsMEhASkCYB7dqvrucCIPggh7ThGhQCVP8q_f6BRc90ZJskoQGLOGpsCA",
+            "width": 510
+          }
+        ],
+        "place_id": "ChIJMyLEf0UayUwRMDZv2jsSYas",
+        "reference": "CmRSAAAA1cYKYXBqFwXUhuDNo31SDf9PSffiDNd9f5Ifj9Lg4qkJvKLZ_t-uQQGJCmstx1iWEkr1a5T0uV3dNATYW6PcHeXkq_B2BX2qlVPech9emEqwbkI8dvHFycvVe9v2YWRlEhCJa3s-U6lYE0de1wwqlkR6GhQH8pzcOPSx4EMPw9r1IT3mqh-TSg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1A2, 372 Saint-Catherine Street West, Montreal"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.484662,
+            "lng": -73.5854416
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.48611258029149,
+              "lng": -73.58398486970849
+            },
+            "southwest": {
+              "lat": 45.48341461970849,
+              "lng": -73.5866828302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0ee84dd7e95637acf0430c7b18d1f2c7b3b31226",
+        "name": "Centro Cultural Capoeira Baiana À Montréal",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110207401692882248663/photos\">Centro Cultural Capoeira Baiana à Montréal</a>"
+            ],
+            "photo_reference": "CmRaAAAAtJ_03acJcvOkalAStomx6Cf10ruBZhx5EJQd3oVCQe5_6Jb9HLNnlEq9Rkf4xsogfvkZF7EAUM8R8BYlcS9GeLRgY4Tq3eOuqivo77zLRRgeuLJ2RKOqvc88DBPx-lUWEhAk-rOKqVx_ST3jq7wI19h5GhTWQgBr_OG7cLXmUTXeWPxFYDzchQ",
             "width": 2048
           }
         ],
-        "place_id": "ChIJh8SKUclNqEcRZItdDW1D_OQ",
-        "reference": "CmRSAAAAeXdC5KY2kbbVE1LaptIUDVsKcSlIDSIIGeYnAreXzyvwknae4NahcPyVt906QAGptLDpsRmpCkLPcpYQ_SOsdEZCfITGF4eO3VTGsrQgiLTfG9KduooUy3jK731EEU4uEhADH8dxlEBfUOmWKfqKTN_MGhSwtb6mgI4CKAEpTpeeJY9rOB6P5Q",
+        "place_id": "ChIJW7dLmHIayUwRTMBHrnox9BQ",
+        "reference": "CmRRAAAAHdWp8NppLK4fWuoh561VQxUwATWUN9HbNo7AniWt-YjQadBQlUAvomrwQ4O24DeAuUo_iUObU5m42xFWZH_NbG521cY_hunZ9oEbZwaK7YvFgNxp5nzS_rUyujkhtJQTEhBe2OYp7AMz1dQcVK1hQMgbGhTQBmuQmUyVpMWPbMNlcgHdKGiH9g",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Heinrich-Roller-Straße 18, Berlin"
+        "vicinity": "1090 Avenue Greene, Westmount"
       },
       {
         "geometry": {
           "location": {
-            "lat": 52.505264,
-            "lng": 13.4297669
+            "lat": 45.522346,
+            "lng": -73.562236
           },
           "viewport": {
             "northeast": {
-              "lat": 52.5060391802915,
-              "lng": 13.4304845302915
+              "lat": 45.5237247302915,
+              "lng": -73.56085786970849
             },
             "southwest": {
-              "lat": 52.5033412197085,
-              "lng": 13.4277865697085
+              "lat": 45.5210267697085,
+              "lng": -73.5635558302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "881b514073769a09c67314f5f03cf85199fa4151",
-        "name": "Capoeira in Berlin",
+        "id": "0ed70b2bb033341e6d3b6cad1855e78c43b7ddd9",
+        "name": "Centro Cultural Ubuntu's Capoeira Montréal",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1382,
+            "height": 1080,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106073578623614796181/photos\">Capoeira in Berlin</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110279083458012864928/photos\">Centro cultural Ubuntu&#39;s Capoeira Montréal</a>"
             ],
-            "photo_reference": "CmRaAAAASDkraaIMPHDumX7IqZQ-hiXxG34muxXlJuoJseOZh6Cc5V40SIrl1wvd655GuWUFJ2mxyUYtvWtnm_qHvbpzBMMrZebNeHSby33yeeZdZQ_CBxuzyKXnrWsDY4H2kGlXEhCkBrjWq5qz1_Y4fCRcfDPNGhSSY8RFq9vVXCigJIQa-gv4XCU3zw",
-            "width": 2048
+            "photo_reference": "CmRaAAAA6_zsrK822GEBC7z4QU0s_mnGdH1sNsDSHBSHDUl4Ro9lXknaqdGsGFcLpKtbWt2qbA_WqBHM9DKMAD5_mWKUonaHs0Ar02WmA5aE0LAHDWEZ_ZwNrb3-KcrCqSAE_rX0EhAuXrwV8LyYRzc3GafQJyQ7GhTDeuofe88hyYnV9d28_bYq8j3q7w",
+            "width": 1920
           }
         ],
-        "place_id": "ChIJq7jXtTdOqEcRSJNdA2OAGO4",
-        "rating": 5,
-        "reference": "CmRSAAAAsZm-8BgRM9SGXSA-ZJ7_cZlIbB73WfvAIQpRio6nz1_hfHfdS6sJbG7fJxeQuXOHhKHxnN3eUJMPrg-CUFx0_wK1CQEcTQkUgtRbtJo7u6mjsq5adThwqmOr-8w8idhZEhCL3XWQg91R4Fhkh5O5F3ofGhRDxQWlqM7JO3XY_zK4z6TqfbY_xA",
+        "place_id": "ChIJ94L4QJYbyUwRntKJvoXHng4",
+        "rating": 4,
+        "reference": "CmRRAAAA0faGSc75UGJZyUzlb1GTOtwBHSSjdfLF0m40cqAHBDWfwRGhz0eqxzs4YuMm2IKkd7zkPJpjYocTxysNs7-NoHacEKgZlhvlPIEMUsZF0YVfI7J7SJ0-TRu0GacmzNvDEhC3i8Vo0Zs54ch8puAlXqjgGhRxe08nm8GnAjE3h8EdP0oLq3CvwA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Wrangelstraße 136, Berlin"
+        "vicinity": "2022 Rue de la Visitation, Montréal"
       },
       {
         "geometry": {
           "location": {
-            "lat": 52.51537459999999,
-            "lng": 13.4372664
+            "lat": 45.527522,
+            "lng": -73.6030742
           },
           "viewport": {
             "northeast": {
-              "lat": 52.51660688029149,
-              "lng": 13.4384866302915
+              "lat": 45.52896653029151,
+              "lng": -73.60164161970849
             },
             "southwest": {
-              "lat": 52.51390891970849,
-              "lng": 13.4357886697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a44b52a8a2d05430624aba135b4edc0e82fa80f8",
-        "name": "Abada Capoeira Berlin",
-        "place_id": "ChIJ97-he59PqEcR1jhHtdluYxI",
-        "rating": 5,
-        "reference": "CmRRAAAAVaCM-F-c2kTNBUL75FFraNZ2Mtj_lUVZPGHrj5p3qtbSHD4Lofh3X2OiVY70B8XCDBJmwXPRu48pluLG1YdL8MvlWa13KSYRiiJirE2Phm4g3sH9YN6R0vCXvO0ubqm_EhBc2xO5ITp9Fz9vmuY616E0GhQetCj3TYh22fkcwE95T1UIE92sGg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rüdersdorfer Straße 20, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.53833799999999,
-            "lng": 13.4128631
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.53977233029149,
-              "lng": 13.4139551302915
-            },
-            "southwest": {
-              "lat": 52.53707436970849,
-              "lng": 13.4112571697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3901e0780ef83c9687bd9379bc7835f51d7953da",
-        "name": "Dance school Academia Jangada",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 366,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111838974130473020621/photos\">Tanzschule Academia Jangada</a>"
-            ],
-            "photo_reference": "CmRaAAAAAcX7fuszni8bH7LCS6RMZZrJOyCae2JOxiTyzKSVKB4nZZAIw7HjlftjSASiLngpvcUfMSsO1eYnYxVTmQkfMapI8IsguGTQGrOcGHHuVlXkixusx8z_UkP3pGyaepYZEhCTpycUjuCNMZjD3l6lthG6GhQNk2rvHlz9bZAzxc6KdYkHEvXDYA",
-            "width": 650
-          }
-        ],
-        "place_id": "ChIJQSAmgeRRqEcRK3ZIqK9q6hc",
-        "rating": 3.5,
-        "reference": "CmRRAAAAL5dxJ6bD6TWtE4vnU8cOS3thabBLbpn05sryTiBWZ5slAAYW99uWzl5Tox0QjAivJF7zxmfXOVOYotzqOpyHS5-UG_J6BpOkeDg9IxvmTXuSZHmrqh3XvLQlNUUozcQ5EhCvktcJ3vCLY6JJZUF8EaznGhReDSr7F_QLHsLkiQmq9TGM5R4kug",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Schönhauser Allee 36, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.5410406,
-            "lng": 13.4148786
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.5423895802915,
-              "lng": 13.4162275802915
-            },
-            "southwest": {
-              "lat": 52.5396916197085,
-              "lng": 13.4135296197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4bc77aa5dfc687c9bc0cc5f82e192334e5ef3ccb",
-        "name": "HUMAITÁ CAPOEIRA",
-        "place_id": "ChIJxand7P9RqEcR0nXv_-Z21Ns",
-        "reference": "CmRSAAAA7tyLAFGjAytY_iZEqsgxLj3bjzqo7ZMYKMJSYgScTUELtaadbOMBq06iHlqIuI0fJk-9oOphLIhJIJKEYY-Ggweh5sV7zlIdjBGiyuY-tDySW1yXO2H07gu_RYIiminTEhBYWvwhnsdYf3EFqupSf8_wGhTXHxdYSxK8YhpvohFXdz76PkDP6w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2, Lychener Straße 75, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.4899858,
-            "lng": 13.3789178
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.4913294302915,
-              "lng": 13.3804630802915
-            },
-            "southwest": {
-              "lat": 52.4886314697085,
-              "lng": 13.3777651197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d6a9e42f8733c4cac95968fa51e7201d74bc79ac",
-        "name": "Forum Brasil",
-        "place_id": "ChIJh8VoDyVQqEcRC8fHI9JmgpI",
-        "rating": 5,
-        "reference": "CmRSAAAA-D5N9Y-cUIJO5RTM7_G0w4cvSF9_GgMxMGWgZGnaN_3gq3LqHUvW9Uyxi_loBuT63QekUNK6yNzLfnPIsc7YG38v_m3C5lM6DQzcxCH_7iV-LTYA1E66ajyQg8UwvpdQEhBroWQvHrIaRLfp3qXPDa0pGhRCTRGQVa4uxF6olWZF_CBZ8llJMA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Möckernstraße 72, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.5122575,
-            "lng": 13.4485223
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.5135800302915,
-              "lng": 13.4497749802915
-            },
-            "southwest": {
-              "lat": 52.5108820697085,
-              "lng": 13.4470770197085
+              "lat": 45.52626856970851,
+              "lng": -73.6043395802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "256007fa6f9c2294f68c3dddce704f9a25881b85",
-        "name": "Capoeira Cordão de Ouro Berlin - Contramestre Izol",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 501,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116860770196564821972/photos\">Capoeira Cordão de Ouro Berlin - Contramestre Izol</a>"
-            ],
-            "photo_reference": "CmRaAAAACdtA71yCTowlwwXCDvcBMrMtDW_RJMHWcQmxpt1MwFqrXY_lZBy3DrZ8FG4ohRtXnMjlDl5Afsacatwwg07FozUxJWw0-oUhuW5U3MLuq9LpryEzxdUUnhB4pC3hHEDMEhAZQUGMapnxrsHa9MBFiQyKGhSbEgy7wSojaOUBc9-V8nD8lK3rEw",
-            "width": 500
-          }
-        ],
-        "place_id": "ChIJp9jiNUNOqEcRcAsdtkKNCQU",
-        "rating": 4.2,
-        "reference": "CmRRAAAAiyfhnYJE1I_kG4q_cuPqXzBWFg3pqPvES0xaoZ5B4hqOagALlG5q-qwY7dyucMZiICQrlPS19s6AxpL7vSo7SZjxcUlRS8t5elez_NG4QFvOO6s3VrxEfMea7T7mnL69EhBO6HqBbQhuz3AM5ZZLUiS-GhSwoFYtzHsSs3-cRjcvye3ftvvTnQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Gubener Straße 47, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.4970699,
-            "lng": 13.4393511
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.49836928029149,
-              "lng": 13.4406557802915
-            },
-            "southwest": {
-              "lat": 52.4956713197085,
-              "lng": 13.4379578197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b7bf288c5df3c0e5a3ccd6c45c559aea2a50198a",
-        "name": "Abadá-Capoeira Berlin Instrutora Nativa",
+        "id": "a7f241fffbfb187826bd7b73f635e74252300cc4",
+        "name": "Brazilian Cultural and Martial Arts Center of Montréal - Capoeira - Jiu-jitsu",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJwQhvq58jZUERNEyCQRghnEM",
-        "reference": "CmRRAAAARhzAVUxKc6w74N-nu8zYlDsmqf_-95GPumXHkWY8bvxbEDg2dUsuAeldWJ2Hp8mRh18IYWPOLeCwkNPYE_znGp_t0bQSDvD6JlxkNRfo-7yi_y3JUkerClNTujQDmKinEhC9d9CGpEJX4vNRX2G13LD_GhSCmxaMAX5s4_S1Zpr13o7DRpBQ2A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Görlitzer Straße 51, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.48727479999999,
-            "lng": 13.4222925
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.48852043029149,
-              "lng": 13.4235664302915
-            },
-            "southwest": {
-              "lat": 52.4858224697085,
-              "lng": 13.4208684697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e3680aa21e7444a673e0813fd985e78bc13e0642",
-        "name": "Capoeira Academy in Berlin",
-        "photos": [
-          {
-            "height": 2976,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114569602674883833570/photos\">AlegriaCombatDe</a>"
-            ],
-            "photo_reference": "CmRaAAAATxK02bGLlfaf3DVkRVjCg-ewXjb6u7SJtqHTLgeMPAiFlj-qLlGk1YoilbwI-UXKcj-dDT4x6Em1EbZeDylLNrGHlvzLo1O5FoCgRr5UmsQuFtr9tt7B89IxV3PlUAGpEhDreQs-5Q71L6j-Txq01TX3GhQLesfGfflgAKPUpynBm_LTLgTddQ",
-            "width": 3968
-          }
-        ],
-        "place_id": "ChIJ7dSO8LdPqEcRCYzxVw8cb90",
-        "rating": 4.2,
-        "reference": "CmRSAAAALImEqsqg_4ERxUlJHIoibCrXKURNwxttyHFxe3gL9vgw7JDrG7BrSMF2MZH_qFwvXbhQ77ZFterys7Wlvuh0Z2xytlsQIF4Nq07GfKyPtRVE6m-4dozy-xH65AQd9aaeEhBOmyrQmqChh7AISvRfH2exGhS7g7o_mKrUnTxrHT1AJFhjrRQtTg",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Hasenheide 9, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.53161660000001,
-            "lng": 13.4473514
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.53259293029151,
-              "lng": 13.4490589802915
-            },
-            "southwest": {
-              "lat": 52.52989496970851,
-              "lng": 13.4463610197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "69634d99310a56ed35be56bbfc5621403d7eb6eb",
-        "name": "Capoeira - Berimbau De Ouro",
-        "place_id": "ChIJV_BdmXNOqEcRKNc2yaIBmts",
-        "reference": "CmRSAAAAoVh_M7duvsj1cS_zXzgZq25bzd76RlFo0uK0XcKhltue9iOvZ-9MMxkg1a1OC0_WsXxTq3mpOCjl3f4efUHLfnm0-pRPMTjDH8yoitsIhrWzwlJpFebAKYGlJnIl0okTEhDJ-VyQbdLKyTSYN7mydqCxGhRN2e2USZNCVgLu31Ar12KgG-270w",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Paul-Heyse-Straße 25, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.54381,
-            "lng": 13.43708
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.5452404302915,
-              "lng": 13.4388277302915
-            },
-            "southwest": {
-              "lat": 52.5425424697085,
-              "lng": 13.4361297697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "489bb6bac9d8f8decf49c0ea14aada4aa78b2041",
-        "name": "COPACABANA SAMBASHOW BERLIN",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2362,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118191190830842107964/photos\">COPACABANA SAMBASHOW BERLIN</a>"
-            ],
-            "photo_reference": "CmRaAAAAXuSU-rLml_cQ4ppxMZVcJtqH2gzNfDCIN2d4scOHo-ZHV9-Z46rZYTw429fq1voxwo0nbpheN2Jr3XUChSuLUj6D8egRsHQXDOLAzl7uCUM6wO9i7ZNn6jRwZhMDE9GBEhAI6L0NIBDDniD1ieHxlMFhGhQCZF0RcZTnYwtEPxupZLgwSvS4Vw",
-            "width": 3543
-          }
-        ],
-        "place_id": "ChIJDYmiduNNqEcRWC-HT3vWfSg",
-        "reference": "CmRRAAAAJaSxeDgofIPiOogiIHrZjLYh5TplrSMrl_C_cW0wVW-7i6lCNDMN0k6m_qp8I5jAVxEzu8Zdr9FRDaUm3_-sNt3jf1s8mQB6pm62OYu9BE0DajlSeb2iDstM_qLgnbpREhBoTPX8hV40c_g9ijIU3g5tGhQHWrQSFhi7zCpLFUjpWqQNIPrgVw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Naugarder Straße 39, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.55079079999999,
-            "lng": 13.4181046
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.5521397802915,
-              "lng": 13.4194535802915
-            },
-            "southwest": {
-              "lat": 52.5494418197085,
-              "lng": 13.4167556197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3dc838a552ad7d772d00920ebbeff438c936c178",
-        "name": "Capoeira Senzala Berlin e.V.",
-        "place_id": "ChIJb0PzVxpSqEcRddqp_CptZf0",
-        "reference": "CmRSAAAAW58dQqZMHxMMJ4IGfbdFsHMJzUR_cRnRpyKL5qo22gY2MHePQYGowuWmxOeNDEmvASLQDoSEuEORp27T_2QC06JeYswWqFSaPYKcxZ8PDJVu9MtNV3t1Y7kZVZ-rb8ZwEhBjXTUkKW5wPPPj1hT9Lv6hGhR0kGevs1ohp21nllbmj5gy7xMgag",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Greifenhagener Straße 58, S/U Bahn Schönhauser Allee, Capoeira Training 2010/11, Dienstag 20:00 Uhr, Thomas-Mann-Grundschule"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.53231299999999,
-            "lng": 13.4534873
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.53366198029149,
-              "lng": 13.4548362802915
-            },
-            "southwest": {
-              "lat": 52.53096401970849,
-              "lng": 13.4521383197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "c482152bfae3ae85732d0747177d0d8deb97c425",
-        "name": "Capoeira Angola Berlin - Chipaia de Ouro",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112687736714085915193/photos\">Capoeira Angola Berlin - Chipaia de Ouro</a>"
-            ],
-            "photo_reference": "CmRaAAAAOXViSIjkMqrDHKZOoBGP1zODbxVtx8eQ9PGxyVT-bZ60j4xqTXpE1M-T4y1TWrJYJhiPw-dPllipGjvEHdaQ_XN0tzpGmGeQdF7XzLchv6mjuOi9jJgHepd0AdLU2H_sEhD3ejsTiRviM5999nr-ZEs3GhQkpjrnUZRKL1J5u7sxz17ogvZZzg",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJsSoYzHZOqEcRh6s30VRwLfA",
-        "reference": "CmRSAAAAjKFa2qspTktwbYPJm8wFi-FdivkEIHtkIAFUDGVV2woM9rsiq60p6MKPPb-TvHj6Ljz60FXpZHNbaXRJeHrjBENPzrxv8-q5o2qE6KAxeap5mtYz6qfn6VOHpQxXlGXOEhAbYog2qvoUdFUVX65inV_gGhSDVz2zEjud74DsmrHgIJEorpgGzw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "c/o Afrika Yetu e.V. Storkower Str.140, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.51311949999999,
-            "lng": 13.3141709
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.5144533802915,
-              "lng": 13.3158792302915
-            },
-            "southwest": {
-              "lat": 52.5117554197085,
-              "lng": 13.3131812697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "44380924f68f28fddee226c4514b1dcb1e513e2f",
-        "name": "Wuli-Schule Berlin Charlottenburg",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 535,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116197341673727440217/photos\">Wuli-Schule Berlin Charlottenburg</a>"
-            ],
-            "photo_reference": "CmRaAAAAg3SlieFs-cAm6TUge9A_0YYRb4xdwr4mzYjf-loTz_wVPP0Wwm77Y1eKeUbZv5xq1avPF22K3B-e5mIwv8qboQY8TXKi_EeFmKDdBYxiKwbkuHbyMDrhIlgDQlFHG8VNEhCx4JZldmcEMaptIwitOQ7kGhR0wFnYcWRdLETh8VmsBC9JXgLrLQ",
-            "width": 800
-          }
-        ],
-        "place_id": "ChIJ9e7x_R5RqEcRxac088Bmvew",
-        "rating": 4.9,
-        "reference": "CmRSAAAAHQ11eqy2WLLNHmdPjkgS3jggHRoKuyMdnQVi7D7rq3IpsJP5HhZDVtxZfwt8MySu1sWY1wuEpm-vXaXrcBSwaaaQbrp9V2zIxG4gFyKgV-189-of7AnSf1b-pUBN8v3YEhDdkNWy5ZCZI3J-01MWstuRGhT9RjkiS5HD-uB2wMwJgl6bhKrR5g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Leibnizstraße 102, Berlin"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 52.51063850000001,
-            "lng": 13.2937895
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.5119780802915,
-              "lng": 13.2951401302915
-            },
-            "southwest": {
-              "lat": 52.5092801197085,
-              "lng": 13.2924421697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "801146dcfc03c7218d244f8deb3cb91d56b15bf1",
-        "name": "Centro 113",
         "photos": [
           {
             "height": 2340,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109457561489356571542/photos\">Luciano Milani</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/103189693234790153457/photos\">Pirata MTL</a>"
             ],
-            "photo_reference": "CmRaAAAAPQp6BWZOs4DDP9_c6zfvBtSXKryhiXQSdvoJNFUKbHTvrusLMQU-t5ABZewFjtLghveZjOILG9Gh5cJbZLL7-9aeoceGtIaQawiGDCWhibaNWNx3toI2zevOd_QVqYs2EhDJHH-yZR0q5SXDFd1yDGRZGhRMQ6B5Hd2wjjZvf8kHErRvMswgRA",
+            "photo_reference": "CmRaAAAAWlu-rLlXOJO4jUEXRVzfdjl4tJYJ1vOsbqiYYjdmlcv0iW2e1SXn8iotJDGIZYBFPbnZBh6ARaQyDXyp0bMvdXVKRsRGp74xFav2Lmj6WX7utOHhSKh-KbL_I0llKKbQEhDbv8TSJQ7eoejesYY5WJ-HGhTx_2SZU01msWj5eUInsMbaNlPI_A",
             "width": 4160
           }
         ],
-        "place_id": "ChIJX3LMJthQqEcRou33uX9ErnA",
-        "rating": 5,
-        "reference": "CmRRAAAARxj2sttBW0CyPYgMWM7DHh13wTGZePgir5mhxsFFnw4Prf2OKKOmlALI9RdKawUW66fnOoOhIAH0ha59zpFZqxmsWIXyNL8FaSlzzRwnS_YyRbaxTziX_L-l4EE7b_VnEhDC3UxlHvdFcIhpeufPg744GhTsEl-U11oEbC2Xgh4Pttcgx7BAuQ",
+        "place_id": "ChIJHU4ot-YYyUwR0clAL-NjZTQ",
+        "rating": 4.9,
+        "reference": "CmRRAAAAgDSCgdHvNaqGFT_A0NiFbKx3_YP4JaQ-yZ2XEmpuuc6-pq-x8pSMDhx4N5l1YWQFIcd1YCKv8YGUJIFJRi4knVhLSyLfCvhPEtaM3FbgE6Hz0UJuLiiMHDv0d-AtbRhqEhDYMhX9O5XDwHjyY9B5e6hYGhSWlnBJ2pZfSofha2mSHBgOJFIxAQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5842 Boulevard Saint-Laurent, Montréal"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.5298805,
+            "lng": -73.6121106
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.53134138029149,
+              "lng": -73.6106606697085
+            },
+            "southwest": {
+              "lat": 45.52864341970849,
+              "lng": -73.61335863029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fe44432a5c81785b051245b761553ce95416ec16",
+        "name": "Abada Capoeira Montréal",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJq3cJj3wZyUwR0BJabrZXc5M",
+        "rating": 4.2,
+        "reference": "CmRSAAAAUd8qRcSwWK_Sw_gFcDQ7PIKMuWxbTubeyRCuhTJBHd0mQFNLNZnTIukonB208CVogm5SNZc2jKPuBhvN4Uzli__Wl62nYInh6EuvUBrzTZJN3AJ2isbn7_S-zeYfTXPGEhBY4c3e_CYF3jOTH-ukUwohGhTvKdEti6z_XB0kdcBOmMd68eI3Gw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3g8, 6600 Rue Saint-Urbain #504, Montréal"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.46325899999999,
+            "lng": -73.5668137
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.4646114802915,
+              "lng": -73.56554686970848
+            },
+            "southwest": {
+              "lat": 45.4619135197085,
+              "lng": -73.56824483029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d85cb43986fc2ee9a6d48711e54862a670eea850",
+        "name": "Uvolution Fitness & Martial Arts",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117705893688072480381/photos\">Alejandro Augier</a>"
+            ],
+            "photo_reference": "CmRaAAAAzZqdis0do4WYGQBb50K_AoUKz10CjJJfdKJysvy0Wr_UdmqtexkHrWAN9Ee4R9ynwEBxHY1q4Okv6qYOVClp5X3pTE3wPZ77LvAuO4k7yyy83_Ik7LS_SpDiN3J7FE8gEhDBYB_xV1X6ZlEPHwj0sFZTGhQYupOx3LNtCI8URTXi4JQ4NqiT0Q",
+            "width": 5184
+          }
+        ],
+        "place_id": "ChIJecx5P2QQyUwRCKG6c6_r2X8",
+        "rating": 4.4,
+        "reference": "CmRRAAAAzzfw-rlAcytOOGMJvzR1UcBRV_ze8FX2ArpMoNo_7XAxPrYf9WNWMyd9H7meAQ8RUDQdNfezV8qbj5f8n4YAj3HhmJE2vKP5rEXIPf6ibMn08R6V20_SYH7y-1iFUTcYEhDWLCEwcxoIsiHjd4dRAPl1GhSvdVb9pLFqFsE0tkdljectkaHj6Q",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -635,52 +272,183 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Kaiserdamm 112-113, Berlin"
+        "vicinity": "4052 Rue Wellington, Verdun"
       },
       {
         "geometry": {
           "location": {
-            "lat": 52.421807,
-            "lng": 13.299366
+            "lat": 45.4758649,
+            "lng": -73.4444093
           },
           "viewport": {
             "northeast": {
-              "lat": 52.4231458302915,
-              "lng": 13.3004490302915
+              "lat": 45.4771503802915,
+              "lng": -73.4431459697085
             },
             "southwest": {
-              "lat": 52.4204478697085,
-              "lng": 13.2977510697085
+              "lat": 45.4744524197085,
+              "lng": -73.4458439302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f265b717220f49f7ccc401cda82512381362876c",
-        "name": "Sports School Senshu GmbH",
+        "id": "5f17cca0a9026bd7fbd6c3c1cedd2cd848f2cc7b",
+        "name": "Grupo Capoeira Brasil - Canada",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1365,
+            "height": 683,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112933499064572783296/photos\">Sportschule Senshu GmbH</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114293883448530192123/photos\">Grupo Capoeira Brasil - Canada</a>"
             ],
-            "photo_reference": "CmRaAAAAsvlKfH7UeC84hWeNh8zcFG6CMw01BFA_jKT-0TgRKWFNj6zKXhFza-EdJuqNbeo4BJHjHdfIEJ_7LrHxmDYnNQqpSSsafJjLL3ez-8dAkvVtWimYG6PvaK9TkrnM7OSYEhDOMwZRiPwqAQkvB_GFQ5yVGhQB8khfo7ROnSKiZrrXpaftfExCRA",
-            "width": 2048
+            "photo_reference": "CmRaAAAAbQTa5WIxGAREo9kap8pzjCrEJ4eMrHZrl0Ilr77ZsMfuGZAJoMl1pD0ammZMWsW_3oRR6-tVJtlVAb1x_Ah8GmWF4YddHcKswrehrcUNQu3wH1hx6nN2_inR1FtwgOmpEhDHeewLGPbLEKI4XEL79qknGhTI6jrg4mzNKwFuQpSssn_JS09IEA",
+            "width": 1024
           }
         ],
-        "place_id": "ChIJtz6c9wBbqEcRalRcjDKvkCo",
-        "rating": 1.4,
-        "reference": "CmRRAAAAa5luCuNYj8Y8gzjCTCYCHhb0rw5Vks3iYf7w8o3NwHF9MK31eT3bK88-FLpKg95oTVHvHfJUfSTxgawFiGMNWBiM4CkiRjQVtjxYTWSwZhgJSdiTZZ32-IScl03oOC9FEhCOFQbYFc3tBWOAcWaVefnWGhRzwlHzJ6BIJ4uHGpHqJuYIY-mVig",
+        "place_id": "ChIJtyorrJcFyUwRvcUAXzIolQM",
+        "rating": 5,
+        "reference": "CmRRAAAAePbC2WgtJxvSEvQCSSOjSDuHJvHUcPZpgZEq3nOaFhLNCzV2prV8jCfuww0I_TqE6n0ID58C_FK-wV03XJUJX8N6dnue5h9yobe4yG8hdBDR3PK-H3IJvDr2WZDpYg5xEhAfIbwakbRsaaIDd78EyfoTGhTbEDmihZzLNwaYc9Jf6YCo6Qtb6g",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Wismarer Straße 42, Berlin"
+        "vicinity": "5556 Grande Allée, Saint-Hubert"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.5112253,
+            "lng": -73.4379874
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.5125742802915,
+              "lng": -73.43663841970849
+            },
+            "southwest": {
+              "lat": 45.5098763197085,
+              "lng": -73.43933638029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0752e8d353a44e525da6bbb685c6dcfd64f64544",
+        "name": "Grupo Capoeira Brasil - Canada",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118266839390112068683/photos\">Grupo Capoeira Brasil - Canada</a>"
+            ],
+            "photo_reference": "CmRZAAAALCtv_iKCaFkX5J_2LOQGkIV-4AQI8VZdeWJgaTpmr4bt5DTeAgNKaomd6e-hrV9AqZ_AYOd7juDfBihVRJopSVt2OFgR__Nu7TilxUi8Wl_9W2_VHTvKuxKGsF0rteLfEhCBs0e9DxU9ki1RVRDruwayGhR5g9U5UZ_f-DTu_IFSqcaElyq3nw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJB4ewTb4EyUwRotRNtrBH51c",
+        "rating": 5,
+        "reference": "CmRRAAAAHc5nqg1vj5Pq3eFw4tAsEYu2PqikoPdUTXp5jweUkDHPfZv-J11X3cyFVPSUQHBJEprbcx4VrwtGGqeqh5V-vI4VF5aiQrXEzGTnTOz-CamE16nxFIaK5fzg7rzo4GlHEhB_TvtJDYFlrQd3S6lQH3GvGhQnaTuDr_W-igYtLUaDvAJTZ4vB7Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4180 Chemin de Chambly, Saint-Hubert"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.5669718,
+            "lng": -73.698981
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.5682581802915,
+              "lng": -73.69756146970849
+            },
+            "southwest": {
+              "lat": 45.5655602197085,
+              "lng": -73.7002594302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4183ccdbac78c4fa246982099a4850ac00369723",
+        "name": "École d'Arts Martiaux Brésiliens de Laval",
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106362244553928324777/photos\">Chris Brice</a>"
+            ],
+            "photo_reference": "CmRaAAAAJcwpG6dZNpVBLYL_-MRTP-CR2kxyPG2wfPQhejf9EDisK3b1c9RDWZGyKWIqMgRnQpIiU06QOkANkhKGE10Xaa1a7bsRO5x-5URbyq2Jiimd7n53YpSeXHNPfMPdG680EhCpDiCRVESKuwMzYauFLCslGhTWmzpyYK4-yQ8_YdX5odrRj1MTzQ",
+            "width": 1666
+          }
+        ],
+        "place_id": "ChIJd2stBDciyUwRktiI0Se8NNs",
+        "rating": 5,
+        "reference": "CmRSAAAAJwpTVankc72c-ZzdXzLILmyFvJV1j7QkoGfhvrrcWsy1wpkpMnjeUhwRSlQ8s2gO0lxLww8zntIBPiBhAYlpY8MlgSFgDCXCKIRxbFj3To4b9Pf7kw22h7zGMUbNRefgEhASZRA3JbcE2CJv2Iqo3Cn8GhRoCz2vJni0WpnQyb04hPZu8VNYYA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "103-A Boulevard de la Concorde Ouest, Laval"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.4813818,
+            "lng": -73.7986477
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.4830171302915,
+              "lng": -73.7974429697085
+            },
+            "southwest": {
+              "lat": 45.4803191697085,
+              "lng": -73.80014093029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e85565863216884802bd438345d34fe415d26278",
+        "name": "West-Island Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110826561636434715402/photos\">West-Island Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAA2sStm3JszEdGg220-RG_k6uHUWPwVG6cbhLcM8kiRXQoBgnSrQPdRqAKIXyyeRYN2B8Va1cCJkMk5XoWTqNlenCtLwWtgX1_ZjXc6bILhLgLJW4-w8JWT-YyZryShDk2EhDBXvPmloG0rnergiea9EiMGhTEmgWefT6YdpB-t4oHJOg-SIo4vQ",
+            "width": 1152
+          }
+        ],
+        "place_id": "ChIJw-bVAfI8yUwRDlcou3bqcz0",
+        "rating": 5,
+        "reference": "CmRRAAAAHbN6NJE6Ng-7g01FqaK1k2mg7QlZSX6xmza0eV35kbrCM26WKboBtzMLNiYgs8agJi6pzP8V28RNi5lDN1IslVLsdLHLNm-YmZgWHgwttsiq1jzczOgr2SQqLMjF656aEhAqdgFBwEP_RTm3rEBZiCVpGhQUPURWbfIB1dRcyAnQB3FMg0Zq9w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "54 Boulevard Brunswick, Pointe-Claire"
       }
     ],
     "status": "OK"
