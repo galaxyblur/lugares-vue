@@ -1,20 +1,402 @@
 {
-  "city_name": "surat-in",
-  "city_rank": 64,
-  "city_population": 2894675,
+  "city_name": "chicago-us",
+  "city_rank": 65,
+  "city_population": 2841952,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "20.966667",
-      "72.9"
+      "41.8500000",
+      "-87.6500000"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 315772,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.8803115,
+            "lng": -87.6375316
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.88166513029149,
+              "lng": -87.63591986970849
+            },
+            "southwest": {
+              "lat": 41.8789671697085,
+              "lng": -87.63861783029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
+        "name": "Omulu Capoeira Guanabara",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
+        "reference": "CmRRAAAAgJ4AcOXZba1VxpF2lNMQCO_vTN-TReZ7C3jdLdBBMhzP3A9MbLDjcOKhshSHi7iYQfTvizBlgaKSf8YwEaf8mIlVZ8IQubC2QgzIgYNlcmTBdVYARR-mcSWagdsphKaGEhA2JMQMPyi1j9b3HAgIHtMpGhTzAb5jLn3zDzJZo6QkK2x0TMnK7w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "100 South Wacker Drive, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.8959299,
+            "lng": -87.66653989999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.8973601302915,
+              "lng": -87.66519321970848
+            },
+            "southwest": {
+              "lat": 41.8946621697085,
+              "lng": -87.66789118029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
+        "name": "Axé Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAO3imZAbalri7PpowSxWNv5Pbp2YTL5KVnh8eZDRI_h27q3ytgZ4aWcixhWa96xJ75nMnU8IzHGJM2BbgNO_VS0HmKspB3eyb45R5wOA-iAqkH-YNeO_3b-ZN4AjMRVUYEhCOQ8bUMnHcUNdg8cc1-VKXGhQz804HKGnqmjJQg6dx89VzXurPfA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
+        "rating": 5,
+        "reference": "CmRRAAAAjLqWN7Ojduv-qesSyWVn8ZOVk44kvk3owqjIHP28cu-Wu9v5c3lrWfOykmrz5mlIQZEMajsKKcuBcnG0oBYg-9yaK5gLyNHajJD0ULx30NimT4Kc3axcajvOIusHdImREhDeFNUtoVl-ypGz0mnoZJq3GhT6WnWwaYJ6FqN-hh-DgetjlWWoLw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1543 West Chicago Avenue, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.90119599999999,
+            "lng": -87.630342
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.9025470302915,
+              "lng": -87.6287777197085
+            },
+            "southwest": {
+              "lat": 41.8998490697085,
+              "lng": -87.63147568029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
+        "name": "Gingarte Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAHTlNTrdNcV9RVlV7Dbc4zBoZXbK81a0yINHiY9pLtYW31yLsQ9Axew7EVOhxssg8HMagUzE986Z1WUagXKQqieQIk1rau3Olx3SJzMCEjaSqGkfnX29LUff4r7N148kiEhD-I6xR2xUOPNZKm9u1slqDGhQQliSUYzq7bBT7nYRLp6ByPO1EcA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
+        "rating": 5,
+        "reference": "CmRRAAAA168OWPb2dJ4hZfbNKQqg7EM_xWQGdb2DAIhAvuXUfg2xaE_Sj0xl-e0ERR6BXY57PoRwkH-Xgm-1xrol8ddg0gPo5MtqQwnf5MT6Z-UEXSYB-dcFKA6mGGfsASeh-dPwEhAetj2bXsU4A7ddYL6zqiSfGhR7qg6nn1lmW9tkjM1x6Y-YON1IFg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 North Dearborn Street, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9133592,
+            "lng": -87.7112971
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.91470383029149,
+              "lng": -87.7101925697085
+            },
+            "southwest": {
+              "lat": 41.91200586970849,
+              "lng": -87.7128905302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f815a0529f52aadd02844ea5176667327e59a652",
+        "name": "Capoeira Angola - FICA Chicago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1104,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAC3iznW2zUY1hK_EC3yv_PSE4sqTOWG111QQc7clK949A-U0HrF5IkB-suNFlrSPvS-t4lPnpotDSkNkB3mHEgbjUkRoq22Tz9xmAN1wbrLd4WMCBpAXNzIa2fll3ZOBVEhBVNP2Kg-qxI3aoKZyvEmYTGhSNKProbwP2I42n9IEVCf4i33nsTA",
+            "width": 2566
+          }
+        ],
+        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "rating": 5,
+        "reference": "CmRRAAAARfD5YbJYzpRKVw6hRW60H2EdBUAmRCtKtzfNw2-LsYWfHoCIxGwE5pTWAbb5cRVj0Y83flJ-8QNo6cT8R9CwgT45tVSXkq6NQVPnnE536QEYnvej3rVosWVr0CX5lSxMEhAtFp7FFUREjsbZR9OfgNXqGhTkN5RkeR1TXaxKllWr7XusPFz_Yg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1757 North Kimball Avenue, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.93509969999999,
+            "lng": -87.66268939999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.93653078029149,
+              "lng": -87.6612324197085
+            },
+            "southwest": {
+              "lat": 41.93383281970849,
+              "lng": -87.6639303802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "551d8b3cad0a7be8f997993e3bd79fbe7e8163fc",
+        "name": "Tandang Garimot Martial Arts and Wellness",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJy_XfUP_SD4gRKQllwz45aFY",
+        "rating": 5,
+        "reference": "CmRRAAAABx075sPb3SMgg88hO1V3e3abazzP9Ps4iO3ktxvc_INi9MIjNulqRtpuQpktHD8o1AGxBB9Rj1kpSq2XDwKqVx1PZ-bw10yRcp0dEDxshp92xRRi8JjlOCL_e_-jPrPfEhDVbHPh5hXosgPLjjtCKy5_GhQr04UbVfEb2hWzVlEKXtL3-VaEEQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2940 North Lincoln Avenue, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9401434,
+            "lng": -87.6548612
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.94136918029149,
+              "lng": -87.65351061970848
+            },
+            "southwest": {
+              "lat": 41.93867121970849,
+              "lng": -87.6562085802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
+        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
+            ],
+            "photo_reference": "CmRaAAAA04ANOQWJ2wY4mMBAziURf5L5IbrJ8zMbcM37YZptF4mmJDfLDaQFh6kUBGWjC34EJ_NfFvRMuxprP7qSkbof10V30f0vXvRhMtw447X9EWEp8MGGs8TDOCyQqPTMJQNDEhBcjb3xD9A-MBOp3WxIoTzzGhQ9GV7Hz6v0Oit37TFuTpPABqmXig",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "rating": 5,
+        "reference": "CmRSAAAA-rrQdZakKJVSt9LOvY3IllZqFltDnwtQYH_sWG3HghHWnGo3DPSZ69iH6ZXnQcLF8XGzo4z6RKOulZSPP-GmifooHVwFgkWIjR_-NE42-sRTOkNuLV8c_n-dIf6U9cMxEhDPCrlivqzCjRIyUuw0-uQHGhRkCgEElbumBQE9bm7iFbZAUgHryQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 West Belmont Avenue, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9401434,
+            "lng": -87.6548612
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.94136918029149,
+              "lng": -87.65351061970848
+            },
+            "southwest": {
+              "lat": 41.93867121970849,
+              "lng": -87.6562085802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8efde9e6467143d660cf5478c72f950149a491a3",
+        "name": "Japanese Culture Center",
+        "photos": [
+          {
+            "height": 612,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102723418276407885085/photos\">Japanese Culture Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA2MWkLGvYrbreOLa9J4ZSKWwgYPSfX8T88U6fo2vMq7RKPzkP7ptgVq8xwDa5fsbjO9bmhzmpzOZvkC4dV8aGxmqd39d2sEH1ja3oaNVcpUcPf43cKXb_pkVgC9yL8fCPEhBmKoAEJUt-TPyCtLt0PdMaGhQy_h5zFHfQelgKw2wQcgbPUJUaww",
+            "width": 1008
+          }
+        ],
+        "place_id": "ChIJQZMaj6vTD4gRF2_zcohQrEE",
+        "rating": 4.9,
+        "reference": "CmRRAAAAfefIxOZpJ1UU3flYSn9Lfug0BTh0QyW9zaQgo_q1Ek8oaRIph2Crv6By4AsU_wk6Vuixv-eQPH0RjArZjI6bWqcE3ObyFnb6v3YqJHSYrIkjoXvCFcHR35PTvyCrgKDzEhCczDmVj0IbysAP_xB_h6AHGhSlLe6-ROVyahTbXa_y8yzwwYBPDA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 West Belmont Avenue, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9581719,
+            "lng": -87.6747535
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.9593660802915,
+              "lng": -87.6734002197085
+            },
+            "southwest": {
+              "lat": 41.9566681197085,
+              "lng": -87.6760981802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
+        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 682,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center - Grupo Capoeira Brasil</a>"
+            ],
+            "photo_reference": "CmRaAAAAX9DmimkNY7SN9AbQJen4BnjO4sN89JesXPtlxZ_nms4AEeRqkNnxyPzk6L3MvAb4nzZ5csgIVq8O3Zvhud6g8zUthKl-rQ1lxDhVLTO3w79Ha7pXkY40vjJpW4aJ8XzUEhB6SnzxV14JcCIP8yONSA4OGhS0e-YkjLb1hlZVghHZQwyj3HdYSQ",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "rating": 5,
+        "reference": "CmRSAAAA4OMJRg9urNa9_UC1HWUSLwU2jPsHnyYlflw8r_bH-K4enDmqPI23LXGgoWUaeooct2tn2GGFVPyX-Dp6uisBfP-DZsb5Z1rmOpbNAVmjPB5L6b6VA38HYPXQ3UyL6utXEhACMV2qJoiaJ9RnQ6v9Ea11GhSLD5xpg_KT2VH6365QizUkUYQTwQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1802 West Berteau Avenue #215, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.991912,
+            "lng": -87.654746
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.9932609802915,
+              "lng": -87.6533970197085
+            },
+            "southwest": {
+              "lat": 41.9905630197085,
+              "lng": -87.65609498029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
+        "name": "Herança Cultural Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 991,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAA7MPoG-xxBAZbCHHdP4mGePuQUCeSmCpfmUBjPEPa9acEQu-BMrb9EI-FC-e0Z1mFPOqkkBCE7g28Ds9WBxuEERVfwxqsDvSsCNStMa1-MhMLMDg80Tz0IATbJRklQ4ooEhA4PdgZGciSqZNtF0D23rsgGhTg4NkxGugogucFLm2BQZLEdSqoaA",
+            "width": 1894
+          }
+        ],
+        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
+        "rating": 5,
+        "reference": "CmRSAAAA4tlhDzv0_kdeJGFXKdCED6vuTwtecfIJvatVX-8jAS-YYRekqeikGD3KhWMgsz1UV3JYGMtFv7RmIe3WmRAAQ85dZLsCuaOctDpnhTXrkumcFX43Bpgo7-S-QDju0ia5EhCKUkgAsgBmucKjudN0MrfWGhSPYiT9Ho7l7-afGI_19jfVIXey2Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6033 North Sheridan Road, Chicago"
+      }
+    ],
+    "status": "OK"
   }
 }
