@@ -1,20 +1,108 @@
 {
-  "city_name": "faisalabad-pk",
-  "city_rank": 82,
-  "city_population": 2507302,
+  "city_name": "izmir-tr",
+  "city_rank": 83,
+  "city_population": 2501895,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.416667",
-      "73.083333"
+      "38.412726",
+      "27.138376"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1250948,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.43883719999999,
+            "lng": 27.1428536
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.4401861802915,
+              "lng": 27.14420258029151
+            },
+            "southwest": {
+              "lat": 38.4374882197085,
+              "lng": 27.1415046197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "83f2c63f77821da5f336ffa5e330158316258ce4",
+        "name": "Eda Soz Dance Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112216453553092419992/photos\">Eda Söz Dance Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAfAHjvTbIk4kcbUo9pvSumUPNs2abReaYDrZ9oYhyGUz9PS6bY5gylIkAZ66c9TYNABems-9hKhYywNDQAz0PW6oP4sQnYCiknBLaMwOCqRpiV4TG5MbwAsEKWyRTsNYwEhB0Taevob7iukr3CBqwd2qKGhRkPmIdiLl-rYtmYDhGfMMk2XsIrQ",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJbyh3SVvYuxQRxzHyU8P_-Wk",
+        "reference": "CmRRAAAA7KeryG17XNg2m0Q4cbf7herSP8ST-rEcVgrRyPWYyXh8koyT_4pHRiVQWAT_QwC4Gf9PJKPremLS4VIMfZVUc0-TQe4jwSMpdeDeIhuQj6uSimzMy8deXO59gQT9IlNKEhBEDuzxc49zm1zukAJCWZVmGhTA2chj7alDLDbI0IjH8NHsKfEPwA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Alsancak Mahallesi, 1480 Sok. No:6 D:A1-2"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.456191,
+            "lng": 27.228968
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.45753998029149,
+              "lng": 27.2303169802915
+            },
+            "southwest": {
+              "lat": 38.45484201970849,
+              "lng": 27.2276190197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "90c1927ca276c26879471baf47585655cdcba24b",
+        "name": "Capoeira İzmir",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101293740301696895415/photos\">Capoeira İzmir</a>"
+            ],
+            "photo_reference": "CmRaAAAAdJXGKRRoYvQ0kNvR0NZXNw63L-VnmkpN9y1r_b4j-ks-nOVsmIWIxadR7hti_q-GD7fP9nj9PAI-vWbKgRluqvw1mJoVivBfYYhVOu7sZgZAMi0RCSNNEbUhAUJ3hE3kEhDrHheQxl4f_Md3bv9jtfmCGhRt3TGLW_Z-67kF13sgF6kwzVDpeQ",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJdeS5XOPYuxQRNYKeseeRZgo",
+        "rating": 3,
+        "reference": "CmRRAAAA4R45wQQFxfP-wBibjIx31_ykoRbT3lYBBW1TROjGnyTi-xjmv_zbOnWlZpD9iYEXLZNXTfUi85K2xU4XM0QabSlrHrx9Zth1dLEokIp2DOpp1PhPI3X39N8Fh4GEgZ_REhBi2LOjVCMCwVZcJ9YDVzQYGhSgDztNP0cJEytsXIYGyMn_k5hldw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Büyük Spor Salonu Ege Üniversitesi"
+      }
+    ],
+    "status": "OK"
   }
 }
