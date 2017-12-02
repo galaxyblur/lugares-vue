@@ -1,20 +1,55 @@
 {
-  "city_name": "changchun-cn",
-  "city_rank": 79,
-  "city_population": 2537421,
+  "city_name": "taipei-tw",
+  "city_rank": 80,
+  "city_population": 2514794,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "43.88",
-      "125.322778"
+      "25.0391667",
+      "121.525"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2514794,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.0580834,
+            "lng": 121.5311294
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.0593730802915,
+              "lng": 121.5324771802915
+            },
+            "southwest": {
+              "lat": 25.0566751197085,
+              "lng": 121.5297792197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "68d86c7112f0976d04cddcdebc0359d205fb118f",
+        "name": "Capoeira Mandinga Taiwan",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJf73WKlypQjQRwm1ke_pt7Ms",
+        "rating": 5,
+        "reference": "CmRSAAAALy7D4HnOh2wGWIveKjR4WA3gOEi54hPjkkj85WY9bv9k3ZuA8ljRm1ah50P39sp4tTi5tCBVfCMMGVjA_M3CTJAh8DlM_msJ2Der-h9O3uMoOQ9dhNvA9X1GOxNkZHRCEhD1axrmaK1IYKCn9zVUs0ckGhQSvW9hfnvJ_WzIIqjkLQjuGJmEtw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "號, No. 101, 民生東路二段, 中山區"
+      }
+    ],
+    "status": "OK"
   }
 }
