@@ -1,20 +1,109 @@
 {
-  "city_name": "accra-gh",
-  "city_rank": 107,
-  "city_population": 1963460,
+  "city_name": "guayaquil-ec",
+  "city_rank": 108,
+  "city_population": 1952029,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "5.55",
-      "-0.2166667"
+      "-2.1666667",
+      "-79.9"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 976015,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -2.1400328,
+            "lng": -79.9044523
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -2.138683819708498,
+              "lng": -79.9031033197085
+            },
+            "southwest": {
+              "lat": -2.141381780291502,
+              "lng": -79.90580128029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6388dc8b9373adc8778d476f9b91c3f480114eb3",
+        "name": "GUETO Capoeira-Ec",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 368,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107522205233145659267/photos\">Joao Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAART6S8Guep9yrpCl6RLYGAQKXHM2ZMqILK-E8b-Aa69n1evjkCjIHrtmt4jkZiu9Tpz0ub-4nDTFWQ_eJ9hGvj2xYyM4HlNGFZ6kFejlQbSj3CV0MZ7EIhkrQCppTfM9uEhBcbkeraiS_2lwRmE0Jq7lKGhTWYmGgQHS4jLfjphVIVkH9rYFksQ",
+            "width": 552
+          }
+        ],
+        "place_id": "ChIJTYxHOm5tLZARX6lRgudD-3U",
+        "reference": "CmRRAAAA5swO9btKYKtu_ZW5UDH_tYamCtXMhD1BxpFrMilTpwd-ynhUipu3Z0Th0skDRLehFKVPnDYHFaFvBSkILkU1hKwCWGdZElG1RpYvxergRgCjQ8XErS6KPYSIJMPRyaPBEhA41RH5_i5OEJa_XCTppJbTGhTWPOiydvDJIAQnefcoEmVNoMAzYA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Guayaquil"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -2.1303118,
+            "lng": -79.8641092
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -2.128962819708498,
+              "lng": -79.86276021970849
+            },
+            "southwest": {
+              "lat": -2.131660780291502,
+              "lng": -79.86545818029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "eee95a303bc33107687be95bbd78200150c5af58",
+        "name": "Capoeira Nagô GYE",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109513801004268466299/photos\">Pedro Molina</a>"
+            ],
+            "photo_reference": "CmRaAAAAqIXn6YjoFjB2aaTRX7SP4YaDZ2_Tbn4jxMz2sQbAJgtN57e-2DnkaRH4MXhkSBzbvUVBoDFygTi9uhaPofbl2aJEjeGvxk8E8c7JEMCxh_p5syh8pHA9VNHmLLprxALUEhBgj3L7LiJ9K2AQtziqCSiJGhSxMoTAZbIcvTvIdsChWuCbwZzJig",
+            "width": 4758
+          }
+        ],
+        "place_id": "ChIJVccyRd1sLZAR2rptfTLHCzI",
+        "reference": "CmRRAAAAMsHlcN6r5FQIMMf3N2wie-HE6PspY6BGvoisPGyX3kiZyMNDu3xECLPUUeqcXIQHJflCF0_qyoHjvVL-G8e8PvHo23rp7NwH5iMksNjg-Jr6x8lre-fZV9MssSKifeYiEhBTLCbsDfm4DzH1sCA6u7msGhSvfnv3OAJGd-8L3J6m7vwWC2qiGg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Samborondon"
+      }
+    ],
+    "status": "OK"
   }
 }
