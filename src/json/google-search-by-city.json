@@ -1,184 +1,20 @@
 {
-  "city_name": "vancouver-ca",
-  "city_rank": 117,
-  "city_population": 1837970,
+  "city_name": "indore-in",
+  "city_rank": 118,
+  "city_population": 1837230,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "49.25",
-      "-123.133333"
+      "22.716667",
+      "75.833333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 459493,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 49.2630131,
-            "lng": -123.0978274
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.2642651302915,
-              "lng": -123.0964849697085
-            },
-            "southwest": {
-              "lat": 49.2615671697085,
-              "lng": -123.0991829302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f0c1ac561619b8ee098554520a60fdda9f542381",
-        "name": "Capoeira Ache Brasil Academy",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 540,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101206183802498783583/photos\">Capoeira Ache Brasil Academy</a>"
-            ],
-            "photo_reference": "CmRaAAAAWme0GScQqfVpTeCF3S6HLnFwy6ugfWRIJrH1QW0Gwa0w63F6ZLoBA4QvTGih-w2ls5OhXeVAQI9d643Ml3F2SCEwmWeMoimw-lRGff00oyyO4PXxM_whNBmbMKjdXDesEhCwhDF2VfsWEiNJlRBfZRFiGhQms67myz7U0njMcurTQEzUd9gbxA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJbV1mRV9xhlQRQPNRxn2KWxY",
-        "rating": 4.7,
-        "reference": "CmRRAAAAOqUwfJDNeBUK2mXrdSfSau8RBABM-7sxhsWwt9vSTc9rHKWw9wuBGH7NkO7nOSSlPi7SheYgorNJRVO0xq6HGcs8J2Qb7nRYbWYz4jIjHTB2bt7vBw1xlwEt_J9qPL_EEhB9PT7df8n8GrewPsrMLhuNGhTb2aRxuEuHHEk1nwXNcxc86nE4bQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "341 East Broadway, Vancouver"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 49.27689729999999,
-            "lng": -123.0697675
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.27825113029149,
-              "lng": -123.0683292197085
-            },
-            "southwest": {
-              "lat": 49.27555316970849,
-              "lng": -123.0710271802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4dbd29c4249bcfade2661455f2c682013a118b05",
-        "name": "Axé Capoeira",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105228349541098182324/photos\">Godwin C</a>"
-            ],
-            "photo_reference": "CmRaAAAAupxhwTudQCDXuX2fWbdns4l5mk-wEgt5aoWLV4GBTUBilXTY5gEwopaVnpI1KIfJB-ueUJXivDvscebp9Qm0EuHHFx_pOka2igG04tfZO1Axj8-TNaSv0tJRBdQbOoj0EhDFAPVuhwvnbGDTAS6k0G8QGhSFYsn7hvhM5Wym20u6dgCJcFHVHQ",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDcPNAnpxhlQR_GJ4tMLp3z0",
-        "rating": 5,
-        "reference": "CmRRAAAA2Vf4rOZpeLQMAhAWGjlHl4vkEO1IEbY5i7cun9J1Uq1wJeuirm5rBgZbKFAtVHowyE96OyqSwzpXHiwBvh7PALUqWXkyGAxRRTeX5UM1d09Rie-83nJT2lu8W6X8Dw3lEhB-NIds9pSUiHl-MnzHlbRNGhRE1tdupsYzpuRpjgTqkwlqEFmisQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1739 Venables Street, Vancouver"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 49.1747147,
-            "lng": -123.1514217
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.17564968029149,
-              "lng": -123.1497730197085
-            },
-            "southwest": {
-              "lat": 49.17295171970849,
-              "lng": -123.1524709802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4723f2f4ad6ea16c0f4b80709472b8ebd3ecaed2",
-        "name": "Grupo Axé Capoeira",
-        "place_id": "ChIJmbRtxtMKhlQR0PtGA-10wJE",
-        "rating": 5,
-        "reference": "CmRSAAAAKleaHlrCB9qWafElnYYRNaEJyebyRoGAgONpK9Mk8NBnJs1ktcsxtcOYkGcDhgxE4n8RGSnCTND3D3pj_rdgeNLOz6ipVhMdgnR4srKxLN51piSZicuqiRcXFpaEI7cdEhB8L2alRjFYbUUZrPo3nmVuGhRGMYa6V_NZDDhh0H0jjBjGsWObYg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6111 River Road, Richmond"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 49.3243046,
-            "lng": -123.0897581
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.32563428029151,
-              "lng": -123.0884092197085
-            },
-            "southwest": {
-              "lat": 49.32293631970851,
-              "lng": -123.0911071802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "39021f126118fa095b5bbaa361c7e22558d95bce",
-        "name": "Axé Capoeira North Vancouver",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116495207738761939977/photos\">Axé Capoeira North Vancouver</a>"
-            ],
-            "photo_reference": "CmRaAAAANYbR5pB-F7WRIelUUcE9t9zrC-1ze802xYUGVa6zUMqJouXg21j9DPg1hynqp1e56p5oyKuQ-iCSYfvPO3Zn_qm8xcxv8tG2zBHZ5UEODl-44OE58gPryWRLJEEA1OdXEhCnOnGeS4-uJI25DRxzSMipGhTvBzWXjOdkpHTCQPpzqIdBVL59RQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJf-z-BXl6hlQRz8pjRcQWna8",
-        "reference": "CmRSAAAA6dCxeQlaZpN1j_T2EB_droXWdkbFH68GJfCtdCApagFQ9Z_H-4zHrTysUSwRJE5IsmQQT7j48buSHfRsHSSrH4dQAJu4A9-lXbHbBh2HLJyJ4kjVxfkf7ZcuP9MqH7wREhCzPVo73fQp_A4nlS4oKQPqGhQDozDictYAFcdxag03GLkvsTS9-w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "641 17th Street West, North Vancouver"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
