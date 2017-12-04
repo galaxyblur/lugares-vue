@@ -1,20 +1,65 @@
 {
-  "city_name": "hangzhou-cn",
-  "city_rank": 112,
-  "city_population": 1878129,
+  "city_name": "bucharest-ro",
+  "city_rank": 113,
+  "city_population": 1877155,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "30.29365",
-      "120.161419"
+      "44.433333",
+      "26.1"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1877155,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.4545653,
+            "lng": 26.1215729
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.45576028029149,
+              "lng": 26.1228307302915
+            },
+            "southwest": {
+              "lat": 44.45306231970849,
+              "lng": 26.1201327697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "55198a372e1be0f57be55cb7662a0ecd3b159be0",
+        "name": "Alemar Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103255651424152056814/photos\">Andreea Pht</a>"
+            ],
+            "photo_reference": "CmRaAAAARxoUk6Ci-HKu6q6t0NCMVAjpuBMf8_-lgbo6TTW8uF8S17XYNZ1JrhF4DX9hJhwxjljBqLtChKIEimtfxbx9UAXuxzcY12klY7_y7AEGOTCKpjAUrCMujgFRUWt48okOEhBkIza8UfMhI07tDf1dTgPLGhSMxFN0wj8I5BA1cNKeNox_GN1aqA",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJUcJXB7j4sUARYYSfXUs-h44",
+        "rating": 4,
+        "reference": "CmRSAAAAGV1aRI4qairqz1rHfZDe0cE8TQbBiwol4bcCo27xVu3DpSlX-5VEM-bEnYBvAmp8UAsS1tgT9t4r5r3kV4Bn-hSlRKn5vkoRkn4giqL79I0w08kL3pBBbkwkptvBt9m2EhAASvTcDQLwi5QVJvmN6nl0GhQi0rivn0PUEu4hizm286Q2aWTnOg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Strada Brădeşti 8, București"
+      }
+    ],
+    "status": "OK"
   }
 }
