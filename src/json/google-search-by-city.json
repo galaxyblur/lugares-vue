@@ -1,57 +1,72 @@
 {
-  "city_name": "minsk-by",
-  "city_rank": 123,
-  "city_population": 1742123,
+  "city_name": "hamburg-de",
+  "city_rank": 124,
+  "city_population": 1733846,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "53.9",
-      "27.5666667"
+      "53.55",
+      "10"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 871062,
-  "possible_duplicates": {},
+  "people_per_result": 91255,
+  "possible_duplicates": {
+    "ChIJ2a1gtJaOsUcRMPdyyL8AGsM": [
+      {
+        "place1": "Capoeira Cordao de Ouro Hamburg Sorbenstraße 22, Hamburg",
+        "place2": "Capoeira Cordão de Ouro Hamburg Maurienstraße 19, Hamburg",
+        "score": 0.8
+      }
+    ],
+    "ChIJ9XXPbEiJsUcRxhoubTLlLQE": [
+      {
+        "place1": "Capoeira Cordão de Ouro Hamburg Maurienstraße 19, Hamburg",
+        "place2": "Capoeira Cordao de Ouro Hamburg Sorbenstraße 22, Hamburg",
+        "score": 0.8
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 53.91576129999999,
-            "lng": 27.5692047
+            "lat": 53.54329180000001,
+            "lng": 10.0077414
           },
           "viewport": {
             "northeast": {
-              "lat": 53.91711028029149,
-              "lng": 27.5705536802915
+              "lat": 53.5446407802915,
+              "lng": 10.0090903802915
             },
             "southwest": {
-              "lat": 53.9144123197085,
-              "lng": 27.5678557197085
+              "lat": 53.5419428197085,
+              "lng": 10.0063924197085
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "c58193a0e23c399622ffaa099a4d7ff19976b2fa",
-        "name": "Axé Capoeira",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "da8493c4e244593de41cb4d8f1a60cea6790a20c",
+        "name": "Capoeira Hamburg Aruanda bei die Halle Parkour Creation Center",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 3397,
+            "height": 260,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109994655301836367534/photos\">Axé Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111007102519266281406/photos\">Capoeira Hamburg Aruanda bei die Halle Parkour Creation Center</a>"
             ],
-            "photo_reference": "CmRaAAAAhGPOqBaNmdsORsVAf26Qzaw0NT-5wAAjveTkP266mLHMIUge7K8kc4KeSf18iTmZOSUKhrkYILuqcluzg8DLKTM92MNN_K5nOhyhBWyRL-lDY-q59oXPEp3W6-pOwKPZEhA8cWir9ujeQ5CKV8juXvOmGhQGpASzBvWyu_XhWUeaOmxogRMuNw",
-            "width": 3000
+            "photo_reference": "CmRaAAAAK9HI1lBEIYpeT9i8ILie30pJQ-2RDIozCkQO_ASYqGGuNcamcuHtluX_0vIqIZH88aKiLXHqD5omBxCKRFMO_Kq5-o9-WMT8CmyDxfcWbEy-zOw4IcYbwlPFmdg8-tExEhCaX1RQOrtxgqca6cokD_onGhTM5WisLJ3uFPULua0OfU3cqbh9AA",
+            "width": 260
           }
         ],
-        "place_id": "ChIJ703sOpjP20YRnjhC7L4X_2w",
+        "place_id": "ChIJ70iwqfuOsUcRXd4Xpu2g_Ck",
         "rating": 5,
-        "reference": "CmRRAAAATYHBFf2V_EFaaAezpbSs7YDK20YPiGNj1KxzxSPkWGaN7pAr0y-55OQ9LWLxszPRKk3LZJirElnYJZ_y0QGsXeAEJUjvI3gFutVOMVo1Gssp5dA2nFcLXU0udZ4MHQA6EhB6U9RdZ1kWq_WGB8S6S27nGhRHXyAUh7JKiLrAWql_scGO4QRHoQ",
+        "reference": "CmRRAAAAmexDeC4gOC1JBysyErTiCylgYd3LpsEIQsnrrLatjjXZNLdJ2Ule6tGThGZ-Z50gpYsdW3oyWz9aZoXliTYV0wzOeh4m04QNouL6AhAKz7D7Xzeb6YD3aihUPjiEx_QFEhDQgeDIcHqnUBAThEd_--7UGhQFdTFxpetdVaYmcaQg41ISXxcW8g",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -59,34 +74,127 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "7 этаж, 220029, проспект Машерова 11, Минск"
+        "vicinity": "Stockmeyerstr 43, Hambug, Hamburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 53.91873349999999,
-            "lng": 27.5851185
+            "lat": 53.55488769999999,
+            "lng": 10.0190172
           },
           "viewport": {
             "northeast": {
-              "lat": 53.92021313029149,
-              "lng": 27.5866124802915
+              "lat": 53.5563126802915,
+              "lng": 10.0202678802915
             },
             "southwest": {
-              "lat": 53.91751516970849,
-              "lng": 27.58391451970849
+              "lat": 53.5536147197085,
+              "lng": 10.0175699197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "4b0bf45b3441cc625ddecee465a73c3bb90fdf67",
-        "name": "Capoeira abada",
+        "id": "3f69af7dd74b88af23f185c102d5de4bd72c0a31",
+        "name": "Capoeira Aruanda bei Kulturladen",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJK52mMKHP20YRX98FnbgQUtw",
-        "reference": "CmRSAAAABcu0gblbsN-J-G-vlaK110G7-d65w3Xj1GHDQlxIEjRtB1U1HruF6k1QbhLbNKceV6QDFfvkc8dhxZpISOZnHyhfhXv836_ZE2HZJjfXbATp_VJR21WHnJzPHC0Yfx1-EhBGcGXKleuRHMdWhrmho7olGhT5EIb72WK_TmMBgigVTNI-H2vOig",
+        "photos": [
+          {
+            "height": 260,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110405396565770258222/photos\">Capoeira Aruanda bei Kulturladen</a>"
+            ],
+            "photo_reference": "CmRaAAAAnIB_bmO0raZgMQ5dxt2b24MFlh3qPohjTxMtDT2aoeRcmtn1HbvYBsnmpApRtZEEj8iUldzhxyBGnBZ3QPNA-L7vVvfegzdPmPAqSH0otbwBpvDeUINCck8CAzPdR_QsEhB_btYyjcJJeLK6G8MBvHZwGhQJSPkymSYKZn7On7qFV8xLZVEjfQ",
+            "width": 260
+          }
+        ],
+        "place_id": "ChIJqS26O-iOsUcRI-N-moUJpgE",
+        "reference": "CmRRAAAACaYdIYoVOHS1O0Xn1DgQIOQ29sGTPDVcMS-d5TlTr6c1L3jiDlcPKnApkC-nCEdmcTg2s0gLE0qDqIhB3qRgQG86hOZlJ8ArpJmyflomkenmKNJ1sFf-0zYGtpp8m4JXEhD2EG1zZcztO9pdQcDH_6E6GhTCa9nihUCsgDw-_s0XH3En9bCEJw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Alexanderstraße 16, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5492013,
+            "lng": 10.0385254
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5505473802915,
+              "lng": 10.0398759302915
+            },
+            "southwest": {
+              "lat": 53.5478494197085,
+              "lng": 10.0371779697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "139f5ea793190f1f8bd15a0c898aec15be9946c4",
+        "name": "Capoeira Cordao de Ouro Hamburg",
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105707652460673249713/photos\">CDO Hamburg</a>"
+            ],
+            "photo_reference": "CmRaAAAAASJ-AbxgXDx5uM-E6dx6eOXwmkADXFuNtlKqNqwGugnonDbOiBHNeSiWPGq0f2cCNmm3FCEgDkacuWTbkQHU8fb6t8yTJGCUaMhntsG2a0kYks2E7bYf7nraN9cmxCHwEhDL5-B5wDVjxQ-hm04CCnMxGhTnUos_cx9fhcTPhbQmnthB-whaQg",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJ2a1gtJaOsUcRMPdyyL8AGsM",
+        "reference": "CmRSAAAAmnRbYJD0IYwB17D2guDQX0Jk37MatxGvyxa6nzIZwR8jG_MjN-8GB4pbpQpvLbWUYMzIpeMk79MKhbKcOy7RcLlBL2zSiowXp5N42ODRHnX21mH_BM8gADROIKY392XOEhC3ckAWI40txQJeP8wQ7KWLGhQEK_xCSP8JVf9acZra4VdUwm8YBw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Sorbenstraße 22, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.55696099999999,
+            "lng": 9.961431999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.55832863029149,
+              "lng": 9.9625973802915
+            },
+            "southwest": {
+              "lat": 53.5556306697085,
+              "lng": 9.959899419708496
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "13ce817ad081ae47e98259363037650cfb05e6a1",
+        "name": "mind4motion",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105359285178573098325/photos\">mind4motion</a>"
+            ],
+            "photo_reference": "CmRaAAAAaVBGeYe0D8Jr8kY5IRwhF3ETtzjVqm7Az0A4jqw-9wTuofpyTTXftletBerSIISBCOachXVfesKFV9-g1KX204V6tsGsPOcaTW8r-TuePCUVqny2qoFKIeKDHOM_TC-6EhDHD9EuwYRYLomQcC5BT_9aGhSx_pzQhrwWT8OdN_3rMUEg2YyNHw",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJX9W7kOWOsUcRHiu0yQugga8",
+        "reference": "CmRSAAAA_Hf_qezeahkCBLLQlUe7lDeN2A-T9FQrpsOc49BL013vDXhu9zB-vRDq4OM7_51PArcrw087jYziD1ur6BRkfg3BUsQTvdCfF5-NED7QXHs73f7HnKfe422Eo2j4hLvtEhACtPpxpIe7-1TDP31LHZBGGhQEeL18uTHNVX4t3javHLNVoNSCuw",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -94,7 +202,631 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Ulitsa Kul'man 1, Minsk"
+        "vicinity": "Lerchenstraße 16C, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5570403,
+            "lng": 9.961234
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5583970302915,
+              "lng": 9.962506630291502
+            },
+            "southwest": {
+              "lat": 53.5556990697085,
+              "lng": 9.959808669708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "84c82c39f5c77e7db31be5b7d50b83d2355b8e1c",
+        "name": "Capoeira Arte Jogando Hamburg",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117994196090512711389/photos\">Capoeira Arte Jogando Hamburg</a>"
+            ],
+            "photo_reference": "CmRaAAAApaaq7YMrv3OZy_5riNpRmXis8LNkiFEuoEAK4_FzvWehKbQQVEuPAKVJTdrVUrhKwgPCJzREzYha1RRPgaOHspemuy-6pK2eTrjAZYGvVSVtFyKbdp91H8Y-P00F93iDEhA3HfijqHChzrdWiP4pA39WGhQsuWJPSMmPnR5ImnMniElJI3s37w",
+            "width": 800
+          }
+        ],
+        "place_id": "ChIJnQfNXzCPsUcREW7tizuexC0",
+        "rating": 4,
+        "reference": "CmRRAAAA6i0CizTr6LbGenjRYJIrMlyDRe_CK6LZqKV0LyAOzX60eMS6ZAeEHib9OMtT_ae9fozijOQIDXPSku7G1CgxkVMLLNZmEAeQHqHBcqtSE_bzBXQV_PKXAUwqwxHDLGiZEhChBlu48YIqvXYf2WMvMr2ZGhQx4wSOy6k0VvHYT82d-zW0n36EVQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Lerchenstraße 16C, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5568531,
+            "lng": 10.043103
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5581068802915,
+              "lng": 10.0447192302915
+            },
+            "southwest": {
+              "lat": 53.5554089197085,
+              "lng": 10.0420212697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f570d3c40b5c0f79827a9a0a7740e5517456b170",
+        "name": "Capoeira Hamburg - Grupo UNICAR",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 721,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102543072155982078662/photos\">Capoeira Hamburg - Grupo UNICAR</a>"
+            ],
+            "photo_reference": "CmRaAAAAeqxkuSXuKW_QpU32Uay9BuW0jZaWzu3T9soSOnl5k9bdOYvIq_3UPR-W5KO-9ELUmhluGv1LXSb1YEtKIV-08o8bUBSoSp4c8aL0mGhk4Vt6s3xN-4TG6ay_xsx86670EhC29VR7EMIk7jual4yDYt91GhTjtu266d1rdEXyddXgsoz4m7tNDQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJmSpRU7yOsUcR39TfX8x4LNM",
+        "rating": 3,
+        "reference": "CmRSAAAAFM3cTqy3MQ89Mv6FhqaOVg8FnJNmXNs24cD6hgKA0d2oCRoXFX7zgcK0s6UiyzYqBpIpDWvV7KOKq-RBzYDF4P1GbI_vzAybY6uTS-OiWgt4_V7_Gjp-IvAcs0ARCoCuEhDPDoOC0DlzInyxWPHz30VHGhQH-wqASYZxOxqf4iVMLe8-FwUu7A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Sievekingdamm 7, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.55381999999999,
+            "lng": 9.949880100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.55518818029149,
+              "lng": 9.951082380291503
+            },
+            "southwest": {
+              "lat": 53.5524902197085,
+              "lng": 9.948384419708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "288f8d09ccd66b0021627cfdfb01d58d1cdaf316",
+        "name": "Meia Lua Inteira",
+        "photos": [
+          {
+            "height": 853,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114996464210244546454/photos\">Schraibfela Fanzine</a>"
+            ],
+            "photo_reference": "CmRaAAAA0UUGPPa29Xl_1ZozXFXs1KROPLP2waClAyGN-co1X-UteE964jwg2DUR4CY-48zOFxRdgZmxr36Q0tGnKO5glpBgG7ZuW4Mumby2az_ijfNBPnApOSYSyDACv-npdcvSEhB2fzYSu2cE96KpypJ1KEn6GhSjrGfu6kZmsZ7i8aI7XTGNp-b2uQ",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJoYsqhI6FsUcR2GlgeaEIK3M",
+        "reference": "CmRRAAAASZ9uhacTy9YHSfVeVPpr-n3E5v5d9UST0GNYkNjQXaEScFUDTOAFDR-T8Zpsy0egdLYmxuNxKbXovIzOWlvNuuXONB8OhhBXD-pkzEU_VSsAAPBIZAonArhM_AUPtgLgEhCh8Jlk9YltwgIU877gxrQnGhQxEWpWwEA4242JRYNEAThGrQYh4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Thedestraße 100, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5566213,
+            "lng": 9.950437400000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5579498302915,
+              "lng": 9.951664680291502
+            },
+            "southwest": {
+              "lat": 53.5552518697085,
+              "lng": 9.948966719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a89f12c90c1cad60984e44038a16082fbc73aa40",
+        "name": "Taiyo Sport-Center Emanuel Bettencourt e.K.",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJvYJxpGaPsUcRwiuwIc0zRl8",
+        "rating": 4.2,
+        "reference": "CmRRAAAAZIyIjF_Pf03nfSV2A4Sf68pbLFM4D5VGEZMlpdp48jbYgcmPk7abaaSqobE-KHWM7WM-MmWfGdK6zUjeX5ubtjNggc395StTVqXGpGM8I2f0V4M8hcwyfKNe0FJQQlWVEhB74rIPXQ0J9vVM0WEFrJ1GGhSp9Lcpfjv-Vl-0Fl1y0QJXyQMWwA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Holstenstraße 79, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5682317,
+            "lng": 10.0449971
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5695534802915,
+              "lng": 10.0461236802915
+            },
+            "southwest": {
+              "lat": 53.5668555197085,
+              "lng": 10.0434257197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f1b90588c58a5f74d6b0e062bfef3876b2995ec6",
+        "name": "Capoeira Aruanda",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109371882201203160588/photos\">Capoeira Aruanda</a>"
+            ],
+            "photo_reference": "CmRaAAAA18GQCKhFfqVHKjZ4tXaMMrngi9ysEoR3OoEqBMzhURf6i5ALVKrotX19gxsNmxt9abobuiQ78xZmD0FE9y3bqdDI-9kSTtXUmhvhXtXjorKz0oZmbntPQuAo-OlQDPJbEhD3RhppS5M4I7sVVTxyMQD5GhTqHy_71JKr6pNInHsqKN0OU1VKiA",
+            "width": 902
+          }
+        ],
+        "place_id": "ChIJQ2nMXzCPsUcRYfwR9Kv_x5c",
+        "rating": 5,
+        "reference": "CmRSAAAAigm5Ev2mq-hVzLMzqfZ91dUkiLZN1EQSa3HDVujNf_Sbn5tnVPGUyRcrWbaZnxL1SbssWjKqN9A-MQzuBspAaO1KM0I_UB6zYIcyG-qVnqHgWF21NpXZuiKcnH1yb1kvEhB9og5w4J-A7APsyzds-TqSGhToGuPNV8NwKlLcnepDhPDx1B3UCA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ritterstraße 9, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5793511,
+            "lng": 9.9642965
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5806039802915,
+              "lng": 9.965531180291501
+            },
+            "southwest": {
+              "lat": 53.5779060197085,
+              "lng": 9.962833219708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "15426d3b6f57dc6e49f113a8a0728e66ad6f3104",
+        "name": "Capoeira Aruanda - Casa Aruanda",
+        "place_id": "ChIJ6Q_NelKPsUcRdaogVfD_w-E",
+        "reference": "CmRSAAAAu9LdKBrsCoq6OXysP8biBRu3fiizSlDAVpDlrN-I5_r6UrMEuDk6B7AOyii_52s37HqbKit128xx_O6WlFuVJR0Zp0Lx9lWchFDQYhU25vv-2vsswfyHMDTvGv1Qd6uJEhAXbY7BC9CgJpW-_R809bloGhRNXpIjjMCJbUMPK_ffi4DwvM0Rpw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Mansteinstraße 56, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.51034079999999,
+            "lng": 9.985507799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.51178718029149,
+              "lng": 9.986872180291503
+            },
+            "southwest": {
+              "lat": 53.5090892197085,
+              "lng": 9.984174219708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8c804ecc961fe93522e350114947158fac463635",
+        "name": "Capoeira Arte Jogando Wilhelmsburg (FiCeWi)",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1360,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109585988091629285089/photos\">Capoeira Arte Jogando Wilhelmsburg (FiCeWi)</a>"
+            ],
+            "photo_reference": "CmRaAAAAINc__2V2fXFwjkjDZZYesMKaCmiFra4dKyJ1ajzgvAwwmmGPTBQcAE9G-zQA-nMM6cyi15utjvrVFg6MfD3w0iswRKKVbzkg1Ka_eD5PKSuym7QkrKTjRGgfGSER3LTEEhAJTwiWsw6DST21JsG4QDqFGhTkzITgC5gd05u7uvn5bDIiL9onAw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ9dporjSOsUcRqmxjvX8vsN0",
+        "reference": "CmRSAAAAJwgDdQMy-v6UsX3QIvVOfgTEDsVtbh8JSKWravNqEsewhNn4xMCfiOyYcbbO2tmxMhD74ApTrWVzA61e5GlXC15nZNcYTrRph85f-SUmV6owbWZjoeO7COz2wuSo-aYfEhBmBQ3XcVf6D9EabjzYb-_SGhQ7kY7dzaM0L9barqpFuDFx3ILkzw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Neuhöfer Straße 23, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5858241,
+            "lng": 10.0449555
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5870456302915,
+              "lng": 10.0468339302915
+            },
+            "southwest": {
+              "lat": 53.5843476697085,
+              "lng": 10.0441359697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d3b11e7da3ae2f28b3a3576905b1e141707e3837",
+        "name": "Capoeira Cordão de Ouro Hamburg",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1334,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110954114687105691274/photos\">Cordão de Ouro Rostock</a>"
+            ],
+            "photo_reference": "CmRaAAAAZPxOL5etpXFGOia_93beyeRYj6e25LYHbC5_fMOOAZh-XicFsog7TekxsewDILdwb7ze6IUfFj2ianhaRD-nG8mWsdd8hOdA3lbYpcC_XtdOQHSTbSDzoz5mi15XEnOfEhDeHzFMm5FdIqxoNnywvN_uGhRv772BJZfTucldcSjUCVWqhmIGsg",
+            "width": 750
+          }
+        ],
+        "place_id": "ChIJ9XXPbEiJsUcRxhoubTLlLQE",
+        "rating": 5,
+        "reference": "CmRRAAAAGubrxmMqciuWaRyEURU99ZUMCT5uJ_LPEKa9TszGxCkySHiOjgk2aFLtqZgX1p7b88-fUvXmNsc5YFB0WtNTA-2vvhrZ-CXZiUwE_vo8VvelI12wpDlXq63hcN-MntJ7EhAIwRb4L61TEfqdniZuie9bGhTre0sPgxqbG0J4r-F51hSCW-92rg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Maurienstraße 19, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5874915,
+            "lng": 10.0695618
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5889281802915,
+              "lng": 10.0708514302915
+            },
+            "southwest": {
+              "lat": 53.5862302197085,
+              "lng": 10.0681534697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "1497f671507cee77da894d483c667d8960d73724",
+        "name": "Capoeira Aruanda bei Alte-Teich-Weg",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 260,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112972667136331372357/photos\">Capoeira Aruanda bei Alte-Teich-Weg</a>"
+            ],
+            "photo_reference": "CmRZAAAAL9nbBTvbCtqfUUq-4kqDPBS3gQ61REFL1u-PIWHmjwgxQqet0ZN5IbSHfxCXbNExd8uj-I_Zq2dvAX-4Pto0lPR2eFCoEhlpSIUtCt5MCMvOFI2PDkT16vyCDFxu1uRpEhD-ixmWeSrCYW4vLBf1Cp3LGhQuAJbYzoBTm4Ewvt6ybEj-CFZ_Bg",
+            "width": 272
+          }
+        ],
+        "place_id": "ChIJi5BioFmJsUcRJasLa3R4GRQ",
+        "reference": "CmRRAAAACMAC2kjZcOMtfUv_UYPtymYlNJxkQd2fdejNp5RfCVHOyoBK6XZ2LvVroK49KUAsYq3AmS0ACUE9A_4FiRuXqZhTaASMauRvZynTUnVHQtiLr7aUGo5TBikCM7UE7UTTEhAC5MKecz_TFfJxeo95IpFjGhQpo8KNoZDAr4hqHGwE4SmIZopwXw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Alter Teichweg 200, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5896501,
+            "lng": 9.931879999999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.59092283029149,
+              "lng": 9.9327577302915
+            },
+            "southwest": {
+              "lat": 53.58822486970849,
+              "lng": 9.930059769708496
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5a332488924f5d59d9ae46569d889f946ed6c31a",
+        "name": "Centro Cultural ALABE e. V.",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 399,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100855543999390010092/photos\">Centro Cultural Alabê e. V.</a>"
+            ],
+            "photo_reference": "CmRaAAAAWc-C4g6pqZ3oGC6bGIUmD8Kf-Ml-qi_s5LM3pZx1uETcNQR3wlMIH2HIZogILYLwCv0t7-Iut-8M--3FBE8Zg3Wg9IAiUszYu6L0X4sFNLIdU1Iaa1DlsZgCuU19JKXeEhBrF7rH9uDeSSewC5rq17ZbGhQBLQ6jROcfBvTqOKTDErtPVvijcw",
+            "width": 711
+          }
+        ],
+        "place_id": "ChIJz7v4nz-7Y0ER4mSoaP6YSfw",
+        "reference": "CmRSAAAARgK6ZGvjJTqdfUM1w88TKHv4y8Dqtm-wrPOlu_f_zy3n-ZVtw3cspsVRnjb-v6tlD2G1H-fj7-GwN4UXK3tnD520Z4rCXsP1qDoBx0qxAPM5RKOoWaADQRWTRH4_TZMEEhDFZScYySaVJsYQV4DZ38paGhSeQjO8qCKfPXN-rWzHVi0O7JNw6w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Kieler Straße 368a, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.59273999999999,
+            "lng": 9.929609999999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.59410828029149,
+              "lng": 9.931129280291502
+            },
+            "southwest": {
+              "lat": 53.59141031970849,
+              "lng": 9.928431319708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e1dd17a001c5c805a354d7bac7a6bda14bca5b47",
+        "name": "Capoeira Aruanda bei TSV Stellingen",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 260,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114993820771133292038/photos\">Capoeira Aruanda bei TSV Stellingen</a>"
+            ],
+            "photo_reference": "CmRaAAAA0mtEW_pQcuF_vrXkjDtC_IoJF4cL265-lOzSHfYwgVpZkFyUiqSAARrpFGbs98P_aGL1uw-2mv6WVbI19Dh9GWsBRUpRzX8eCmAWf3-oMQuW1073QdJitcHe8ZPtSqNlEhB2IizGVU5tSu8auSKsSOW9GhQnmKzVyjgX5ZlBzrbgf5x2kIiYsg",
+            "width": 272
+          }
+        ],
+        "place_id": "ChIJi6eWRAyGsUcR-RPRmlhZrV0",
+        "reference": "CmRRAAAAMT8GxxqPVL6Qr7S5JyfOLo6nWBJjVbqdmdq5JCB0ziiZPpolZrNUEhvWbHrq86Bv-ws_BtcZh768mipakPBA28XrqjxeoLqfHzlV_suZvp2MTVHbaUDlpIqaEh0laaN2EhDQQ6qvgWX07bnZTNqU_tuYGhQ4FLyTvjXMVc6-xQRK0VjCYXguJQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Sportplatzring 47, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.49454000000001,
+            "lng": 9.92806
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.4960493802915,
+              "lng": 9.929415180291503
+            },
+            "southwest": {
+              "lat": 53.4933514197085,
+              "lng": 9.926717219708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "afd8388bbf28023a425ef510d31d844f37451b32",
+        "name": "Bewegungsraum Moorburg",
+        "place_id": "ChIJA6jdxgOQsUcRwQ0yydW4DcA",
+        "reference": "CmRSAAAAS98e-y4GFDGukR_LP0ALtThO8fvG3jIqVmPXQjRB-C3X9FNH9k7DIiFU-OBqov_5IS8xfM6eoWVwABR3X9UCOcvn_c1PI8kYeBEXPkfJb8cpUyFCCrVlhWLT0tuxrVaUEhCd8yQOXYU6BK4og2Dw6sUfGhRMpaG6TDIikEiBqOTb_CgGLhp6kw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Moorburger Elbdeich 249, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.53990999999999,
+            "lng": 9.87056
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.54125898029149,
+              "lng": 9.8719089802915
+            },
+            "southwest": {
+              "lat": 53.53856101970849,
+              "lng": 9.869211019708496
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "88646f89d842ade24b3125ad46b1252c3db8cc2d",
+        "name": "Capoeira Arte Jogando (TuS Finkenwerder)",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 541,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101355051098358609047/photos\">Capoeira Arte Jogando (TuS Finkenwerder)</a>"
+            ],
+            "photo_reference": "CmRaAAAAzh66vN4L4wKuCV9KpTGD2HrrW2IrGH5bcuycrNtoh1t8SmqSHCMghWIu4h1n_vSPOfC6UpcNSdiBf2UWtpo7lP1-h8RLdMKumUrPsjaj8bPpqe8erQGHCKNUtXSNGswAEhDv31PiFudqYX-V0zpEcufwGhRB5HZvTI0Jk4hVYWMGD2GIUTO6qw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJ850FOPyEsUcRrq8tawZnAYU",
+        "reference": "CmRSAAAAk3LdXi63c8HeWmqK3NdIQv8HSIIsQZgT3uWUfpG33PfMhLAD0yZ-KiYpXKIsOBajaQsDnG2g9jpfi9PBMZsvTC7cf82T-qFdhbmQ0dtav-Fx6VS2e-Sqiz3wm_yxfDHuEhAdGqh7zfuVeEjr2EN98_o1GhTrMAiDX3ZOwFdL8YFBn70cLFUDJQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Finksweg 82A, Hamburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.5430775,
+            "lng": 10.2024579
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.5443851302915,
+              "lng": 10.2032046302915
+            },
+            "southwest": {
+              "lat": 53.5416871697085,
+              "lng": 10.2005066697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a2ce360fcd1ac83e38884fa994fc8d357a63c9e4",
+        "name": "Capoeira Aruanda bei TSV Glinde",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 260,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116480731967312839903/photos\">Capoeira Aruanda bei TSV Glinde</a>"
+            ],
+            "photo_reference": "CmRaAAAAWpERU3AKwV5yJK7T8D4iuKKcMzysXnDi0mk1l18WjjIalRxcPN0WjBRX-syeEBssSVHEIqsN6bJMQtKNV2kpPShkjneKSazRoAy5fIpfYrkFOfPfJq7u7IMgJtdJruSZEhD_AkgoeNEg3pOMr6xK1ODCGhSNLKDERsJRbz2qzXBGaVI4NnO6mQ",
+            "width": 272
+          }
+        ],
+        "place_id": "ChIJKb9Ks2jzsUcRXaA_caomMV8",
+        "reference": "CmRRAAAAgfEzVNstA4SiXC8fscDzaoIjUvHkrDK5xBTiy0Wi1a-EfIeqKpHd9XvUdtk0AhTc91FQJWAKP7rNxz9uCfjf3Ov3oSKKyCdAZFPsGpWoyqQPYFWYUN7r2KOX1lk5yzOqEhAIMhhK8rNKCceINydJn1HaGhQxOHK411xLDB7_7sWzk-QOnoBLvA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Tannenweg 10, Glinde"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 53.4963555,
+            "lng": 10.1827099
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 53.4977044802915,
+              "lng": 10.1840588802915
+            },
+            "southwest": {
+              "lat": 53.4950065197085,
+              "lng": 10.1813609197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "322eac6cac34ac2dff8f7fc18cfbc3fcb9c3aaa5",
+        "name": "Capoeira Batuqueiro - Hamburg",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 313,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102974790468927294182/photos\">Capoeira Batuqueiro - Hamburg</a>"
+            ],
+            "photo_reference": "CmRaAAAAmm9QJzy5bSxcCafHMPVkaQHR2QF19mKTfUzE0IHAdISI9wPfpWzfk3Vo7A57vi0hJtx88EjRVh-XJiXyFwNuWVP3Z_VJi6AbQItee0f_4oZk05EpuSNCjTgtwRA04hhZEhA0_TcZaQQb5wOiWi78ouYdGhR43lyEMYF7LEVTuXkYKfR_JnDmDA",
+            "width": 313
+          }
+        ],
+        "place_id": "ChIJdZ3L0bjysUcRkMUyLrC9XOE",
+        "reference": "CmRSAAAAUOxSOnnJGzOemR4syQJAoboQ-hnmesvBL_zohPywerJPW7CSbxg-oqUb9hnond4srs-5EbK9CfBuRHUGRCLxidQYX-jvrPTS7rjiSiMXzPsMnfPI6O-qH5qzlichLi9zEhDrPjJXP_fxcsrXyjw7qFIxGhT-7f6Vtk-hVuSO7tKIGidzk2TTdw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Billwerder Billdeich 607, Hamburg"
       }
     ],
     "status": "OK"
