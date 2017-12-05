@@ -1,20 +1,112 @@
 {
-  "city_name": "bhopal-in",
-  "city_rank": 134,
-  "city_population": 1600080,
+  "city_name": "manaus-br",
+  "city_rank": 135,
+  "city_population": 1598227,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.266667",
-      "77.4"
+      "-3.113333",
+      "-60.025278"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 799114,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -3.103472,
+            "lng": -60.00988700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -3.102123019708499,
+              "lng": -60.0085380197085
+            },
+            "southwest": {
+              "lat": -3.104820980291502,
+              "lng": -60.01123598029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fb6f5cf10e35a5800a7157602a2e89fc1b54db",
+        "name": "Espaço Pacto ( Muay Thai / Boxe / Capoeira / Krav Magá / Jiu-Jitsu / Zumba / Kung Fu / Taekwondo)",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103690664431344104442/photos\">Espaço Pacto ( Muay Thai / Boxe / Capoeira / Krav Magá / Jiu-Jitsu / Zumba / Kung Fu / Taekwondo)</a>"
+            ],
+            "photo_reference": "CmRaAAAAqmoHBJ2M4a3u1exTMWYdKHY425ICBSOzNXEANqr-ZhzoFFC9g3eoUWzBG5_gKvJ_wfwC5svI-0Yo75JpobEXNAtrk0cGeLs4rE4Bkaqw_8tKYjhVMUJNhtRSs-Opk9MPEhDpJHyZIBAZ4bStlrQQzMiAGhR0jDDPdkwtpEn67DhOPlRqACjZ2g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJt_FVuEwFbJIRqcYgaaI0SC4",
+        "rating": 3.5,
+        "reference": "CmRRAAAAWGIqC1jAGPhUmyAwEeRvMzRHEkV-AO15mIWGDREnsC5FLd9PpsB_7nLLSoUfbZ92SsWp9bv-1x0KpHWkVhtvr1rj7hv93hPRYEd4kMEMPzhiuRW1cGsxR6cnr9fJheiQEhCiOXW0mDSXtq1gGESP4UJ1GhTj5unOwvpULPZ00TU_acr1TqXz3g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Rua General Miranda Reis - Nº 10 - Conj Celetramazon - Adrianópolis, Manaus"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -3.0872206,
+            "lng": -59.9815774
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -3.085948819708498,
+              "lng": -59.98023461970849
+            },
+            "southwest": {
+              "lat": -3.088646780291502,
+              "lng": -59.9829325802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4f7be5d81ea0059e10e5e17bd1c98c14c560aa8",
+        "name": "Associação de Capoeira Honra Negra Brasil",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 730,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117772313712061478653/photos\">Júnior Costa</a>"
+            ],
+            "photo_reference": "CmRaAAAA9qNJzAOgPFwAvymSiZr4UdqC8I1nmdXT2xWopN26NDwinLbvu_Ziuk9B9nQZmJBxtk39Ee9MEn0YDuJQDCs2M9cIL1DHAnzQmEvmSBgbYivcJH5Sin-4cQt_rVG3BNcKEhAKxPfQuJxENMrbEeDDTClGGhTQNBa98YTTIYCU0F04AY1_mGiyUg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJIxA8sRkbbJIRF3OGF1mRXVw",
+        "rating": 4,
+        "reference": "CmRRAAAApYpe_Dlxv6B6Rq-aXxOKeKUtqARX2QiiJrGYioSq0DS6TlevrUKgbBS3dSY7WhNYsNDUNqbUPq1mZDNwEFU1c55_w7d5wdZmUapPQT-esB6z_pe9HEiqIpo5x-P0qaQ_EhBOMdNamiLYlqgHURhcYAQVGhSBOCJXiwkn3m4pUr2kjRyZzWEhrQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Rua Ouro Preto, 513 - Coroado, Manaus"
+      }
+    ],
+    "status": "OK"
   }
 }
