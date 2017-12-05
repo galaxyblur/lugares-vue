@@ -1,20 +1,51 @@
 {
-  "city_name": "damascus-sy",
-  "city_rank": 138,
-  "city_population": 1576843,
+  "city_name": "phnum-penh-kh",
+  "city_rank": 139,
+  "city_population": 1573523,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "33.5",
-      "36.3"
+      "11.55",
+      "104.9166667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1573523,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 11.5519129,
+            "lng": 104.9302563
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 11.5532575802915,
+              "lng": 104.9316473302915
+            },
+            "southwest": {
+              "lat": 11.5505596197085,
+              "lng": 104.9289493697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "135e72ce6f8571a6f1135da032ec7bd77e1bc9f4",
+        "name": "Capoeira Kampuchea",
+        "place_id": "ChIJjfRvTS5RCTERmQmLm7oY3iw",
+        "rating": 5,
+        "reference": "CmRRAAAAse36BfcPYLDmRa3oo0xpDtjdx37V2cK9BdMs0U0utO2FohAZ-MYU1a0Fj1RM5Bmjs7kRXt7YvK9iTIMZKmmYotG8wS1Vah0SLfVemlm4f548KDE74kCG8_ZZYgSjmKNjEhBz5RgzvR7GKmJyCmNncM-MGhS4CHuTZRqpGd6yrcPHXJvHMG2C-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "No. 10B, St. 57, at Home of English School, 12302 Phnom Penh, Abdul Carime St. (21), Phnom Penh"
+      }
+    ],
+    "status": "OK"
   }
 }
