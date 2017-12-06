@@ -1,51 +1,20 @@
 {
-  "city_name": "bursa-tr",
-  "city_rank": 165,
-  "city_population": 1413485,
+  "city_name": "vadodara-in",
+  "city_rank": 166,
+  "city_population": 1409565,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "40.191667",
-      "29.061111"
+      "22.3",
+      "73.2"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1413485,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.22423,
-            "lng": 28.927587
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.2256210302915,
-              "lng": 28.9289143302915
-            },
-            "southwest": {
-              "lat": 40.2229230697085,
-              "lng": 28.9262163697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a8ab046dcc8aef4af49c5299bb16815efde4bc9c",
-        "name": "Axe Capoeira Bursa",
-        "place_id": "ChIJGUgvc58WyhQR7ejxHwrpXoI",
-        "rating": 5,
-        "reference": "CmRSAAAAbr8VD3FRcNEWpQgMdwV-_NLp0N_JHL_FmLKv_qN0wdzWsG9Ah_RzII_7pa0pjzE3-BOl9MQ479wjNwvKGldxU-kVxWILt5kTPmMfl-M3esiZVRwUBPAdpxDWKjFGCmfZEhAG_W7mimFcQA4Ka-Ac9HlUGhQuhpM3HRCmA063ufo3oUR2anQgcw",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Altınşehir Mahallesi 230. Sokak Nilüfer/ BURSA, 230. Sokak, Nilüfer"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
