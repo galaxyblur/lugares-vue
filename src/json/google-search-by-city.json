@@ -1,20 +1,107 @@
 {
-  "city_name": "agra-in",
-  "city_rank": 160,
-  "city_population": 1430194,
+  "city_name": "phoenix-us",
+  "city_rank": 161,
+  "city_population": 1428509,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "27.183333",
-      "78.016667"
+      "33.4483333",
+      "-112.0733333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 714255,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.4954773,
+            "lng": -112.0831415
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.4968227802915,
+              "lng": -112.0819602197085
+            },
+            "southwest": {
+              "lat": 33.4941248197085,
+              "lng": -112.0846581802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
+        "name": "Capoeira Brasil",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109835485667846703056/photos\">Capoeira Brasil</a>"
+            ],
+            "photo_reference": "CmRaAAAApYcbf5nUyUXYHkLJukp-EyzGLKleqbmtgbjwDqctis2gIaN-fsXQRGJ2BuYMo1T8cHBN88q_ZkaQdgFFPGUYmPe3053gpxNtD5yLl8Oa5WYvdnQBKZFPrl-QiNvDS-XzEhAY203J3mMM_1FIE4PIXGuhGhQnklcO30HxIZg_UYKtrunVFb8vnQ",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "rating": 5,
+        "reference": "CmRRAAAApsVNd5f2OHvoq23BPIuqRfYwyUz8wd-69nZDS_hvTqRN038Xd9MIPb5-_dVb9pizdEss4x9o-St9Z_JFPyn2r177WBeydwm-xRXL3Opb6R03jhLfje3qQx-7XCE0jLeeEhDeSSaaISWPDe0kqcoKw4u6GhSebLjivzjTjE_XMFqVH9_F3QdSoQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4113 North 7th Avenue, Phoenix"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.44831500000001,
+            "lng": -111.92672
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.44969863029151,
+              "lng": -111.9252366697085
+            },
+            "southwest": {
+              "lat": 33.44700066970851,
+              "lng": -111.9279346302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
+        "name": "Axe Capoeira Arizona",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 528,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
+            ],
+            "photo_reference": "CmRaAAAAWqwcBRAcqJ7j5nXPKxvLtJvpCiwHmPjR0a7DCOcEe-Kq9epZBix8xGC1dXI8BXtK5YgYZ0hrt0Uk8UY4buajoFmnnBuuMPBBreWjuOF5CcQXY70j47zNEyHeBV0hDwKzEhDVIbjhklByJBU_YWQh_4FBGhQrR_PSyxYzYUpl9SBXxUv0Y1odZA",
+            "width": 792
+          }
+        ],
+        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "rating": 5,
+        "reference": "CmRSAAAA2aupwHeMdO-8m-hPObknUaUhvrlrJkpwzkUqnBllI0inVD7hoLePq1G6TO0cDezu9qoel_6-nQvkXJd8iQLrpIMsp9jbkYRZONYliuIqdJ_Z7eLhxbk6Xi1cKs86v76mEhDfrOxdyJXFHT5yaLGaspMxGhRCG_2ZFjMy2UKu-TztRce18DNjQg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1650 North Scottsdale Road, Tempe"
+      }
+    ],
+    "status": "OK"
   }
 }
