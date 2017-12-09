@@ -1,56 +1,20 @@
 {
-  "city_name": "prague-cz",
-  "city_rank": 232,
-  "city_population": 1154508,
+  "city_name": "tripoli-ly",
+  "city_rank": 233,
+  "city_population": 1150990,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "50.083333",
-      "14.466667"
+      "32.8925",
+      "13.18"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1154508,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 50.0926668,
-            "lng": 14.4537311
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.0941943802915,
-              "lng": 14.4549844302915
-            },
-            "southwest": {
-              "lat": 50.09149641970851,
-              "lng": 14.4522864697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "6c676745404811c18164eed20e21567c27a243be",
-        "name": "Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ7X6ICaSUC0cRFz5XbtAOaU0",
-        "reference": "CmRRAAAAsaBiMKYzY9CgVOC7GSQ0ZzeliOopl0g940lm0LEi3xM9ZYMp3xb-Fn7wiuFMWasprXgJYyffMXA5rOA7PYrGP0lBQxMmuI7zFJI9NLZ5i7L763EOIoM1M_nOBmIABeySEhBWJ8Z6BpIWLqK88PoIqM92GhQygLUWh4R7B9iIAXG-_7mEeVk2ZQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Křižíkova, Praha 8"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
