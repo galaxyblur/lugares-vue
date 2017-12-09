@@ -1,121 +1,20 @@
 {
-  "city_name": "leon-mx",
-  "city_rank": 245,
-  "city_population": 1114662,
+  "city_name": "maiduguri-ng",
+  "city_rank": 246,
+  "city_population": 1112511,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "21.116667",
-      "-101.666667"
+      "11.846441",
+      "13.160274"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 557331,
-  "possible_duplicates": {
-    "ChIJH77lKKe_K4QRSdoWHXz_AAQ": [
-      {
-        "place1": "Capoeira Leon LDM Antonio Plaza 117, San Juan de Dios, León",
-        "place2": "Capoeira Longe Do Mar Leon Antonio Plaza 117, San Juan de Dios, León",
-        "score": 0.8888888888888888
-      }
-    ],
-    "ChIJT6EL1Ua_K4QRVuCarSJNXLE": [
-      {
-        "place1": "Capoeira Longe Do Mar Leon Antonio Plaza 117, San Juan de Dios, León",
-        "place2": "Capoeira Leon LDM Antonio Plaza 117, San Juan de Dios, León",
-        "score": 0.8888888888888888
-      }
-    ]
-  },
+  "people_per_result": null,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 21.1144131,
-            "lng": -101.6777946
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.1157381302915,
-              "lng": -101.6764635197085
-            },
-            "southwest": {
-              "lat": 21.1130401697085,
-              "lng": -101.6791614802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "390be486157403e268c261a31fa990ddeefaeb1a",
-        "name": "Capoeira Leon LDM",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 816,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103421604772228682864/photos\">Capoeira Leon LDM</a>"
-            ],
-            "photo_reference": "CmRaAAAAg2ZzpDFUxlChJ3D_Bk-fLk-knhNRZgUj5VMb8kyWDYqu2QkV5HI0OeSL87lOR_zzbzeoQEcxPAE1ww16DBYf6HNHgYJHrxrJmz0XWjelb8cT1NmhEc50K6AEPYzzr_ciEhA_l7KV45ksxXHg3lTGtU78GhRHDSNfWZD8Mkouz2zf9CvylmZ8sA",
-            "width": 1056
-          }
-        ],
-        "place_id": "ChIJH77lKKe_K4QRSdoWHXz_AAQ",
-        "rating": 5,
-        "reference": "CmRRAAAAsETqRPponZbLMmpI7d2EErzrQEhiHBiZ7iesRzxoeE3iE1-NG45lWfmUeU5T89RL7KqpqkUDKzSSaKqmXiGnsXde6jaAwLQyEAIsnRHlmCMriSCBME_wwdr0ExfFqHzFEhAdNJeKVoNB0eB8aZnZr7rhGhTnoaF75zn3FosNFnBzkbsiT7kj4g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Antonio Plaza 117, San Juan de Dios, León"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 21.1459855,
-            "lng": -101.6870062
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.1473344802915,
-              "lng": -101.6856572197085
-            },
-            "southwest": {
-              "lat": 21.1446365197085,
-              "lng": -101.6883551802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "35dbf10c58f01dcc9fd146652ec40553b86e6e01",
-        "name": "Capoeira Longe Do Mar Leon",
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118318457511181156038/photos\">Capoeira Leon</a>"
-            ],
-            "photo_reference": "CmRaAAAAQhAUvga8x_McTfa-v0MPODvFMb4AxlQqDe9KTq94luZb3HOB_NbupQCYvbRmNfkahoXTPZnW_0sk-MvwR_Dk2N0o_f3DH4rS-Nb1iRK9LL8pSoyLLJHakx4rNkvYQeexEhDoTC5FBidD3NZvVcaeEac0GhSBDHHO_jeZ4W61YxhL1d0VDagl2A",
-            "width": 3984
-          }
-        ],
-        "place_id": "ChIJT6EL1Ua_K4QRVuCarSJNXLE",
-        "rating": 5,
-        "reference": "CmRSAAAAOT59O0-L4yh_yocaErWs4WU7IMr5-L8VYQRCqxgAnrdMtt6VLbUs0cAQLcMY7MyheJOwe5R7DLu0e37LoWl3oziasnAdnP_9gWmh5xNG41BJ18fxqlzLWACCQ743PjdmEhAJekfqWyQnrPXuQBHahf_dGhTdDZf-vAZJLRRykAgfw3P2C03yag",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Antonio Plaza 117, San Juan de Dios, León"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
