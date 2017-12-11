@@ -1,20 +1,63 @@
 {
-  "city_name": "kinshasa-cd",
-  "city_rank": 16,
-  "city_population": 7787832,
+  "city_name": "cairo-eg",
+  "city_rank": 17,
+  "city_population": 7734602,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-4.3",
-      "15.3"
+      "30.05",
+      "31.25"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 7734602,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0510252,
+            "lng": 31.24719519999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.0523741802915,
+              "lng": 31.24854418029149
+            },
+            "southwest": {
+              "lat": 30.0496762197085,
+              "lng": 31.2458462197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "cd95cb801833ce9c8a87fa1e3b54bdb2eff0cc64",
+        "name": "Capoeira Brasil Egypt",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106331980314720469412/photos\">Mostafa Mourad</a>"
+            ],
+            "photo_reference": "CmRaAAAAiDBGO2XvV1v8VStxjdJz8jOGYZOo9UddtqgcG2dPlJR9sE8WT5Np8BbfJAaiOZ8m0MWHNgPhjPCie0TW2oAHVgjiTL0pOO3noY6LC_aQMBYG0htkK2IjS4JRlnN-fCbDEhCcbnYHWus93Qr2sXaC0m_AGhSk3_3f5keqqaTZB04MpNT4RzvLAw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJw5GQJpZAWBQRR6sHoO0E-Go",
+        "rating": 5,
+        "reference": "CmRRAAAA9K8FICCa391Pqm2eMznuV5Q2LsOjvxTSworK5zKFkjhGrtYyD-czChZud5AaIHXBmgtvAmc233LGxw6n_bGI1E9c8MPYgo1B4VaGiiCox7886g7h9B_5T_N1rWgl8UBQEhAiKqHD7ffPuxFcNjZZVHZWGhQGlo5pga4SyRpqBbqevVYynv-nmQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ghayt Al Adah, Abdeen"
+      }
+    ],
+    "status": "OK"
   }
 }
