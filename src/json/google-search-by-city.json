@@ -1,16 +1,16 @@
 {
-  "city_name": "shanghai-cn",
-  "city_rank": 2,
-  "city_population": 14608512,
+  "city_name": "bombay-in",
+  "city_rank": 3,
+  "city_population": 12692717,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.045556",
-      "121.399722"
+      "18.975",
+      "72.825833"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 2921702,
+  "people_per_result": 2115453,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,84 +18,40 @@
       {
         "geometry": {
           "location": {
-            "lat": 31.1974526,
-            "lng": 121.4393803
+            "lat": 18.9565646,
+            "lng": 72.8115151
           },
           "viewport": {
             "northeast": {
-              "lat": 31.1987354302915,
-              "lng": 121.4406333802915
+              "lat": 18.95791358029151,
+              "lng": 72.8128640802915
             },
             "southwest": {
-              "lat": 31.1960374697085,
-              "lng": 121.4379354197085
+              "lat": 18.9552156197085,
+              "lng": 72.81016611970848
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "234646d42747e918ed1f8d0c73613aedccb6123b",
-        "name": "Capoeira Brasil",
-        "place_id": "ChIJyUyKOjVlsjURAQMjYlUa8L4",
-        "reference": "CmRSAAAAXX3pcpPuj3j1uYJ76h9DcIhPD4MdUP8w_wMqV7j5lWmE_jWdup-QYQr1BY6kc9iJyVojm8jHsdoX3NsMSrs-4vCTrMQGfTqU7lLycuJdfPh7ZI6sNoHd21SKeMNj37DbEhCHMcutekyqqHArE2jkcdvdGhSCB3Lqz7E2oD5ZEOf_8oeiumdphQ",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bd2ee3edbddd271609ae69a5156adb01c9383696",
+        "name": "Studio Balance",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1664,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100560403985813888199/photos\">Studio Balance</a>"
+            ],
+            "photo_reference": "CmRaAAAApxbjz5P180GR2PMe19pusmfSf_HKTWlJQuyT_bZUze1Zo1VPgx6umLFETx6uY31w2vZX7NVIn9PUpMFLOqnmqUG1dQmMcuW44qIeg9LxZ__rgfJKIBKVG4bqSLDGF7HHEhBApkC6-DFbj5QMrGVsnrytGhQZXPEifnjwoXgHjY8rycwR8zUiSQ",
+            "width": 2496
+          }
         ],
-        "vicinity": "七楼, 185 Tianping Road, Xujiahui, Xuhui"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.2214182,
-            "lng": 121.4555121
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.2227818302915,
-              "lng": 121.4568553302915
-            },
-            "southwest": {
-              "lat": 31.2200838697085,
-              "lng": 121.4541573697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f8aad27ec8f1df496102086482224cd363c2a4ff",
-        "name": "M.S.Capoeira",
-        "place_id": "ChIJo6brdAZwsjURbrsSmoJxJ6g",
-        "reference": "CmRSAAAAh5b2jsNebFmsv1dYapifN1-s-tn5d47SMnHgnJW7mcM2OHJSYytslbSzPJOX19X_vSxPMnbZmO3t0Qvz2dB93e7nRCHmb5oYRToDAecIGOsOZfbRRg9d6MrDA9-gl54EEhBspqMuPuyg-GxJeuRZwzENGhQd6tCcKRmBra5GAtfZf3Bog02goA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "568 Julu Road, Jing'an"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.226495,
-            "lng": 121.452499
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.2278677302915,
-              "lng": 121.4538272802915
-            },
-            "southwest": {
-              "lat": 31.2251697697085,
-              "lng": 121.4511293197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "c1a778fc968fc7e8a7dc85b904852e504a966d4e",
-        "name": "Capoeira Mandinga Shanghai",
-        "place_id": "ChIJKxr1vgRwsjUR_sc7MD4Uv30",
-        "rating": 5,
-        "reference": "CmRRAAAAfO6AGRBzS7PwmZyzyskFcxe7rwMdclmmaGj8WCqN8S3EwM6okALoSfEkkf2KIge7QXgtDHx6BVcE8G1Do2BW-Q8ly02llojJ2sWrytQYkCkrcM85BdZQnCL1j22LseuoEhCgo4Al0k1md2ndPeToKJkkGhR33ILPy7rw9c5Rb8WCAxQVVrImIQ",
+        "place_id": "ChIJpznZUAnO5zsRvtAAv8Ktbcs",
+        "rating": 3,
+        "reference": "CmRSAAAAdK3XJSVslEYM0yDx7SjZtuZaHmu0kF8Fin1fky3S0OaUp4JsDS7sdibHBc1kirssWJTmmBnHlJdZJqgtJsKeK2hcP2lMmJvPZiaj7yhrUMKM3qKqgtpWbEmnfUqxoKrGEhAw-e_UMVnOPb4L5RycC7BSGhRFTqkG2uI6gRsAm3tmwUUrVBfLYA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -103,65 +59,201 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1376 Nanjing West Road, Huangpu"
+        "vicinity": "Krishna Kunj CHS, 29/30 K.M. Munshi Marg, Behind Wilson College,, Opposite Gogo Snacks, Girgaum - Chowpatty, Mumbai"
       },
       {
         "geometry": {
           "location": {
-            "lat": 31.2269268,
-            "lng": 121.4522324
+            "lat": 18.924079,
+            "lng": 72.824208
           },
           "viewport": {
             "northeast": {
-              "lat": 31.2282757802915,
-              "lng": 121.4535813802915
+              "lat": 18.92542798029151,
+              "lng": 72.82555698029151
             },
             "southwest": {
-              "lat": 31.2255778197085,
-              "lng": 121.4508834197085
+              "lat": 18.9227300197085,
+              "lng": 72.82285901970849
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "6e54231fc2a565295749c66eb2b2749d295d5bc8",
-        "name": "巴西战舞Capoeira",
-        "place_id": "ChIJLUZYugRwsjURWu0STV9h9RQ",
-        "reference": "CmRRAAAAPaP5nSeK2hsBZXfGTbsU04YGf_HRaFNvHAPRGXjWWvJnGeS4B0W2i_DDUiILqbwd8M-0LurziIJc_khMEChR-BxrplfbNFhxDvRao95lYXJAmZuI73LWHVI6fXsiwULtEhBa0c3-qJzFayWA84xY8ZNQGhRARcWH53BA3QF5Bp7gJU71o3bWdQ",
+        "id": "581ff88caad9e8ea958814114f204cff934da99a",
+        "name": "Studio 23",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3651,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111101373081713755020/photos\">Studio 23</a>"
+            ],
+            "photo_reference": "CmRaAAAAHyC9vi0agq1fldHJYDeR_4Nv2iGCXyl-2qCj6-aeFEZbW3waSu-Ewe6p33EBs8DYVncXTaKd-AtikpBYqfeF2e9YER5SwpMzh4Z2ZPYVBfSfPlhPTkxh0lkEnjmPBbT4EhC9V7BYXBMTu4N34WC4RexGGhT4s-8_hQV5fuV6V-z8Y5d7dbOsMQ",
+            "width": 4382
+          }
+        ],
+        "place_id": "ChIJcW1ixevR5zsRDgWtwHyrTZ8",
+        "rating": 4.7,
+        "reference": "CmRSAAAAKIXk69F6T-lJXRmu0H-01Fpy2AEA_eGWTBn3c6-Ik0-Mt6ze6DXmLuaW2wbURZ5Jkgl-wSCRuq9gKV3rTHeqUieESCKIlHir0AI7v7AP3rnOXWYlY-BN4JnaCqg0XJ42EhAJIvD6u114IL3kknmy3_j2GhRRKk5Y4-bHJ7cQt9cir9wBDlqNPQ",
         "scope": "GOOGLE",
         "types": [
+          "gym",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "南京西路1376号上海商城6楼666室"
+        "vicinity": "1 Tulsiani Chambers, Ground Floor, Free Press Journal Road, Mumbai"
       },
       {
         "geometry": {
           "location": {
-            "lat": 31.229496,
-            "lng": 121.520916
+            "lat": 19.0356902,
+            "lng": 72.8436882
           },
           "viewport": {
             "northeast": {
-              "lat": 31.2305408802915,
-              "lng": 121.5223984802915
+              "lat": 19.0370391802915,
+              "lng": 72.84503718029151
             },
             "southwest": {
-              "lat": 31.2278429197085,
-              "lng": 121.5197005197085
+              "lat": 19.03434121970849,
+              "lng": 72.8423392197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fe441e3912271b88300f8a7b8ce62eae0dcb3394",
+        "name": "First Flight Couriers Ltd.",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2319,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116140414200987626250/photos\">Shirish Joshi</a>"
+            ],
+            "photo_reference": "CmRaAAAAIIM2BwVXLrtqb_9y-JE2lcMrUYQLz_5Ljg31ZFY0i0tFiUTem91Wm3titXz5196ehtbXEddrORK7kD2V-mdkNb2cwtKVjiI4Jc_7SEarJk9VZJHRT8gso6FJHn_Z_d3PEhAPE6c4h8903wUTvDpywa4tGhTYIbzk3Z4Nb_Dp44Et-_RGeZAV5Q",
+            "width": 2130
+          }
+        ],
+        "place_id": "ChIJycrFK9PO5zsR8UOJ5MKVAWs",
+        "rating": 4,
+        "reference": "CmRRAAAAQI1FvLxAnRxs0C_Oa7Ojjnp8BF15DuDprefr3-uJHk2mmQupDVJdK75dcg0YwHVby8OGgVswZSMDxL34QP4U8Ezo7c5mpIDC8RTmIg7hA2lwQWa_TpouO_xUKXbtfbrjEhBFY2UoWjf7z1FxnF8zlsjWGhROgdtOcEyeIIsUYtWETtzz_Y691g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Mheta Mansion, Sitladevi Rd, Mahim West, Mahim, Mumbai"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.055889,
+            "lng": 72.82964799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.0572379802915,
+              "lng": 72.8309969802915
+            },
+            "southwest": {
+              "lat": 19.0545400197085,
+              "lng": 72.82829901970848
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "07b7fb8a77dd27ca45a709dde79c0ef8cfde9f4e",
+        "name": "Capoeira Mumbai",
+        "photos": [
+          {
+            "height": 585,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107229067695114833196/photos\">Ravi Soldado</a>"
+            ],
+            "photo_reference": "CmRaAAAAs2WPyG6XKzVHgpT8ZvJwcG04NTFMO-VAb98vjPTTCObJjGclxKtuk23mgZ-YnSjVCanGZxyKGKvdukOVZPv5hf1KSd8171WGblnygiLni53-v2riaPJQeTnziBHFUE25EhBAb8bzhn8jNlX4UlJmb026GhRhTGG6gAz7PpWflFSJF-B3p_oMrA",
+            "width": 757
+          }
+        ],
+        "place_id": "ChIJXYThvj_J5zsR71BQ_QM36J8",
+        "rating": 5,
+        "reference": "CmRSAAAAYMfx7DDxf0Bc7YJzerLMBFdxJ7bE00R0gPpSVXY3FuItuUIu3E08FJuz9fZ-VOu3ME8rTwFgq3TWN5ml3lbVFZEvLUb8cbzb4JMr3RvNec7Fw5KQKJARBVaKUYHn0FWiEhAWEedZ1uEopGajY_KlsbHkGhThlsJwpF4tYhd2dFY1FhQrgUTnXg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "St Jospeh Convent, Hill Road, Bandra West, Mumbai"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.0752837,
+            "lng": 72.8294298
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.0766276802915,
+              "lng": 72.8307126802915
+            },
+            "southwest": {
+              "lat": 19.0739297197085,
+              "lng": 72.82801471970849
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "59683b5868f62265e2457a4dd23d2dcbbea1b833",
-        "name": "Capoeira Brasil",
-        "place_id": "ChIJEUR7s8RwsjURkMJLeq991ZA",
-        "reference": "CmRSAAAAIs761wyl-5ef9-w3KhVUPGPg_1NsULYPqHqMOKQVVV7UNMskOXGXHJHIwo_MnQAMRn_zLHNzluBgB-UkawtJ0N5v_CT6rM88tCEdgRctd9lrgqzjrqr_bZGDdC1IsiREEhAzoExqWr7gkRA0xPSDR5oEGhSKA-gOxO_V1fNE8ACEfKgv1XJlKw",
+        "id": "b354ccc5f377b6ff494539b4487cc9f987ebef6b",
+        "name": "Centre For Capoeira India, Khar",
+        "place_id": "ChIJWx2DZwvJ5zsRP1qfFm5x6cU",
+        "rating": 5,
+        "reference": "CmRSAAAAs7KAXOQkjjOLaB_fa3QWnoexxYZunuSoSe4TUqoyi5Rwn8qEOH6uBdbBGXiDJwu0MpWEsbAFPvnqfnMfgIiNRp4nQeHBLLokWlfbPC0Q18j4EvgtCg8SzCufFWP1J_hPEhCGJ_SV4FI_PiYKeJCg3O7vGhThe3YkEzgfK810_7uCHsQvtvlKQw",
         "scope": "GOOGLE",
         "types": [
+          "gym",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "721 Zhangyang Road, Pudong"
+        "vicinity": "553, Road Number 18, Khar West, Mumbai"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.1228193,
+            "lng": 72.8600999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.1241195802915,
+              "lng": 72.8615257802915
+            },
+            "southwest": {
+              "lat": 19.1214216197085,
+              "lng": 72.8588278197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7bfcf003b287eb844e92d932c60f9c6d0d3669bb",
+        "name": "Centre For Capoeira India",
+        "place_id": "ChIJv66T2S7I5zsREukMCtMQ1L8",
+        "reference": "CmRSAAAAokvNuxEZTT6kLTBbnlbMtHWR_v0s_LDPr_bqSJ0sX7zR_PacQfxPTuF4pcBJnc03goAjVdQzxrXHb6ApH4TQUEWc3mSAGBQS3BpNRT7B7t9BI_xL4QlevUWGlVBdXt4uEhDXxhzyYsC44B9KYTSvmT2PGhQ5xwllpU1KfsYwc7QV_Ue_UY5m2g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "A1/110, Datta Jagdamba Mandir Marg, Satya Darshan Society, Satya Darshan Colony, Aghadi Nagar, Andheri East, Mumbai"
       }
     ],
     "status": "OK"
