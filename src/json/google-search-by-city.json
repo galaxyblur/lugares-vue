@@ -1,20 +1,111 @@
 {
-  "city_name": "bangalore-in",
-  "city_rank": 27,
-  "city_population": 4931603,
+  "city_name": "santiago-cl",
+  "city_rank": 28,
+  "city_population": 4837248,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "12.983333",
-      "77.583333"
+      "-33.45",
+      "-70.666667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2418624,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -33.4322313,
+            "lng": -70.6369455
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -33.43088046970851,
+              "lng": -70.63566971970849
+            },
+            "southwest": {
+              "lat": -33.4335784302915,
+              "lng": -70.6383676802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "29266c4aa7993a65e967530859ac80ac4bb6d6a7",
+        "name": "Centro Cultural Vista Bella - Grafica Vista Bella",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1675,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100485170464062761369/photos\">Centro Cultural Vista Bella - Grafica Vista Bella</a>"
+            ],
+            "photo_reference": "CmRZAAAADMTqeqn9TZF_QJWFk-AEPYSMQHLkTbTXa74CAV6KKZIu2HwYqsuOGf_TqQjo0QZoSCjFBeqSmu5MZ0-PoaHRsYAJUhMsJi1Z73ZFZUWm1Wg1VhtnC-bvM7KaifRqGvQREhA9ytDvxN6kGh6JdgpVVR_dGhQpP7Il2zKZ2nEkBilMlnvyz215JA",
+            "width": 2557
+          }
+        ],
+        "place_id": "ChIJMWeHhZDFYpYR3OCJPVUMJ3k",
+        "reference": "CmRRAAAADTP9MbJzmI0IIU5quBDnCyJWjRldVMrqLdT5Hm4zcLFv9hOnyYdDHMgTaU82_g-HbtTF4NX6HqlffgXjp2ZSA4DEtUPGyCuQXuwWpA7em910wYRKpVH_R90rPM31zlD8EhC8H72ThuLUez7yuf8d7JHtGhRLt1L6mTBPnu3qRWbKOnW7NW4x5w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ernesto Pinto Lagarrigue 199, Recoleta, Recoleta"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": -33.4879711,
+            "lng": -70.6488282
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -33.48663261970849,
+              "lng": -70.64748231970849
+            },
+            "southwest": {
+              "lat": -33.48933058029149,
+              "lng": -70.65018028029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd3956d7dfee06d00c8ae427fc9166b25c856bf5",
+        "name": "Capoeira Sul Da Bahía Profesor Estagiário Maicol",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 541,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101610463356658409209/photos\">Maicol Arenas</a>"
+            ],
+            "photo_reference": "CmRaAAAAjXGU1b2-FHGOL3dPqBdfkbp2R82Ivq0dlawBp6T1OSnf4S7nRx7lCBzjvWmkxy9ycHjpZaHuDRU0F7WAo2duOfsNetNRp4gWRvtdS4Rao7hPrzeZQ7Oquqy9dln6gC6hEhDu-kZu1fr1iV2zYw80FhvGGhR0mH2Viprk3kV-iaLAXU3y0Es1QA",
+            "width": 688
+          }
+        ],
+        "place_id": "ChIJ55of2jTFYpYRhoareWHTI0I",
+        "rating": 5,
+        "reference": "CmRRAAAAqFyZ0wJrI-M0OM2usEL8XcvCwsvRHgEhPprZqcUKgw8FyhW_WUp_0ivx6RK94B4U09KkwLGU1oT1J4kQyh3nSPy5hipQo06LyFAm43agf2YnfrPY2zN0-n1PQOQX8d74EhAB3-a3pf2aST3ANNK_zS1RGhSJlgTWxV-QFxClkyMC6vlCFkoPKg",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "María Auxiliadora 997, San Miguel, San Miguel"
+      }
+    ],
+    "status": "OK"
   }
 }
