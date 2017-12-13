@@ -1,98 +1,20 @@
 {
-  "city_name": "ankara-tr",
-  "city_rank": 50,
-  "city_population": 3519177,
+  "city_name": "shenyang-cn",
+  "city_rank": 51,
+  "city_population": 3512192,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "39.911652",
-      "32.840305"
+      "41.792222",
+      "123.432778"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1759589,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.8926381,
-            "lng": 32.83265819999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.8939870802915,
-              "lng": 32.83400718029149
-            },
-            "southwest": {
-              "lat": 39.8912891197085,
-              "lng": 32.83130921970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ef50dc3e8044374976dc21c8bfb541c9c8b4ee9d",
-        "name": "Axe Capoeira Dans Studyo",
-        "permanently_closed": true,
-        "place_id": "ChIJD51HXyRP0xQRxo_rRBD8CtI",
-        "reference": "CmRSAAAACYTJqEU6YW0u-oOjm8FO5RhOLgOGqASBz75aul0hCxR4KI1b-ZC0GB97-PCZV9iZDYi1Q9IIlESYh5xKVf9ug0M1ML10cvfEb0Fsoj_CA54CIanffYcRNd83NzZWiEGPEhCGGBNgZ2_8m7GZL7OaMybmGhS7_IDhMwFfOZ2f6kih--QmVJ6eoA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Bahçelievler, 6. Cad./6. Sok. No:7"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9324802,
-            "lng": 32.8708041
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.93377853029151,
-              "lng": 32.8722500802915
-            },
-            "southwest": {
-              "lat": 39.93108056970851,
-              "lng": 32.8695521197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "51c6ef9a41baba4067c046d943f52c9df478812a",
-        "name": "Axé Capoeira Akademi",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102832764412045999905/photos\">Axé Capoeira Akademi</a>"
-            ],
-            "photo_reference": "CmRaAAAAIMfvNOyjh1448N2yDcNpCAAxXDWAxZsWH7gFwma57uP7EQgbZ_4y9XSJK4PmxsIUuCN9xytSMe4aIY5j-ageiZd0E_IDEcsWp7FETEKk0aviuXNIxxyrtkz671M4xN1bEhAE-EfCdOO8AvYTG2OuF9VZGhSheVk-txVZOBb8DDhGRop0GMCQ6g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ-eBS4UNO0xQRmHWYVPQbnE0",
-        "rating": 5,
-        "reference": "CmRRAAAAbg1tSHV2vvfXH0zwsJH_CFUN6VYojPGtBQIXdAwVFtv9J8vjSSlca5sZa1S5SDe9tIkEJ6nxrRYqTEpFub_7MfVMD60MG015mnCe_iGB_dqRNzDGWPrpiXskPAQQGZ19EhBIObMpPtXtgXNNaHtn2snOGhSREum_9blqDR9eHF5o1z3FlrPQkw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Hacettepe Mahallesi, Dumlupınar Caddesi No:43, Altındağ"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
