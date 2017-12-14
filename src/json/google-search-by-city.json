@@ -1,20 +1,63 @@
 {
-  "city_name": "lakhnau-in",
-  "city_rank": 84,
-  "city_population": 2472250,
+  "city_name": "gizeh-eg",
+  "city_rank": 85,
+  "city_population": 2443490,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "26.85",
-      "80.916667"
+      "30.0086111",
+      "31.2122222"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2443490,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0510252,
+            "lng": 31.24719519999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.0523741802915,
+              "lng": 31.24854418029149
+            },
+            "southwest": {
+              "lat": 30.0496762197085,
+              "lng": 31.2458462197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "cd95cb801833ce9c8a87fa1e3b54bdb2eff0cc64",
+        "name": "Capoeira Brasil Egypt",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106331980314720469412/photos\">Mostafa Mourad</a>"
+            ],
+            "photo_reference": "CmRaAAAAQdYZmIHhrEmQM_9iDIpOv1FvptuEWD__9i0Tq4KA4CX2ZGtooCWESuLnKa8V-j60LkhnuKUY-X0HjCav6vAser4m5OygbrU9U96UC_PoMsvKi2GzktGuBQsVJsVrW8baEhByKPhTXpQYZN8eb1r_BIq3GhTzGTA6Q5mZgtOAExyWJt0d68MJwg",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJw5GQJpZAWBQRR6sHoO0E-Go",
+        "rating": 5,
+        "reference": "CmRRAAAA5aVEDAi1UepCv1nui0qWUST6j7O2_vIfyj1zDkMnzS2vVMmppPQD5PJ_5hBVMllU2yZ_6GJwlP26gDp9ACJbwtuS32MJSPoqRp_bfbib6f9JH6Lvk67TFv_qm6accXwZEhBpjRYHOPoY_XjIwmFATrpRGhRafiemX6a050BjrhmrkiG_toYGJg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ghayt Al Adah, Abdeen"
+      }
+    ],
+    "status": "OK"
   }
 }
