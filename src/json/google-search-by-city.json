@@ -1,20 +1,61 @@
 {
-  "city_name": "nagpur-in",
-  "city_rank": 91,
-  "city_population": 2228191,
+  "city_name": "harare-zw",
+  "city_rank": 92,
+  "city_population": 2213701,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "21.15",
-      "79.1"
+      "-17.8177778",
+      "31.0447222"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2213701,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -17.777542,
+            "lng": 31.048199
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -17.7762586697085,
+              "lng": 31.0495403302915
+            },
+            "southwest": {
+              "lat": -17.7789566302915,
+              "lng": 31.0468423697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "595a050dbcb9fc94f9cf8ba482fc4aaf7f1c5ef2",
+        "name": "Capoeira Folha Seca",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 606,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108623173928005770576/photos\">Capoeira Folha Seca</a>"
+            ],
+            "photo_reference": "CmRaAAAAItyELRzm1R8MX67DDUgAuLfZ8Y_NEZtCG9lq5QTymq1o5Xkcr5kJNLsbER0lNVqL7ha_2XsrtYC0WYmeim2gF6o393169gFQUTClK2iefhTdXhUs_pJXEvDlAN13xhivEhB2ItXCuaF7C9N-7hIha_ebGhSp-DVX0pPsrq_4iTRiC20E0F8C1Q",
+            "width": 606
+          }
+        ],
+        "place_id": "ChIJbVb5loalMRkRjUYTBJiMozU",
+        "reference": "CmRbAAAAbyPkmfiDSFI5jbXlGptwKYaN1BHigOKl56YOMInrUgx-Mov9ts8OA-NAIdQ8gOucCUK9k6cCjNxNf50ZF27vKXxy98b7K4dDsStt9PHyIXb-EKgL7AO9v6dep77aiYAcEhBU43exUHnvQP6Fv3TDisWYGhQQe5lGZgAO6Gl1TC_8AJ9kRMZ0vQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Harare North"
+      }
+    ],
+    "status": "OK"
   }
 }
