@@ -1,16 +1,16 @@
 {
-  "city_name": "santo-domingo-do",
-  "city_rank": 94,
-  "city_population": 2202016,
+  "city_name": "nagoya-jp",
+  "city_rank": 95,
+  "city_population": 2191291,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "18.4666667",
-      "-69.9"
+      "35.180198",
+      "136.906739"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 2202016,
+  "people_per_result": 1095646,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,49 +18,64 @@
       {
         "geometry": {
           "location": {
-            "lat": 18.47221949999999,
-            "lng": -69.9232293
+            "lat": 35.1699162,
+            "lng": 136.9319319
           },
           "viewport": {
             "northeast": {
-              "lat": 18.4734942802915,
-              "lng": -69.9218093197085
+              "lat": 35.17126518029149,
+              "lng": 136.9332808802915
             },
             "southwest": {
-              "lat": 18.47079631970849,
-              "lng": -69.92450728029151
+              "lat": 35.16856721970849,
+              "lng": 136.9305829197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "dcff6efa119532cf6e4c7cb00e04d3877d7855a2",
-        "name": "XMT Academy",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 430,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111182680471756284834/photos\">XMT Academy</a>"
-            ],
-            "photo_reference": "CmRaAAAA98vM4kEQfdfniC6WQoOrNs1uvtaOsMn-q3rTzBpxXPO3ZzJRS9RQBQfw8Y7h7BVSFHi-8MLOIsN04y--sk9I-jDwjp14BpjG-2wSOeyVW6uYLKX6DOGJcIN6_BpE_qNEEhDZ3pLSQeKhJDMzdZMHmAXqGhT8s4rWR2k0w6hqEW-tJmz76GlTgg",
-            "width": 641
-          }
-        ],
-        "place_id": "ChIJ0eEOF9uJr44RdA00RSR3kxw",
-        "rating": 4.9,
-        "reference": "CmRRAAAA_57SWhaUqBRuq-LGp4iW0D8soHfXrU8BUnazK5hSQLthoj-v66JibIoEV7uv1BiEJOJfEpcnLeNylYpUOdTRyH3kceOasD9J2VllxnpzYrIrNTtXv92O4mANPo5ta6hlEhBQLbilU8rXmBLdbf3f7Nn6GhSQCwqTkT6bO5AzYw9jaEJ380XxFw",
+        "id": "9bd047a299c06e93e835b7573df1a3eb5331e28f",
+        "name": "Capoeira Vadiação",
+        "place_id": "ChIJVVUpiO1wA2ARtyOlfzrctlA",
+        "reference": "CmRRAAAAgNlY1WHxojN-tFCOpi6Zzntc2r5hMzr9LLqIZy0qrPmeTforRWi-oUru-IU_Zi2-ynxbXFPenTgdwB8mkzrQd_7hEwbv59np36KCNblrk2FfM4yFnOJspmrK6AL_112uEhCJhgTuML3VmYHNWE_lrd8iGhRYxgqEKhRSPXt_An6wxS9luIlMLg",
         "scope": "GOOGLE",
         "types": [
           "gym",
-          "university",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Avenida Ingeniero Roberto Pastoriza 111, Santo Domingo"
+        "vicinity": "3 Chome-26-13 Uchiyama, Chikusa Ward, Nagoya"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2944489,
+            "lng": 136.9074144
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.2957978802915,
+              "lng": 136.9087633802915
+            },
+            "southwest": {
+              "lat": 35.2930999197085,
+              "lng": 136.9060654197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "70e060da473b1127ef98dcbcf097f3464fbc7f42",
+        "name": "Capoeira",
+        "place_id": "ChIJCStSoaYMA2ARSRwvd2sXWXw",
+        "reference": "CmRRAAAA4nEqVOPAr11swVO7DqHZK4ybq3D4B5q2BHoZ61vvbVlxyKy8C7N9hUTY7tUF7KPxFHYJRXy7rvLbLj6dQf6H381yX_8ph58-_rOqxAQuatYQH1GkoziWOsgpowaYJXKUEhDudFGHmzpunUosCW7sFqymGhQxFhstTO9EJHCDdxtmAHsYoAYbbg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "128 Mamahonmachi, Komaki"
       }
     ],
     "status": "OK"
