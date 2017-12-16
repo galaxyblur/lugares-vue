@@ -1,170 +1,751 @@
 {
-  "city_name": "caracas-ve",
-  "city_rank": 119,
-  "city_population": 1815681,
+  "city_name": "ecatepec-mx",
+  "city_rank": 120,
+  "city_population": 1806297,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "10.5",
-      "-66.9166667"
+      "19.601111",
+      "-99.0525"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 363136,
+  "people_per_result": 90315,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
+    "next_page_token": "CqQCGwEAAPQzC9skpg2XKK9KbAB2dorkoNRJDlPpsDnppL5P50RvQnr3YGfiTWPU3dfpNUBMf7KqSN0eJsXNVpRP5fJkZKUE0jUpDerf-9oBFuLmUyt-sNxfkhGT6AIDbtMbhOc0KWCokAWLle08okxQkqE-_gbgQy4ifb7M0UDawd2kWR87wM0BAKx9AhY5Rn5XF5vtcJwUg44cmdATCIRhZ7iOqt1uOqXYu6WvXM83A7nyMn3hqDtdTQzApJ_ZXfBGLRGEyQWcGyp_nZeUM9jkZlu70n-SfiartnuCHqpIepLTDniKhiiUztfDok9lzY5zSeY81rX3HhsDm7covBiD2kQG6GznaM8dpYTIOvDirlG_I-pBlY79YV1amzEdpqaip1UXhRIQA8mySAh5tgDbu5pYGB6U-hoU7xVCgFNUDNHNbsfwcME4b26ymD4",
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 10.5048652,
-            "lng": -66.9059256
+            "lat": 19.612858,
+            "lng": -99.048836
           },
           "viewport": {
             "northeast": {
-              "lat": 10.5062470802915,
-              "lng": -66.9045702197085
+              "lat": 19.6142069802915,
+              "lng": -99.0474870197085
             },
             "southwest": {
-              "lat": 10.5035491197085,
-              "lng": -66.90726818029151
+              "lat": 19.6115090197085,
+              "lng": -99.0501849802915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-        "id": "18a9b7a196a0007bca2b09d4e7706296805797e2",
-        "name": "Restaurante Capoeira",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3fb32ef64bf3b9024850cfbd3df55651c5252829",
+        "name": "Fighting Garage",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJKa3UH5vx0YURsCxDymDAUU0",
+        "reference": "CmRRAAAA4_nfWS4vhLqd66U1OyNqVR2Q9yXOCpEPb2JRJnfLDzeMv2P8Iw6Y042dfe5R51TsB-zJUfvrUTfoSJtKIn7X1GFxrF4f799ZW3_-aHRnLbjebvJAA_SNaFZWO7ylcBNAEhC44KPhwVbGeHEm9u776hRFGhQyZ1P6VfZFJiHePTWSihj5SF2KcA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida de los Chopos 3, Colonia del Carmen, Ecatepec de Morelos"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.5274207,
+            "lng": -99.02988099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.5288172302915,
+              "lng": -99.02851111970848
+            },
+            "southwest": {
+              "lat": 19.5261192697085,
+              "lng": -99.03120908029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a74edf30b1d2b284ca61ebf82f1f0ef0afa495f1",
+        "name": "CAPOEIRA LA LUCHA BRASILEÑA",
+        "place_id": "ChIJF-MCUaH60YURdz7-hO29cj0",
+        "rating": 5,
+        "reference": "CmRRAAAAS-eCf0rGViTYw9LTHNbQuJMmiCUOlKnFgCmkVShMbodMqz4UdzPWRPOYbD0Ac9dsjkkjChpNDeLUNt2yPkFSBSLpGXca_vmBpxQh2-bplH3t0VP_rJ8BUlQE8veMRNVXEhBtlLrX7IsTQeDQDnZRgYS0GhRErNM2I082cfAsM6M4VVHB77dhKw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Miguel Hidalgo S/N, Ignacio Allende, Ecatepec de Morelos"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.487276,
+            "lng": -99.08309899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4886453302915,
+              "lng": -99.0817425697085
+            },
+            "southwest": {
+              "lat": 19.4859473697085,
+              "lng": -99.08444053029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "ee044c46d3dbd34b03381d97ceb6ed786a16e9d4",
+        "name": "Deportivo Bicentenario",
+        "photos": [
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110076805320556338664/photos\">ericklanders</a>"
+            ],
+            "photo_reference": "CmRaAAAAYKzS_iKiBbttx75nBp6MjfGlT1h6Dt_wazuya4YGD2-OkEaIUsMZObE6iJFN0IoyVUnuaK8ACb3ht3xEWg9dARR_jmG-VSiyxvRk_wjQFvFxfS9FMGbDJlMtUS6Vzx1nEhAWbYGD-qwZyQfUgBzUYvSQGhSO_SRt5gwM6kXjbgVgtv3szuat8w",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJ4_I8QTT60YUR_YLJGIr4zM4",
+        "rating": 3.8,
+        "reference": "CmRSAAAAqP4_SeLN4n3OVCErOJI9OBPUrqUgeMATV4TKLT-1KCWtz0WoCz4nGc_OFX-wJ80NUGwLWTRiIUlTbPzRBx9RRP81BBiwOa0jaMqns-jd1d3zaCaNrTniCt6eWJtANVlhEhBkGbP84ej32PWdNgkL2I1FGhTi8uNBD6pJzQchUubmhE7SV2xmFQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "07530, Camino Parque Central 10, Campestre Aragón, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.4915728,
+            "lng": -99.1247222
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4928958802915,
+              "lng": -99.1233375197085
+            },
+            "southwest": {
+              "lat": 19.4901979197085,
+              "lng": -99.1260354802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5106f0d761de1a6009ed204953c0dc34649af90b",
+        "name": "Baby Ballet Lindavista",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1080,
+            "height": 720,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115811309221553953321/photos\">Juan Carlos Cubillan</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/115156497002766727414/photos\">Baby Ballet Lindavista</a>"
             ],
-            "photo_reference": "CmRaAAAA96C6Gf4mAsJanqRnj0QqTcPNQsWMpo-rqjD5iJWM1twsvxf3eV5CurSZHzPpNpe7uYUe3PsHVOI6YgvaJQRswLMlhSeCHRtaNn8s2-u-eT1iI82WF_yFma7OoMrZOErcEhB2-2VfP9pGDSSMy1EhS9e7GhRcykspLKiqgjlpFm-Kns2qyHAAww",
-            "width": 1920
+            "photo_reference": "CmRaAAAAlwxNNfBTHNmsvTIwtrzx6f6LzdTkigDGDmLnPAKW1PntXS4p6ddZp5Ml5gV9ckRuDhcPQhGPAa8WH36TTGcxOhaG8Y9Id8dAE9-8pG9kROUrblLA75DJAJFj-sx0SSuXEhAf7p0xvG_DgzMlE19RCf0lGhSxOdQ8rttwJRh4hLD8w5rn5WoRwQ",
+            "width": 960
           }
         ],
-        "place_id": "ChIJtYeA_dJeKowRWbr5CdfnWD4",
-        "rating": 4.2,
-        "reference": "CmRRAAAApzPNkJ4-JIX8wOffbezpSshXaN7MkNelfxGw72ewKWavp8xZWb98UrmVH9EBEzul4L9xWDK5Wyq9NxFFPnzjkcmsth9S5F_W7-6C_Yrjdod_9yG5kLONX0NOhIJW0X2TEhBroFsfkVLMN9GsS2MnvH1hGhRvAP38e0rmNZqc56HUtp34TbbfAw",
+        "place_id": "ChIJP_os_qL50YURw0-2_qMqXuw",
+        "rating": 5,
+        "reference": "CmRSAAAAGsYXOf5aMurgS0MFmlAekvysisTYUVy34m75IN-D4r7EqiZ0Rv4T_g8gY2gpZ4j6nuOFINR7vwssWYDJUVWmdlCUdcuC1CH8pu4UeqA7eaED4aP03nCoLUt0TYt97oEhEhA-yXJ42TxIRfotp7iC2EujGhT4M-6j_aBFTMvnmFzmhdf7ziV9zQ",
         "scope": "GOOGLE",
         "types": [
-          "restaurant",
-          "food",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Ferrenquin A Cruz Hotel Alex, Avenida Este 0, Caracas"
+        "vicinity": "Lindavista 169 Entre Pernambuco y, Coquimbo, Lindavista"
       },
       {
         "geometry": {
           "location": {
-            "lat": 10.4822733,
-            "lng": -66.8694341
+            "lat": 19.4949934,
+            "lng": -99.1518871
           },
           "viewport": {
             "northeast": {
-              "lat": 10.4837600802915,
-              "lng": -66.86775521970849
+              "lat": 19.4963307302915,
+              "lng": -99.1504837697085
             },
             "southwest": {
-              "lat": 10.4810621197085,
-              "lng": -66.87045318029149
+              "lat": 19.49363276970849,
+              "lng": -99.15318173029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f2077c70b72eb4064b187137ae0fa2ba668346e8",
+        "name": "A.D.A.M. Lindavista",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 4128,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110695199623884801345/photos\">Alaneph 23</a>"
+            ],
+            "photo_reference": "CmRaAAAASs-CdQ2PWROVb2x5bcKeUFq4McdfBKyg36_XARbeZnmL2SPF_b7O3wxqeSQCe9MLY6XL1NixYq56kuB-m9XN4waAONGNKJK4rYtvgINS10YWb5QG7TwuB1tFjX-EUT5WEhCOMBOYauKp7LdMxl5bKqZRGhStIYNaPp3xLajqzuNTOuicCoS3Zg",
+            "width": 3096
+          }
+        ],
+        "place_id": "ChIJl4yqmk740YURg_4P0YlihGY",
+        "rating": 4.7,
+        "reference": "CmRRAAAAAcH0F3RSknQ0aclRnW5MR7h4ojf0oTkA7Kbt_RXKM2-e_eSlFq2VHS8Oc_lnKWoTDASzEkIfW7RzOS0xBJWEMmBhwGgzE6Z53lyJ6pk5HS3Wx4ai1WI5iy5gWTgsknrJEhDYRZ5pkqaLiqyM2z6vukLbGhQAWOPIQSuK5UVfdUdY2jk5I2vW7Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Norte 31-A 3, Lindavista Vallejo, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.468394,
+            "lng": -99.10804999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4697885302915,
+              "lng": -99.1066822697085
+            },
+            "southwest": {
+              "lat": 19.46709056970849,
+              "lng": -99.1093802302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "fdf59d0b3b1fe78f5bff138afb2d858ada9886a0",
+        "name": "Life Fitness Gym Bondojito",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114610106487285811897/photos\">Life Fitness Gym Bondojito</a>"
+            ],
+            "photo_reference": "CmRaAAAAPmqPlTImjPIatYuv8WVTk3L6dLQ1RUtDFiHeV3Kg5Z0DmlaoVb4PUTkd8rSpyzaBXW7Gri0TboVVhMIXiMLV8bc5_nycA1F8k9zCmwwrLWUMggzUkps9GN3otSkR2M52EhDUFC8LU0T5w21jnjbW1XJmGhR5NN3potRJ_CfHWP2vS_-gkOE_7A",
+            "width": 2592
+          }
+        ],
+        "place_id": "ChIJ_9iz6mT50YURrTnk8bcAaIQ",
+        "rating": 4.4,
+        "reference": "CmRSAAAAZkVKPF9_8E16Nmlk88jLtp362FFBEWewm8P7tlTqbdIDjPjGgpQhhO89zcfC2wwFZPxTJcizn6PizV8CA5D1qnjAG0JJXVcypNwa2KseL6YGF9upYpJFd7Fv2MrJaZewEhDspxejk2nl_8_HisfT-VLGGhQJngU6Bde5z9rAInZlp7hui8KJKQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida Victoria Oriente 3251, Bondojito, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.4704057,
+            "lng": -99.1280079
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4717433302915,
+              "lng": -99.12662681970849
+            },
+            "southwest": {
+              "lat": 19.4690453697085,
+              "lng": -99.1293247802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "945f477a05590a515be2ea92d5eee77efb982d43",
-        "name": "Capoeira Humaitá Mestre Chocolate",
+        "id": "37c559071bec2f09f40d59ae27e00b6838bee69c",
+        "name": "Red Corner Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101697024538967351412/photos\">Mario Santos</a>"
+            ],
+            "photo_reference": "CmRZAAAATXu50UlxspoUyhPINAkSEy051ijIy8xUSz1CNCMUyqhoL67vVOpIylUwalBvULT-5wfQ404HVcOtMCyzW27FRRu7npOG-6mmLAG9ihm26UvGcERw-MFFr3dx2rBlQP1wEhBRB96nfsbMsSw0w123NEJHGhS-Koo6QJajdb1TROZeLDwhbtlJLg",
+            "width": 5184
+          }
+        ],
+        "place_id": "ChIJRc2N6Q350YURyPvoaH4uhsM",
+        "rating": 3,
+        "reference": "CmRSAAAAlOfWpn9pVi6qUPhEUnNMAOo7ujkYtRJ-PqHwwBj5Z-kweyQQRQyWoNI1KFJaHeNcwRAlvTzFmE7kqQ2ax610C94LBc5ylbJBPDjIy-exyi2EmB4wwBDH_UsTUQ1P3WNgEhDbVoE1t_jSprFCk8zwCx5BGhSYTHi6ECGzicfLGB0xUJa70QaluA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Buen Tono, Industrial, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.460708,
+            "lng": -99.112663
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4620505302915,
+              "lng": -99.1112842697085
+            },
+            "southwest": {
+              "lat": 19.4593525697085,
+              "lng": -99.11398223029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a286880d43629c5924bda28d1984f1143f35d1d5",
+        "name": "SHIZEN KARATE-DO",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115199261804909132726/photos\">SHIZEN KARATE-DO</a>"
+            ],
+            "photo_reference": "CmRaAAAAkKsKULrawVZ3OZ8MbMTmUVCw_S-iPY7xtuxB5MMyDbQU119YQhnDF1vrHC5Avzv9b6GwxeWhFCoShznav-cqeuh_89zNdUAb8c3s3ftPFDFibl2UURTtzg9EUMsb7K3iEhBGqDBbpOvfzx61aEZ7hL2SGhSHp09n7t8iDrrtJpDcoYQtwkR7Lw",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJ-3r4fmj50YURDQ5RZKxb_I4",
+        "rating": 5,
+        "reference": "CmRSAAAA_sttzqvJHA_xUKsJBgz5A8qOXCSLndW0Q2rao8_iRayArepwBzb-TLBrZ_0__hBPCwVIO7Jrxnf4OUiRDCc7vE_mmD0jBtq08T85YDhwB2IePj1iIqvMYfYGZ3lqqlEkEhBOy5MbvpQFRbbO0PkjXSIPGhRddc3HSJw0F-iFO8M64N8mRINgvA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Número, Norte 62-A 3740, Gustavo A. Madero, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.4780643,
+            "lng": -99.1856688
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4794337802915,
+              "lng": -99.18431366970849
+            },
+            "southwest": {
+              "lat": 19.4767358197085,
+              "lng": -99.18701163029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "cf71227fc0d572c2c448f9ac1a6ef2b817752b66",
+        "name": "Longe do Mar",
+        "place_id": "ChIJNfgRH3740YURvuxqnWrw_-A",
+        "reference": "CmRSAAAAlOwEQt0FQr7xU1Czodlb3dC7zVLR7fyDsAO3Sdok9PsxZIMlXI06RQseqX5JhdxxdW1d7rO-TDeLOU7TbzW_V-7gezUnKZb4BRNY3Ro7zbF69Dv6rUHoqmhcqD4ZWwyREhA5cGvp6qIark82hHoywVhvGhQuuN36OB1t5331qm_5qe-2zzNBzg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "16 de Septiembre 38, Centro de Azcapotzalco, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.4477688,
+            "lng": -99.1578174
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4491177802915,
+              "lng": -99.15646841970849
+            },
+            "southwest": {
+              "lat": 19.4464198197085,
+              "lng": -99.15916638029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d676823f8416af8f39d55b9679185f1c9057ad93",
+        "name": "Performance Fitness Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111367619422195170637/photos\">Performance Fitness Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAANHW6qbns7uAlGO4K4mvp7IaputOANzLcvNon0uabKIbJHpsbWs9mu79nKI1d5XHEUVq1AQ8O8ZEZesnN06yaw__kk0MyrKmLmqAZrlVL0Fwv912ee-MzBkxuIiYOwcsmEhAnjFGjUji-9bYVyI7vFpjpGhR4jTcMJZszmvFeOZKqKM5l6WaOTQ",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJPccuucT40YURufcFcbRnPMY",
+        "rating": 4.1,
+        "reference": "CmRSAAAAGyf9_ZPP3lfbIz13LEd_XnArVH15yrH4MRLGR0zUOaFcjig5SI_CGIjut2X2gYAPFcDhJ87Vi98Y05uMo8R_FbegpLaP3xqwFJGO8jB9wf51rwvRNNOrSn4G9iOUo68bEhD4-mKrWdQbxLaz4X8rZQfUGhQBUZj1wW6AnYXBeUWbKxvIJIXc8g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Jaime Torres Bodet 133 Bis, Santa María la Ribera, Cuauhtémoc"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.4424001,
+            "lng": -99.15094409999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4437481302915,
+              "lng": -99.14959171970848
+            },
+            "southwest": {
+              "lat": 19.4410501697085,
+              "lng": -99.15228968029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e24aafd2117c245e7f8fe2ffa6a52c43b412bcb3",
+        "name": "Yubá",
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108320522057374831124/photos\">César O.</a>"
+            ],
+            "photo_reference": "CmRaAAAAmAgguEcEVYZDWozTbw6kqO8R5g1J5Y8-39Q1aVlKZMEhjWNc4NXMmy9HjkPZZrXNNTk1Xc7TkXBPVuQGK5E9Y7SBJ96gpaAmyhELC6quQYjJm6DcFXj55bwWnzAqe4PlEhDxsBbVXC1iv10Yllas9tbiGhSZ8RF02Acc3--TsXY64b84qpGo5g",
+            "width": 1137
+          }
+        ],
+        "place_id": "ChIJnYGZM9f40YURfi0-MAOXOgQ",
+        "rating": 4.5,
+        "reference": "CmRRAAAAcEjvjLRuFwwyiZvxMS-4NBSSqnDexoaSrIzU9gxrJsm4_Jio5FG1DhuAgIbQYmSSMBz-vKcJXM_DkQ5dy9CWnaMHJDavFNWqsMvFBarwIFkxjr1VkcIjRvoUq6wnZGStEhDF039WdBVJSBOseFW4H1uiGhQitbL_oUpOVefr-JvubIM8gbYQbQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Calle Juan Aldama 77CBACD, Buenavista, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.43843129999999,
+            "lng": -99.1564765
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4397643802915,
+              "lng": -99.15508866970849
+            },
+            "southwest": {
+              "lat": 19.4370664197085,
+              "lng": -99.1577866302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7d9ef4ae01feb0ff76cd1686c85e16372a14d463",
+        "name": "DANCE SCHOOLS BALDERAS",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1572,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118009163592439638200/photos\">ESCUELAS DE BAILE BALDERAS</a>"
+            ],
+            "photo_reference": "CmRaAAAAHUCVUDYMxydPBF5-YR9qOUOPWN8S9jgWhAt2_Cvc5cxZr1fyCrYx2c9VARX5ZGxLXPMTEVgqpwFneUyNQrOmFH5lR2YFMUhQr4Q4ftvhiuVMzfRtInM_fueBSwww6AcTEhCv26z5wxjW-CaXkBvnreNLGhQmqPSsAWc28vCYL8VlmzVctk1qNQ",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJe7mN_tH40YURIGc95ixorm8",
+        "rating": 3.4,
+        "reference": "CmRRAAAAxLlGbV6XniZWIzm52zKvUO-3riC1nJUMfkXVTMuRjrIu5zJXDJP_PFvdjQ-wf40Zx0NAmo-k0XFI4J7KvJcFqGMu_7zlt6MHxJ32-Ff3sT-LD7OQ_85GVlYhO40HOJxUEhCuNYo3Gl6qln0tDDaH-gCJGhQ22AF103srpMeudaWDwggbCoqV0g",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Insurgentes Centro 31, San Rafael, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.4116667,
+            "lng": -99.1615075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4129535302915,
+              "lng": -99.16014451970848
+            },
+            "southwest": {
+              "lat": 19.41025556970849,
+              "lng": -99.1628424802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "71649ef8c776bafe2cd8f46134ee615e5ba08f8c",
+        "name": "Capoeira Longe do Mar México - Odara Roma",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJhdAUMjz_0YURdTsiFsEaE5U",
+        "rating": 5,
+        "reference": "CmRSAAAAxT0R1i-Vn_TDKW5NjuJJw7FTl9HHm_uIPRtj0-il6wEKk5LmdcceZlGO4dKd_nYM3x88yhV_fN_HkhQXc1AchTfs3lRdeViZMp-z9qvp_GW5gvOCvFwFmf6WYPAPoJD3EhASQBECS0GXv9bgMsUG6yzJGhS_JjZaHQBwWtCytRo1KSAZ03-1Vw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Coahuila 123, Cuauhtémoc, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.3997583,
+            "lng": -99.148703
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.4011049302915,
+              "lng": -99.14731806970849
+            },
+            "southwest": {
+              "lat": 19.3984069697085,
+              "lng": -99.15001603029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f084635702673f74ee405da3f33005ed02de5d7d",
+        "name": "Capoeira Jogar Diferente",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109478079129994594491/photos\">Antonio Lara</a>"
+            ],
+            "photo_reference": "CmRaAAAA-jUW_TeGlSGQoHLRYwhPGPI0koeGNDCj31ZCnEg3x6CZ7hO12xYxSrpNaLoSW-rlnlucsyujdDFfk0wFz9nEyE6MjISJq15AV1AcwiEthdxpCSM9f40O5Y3nDbGWBtCzEhB_-r0cWuWU9-j1Dqu2PLfrGhTW30qqw5TCtandkQDK9xLc8iddIw",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJoXZz_Bz_0YURYYeWaa75DZg",
+        "rating": 5,
+        "reference": "CmRSAAAAnXo-gEDo4gvBOcmc0P2iqVeJnIemDic_o0QOhvmavOYDQKdQQsCcWXvo2V0h8QfLL8dBIz1vp5V2dXbsVMK9V7hqhDBdkccuu6KGecaw49jXLO40zuvvO-UIdH-VtEnkEhAzA2tXFSxkLCirVuX7iGf0GhSePs97OJ-AAZPSad6pbV_BG34aOA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "03020, La Quemada 9, Narvarte Oriente, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.3798588,
+            "lng": -99.01448599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.3812077802915,
+              "lng": -99.01313701970848
+            },
+            "southwest": {
+              "lat": 19.37850981970849,
+              "lng": -99.0158349802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "29eb82565ae53d6415a8340e3e7d1b83ea390bb5",
+        "name": "Capoeira OLMECA",
+        "place_id": "ChIJ-ZH9oTL90YURutZDptLHrjQ",
+        "reference": "CmRRAAAApHFAujXytcsV_ymRBHjG814ZyX6DT1BMpPI1wrfgElf-KCht149g26fBPGpQ-2MQs-EoIx6dKHJujCXh2dtJFdg7zxhxpWrTQXEplZNAPolyadGxagbiQRfUDTBKzxFvEhCNRT-0bb6AiOYb_-Li58oaGhSU3bWhlgHa7sT5K9Bfak53rMAfbQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Marcos López Jiménez 16, Zona Urbana Ejidal Santa Martha Acatitla Norte, Iztapalapa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.3883851,
+            "lng": -99.14716589999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.3897456802915,
+              "lng": -99.1458144697085
+            },
+            "southwest": {
+              "lat": 19.38704771970849,
+              "lng": -99.1485124302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7bce52dd6a5169ed9fef864ec8dc58ab6cc41911",
+        "name": "Capoeira Du Sardao",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1600,
+            "height": 5312,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100233062000931707943/photos\">Pêssego Rosanna Popa</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/113332912175293523216/photos\">carlos pulido garcia</a>"
             ],
-            "photo_reference": "CmRaAAAAPz0-bwKWKIs8yTWJOg6OUtZG2i-_lwhbYUwvY7iK3WS7fbu4BU8HtAGIsFnMc-8JKjUBPFOXMwTW3IlTcCQ9WTyvT2SD0GUbYOh7Mp2GuiGMp6ztmEJKWYSb-2Xf1M1hEhDlEJeoHhYOtR5l8O_b9ZJtGhQ-qwZmgucOGP4LPr61AC9fYxStBg",
-            "width": 900
+            "photo_reference": "CmRaAAAAmJYGeb7WUFPRUHtY1oQWtfgCWaSAqnxUxMqxbjJUusEQ_IhEsWi9t5J6_P0SuimRqpqVMKAYuNQFee4lEtAizUP17290BjgOCRtBf0PQxyn4d6IoCrHhlwI1Ij_1V494EhBf3JUjm3RboXo91vYzU93IGhQF7pCQczk77OMjq08qoC6AXCxBeQ",
+            "width": 2988
           }
         ],
-        "place_id": "ChIJHchMvu9YKowR1W33dKQbRfA",
-        "reference": "CmRSAAAAmz3EK6roNzNev9ySbi2HdAQH9GKAhMUe1_jXuSZE2yL-bUyRSGmmNY8H7CUpLmRyvijbMLWF4y4OL7cFhqHVWB1pRcTSdrWdIpRcKjrQVNe2lEY5SkQPNRkRYQxXZwvfEhBNFeQ3u_UH8I1y9X32akZbGhTMLfrcivb2IlutlJ7fNwyx1C-E2w",
+        "place_id": "ChIJg8niSgD_0YURLYWgyMe8B9Q",
+        "reference": "CmRSAAAAYFYGilp7xbCa_acuPs76PSPrjEyRoNjqNXsMWL5QGOFbAnQup0Y4ZlnBvubTWrgjsAjbfYjmYs6aZseHFsjeJIWGIq90s5zSJxHKQwosFuZSaCSMK3C4LNvKZCyJipueEhBOPcmT7vlvbbDIx3GGfi7vGhR6gij_m2S9_dZPcNlzRq9oxUzyFQ",
         "scope": "GOOGLE",
         "types": [
-          "school",
+          "gym",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Calle La Cinta, Caracas"
+        "vicinity": "D.F., Privada Juan de Oca 112, Narvarte Poniente, Ciudad de México"
       },
       {
         "geometry": {
           "location": {
-            "lat": 10.5047264,
-            "lng": -66.8559908
+            "lat": 19.376787,
+            "lng": -99.1299284
           },
           "viewport": {
             "northeast": {
-              "lat": 10.5059016302915,
-              "lng": -66.8546101197085
+              "lat": 19.3782576802915,
+              "lng": -99.12856356970849
             },
             "southwest": {
-              "lat": 10.5032036697085,
-              "lng": -66.8573080802915
+              "lat": 19.3755597197085,
+              "lng": -99.13126153029151
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4b23c0e84778ada4350c2ff3964687aea3a66263",
-        "name": "Capoeira Humaitá Mestre Chocolate",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJGVlIHQhZKowR5Q4pMH1pDYU",
-        "reference": "CmRSAAAAdKKGiIbTVQOM5aN1Zr3oKgzKOiNNiVL4lr_o1RLGTbnUykP87JLK31usO9Pa6MjOdA1MN4ZwbYjN8ZoIdYK908H5GzJ-kh8Z_MUsw57cqps-8LzGlb88YuONOByM3VnMEhB2VcKPUklpCiV77b5Jg2ylGhQTkP9iMcFZdL8NuSqPjc-0ah4Afg",
+        "id": "e6fca182a2914cb2c3831a302088a4953d8f6598",
+        "name": "Capoeira Cordao de Ouro Ciudad de México",
+        "photos": [
+          {
+            "height": 600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108469036776083692941/photos\">Veronica Veraza</a>"
+            ],
+            "photo_reference": "CmRaAAAAe90fIDyAo_b69_hbMqPogid9QdbSvcwBiUbq94_mHPY5kUyb99H4cn-V_Xdppt74z7bS_4nQtQ9r_e84PBYeDrZi16WyHRvvEpCkWOC7HBxpaemyylsk0I6rzyfpaiXWEhCLdQhBD9crJ8BJsyAT3gUDGhSEnx0IWGV0Zgibb3KjEYxjEdnymA",
+            "width": 800
+          }
+        ],
+        "place_id": "ChIJC004blv-0YURXd8-24ydn3Y",
+        "rating": 5,
+        "reference": "CmRRAAAAQf3l4tllOUcJYQiPQ9pODBrpTfxXVQtg42tIBq_XyhpQ6Y_-FHmRksg8YtIdkzX3TmDAjNYkquPFq0_qjmC0LmwYKoFFDJJssmjvZS8oPENJ0_MMWPTqVpSopS-0riPpEhCSyG2g9AE-oA3eUCfHJbjzGhQO-ILRGLKZ0TI55ONpHqVEYcjOTw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Transversal 7, Caracas"
+        "vicinity": "Playa Pie de la Cuesta S/N, San Andrés Tetepilco, Ciudad de México"
       },
       {
         "geometry": {
           "location": {
-            "lat": 10.4948378,
-            "lng": -66.834029
+            "lat": 19.371711,
+            "lng": -99.15853
           },
           "viewport": {
             "northeast": {
-              "lat": 10.4961274302915,
-              "lng": -66.83271041970849
+              "lat": 19.3730608802915,
+              "lng": -99.15718531970849
             },
             "southwest": {
-              "lat": 10.4934294697085,
-              "lng": -66.83540838029151
+              "lat": 19.3703629197085,
+              "lng": -99.15988328029151
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "81d2a044c6693de47702a1d758cedc5789306fa1",
-        "name": "Capoeira Humaitá Mestre Chocolate",
+        "id": "5897c0e5d397f24ed329f284186c198499acbe53",
+        "name": "Capoeira Angola TMA",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
-        "place_id": "ChIJz-Miu7VZKowRYtT7z8lS2EI",
-        "reference": "CmRRAAAAoykRdgnKIeq0bhylTSCG1jhKenTknEaqQ5OBfPGty_Jg9d4_5Xx-gjwVsopNinz_RJpWHIaawMSlm1Obh4L5i3bqO9wV98q68lQ3HJlJgybmqrjwe28hDUWRCNOrWVR5EhBk_GnCR2PCAjUaUg1RdIbFGhQc8v8F9EI3sVccfMTrS2vgbkCZlg",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105242827109482896533/photos\">Fabián Galindo</a>"
+            ],
+            "photo_reference": "CmRaAAAAAD7IKoIVqMk0VyRuVAHDbtF8G0AzvYkVX_YgrHHk-iqT46YYOzSs-NhI4ykqt7tEg2F1UyVw2cEm0nKCWJGq0GZg9o84zucYE615gRoDgwmrhexF_c_QASFCrHDK5K1-EhDkFwz5L3wP0RziGVRX6ATGGhSkc9eAkyUuFtcjTy7qPGfRTLRhBg",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJXQ-UFA_70YURVkDlsDmMOaI",
+        "rating": 5,
+        "reference": "CmRSAAAAEwFt1WP3jLbMjX7l7MxePQLYnmPu8iqBaX1rbdVmRlu0lQ_73sDHzZpXzcj-lfAYkkfTKd5HEHEiCYPw0iBJDtiUamB155cKfLRyHqaH7DykKFA2vmAYFFkzGZgPGDGrEhCIMd_vb4mNSipa-JBdu1XLGhTNqA1iFw8ombraM4afKfOhPZGNZQ",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -172,34 +753,30 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Avenida Francisco de Miranda, Caracas"
+        "vicinity": "Calle Uxmal 807B, Santa Cruz Atoyac, Ciudad de México"
       },
       {
         "geometry": {
           "location": {
-            "lat": 10.4896419,
-            "lng": -66.8157202
+            "lat": 19.3490989,
+            "lng": -99.0620541
           },
           "viewport": {
             "northeast": {
-              "lat": 10.4909908802915,
-              "lng": -66.81437121970849
+              "lat": 19.3504459302915,
+              "lng": -99.0606959697085
             },
             "southwest": {
-              "lat": 10.4882929197085,
-              "lng": -66.8170691802915
+              "lat": 19.3477479697085,
+              "lng": -99.06339393029151
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "e4d7951491d82ec1d4d82317a51129fc0c677119",
-        "name": "Grupo Capoeira Brasil",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJHfHGySxYKowRhRVHxbbJv7k",
-        "reference": "CmRSAAAA5-AeWcGhPa4FN2Xe9uYNghbPnwP7Gar__pc_dploQYNNpSarJ7qRhcCSEiWbgGXuw3E5vdPxTDKqd9H61iQzx5xVQCxWdYj-o4X2I0v6pnW4ltRM8XihQL6wO9LOw00AEhAm63p8APgFxpUOnpr1kfNbGhTq8bWhkevPNBqgeM8iZmpiS_nnKg",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "17413ab904b8e5dd7b219b8b26fa11cf1260ed08",
+        "name": "Acorda Capoeira",
+        "place_id": "ChIJY1MX-4P90YURkDglO_y3uWg",
+        "reference": "CmRRAAAA9xVO2waMO8wNlc2d-P-JilgCGNB4_DohTN9bBmj3_qh_RH9WJDGmds7fJBEEguy_ZzCP4G-jRLeFq_Uw6mcDRtzEAwxippd4aJX-6cXxhmSjf7yWV8d0xcVOgzAo_sRmEhCsijoLZlBm8HBWgy1hQcYDGhSfMBjCY5noeA9KSvnAdRtXrR06yA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -207,7 +784,53 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Caracas"
+        "vicinity": "Calle General José María Rodríguez 68, Constitución de 1917, Ciudad de México"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 19.353155,
+            "lng": -99.157668
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.3544608302915,
+              "lng": -99.1563098697085
+            },
+            "southwest": {
+              "lat": 19.35176286970849,
+              "lng": -99.1590078302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5c262815749b2e372bb33eeef08314db6458abfe",
+        "name": "Icon Sport Center (CrossFit,Jiu-Jitsu,Judo,Capoeira)",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 539,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111157025481887165919/photos\">Icon Sport Center (CrossFit,Jiu-Jitsu,Judo,Capoeira)</a>"
+            ],
+            "photo_reference": "CmRaAAAAM16JnYchSBPe0-9HMkBpo6lelzC4Y7rAhB6CV3Zz6s8SnkbUQ8aEm0Oz0lDuQFPPpWeSKaXbiFv4fteq2MXKU7NAaqFsy8Y3jsO1JVSj0r1RUqozt_8KwiHbB6mqybtDEhB7H6Y89JqAFEKPkYedTFCSGhR-HRraDWPZh1Sht4ADk2KwPxo9NA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJZapQ7yIBzoURB6_iDIXQsc8",
+        "rating": 5,
+        "reference": "CmRSAAAA4t-lRdmBNfc_8af7Sdav_SS6stnMMHSqyzgD6On_zFUhU464F94CN66x7GyalpMQGIK98egovQKObRoKJ4YivC3w1eDFyIhlShbTDxkNuBDiaF9zjfkNa8B382I_tyfnEhA4gSv5ssj_LoT7saqJZ7blGhQxO7qleMdrvcVgM4YOCbJ_uXB4kw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Malintzin 11, Coyoacan, Ciudad de México"
       }
     ],
     "status": "OK"
