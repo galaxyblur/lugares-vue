@@ -1,66 +1,20 @@
 {
-  "city_name": "pretoria-za",
-  "city_rank": 132,
-  "city_population": 1619485,
+  "city_name": "patna-in",
+  "city_rank": 133,
+  "city_population": 1600085,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-25.706944",
-      "28.229444"
+      "25.6",
+      "85.116667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1619485,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": -26.043475,
-            "lng": 28.015513
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -26.04185411970849,
-              "lng": 28.0171474802915
-            },
-            "southwest": {
-              "lat": -26.0445520802915,
-              "lng": 28.0144495197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "322c6bcdc59bf9a5fb0de3e381422420ca65c350",
-        "name": "Capoeira Valente",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 800,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100212433415804490577/photos\">Capoeira Valente</a>"
-            ],
-            "photo_reference": "CmRaAAAApfBq_t2YPrmO1D31bJ9IIGSKXpI7zyvpxbWBzAmh6OJ8b_ENgeThK8Z_Eb30iAChxLbwCXy8cMzSH_onPx2Z-TVTDeN5XhdmsAB681PfCYcs78bUYdDsiwHu5-wGXYqnEhDknU9II_I9uESHwOPp3JkYGhTSixAX6e__j1ZUC0RkneiK_5jEtA",
-            "width": 1200
-          }
-        ],
-        "place_id": "ChIJfxdSRaxzlR4R9jxvbTSZNos",
-        "rating": 4.8,
-        "reference": "CmRSAAAAlfUVOyshV9vB90WsXls7PiyTwWlMIV8_AKCOmimz5ZuV1LlbF10hZ4jh4DF7rd1p2t1RjLC4ElpcjQ34KjSLUj_eDIcsmdYfZWczJ5Doe4dONXdUXJLjz3PGs0L1hazSEhBJfIcnhnNqeSA5jX7XbMMyGhT6tSmtpnB7qJr8mEpj_uKmVZEWiA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Sloane Square shopping centre, William Nicol Drive, Bryanston, Johannesburg"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
