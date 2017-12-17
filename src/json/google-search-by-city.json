@@ -1,12 +1,12 @@
 {
   "city_name": "kaohsiung-tw",
-  "city_rank": 146,
+  "city_rank": 147,
   "city_population": 1512832,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "22.6177778",
-      "120.3013889"
+      "22.6333333",
+      "120.35"
     ],
     "rankby": "distance"
   },
@@ -15,48 +15,6 @@
   "placesResult": {
     "html_attributions": [],
     "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 22.6272429,
-            "lng": 120.2997535
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.6285858302915,
-              "lng": 120.3010836302915
-            },
-            "southwest": {
-              "lat": 22.6258878697085,
-              "lng": 120.2983856697085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "9815c7be2c205eb3733befb66f970f478122fbe4",
-        "name": "真武會館",
-        "photos": [
-          {
-            "height": 915,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102637981700467973096/photos\">奐羽陳</a>"
-            ],
-            "photo_reference": "CmRaAAAAcnHs0CMtBjRiUJjoTIb8jjqKm2unsjU9ENJoynG-jc0WmlIyimGiUurRsZAJt0KKHQ0R0La8hSzGTJZxJ4QYBqfqKx9XbOoyK6IXkNqpKUFGiUM5LoZBeZxwDiieWtSTEhC_yXYnzbnuc5MpfmpjBMcXGhTB42eTD_NorJuF9JjfvnYRT36g6Q",
-            "width": 2115
-          }
-        ],
-        "place_id": "ChIJRSKneYgEbjQRtbBwotGPzAk",
-        "rating": 5,
-        "reference": "CmRRAAAAb0yl6iywpbDqSeUiKIr1vep5lsUtfggpgrz6ZAyFmBG4Epm-5Bx8mjHDXU-M0utS9baxmLt8e5K5bsPfl_eCK6F0OkQVkj3xeq9QF2YlW4UD0DlyX4I2DkSVHh8kE4i8EhB9A9vSlydH_-89gIhlyDxxGhS5j2VwX4LrwG8zLn5jUzWocSb9wg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "No. 6, Lane 229, Datongyi Road, Xinxing District"
-      },
       {
         "geometry": {
           "location": {
@@ -83,13 +41,13 @@
             "html_attributions": [
               "<a href=\"https://maps.google.com/maps/contrib/101629486460924432018/photos\">MANDY TSAI</a>"
             ],
-            "photo_reference": "CmRaAAAAnzcsN9RV2352UZSrPf74o7ZPHwaSR1ardjDxvmzOSr2F5od_3ZySKRvK_7H3OW4skxmD2OGtKvDLOkWfGFKQesTGlkNkhN2DpCPVRM074lW_5JqrR7BbWELjFE3H0y48EhC6SXuVoQd_EnFN7P8oxABpGhRal6yHfIoahm8BppFuof6Ij3F38A",
+            "photo_reference": "CmRaAAAAXxTUYzvQEkplxjCdy2c0htrWNQRVvSGVOrIaIfA7SFoaKqQO5MAfzFZPLVrsAoljMh1m4FJcBqLW8m2gG5doZqwi6YS16l-4DlVRthVxBzXUeqcEVblD85lC5jM_616OEhDNRpqlneN64dfJUUG3HnDDGhRcLRm30ZkLoEduCSL_p_kM54Zarg",
             "width": 4608
           }
         ],
         "place_id": "ChIJq2HBRqIEbjQRW_o0rvT4DKA",
         "rating": 4.1,
-        "reference": "CmRSAAAAZ-urNPa5JatU2wlMbnf7rN4HD6fK0ndFASo0AkakOsW7b0L7xuh9otXEjaii-KHe1RB5fW6hf_Gj1X-lUDNwTCWJGeDxOQct63Br1qbEV4VzmqwNAHF9gIk-yavyBeGmEhDByEg2QRdy6STy1ISbHkqFGhR0L5jsTVf77iaB3tanfOOVfN17yA",
+        "reference": "CmRSAAAAwd4IhWRFP3vrua5lC2Mr0D093CHEr-oO_KChnpWNPuwxMQdihokNgcE4iREzRWg8X28UAkaI3Lr3EDTHTLzcvlwWUzX3zTo9Pf879tP9_couGOcJnjgvL1P07HjkMDGrEhC0BPV7GYv4ijykLqxSEv0fGhRG8rJAIpyaBFEhkjiJCjZ8eOsZ9g",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -98,6 +56,48 @@
           "establishment"
         ],
         "vicinity": "號, No. 433, 和平二路, 苓雅區"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 22.6272429,
+            "lng": 120.2997535
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.6285858302915,
+              "lng": 120.3010836302915
+            },
+            "southwest": {
+              "lat": 22.6258878697085,
+              "lng": 120.2983856697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "9815c7be2c205eb3733befb66f970f478122fbe4",
+        "name": "真武會館",
+        "photos": [
+          {
+            "height": 915,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102637981700467973096/photos\">奐羽陳</a>"
+            ],
+            "photo_reference": "CmRaAAAAngi1Y0ViinjTsxOr1HL_EF00lruRstf2n3XvFtcLZVNAm5BF1VcBgtrGs8WRUoGZsfPZJA6IDkJMmqrdQYi_vpIIKPH-Br1VMXVDPWF_pFwTpQUHJ2jr44cCtlzc51dXEhBgkzoIakid3wB_you2BSUOGhQvZIdswxeYQd-aIM2uftSnwuTeOw",
+            "width": 2115
+          }
+        ],
+        "place_id": "ChIJRSKneYgEbjQRtbBwotGPzAk",
+        "rating": 5,
+        "reference": "CmRRAAAAGuqRX-gHobCg_rgzAT8n2ZZxPOpdTaxxAIVMNTapA6LJfMqcbmbzS3X3TQN4vS8L2_rM7OjQLm_ysQGgl6lLcB97rPC4Ji2xQvki2GNUJGPV5Dii6XHYc9q1eHCBO0VyEhBcVsvdsBbaoQ1tZ-PkBciSGhT8DUvD5qZZ64kKjISychxuTdpCGg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "No. 6, Lane 229, Datongyi Road, Xinxing District"
       }
     ],
     "status": "OK"
