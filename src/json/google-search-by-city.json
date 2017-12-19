@@ -1,104 +1,20 @@
 {
-  "city_name": "montevideo-uy",
-  "city_rank": 190,
-  "city_population": 1305865,
+  "city_name": "yaounde-cm",
+  "city_rank": 191,
+  "city_population": 1299446,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-34.8580556",
-      "-56.1708333"
+      "3.8666667",
+      "11.5166667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 652933,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": -34.9042873,
-            "lng": -56.1765236
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.9029841197085,
-              "lng": -56.1751510697085
-            },
-            "southwest": {
-              "lat": -34.9056820802915,
-              "lng": -56.1778490302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "38061719834f1654a2e5eaa760ab52315314655f",
-        "name": "Servicio Central de Bienestar Universitario",
-        "photos": [
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115668299457761923666/photos\">Prof. Marcelo Szwarcfiter</a>"
-            ],
-            "photo_reference": "CmRaAAAAsWDXarryvlmQ1FmVahYRF5WrxgfF0i9vG9bt9f6nKNVYMFMvXt5MGeGOPuOgeKTetc14kjpgf08i_n9EUPN4soCH4nLjsj3DCl6A9FJqZHbafJsCapuhnnQO0iqu13xrEhAxXMg89uDr2KQpSE1iq5c3GhRxJcrTQGBDNgDFxoAQJ6hLLZ-tvw",
-            "width": 900
-          }
-        ],
-        "place_id": "ChIJs2EEb7SBn5UR3Q6LCA-5vWE",
-        "rating": 3.8,
-        "reference": "CmRRAAAAtjzjAq3BrJ4EW-hsowIMwfXbm6YlX0LVRj-hMypdL6vkDvCnSsJWm-cQY0XpjnH0Fzh_NsbVb-EZOmTOPr6LulDUwvvrlpAFU5TuHKzCN0qaCW_Y-ElvYemHERpNv2j0EhD6eSP5YbHqsS18RX3odOwxGhQSMU_-78J0aFBiJlnomdD8zmp-Vw",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "José Enrique Rodó 1839, Montevideo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -34.9105747,
-            "lng": -56.1623367
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.9092429697085,
-              "lng": -56.1610090197085
-            },
-            "southwest": {
-              "lat": -34.9119409302915,
-              "lng": -56.16370698029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d399e74c6334252d079fe4f8a4a05d3809940805",
-        "name": "espacio eywa",
-        "photos": [
-          {
-            "height": 1932,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104192457226364744628/photos\">Pablo Castellani</a>"
-            ],
-            "photo_reference": "CmRaAAAA_MRK4woF5AxCkMjg3BvAKwVdXhQfSFhcSqaP84rFx2tGTqMG_NVehTnCK8tSpXbWWKW5Y-2zA90njX4us4x1aLginfz3bMCWq4VJuYVqOZ1eXEnqiJuZ2JXpApxo-Io_EhBmJvCA9inZC-sEdcQXx3UIGhTWto_BEHmlx5C0k5QHzwCxLRDlgw",
-            "width": 2576
-          }
-        ],
-        "place_id": "ChIJOR11wqaBn5URGbhoKdP1SRw",
-        "rating": 4.4,
-        "reference": "CmRRAAAAUvuubVCnecP7NttxphIDwyFG2fJWFtyZdKa59MNhl5NDIPujPh97pAMZm7U_RFZCTo15qdm9aTZjTO6Oc7vWMu7x91WkzAMsNcg1eSgZhf1_qgoYAmz2jkxd7JySZpM8EhCw-tr6AYglGKCwZcM-k1MiGhTU0B5YidmBVkudd4niHq86PXPtGw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "972,, Juan Parra del Riego, Montevideo"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
