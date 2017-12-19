@@ -1,97 +1,20 @@
 {
-  "city_name": "beirut-lb",
-  "city_rank": 204,
-  "city_population": 1252010,
+  "city_name": "shiraz-ir",
+  "city_rank": 205,
+  "city_population": 1249972,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "33.8719444",
-      "35.5097222"
+      "29.6036",
+      "52.5388"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 626005,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.8715655,
-            "lng": 35.5157304
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.8729274802915,
-              "lng": 35.5170062802915
-            },
-            "southwest": {
-              "lat": 33.8702295197085,
-              "lng": 35.5143083197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "912ecfb80ae1ad69331caedf03cbffd42836dde0",
-        "name": "Spin 360",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "place_id": "ChIJifKdGgwXHxURLFskcYqbfrg",
-        "rating": 5,
-        "reference": "CmRSAAAAkkBF0SBKOntnXSQDdYNQ-SpCaR46p4gwuzlI5QxOf4WNGcBXV8WmCqVdwhiAi-pKR1rtAy0Y_drvIb42Q6_lAofqv3wbu648dH_TMvtqNJnk9yHpcooAJ8pWgYAgszobEhDc9vCUcG_ExFT9Sw3WK_VmGhRbGFWRBhQRA-O2DC8jR_3tgbS_rQ",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Badaro, Beirut"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.8950904,
-            "lng": 35.4865044
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.8964393802915,
-              "lng": 35.4878533802915
-            },
-            "southwest": {
-              "lat": 33.8937414197085,
-              "lng": 35.48515541970851
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "e4e7a34dd7b2a3feecbe057336463b42b9335722",
-        "name": "Houna Center Hamra",
-        "photos": [
-          {
-            "height": 521,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101635369507765364563/photos\">Maya S</a>"
-            ],
-            "photo_reference": "CmRaAAAA1cyCmLVD9gdi8P_UFFVF6EtaXjbvjxjZIlpPywtmcQYevLs3alkqdQLB-trelocOiUIf8Zjgh49vQCfzsStiKlhmQ3WUE4IdeZrV5Hn21ZuHyfndBO9VXT6MUfZejXwOEhA0ac2Z8eySYEUMgt3xu6MOGhTRjX3n2AWHgb1y_rlWYuanB9LEMA",
-            "width": 720
-          }
-        ],
-        "place_id": "ChIJQ_7gSigXHxURerjvU_vDoUI",
-        "rating": 4.4,
-        "reference": "CmRRAAAANsguFSns34-lahMDGqQmtNhGIVSMsaplvojfd2Hzu5wLdScTOfc2yJyl4rfE-WuE_uq_XGtfMf0HgjJjVDtP6KvcDHz5lQCyDLZNjVNNL0wEPCOEoT1fvGxyrcgko21hEhAg0YZy3nAXHMxAZ6aaxOLnGhThJU-owr9ym92cbBMzD7YmLnTd6w",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Hamra"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
