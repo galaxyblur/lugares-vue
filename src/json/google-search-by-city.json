@@ -1,20 +1,55 @@
 {
-  "city_name": "peshawar-pk",
-  "city_rank": 211,
-  "city_population": 1219248,
+  "city_name": "rosario-ar",
+  "city_rank": 212,
+  "city_population": 1218497,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "34.008",
-      "71.578488"
+      "-32.946818",
+      "-60.639317"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1218497,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -33.0213848,
+            "lng": -60.63827369999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -33.0200516197085,
+              "lng": -60.63692406970849
+            },
+            "southwest": {
+              "lat": -33.0227495802915,
+              "lng": -60.6396220302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d654dd2f6e4834710ac096f7ac54e24fa32ceaae",
+        "name": "Capoeira Motomecanica",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJk7TJOHKpt5URlHoJl3rjWE8",
+        "reference": "CmRRAAAA5mQet3rHPV0rtSm8mABS97yy81FXfcPu-m8hAShqouqVDw2753jgle8YvlXBGW1YFqDBE5rTSMJh4DJGOLU-LHBug3j3y52ww0bkLh28VOuVZcH6laN8AteelXF7aA6PEhDh6qnTGtmZE75hqxgyXXO9GhQIWkZ9vbCJCwjG9ojAb2WL0jiw_g",
+        "scope": "GOOGLE",
+        "types": [
+          "car_repair",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Libertad 1889, Villa Gobernador Galvez"
+      }
+    ],
+    "status": "OK"
   }
 }
