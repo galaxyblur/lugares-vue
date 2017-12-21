@@ -1,51 +1,20 @@
 {
-  "city_name": "omsk-ru",
-  "city_rank": 239,
-  "city_population": 1129289,
+  "city_name": "benin-ng",
+  "city_rank": 240,
+  "city_population": 1125126,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "55",
-      "73.4"
+      "6.335045",
+      "5.627492"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1129289,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 54.993126,
-            "lng": 73.3546411
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 54.99447498029149,
-              "lng": 73.3559900802915
-            },
-            "southwest": {
-              "lat": 54.99177701970849,
-              "lng": 73.35329211970848
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5ba3f14eea46ae74a3f994fa6088e120622208ad",
-        "name": "Mundo Capoeira",
-        "place_id": "ChIJQ4rL5t8Bq0MRYsnAWJ08-cM",
-        "reference": "CmRSAAAACgvrbvCONGeVhZLc8hZYt8Y0x7SCk_c4eSp5ISsAay4wXMnSCuKxrIUWZtSCQT213L1wp5GBSb5CLGPi1M5NKVrXiTKBFfcXzuLGoo5yBQyJMUFF5maMgjnRUIDfw5amEhBaA5o-6bQpt8iZvqrY4YagGhSuGFyVlL_FCppXSGJ4qL4xSymH5g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Ulitsa Frunze, 1, к. 4, Omsk"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
