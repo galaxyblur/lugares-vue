@@ -1,20 +1,65 @@
 {
-  "city_name": "volgograd-ru",
-  "city_rank": 275,
-  "city_population": 1010331,
+  "city_name": "shenzhen-cn",
+  "city_rank": 276,
+  "city_population": 1002592,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "48.71939",
-      "44.501835"
+      "22.533333",
+      "114.133333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1002592,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 22.3031695,
+            "lng": 114.173632
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.3046153302915,
+              "lng": 114.1749749302915
+            },
+            "southwest": {
+              "lat": 22.3019173697085,
+              "lng": 114.1722769697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cbdefe02e842bbdbc587189ed33568dfb329fa00",
+        "name": "GCBHK Capoeira Hong Kong 香港巴西戰舞",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 566,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100018649367781382201/photos\">GCBHK Capoeira Hong Kong 香港巴西戰舞</a>"
+            ],
+            "photo_reference": "CmRaAAAAuEcnUnKRBHFgEQfDH23Ovl8KKRRTVq13qGBe64UWs0uwVTp1blY1RJxpq480Kxc5M4gvzaPPJ-84902dEuNlmgPkMD8kGJnNEHharEnLzWjbaBHeoDNu1YYk6S-arbQZEhCUYgHg7qwmYKtcQrSTwXPOGhTRbe52USZi-YxN3kvw0xbKmDvjng",
+            "width": 566
+          }
+        ],
+        "place_id": "ChIJk93w_esABDQRWrcPx5g6rpM",
+        "reference": "CmRSAAAAhHj-J5wkoNnb1L81__Ntr0cP-98dqUOUseEApPGCKdDT3JizW8CsYsCuWZEl295y5tZ3q38GW6iG5RgONG-4fgK4LmajE1Z7TH97dc0eRBWk6dnekCa0K1ly89Qp5SguEhB-YierhyMVMb9phzvA8Kw2GhSGsYEz8-9sr7KcKXZShPynxZFakg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Capri Building, 130 Austin Road, Tsim Sha Tsui"
+      }
+    ],
+    "status": "OK"
   }
 }
