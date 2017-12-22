@@ -1,20 +1,65 @@
 {
-  "city_name": "xianyang-cn",
-  "city_rank": 263,
-  "city_population": 1034081,
+  "city_name": "ufa-ru",
+  "city_rank": 264,
+  "city_population": 1033350,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "34.33778",
-      "108.70261"
+      "54.785167",
+      "56.045621"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1033350,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 54.741371,
+            "lng": 56.027021
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 54.7427199802915,
+              "lng": 56.02836998029149
+            },
+            "southwest": {
+              "lat": 54.7400220197085,
+              "lng": 56.02567201970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f760c837ad96ca70a7eb79a6f03fc636099ab745",
+        "name": "Kapoeyra",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102025637067116981812/photos\">КАПОЭЙРА</a>"
+            ],
+            "photo_reference": "CmRaAAAATL1_z1DpJ3t8RaJ2yHOxp_xZZOkN4vfgJwVSDNK9aLaglmBFdznexBQU84kdr_6h1rPhVgKsZOJO6zBpzTD_VqQ1JgFZdTQqOvRI4bTakFAgRoSBg-hcDR_5uyOSSqlvEhCKdCQ6okZcb9wMVbJQu-6aGhTmhl0C96J13JsXMS4IGlSHrRHzjA",
+            "width": 2133
+          }
+        ],
+        "place_id": "ChIJp6w-ktY52UMRE0LCtaqIt9U",
+        "reference": "CmRSAAAAuOdMR3-0MxV4I7mxeWc-lS-BYEmt7VmqjFALuZS-ByEV8zPuLb2unyJPeBHNJoBPfQnA_FBViVvSMi0VWcw3DbMvhYSDiVjxl3gYOErbTw1qmBVFh6Hzjl08rsBNiv14EhC3teckBh0_sXzyOQlKJGCrGhTAE29Cd6BhVxkt6rXFv_CAPBC28Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ulitsa Mendeleyeva, 205А, Ufa"
+      }
+    ],
+    "status": "OK"
   }
 }
