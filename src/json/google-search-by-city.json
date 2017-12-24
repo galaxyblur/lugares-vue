@@ -1,67 +1,20 @@
 {
-  "city_name": "alexandria-eg",
-  "city_rank": 40,
-  "city_population": 3811512,
+  "city_name": "tianjin-cn",
+  "city_rank": 41,
+  "city_population": 3766207,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.1980556",
-      "29.9191667"
+      "39.142222",
+      "117.176667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 3811512,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.19688,
-            "lng": 29.89823999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.1982289802915,
-              "lng": 29.89958898029149
-            },
-            "southwest": {
-              "lat": 31.1955310197085,
-              "lng": 29.89689101970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "87990bbed391a912510c2459bbbe4e161a93724f",
-        "name": "Centre Rézodanse Egypte",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3231,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102070818515763053838/photos\">Amr Naiem</a>"
-            ],
-            "photo_reference": "CmRaAAAA8H0q3nzK-WfyrZvDLhTXkLLx1u-wvXJjqc1xjWKtR9Sc19nte-dbeO7EvTzvj5z3oP7ENZ6ANRa60RE6R0jO-nzu-QqJVg1yipAc8hlF85viDBp-nLZ4sG3EQU_7ebDFEhCRiyrwOtCd_FGk14ZswyD6GhR6XMvm5DlXEj2JT9fxuZJomswmHQ",
-            "width": 2848
-          }
-        ],
-        "place_id": "ChIJMXwoou7D9RQRvtvuWotst84",
-        "rating": 4.5,
-        "reference": "CmRSAAAA0DixzJiaTzW3RCoWPuaFnHcQ8D9PC_9tVpSyFpCCpOmQ9pFc-32n3XmC_qPo5GK05KY4XDNdJ9h9RzW3sqM-QdA6_uNlySmwa8zjj-ZqFyL0_i5Gkq6SLxZ7oscvplAlEhAE4JKUFce0uw5K0viBXsWCGhQDHnopZNuq688EhfqrGDcmHFkqVQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "15 Rue Sezostris - Gare De Ramleh"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
