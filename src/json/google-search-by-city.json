@@ -1,20 +1,62 @@
 {
-  "city_name": "taiyuan-cn",
-  "city_rank": 71,
-  "city_population": 2722475,
+  "city_name": "jaipur-in",
+  "city_rank": 72,
+  "city_population": 2711937,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "37.726944",
-      "112.470833"
+      "26.916667",
+      "75.816667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 2711937,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.9013003,
+            "lng": 75.7825763
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.9027021802915,
+              "lng": 75.78392398029152
+            },
+            "southwest": {
+              "lat": 26.9000042197085,
+              "lng": 75.7812260197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7b7a8e66af76bc425a3dfcb041f7c875792bf192",
+        "name": "Centre for Capoeira",
+        "photos": [
+          {
+            "height": 4096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113392776372082580928/photos\">Ashok Singh Shekhawat</a>"
+            ],
+            "photo_reference": "CmRaAAAAmbRMdhwJwCk_upxjUnPTWYCftT39AIAZKvkkCTahur48J5a2irW25otCCMu3Pnpl07NJdlUXAf2JZd_pB21KkHYk_CovvrPn_NTaNl8wY-s4SHRVtkpaDiLWkd4qkGj4EhBlRb233xK_wYe0AGUtVIxeGhQa97duWMGA1wZyIITGhNr4DrAhlw",
+            "width": 2304
+          }
+        ],
+        "place_id": "ChIJqe5MuWy0bTkRLl769nSnb08",
+        "rating": 4.2,
+        "reference": "CmRRAAAA3-SFNHqJDNggagWzcJEuWk9rzlaY3Dyc4oJp-K2OjEn0Cd1STZdWe3k77sADRwc6SxR3WXmzerR0TRaE28NlQsNeaPVh95r3P1t8-clSgBTq98elezYSHSWEvZtxAs1lEhAmoj8d_Vix7_iW8Y1pZbqqGhQxkeiLBgEwvZHPoJ1BV2ZNJ3rZDw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "35A, Hawa Sadak Road, Dundlod House Colony, Hawa Sadak, Keshav Nagar, Civil Lines, Jaipur"
+      }
+    ],
+    "status": "OK"
   }
 }
