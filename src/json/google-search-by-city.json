@@ -1,201 +1,20 @@
 {
-  "city_name": "guayaquil-ec",
-  "city_rank": 108,
-  "city_population": 1952029,
+  "city_name": "maracaibo-ve",
+  "city_rank": 109,
+  "city_population": 1948269,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-2.1666667",
-      "-79.9"
+      "10.6316667",
+      "-71.6405556"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 488007,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": -2.1633204,
-            "lng": -79.8983073
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -2.161769119708498,
-              "lng": -79.89670606970849
-            },
-            "southwest": {
-              "lat": -2.164467080291502,
-              "lng": -79.8994040302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "bbb9c22a7e6233a175983e641a3bee4a33399d46",
-        "name": "Gold's Gym",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103452287386251006026/photos\">Roberto Loayza</a>"
-            ],
-            "photo_reference": "CmRaAAAAuGRk4glZqTZlBnM4IYuAoykXtArZlBfE089VJYsCj28AzAPfIyIYnf3N1_DUrdyv5eTTFf8MPgC3e7stFUKeyr9pc326hBbZ4ZZS7tl6uOItztdT8kKxoziXFndYu28FEhClQZ3P4tadvjJsUXvB-cGbGhTnrsoMKZS9JxjBBqC3KYzeZxhmqQ",
-            "width": 2560
-          }
-        ],
-        "place_id": "ChIJdZOFR5ZtLZARV7oUAjedoXM",
-        "rating": 4.2,
-        "reference": "CmRRAAAATzO_wLvWEKhgsg6wDHdde83z3gJ2gITDE3OP8fAaraKa9JmQQEePPu_APdSzBBe51u2p6OP7s5UGA6phXHQ7tg88CqMDlfhe89yVfwgQz0hIgcYOiwP8O5q6NtYdhSLuEhBkfV97NgmIv8HzmckNvBW7GhQmlr1mkGfpfiEXWEzZI7apNIzKdQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Edificio World Trade Center, Avenida Francisco de Orellana, Guayaquil"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -2.1400328,
-            "lng": -79.9044523
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -2.138683819708498,
-              "lng": -79.9031033197085
-            },
-            "southwest": {
-              "lat": -2.141381780291502,
-              "lng": -79.90580128029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6388dc8b9373adc8778d476f9b91c3f480114eb3",
-        "name": "GUETO Capoeira-Ec",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 368,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107522205233145659267/photos\">Joao Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAADlg49Ocvq-mb-PtvjHtKwBjyrkg5UQDIN7-zIwZEQIyyHoxIreML0trxgfWs1Ax9nYICDw11oi2b8EKqe31y02IBrle9MCM0NKyEcRI4vGzfkeXF5yyAxTu6eZmE-6EWEhAv2bQRiG0OMSa1kFx0V_LNGhSFlKMj2XFH-yykL7xz1WOWv0jgdQ",
-            "width": 552
-          }
-        ],
-        "place_id": "ChIJTYxHOm5tLZARX6lRgudD-3U",
-        "reference": "CmRRAAAAW6-_25kocVPUQqPmPua5i9zoI5Nxpu6tY_w-c0mSJ28u5jYfVvob5_mVpcNdboEu-h5H8mSvQa6IY8FgbU9emjhSMnZPUJ9gIrMQEdgaYO_ibSy2Y0ON43193dPH0WcXEhAxm8UzsS_Bxa97OVHCm6isGhSevcLEZcmAvYnYucr_XVELU1HPQA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Guayaquil"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -2.1303118,
-            "lng": -79.8641092
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -2.128962819708498,
-              "lng": -79.86276021970849
-            },
-            "southwest": {
-              "lat": -2.131660780291502,
-              "lng": -79.86545818029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "eee95a303bc33107687be95bbd78200150c5af58",
-        "name": "Capoeira Nagô GYE",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109513801004268466299/photos\">Pedro Molina</a>"
-            ],
-            "photo_reference": "CmRaAAAA5poKWws-dgV9oV6Ha50X3qSVea1AFykeCp5xeEUVkyGtsc6UTTk4m-mseiP1HBpVlTcvwYJjESes9lbb-hhaJlJ0wtiFWljO6lbShy2p6RR5m8R2vkQl9QK3j8oFKUX1EhBPdx3gtaSx58fcz-unR-jsGhTDwe0HDZFIXH2PQLJX_bQC_NU3gA",
-            "width": 4758
-          }
-        ],
-        "place_id": "ChIJVccyRd1sLZAR2rptfTLHCzI",
-        "reference": "CmRRAAAAkPmnfK0Z6_h5fyN-DfOEe0g55ica3Ku9XmcCLjSPMFPFRYp1jVc-TzudH3wOsLC-co5PhcowZ59s99LA4LXglChvIfZQoUqnhqBmsyTS6HQ0W6Ns1DGtC9BUebi1GGOiEhAO9YOBOdAz8E2IMfWH9q0rGhTl-dLZMMYHRIvlHy60eFi_isvcBw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Samborondon"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": -2.1839736,
-            "lng": -79.9832589
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -2.182624619708498,
-              "lng": -79.9819099197085
-            },
-            "southwest": {
-              "lat": -2.185322580291502,
-              "lng": -79.9846078802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "e3c8310462271200c5eed1b7cbad042ff36c067a",
-        "name": "Gold's Gym Vía a la Costa",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115805186261614690654/photos\">Walter Minhoto</a>"
-            ],
-            "photo_reference": "CmRaAAAAC8tQRZ_nW0YaI0U0Pj72ADrrdaoZnslx-tFUVw8vV5wutQBYfo-pRZlQFAaCVq1pXeRRKYlsC_xNFIiFiy8JyYon3CqXQB2-tseEEMN4_MmL1g6MbRw7730NokHcssseEhAxZlrChOHwAXNOp9Zmw0YXGhQcb-2Q7-7ZZBPygtMeCcsMN6v8pQ",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJP-WfNtxzLZARN6RIURBSgEQ",
-        "rating": 4.5,
-        "reference": "CmRRAAAAJOd8kZ6nFtIx_QmNhA3hHV-iJA2_u4a59_wrRO5mpcpnvlRvM3hJShQwKdlr2MY1fW7uwlonA-X5Ud_a1VD1sNV0G8JtKbYWpg1tgMZlYXdpPAoGCiLS4eb2zRBf9uHaEhDvXGcYipJDUHL1sIW4PwLSGhQiaWKIP5PXybt7KOF48vjwkjCPMw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Vía Colonia, Vía a la Costa"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
