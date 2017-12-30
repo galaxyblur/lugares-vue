@@ -1,62 +1,20 @@
 {
-  "city_name": "montevideo-uy",
-  "city_rank": 190,
-  "city_population": 1305865,
+  "city_name": "yaounde-cm",
+  "city_rank": 191,
+  "city_population": 1299446,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-34.8580556",
-      "-56.1708333"
+      "3.8666667",
+      "11.5166667"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1305865,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": -34.9042873,
-            "lng": -56.1765236
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.9029841197085,
-              "lng": -56.1751510697085
-            },
-            "southwest": {
-              "lat": -34.9056820802915,
-              "lng": -56.1778490302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "38061719834f1654a2e5eaa760ab52315314655f",
-        "name": "Servicio Central de Bienestar Universitario",
-        "photos": [
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115668299457761923666/photos\">Prof. Marcelo Szwarcfiter</a>"
-            ],
-            "photo_reference": "CmRaAAAAVsF-5yrNFu0u3rKvtD9Hycr4v-eCDNlvnkHPpADzxHMU1x92ERcG-Xn6OR1i9tMpJqmu7RLSw_lQj4eeR521UgtclOa3tKC52DnO_tgIaNO_q7OhS6nqU8OCgUJdekrAEhDBc4VmvpUG4XcDTCRK44PqGhQQgYMoT3b30Z-8QMdK6xDNqaV1rw",
-            "width": 900
-          }
-        ],
-        "place_id": "ChIJs2EEb7SBn5UR3Q6LCA-5vWE",
-        "rating": 3.8,
-        "reference": "CmRRAAAA3UVzo_eIYXTws0N8oG8pcW1zJaL3dF6qDxqoZAM2sNssznCVA4QsiMokAzWiOpZ-cXseIKTN9cNdxfsgAN56dYNSUBDvCNR_OtJdE9lFgBBdRvSNYn8pMdOLvEYLHnK5EhDxeV2WLO27EYwDD8YPwAs0GhScQbjFBKZnLlUpgNvCYJqB-1pOuQ",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "José Enrique Rodó 1839, Montevideo"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
