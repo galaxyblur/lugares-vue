@@ -1,20 +1,67 @@
 {
-  "city_name": "bamako-ml",
-  "city_rank": 192,
-  "city_population": 1297390,
+  "city_name": "semarang-id",
+  "city_rank": 193,
+  "city_population": 1288221,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "12.65",
-      "-8.0"
+      "-6.9932",
+      "110.4203"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1288221,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -7.023722399999999,
+            "lng": 110.4027134
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -7.022373419708496,
+              "lng": 110.4040623802915
+            },
+            "southwest": {
+              "lat": -7.025071380291501,
+              "lng": 110.4013644197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b95386bc99257d329d909f59c7a37c8bfb7c4832",
+        "name": "Capoeira Cordão De Ouro Unika Soegijapranata",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 864,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117362148752026353471/photos\">Mario Eduardo</a>"
+            ],
+            "photo_reference": "CmRaAAAA_3KvDI5r-4Hy7LNdmlKCTB8nQaLKjPwfGnuvufyKZ3JVVu-9-GkvwhVI_NQhf1j8cPNCet2GCUqr8N2eAE-9A4LhE9XBgO0PXZz3JCkoil-YIpzYhnsvqPQvqf7_ARJZEhARDFJXg4FAD_zDvfz8_YBoGhTtbkmdIGHY0ao3EQk6Eh3ivDsEww",
+            "width": 1152
+          }
+        ],
+        "place_id": "ChIJi_V8nJiLcC4R7gBWDOv2DfY",
+        "rating": 5,
+        "reference": "CmRSAAAAe2RGBAII5lDlek09nz11Ksh3tFh3rUUNxjs_VVMzlFDNEUs7Ka3ZfyuXWvcRFtuTVz2vbS8JtbjV2SYK7nuIK0B-Ke3kqYlVWz6eis7VIFKwWcTcOQ4YEgd5ALLRXevkEhCLd9UVIrWUn4txrbpjh2OPGhRvJjwuBAeQcNIqte3skjwmgi8Tnw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Sport Center Unika, Bendan Duwur, Gajahmungkur, Tinjomoyo"
+      }
+    ],
+    "status": "OK"
   }
 }
