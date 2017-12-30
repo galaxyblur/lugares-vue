@@ -1,20 +1,56 @@
 {
-  "city_name": "douala-cm",
-  "city_rank": 187,
-  "city_population": 1338144,
+  "city_name": "makasar-id",
+  "city_rank": 188,
+  "city_population": 1321832,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "4.0502778",
-      "9.7"
+      "-5.14",
+      "119.4221"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1321832,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -5.160909999999999,
+            "lng": 119.425761
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -5.159561019708497,
+              "lng": 119.4271099802915
+            },
+            "southwest": {
+              "lat": -5.162258980291502,
+              "lng": 119.4244120197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "5ec89f78afb3cd9808d83d14b515b533163e05b0",
+        "name": "Capoeira Azizah",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJacFzm5jivi0Rg8Dyr7hYxa8",
+        "reference": "CmRSAAAAqWWRKXOYyWm4A12vc6hqSjrEHDGPlOXNhZqe0N-Y6zHnYX6wIha7EPAifelKht5B3DGZnm327sKZZ6vYwQMx_W3K94CQu4PyMyHNyKRVVWMIz3j5NKMO2TLXJAnJvMH0EhCb3RmPSiB99bcQLuAtZh3CGhTo8IN03ImmUzUw-gfCKOt4jupNzg",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Jalan Banta Bantaeng, Banta-Bantaeng"
+      }
+    ],
+    "status": "OK"
   }
 }
