@@ -1,16 +1,16 @@
 {
-  "city_name": "san-antonio-us",
-  "city_rank": 201,
-  "city_population": 1256810,
+  "city_name": "stockholm-se",
+  "city_rank": 202,
+  "city_population": 1253309,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "29.4238889",
-      "-98.4933333"
+      "59.333333",
+      "18.05"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 314203,
+  "people_per_result": 73724,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,176 +18,686 @@
       {
         "geometry": {
           "location": {
-            "lat": 29.44316670000001,
-            "lng": -98.4785059
+            "lat": 59.33170399999998,
+            "lng": 18.0465223
           },
           "viewport": {
             "northeast": {
-              "lat": 29.4448630802915,
-              "lng": -98.4770628197085
+              "lat": 59.33306458029149,
+              "lng": 18.0477860802915
             },
             "southwest": {
-              "lat": 29.4421651197085,
-              "lng": -98.47976078029151
+              "lat": 59.33036661970848,
+              "lng": 18.0450881197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b0daf2a09b6536e8a0d90091b53f1676af794099",
-        "name": "The Synergy Studio",
+        "id": "272a87511d3074383e65cf583ce7b35ec7276481",
+        "name": "Dansskolan Yogansa",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
         "photos": [
           {
-            "height": 1200,
+            "height": 1536,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105351548488815020113/photos\">The Synergy Studio</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/102679466356744543025/photos\">Dansskolan Yogansa</a>"
             ],
-            "photo_reference": "CmRaAAAAqsR7dDsx0e_1aqMKEinizrNo-KRoHRqIsvXS2dvRo50kvpYt1LQmRqrxdGdDuQHaqyS9eQBiWLdroVAeoC-qFxompnhE9apmHOSD2lfxamb9BXXuBUDF60yst2zysaaVEhDMkARXrMQrEjOQG4aXuqebGhS9wzfSnqPXRwjdexjc2396JtUBEQ",
-            "width": 1600
+            "photo_reference": "CmRaAAAAvVoIwS72Zed4JVZk7hVl0YSnlDyS8k4EpO2vXsYeqDEYjsj4Mv8oQKSzqPMiWj4sLN0SxhdLUpJxQ02GE0EwehEG7uHOvgyampqs-2OwGRZI_1WLIw-Ye8h3CPZ-DYNZEhA5sc0AigeyT-t5Ld5v7bvWGhQhMVEfWXtgzmfIalxGMh4TKjl_KQ",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJAXRL-_P1XIYRBHsRilcXX6I",
-        "rating": 4.9,
-        "reference": "CmRSAAAA0WhU3QcYzcIBGVaOWB0F74qa4JK8Wfs030Te0iDma1Mmf1cGT4pf259VLpKFTjEUiCRB9AXUV9x_nCc2rLweQ2OcGFGvr3awjKOjqglGdeeIxOZ7h9_e8W7YhzcM0RhrEhAvuM-1c7dV8mqtUl_X69f2GhS2zrECo4_U00mvudtri4CGTgfcKA",
+        "place_id": "ChIJCbMKRWKdX0YR5YH0GhBJUvE",
+        "rating": 5,
+        "reference": "CmRSAAAAW4wyHDsOP-5qZe-ffks2INwgjrH8Q7OILw-eIp89bKD0vyKETTmOVvDiCjBM3W0gOdWmhQX-Hhbuk1npi2zeBVotAWBbeSIPUzVzBeD3ikQpmoHxh1oisDd55CJk4BxzEhDw0Rj2I9l1dn2gVqLfNQUzGhQKCuOGeggRrh3vsCOAFfvFWNT2Tg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Pipersgatan 26, Stockholm"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.328796,
+            "lng": 18.01461699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.33012118029151,
+              "lng": 18.0158158302915
+            },
+            "southwest": {
+              "lat": 59.32742321970849,
+              "lng": 18.01311786970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "1887e71e41d7a84065f461aa2935dcffe1607629",
+        "name": "Capoeira Guanabara Stockholm",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJDa9uXSt2X0YRQr0dOBPCDAQ",
+        "reference": "CmRRAAAAzGcFh3Yo7G0FXR40syCiB1dWktqjB472J-8P6HM24x3xmd0X0cEajfVQz8adXA54rJrrLRKs-xr49i-4XgSrfn2sCeHClvkGRPAW6T1NtCyX56FKxEpULqyN4BMwI8qREhAS9lMCjaaoe6m0CePuHOeRGhTK3qWHLDHYfInMDUXxyaBofA5i9Q",
         "scope": "GOOGLE",
         "types": [
           "gym",
-          "spa",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "300 East Grayson Street #100, San Antonio"
+        "vicinity": "Konradsbergsgatan 2B, Stockholm"
       },
       {
         "geometry": {
           "location": {
-            "lat": 29.4433008,
-            "lng": -98.4785515
+            "lat": 59.33361029999999,
+            "lng": 18.0874483
           },
           "viewport": {
             "northeast": {
-              "lat": 29.4449380802915,
-              "lng": -98.4771244197085
+              "lat": 59.33494523029151,
+              "lng": 18.0888688802915
             },
             "southwest": {
-              "lat": 29.4422401197085,
-              "lng": -98.47982238029151
+              "lat": 59.3322472697085,
+              "lng": 18.0861709197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ed4515577dcced74a15e8262e43c9a16d1d2ce6b",
-        "name": "The Brazilian Capoeira Academy @ The Pearl",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1371,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107820253103939925425/photos\">The Brazilian Capoeira Academy @ The Pearl</a>"
-            ],
-            "photo_reference": "CmRaAAAAr9nNVdomjuke0NUMq_p7ZfIT4lY_g4aEEOpaPxcmnfh5SUTJv5atoLmGGeFFVjgnte3MJlH804S4yZjL2bIDpFIfHBTb_yb5UdCvDkGDL8tkHfgGb7iB9-sdVnGLdg1mEhDBCgyqEe9D3N1EtNrBYmbvGhShvUPu1ehzSvQ9Zb2dWwg3FPPUUA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJA_aaVfH1XIYROjB6rQFDK88",
-        "rating": 4.2,
-        "reference": "CmRSAAAA0YFMoVFryXMV-6hcM4jREL5seKg0bPWkz6RXn_q8ODVrgqim91p5uJ2ZROH35Yiv5K96vENY8wtw4RKCnJV161HRghk8Vn8o2wVDVouHnBnWpWIkg29y32KLlvAPuEjUEhBp2b3WUGDVBppCzvB7ek2_GhQPoo8yOfiQiLW7nI-xsz8TM_CYZA",
+        "id": "ee2ea87d286bbf316c2605a538a27a7605a89535",
+        "name": "Capoeira Abolição",
+        "place_id": "ChIJj5kKfKR1X0YRxXSQR7_WwZM",
+        "reference": "CmRSAAAAErjie0uakmH-_HEM6fP0ztV7Y0za5RK3PMtBke065JHbTTFVe2cWFQ4XJymdsDQZO44jzp2oI58p83ElprppnGWFCf9QxEuQ3vjJrWwklSr7qOzqN43-LR6nrtZp27pcEhAAoz8t2t9Dxc3n3ewJXD0pGhQMYO2u7ahmI5awpQYnvZIcbwjtFA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "300 East Grayson Street #100, San Antonio"
+        "vicinity": "Grev Magnigatan 17A, Stockholm"
       },
       {
         "geometry": {
           "location": {
-            "lat": 29.4511831,
-            "lng": -98.50537299999999
+            "lat": 59.314792,
+            "lng": 18.059644
           },
           "viewport": {
             "northeast": {
-              "lat": 29.4524581302915,
-              "lng": -98.50402396970848
+              "lat": 59.3161909302915,
+              "lng": 18.0609676802915
             },
             "southwest": {
-              "lat": 29.4497601697085,
-              "lng": -98.50672193029149
+              "lat": 59.31349296970849,
+              "lng": 18.0582697197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7b783d321c15cac9d6a86e4b133f3c5c23fe7995",
-        "name": "Capoeira Luanda Ile Bahia San Antonio",
+        "id": "0d694e47ace851bf50bb1d9f3f2a2b5bb2bd04e6",
+        "name": "FLOWStockholm",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
         "photos": [
           {
-            "height": 2268,
+            "height": 600,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105951575263282405733/photos\">Henry Malone</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/103924845130497731828/photos\">FLOWStockholm</a>"
             ],
-            "photo_reference": "CmRaAAAAYeQP7QziBath8LHu7c56yWaS_tY9YGxfQ5Oj-Dl-UNLRofQiq3LOFyNh32_8fHvuNHspF1bWOw3b5U5lwICR3-DJeLztB1Uv2_DMmBCU1Sq7tc3HczgD8iJ2E7dl5pwFEhBryitgcBtobosO2p3CbzkbGhQM3WMbhPAndXlOikuATDX_xjGOYw",
+            "photo_reference": "CmRaAAAADZPLA7KkBO29AcFQI2C8z9QheGdcP6Pn70Lf2rAHwpYGqDrI_tOEkUWXuPCNp_FJoFMtgEXKq6li0Ffym3-lfajISZ33TeAOJ1uRp8tmwMJY6dSbogzYRbZu1W1mMySnEhBfsgk0XKLncAFdQHl5VG_tGhR9luD7zVilaH7tqZG75iVhLxRWkQ",
+            "width": 900
+          }
+        ],
+        "place_id": "ChIJdYu7Re93X0YR6ynezhIThqI",
+        "rating": 4.8,
+        "reference": "CmRSAAAAMBRwJ-OqLoCmVwOxtCoH5ovMdL3wj9AWXElOE7aARyf4Z4Nov92DWco-_lEPTpiEsQySRqdBR4dEnYh7l7B0ekC4eB-uytwEuI52gmNIz4Inrrmb9llV-5rKYS3HU5XPEhDzvw649KqEb23JHDJqkVgkGhRybUrQFm6dFtaLQf6c8SXt9Q05DA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Högbergsgatan 93, Stockholm"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.35215829999999,
+            "lng": 18.0691165
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.35332778029149,
+              "lng": 18.0702766802915
+            },
+            "southwest": {
+              "lat": 59.35062981970849,
+              "lng": 18.06757871970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "16fcf2ea15d8be3bffc6a3c5ab9c8cc630de2eec",
+        "name": "KTH-Hallen AB",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109961227547402821987/photos\">Hamidreza Fereidouni</a>"
+            ],
+            "photo_reference": "CmRaAAAA3D4VZiWotWLrtRVvdxeZmJbXuSywB_WvRIyyfkfBsAvm15hNbeVvDFeJ-IlSMMw0qROhoM1_al7Ycgdvwpv93q8h0_dgxPTsZ7jMDdP0cNMyyRgOt9e0mZDDkppGL_pOEhAhOY_gp93YYEQ53Scg5RMLGhR-VGQc3af6RhEI8tmYKCxDDpyNVg",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJOzpOkhSdX0YRt5fE0wKSAL4",
+        "rating": 4.1,
+        "reference": "CmRSAAAAFjnOuxuH5xi9nsDZlYsvZ9STpwd3Qjm2pitEvwzg5aF8ZC2-0efOJVnOFG58mPNRFD9SsaatASqSMukWw7btV7d0WmlnBv-pF5bQtXp-AdPGxL9bONHhXT9r7n3ApMCKEhAsiXisfkj2EbV7J_IsMaFtGhQPKVEGxc_Sa23j1VFanNKShAqE2Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Brinellvägen 38, Stockholm"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.33913099999999,
+            "lng": 18.099996
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.34047998029151,
+              "lng": 18.1013449802915
+            },
+            "southwest": {
+              "lat": 59.33778201970849,
+              "lng": 18.0986470197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3645851dd5db1dbe4a2f6d20190e0aefb35261a1",
+        "name": "Capoeira Malungos Sweden",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 509,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106668179245916630910/photos\">Capoeira Malungos Sweden</a>"
+            ],
+            "photo_reference": "CmRaAAAA86jf94UJkJeF7BCEICYaxq9NWsWYbut8EF4bAV45XgpsAsnz2eO_6K4-wwTAyIUx_LC0gaCq7BtnDWnOsdaHImAAI3sa51XDP1epnTMj-GqEshtqcb9n5B6tbbBcYt9DEhBblE49VweLe3JzK_wgZG1YGhTTN5gSP5XlVWl6nuF7r2GlKbmz5w",
+            "width": 510
+          }
+        ],
+        "place_id": "ChIJI-E8ckydX0YRfQ780U2xeQs",
+        "reference": "CmRRAAAAAsu8AfuAI4BPDzMG8SU9gTM4c468yMiKFacK4JjMnbK8DF7BruNH6y3CmACvq0drcKlKUWUmKj8yXBMwW_d2qROJPcbXMcjDAfS-U0S0lU4JEhqAPqo66ABc2edUYireEhANokgNbrcJOOB2Ztb7IYOVGhSGgx6ZCd9EaT-VdTBrDI5ignpz0A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Västmannagatan 21, Stockholm"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.3087037,
+            "lng": 18.0926186
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.31001218029151,
+              "lng": 18.0940842302915
+            },
+            "southwest": {
+              "lat": 59.30731421970849,
+              "lng": 18.0913862697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6934c6a50d37af3ab7bb426a41c93aa4d1811d45",
+        "name": "Stockholms Barnidrottsförening",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJw1GkjRx4X0YRY0CFWBeTnQo",
+        "rating": 3,
+        "reference": "CmRRAAAAK690sMl0ECwa14Nyo-rpvQpo0D1kzOtCJAaR4hCIY44ws1vj1nsdMCERn47uqcKtLHWiW65HdgfICUChv0FxZpjvaBqRPQjBeEhdHoz_od5q4-BUVuSQ-gC-Jb7mzfWXEhBO7JaK7EU8x6kYEr-jbRkJGhR79c0YkLkQyrA1ToEbwXV-a9aByg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Färgargårdstorget 1, Stockholm"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.3535963,
+            "lng": 17.99835
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.35507238029151,
+              "lng": 17.9997208802915
+            },
+            "southwest": {
+              "lat": 59.3523744197085,
+              "lng": 17.9970229197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "db5bfc6dc3adb831f70a379ed8923876b71307c8",
+        "name": "Core of Culture",
+        "place_id": "ChIJ74iaepOdX0YRID9KXtXxvnU",
+        "reference": "CmRRAAAAKvek24yRhXiH6QloNWY0alIHcGa-iOM7MSgFThrwm8tWkbmRwqiU_c5Kiz7Ihk3X2qyIEMw4WlNxVeExqw_mFKtCHf49YtFTWgmY2xAUpMRXov9yfok87czpEzN9xyu9EhBQYCp5lhchqBCG6F12XG_ZGhR5MpDD343Nyj84BOzN7-Y9a__2tw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Storgatan 17, Solna"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.312509,
+            "lng": 18.10858
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.3141053802915,
+              "lng": 18.1099324302915
+            },
+            "southwest": {
+              "lat": 59.31140741970849,
+              "lng": 18.1072344697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e611482dbf9cf1360305bf5ff8e4e100a113889b",
+        "name": "Academia de Capoeira Gunga de Ouro",
+        "place_id": "ChIJzblVYw94X0YRPQoMRWXofh0",
+        "rating": 5,
+        "reference": "CmRRAAAAtMrtQbrqTlWVWDsidUUUErm3kgCawozueQTDpcC61GMREUXNwpDO9GvWdvrHtnu-ymDppWCWUdUC9hJohUoQvayNsvsFDb0sMrBLOp0LmmMtXUqP05-Rt5HxMbnka3VkEhCqXOA48G5EFe0PTLeTY7AWGhR4aULy9s_x3D2Wk5NSFNsWdNvKpQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Hästholmsvägen 22, Nacka"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.3335057,
+            "lng": 17.973246
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.3348697802915,
+              "lng": 17.9746053802915
+            },
+            "southwest": {
+              "lat": 59.33217181970849,
+              "lng": 17.9719074197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9d31c035b9355528aabf07929828e4f8cf08d7ea",
+        "name": "Nexus STHLM",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 728,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111806413623381978131/photos\">Nexus STHLM</a>"
+            ],
+            "photo_reference": "CmRaAAAAeDfeBOUaNtCsMsneXubX6sqfkEiqLCYOHnwMpxfBWz2D_4fd04SYIUAl7e1fZmW970YKphAQaxjvTzcv6a9sR3frh9RlmSEijRvDq-QeC1k_vLPiJrN7iKPA7pTi1nG0EhDaE-4GyLw66TfLssihOAo7GhTN8kNGIk7QMZhkAhJIABpW8ElstA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJGxeYqfx3X0YRcGzkizqbtUM",
+        "rating": 5,
+        "reference": "CmRRAAAAyJj8Kho8KCEixIpAJkc60RIqOderDPqANTr4xGnFi-X4iyYjWjIb5QsXDE0c1ysmkInkVlyUzEgG3euGesxHutAY71Q4zQRgq0iFbDCC3BWXUKxPOZtXkEiWh1wxO0iiEhA7vNLGoNalDuJSb6tvdj-9GhT5CIsp3vGtEHprSCFnDMXKAPFZTg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Drottningholmsvägen 185, Bromma"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.3576048,
+            "lng": 17.9736698
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.35880613029151,
+              "lng": 17.9750575802915
+            },
+            "southwest": {
+              "lat": 59.3561081697085,
+              "lng": 17.9723596197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e1f9f80aec071f068ddd3bb649e98fe2f0d6feb2",
+        "name": "Crossfighters academy",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104899142084937832613/photos\">Crossfighters Academy Sweden</a>"
+            ],
+            "photo_reference": "CmRaAAAAcEXzAmv4p3dXHMr_uyeLw0dt0Vv0DQfpA7aPI-XLxMP4iODhHt_a6JLOrsKLfEWgF9kVq5tssuthXPiwojE-FT3C2kSqrSQ0nyIe2Qrzgn7VWTEtjyi6za0hqm_cumpVEhCTtbXxtXkr7RxveGSDGizrGhTh0yV_vXqaGcFlGiEJjePbznIxsw",
             "width": 4032
           }
         ],
-        "place_id": "ChIJMS9WOmtfXIYRXbvzKaX2rkE",
+        "place_id": "ChIJQb383uWdX0YRg2I78-dj3UU",
         "rating": 5,
-        "reference": "CmRRAAAAXV193Z1iFv_OCcEnUJHl0buiA64rPyP4eHu0Ggb_PZajb-AhwSo5gUFD8OxyCZ22QUcVnTEL6VAmDcyT8OniqvEY-eauUbkiwAcrIif7B4HbrZdIjfNWg_3woik8zLIZEhDiRYsjKqNX77-TfQyOmpE7GhQbuVZVWL5zxDHGuSDRZJAUM7h1rg",
+        "reference": "CmRRAAAAg_TDdoyABMCOay-FD0Pt1YBeU4M-GGL2Nmx9t2vxBjnUtbS29OBVeRVUly661YxEj_m6STKyjmuwkvbjGW_AsdNRZAiE0xGf8iFdYgEhfGenjOu5GX_ngvTlXLtqoIGKEhBUZiqhaN9wYAyvKm7378aFGhT3tEoSmmbIHiBwnfZctpcCREo1wA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "925 West Russell Place, San Antonio"
+        "vicinity": "Trädgårdsgatan 6A, Sundbyberg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 29.5960961,
-            "lng": -98.57402019999999
+            "lat": 59.3565493,
+            "lng": 17.9708504
           },
           "viewport": {
             "northeast": {
-              "lat": 29.59712603029149,
-              "lng": -98.5724782697085
+              "lat": 59.35790283029151,
+              "lng": 17.9722728302915
             },
             "southwest": {
-              "lat": 29.5944280697085,
-              "lng": -98.5751762302915
+              "lat": 59.35520486970849,
+              "lng": 17.9695748697085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eb551fde4e924bb09788d397bf6fda64dc2506b4",
-        "name": "The Brazilian Capoeira Academy: San Antonio",
+        "id": "a1a12144ff53e936a56dfabd2955d8a5658a6528",
+        "name": "Bujinkan Kaigozan Dojo IF",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1371,
+            "height": 333,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110505122238214802895/photos\">The Brazilian Capoeira Academy: San Antonio</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/113789305545986085156/photos\">Bujinkan Kaigozan Dojo IF</a>"
             ],
-            "photo_reference": "CmRaAAAAqWEQTb3tJ_VyqQOGAGJd5l5iBgXK3Gdl6iGDdgQD70hPdFJQ_djfZPlzL69DX0UNw3AOH_tlz2FHiSU22AqPH0es-j7-hBb6MdjVGx7_-gheiXfZcDqUGS0ifWTDWNd8EhCM4r2Gh3NaPwtmeHoAdZn9GhQ4vg-izSK3yJv0mqXn-rqwmqCqvw",
-            "width": 2048
+            "photo_reference": "CmRaAAAABTQxW0pH0xgibUcMB3WzQ5InXr1DY4CMN4VHdffpeP3W74nMEQfDK_VDsQJJ2z7sSFZu3h1_a5fyjge7ly7Oi4StPChI14BqKvQdG4JDhzDvOzN3BX0H6o2kpcTfcuJREhCl0mk-fRHC9r7p79bdwH7eGhRJVNMk3e1K3Rcjc3IsaHSueHhuww",
+            "width": 250
           }
         ],
-        "place_id": "ChIJzz7jvmZgXIYRiNTX9KKJ42g",
-        "rating": 4.4,
-        "reference": "CmRRAAAAz5hcsU_O9XBrNjLp8CW2R8STiea1105qNYartzlCGCz0Cypc_Dfvs_g1td6JyHuiTvPf19evl0nI2mxYzx3r-ym0T0eeaG93fJY67dXcxmYdE4GteLOsBUsqP6NHm0fXEhDe8shnSRJPubKXvNGmB1JBGhQws4RCI047iTivZX8HL-M0Zx5-XA",
+        "place_id": "ChIJM68-S-SdX0YRlYABtPvz4k8",
+        "rating": 5,
+        "reference": "CmRRAAAA32jHrBwqzG4K_9oft5loWBsBKq6m5i93JHjCys2Be6tlvdWv33oFeNooIRvRWUPNSlgVG4ZzL07q6R5tJ8AGSSavkogd14JfuAHgi6wA9G2Oh5a7IODrVpbCe631XQjKEhALmEIzCUCTfAIXAhvWuvLiGhT5WpjkNK-0ND0m_pTDqNmfl40Bmg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4553 North Loop 1604 West, San Antonio"
+        "vicinity": "Albygatan 117, Sundbyberg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.3625151,
+            "lng": 18.1238817
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.36377998029151,
+              "lng": 18.1250867302915
+            },
+            "southwest": {
+              "lat": 59.3610820197085,
+              "lng": 18.1223887697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bfbd6dfc72ef2dabbb72ecc25a7f7cf21f940c08",
+        "name": "Lidingö Dance Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 683,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101254857265300785515/photos\">Lidingö Danscenter</a>"
+            ],
+            "photo_reference": "CmRaAAAALtj89FSsg1DA4W-eohV8mMAqQuCXoUGwfW-ofgP78lka7i2oYdO10J4z9UmD476EYvJ9NFVnPFdAMDMpKBKIxkxJRBXHkbSjYPPpuGb8K7cvwo_dC-dQLSgqsBDtYYx8EhCj4dozLare2PqhdDTau2RnGhQrW1tJ-0jRAsQcbilHXe0SxSVicQ",
+            "width": 680
+          }
+        ],
+        "place_id": "ChIJldQg2SqdX0YR7VT1TFc_c8Y",
+        "rating": 4,
+        "reference": "CmRSAAAAqq69crk0vD7OEpkyiCLDTZxC9eoUVFKXTB_zV2zcXxmNipc3TOLUjuL0k1si4r1shPfc-IuMuIlh-eo_wsr3MscSq_29gLfmu-B-Wi82HtQwVpuwhzIvOdW1s3XBf2RREhALtqRve0VUx_JNTklhvqK9GhR10mg3t_3jG3S1cX1_1jlGyTdPvg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Stjärnvägen 3B, Lidingö"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.29715399999999,
+            "lng": 17.9839681
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.2985787802915,
+              "lng": 17.9852922802915
+            },
+            "southwest": {
+              "lat": 59.29588081970849,
+              "lng": 17.9825943197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9ac0643ed5bd51ae96cee6fc90afc5e17b78edf9",
+        "name": "Capoeira Popular - Stockholm Sweden",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 308,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110124937598705813675/photos\">Capoeira Popular - Stockholm Sweden</a>"
+            ],
+            "photo_reference": "CmRaAAAAD03xwGaBvQU4pq50L4zbllGz1H93Nm1cvDBH3LCxMlIU2DA1XyecqCg7fSZq1IkISGptSn2EXNyIlNwSAEuKIjptdoj933q-Lk48RzCDmlUhSd7d75sdGr4hOBfPrdiwEhBL-1stCUTuJWb1RmreUDhLGhQ9NF0dhvj97AJ-NFsrnu_Kp9kBdw",
+            "width": 288
+          }
+        ],
+        "place_id": "ChIJmTKy_lN2X0YRYsVrsZocPDk",
+        "rating": 5,
+        "reference": "CmRRAAAAtccqe00x9eHF5PdwShe5gUdSFQEf-7QKqqZR-Sv1hG4PsXiB2FjkoM3n1KxKvIABzeFZVo8X1X63It9y_zsxnAFHQZf7qVjdY09FtBhM9m2Roh_CbPp0tuEoyXzufU9rEhB2MmRJK7US7y3ehLQthWqxGhSrdE_Az-sBIgH8v3nqVvqQxNYRZw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Riksdalervägen 2, Stockholm"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.2683123,
+            "lng": 18.0080643
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.26950473029152,
+              "lng": 18.0093646302915
+            },
+            "southwest": {
+              "lat": 59.2668067697085,
+              "lng": 18.0066666697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "edb76fec85f5894d6a267c47d84135019285b125",
+        "name": "Älvsjö Jujitsu club",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJO6C0YRR3X0YR4aHB86kyHjE",
+        "reference": "CmRRAAAA0rinDiznRUclPzwex94MvXmXCAfwvvoffDYiRifVJQOBMpRMmXjQOvvC8Jcb0J87qQoAXERW3Hv7g87HRKTK1jNuNUp3DXz7vrYY-sbi0h3kU65L8z6QRrzdCDEPUqR0EhC5WgFoIBhj9JP9IKMLr5DeGhQHNWpIyZ9Kc1HPgC9bkxx83Xr8hA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Götlundagatan 10, Bandhagen"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.3939828,
+            "lng": 17.90490209999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.39533178029151,
+              "lng": 17.9062510802915
+            },
+            "southwest": {
+              "lat": 59.39263381970849,
+              "lng": 17.90355311970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "09759ba9746ced34ff3e839ca746a1a22ddb4f16",
+        "name": "KARATE TORADOKAN",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 639,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107066657368302033514/photos\">KARATE TORADOKAN</a>"
+            ],
+            "photo_reference": "CmRaAAAAzpfHzikMKU2fQvKEcVTlqwEGcqstoBaVbSaKcu9lOiMmm-mcyuotHRZhJ0T9zF7WDArFL6GgSDshgxETQFFbTzvNSFYLvqDLq5W7roXoP83YojCAMVCUZ3ilo_iAlmxyEhC2b_dgWqnwTGF4LICwwg62GhQ1mND8TVw7iisMxXrpylia7GcBAw",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJbTxItPl3X0YRk_g3XPDN5sI",
+        "rating": 3,
+        "reference": "CmRSAAAAvB2cHtOknfj-5O3FdOr6bjlhZQ2uI0RN2Tp1wSasMp4u5ToPjf9z__2n9s8HdtW64kNQd_dBanIe0nSVVlLxZkDTb4g8kNAJQJidhOeB_nL1oiL37Ywoz2AdRfXui-jzEhCg0aC59ExcvpkFKQHEc_YGGhQS1e2Qtf_nvUBLLuP5GQ8MaEclNA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Tensta alle 9, Spånga"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 59.4412104,
+            "lng": 18.0595174
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 59.44264013029149,
+              "lng": 18.0605956302915
+            },
+            "southwest": {
+              "lat": 59.43994216970849,
+              "lng": 18.0578976697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a2282aa5bad39a6b165024425a42b360334e8694",
+        "name": "Combat Academy Holding AB",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 705,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118138153164904134368/photos\">Combat Academy Kampsportcenter</a>"
+            ],
+            "photo_reference": "CmRaAAAA9vAAW_rJeHOwUKZr9UQbokb363UJcckf59Sazo8QkGJBL5-4s8J41JWDndPSjTU-b8ENcXnq7x0xTX6e517TyiMNx12uzhAO3vuJbl8_yuHIl-SWfzMPsX-s_3NzEgtoEhAQ6IWT3ilg8BiS0mxrdnKLGhSXcFDl8Ilz1NxdXAXvAU-R5gOOEA",
+            "width": 940
+          }
+        ],
+        "place_id": "ChIJA1b1VeubX0YRj_2bWd1YdnA",
+        "rating": 4.7,
+        "reference": "CmRRAAAAJiqfzMYbhaoMmCa3gDC4rEOrFqu003k5Lec1x5OP1mmtKofUVYtsCbu7Ty5QtCpiceBXElsfbwK9_mZh34QfPue3TgvFimjxp4H_1If8t_DaB0jNafx4duFgMnuVE1hxEhAjI4amHSgSNlzvUE8sovg4GhSiDq-V4rv2cpXZ3sHDohQ2cXrELg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Stockholmsvägen 116, Täby"
       }
     ],
     "status": "OK"
