@@ -1,20 +1,99 @@
 {
-  "city_name": "mandalay-mm",
-  "city_rank": 215,
-  "city_population": 1208227,
+  "city_name": "almaty-kz",
+  "city_rank": 216,
+  "city_population": 1204820,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "22.0",
-      "96.0833333"
+      "43.25",
+      "76.95"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 602410,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 43.24920059999999,
+            "lng": 76.9251404
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.25054958029149,
+              "lng": 76.9264893802915
+            },
+            "southwest": {
+              "lat": 43.24785161970849,
+              "lng": 76.9237914197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "26fb719846ab7a9c81c3f28bdf1417e7ae77d5f9",
+        "name": "Federatsiya Kapoeyra Kazakhstana",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJq1WU4clugzgRHTSPp_8pJ1Y",
+        "rating": 4.8,
+        "reference": "CmRRAAAAX9t17T-_7iVDJOpPlQmEobwV77hbLELbBWy-WJIhfxunBJzscj7UyLmQgGMjwpAYzjGad84nYjBknSvSIaium4X7gCBqJ_H_i0lEkN7823sUUR8gUpk9edjKrnjYAaWOEhBHiEzhJAAzKEgxKy3FN6wbGhSvwkX4FSKsGokb_AsS7ReYr3Ul3g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Dosmukhamedov Street 68б, Almaty"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 43.24907939999999,
+            "lng": 76.9249962
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.2504283802915,
+              "lng": 76.92634518029149
+            },
+            "southwest": {
+              "lat": 43.2477304197085,
+              "lng": 76.92364721970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "bd08dfdffcd5ea3bac677cc5d5517eae2cd42db6",
+        "name": "Бразильская Капоэйра Axe Capoeira",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109566530056825569122/photos\">Denis Schelkunov</a>"
+            ],
+            "photo_reference": "CmRaAAAAK43v9NXQzTm8wLu3fdozL4JguYSF2FNbW0FWNG27BVyVzKoEXK-Zv1dGd3Wg95HW2nuBuxkC3V4rH8Tuw406yYyat5UihJCyGquUzCBOiPALGwQErVyUMqB9C2B0dzZfEhCtnxmUXqcS43Nx4XQa4RX4GhSL2oTAtw65wfQyLLEslkuKLQqWoA",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJ0f7O48lugzgR32egXHFQtIU",
+        "rating": 5,
+        "reference": "CmRSAAAAt9hwx66Spl4YI14X-uhgsTlCWWeRav5uoOLQFJoQEkd62csD8yzc3PKppTE6OpI6lekygrs7UvsR_CnTz5YFyLT0lj9oNe4lgJzzXF3lT7D_JiI2HQDA8TnVjhwxq2wAEhD_zXaOxySqB5x3fZDjIdjNGhTQwArONVKgZbPKesEhGT4BsJywew",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Almaty"
+      }
+    ],
+    "status": "OK"
   }
 }
