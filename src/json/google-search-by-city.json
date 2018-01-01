@@ -1,20 +1,146 @@
 {
-  "city_name": "brazzaville-cg",
-  "city_rank": 243,
-  "city_population": 1115773,
+  "city_name": "belgrade-rs",
+  "city_rank": 244,
+  "city_population": 1115200,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-4.2591667",
-      "15.2847222"
+      "44.818611",
+      "20.468056"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 371733,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.81402200000001,
+            "lng": 20.435217
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.8153709802915,
+              "lng": 20.4365659802915
+            },
+            "southwest": {
+              "lat": 44.81267301970851,
+              "lng": 20.4338680197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7348e8172c61b88f4c98c384b2f860f64d3378dc",
+        "name": "URBAN STUDIO",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJH5LBfFllWkcRPDDY3i2a9yk",
+        "rating": 5,
+        "reference": "CmRRAAAANPAthgvpg28yKqgkMRKueIVx2LypEMUfXaV5XXtAS9cV4AgDcvLgtczQUz3-av1yuib4EoVw1v9W_v1JUC0EQFDJHBCunyA8_NuXEOglewDivebdhOOWrVP-2d46N2vjEhAnpxecBHe0Ke-pAXLlcA2QGhSK_D2yNgJwXfpPECGsUE8adwugnQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "MIlentija Popovica 1 lokal 9, Beograd"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.784706,
+            "lng": 20.4903475
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.7857566802915,
+              "lng": 20.4916530302915
+            },
+            "southwest": {
+              "lat": 44.7830587197085,
+              "lng": 20.4889550697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "04cdbdf8affc4691d7b93359e18bfc00e828bbf0",
+        "name": "Kapuera Za Decu",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117058029944098523349/photos\">MIlan Gočmanac</a>"
+            ],
+            "photo_reference": "CmRaAAAAgl4Azx4OoKJuizVl67sPC3HM7BYbjZsIrnGnvBBkwUBvUey8E9vVwQxxYOBgzzXFpPG1MptzNCYSDbggqV7z-Pivx5uUIP0Y7-wE7J5KInyPXW-D6Bgnori2fBE_dDJ2EhBof39QOSRey_xC7meV-qJFGhQDqK1VeosChixIBlGmetlyFSj3dQ",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJD1kE9YlwWkcRNmMtjDH3dSQ",
+        "rating": 5,
+        "reference": "CmRRAAAAVi0fcKFxLbp18xlHB_LouliSPdla81_pfOz9lDEClOPevWtLLREciHBwRIstDE2iCxcTDAQYNoVLnFzQ4jZbmWHnONWu-sVWb3Q7aIOPpIZAP-X9-QeWS0g0ZWbh3xbzEhBR6pvLekpf719yXtx6f0YWGhSJONUsMk61-7pnB9Eg64TJ469OiA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ustanička 125, Beograd"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.8307391,
+            "lng": 20.4100898
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.83216968029151,
+              "lng": 20.4113118802915
+            },
+            "southwest": {
+              "lat": 44.82947171970851,
+              "lng": 20.4086139197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2e8b92fd97b3f32c5f5597e36b06bfb6a018cf8b",
+        "name": "Gym 4 Me",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1158,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110347926812603246532/photos\">Tatjana Tatic</a>"
+            ],
+            "photo_reference": "CmRaAAAAGvOTwrnjIAcvd2iW0lwaEdnG20lDqZpEPauahF3KH1FtKtwAhVwC1Ui0q7V2IVt4SDcwiIOKQq83kzmZcMCCwRmR_NqKSPJevJG2nLgSeBDUPrNjrnKtne8w2sE7IZLFEhB3jMIt3xtL2x44femvnXiSGhRzDUK_E31lTJYTZNJmJgtdj-mdww",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJUagpgXVlWkcREux2UVgHrQE",
+        "rating": 4.6,
+        "reference": "CmRRAAAAMl08pZv8KiaVZv1sT52ZRA3MBMmQ3GdeiJC2MujRezKPbmQHIwapAI1czPIl_vUGVyj8lfeSAmbRIB3hNnle99ExGs4OpztFus7ODRvfBgDCvrAq17iFk-eWjhjb7m5xEhA06Pm9ggzPayCK3HlHMTwXGhRHrGKtPWxdL4Lem-LqcSsy3eSapw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Bulevar Mihaila Pupina 181, Beograd"
+      }
+    ],
+    "status": "OK"
   }
 }
