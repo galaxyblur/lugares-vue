@@ -1,16 +1,16 @@
 {
-  "city_name": "taichung-tw",
-  "city_rank": 252,
-  "city_population": 1083582,
+  "city_name": "saitama-jp",
+  "city_rank": 253,
+  "city_population": 1077730,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "24.1433333",
-      "120.6813889"
+      "35.895534",
+      "139.67747"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1083582,
+  "people_per_result": 538865,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,31 +18,77 @@
       {
         "geometry": {
           "location": {
-            "lat": 24.1127041,
-            "lng": 120.6466306
+            "lat": 35.6604914,
+            "lng": 139.7049422
           },
           "viewport": {
             "northeast": {
-              "lat": 24.1140556802915,
-              "lng": 120.6479770302915
+              "lat": 35.6618403802915,
+              "lng": 139.7062911802915
             },
             "southwest": {
-              "lat": 24.1113577197085,
-              "lng": 120.6452790697085
+              "lat": 35.6591424197085,
+              "lng": 139.7035932197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f2e49a170742c4c083bcd7efc0da60dd9b219217",
-        "name": "Capoeira Mandinga Taichung / 台中曼丁加卡波耶拉",
-        "place_id": "ChIJVVVVVbY9aTQR2sL1OAkritE",
-        "reference": "CmRSAAAAYi2xbu24_FinenqUDUY6M8NEGFZoZLaELIiVGfh0ZDOb2Pm2w2givzP79bnlzvnP2QlxOu7zdgBUeQ5qfTiban_PYbdGTMdKypk2cxpB94pP5ySPmrDdIymHRqQXTmKtEhDcj6b_pArpgo5OINsAUd1rGhSBIblwNXXACnPAX9cF9nsDJ240JA",
+        "id": "2db8588e8cea17190800029b61df0271ffd2e221",
+        "name": "カポエイラ東京 渋谷教室 -Capoeira Tokyo Shibuya-",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 748,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105143815563754515985/photos\">カポエイラ東京 渋谷教室 -Capoeira Tokyo Shibuya-</a>"
+            ],
+            "photo_reference": "CmRaAAAASHGClRddU3x_Skhh9pvVtFPNyRXhwVfHkbE_vaLrGJdr80IB4eMzKrT8XHQMb529sjk3_ejjjfHBFYVUGZdZ15fkSetrOA0FwyvPCrQtz5k705JJso8p_weG2t8e4In7EhBjdNR9qyj0t5OvvRasoGWOGhR5a8KF8M0RWaU6ov4hHEU2TUKo1Q",
+            "width": 748
+          }
+        ],
+        "place_id": "ChIJw4lClFiLGGARgGZqwbwMlec",
+        "rating": 5,
+        "reference": "CmRSAAAA3sgiWaMeEqHURHZZIt3nKveYmuVLUha4sQ_Kfnt-PH3DpEBz9m7FmbPcUC1QryH-Yl-8XRvJiNuFS22UMohA22M3TFhAtXrK7QMlskEJ8Z2imGNldaNvb82b3kZWSk6jEhDyy9JmVImRrMsnX0GlW5iQGhRig7yXu_XClMBLsVrANpBcqxuTSQ",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "No. 793, Fuxing North Road, South District"
+        "vicinity": "渋谷区 渋谷1-10-7 グローリア宮益坂Ⅲ B1"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.6678885,
+            "lng": 139.8625659
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.6692374802915,
+              "lng": 139.8639148802915
+            },
+            "southwest": {
+              "lat": 35.6665395197085,
+              "lng": 139.8612169197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "36199b935171a1b16b17c1c1db2cf59d58ab3afa",
+        "name": "Capoeira Regional Japao",
+        "place_id": "ChIJq6qqp-eHGGARUFmK5YQWE6E",
+        "reference": "CmRSAAAAdeWe3twRCzrweuxIpatWnsqCjhS8IHKukSZimHPseCl1eGygbFBLfPJ2PVUnei-U7X8kphqWFviuBqQ1xlFISTUTzvooKId4xjGFK0mihIWyGu4NPRSRAtKyNiZDP92UEhDCXlmjMrN5gPyEOSwfvoadGhRae98j-lWD2W5KOVPIOIdcy-lpjA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4 Chome-2-20 Nishikasai, 江戸川区"
       }
     ],
     "status": "OK"
