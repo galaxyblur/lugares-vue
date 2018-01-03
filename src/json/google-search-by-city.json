@@ -1,20 +1,111 @@
 {
-  "city_name": "rongcheng-cn",
-  "city_rank": 278,
-  "city_population": 1001985,
+  "city_name": "odesa-ua",
+  "city_rank": 279,
+  "city_population": 1001553,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.528858",
-      "116.364159"
+      "46.463934",
+      "30.738551"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 500777,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.481497,
+            "lng": 30.730009
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.48281043029149,
+              "lng": 30.7313977302915
+            },
+            "southwest": {
+              "lat": 46.48011246970849,
+              "lng": 30.7286997697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "35b18d6b1ce8b2a792339d6d755979c5be059996",
+        "name": "Expressão Paulista de Capoeira em Odessa",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 375,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100077710587092564747/photos\">Expressão Paulista de Capoeira em Odessa</a>"
+            ],
+            "photo_reference": "CmRaAAAAOYlAl2c00YH_tnLiTxo838bcPaNmuwfKdhlrxs8aYHaqAMSsUAG5YhkszRMfahoue8iAsgl6jQ4Uon8SXZCg3_kbqhCmF_tmG9jXMmMOb2xjBN1Pi7io8i1fbPcbd7UCEhBbFsi2_B0klk9iG1jJCblLGhRcPq3sRElBUDR7jdM9Upwe3OSG1g",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJD3xfGJIxxkARDiEm5tYfXIE",
+        "rating": 5,
+        "reference": "CmRSAAAAtes3dDcRGZs6t5cdhFMG4IJkRN-hbFzbaxmCXQ6iR-Q7X5a-PJg0ZpNTrIm_CAN2e5ja7w_nntKTA7FxevzEyXjvGPAZqfLlEmVtbIz_cFziDUifgwC6h4EFIlJn2cs2EhADoNwv6BkZPZHFlc-dV3FcGhT6cRcLkSqAo76zJ_BNr-p5a-dm2Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Spyrydonivs'ka Street, 10, Odesa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.4927374,
+            "lng": 30.7214221
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.49404598029149,
+              "lng": 30.7227024802915
+            },
+            "southwest": {
+              "lat": 46.4913480197085,
+              "lng": 30.7200045197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "3d852589fbffd3597698ba09ef6ca8258c4be4cc",
+        "name": "Капоэйра Сензала",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112190365980070251700/photos\">Наташа Корниенко</a>"
+            ],
+            "photo_reference": "CmRaAAAAbuZbmuzUB9cvMg33TWYcTP9euRN34TfYciglkKHElOZEUVYzL6lTBwBDL4MUbErZxuBkxFXM80Bu6Ix1IYELi8EakOo1XD9n9fA9df5lvFvoCGc3nU94sXEjX96HY6ZBEhAQ5m5O5DHnlHjKtLmVsbw-GhQvwBENj1laPLCcLqO64kgtkWKIqw",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJZzntLMIxxkARsgT2W3BRkIg",
+        "rating": 5,
+        "reference": "CmRSAAAAYOLVJ6sdA1S2vYjgSEBEepgW2LJ1afoDxvE1rLVJI8mXgBokU8XZbJupxKyl8d4njj0AVJuCLuIMeio93axSVbB1-9VS2ELeNuK8HJthi1OQet-vH2omfVGLZQsX1c6hEhBF4szgj1jSPHWe7uCG45c9GhTiuYlTdDpfzkMe9LUXbx5QyGg0lg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Knyazivs'ka Street, 5, Odesa"
+      }
+    ],
+    "status": "OK"
   }
 }
