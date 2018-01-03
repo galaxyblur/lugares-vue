@@ -1,67 +1,20 @@
 {
-  "city_name": "delhi-in",
-  "city_rank": 5,
+  "city_name": "new-delhi-in",
+  "city_rank": 6,
   "city_population": 10928270,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "28.666667",
-      "77.216667"
+      "28.6",
+      "77.2"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 10928270,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.535424,
-            "lng": 77.245572
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.53677298029151,
-              "lng": 77.2469209802915
-            },
-            "southwest": {
-              "lat": 28.5340750197085,
-              "lng": 77.2442230197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0cd4f6b042065b8206eb54333dce5186c182de46",
-        "name": "Delhi Rock",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105986338684660844913/photos\">Delhi Rock</a>"
-            ],
-            "photo_reference": "CmRaAAAALRN84RlRUHqZO4rCfwZsrZkBjM9IODsZvRDP8WwyEvgRMsPtKIss4BB-DexqYGUkVNkgHINNZUKiswxXbLZWlEUVSN9uzgyTfWZ8aImQb6AFDXRLxS_TMHkqaXZ8pO8FEhDdjEg9GOUONTxKJB1I8sKUGhRHqt13wlPKwQ8BK3gtgD4Q8UrJ1Q",
-            "width": 1920
-          }
-        ],
-        "place_id": "ChIJ5-e8D9bjDDkR2v7HIcLkioo",
-        "rating": 4.6,
-        "reference": "CmRSAAAANFQrBhPVw6g_Xf2yX3rs1w12Si93ruHZHF-1-vmaA7syAW5fPh5nfk2AP0WuJWlLW7HfraGGbZ1VI2a90aGEmPT-mUld4-xZElOkGalgiEY1WhTlnC0Ojm2uDy_85AgkEhCPtVDqfuERDF9zbEPEkCnmGhSVaP3GsOLYWkZEvg2XbsEApAKCnQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Nanaksar Gurudwara Compound, Opposite M-39 Residential, Greater Kailash 2, New Delhi"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
