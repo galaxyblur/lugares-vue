@@ -1,107 +1,814 @@
 {
-  "city_name": "cape-town-za",
-  "city_rank": 54,
-  "city_population": 3433504,
+  "city_name": "berlin-de",
+  "city_rank": 55,
+  "city_population": 3398362,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-33.925839",
-      "18.423218"
+      "52.516667",
+      "13.4"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 1716752,
+  "people_per_result": 169918,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
+    "next_page_token": "CqQCGwEAAK1RGnTDwugV2I8ZorVYyWQ2Ule4Wqzarf91rVzsvHDX1Gxkj5NtORzwg88kPG1fHQYZB9XAgm2v7kKYb_F21ccKOaqFN2AVbVb_q-8AMzPANaDxd0AeJxlJ-AasEgSyuc3NR7arFMK6Pz60pSwqyyaphm_N6ja1hgqow69eFmet57X3S33CgamPPUZJF0J32rI3vsXz3JN7Meqrph3jmqGAcjl0g0eLaw1KSh79sotE0I_5NJ6TPAWY5j_rrGv73xb1FSLZInAjI5uk7KOTPdtVDPNpB3mZnd5N8pb5syd9fXIcLPcBoa2dumCc4yx8NLyUhg5cVwhTgFpUOX6jdx_5d-6ZRjI7Pe2PSeP3eVq1baxICpOFdI4UDc_5m-xdohIQ_kV04bqo5ppxdGM6jw-y7xoUK0ugfWBOLAS9L75knOnxA2i5zxs",
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": -33.9323016,
-            "lng": 18.425181
+            "lat": 52.5025428,
+            "lng": 13.4120509
           },
           "viewport": {
             "northeast": {
-              "lat": -33.93092241970849,
-              "lng": 18.4265129302915
+              "lat": 52.5040282302915,
+              "lng": 13.4136639802915
             },
             "southwest": {
-              "lat": -33.93362038029149,
-              "lng": 18.42381496970849
+              "lat": 52.5013302697085,
+              "lng": 13.4109660197085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "5a5617befb7d59572434532e8baad6a1d2468c67",
-        "name": "Capoeira CDO",
+        "id": "0978aaea17bce45b558e125186327f1f763d6433",
+        "name": "Urban Sports Club",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 628,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113936132530828418328/photos\">Urban Sports Club</a>"
+            ],
+            "photo_reference": "CmRaAAAAXpDQ24AiJ4qN7xb9rZXKTVQgH4fSJHubsJi9I6PavWFm4AwU3j9ZVDTvrwKnC5e0qbFZfhgacKxuDGivNKXZQTwqV0Q1LflZ_gum3AS-X8WM438Ot-ttb1ZpE5JpBPxWEhAkXLFe3E2ftIGEMFSOQYYIGhQHKei2R9IrtmmHaff0GL2rWoAV0A",
+            "width": 1116
+          }
+        ],
+        "place_id": "ChIJecAmki1OqEcR6XfQOpKxTG8",
+        "rating": 3.8,
+        "reference": "CmRRAAAA8n-xZikM1yzMRU7GFST91t6tjkmm7YvYn9XxH_d4l6Nhfw9oHxDt0HSpvz7RHBk-aRQH9Zh-lHWxm181xDmTro5mVHfDu6966p7hdR9o9kstc2dzDoBcE4Tme5j_CilOEhBkxet2d-sbQunGZ2DkhoKiGhSQ6haVDO1CHKwOw0wD3lbQf2N1hA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Prinzessinnenstraße 19, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.5185453,
+            "lng": 13.4265856
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5198942802915,
+              "lng": 13.4279345802915
+            },
+            "southwest": {
+              "lat": 52.5171963197085,
+              "lng": 13.4252366197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ee9a89f2b4411d81a1c4773f1f485e3a40ebe98a",
+        "name": "Ballet - and dance school TanzZwiEt",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111104117182158701369/photos\">Ballett - und Tanzschule TanzZwiEt</a>"
+            ],
+            "photo_reference": "CmRaAAAAmzprMbPH5oKSOYoQwxwREX8YjNfAuD2kQuphBZ-9-XsD8YNfFBhyADiR66CiYeLmixvns5cOYM9EpD-MK14zxLiOEOWV-UTAeD5ZiusP8uFDSx-kqwSuG4CPKU6LOMdpEhA-bAE-VFj6-5z6VZzrWFtaGhQp46gVowyRUKxOt6KcFAa2vRKmsw",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJj4Smiz1OqEcRvKx1yNE-p4Q",
+        "rating": 4.8,
+        "reference": "CmRSAAAADFRQMYD-IYsizXsdV4ArK4WjTUi-jrbf1zd-cD4er1i9weM2TsBm1Q7UxLV21kEqLVbqxizdnIhDUs5S8N6gCCAMpFK3FT8bNijW5qrMVPjjsa9ZB1htrBpvIPF4wih-EhD9lOzZL_5qr7Rvd70_S74IGhTK2V_0xgN-jruuTqAsCmm3xcqzmQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Strausberger Platz 19, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.51926,
+            "lng": 13.4269401
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5206089802915,
+              "lng": 13.4282890802915
+            },
+            "southwest": {
+              "lat": 52.5179110197085,
+              "lng": 13.4255911197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "23d87b6f7f7bc9e01f5d97326204adc2fd3d3c80",
+        "name": "TanzSuite - Die PanoramaTanzBar",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 486,
+            "height": 1112,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100994240938710066880/photos\">Sam Soosi</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106260474511847928441/photos\">TanzSuite - Die PanoramaTanzBar</a>"
             ],
-            "photo_reference": "CmRaAAAAtQrmPXteb3X2ZaIX0n6oSOx3LNJ44gz1c-gtzu7lQEgL2nmvFLVd5tUiBV3Iylnu3pT9738jfsdeWPEKQckeA3kykh6_kDvSCRaknipKi65coGe-WcEx9Nzy8QWybThREhBk2F2y3NWn2WGGdjF7BxLMGhS_hVc5CaygVo4TxBXXaMKN_9lqLw",
-            "width": 847
+            "photo_reference": "CmRaAAAAg_urA3XzWel90x_aV3_BLBkk1JBXai4BgA_BaenrX5MRXV5tH1ewd9DWDmXSSF0Dfpql3II8-Y4gc-_6imArpKZaRhpL_JLvbP8doOyfEFsRZz8z6IJwz56tixAxSAzSEhBg4ih6Paaw0ya_quulCZm4GhS5-iK6enz8KTAvz2lYY7tb8OGOHg",
+            "width": 1932
           }
         ],
-        "place_id": "ChIJY8mh2JtdzB0R0gsbamm6pw4",
-        "rating": 5,
-        "reference": "CmRRAAAAqO4u-fl3g2Qc5gPAh2T2Y8fZ-4OF9BjrR5Cf3nJ5jXuWJ-xG6IWo5MG-hZ4c57xDnmxY-_8mUTa4PWjcGoOWkYKGzYg-Pr7dK7B6ZOmxPBfzdhoo4DZFCEvDbBTu6-xREhDu1wCKy1ICL7zyQpS2KdlrGhQKqOPngAF9jA7NRzir5xl_mNjoyA",
+        "place_id": "ChIJyXmwIxZOqEcR3FIxArShrMA",
+        "rating": 3.8,
+        "reference": "CmRSAAAAauqYLZbuEY3dWATdKB4Mj9qeiAdACPfHShdntoSuX-DR2u94ZiY2M4M_LtGC-_DKZ4pghqxJND7RthwWNxCkmhUuHVxg_w1uavhwFDBueJCvsWX3Ewqw6jVRZhtmShHEEhCQ0IkHQhIi84ucdrbBZ1gBGhSvfQ_mZNkY0Za2J6tif5jS9XMkFA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Strausberger Platz 1, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.5362,
+            "lng": 13.3989499
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5373030302915,
+              "lng": 13.4008731302915
+            },
+            "southwest": {
+              "lat": 52.5346050697085,
+              "lng": 13.3981751697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9b42000dbea9e6aea275d8c133d68deb74f23be5",
+        "name": "Yoga Delta Berlin",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102891878846651507863/photos\">Yoga Delta Berlin</a>"
+            ],
+            "photo_reference": "CmRaAAAAzB3thNip4eOLEVLMM1kU5qMhvAR35xEg6CrGSqP1Ld2AxVImBE0ZguYPIoeRrvsIbE-LXynYJmMtH0kuBjDY38dY4UQ_RvYUWN1AVqWPjNlNlDSqO0KJ_h0ioHPgivq6EhBEIsRw2b1DCRy4YSKbrPE7GhTnSxy0HX07POIkNexRGraOK9eo0w",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJn_k_ePpRqEcR_rnVXMlmj9M",
+        "rating": 4.6,
+        "reference": "CmRSAAAA_QCt8Irzh-SoftCLBEgm90ikshvkNLmCiSYZ4HkJcFiDUxBLisSqig91RKP2xopJVe5YnOIbZDmExOHMwKyOXlgT8roeAHiuQVWth_YTu3FZC6EETP4m2gp_f_6m01JkEhBZCaC7eS_atM-GmhpG77G9GhSYhqR_D6olN1Y3odWkYdPxoZXzqg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Anklamer Straße 33, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.5306849,
+            "lng": 13.4236793
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.53192158029149,
+              "lng": 13.4249165302915
+            },
+            "southwest": {
+              "lat": 52.5292236197085,
+              "lng": 13.4222185697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c6410b904d51d469408dec582333f5f19bc7f2ce",
+        "name": "Capoeira - Berimbau De Ouro Berlin",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1177,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104064553566711266843/photos\">Capoeira - Berimbau De Ouro Berlin</a>"
+            ],
+            "photo_reference": "CmRaAAAAzRKD434E6ADxb1_TNiAjW1bMcZAEhgafH8l5H3DVkw_NJ16MXWmz1Y5KoI3nAaEoUfKJ3iZpcl3Ec8J8TH351KxdpSGoWf7imn2cVojA82rcdZWlaJz5cmnP0xF5xnvpEhDrK_ZslwyfqnN172untCU3GhTbkjnpyfXMDJbLaB9XhWY1XYS-jA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh8SKUclNqEcRZItdDW1D_OQ",
+        "reference": "CmRSAAAALTS2_6c8PV01JDAr7FJHZM6lr3Rt8zjA6WArnULeL0HWjkGpkTzv6zyoRr0bYry-buhJdABMlFqoWP5fw3gvcovhwc5-xV8UMmMNCyC5W9aHht7ZumjwU6vDELpiRQvVEhAtlWicp4EFevN9IhgbhjDTGhRxSzis2BfXEty0RlI8Z6ZBBNCKgQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "47 De Villiers Street, Zonnebloem, Cape Town"
+        "vicinity": "Heinrich-Roller-Straße 18, Berlin"
       },
       {
         "geometry": {
           "location": {
-            "lat": -33.9384299,
-            "lng": 18.46853
+            "lat": 52.505264,
+            "lng": 13.4297669
           },
           "viewport": {
             "northeast": {
-              "lat": -33.9370157697085,
-              "lng": 18.4698510802915
+              "lat": 52.5060391802915,
+              "lng": 13.4304845302915
             },
             "southwest": {
-              "lat": -33.93971373029149,
-              "lng": 18.4671531197085
+              "lat": 52.5033412197085,
+              "lng": 13.4277865697085
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "174ad566745c20fba16037b84e9c3d1d95b98e17",
-        "name": "Capoeira Educational Youth Association - CEYA",
+        "id": "881b514073769a09c67314f5f03cf85199fa4151",
+        "name": "Capoeira in Berlin",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 640,
+            "height": 1382,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112375786955773293223/photos\">Capoeira Educational Youth Association</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106073578623614796181/photos\">Capoeira in Berlin</a>"
             ],
-            "photo_reference": "CmRaAAAABekTQE5VMwIlHZg5Q_RTFLpXyelK8megkgBUCnG3Kt8bMPZ27sNWCBJQ4NFH66JI8YVWU0wPd5w5Y7li3fh8o9YzCwCunmswdjR66EZk_hmASoBabibJitNa9LQE7FRIEhAecH82_6KbFu_YV2ho8LpdGhT2iV3L3W6FMeAyt1tlmNOVvaO1tA",
-            "width": 852
+            "photo_reference": "CmRaAAAA2p7Jyz0BJblJm_aPiVZegR-5McmLJJqxz0zeceITryzTLywL-0E-Rdc2BaGbPVffISL4V-mVCpwmQGuyca3jXjSv-y6YUwD4zwhexwe_socvOzXAjo3LvmgG72foa6xNEhDIaVrrkoB3Q4PJ5ydbmKeJGhQrNUACXKCleYsHu_iFj6TxnFJa1w",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJuct2hgRdzB0RKu7EvQlSLqY",
-        "reference": "CmRSAAAAcnwrahzrdxezwZg_9h6XRYNmrzNtUSw3vgZ4UF9IhBG5m7eFmqSAhQrOM71JLdOUsL90UK-rvCkH-n6tjb30rgMSprCeuEYu8afTPphwKKifMLPC9skSAQ9V5e5AXty0EhDA-HQbmSLuXyCcbwf8wXg7GhQznykmhaU-thkvES-MsblnfrHefw",
+        "place_id": "ChIJq7jXtTdOqEcRSJNdA2OAGO4",
+        "rating": 5,
+        "reference": "CmRSAAAApzLHuH54PzJsdXjuej9oA94W3AdyUxPtvetDJN2uu_a3rC-vjE0SYCVui8UwbdCWSekhINoSM6s3Sb9yznUKiIQKfe5oi1hrtFZEULOTq_FbjaWF7z4Z5em4wv-P28sEEhC3kMxXBSXFNUiIa5Gi5iRkGhThtOKjes6u2mvrIDFAOR2S9nKoig",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Wrangelstraße 136, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.5007584,
+            "lng": 13.3756125
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5022647302915,
+              "lng": 13.3775154802915
+            },
+            "southwest": {
+              "lat": 52.4995667697085,
+              "lng": 13.3748175197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "af1d9ae9671d1a6add7ffcc565a22847036c996b",
+        "name": "X-Step - The Training School Berlin",
+        "photos": [
+          {
+            "height": 2480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102154056687275105124/photos\">X-Step - Die Trainingsschule Berlin</a>"
+            ],
+            "photo_reference": "CmRaAAAA-pClrRgK1b124arkTdkAu4Mah39STutbRDvCWrnsRPvqkfXWw3FXqrajlvG7itvaQErGuP0ZoBKNJ3pLDFjxm1Q4W5Jg-shtqrPT8xmnOaxkAnofEFR8SIquPoEBEmmeEhDwAwKSv5e43sAZ98EoFdsXGhQa9khRTxnW4cL7nDM3W4B71qIsoQ",
+            "width": 3328
+          }
+        ],
+        "place_id": "ChIJsxAODTNQqEcRUAgAkwYMvh4",
+        "rating": 4.6,
+        "reference": "CmRRAAAASvcqVYwWXSJGngvmE4OdadseRXJHSDzveMRErjKz6-lslcMoSqM0DZqEQrowngZzVALJlwbit_DfZkK5BQ6ON4GqsMDnkFEJ_IpD28JEHcNXxtLW5yzxy33_XEE7eoUrEhAsaAquuj-WRmRTcS5Czu1_GhRXXejVESXB85NRvRHs2qduV80EDw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Tempelhofer Ufer 36, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.51537459999999,
+            "lng": 13.4372664
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5166106302915,
+              "lng": 13.4384782802915
+            },
+            "southwest": {
+              "lat": 52.5139126697085,
+              "lng": 13.4357803197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a44b52a8a2d05430624aba135b4edc0e82fa80f8",
+        "name": "Abada Capoeira Berlin",
+        "place_id": "ChIJ97-he59PqEcR1jhHtdluYxI",
+        "rating": 5,
+        "reference": "CmRRAAAAixGJunU5nTkQ9zaeOFFZC_p_C88kYCR8vO1jUbWPuMvggrrFOewbdnCGjVSbq-W_P5Ts4GmI0eThzJcJAYXM0kFG3iz6fhbnMHHXFj1dEkNNQwEcCZz5VJy0S84JjtMqEhC_pOK_D_h8Qc9PTg89SYbcGhT4X_Pv9wbYzcj3NKIY7m-ROw4HWA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Rüdersdorfer Straße 20, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.53833799999999,
+            "lng": 13.4128631
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.53968538029149,
+              "lng": 13.4139611302915
+            },
+            "southwest": {
+              "lat": 52.53698741970849,
+              "lng": 13.4112631697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3901e0780ef83c9687bd9379bc7835f51d7953da",
+        "name": "Dance school Academia Jangada",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 366,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111838974130473020621/photos\">Tanzschule Academia Jangada</a>"
+            ],
+            "photo_reference": "CmRaAAAA_HFWBtV3TMMA9LLZmF1ZsxiYXVsbN0hJb0NDvUNRI86nL7BScdvoh2paHJdXlSb5unv6ajbbedFALKQ9PHLF2vGEziw3WWf4F0UMPkDmf-kwmY2bZQETBzu1dppsOvN5EhCObpzZUhnAHyRqXyI7js8sGhQMK5V7rxTE4FnR8oPXkpATVauuyQ",
+            "width": 650
+          }
+        ],
+        "place_id": "ChIJQSAmgeRRqEcRK3ZIqK9q6hc",
+        "rating": 3.5,
+        "reference": "CmRRAAAAZYwddxLDQgisD54Z2tiRQgPWBl8e5-zJYzCGo5MpP79iBteanm6d_LZUr_ZzndK6gf2I808C-OY0QjiEK4hyaG7bxN4olir5TyA5Ji7zxB93Bdt2GVb5dnZO0XOs6tTgEhDDbff4pIsvfhCdp1TgOEroGhS1VKBV-YgHe_smHZCrqrKutUJAWA",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "51 Station Road, Observatory, Cape Town"
+        "vicinity": "Schönhauser Allee 36, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.49624,
+            "lng": 13.38003
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.4975925302915,
+              "lng": 13.3812479302915
+            },
+            "southwest": {
+              "lat": 52.49489456970851,
+              "lng": 13.3785499697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "676727d09b8c34a0e47ad0eb510238b57f808734",
+        "name": "Studio Pulse Berlin - Dance and Yoga Studio",
+        "photos": [
+          {
+            "height": 427,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107440462672116621265/photos\">Studio Puls Berlin - Tanz und Yogastudio</a>"
+            ],
+            "photo_reference": "CmRaAAAA2PUqWAN9A1YWKIWFsi5h99y-4D-IaITGsZ5mxGmDno_tlLa3NmAqfZ7wiH3wleBHf_SfipQyrXHt01y41b3dmDU8P5d-J3i9N1WhzIU7kxoPE0O-K3WlG5Ha7AgU37kkEhBPDPWImUVM-4VA3NVGEJJsGhQ0-AtXpTCPzdt5xE-EGoHpQnb2lQ",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJgeSPGi5QqEcRg0NGBRamX5o",
+        "reference": "CmRSAAAAYnZenJcggi4CHy8HebcTX4_cK7zkGuffRSX5Mbv6GG_R1hgCoDd0hW3vVmGnD7FK_uix8bJpwuAlef2L7bbqVWfuAwkqCFf95F5MlYCp5Mt5CmzGwZ_WVZAiLrtCBLmVEhClnRPNoBV28uUdjRe3_fWrGhRLMLM8tuGS99aRQmIn0o6D4qDakA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Möckernstraße 111, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.4933809,
+            "lng": 13.3888653
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.4948008302915,
+              "lng": 13.3898971802915
+            },
+            "southwest": {
+              "lat": 52.4921028697085,
+              "lng": 13.3871992197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a8ddd43658b05b624e0e8a6750faca848481c992",
+        "name": "Dance Studio Dança Frevo",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100049428841146788747/photos\">Tanzstudio Dança Frevo</a>"
+            ],
+            "photo_reference": "CmRaAAAAqguzDKIjt6O-jfAIgMCIXUPzhhbbiP-F4X1FnsvDhhMe6OHpihWSgsT7xANHhLTReNG787Pk_VZU8VDzSj8v8UuNapFeZ99Cy5q2osXWlKLCQETdRkLNK7NzNcouWAT9EhAb3mvvDigTgOmpToU3wf25GhTBm9AMV952az4XzaZgRO7oPUyzzw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ931SAilQqEcRvowG3MklSeU",
+        "rating": 4.9,
+        "reference": "CmRSAAAAYKt7U5i0EJmkisztSVyUxZwyLV9E8tozIIivUS9Wt-J-Yabb-3vSSBQQ3bfhV9laHzQunIcKxzc05yM1YHA_A2PPmwH9LbPFw3FhC43ARPQVEnqtyDzlyVotABIfhCvzEhCPW1UofJKPwBGEd8fIeuD7GhQxb1oDG5bqC3fbiQq-6qcen9QyqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Mehringdamm 33, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.5410406,
+            "lng": 13.4148786
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5424414302915,
+              "lng": 13.4161079802915
+            },
+            "southwest": {
+              "lat": 52.5397434697085,
+              "lng": 13.4134100197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4bc77aa5dfc687c9bc0cc5f82e192334e5ef3ccb",
+        "name": "HUMAITÁ CAPOEIRA",
+        "place_id": "ChIJxand7P9RqEcR0nXv_-Z21Ns",
+        "reference": "CmRSAAAAJTSouWvbnQC6l7CR6erFKVxU8l3LGOFcuTKt7681ibAWSp0njyTEVWbIQSDVYZYj3xS1vGbrz5zdLNK4F4h13y9rKwcTPw33vtv6mS7cWVs5SsWm1ETOw-nWoz2Abh36EhDWgcBbHSrFabYWJkkiqUVAGhS9B3GtXZWxaqxMXBiAaYCrN88vnw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2, Lychener Straße 75, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.4932117,
+            "lng": 13.4199069
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.49456068029149,
+              "lng": 13.4212558802915
+            },
+            "southwest": {
+              "lat": 52.49186271970849,
+              "lng": 13.4185579197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6e324caf3474c66fc500cdb1a47e899c6f90cbe8",
+        "name": "Capoeira Kreuzberg BerimbArte",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 669,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAA9qVcuSKP0ILN-KSp-OYdQFKZJ9dMQiuAEh8V5BwIXG747RtzbjJoOVI84gqrh5no9tDqEH8eGJAMRlUXhm1sIqRAhgVY576f4zjFDVW5NHN4qLHjHhwVnucn_TEsETI2EhDMuQTDpGqFssDZ5C8DBOYoGhTwba4pqm48Oo5aRNkK3GKOtijk9A",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJU9-ezctPqEcRj8ryAHhQ0to",
+        "reference": "CmRSAAAATjrqr_bB4vYmLA9kXK816q1eEic3bo2m15DVcDyud7ZdGz75HDnCaa-N2Kg20ISrB-V6T1gGU9CLEg8x5S5ecCmMuUm9wcGAlHWrmtDVCCjjSojHMJKylDee8g3XKfaBEhDwuG21zK6pED9SD-hs_fndGhSWxKpROTIsxKk6j1n5LwmQ_L8Ofg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Böckhstraße 21, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.4957991,
+            "lng": 13.4304989
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.4971514302915,
+              "lng": 13.4318386802915
+            },
+            "southwest": {
+              "lat": 52.4944534697085,
+              "lng": 13.4291407197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "41154bd17ef3b83e7e2815f4f9a0b41608deac36",
+        "name": "DIETURNHALLE",
+        "place_id": "ChIJXdlLxLRPqEcRBzLpg57aFkw",
+        "reference": "CmRRAAAALHc3uii0XWZWEWyqfekJMs8ZT4RoCista-dDtIMDQf63HemvPqssB9znazXkLBiiF32ZzLBjXfZkQ-NCTbEpOOXgMlnkXeglpb9zupT4JULMJ4nqxRqBIqvWD5b-LQyqEhCgbpsoxwFtc_narKXfl7ZbGhR4ihAdR5vntPUlcjxidjH8rN3D1w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ohlauer Straße 24, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.49075,
+            "lng": 13.3789599
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.4920932802915,
+              "lng": 13.3805122302915
+            },
+            "southwest": {
+              "lat": 52.4893953197085,
+              "lng": 13.3778142697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a985a11780d9dbe51f0cc638330ace748b218ce4",
+        "name": "Tanzfabrik Berlin",
+        "photos": [
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107545599537284070632/photos\">Gayth Alsawaf</a>"
+            ],
+            "photo_reference": "CmRaAAAAuGlpNp8sJmC0VCVvmkmCaACfKdN3cF8gR1tbyKPdO-n1SHQgCE9b-lERO2B30ORUTFosCslC5GlZkEVUJuY6kqtjC0mfju69HSMLIVPg3UqIA5waz3SBY8BajzG0PWgrEhByl_XJaDZIDoshNai2ubAqGhSZjOXx2fylBRohiwdcxaE19cSthA",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJX3OibiVQqEcRebkiP6AnR5U",
+        "rating": 3.9,
+        "reference": "CmRSAAAA3M3loDCm4PY_tQXdf-_tK6lfQFZzm83T9AimkL3o5S2UZlt3k7VsuwXRHUsOjHdqTPa3ZTUMyFzcljarPtQt8h3wnUfwPEHFRfNVRf-pWlkUebmvrWSubrkOCWkZnMTqEhDPpwuPEKxYHizGk3CJXOGEGhQy-LIQZJjtApqaPBFx-lg7-cMKFA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Möckernstraße 68, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.4899858,
+            "lng": 13.3789178
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.4913294302915,
+              "lng": 13.3804630802915
+            },
+            "southwest": {
+              "lat": 52.4886314697085,
+              "lng": 13.3777651197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d6a9e42f8733c4cac95968fa51e7201d74bc79ac",
+        "name": "Forum Brasil",
+        "place_id": "ChIJh8VoDyVQqEcRC8fHI9JmgpI",
+        "rating": 5,
+        "reference": "CmRSAAAA_b3H6i6YnH1RPKUq9cym0FWbnKHBigB8kv8fB8UwHBNhTJ4GoZg3J7JMY-nsf31BI2ryjlusgjhDoSU-94mqQjkClLSdLTvYZX1IKaIp5UirmJd1b2uqPWrszEatFYWWEhAk1nqvz3aNdzy3H8xg7y7cGhQ5mB6p1Aqw-bOh4Xut9pRcx-nX8g",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Möckernstraße 72, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.5122575,
+            "lng": 13.4485223
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.5135801802915,
+              "lng": 13.4497748802915
+            },
+            "southwest": {
+              "lat": 52.5108822197085,
+              "lng": 13.4470769197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "256007fa6f9c2294f68c3dddce704f9a25881b85",
+        "name": "Capoeira Cordão de Ouro Berlin - Contramestre Izol",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 501,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116860770196564821972/photos\">Capoeira Cordão de Ouro Berlin - Contramestre Izol</a>"
+            ],
+            "photo_reference": "CmRaAAAAPKab4Q7J9VaqdECQG_bCiTKdG6C3EAk4eS1IjWtcGCzBwGvEjprrlcl6PgYoCMfzwOcRZgiu3whdW5jyXNwkl4XocHjFZkDiQ9r9cwiKQKtAETtp8MjYMX0m88OyB6XeEhCnlhvyl5qV_PwQPpHrJ1qQGhR0v0BqaHGxx4MP0vFupFlYAVpc0w",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJp9jiNUNOqEcRcAsdtkKNCQU",
+        "rating": 4.4,
+        "reference": "CmRRAAAAPUWYCehl6H6JKUilRm4PaBFN_ticniRfnjP_1u1GoiaiOgaNmfK8v27j0W7a1KoCCEDD7BMaofGtdE-CEkMzapYZt2FV0ksCER0iZmkuP-bATbx1o4iSSAlkgziYV3CfEhB_pdADnXozSqu9z1gplqGvGhS1Ft1YeyElg3DQofnvpBTAYDKq8w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Gubener Straße 47, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.52172,
+            "lng": 13.44906
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.52317428029151,
+              "lng": 13.4503384302915
+            },
+            "southwest": {
+              "lat": 52.52047631970851,
+              "lng": 13.4476404697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd54177af85644300cfcef6be91f5f004ecc85b9",
+        "name": "Imago Tanzstudio",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 368,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113132650872841687320/photos\">Imago Tanzstudio</a>"
+            ],
+            "photo_reference": "CmRaAAAAb5y_PJEF97ur5HOgJyVv-O20BVHbthe-tVfBJbh9zWyr0wf_65pHjUW_HEEw3zfRZPDfBBiUmrj2CaHAreSVtKNt0itKWIN1pOEi7ZHhNCsA6uDzHIveGeMgvWNYAz_6EhD8ELvhnG7nYKu2_PQ9fQ8YGhSgdumu88cQtYQPoGfjFjwHwyX_7A",
+            "width": 950
+          }
+        ],
+        "place_id": "ChIJRbEo025OqEcRqUB8g8PKraA",
+        "rating": 5,
+        "reference": "CmRSAAAAXeRvveNSLPpL9r-jLXTN9Qw7m9IOwjA_Qkk2MdeDcVJ3BLProtFZaRZygg1X-DBgGU6aFzgsxrKwTxf6qhQmPNkHW3Gg7v8vjvPRsLg2AEBmp0f8k3lEoCT4l_GD6A4VEhBlq5AmYp4PubDCrAOmkV0DGhT03Fjn8WcxhYVqffr7X-GTpT34NA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Straßmannstraße 18, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.4977124,
+            "lng": 13.440173
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.49906138029151,
+              "lng": 13.44152198029151
+            },
+            "southwest": {
+              "lat": 52.49636341970851,
+              "lng": 13.4388240197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f62e8bf4b4e58266b4f8cb5d43936ba5231f63e6",
+        "name": "Capoeira BerimbArte Berlin Mestre Canguru",
+        "place_id": "ChIJ2Qc4ck1OqEcRiYEf_NfX35E",
+        "reference": "CmRSAAAAUwjtYCWhmrkbjCTORZ4YkLqcwqiGqiMqfgwvWHVPHMzxu-d5rOMCBgMCEtIZBs5HN9TRaxVDPGWdSULc-LO5sJ_H1xthV2XY5zQiU6FtarSIFQtUyza-0xq_1ZNNCb6fEhBLqbTKECGkmzWssCXDqEQCGhRbhlHzkICvC1oHvMLoj1xFR1T6kw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Görlitzer Straße 51, Berlin"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 52.4970699,
+            "lng": 13.4393511
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.4983671302915,
+              "lng": 13.4406555802915
+            },
+            "southwest": {
+              "lat": 52.4956691697085,
+              "lng": 13.4379576197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b7bf288c5df3c0e5a3ccd6c45c559aea2a50198a",
+        "name": "Abadá-Capoeira Berlin Instrutora Nativa",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJwQhvq58jZUERNEyCQRghnEM",
+        "reference": "CmRRAAAAgj3ia1MjKH92EJ_q6xqJcDZC8n9FFVks-iQTHwW0iJ_ezxy3wpXzg9H1TfRb0tndoNG9HRS7wtswq9jRj6PNZU6oZsiGRNB4iCM8MCxnicz-8O9kESdzg0oGRTGdV7MPEhD8Z5LkdxaJfLqr8qvVW2xSGhSF8AjTvXXIU1IlwjrXouMUcrKA-A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Görlitzer Straße 51, Berlin"
       }
     ],
     "status": "OK"
