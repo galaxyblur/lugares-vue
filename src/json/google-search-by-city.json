@@ -1,20 +1,65 @@
 {
-  "city_name": "guangzhou-cn",
-  "city_rank": 58,
-  "city_population": 3152825,
+  "city_name": "durban-za",
+  "city_rank": 59,
+  "city_population": 3120340,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "23.116667",
-      "113.25"
+      "-29.857896",
+      "31.029198"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 3120340,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -29.85234599999999,
+            "lng": 31.03387
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -29.8511672697085,
+              "lng": 31.0352513302915
+            },
+            "southwest": {
+              "lat": -29.85386523029149,
+              "lng": 31.0325533697085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "98f55fd824577957da3e6aee50734e50ea1cdfc3",
+        "name": "The Morning Rave",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1331,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101181599480792511850/photos\">The Morning Rave</a>"
+            ],
+            "photo_reference": "CmRaAAAAm60MUAutqux7i_rRvY2txFBwZASB1-M4mIQfGsfUOeFn8afXUHmPE7gochaUsu71-CqU6hANXcZB-2NL6-qlyvPt8ZMiL7W9BCa_JrDlb8HRXWyWslCI9OIXqLYHhlhJEhB6aOdYeYsm_bwDlfclnxKGGhRdUIadGLfSw4mx3uh5BGlQiH_mSQ",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJ6XsKrjSo9x4R3WaUKXLeoz4",
+        "reference": "CmRRAAAAncKmNZoo_ax4Ef1POOUxo5ptTiUxpVEUB0ZKW1VDf_AGNWVSGLBNKd068ZePcfKRKK5qU1746fxvgmD0DuJyYIMwTnShPxUX_ePBKatCDsUvmSHxZUch46-P6AoB_J07EhDAHejpJryAZhlCK8rWBc3xGhT0kCs0cio4G_Ycx5FL39bH4sDAOA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "8 Morrison Street, Rivertown, Durban"
+      }
+    ],
+    "status": "OK"
   }
 }
