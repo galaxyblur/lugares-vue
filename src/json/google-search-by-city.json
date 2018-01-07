@@ -1,67 +1,20 @@
 {
-  "city_name": "medellin-co",
-  "city_rank": 103,
-  "city_population": 2000001,
+  "city_name": "algiers-dz",
+  "city_rank": 104,
+  "city_population": 1980242,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "6.25184",
-      "-75.563591"
+      "36.7630556",
+      "3.0505556"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 2000001,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 6.2467579,
-            "lng": -75.5923108
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.248106880291502,
-              "lng": -75.5909618197085
-            },
-            "southwest": {
-              "lat": 6.245408919708497,
-              "lng": -75.5936597802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "16bcf4fe6812fad0728f842b11ffe988297f570e",
-        "name": "360 Fitness",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3984,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101712832770951879361/photos\">Germán Guevara González</a>"
-            ],
-            "photo_reference": "CmRaAAAANLxjXhzoZpNYIrFUW0BaTZtDymiJ2yHgL7aHLSn5mDTCOIa_mWMbap89rJd89-ffXGWlSBb4JTwWAd6bSHZUI6UcFCO1okMRR7rMAPbAIaRNUoEE1JKK3BrVWFWtnSFiEhBBc-2SPseJ0kGSJk-4xL0BGhSSl0QePqDFPD7xBB8bZV71AcqmbQ",
-            "width": 2988
-          }
-        ],
-        "place_id": "ChIJ2wMX16ApRI4R1i2u7z9pYok",
-        "rating": 4.3,
-        "reference": "CmRSAAAAKEbChoR7wAtUkYEGHyb5tuKeenev6Q-AcpGs35iDrZnjbSPtPs54I9hMS_nA8YGKrB0rx3hAiTjAPTmBmKcJfpjMBvpaipi3jo5E9IreJDLepwaY0LjLxuOnVXjZ9ih6EhD9Ah2OUWjpGg5rBAbD-HGCGhQAxEeaC-rTkLJrdhdnRZypyYU6-w",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Circular 73 #5-12, Medellín"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
