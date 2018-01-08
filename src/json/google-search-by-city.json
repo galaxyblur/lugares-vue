@@ -1,20 +1,66 @@
 {
-  "city_name": "bandung-id",
-  "city_rank": 127,
-  "city_population": 1699822,
+  "city_name": "soweto-za",
+  "city_rank": 128,
+  "city_population": 1695094,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "-6.903889",
-      "107.618611"
+      "-26.267812",
+      "27.858492"
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 1695094,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": -26.043475,
+            "lng": 28.015513
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -26.04185411970849,
+              "lng": 28.0171474802915
+            },
+            "southwest": {
+              "lat": -26.0445520802915,
+              "lng": 28.0144495197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "322c6bcdc59bf9a5fb0de3e381422420ca65c350",
+        "name": "Capoeira Valente",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2240,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115043508656771170746/photos\">Justin Weldon</a>"
+            ],
+            "photo_reference": "CmRaAAAACFe38N1udUs-gg7dCAFVTRyeYAwEmc7oCn4GynbuLfwT2ZrDv1nXOttIojiTNg8KEGk3Qb_n4DulgghrB1s8Sdizz1aS8PvDx_dRAuH6LTGQtD4u5i9X-TRMdtBZS6cwEhBVxJWSU0c72TEmNUowcBlJGhTU2d9VCof54lFc8C-VMGzJyxJpkw",
+            "width": 3968
+          }
+        ],
+        "place_id": "ChIJfxdSRaxzlR4R9jxvbTSZNos",
+        "rating": 4.8,
+        "reference": "CmRSAAAAvq_QzseOi4gurX6ANQ6VlAF6GUxCYK2xyuICPTWfmJwUyH04Z7uiAT0TaErFMx1XEhHmhAjmSEM2fGvZBZLEdndT9fC-HmnePsxNcPnq8J3ck1byZumfuaksSaGbwyUjEhBwdHLicM7TLp1CuHdAjP5aGhRCRm5xI_YJZSG3gWi5hLviLPymuQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Sloane Square shopping centre, William Nicol Drive, Bryanston, Johannesburg"
+      }
+    ],
+    "status": "OK"
   }
 }
