@@ -1,186 +1,20 @@
 {
-  "city_name": "philadelphia-us",
-  "city_rank": 153,
-  "city_population": 1453268,
+  "city_name": "karaj-ir",
+  "city_rank": 154,
+  "city_population": 1448996,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "39.9522222",
-      "-75.1641667"
+      "35.8355",
+      "51.0103"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 363317,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9559353,
-            "lng": -75.1595418
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.95723828029151,
-              "lng": -75.15820246970848
-            },
-            "southwest": {
-              "lat": 39.95454031970851,
-              "lng": -75.16090043029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "826a90714b4f2f28cc6695eea3fb6bb7ba9afbae",
-        "name": "Project Capoeira/ ASCAB",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109505459312584145533/photos\">Project Capoeira/ ASCAB</a>"
-            ],
-            "photo_reference": "CmRaAAAAIAsDzxOM-YqDTtsS1VXPFamQVmm9wLAEyRwcdA68O02UKvNfDkbFz05N0_7gJ0GNcYwXFg4csoG9pLBB0m_yROWyIBUrLZTgX3ddPmtCJCzrKrP_YzQRqyusGHMW3iCEEhBaRAKLVcETWawAf1vaXHSlGhT9RPt4O77xyWtPzMy_yzZIH4JjlQ",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJXc3gnCvGxokRYVY7P40AgSs",
-        "rating": 5,
-        "reference": "CmRRAAAAHQdjl6AKpWqaiP5XiznTtYFkDzCCp3fkOy_GR4do4_69zLcweVeJ45VmiuLirDxrlS4rby9CIzVzKfkNg2-SsEPPkQSLUqyDid-hj3uO3dTy-nt8YIWR_5l3L9Alv2BsEhA5D4lDPA9S4ilTvpLjpmJ-GhQQUTcZYoEC-FZqXrQKX-h7xEbK7g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1213 Race Street, Philadelphia"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9359998,
-            "lng": -75.1675589
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9373298802915,
-              "lng": -75.1660471197085
-            },
-            "southwest": {
-              "lat": 39.93463191970851,
-              "lng": -75.1687450802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2ea0b326b9dc61560f06a811f41f07a29fdcac67",
-        "name": "Vai Capoeira",
-        "photos": [
-          {
-            "height": 397,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104592184097279412634/photos\">Vai Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAHl58ZEI-TGAryK44k3-XjEND6y-FneUH3k9BD-XhQVRgFwN0Fu7IH7QXGQpI8uYV2HcozNV59u-PhPTDXeSmfUBL7yZMl7ST3htYJqWelEqz069fBqztuIxIE4Ud9OcdEhAVT4fYzYsmXx83eAwvt6hwGhQfe7L93YZ1FY2vCpL5kLoEuL02QQ",
-            "width": 600
-          }
-        ],
-        "place_id": "ChIJYQ32QRfGxokRnvBIXOAn4Y0",
-        "rating": 5,
-        "reference": "CmRSAAAApaIJQW5x9__XtNwe4Er5Pq8FmsQvokB5OTajuw0j4IVbUXC5V1cxApKSosulu_zg0O4tkMrSoOfwgLTgu8K7d-QnIBG2JpryW1tPOAKeeTIOOAsnL30P9EEHsZqEdMvDEhCdW3h0E68604jjRMEEPf60GhRAPv9UUaHNdJLs3o6VJdU8XyBXrg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1170 South Broad Street, Philadelphia"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9576927,
-            "lng": -75.1926202
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9591558802915,
-              "lng": -75.19116826970848
-            },
-            "southwest": {
-              "lat": 39.9564579197085,
-              "lng": -75.19386623029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "199bfad6550520f532b08765520ccc5ff213f516",
-        "name": "Community Education Center (CEC)",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111886239778769948650/photos\">Community Education Center (CEC)</a>"
-            ],
-            "photo_reference": "CmRaAAAAZhrJcN9aWhdXEMWzmNQThjayIQxVqkuTHjEhec1kd1OsDXSKVBr5kxXMDkZfYqMU_0Hbwgz-CCQh-uJc0zR4DYjWDMg52Ohp_qMZiX4kvhrubwZR9kcdoRnOmVRExDCvEhBbG08_4ctNquMyY65yjELMGhSvk4saKr0fGo-zHquSwVPd-pOMZQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJu0A7eVHGxokRR3ykbHBlZ84",
-        "rating": 4,
-        "reference": "CmRSAAAANL8Gc1uQUVPDQE7LeWx96Zal9zTYzHk-rEo0bNQJI0TGJk0D35osD5WNVJBgZrHH5LMzufq2RuXUpd4HezvPeknxXOSR71mdG2hRYb9EE1Hp6fxcD5hKIu1Y_9-pozh-EhDm_geyBfSgXZmkcs8d-3bNGhRG8EpcqOipBVgNnukzVWZF1rQMJA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3500 Lancaster Avenue, Philadelphia"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9488304,
-            "lng": -75.2135923
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9502590302915,
-              "lng": -75.21225786970851
-            },
-            "southwest": {
-              "lat": 39.9475610697085,
-              "lng": -75.21495583029152
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "9b5391d09760a794b93273f2242483dd5ce61214",
-        "name": "Lemba Healing Arts",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "place_id": "ChIJdU_Kke3GxokRZ5edm_mchKs",
-        "reference": "CmRSAAAALBFcGPLPOGTXRxRQgSQHKj4KUkMP4n1axxu18ZjMmmXuFlBWlvZ3AfzAvYES7BCEgCPt1DNxcWqMvJc_U_TQ6O-b6LRV6HxIsznjnH_BrEdlU5b5f9ENXX3NLCCQA9YfEhD-6vOoVyTjzOr3bMOIzdhpGhQVhvX78LeRDmrkfuLcTsCgT3n8kg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4522 Baltimore Avenue, Philadelphia"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
