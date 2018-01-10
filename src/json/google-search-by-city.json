@@ -1,150 +1,20 @@
 {
-  "city_name": "juarez-mx",
-  "city_rank": 168,
-  "city_population": 1403025,
+  "city_name": "fushun-cn",
+  "city_rank": 169,
+  "city_population": 1400646,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      "31.733333",
-      "-106.483333"
+      "41.7",
+      "123.883333"
     ],
     "rankby": "distance"
   },
-  "people_per_result": 467675,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.707306,
-            "lng": -106.423497
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.7086549802915,
-              "lng": -106.4221480197085
-            },
-            "southwest": {
-              "lat": 31.7059570197085,
-              "lng": -106.4248459802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "3f11bc0255c1328a49460ffb1f387bd7ddaecc49",
-        "name": "Panamericana Alcatraz Gym",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118314258706970286944/photos\">omar ruiz</a>"
-            ],
-            "photo_reference": "CmRaAAAA1GoBYGBtsTccyxEwUQx_1gZkUEZRznJL7Y387AW465KldBgtXhNfmPJMjbJYTmaHXdDvTmi6IG1n96GOEyBs_0mtFh5wK-BsIIAGXk6ziCaHqCWY-qEaCLrV1RYVFiKqEhBT1RGFYLi15L2FgJl_lJFlGhTjrnu0Eq_oI4Am62IogCWGOreQSg",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJ10GzFzxc54YR_-XO-lTZgnU",
-        "rating": 4.3,
-        "reference": "CmRRAAAA2eky5dgfHcKEn3lcJXPf67Iyn2j4fz25-grzK23Ubg7K76Ev3pKGyoFWfbzWZQqSfHgroD4uBjdfMnv5jpycC7KH2KpH8XMB9g_agQNVbHKhLMWdR-wQOZ2UdydHPpCSEhAWMN55ProvxcOA3CwVgW5OGhTH7rkP6snL6oK6Q5pkKKjiUrYOjA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Av. Tecnológico 2230-J02, Pradera Dorada, Ciudad Juárez"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.7833733,
-            "lng": -106.4431482
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.7848513802915,
-              "lng": -106.4417995697085
-            },
-            "southwest": {
-              "lat": 31.7821534197085,
-              "lng": -106.4444975302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "51d691e2223d1aa2c0ce4e77bfee08023c61fd25",
-        "name": "Capoeira El Paso",
-        "photos": [
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109679038538911578455/photos\">Daniel Ibarra</a>"
-            ],
-            "photo_reference": "CmRaAAAA0q7D9TBp-2WPd_uiSTI9jpT6Kf_5f7vO6zHtz_VoLQwoybAYa3eiyL5dUjGPaWM7VBLPmJTvO1WII-fCME_9TO2LExKSX8axRGlvZ_6hGWAb4IIB1qUWx3DoAj_0VhNrEhDlS1RPKSzcfgl5RLQtq3qjGhROzW_-LxcrNWpmuGglPpeKWGwQiQ",
-            "width": 2448
-          }
-        ],
-        "place_id": "ChIJJXNB0YdZ54YRjpyf1-99IKg",
-        "rating": 4.7,
-        "reference": "CmRSAAAAYJiso6QRuNvRV4jZkjbiR0bdg1D-eFWzDs1C0tu3r8qWfUqhlSHixrpdNHN2tHxFXsgNvFnSQNBKRcw8U7K3XN0QOH-TEa1KNOfkwYG9P8pwnmPqpLq6klX5hh-DFTnlEhB5dnQKPxTQ-3HnAX9gIg04GhT5MRF17TSa76qp5-6TdZynVibK8w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4106 Montana Avenue, El Paso"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 31.7834519,
-            "lng": -106.4431241
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.7848906802915,
-              "lng": -106.4417753697085
-            },
-            "southwest": {
-              "lat": 31.7821927197085,
-              "lng": -106.4444733302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6c3f2876093e8b1b1948acb21c4027bb003a0d60",
-        "name": "Sol Studio",
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113596018296829982031/photos\">Sol Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAAhSALBslK4UKL7dBktwrskC5FInNTP-9CeEMkAKt3S7MAQd2qMu0UZ0zRv7CGw11BmP8QrRwpbRBQQrp97YstRYGGx0W2hrFYdsC7i62GJTNvzVrTaSZcco5EHGB0UzCFEhAaBQ4pnF1PHgZfY5YgU6DMGhS8hHZHM6v-Fj2hXjqTBUmXmKpo4Q",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJyR9b0YdZ54YR1ArkOGpv7H8",
-        "rating": 4.8,
-        "reference": "CmRRAAAA48q3WlRMsw54wuFYT78vp9QU_wpWf2LcndfENKOOoeuynKumgDHwtoV9JGV1PkMeelzG4c64-XyUbFnckwnncQ29TSOKuKVybFXy1cv4OvNt3AecbyKyZDH5q65DwYg7EhD0tavR8c1g-iyTkuiDZD59GhQth-fIYJJgMVtIxsYnFTkakzfkQA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4106 Montana, 4106a Montana Avenue, El Paso"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
