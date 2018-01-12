@@ -1,71 +1,94 @@
 {
-  "city_name": "detroit-michigan",
-  "city_rank": 18,
-  "city_population": 688701,
+  "city_name": "el-paso-texas",
+  "city_rank": 19,
+  "city_population": 674433,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.331427,
-      -83.0457538
+      31.7775757,
+      -106.4424559
     ],
     "rankby": "distance"
   },
-  "people_per_result": 172175,
-  "possible_duplicates": {
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27865 Orchard Lake Road, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Road, Farmington Hills",
-        "score": 0.9245283018867925
-      }
-    ],
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Road, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27865 Orchard Lake Road, Farmington Hills",
-        "score": 0.9245283018867925
-      }
-    ]
-  },
+  "people_per_result": 337217,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.42237899999999,
-            "lng": -83.176875
+            "lat": 31.7833733,
+            "lng": -106.4431482
           },
           "viewport": {
             "northeast": {
-              "lat": 42.4236627302915,
-              "lng": -83.17565756970849
+              "lat": 31.7848513802915,
+              "lng": -106.4417995697085
             },
             "southwest": {
-              "lat": 42.4209647697085,
-              "lng": -83.1783555302915
+              "lat": 31.7821534197085,
+              "lng": -106.4444975302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
-        "name": "Tabcat Detroit",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
+        "id": "51d691e2223d1aa2c0ce4e77bfee08023c61fd25",
+        "name": "Capoeira El Paso",
         "photos": [
           {
-            "height": 2988,
+            "height": 3264,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109679038538911578455/photos\">Daniel Ibarra</a>"
             ],
-            "photo_reference": "CmRaAAAA9kvy2jaeYSAbUg4oJVaUGqci-XhXVJ_KjIno93PN5tKQd_ssYnJiugw8gLd0JwgCQHOh_BwWjvK0ZscV8rhx6D5XU5Mpg41dctDKf5m58J_DKqdx3JnpbbqFHZWYVMqzEhAnRgrONhLiyS6YnCsiLXDVGhSEjPdMT3R_UnumK52G4XxgN-q45Q",
-            "width": 5312
+            "photo_reference": "CmRaAAAASHYPucWsqgENskJ6yZuzrWj-B2mZ16j9nYv8g-OAVS5otFMU9Cwc5KgIcoZhac2vbwukw3lL2OuNwGQlVyAw2N93OU8PE4JrlyzMYz3K7zmh0e-SekrZgFEf1P0HhR8ZEhCfbzNj2nnqsGqNw8kvrq9FGhQ-kyg97ZnwrFd4mkt0eLHRxGbFbA",
+            "width": 2448
           }
         ],
-        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
-        "reference": "CmRSAAAATR_vdkdLQ3wqh9GK-k0DxxBnTt4ogHjSKH1fuyu2wL95o0nPoiYYpTRDEGT2VTdclkyNWu8KuEnc0e4TYwU7oaZphD91G1fV3U2xmwjkVxGGU4VDhG7iXz4sZENWoVqUEhCQhDcwCqEzmP0DqllzcrawGhQWMEVg8GT1jRWhWcOxZpEZq383aw",
+        "place_id": "ChIJJXNB0YdZ54YRjpyf1-99IKg",
+        "rating": 4.7,
+        "reference": "CmRSAAAAuiYI5NjBwkb5WqyntUHdgea7ygW0CgrDvgqLaqED8EG1InXZTOVl2hb766_CsyCV2NW1wrtgFYOJcz1QDu4ciIohXB2YC-tB0TNbDXWmp71GlGgCLsaIpoRg5Uq9cttSEhBbxAfccDMWSN2JKAe2ZWFfGhQUsT053X-mzKb1WO6UcVYH0JWm8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4106 Montana Avenue, El Paso"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 31.7834519,
+            "lng": -106.4431241
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 31.7848906802915,
+              "lng": -106.4417753697085
+            },
+            "southwest": {
+              "lat": 31.7821927197085,
+              "lng": -106.4444733302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6c3f2876093e8b1b1948acb21c4027bb003a0d60",
+        "name": "Sol Studio",
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113596018296829982031/photos\">Sol Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAIoBgT5Kg-A0WCJSrR9xymIBJ-pSnBMVPBbKIUBjx69Y_Q7hp7-CKWfg26qrS0MJNP71mbYSFZe0a18z2l_GchYzUHWPBywTopzNjQRNXWHeHTW-f8rbsw0EgfifFL9g5EhA45nwnEU09mds-ljP2k45MGhSt0zn2XJxEC0L3HTQdKhzaaDGbyg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJyR9b0YdZ54YR1ArkOGpv7H8",
+        "rating": 4.8,
+        "reference": "CmRRAAAAbEAHTg0n-CsmAA1dnVDnOgWOH8Bl3q-8DKfodYJQOA7NhTGzCA18rAsfpF5lav0sFUPv9k4ggLclrPFtTtjor28s4g2K9NT-UYo689-7qhtDbGH56WfDOrO4ffdvXMMREhCEq_z9ph2A2QYE66chCj-aGhQ4xyMR-49DSzIu9gC10vhIWZcMPw",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -73,127 +96,7 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "18018 James Couzens Freeway, Detroit"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.4602986,
-            "lng": -83.1370883
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.4617724302915,
-              "lng": -83.13574626970849
-            },
-            "southwest": {
-              "lat": 42.4590744697085,
-              "lng": -83.13844423029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
-        "name": "Capoeira Mandinga Detroit",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1626,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
-            ],
-            "photo_reference": "CmRaAAAA-mPRT3Jak4abtSjM8ls_BsKasPy7CO7zA6bCpJeR1O139BnL5ElAbgUD92O1S8jBNNFXCHrDWlwsr-m6FvT-VbluP-efJyOxv5LO5OYs5dqKpRm4lR8GJjsaoDH25kiREhBScGxcSM4wlEDvrTbbCVAKGhQpyCaQshI28On4BDpX99EmqSDG9g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
-        "rating": 5,
-        "reference": "CmRRAAAADwcvZmoAQfvkQBzMiyOhUHgyPTAYiFvn2UUhesNFyByLUCnp2SVVp2NANaDe0kDHcBNZh-CeA_xRtENCDKeoG8FJrnIQlfRFa5fnpL0JeTcc8G4KDw2IoSpfKXaMLwFLEhC5CaXmLDfHHnGfq--vai4mGhSel6qPDkpb-RAdMjz6JetmKAPeJg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "247 West Nine Mile Road, Ferndale"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.50065949999999,
-            "lng": -83.3608659
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50203943029149,
-              "lng": -83.35769595000001
-            },
-            "southwest": {
-              "lat": 42.49934146970849,
-              "lng": -83.36192254999999
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 414,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAANxE2L2kAJzBVMmQ85JQTEG9aQRz6CxZiOf5kAVEq25loco6bWyUHkiYlEbvNuzsXMZ2Z01u0GxHY9cUd1jfhRJc9FfEz6eW7zJnlyzchcZXjYliBtOBgeR_b-aCcysfDEhB0DnJAnEuG4UiGlEqOf4YGGhQQgXKC-c_S0gpv5l1RjCGUjn0Vfw",
-            "width": 820
-          }
-        ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
-        "rating": 5,
-        "reference": "CmRRAAAATIiLHd_5Y8kLemv6Mx_S6RCG4i1KrlYwqs0utuh1x0lC0fEe9Ntitlqc3x8F9ZkM-15zbI60FRX42aLmLhRcc1OBQYu7liLK7wnjX7aR96_9DnxaJcKUH-KmqjG5ENKIEhAyosJWQIsCplRqcxKC95QqGhSj24G5tkQj3oho_75meG2eqXkJRw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "27865 Orchard Lake Road, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.5290309802915,
-              "lng": -83.3588091697085
-            },
-            "southwest": {
-              "lat": 42.5263330197085,
-              "lng": -83.36150713029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "reference": "CmRRAAAA0QxB9XiDRlaCoFCUO_JVQAaGf_TG0b7v2C4dlDcEGR8YTFjWSAUIRERrEtIyWpiMXCECRT4hd_zVtD_ZwPjyLs-50vBQkXy3kmO4OVZIwsjVG7q-Bl7JbmJClf6cpuHlEhBBteuuTlahdRgvN3gA1_WRGhTajy7axORl3vuIUwkQZb6ObOky5Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48034 Orchard Lake Road, Farmington Hills"
+        "vicinity": "4106 Montana, 4106a Montana Avenue, El Paso"
       }
     ],
     "status": "OK"
