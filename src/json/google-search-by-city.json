@@ -1,20 +1,53 @@
 {
-  "city_name": "oklahoma-city-oklahoma",
-  "city_rank": 27,
-  "city_population": 610613,
+  "city_name": "louisville-jefferson-county-kentucky",
+  "city_rank": 28,
+  "city_population": 609893,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.4675602,
-      -97.5164276
+      38.2526647,
+      -85.7584557
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 609893,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.2172038,
+            "lng": -85.57172589999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.2183612802915,
+              "lng": -85.57078776970849
+            },
+            "southwest": {
+              "lat": 38.2156633197085,
+              "lng": -85.5734857302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "ea69e276bd46ade9811520fb06d59c2425f3551e",
+        "name": "Freestyle Fitness",
+        "place_id": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
+        "rating": 5,
+        "reference": "CmRRAAAAHJ2Axv63CiBrgR75H-6ZbJHYCm8ZJQkKY-cjgNouij9dsP2pUyqgMwz-g7Ht9ntd8ZCcScCPDdDRnnc2iKh5ln8fve0E3Sw19hDdq9f0a7qJ7UQDGarPcPAaa5ZWKiAHEhBSHcMzHatFWkpiJ3JinAuUGhT-VNoA7anrCEmMiGJ6ZLdjIbDYWw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1825 Plantside Drive, Jeffersontown"
+      }
+    ],
+    "status": "OK"
   }
 }
