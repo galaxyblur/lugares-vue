@@ -1,16 +1,16 @@
 {
-  "city_name": "dallas-texas",
-  "city_rank": 9,
-  "city_population": 1257676,
+  "city_name": "san-jose-california",
+  "city_rank": 10,
+  "city_population": 998537,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.7766642,
-      -96.79698789999999
+      37.3382082,
+      -121.8863286
     ],
     "rankby": "distance"
   },
-  "people_per_result": 419225,
+  "people_per_result": 166423,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,23 +18,63 @@
       {
         "geometry": {
           "location": {
-            "lat": 32.8649764,
-            "lng": -96.70243339999999
+            "lat": 37.3487717,
+            "lng": -121.8944957
           },
           "viewport": {
             "northeast": {
-              "lat": 32.8660702802915,
-              "lng": -96.70109026970849
+              "lat": 37.35017473029151,
+              "lng": -121.8931867697085
             },
             "southwest": {
-              "lat": 32.8633723197085,
-              "lng": -96.70378823029151
+              "lat": 37.34747676970851,
+              "lng": -121.8958847302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f100e2d788e4d387c9849c5f95cd20413a8325a8",
-        "name": "RCJ Machado Jiu Jitsu Lake Highlands",
+        "id": "37da44aa45eceb332d390e7f6680977f0efbcb09",
+        "name": "The Get Down",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100965419533916871810/photos\">The Get Down</a>"
+            ],
+            "photo_reference": "CmRaAAAAgfuj6NtnIeTcQyNHPHNOItVlH5IYTyDdimCDIdlJF6BWlcfttPOOIcc5lr7be9t8P_mmyvYurdf5wn0b_x4gM6YlBaKfTsPGyvotUIu2Gj6pjSFf6BtpqeyZWGjQysAcEhAQgGsC7Uv_Qw7-MR5A1OADGhSbLZbCyY-8SoO1b9V1myoqgvtUWg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ3fua6oTMj4ARKEjKeNUpJPo",
+        "rating": 4.8,
+        "reference": "CmRSAAAAQFx3s3sWaanRjXh4xNVZ8QMLulUD8sgBrPquvaCYcyonvGr4OVGPU_xidPCIqZwMv7l1c-92YyM-FjXdSiKJPXqmuDubw2Ohgfm1KVdIQY--XQ8M5Lt4GISmFafUEVk9EhAuP08wqbjkvxLV7tHDfmNJGhSGfyG0ghe62A_JCJJ1sjXqDcDFXA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "198 Jackson Street, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3300266,
+            "lng": -121.9112649
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.3312286302915,
+              "lng": -121.9099059697085
+            },
+            "southwest": {
+              "lat": 37.3285306697085,
+              "lng": -121.9126039302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e9bc5ac1439b4160bf7b9283c1e3983eaff53382",
+        "name": "Capoeira Irmandade",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
@@ -43,105 +83,120 @@
           {
             "height": 2048,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102917569815573794032/photos\">RCJ Machado Jiu Jitsu Lake Highlands</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110828806908710708745/photos\">Capoeira Irmandade</a>"
             ],
-            "photo_reference": "CmRaAAAAQ4JkjdrMhQOaqro3iAvAf9Y92zp3c2l0atCkbGmMHoPgXi4A8ogrSyTjtlUoPRh5lTEN10z7bcjpnOOdn2aKx4k8Rf3KDebyq5aIylj7c3C1NuqdhYbKySCyZe0SsUwqEhCl5OJvlNzxa-CIhhvqSrm7GhRayr2MXK1Y7aVjU-NItE-fXAPjUQ",
-            "width": 2026
+            "photo_reference": "CmRaAAAA9-1yy27leu_xWznpAOWo2VAeKT-xBuzy-T6XsbBESbwVOftkN_zlaSAC7D5im59v2TacWCODn_0HehIiVAnWmtpZKBa9vrmhVdV9Sp063QjiFro-rUyUyJz3ARztKEq8EhDdVeRyhjAYcyCOStPlAtGZGhTeQOkjDHqAk0F2D_frMiE3SlBDtw",
+            "width": 1536
           }
         ],
-        "place_id": "ChIJGYIw6vmgToYRDZPScIoFVnQ",
-        "rating": 5,
-        "reference": "CmRRAAAA4PYZ5o2tVqNbZ6yanhhuEfLXuFY7BkWL6xflTB7CEBuZeE8VP1rWQdtRpfiw4tztf4LXFGaZ0--6O1IDEbdlDNcvHBvBMMuFsi0CkWfmlRRQENgB6pJmMr16smjXoIelEhAz6zXSSNTRW9iZnmT2aOqmGhTJpWZr-uUpeI0hYVl0uXELjBfy-w",
+        "place_id": "ChIJMVjJQKjLj4ARuGnGsQc2joU",
+        "reference": "CmRSAAAAMr_c-nBMdwDwXubeVG_irVoB8MuBLbRX6lsvWxevgTizQeJu9mLGIWL3myOkVAgsMm76gQ3WktvOrprXn5MwtSuQ_Uis_f86VJT8TrDpOnmFCJrLgpWQ7wvNyeIAuUJDEhAPg39q-VdijCg2dyk_M39KGhRzTuoO3BiaLotkRMQb9WfjrxyNNQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "10675 Northwest Highway, Dallas"
+        "vicinity": "1043 Garland Avenue Suit A, San Jose"
       },
       {
         "geometry": {
           "location": {
-            "lat": 32.9290085,
-            "lng": -96.83263679999999
+            "lat": 37.3171942,
+            "lng": -121.9075973
           },
           "viewport": {
             "northeast": {
-              "lat": 32.9302614302915,
-              "lng": -96.83128836970849
+              "lat": 37.3185203302915,
+              "lng": -121.9062991197085
             },
             "southwest": {
-              "lat": 32.9275634697085,
-              "lng": -96.8339863302915
+              "lat": 37.31582236970851,
+              "lng": -121.9089970802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1c471a67d3182505545759c04523512ac3573399",
-        "name": "Dallas Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
-            ],
-            "photo_reference": "CmRaAAAAOWmxLYiCpLmdMIqG4XheCl2HYIrV6Ezi6O9HgUPGehJvhj6jBpN4r-37_7VWLLHcTqqgwdm0pgDPHP1q8NejL2Jny6RKmEVxn_hn7DgLkE36RSjob7bYodNqOKW_QFDQEhA8VlnHXfp_HE4xup3gxRlIGhQFOwlE8ovhKPGlEuomVDfh72SoDA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "id": "e4ce3401946dfa91cb4b7279b4a9d6cee732e317",
+        "name": "West Coast Martial Arts",
+        "place_id": "ChIJVRAph1PLj4AROXgZ0qFuUTI",
         "rating": 5,
-        "reference": "CmRSAAAAQ1Uqqyu0W96pMgomUiOwEUUKm9aRmMLis878xFEXuPU9Fe_lBYRrJ5ZZtqdI8QGIotvzoWL6b9e3IQu6zFVKD4Qc4RN3I_-0KS3WuEAIsGE0rPFwZ7mIh22LHTWdeOzjEhCw4e9T_E_NiqIC2JTAlsxRGhTRIQh4uxyJruY6256_AA78siB3Eg",
+        "reference": "CmRRAAAAjxW2rB15ighe1Opacc5_BHWeuJ-n1Im3uTbnKAUPEBze3PsAiq0jlcnv8KkTCsn7FOGy8nb2FlvtxpGVFKcHNTBmyh7u-SHK9r5wrO4Vi1dCk2pSGcwuFijy4MEEA-7uEhCBcJZazHGXvkEEN0BbfRosGhSIkAYSlLPOdT_ZtzCz-Njj8mkTug",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4505 McEwen Road, Dallas"
+        "vicinity": "668 Lincoln Avenue, San Jose"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.08637239999999,
-            "lng": -96.67050259999999
+            "lat": 37.3311167,
+            "lng": -121.9497948
           },
           "viewport": {
             "northeast": {
-              "lat": 33.08797278029149,
-              "lng": -96.66964151970848
+              "lat": 37.3324652302915,
+              "lng": -121.9486638697085
             },
             "southwest": {
-              "lat": 33.0852748197085,
-              "lng": -96.6723394802915
+              "lat": 37.3297672697085,
+              "lng": -121.9513618302915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a48c4d918a190373db68f0a79390f41fe9a22ea3",
-        "name": "Capoeira Allen Martial Arts Club",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d13fa4abe41228d875431a7499218b18ec6bd093",
+        "name": "Capoeira of San Jose",
+        "place_id": "ChIJ374KLP3Kj4ARzKRbN_lAi4c",
+        "reference": "CmRSAAAAvS9p-_IcvBDpnXOWYcmxR6a_BjxCph6KPJY8jbD-qclVGGodo1Sb1CMvtxdMf7WFaAazexYOirxpG-dZEKPvVl_lc4dfdHxev1KtpJxsy42vjznBDWZ4Bj80n4WYbgPOEhB_yDJ3Oz4z9T-zml89UUKSGhSzEEmfEFSLXvj7xZ5ogJX5Riy3xQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "850 North Winchester Boulevard, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.30011819999999,
+            "lng": -121.9514419
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.30156683029148,
+              "lng": -121.9500256697085
+            },
+            "southwest": {
+              "lat": 37.29886886970849,
+              "lng": -121.9527236302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ff22cf4deec419058efa4973158e998fef29f551",
+        "name": "UFC Gym",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 592,
+            "height": 431,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115419137930175066115/photos\">Valkyrie Michaelis</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/116061081817780446811/photos\">UFC Gym</a>"
             ],
-            "photo_reference": "CmRaAAAAHGeq-U_o4PM-qhcoo2ucwggTa2ukJz7f_B89bqU_5sgbwo4QigRXh4redVfMBnh7YGktY2mSXrLLM0jH1ttN9HdDw4sOcPIrK6FDD5ECLG9QaCm-vpQQhmGLoonAv9yqEhBdYiPZ8sP7G09lJjfW6Us2GhQbmXfbrdu8kQjCyRq5Ubwg3U4exw",
-            "width": 960
+            "photo_reference": "CmRaAAAAc9GUiP_6j1HzG4WYpH0AO6ntbjaguvsrDbAc_eUSgjO6aPt5WZDfc1EWev8SWTuyLMY5Tn7qU1AutsqiSp2llEc7H0lepYdg7Pdaq5sW5GJZ6gyxX1XUhLYL7NSkBZx2EhAqqo1LFoWvxBn2yrW4A_ysGhTQmXaaReJ43IlKSgT2A2UjHR5Tpw",
+            "width": 763
           }
         ],
-        "place_id": "ChIJd09VcckQTIYRsuk_5ZByrOY",
+        "place_id": "ChIJ7-_GUyo1joAR87QZuOXCM8Y",
         "rating": 4.4,
-        "reference": "CmRSAAAAJsNJOCiGAFuoy4UPRVx814D44E9ExGkjvfBwfKPUUQwHThnUjxOoWSb0LLZhxgWdwkIa4l-GeSiz0qrYOGlY1zur49nfy0UCMepyfq9PVXKYvHkSW2XBNA7YevZf1-Z5EhBV8YBsH5oaudc7I1aJP-r4GhSSdiA1nXrIsWUKCEogCepicXsqkQ",
+        "reference": "CmRSAAAA_koqQk9-0_-Z2u_5ZWLkFPZVOydG_WUFf-Dmd4yx1ZtrBZVMbzduXctHbzp1qeure8xDEUzd8zgDyAiRu4MsmSX09d5Yy6yp7RTZ4A1zEYKSFrjlbA4-MkqJLRpzrGmREhByJTx_03kextHZJr0m5ws5GhTytQWnUkL8O3bs-K1ciEHpuRRw4A",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -149,7 +204,47 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "801 South Greenville Avenue Suite 113, Allen"
+        "vicinity": "1323 South Winchester Boulevard, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.38881689999999,
+            "lng": -122.0314474
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.3901297802915,
+              "lng": -122.0297394197085
+            },
+            "southwest": {
+              "lat": 37.3874318197085,
+              "lng": -122.0324373802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "22386663e7937eaddfa57bb43e0ce15a70dc49da",
+        "name": "Capoeira Angola South Bay",
+        "photos": [
+          {
+            "height": 359,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100185775558560434420/photos\">Capoeira Angola South Bay</a>"
+            ],
+            "photo_reference": "CmRaAAAAk-CCTyq79BH01Z4wuunRDvL8K6KSWSVIwt0PFwyqgq6akKYsXdTvE-Uy2CukVASpScHhwU418-VDKkoMXxOqMaQ3tEh8X48eBItzRxkBnw9obk89GeS1Gd-jpEb30H5KEhDC3vw079k56b-16NBSoigUGhSYEl30jqF-qBNo_P_WRgS5NszPgw",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJHXGqklO2j4ARTx4xFkxBZPw",
+        "reference": "CmRSAAAAOq93oYE1LqA1OFsD6jyE6wmCo2vuWDJXX8OcecCRmN4fvitt1MBZsIq6Fk7DXTGbxBNWFh__fRLDxSuGfpdzIl7vRQKU-BdUIVLstB7zqqUnuXoB3jHJFAlolWcTsXTXEhBzQhHiqGdIlsJrMVlxgM2AGhTZiVtBBGDHXzETDgYvNJx3RClCzw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "477 North Mathilda Avenue, Sunnyvale"
       }
     ],
     "status": "OK"
