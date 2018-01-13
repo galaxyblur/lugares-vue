@@ -1,20 +1,96 @@
 {
-  "city_name": "omaha-nebraska",
-  "city_rank": 42,
-  "city_population": 434353,
+  "city_name": "raleigh-north-carolina",
+  "city_rank": 43,
+  "city_population": 431746,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.2523634,
-      -95.99798829999999
+      35.7795897,
+      -78.6381787
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 215873,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.8468532,
+            "lng": -78.6005763
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.84820218029149,
+              "lng": -78.5992273197085
+            },
+            "southwest": {
+              "lat": 35.84550421970849,
+              "lng": -78.60192528029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8bb189f55a84b5881670064e1c88f8d53940c32c",
+        "name": "Raleigh Abada Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 353,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113883345004070706224/photos\">Raleigh Abada Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAhMBGSl_GJY7Xn6W3gyzUiD4XMm5J61IjhO1xcVuAstKwSd-rcCsQBCl2Gved4g1q8E3KxvorzbsQ18vfUiCWyMnJtU9uYXNsbgJFXQoaT9Yt0YoXWRn9G2n6sQ-5X8ToEhBO9ibCjUx0HVbe6UYhA7J8GhSpYMo6jVDzMkKQx6XidhR0bY792g",
+            "width": 547
+          }
+        ],
+        "place_id": "ChIJ007TLAZZrIkRpTKmhFUDAWs",
+        "rating": 5,
+        "reference": "CmRRAAAAjs6-O8GtcTJ2DtqnVMUJLjx2ZRvf2NsQlKMqVsaUsUbyJhXFB28HmyWZAslkpjdXPtdHoVBTboyPQ2u86tIWEB4_g6Ektdr9iW4KEHZU0InX6NQYrIoEZ5Xjz0BPnw93EhC7O2WCE9uoT-kEN0lq_mGKGhT7jTMRo4jvEf6s8WdaY4pDZCz_sA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2210 East Millbrook Road, Raleigh"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.860191,
+            "lng": -78.71041919999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.8619024802915,
+              "lng": -78.70865561970848
+            },
+            "southwest": {
+              "lat": 35.85920451970851,
+              "lng": -78.7113535802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4ef5e8c61b15f70df45000e3346d5ebc602d8d5d",
+        "name": "Capoeira Brasil Raleigh",
+        "place_id": "ChIJnVLVfgL3rIkRtuy9Sq1TQY0",
+        "reference": "CmRSAAAAyvjy3gw9w6J7d26PUhnDYW12tFwQpOlGv53al9W-1ipKW-FQLDmDrfDn7wQse0kgB8bVfh2A9ZrX179fQrjeRm-o8EP2_Nlnix3pIlNHzDIfHddElrERQ6qtGVK32aLDEhBcPPS0Q-tombpDGFbtj9OYGhQeFdwTcSQ8TJFrgKBknJwzreQa8A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6701 Glenwood Avenue #103, Raleigh"
+      }
+    ],
+    "status": "OK"
   }
 }
