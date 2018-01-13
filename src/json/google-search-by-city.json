@@ -1,16 +1,16 @@
 {
-  "city_name": "wichita-kansas",
-  "city_rank": 49,
-  "city_population": 386552,
+  "city_name": "arlington-texas",
+  "city_rank": 50,
+  "city_population": 379577,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.688889,
-      -97.336111
+      32.735687,
+      -97.10806559999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 386552,
+  "people_per_result": 189789,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,48 +18,88 @@
       {
         "geometry": {
           "location": {
-            "lat": 37.6598802,
-            "lng": -97.2614846
+            "lat": 32.713013,
+            "lng": -97.34637339999999
           },
           "viewport": {
             "northeast": {
-              "lat": 37.6612289802915,
-              "lng": -97.2604551197085
+              "lat": 32.7142175802915,
+              "lng": -97.34502471970849
             },
             "southwest": {
-              "lat": 37.65853101970851,
-              "lng": -97.2631530802915
+              "lat": 32.7115196197085,
+              "lng": -97.3477226802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7b0ff1f80ec34aeb2edb252cb956e3b2e87ee4f1",
-        "name": "Valor Martial Arts",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "photos": [
+          {
+            "height": 918,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112294789667396374360/photos\">Lindsay Puente</a>"
+            ],
+            "photo_reference": "CmRaAAAAM6CggImqAdRohdWtPrirkV9sh56dk4T4cVzpY4yBcUgRljmA9bm8B2nZ5zkZPZDF0JQhHbyalNwK_kEAXm2xf7l_Q-oqthqY7Zaa3nZcAkrT0V-Z2I1YAJCj4EjV7fDmEhDoyIkoIEsRi5pC6ARQEpYDGhQ7tgRsTO-kNf1lUNJsxr_X21ZY9A",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "rating": 5,
+        "reference": "CmRSAAAA3rIKrnlC5_Yb-C2-fWQYufVzuSkP5fXKSL4j60M_6BOEVND1wqwxw3KkLsvj_2zLMV2h0JHouYzQnU7u27DukbG3rHUkfMwtswu3qttt9hZMqeyy3VZXndj2zevS61sJEhBZMjMuhaet7RcZsuADAqnXGhQiyjZy-H1zXHJ07uy844n7DswnKw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1800 McPherson Avenue, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.9302614302915,
+              "lng": -96.83128836970849
+            },
+            "southwest": {
+              "lat": 32.9275634697085,
+              "lng": -96.8339863302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1366,
+            "height": 1536,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110502330031530040678/photos\">Valor Martial Arts</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
             ],
-            "photo_reference": "CmRaAAAAoPfjA8Pka9N2SLvKCCX-NzGslbM7zr3Qpwjky69-OHLmaYmHN3pKI8MZSx9hY8VRo5lXTytDjBdyDjtsl51HpO_8rH4Qh-tPMdMSvXYHL_FHu62IAfyo4ALG5mx1KdfmEhCyOnqofQsuwj663w5HBzyoGhTPxfhOcl8yMaKIkvu3qCnqjo78Rg",
+            "photo_reference": "CmRaAAAACowD2wUIin0mi3m9vLiUfYIxezG0o_h2O6y_TMPc1NHpfdh78rBYaHhDavp1b3rcC9oypYdj5j0CLA_YELB59eDBFjLPNu0bK_i37MnhpaUIhw_ID2cTCc1OOlsQd3ztEhC0MPQEK1hZt_lVOFJndmTUGhTcCweiIy4caX9YA3Ax8wh5098o-Q",
             "width": 2048
           }
         ],
-        "place_id": "ChIJcUUBe1L7uocRWE225d1p-Fw",
-        "rating": 4.7,
-        "reference": "CmRRAAAAGx_fy7Srngt536AaF9Kia3cZYh6T1XyMRITmm9wG3Owz6qL9POB3vLpqeSOjTl_OiI6YSb3zf2ApylRhzLGzsfIqF-Sn4sZziscxV6mCNGj1xahzgAgUUQ4gOxgn-ly6EhD_OvgdZdCEKzW-_q11NAjEGhQdj44ReuZcaxI3BN9HRPzSqtsQJw",
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRSAAAAgAvxai8IcNJdgEPSC_2xcPruBffZ5nOa_ZjrZh-TM8sMosbc1NyRt3j4-GQDEQH8BPfDU-jbFSdlxv0sf98IwNf94RF0-RSon8IdBti-mb3MrpOukS6FQWoajSHGU6_MEhB0A9c2b5fACHGLiGH_ZjRkGhTtPJCK0hlvFGurTG3WfOQZso_Y5A",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1836 South Woodlawn Street, Wichita"
+        "vicinity": "4505 McEwen Road, Dallas"
       }
     ],
     "status": "OK"
