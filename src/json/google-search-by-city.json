@@ -1,243 +1,180 @@
 {
-  "city_name": "orlando-florida",
-  "city_rank": 77,
-  "city_population": 255483,
+  "city_name": "st-petersburg-florida",
+  "city_rank": 78,
+  "city_population": 249688,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.5383355,
-      -81.3792365
+      27.773056,
+      -82.64
     ],
     "rankby": "distance"
   },
-  "people_per_result": 42581,
-  "possible_duplicates": {},
+  "people_per_result": 62422,
+  "possible_duplicates": {
+    "ChIJR8HaPoDhwogRo7IyCTogywI": [
+      {
+        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Avenue North, Saint Petersburg",
+        "place2": "Maculelê Tampa Capoeira 2033 54th Avenue North, Saint Petersburg",
+        "score": 0.8421052631578947
+      }
+    ],
+    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
+      {
+        "place1": "Maculelê Tampa Capoeira 2033 54th Avenue North, Saint Petersburg",
+        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Avenue North, Saint Petersburg",
+        "score": 0.8421052631578947
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 28.5796596,
-            "lng": -81.2949725
+            "lat": 27.7749953,
+            "lng": -82.6469516
           },
           "viewport": {
             "northeast": {
-              "lat": 28.5810104802915,
-              "lng": -81.29341536970848
+              "lat": 27.77634428029151,
+              "lng": -82.64560261970848
             },
             "southwest": {
-              "lat": 28.5783125197085,
-              "lng": -81.2961133302915
+              "lat": 27.7736463197085,
+              "lng": -82.64830058029149
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ac3ee67c998c98ab09b629dd4940746adf86a59c",
-        "name": "Capoeira Palmares Orlando",
+        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
+        "name": "Tampa Bay Capoeira - St.Pete",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "rating": 5,
+        "reference": "CmRRAAAAWbidGNAqkbIAZkalfsJqpR07AGYqE2922N1qPPkpHW9D3vnNI4UdL2PGyYgN4QyHtNwV1pZ3Amjc80D8hZOQCGrPMtyHglgP3CD0cuFw6-NG-_JS0vCDAS4dcG72I1oCEhAqEuocJg2QP9CA96VqD7eJGhTJd9Vwt5FDrTPnOl7G5M6uTF6-Nw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2033 54th Avenue North, Saint Petersburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.7893441,
+            "lng": -82.64637909999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.7906924302915,
+              "lng": -82.6452001697085
+            },
+            "southwest": {
+              "lat": 27.7879944697085,
+              "lng": -82.64789813029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0394f8ef70547474863a7cd07af7e4b033d849cc",
+        "name": "Taoist Tai Chi Society of the USA",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 4032,
+            "height": 1280,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100275786013286847816/photos\">Capoeira Palmares Orlando</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/117409360065882310834/photos\">Taoist Tai Chi Society of the USA</a>"
             ],
-            "photo_reference": "CmRaAAAAmwchDnBZPklPAiiHoETncNhJ-tLmv4O6uz-dduu0mSbCzYaQPReVkknZeVFaDw2TRkgSe_oqUEDA9dkRwXnzN8PggEJpKYzMANoQ7ir1p-j2v36nMfqiUxMTC6tcce84EhAsY4dJhCboqHjouC_XzEcwGhSSFgZnRYtkP6Z4RxLaEFFw_g9oYA",
-            "width": 3024
+            "photo_reference": "CmRaAAAAkq4y56VFJ-jb_F0RJ9zpfLAmpaTuuGAgiNXmsFQ88hn1PihZjBq-9tZAagZn4dsISD0erejO_wt-UWz_d8BcNgWLsUdpp8Gtkle91YB_studJiomRuucTNCEZIb-HTy0EhAzRs_3_gcGwsEsig-BizmFGhSdPUhbNlypM2EUsuzDBMn22vvTbg",
+            "width": 1280
           }
         ],
-        "place_id": "ChIJbZ5qCYBl54gR2zs-rSwPQmo",
-        "rating": 5,
-        "reference": "CmRRAAAAEgCugwEAP-onTujIu7uYH1dTvpVH5FwKYLKv6YQ6YsXInj5lyUHggWf-faapP2BqMvLax0cC3LdwCcMk3Ba21ASM78Fr4Tjiv241pZr-GMmLIp0D71RSOMhasOv5kxysEhCqqhyEAKFoFr40ys3rBlS3GhQB0Dlsq6BoCVGvD2BUZ4MEK6FHBQ",
+        "place_id": "ChIJx_WWwmLhwogRv7-qEfYGlJI",
+        "reference": "CmRSAAAA7gMGlFcdkoVT5Bih2UPkFnFs9h7XLWzDh6dHA5AgtnvhUWGC8G6UHkJQB7BBCoM8QWBH6vJ2Fw1XOPqetaOMpq9uEeeYp3_VGEuuRLJCvMvctRI_WXtIfP9TerYjCo1ZEhD8S8iN_eQkBfbJIYFpuBBQGhTNmywPMVNdZu6kCirz92rf7NPkig",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2400 North Forsyth Road, Orlando"
+        "vicinity": "1811 Doctor Martin Luther King Junior Street North, Saint Petersburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 28.4615138,
-            "lng": -81.4374611
+            "lat": 27.8213784,
+            "lng": -82.661035
           },
           "viewport": {
             "northeast": {
-              "lat": 28.4630178802915,
-              "lng": -81.43590036970849
+              "lat": 27.8226490302915,
+              "lng": -82.65968436970849
             },
             "southwest": {
-              "lat": 28.4603199197085,
-              "lng": -81.4385983302915
+              "lat": 27.8199510697085,
+              "lng": -82.66238233029149
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
-        "name": "CBP Martial Arts Academy Orlando",
+        "id": "5dafed9bcd977f587e7fd486126e5282db6749be",
+        "name": "Hip Expressions Belly Dance Studio",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 659,
+            "height": 1365,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">CBP Martial Arts Academy Orlando</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/108377385878138118538/photos\">Hip Expressions Belly Dance Studio</a>"
             ],
-            "photo_reference": "CmRaAAAAQ7bMy4fsEBBWPxGCFF99szyqOmJ8g1_EmPUMitUWmlOXgDspBx3EenssrkGm1S4zsk5VD0qqgIZjJHRTq1NAf3IFIuHaI2hjPmNlHJnVeWH6izuFf1CmpBXMej2CpDwiEhCqPNr03LJhWDg9ga7AebhBGhRnQAOOnZnJRk5JuWv0TN8-L5sJfQ",
-            "width": 960
+            "photo_reference": "CmRaAAAAUDhqTkPrUMTAbRNbbH56_1jWvM-uhSTsBAZ4ZFy4UILectGE9O7TYTy0GzZ_OodvmupkXA9KSpcQ7Kvcsx43gFoqHg8qqCnnbUsUi7M67BXTancarpTJGh5S3r1bVuwwEhAwwS_TfOclD45kGLqZF9ApGhT-kunnGW-wK46Rpklo3mbl4UqD3g",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
-        "rating": 4.8,
-        "reference": "CmRSAAAA-Ms1AHz4ysB48I_Q8Ih-73r_GHR5g_d1jmUMffRFHQQNF2ypNDTQ0_19-E8ds8VoyTiHJPMx2exx7ZD3euaKzm-XJ6z0A_NB70_jtY_02jf6sBw9iHHgQtLA5z5DMBMVEhBsK7GKilGHmVhYHJIj0W3TGhSI8Yh4zoskq54cEzj3M6LUG1KgZg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "7075 Kingspointe Parkway #10, Orlando"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.4620726,
-            "lng": -81.2935468
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.4634215802915,
-              "lng": -81.29219781970849
-            },
-            "southwest": {
-              "lat": 28.4607236197085,
-              "lng": -81.29489578029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "906e8755e52db10b1c9d0937ec342dbde506dfc7",
-        "name": "Xplosive Dance Academy",
-        "place_id": "ChIJr6ABT6Bj54gRwSxUh12iges",
+        "place_id": "ChIJx50vpffjwogRqCqKINF2GEc",
         "rating": 5,
-        "reference": "CmRSAAAAeSkxDZ6XdUixQyW4DHmdPIt_s-0rKT514f-bFrPfTa6BLlfXqO9HpZXViOkkjrwtuTaIdCASLYu7fPakBSiRHW-pZzvtC9OE3EOE6dpcVz76XIB_ccWXYK5TYenFI0huEhCQ4RE7EvpiuJfLmBaKNEMoGhQJiIPpYkO_30aQmx9dRMEQSHk16g",
+        "reference": "CmRRAAAAfJiWS8nWFRaCuR8MgWjOSxYV0qDKDbGv21YY6SDLRq_i28pR5UpWK36dqj6l8N7V-YdVYmqYvvBKzL5CJxp7ZqvLi6aCRuuOUQILfF98-gOTkd_-Ph8W4QeABxbpoJTvEhCmSOpJ37JNjdZ_xgMylcH1GhRzeC0V6LSFZH-8lWfosVkmeTnQNg",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Suite 8, 6557 Hazeltine National Drive, Orlando"
+        "vicinity": "2033 54th Avenue North, Saint Petersburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 28.5346945,
-            "lng": -81.5232389
+            "lat": 27.8214144,
+            "lng": -82.6609864
           },
           "viewport": {
             "northeast": {
-              "lat": 28.5360447802915,
-              "lng": -81.52170176970849
+              "lat": 27.8226674302915,
+              "lng": -82.6596354197085
             },
             "southwest": {
-              "lat": 28.53334681970849,
-              "lng": -81.52439973029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
-        "name": "Capoeira at the Traditional Martial Arts Center",
-        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
-        "rating": 5,
-        "reference": "CmRSAAAAkkWChfXEtshKaxgvSqfOQ92efEscfsfrqrQ1DxPHYNkD_ZFWMCRELuEhSP5dAEyfB0i5JB20pjA55jD8Gw4U0YwO9PpIod73EkfeHYvB-MRvCAyRXcCLmJ8YFudr44GpEhB6cFy4-inii7wou3e283O6GhRny62vuJ7Q8qC8DuXhRIRTHLNVBA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2220 Hempel Avenue, Gotha"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.54785,
-            "lng": -81.19394899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.5491941302915,
-              "lng": -81.19300011970849
-            },
-            "southwest": {
-              "lat": 28.54649616970849,
-              "lng": -81.19569808029149
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
-        "name": "Capoeira Orlando",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 540,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
-            ],
-            "photo_reference": "CmRaAAAAiil5jLANA-htE8uY4_NT6UNoYByVHIi1r0M6JGLGX-E9dIYmIF6I8C3isSNDhsG0bDQ5C_KePDfbkE7kKaI2MPWdPLksbumGYAbSox6-nz-LCZ_wekUCS-bCNy7JJ8z5EhDnkdpGe_jqtlhsnLQFQIV-GhQQY3t8gXyM6jCkc_UIRzOZufruLg",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
-        "rating": 5,
-        "reference": "CmRSAAAAmMf_PN4kJhh4qKpfWKvwCjWGLOp9ch0H0ovaRyIV1TAvQcTjsh_T4gYQr6xPqPLgW2LPMm8OHLfqhh1tlA9OzLyZ3a7eQS8Hmo8PcrOczrDK82GpdkfIw0SzIv19cmJdEhDm8cm40AVQMImmgq2R9CoWGhTQNq5AD5V-mjkdR-l-XFLBHzw22g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "829 Woodbury Road #102, Orlando"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.4341409,
-            "lng": -81.5582823
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.4353924302915,
-              "lng": -81.55703636970848
-            },
-            "southwest": {
-              "lat": 28.4326944697085,
-              "lng": -81.5597343302915
+              "lat": 27.81996946970849,
+              "lng": -82.6623333802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
-        "name": "Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
-        "reference": "CmRSAAAAiPIHZl0TaZLUt4GLkYDtICMHy3iEJ5rIVLdot23JY2o2D4SaE2K4AZc-i7OYJB50A0Q4rieMZApIlTptKDUAmdQxPVP8HyN_vtLWRWRGg-0fNemL8ZfWM3iv43NoEG1sEhD18N0gf95yzJK42TRT4TcmGhQtYuHG3ip6mul262QMvfJmxg8IPA",
+        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
+        "name": "Maculelê Tampa Capoeira",
+        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
+        "reference": "CmRSAAAAUzVVJSTSNp2WZZ5-J38J_X7rN8yOtm2UjVnvQL5PLBXXIdSPi-CwfTTUC7G4pyXIc9EwCSQ4Yi9Bq9hsMPw0MRcnoXz9ckE7LOAfFrR88ofvEkW_CzEbYO3clygm98bVEhBI3s7DaSXkSDmirRA6fQqCGhTsW5--C_LF6wWVcd3gOcd0Bsodug",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -245,7 +182,7 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "9001 Taborfield Avenue, Orlando"
+        "vicinity": "2033 54th Avenue North, Saint Petersburg"
       }
     ],
     "status": "OK"
