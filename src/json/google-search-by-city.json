@@ -1,20 +1,65 @@
 {
-  "city_name": "stockton-california",
-  "city_rank": 64,
-  "city_population": 298118,
+  "city_name": "cincinnati-ohio",
+  "city_rank": 65,
+  "city_population": 297517,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.9577016,
-      -121.2907796
+      39.1031182,
+      -84.5120196
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 297517,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.23022,
+            "lng": -84.376379
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.2315896302915,
+              "lng": -84.3754044197085
+            },
+            "southwest": {
+              "lat": 39.2288916697085,
+              "lng": -84.37810238029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4aea50a074b1b6bc44dbdd0744e56c868e19bff2",
+        "name": "DANCEFIX by HBDC Blue Ash",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116961049639308954654/photos\">DANCEFIX Blue Ash</a>"
+            ],
+            "photo_reference": "CmRaAAAA1juPcAz-Djm-MjuJykhx5TjBLlEYVqtowymKSkmAMwa3L02FUdhQLplMX7NfpqAb_K6wUWctoXDvxCLdl-otqxf8vn66dnTEBT8P17TkgzLIOU90XPGjUEPXO6hbxnAoEhB41ZQcP5ru_kAStdfGPYRrGhRG1VY4i7QnvwK1kXZLU5WvNN7NFQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJLxwqwaFTQIgRY13-KFODIuM",
+        "rating": 5,
+        "reference": "CmRSAAAAQf40NzhryPDl2h7nmgcak_Qft5lj1dhGoatL62naJJcEk56AUnqjfjvuRTJJFtqNVwxSZ-l4CNHcZ0EzbY8yHvPelVDnl7It5cPSdsa29siMhDOKtBISdfswCgJBjKgUEhAIpnd5kYjNOatcgpRgc4b3GhSwsKZncU736ztHuCtUfgsiMOSNkg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9514 Kenwood Road, Cincinnati"
+      }
+    ],
+    "status": "OK"
   }
 }
