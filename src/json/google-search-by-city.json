@@ -1,20 +1,111 @@
 {
-  "city_name": "toledo-ohio",
-  "city_rank": 67,
-  "city_population": 282313,
+  "city_name": "greensboro-north-carolina",
+  "city_rank": 68,
+  "city_population": 279639,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6639383,
-      -83.55521200000001
+      36.0726354,
+      -79.7919754
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 139820,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0659217,
+            "lng": -79.78732839999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.06724283029149,
+              "lng": -79.7860656197085
+            },
+            "southwest": {
+              "lat": 36.06454486970849,
+              "lng": -79.7887635802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0c23477934e06c0caab7062516a5484b929797b0",
+        "name": "Free Spirits Yoga",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116038203108220024863/photos\">Free Spirits Yoga</a>"
+            ],
+            "photo_reference": "CmRaAAAAYbiY9f5d-B8uJOTcn4ky0e4dXx5QaACK8Ew334ku44YBfv-DLvreLzcueZotWHe7hlQF_KZfXdMVkf4QyWM6jm15UJ9d3BcPf98Q3zenzMO8jas2HBY82U-leTCgDt-8EhDaz8bRkOz3Slzf20IN9ZkZGhQ-eofoZsR8aqfcYeX9Lkmk5mC6SA",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJ87TtMyAZU4gR4GpDror12wc",
+        "rating": 5,
+        "reference": "CmRRAAAAHrq5WZQs43EaZpazqrM1VzRh0BAv210cDyKx2iaqpXAkvjlcCmLQJMrdT3U1h3rS6C3Hzf9ReHMPyN8fBtj9dPAO94WkmagnzYKCG9T1t6DuZgjUH_9WBNIVPJiLr4j-EhBZC4t4Et92V8lwFT3heMfCGhRfzc1Kw8vb8OtjbikasxjRyAUkJA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "337 Martin Luther King Junior Drive, Greensboro"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0792008,
+            "lng": -79.7995933
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.08043953029151,
+              "lng": -79.79830051970848
+            },
+            "southwest": {
+              "lat": 36.07774156970851,
+              "lng": -79.8009984802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb27c8d665f02b42041fa3d5e6da48ce8eb28d77",
+        "name": "Artistic Motion School of Arts & Preparatory Academy",
+        "photos": [
+          {
+            "height": 683,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103404891184088948640/photos\">Artistic Motion School of Arts &amp; Preparatory Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAt8nF9DX9-HtdZehEMQwC8ycjsmwvqUGZmidXA6xWSibBPZkSxlHOd1evntjXMq1KeJxtACwEgj39ZIDiaVabRcumsC5WuRgz5pP0UWnex3RidCDO64g7yw366WyzKmLREhCm0OkpbfG0z39_S2i4rCY1GhTPZ37VA0AYCtscgFhh3GiQtByeGQ",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJdXdLfM0dU4gR7AsW2LNWbm4",
+        "rating": 4.7,
+        "reference": "CmRRAAAActC3AhfOXlwKXozi0Evu3FXddWN-E4yzF8KZqIjYqFVGiHEaHzvIemqW2d3yqxd5qe5BZcM_qM0hNCqk4gwksmypSSxm73ubQa3DvP1A9ShIjeNpNCWO0rDG9RKTdg9iEhAbNQmyEdarnhEDNbxT1KgNGhS3ZqMTR4RTrV64NFpMYhVLi8yqwQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "university",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "800 West Smith Street A, Greensboro"
+      }
+    ],
+    "status": "OK"
   }
 }
