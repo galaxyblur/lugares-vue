@@ -1,108 +1,20 @@
 {
-  "city_name": "richmond-virginia",
-  "city_rank": 99,
-  "city_population": 214114,
+  "city_name": "san-bernardino-california",
+  "city_rank": 100,
+  "city_population": 213708,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.5407246,
-      -77.4360481
+      34.1083449,
+      -117.2897652
     ],
     "rankby": "distance"
   },
-  "people_per_result": 107057,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.5205092,
-            "lng": -77.4478111
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.5217926802915,
-              "lng": -77.44656831970849
-            },
-            "southwest": {
-              "lat": 37.51909471970851,
-              "lng": -77.4492662802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "48422ea231d762fdec895080610d11dd58a4c7d6",
-        "name": "Electric Nomad Dance Studio",
-        "photos": [
-          {
-            "height": 439,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117876441493245958153/photos\">Electric Nomad Dance Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAAa4Tn6KTkBJ0Yt_ZjtVFL0Dk_zTJDqSaeHk8Upu1_A-UeAQbAywQpSvPsfvh4aDVhS2rmUsfDtfsjVSdSaATDUuT4d1NuKKOGB46kv1Q0RTm2mW-9pG3-a-xBqkx3H3nmEhCeUMIJoT-HjmT8nVZR6J1jGhTNNaSYIWtle6MRNWSlI17Uptsjng",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJrb9WLnURsYkRa0iALEzGKN8",
-        "rating": 4.9,
-        "reference": "CmRSAAAAZieBBugehKKc60gSrZe_8RbIrzAmQKJGCJnQsqBOx5Osc0MYDJLWrG-D1IeP9ilOwnltam49Q_yarTGiBpaPy2g1faFpWDHfpGOqxMdq1QTG4HfTqHYWXxk90Vo9iCXzEhDsI3T6ZlEz-YYzUDbMCtUzGhQxKfrCsaCYvY0FeMZ9r1G3R9TDng",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "school",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "109 West 15th Street #104, Richmond"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.53547200000001,
-            "lng": -77.561272
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.5367808302915,
-              "lng": -77.56009936970848
-            },
-            "southwest": {
-              "lat": 37.5340828697085,
-              "lng": -77.5627973302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "42b581112dda7fac175f9e0c5358f18070107e88",
-        "name": "Capoeira Resistencia",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100180166960998838604/photos\">Charles Giles</a>"
-            ],
-            "photo_reference": "CmRaAAAA2n6-Gej4XXrJmP3yqMc0J3WRWJY6XR2cffRY_CF6MStSqYuIsz0mjuecJ5tSijELMH5y89m0fAqskj3L70aH3m7AYN6ReSkS7O6_jGFZLPQOCHuHvQ5EKneVSpnW7qAoEhBHNp4p1rU-KsQTA5K7PnEuGhSEQQfxXbX-aPo-B1l3VGlMWvBvjQ",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJFWdNVysTsYkRe9XIcn6GnEk",
-        "reference": "CmRRAAAAYlWELnhb8JEKmOvRWT-kIoSAccis-e_sDcgnWzR8Xafs9Mmg2bLIqvd2e-s23pvT3O_7meqgJP2BXzW30S2ZH8dXYS4jkw4lmX_7w8AflTBrafYg8TrKV8m9dgr3YeqKEhCZA950-a_VWXK5NPBS67VgGhSwFHR1rMPe6YxWeuROKZ6phbkYtQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2723 Buford Road, Richmond"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
