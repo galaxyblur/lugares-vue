@@ -1,20 +1,153 @@
 {
-  "city_name": "baton-rouge-louisiana",
-  "city_rank": 93,
-  "city_population": 229426,
+  "city_name": "irving-texas",
+  "city_rank": 94,
+  "city_population": 228653,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.4582829,
-      -91.1403196
+      32.8140177,
+      -96.9488945
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 76218,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.9302614302915,
+              "lng": -96.83128836970849
+            },
+            "southwest": {
+              "lat": 32.9275634697085,
+              "lng": -96.8339863302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAS8wF_d9e-MrcrKkAlQg5OGsLzUvWLwTatgmmeRpiTis8eio4j89GR9zn_DKKmRyBUuEAScBQQsNGwyyRBqQWN1-gthwoafN0_NWxXjP_cuTS3pW95qBY-pRhT9n2JAzzEhAMWxDM5T0TwziZxjiBjBKGGhTdhUFBa8IJ5OdPZnV-jVaC1u6pEA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRSAAAAYM4gCPKwoMJ7p76cF_6VnXqZAWtLU2GlNciBrX09HbQFFyzUD-HFRbPCiLXfzlKGUE8NAG5bSIjUhwPIEQYlAhN1mJmS6Vuh7_-c-6he8drNXAbxmMeXVb06vK9Ps8iBEhChqetx-mczSEWbRCZhM21YGhRhPilJ619epRJ5PSu32WL2lk6VEg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Road, Dallas"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.713013,
+            "lng": -97.34637339999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.7142175802915,
+              "lng": -97.34502471970849
+            },
+            "southwest": {
+              "lat": 32.7115196197085,
+              "lng": -97.3477226802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "photos": [
+          {
+            "height": 918,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112294789667396374360/photos\">Lindsay Puente</a>"
+            ],
+            "photo_reference": "CmRaAAAACNvfE51rlKSd2azI1jnUwGptGsbv3g0QjnKeQQ20PWXlDHEzPBPq6_FniLTIH7jgPT7ypE3X6IXeMPsjfnGTD6h18jZ3lLLkPmxzAZOuQdeYLxK229owaArvuf2-fpnREhBG5OIIH3eZxUZNNzQ0rcTJGhSErZK082Bi4OPL65Bb0feNoB8DIw",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "rating": 5,
+        "reference": "CmRSAAAAB4PKXxqw_64mP3gQn0wP3WS_56YFXPwoDyGorXzwDdDTbA6cLKdqBX_4G4u3I5pz8dmDR2oW_-Ne_BQOmr6fBYeLR0X0cPdENuY2UbpDHo8UXnPu0cVPcTAG1fbDA6_BEhDrKi2K-0n75_08BIBYKXDSGhRdTIseuBeyeQzFOQiEMDIHCMDZdg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1800 McPherson Avenue, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.08637239999999,
+            "lng": -96.67050259999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.08797278029149,
+              "lng": -96.66964151970848
+            },
+            "southwest": {
+              "lat": 33.0852748197085,
+              "lng": -96.6723394802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a48c4d918a190373db68f0a79390f41fe9a22ea3",
+        "name": "Capoeira Allen Martial Arts Club",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115419137930175066115/photos\">Valkyrie Michaelis</a>"
+            ],
+            "photo_reference": "CmRaAAAA3czC9dfO5XSAzIlWxQ1hUXB5erBqPNocM-2QE-x9hV72CnNBYYen2PSEq7EZTzVauLb24yhBTBxgPa3aiK_1gKxBf_bbwqEVQMGBoXfQfNo9oZ-aJjBTaV7VSWVvic5ZEhAQ08NuJ98M0M4RHy1g5peqGhTyGFcL85HLgwNNnx6hnNSdJC7e-w",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJd09VcckQTIYRsuk_5ZByrOY",
+        "rating": 4.4,
+        "reference": "CmRSAAAAZ4GlsAb-DMsxmMtHTEVb4DP2oOR8nPwWL04XUtEW8qfqXZRp0Rjbcn3qWWzPSdl3F03u72g2TTvrC-GM__31hv5PB6D2ySRlZPZdXDj_ctI7B-TY3jh-CHHnSboZGYP4EhB8sx2-iqjEXkQVYb_fZfhhGhT2iQ457Lt53ikr55Oisa5dDB__8A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "801 South Greenville Avenue Suite 113, Allen"
+      }
+    ],
+    "status": "OK"
   }
 }
