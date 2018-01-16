@@ -1,20 +1,65 @@
 {
-  "city_name": "shreveport-louisiana",
-  "city_rank": 113,
-  "city_population": 200327,
+  "city_name": "aurora-illinois",
+  "city_rank": 114,
+  "city_population": 199963,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.5251516,
-      -93.7501789
+      41.7605849,
+      -88.32007150000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 199963,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.00611619999999,
+            "lng": -88.0823128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.0075069302915,
+              "lng": -88.07903979999999
+            },
+            "southwest": {
+              "lat": 42.0048089697085,
+              "lng": -88.0834038
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
+        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">Grupo Capoeira Brasil: Schaumburg</a>"
+            ],
+            "photo_reference": "CmRaAAAA8gDWZmm1yqsBeSQj4A23azT52LHscJeCKTQG3s4_R1WjiDMwxI8P38qBaWUFCEgyKMuD0DLLfg6IwHQVzlZcPV1iMR3WEQtSZ0Ahkh9kB6P92wNdvTvuRI2m8Kg5G8a4EhDuNztcVHF7W4a-Am1JPSW4GhTAY-skrRfzp39cjnPpMBYfdAlo4Q",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "reference": "CmRSAAAALgYMmf6kTE3NKo7-XVqu4rJ-yMhhchckWVFpreN3quATRfjyPUMzMAGpijI8T2NetNprb4OHzP6i6JSh4Nqjb0rel8yiEyptwMQ4aXKWlS0DYVW65AJlW5i03McKiDV5EhDPDtnjkMYXvVEOx2ABJH-aGhSlGzIeSTMy9eVMeRsXF8a7FbtZUQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1154 South Roselle Road, Schaumburg"
+      }
+    ],
+    "status": "OK"
   }
 }
