@@ -1,20 +1,66 @@
 {
-  "city_name": "mobile-alabama",
-  "city_rank": 122,
-  "city_population": 194899,
+  "city_name": "grand-rapids-michigan",
+  "city_rank": 123,
+  "city_population": 192294,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.6953657,
-      -88.0398912
+      42.9633599,
+      -85.6680863
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 192294,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9634792,
+            "lng": -85.66276549999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.9646370802915,
+              "lng": -85.66142501970849
+            },
+            "southwest": {
+              "lat": 42.9619391197085,
+              "lng": -85.6641229802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0bdf5085229c8b0b3128a44f48cfeeb1187f2025",
+        "name": "Armentality Movement Arts Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 621,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108338022117382235561/photos\">Armentality Movement Arts Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAegcSuiB7pbcrFMpTEhTe2Y6OklvfQc8RVFuqYEMxhNLXnZzSA9I2WBiYqEtYs0PFWyGpVfxcJ1I8ad_FGFrRUBXseFc7ruyTpMOH9r_e7hBRSKlkXigPuuMWccu1qVMdEhBkpYXhW2yF_YzTaoJJ943cGhREIUmqIsyLRWNpDG8D0ygSdTKz0w",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJGYYf7LitGYgRp9ftcRNC17A",
+        "rating": 5,
+        "reference": "CmRSAAAAqKSAJDjNXFo4Zb-w8pglBFOax8AbRnE6vNDIfWq6uz6OY-GFL5eOOoy1VgYoJtHWM7S1x5yYqwFlSsjuRl6JggOozSipnuaVbKz_fXOS8QMGfHvgFrMwg5s8inE-_WS5EhAQ6G0D35oseGM-9-R07IlvGhSluMrFarFrNqgXWSVRAWFrhmcZKQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "233 Fulton Street East #620, Grand Rapids"
+      }
+    ],
+    "status": "OK"
   }
 }
