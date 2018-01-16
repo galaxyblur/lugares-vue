@@ -1,20 +1,52 @@
 {
-  "city_name": "spokane-washington",
-  "city_rank": 102,
-  "city_population": 210721,
+  "city_name": "rochester-new-york",
+  "city_rank": 103,
+  "city_population": 210358,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.6587802,
-      -117.4260466
+      43.16103,
+      -77.6109219
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 210358,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 43.1504441,
+            "lng": -77.5696032
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.1516641802915,
+              "lng": -77.56831501970849
+            },
+            "southwest": {
+              "lat": 43.14896621970851,
+              "lng": -77.57101298029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9e9752276a77285c8c5ed021c171a3fe9802caa8",
+        "name": "Capoeira Mandinga Rochester",
+        "place_id": "ChIJBYcBeIK11okRRQ459aPhafM",
+        "rating": 5,
+        "reference": "CmRSAAAAqMVYFDTGedbSvvmzvZwqGzz3FORpxJuBXj4Axg_1WVMTXwDm0XQ0gBBiZeBoMHMBex01SiWa3RydAZ5jcKZkF1mLgCZSyK4M6N6y2JVtaq83e_rHiNVimmjXiuMjK38rEhByLVfGpUdUuE0-iPCFIcnSGhQSajCsrDVNdc4ePYM2kgJmsR_uyg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "46 Sager Drive, Rochester"
+      }
+    ],
+    "status": "OK"
   }
 }
