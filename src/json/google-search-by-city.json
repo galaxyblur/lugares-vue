@@ -1,20 +1,62 @@
 {
-  "city_name": "newport-news-virginia",
-  "city_rank": 130,
-  "city_population": 182020,
+  "city_name": "brownsville-texas",
+  "city_rank": 131,
+  "city_population": 181860,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.0870821,
-      -76.4730122
+      25.9017472,
+      -97.4974838
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 181860,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.9825806,
+            "lng": -97.48579819999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.9836700802915,
+              "lng": -97.48429866970848
+            },
+            "southwest": {
+              "lat": 25.9809721197085,
+              "lng": -97.4869966302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "64dd4b94ad55bf144f81a14aed9fab7003edd1be",
+        "name": "South Texas Capoeira",
+        "photos": [
+          {
+            "height": 932,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116174659309439437061/photos\">South Texas Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAI9dYeBNPChlgAWagxlrjWEowg_1yawslzoss1r57tnByViw3za7LnNYizXjKne2eth61aTipb0iz3rs99k6QPnqF1C_HxSvumg8CtjLrASn_bZG6Oo_OTMoP6x81Pn9jEhDitGOE6Yt0dEA65RCnbOWcGhQgElCOBe6pXb3o__C7wC79K0iqKg",
+            "width": 932
+          }
+        ],
+        "place_id": "ChIJnX-6QvmWb4YRwnmHjJhAOHo",
+        "rating": 5,
+        "reference": "CmRRAAAAn5XEE8M8UowTmBdheNuGIO9PIcaGmxCCewwfxXRKIcqelOBROAGVg3h60WehxpGcDnhWNUxf1YistSUarBIFso7zBJ5ItpyZ2noKuP6O24922tFhvjzAVhqpgQNqwKtYEhCtoT4MqcQ1h5t8gGxY0kAhGhSAXLoRvaQrBlHKq5dU8pDHej2D6g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1601 East Alton Gloor Boulevard #111, Brownsville"
+      }
+    ],
+    "status": "OK"
   }
 }
