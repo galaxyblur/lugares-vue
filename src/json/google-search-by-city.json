@@ -1,16 +1,16 @@
 {
-  "city_name": "bridgeport-connecticut",
-  "city_rank": 172,
-  "city_population": 147216,
+  "city_name": "lakewood-colorado",
+  "city_rank": 173,
+  "city_population": 147214,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.1865478,
-      -73.19517669999999
+      39.7047095,
+      -105.0813734
     ],
     "rankby": "distance"
   },
-  "people_per_result": 29443,
+  "people_per_result": 18402,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,85 +18,150 @@
       {
         "geometry": {
           "location": {
-            "lat": 41.212534,
-            "lng": -73.210419
+            "lat": 39.735693,
+            "lng": -105.0068798
           },
           "viewport": {
             "northeast": {
-              "lat": 41.2138475302915,
-              "lng": -73.2091534697085
+              "lat": 39.73706163029149,
+              "lng": -105.0053500697085
             },
             "southwest": {
-              "lat": 41.2111495697085,
-              "lng": -73.2118514302915
+              "lat": 39.73436366970849,
+              "lng": -105.0080480302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9c34cdda8cd3daca4b0a7ea040bb78cdcd57f154",
-        "name": "Esporão Multi-Cultural Center",
+        "id": "7b1f57fbbedb8ce42e66d369feeb17236b15cd4a",
+        "name": "Colorado New Style Dance Studio",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
+            "height": 719,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113009056523421992183/photos\">Colorado New Style Dance Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA5w3SM7M6pJoiiXUen0DDJDiaefHifRB66pUOkef0oOKWuSDG9q9w8ZEO_5MmqpfM6W3GHHy4985YOL2XmP5mcopmDFaMHdfcyumOBZEBJA3ZsZZ5Sd8K2B1BMtk7WybuEhBxwRXd5XRqhlmXu547zw1oGhRj1t5UWVZI4T7erk_RLRY-c_Hh2A",
+            "width": 719
+          }
+        ],
+        "place_id": "ChIJkdW_KyR_bIcR7bALUF_cc1k",
+        "rating": 4.6,
+        "reference": "CmRRAAAA896cxoDossgt1xLFiZrV5NctP3x1YKVZcA2Bae0NIxOxKfhKKwnDbvsentrHZdHIgih4z-4nLHcs6gqBBf5BIHb5Em6zg8fxtzwGCqrqzJKM3yCYpC1w1gp_Da-EpQKaEhCQ4X-rlIfE02WsbQEEvm3MGhS6OuY-NQJ0WYRG4XuLL1yRXbB6jQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1221 Pecos Street, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.73087959999999,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222673029149,
+              "lng": -104.9971474197085
+            },
+            "southwest": {
+              "lat": 39.72952876970849,
+              "lng": -104.9998453802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "rating": 4.5,
+        "reference": "CmRRAAAAYeTdqR5tKMXnWPdnJIDHNzJDqn-bZBFM5Z01WoXfRDHNzAESHZbxrsE0IjJZjY0Vq0OEHtAvD-80oaHO7O5HAl3UI_H6DmZ__NshNPv8i_KTMrgOwtfpin6wwR5emj7OEhCn6gkDfJ7ycoFpD8VR3E5tGhQHBWjhQq7J-3eqwEPTa2rVHCz3MA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Drive #1, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.73089239999999,
+            "lng": -104.9983389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73223928029149,
+              "lng": -104.9971335697085
+            },
+            "southwest": {
+              "lat": 39.7295413197085,
+              "lng": -104.9998315302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a78b504b4a397da20bcaf602271a94d389cf9786",
+        "name": "Denver Mysore",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJR1Ji7jF_bIcRRfbHWJaTDkM",
+        "reference": "CmRRAAAAJxIEgZQJtL4owTTPeWWgDNNBecgnljD99CrMYls0YCzSm5U4oPaxpd0k3OgNr2ld5Vy9QhHGj5iAkPYqjZpDbw_nJjxfctiTsYqyCpSfe5VHe4GhWg4cu7sviJPLalsAEhApfBZhE9iU9qPqdA-fbeE0GhSAhU4IVbOxMuDL8_qX4kWjJhkx9Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Drive, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.6544007,
+            "lng": -104.9879533
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.65574873029149,
+              "lng": -104.9864673697085
+            },
+            "southwest": {
+              "lat": 39.65305076970849,
+              "lng": -104.9891653302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "340de47c7b35cc112dbec9d2538d96aaefe763f9",
+        "name": "Palango! Fitness",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
             "height": 720,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112093334428858041700/photos\">Esporão Multi-Cultural Center</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110070394052973363930/photos\">Palango! Fitness</a>"
             ],
-            "photo_reference": "CmRaAAAAde1al3pjFZbAkmvnohWtbDTYuk56HcfJyW-A1c-2sbiGJpnujG5dcseKjULWpXvZZ_Ij6jJjZPEk9UVy-KLYuWNSo6jGxSmKMoGD69NO0dPey9WR3p-8PyOzzqMRFntZEhDvINe0RSZIO1DrbVRzPiucGhS6f3Q5DQv-ISCEGflgcbil68wtzA",
+            "photo_reference": "CmRaAAAA2ce5U_f0osf-CLc9hQCbRtBXjoDJAezlXD9u-FxW_lsYTzOgSXH1AFfZOa7UJ87WU8jdgvR0V5dLmC-r5Qrz7DOtEtDRoj6yD7SyY6fyrFRKRWEtNr-IiELEEQ9sTphxEhDAlTr8hvK6xmke2pttMBIqGhSS4yCYrePlC9psfAcFlr7kY9wB1A",
             "width": 960
           }
         ],
-        "place_id": "ChIJrxlrCuoO6IkRYxIaWegVRsg",
+        "place_id": "ChIJrXGuUX6AbIcRVhpqanjoksI",
         "rating": 5,
-        "reference": "CmRSAAAAQndfLWqCFwH3vQp96MVFNIN6sXPkAUJrEccUswvl2sLrR7yxcnDib8WJ-2S3I92WJ3C5CcBENdtOvSKo9fm_NET57EF-h53Bbr7KniZ2GA3Z1_pTIgq2Brrpz3LQ4bX5EhCFsBd88wy-kULujt6if1DvGhQlqp-mXulFlXKI36kD6zvpFggA1g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3768 Main Street, Bridgeport"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.12860240000001,
-            "lng": -73.38566469999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.1299513802915,
-              "lng": -73.38431571970848
-            },
-            "southwest": {
-              "lat": 41.1272534197085,
-              "lng": -73.3870136802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9cc67296a766f7569f0f577fda39b112c064f199",
-        "name": "Westport Boxing & MMA",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103790791782104091510/photos\">Westport Boxing &amp; MMA</a>"
-            ],
-            "photo_reference": "CmRaAAAA5NgHNDpXbB0_-E6_SIKSkGZK2shJSJ2-p2v9hT3oedxmtnfuypuNIOrj1RCYOExmhUYxK-aHAg8siNVbVD8zUCaFFduAogOSYEwP9eUSHfcFdFzFR1_9BC0kpbTJb597EhBr-S9inzNajqhhh3Agx-QUGhQaQAPKT3eKFzTX_t30lycurod3TA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ5eIR03Yb6IkRtWRMx5hlXxg",
-        "rating": 4.2,
-        "reference": "CmRRAAAAEi6f3s8e_bEH-HItmCk5OHq4QKbCdktob9MrbUBdKAAi5cSNMU22UxpjR0ba3xWxKsLIjMDC6_RZoBpd6TD79YcoO9keIHGM8HiUs59S4k-22e7jt_Qcg6sxBpt7dt1EEhBcPFMiW7-BxxWRAMZYG3aAGhSwcVMTsABR5aMG6M1LKgmW3JcBMA",
+        "reference": "CmRSAAAARV8BRp-74tDFdwH551UzycNOJQucQqY1y95TMgzh_F-Gl6wyHyafZqPVLoDKqR_c501NfS9p1snuSofrk22kEwSF2zWwU9w1Vimd7ufqLMMywPaJ7yEMnE6WuoVAukpvEhArPBI7mhQDDks8iCx9kr9qGhQxjUuQfd3H4E8vi5WLfkUm1RbD-w",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -104,45 +169,30 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "507 Westport Avenue, Norwalk"
+        "vicinity": "3431 South Broadway, Englewood"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.12867,
-            "lng": -73.38581889999999
+            "lat": 39.7583015,
+            "lng": -104.9883232
           },
           "viewport": {
             "northeast": {
-              "lat": 41.12937738029149,
-              "lng": -73.3841946197085
+              "lat": 39.7593610802915,
+              "lng": -104.9873561697085
             },
             "southwest": {
-              "lat": 41.1266794197085,
-              "lng": -73.3868925802915
+              "lat": 39.7566631197085,
+              "lng": -104.9900541302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1d06a90482673668d3cdf0b3928c8dcbfca6b3ff",
-        "name": "Calasanz Martial Arts Center",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 360,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114589496167812392362/photos\">Calasanz Martial Arts Center</a>"
-            ],
-            "photo_reference": "CmRZAAAA02ck1j_RjX30rrmCnjGSyVz270k_Fks4gpGo5d4hmQG_wHlZhaDdV7apJHq0pbHbRrQY4hhfdpBQkPSbdnopGnpKfxlqbsMg09CvgwIhpsiDeyw2AYlokSDj7OhPakD7EhAKzcR0UViVbGRTbAZGCNVtGhQDZ9GAInsWoljan80nvqkn5lXdUg",
-            "width": 480
-          }
-        ],
-        "place_id": "ChIJaWAHAW8c6IkRVs1KxBLRhmw",
-        "rating": 4.6,
-        "reference": "CmRRAAAAsCEHzkBpwaIXvAPRMRyCrnQwgZDnL9sTY7OCLIdoiRxDGWqliPfyMrX51K8ysc4dYF38T-T84d7bX5qUFtmpxT_fwDud34cIGhscedfJdDV1roHRO6p_OCHyXQppp20iEhDcGN7w9qdppyiYfqzEUK-SGhTAQQI0nB9XqclDMkgWuEi-3EZN2g",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "reference": "CmRSAAAAWSe_F9BU8mKReqypKbHxmDTpA-LlLA4TdKleiQfPxRTUxBxA_LfcKLG9Zh33ZtTtdJqxZ5YiKngPuEs9JogNsfA-3OfEaHm4nzw7YTEBdGDHUFiu5R1FFXrdwW8U_z_rEhBoIFS7nxqP7NQOQ13zR8_XGhQAhirzZBsZt28Y5zPB0MHJrf2YCQ",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -150,93 +200,130 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "507 Westport Avenue, Norwalk"
+        "vicinity": "1451 24th Street, Denver"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.30378839999999,
-            "lng": -72.9201162
+            "lat": 39.742848,
+            "lng": -104.970469
           },
           "viewport": {
             "northeast": {
-              "lat": 41.3051373802915,
-              "lng": -72.9187672197085
+              "lat": 39.7441982302915,
+              "lng": -104.9693505697085
             },
             "southwest": {
-              "lat": 41.3024394197085,
-              "lng": -72.9214651802915
+              "lat": 39.7415002697085,
+              "lng": -104.9720485302915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e75e877b1868057e5f7a001841404e551d1cc888",
-        "name": "CT Capoeira & Dance Center",
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106635197259731022012/photos\">Capoeira Raça em Movimento-USA, Connecticut Capoeira Center</a>"
-            ],
-            "photo_reference": "CmRaAAAADT_mufX1nfD0ufm0bHN2rV3scrcDENsTWiAT32TJkHJSbfhQGL-LfnloNMJiHdUqS2ByVjEihLYEi56-9onilNk5jQMM1kn4SwhbsphZEjta9Dqkwmn6QMbGIr2xbZ7ZEhCsdQDjrNmpRRpnJLnTlUAdGhQdc0V1HENuJFb0L_-ixh8RnROWmg",
-            "width": 1111
-          }
-        ],
-        "place_id": "ChIJHxwNGjXY54kRyH-wqJMmvM0",
-        "rating": 5,
-        "reference": "CmRSAAAAuS58nsI-q2KMI_Do9cSzeMuKwQR50p-CZkT_HV2iIOaaSTRIha09Kk9dHTFWi078NyPwyJMSfHZBeYSzEEQdUW-H6qdxYo67aP7G2iFhRN2j52Hh0zPIEf5kw7AU34kCEhBgLI4v5MKiu6uTKop0OK_EGhSoMUOR05RBRjeUSAaw4Q8u0KuJZw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "315 Peck Street, New Haven"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.4558454,
-            "lng": -72.8216024
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.4571943802915,
-              "lng": -72.8202534197085
-            },
-            "southwest": {
-              "lat": 41.45449641970851,
-              "lng": -72.82295138029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "76981c0cba55bc4cb9027acb73c260aab6020a4f",
-        "name": "Ginga Brasil-CDO (THRIVE Capoeira)",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "988bb6644aa524afd6b37a30895b64dd39dc97c3",
+        "name": "Movement Ritual",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1530,
+            "height": 1152,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112100340763014557664/photos\">Ginga Brasil-CDO (THRIVE Capoeira)</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/115090892512447875019/photos\">Movement Ritual</a>"
             ],
-            "photo_reference": "CmRaAAAA_1YkfXSE0uqjk_UjgI9tOIExV_DbrowLx3UQfaCxLZopmdNPzFg0Ficxo7P6K15zNo6YiXzR3xVqzJbdippytkoK72-AlwTFSLg1bfTzxxLnK1a2qey35qauf8Iw0abJEhABIvhbkMIM4S2w4AK9UufWGhS_lt5rr1ZPOsZ7yc5dyjCngr80FA",
+            "photo_reference": "CmRaAAAAFREN2jsdqcrIlywD74H5ES_r2SrL6u3h8Toeg_dJeIeBkLNlzTLegBoxK4bO5F8B1fos5aS42znN60bGZkXaWKzzdt1tKYV5xQG1YvKObhd2huS0bm317S0xqslixIe9EhBSmdnyr0KxvqLv0GMV_Xv-GhQsobfZemX4A4tcS_t8IgywF32Lgw",
             "width": 2048
           }
         ],
-        "place_id": "ChIJKxUPXDTQ54kR6cmXbhoy53I",
+        "place_id": "ChIJJa3_xSF5bIcRlEi_TpoaKHc",
         "rating": 5,
-        "reference": "CmRRAAAAN_ZblS0KVLnjiuPWfC2onQc5C9JLU_HrrGFNpoQNmDJbGBoB8iyCFYEczYUxF4QMmywy2s73FUphCvi162oCGFKY5orvJxmtEDLCQzGwUfc-xCYwVA_n-gedptrBTSmdEhBEPIf2Nx3yYFxD0IyZRB8QGhQskZdIxkFt_ZGt4HUPtvFe2vbfhw",
+        "reference": "CmRRAAAAjWOjUywHQvivNmdw6b3a_zragizGHjProvtn58EUD5q-Us3XvufFLaXCbimnoAz2y8Fdyxr2mn4HJqgZ6uKxT2TeFRg3dNmt_6ZHEB-BOyA0a9vmzbZFPKTurcvBL8MiEhCfrLre1ucBx-nB-WPdUzf3GhTuP3TNCfkPHXqpwrJfwU-_Ujuo5g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1658 North Lafayette Street, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.61896369999999,
+            "lng": -104.9897891
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.62031333029149,
+              "lng": -104.9887218197085
+            },
+            "southwest": {
+              "lat": 39.6176153697085,
+              "lng": -104.9914197802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b59a185e2533e839187d3993ea49dbd44f1de538",
+        "name": "Pachanga Fitness",
+        "place_id": "ChIJZxMR9FSAbIcR7qqIXISusxk",
+        "rating": 4,
+        "reference": "CmRRAAAAg3g_YAKKzNPNeArM4uEf0XcU8kgbGwJtawTjFxE-p_6jQz-_kl21LLZ_A494nY_4NRXqI9n_luTyGXRrZtA2a8AmSkPTjUdkR4MfbcxUdUz9ay0r6t-pzSiNw_cXhYUJEhC9ZTQzsyu5OpEGJkbaTX0zGhQx-KD39hPEfrfkI2TkzrRRPS8BgA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5366 South Bannock Street, Littleton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.67829389999999,
+            "lng": -104.936617
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.67972263029149,
+              "lng": -104.9352684697085
+            },
+            "southwest": {
+              "lat": 39.67702466970849,
+              "lng": -104.9379664302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a4e87b229ce99cbc159ea3e0f964235baab26137",
+        "name": "Brazilian Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112640448608706135415/photos\">Brazilian Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAkTx0ZTQFXfo-AabWx4_in3uTfuYlrVOWDh1FX7GPV0zXZ7bvx9qxj_rxQr-QIZMUaKpI2Ff_Mq7Biuh906WA_7EyosYRgudo4eSLN20oWCmmkA6lV6JhBD4WnUMPZQxyEhBacsZszUnsZjtykHDdErnyGhQBegCZxuXudfyMGW93w20eJKERLQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
+        "rating": 5,
+        "reference": "CmRRAAAARht6ynHaTM-QDUNSVMLJ--08ep5Mt_cubMD4LC_VjIZ2AP3RN-tnEAbOavPSo5jew4HTyyPOvFMlwm9aObp1a2Li190pYP_AhutSSfu0dbcMdiyKXR_5D56d0XTkIx9DEhD7fAMYog8H11h7vG-GGdrtGhQ12YeWOfti4hht3NuqxHfoXS835Q",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "221 Burlington Road, Harwinton"
+        "vicinity": "4362 East Evans Avenue, Denver"
       }
     ],
     "status": "OK"
