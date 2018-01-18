@@ -1,16 +1,16 @@
 {
-  "city_name": "fort-collins-colorado",
-  "city_rank": 160,
-  "city_population": 152061,
+  "city_name": "hayward-california",
+  "city_rank": 161,
+  "city_population": 151574,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.5852602,
-      -105.084423
+      37.6688205,
+      -122.0807964
     ],
     "rankby": "distance"
   },
-  "people_per_result": 152061,
+  "people_per_result": 75787,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,77 @@
       {
         "geometry": {
           "location": {
-            "lat": 40.57167139999999,
-            "lng": -105.0766516
+            "lat": 37.6748522,
+            "lng": -122.0810687
           },
           "viewport": {
             "northeast": {
-              "lat": 40.5730209802915,
-              "lng": -105.0754564697085
+              "lat": 37.6761014802915,
+              "lng": -122.0799054197085
             },
             "southwest": {
-              "lat": 40.5703230197085,
-              "lng": -105.0781544302915
+              "lat": 37.6734035197085,
+              "lng": -122.0826033802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "c34793f142640c306988b7c42809fe0ab05575fd",
-        "name": "Capoeira Canavial",
-        "place_id": "ChIJs4gfL_9KaYcRb6LqrzqP9oE",
-        "rating": 5,
-        "reference": "CmRSAAAAVc_Cbw-wsx5zfd7x-vEAjTR2W74lF4UNEnXjRjn01LvCBi7fc3u8BtC5RPd4zl3d0ydwWtRPniNTjEaGXweaZXt_RZI5dE0YkFnJadyJiidgtDRcZI4_Sud0r6MmawFUEhDTE2V1E_i_B2xh2VPRVHb1GhROzFYgkPdQIUMirWuc8AVcGnF_Jg",
+        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
+        "name": "United Capoeira Association - Hayward",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1362,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116049420993522808852/photos\">United Capoeira Association - Hayward</a>"
+            ],
+            "photo_reference": "CmRaAAAA8o3x_vhjpTrkrDWjl2YSGeCgFcPHJrGSk0QOmGFVi4YUS2pX2tPk-eULRasGWL7G3jxWyKZftFQI3TaRgxGKg1p2ASw0UOYQ9RSvC7vzhpPjr8heh0hfUiQgCj5WpQFZEhAG_pl6ayeb2SwvMmXzR9BYGhQ7jRSmJAlJHi7uK9BD83JNHh1C7w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "rating": 4.9,
+        "reference": "CmRSAAAAdnBrZId8v-ooqREOxYe-0nvVTwf_zr8YhB4VnTUw-AiJbuWY3neiCboCS2Ujwjvprx5xmBedIkinKfjL6hKy0j1YochVwneT8dhCbflAXpXtHEfASsgZdi3AenrI4JKNEhABiWNM8jPF6Egmx5To4evYGhTZXd1hFUF1suyBSgOyAV8hU7ejjg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1200 South College Avenue, Fort Collins"
+        "vicinity": "22540 Foothill Boulevard, Hayward"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6574762,
+            "lng": -122.0545358
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.6588251802915,
+              "lng": -122.0531868197085
+            },
+            "southwest": {
+              "lat": 37.6561272197085,
+              "lng": -122.0558847802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "408369ee432ff5c5dd4753f07a502e78f3982f8f",
+        "name": "Omulu Capoeira Guanabara - CSU East Bay",
+        "place_id": "ChIJjbzlMfOTj4AR6SCrnIIQmq8",
+        "reference": "CmRSAAAAoBte1hJdRaOKnzxslUrUtxLBDfhnA4QyIkm0UuKwDv1u52xoHPdWh8X92j-VOXrbnsMFJqhzzdjTjmfiSPEgRipn-32WPsPoKZrRXovjIprw563G5z2qaiMgPuU953rVEhAu4kanWmhU62bujYL1Gu7sGhQLL_AdYeQrviqddUA1GS6fcXR8rw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "25800 Carlos Bee Boulevard, Hayward"
       }
     ],
     "status": "OK"
