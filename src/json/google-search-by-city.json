@@ -1,199 +1,671 @@
 {
-  "city_name": "warren-michigan",
-  "city_rank": 189,
-  "city_population": 134873,
+  "city_name": "bellevue-washington",
+  "city_rank": 190,
+  "city_population": 133992,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5144566,
-      -83.01465259999999
+      47.610377,
+      -122.2006786
     ],
     "rankby": "distance"
   },
-  "people_per_result": 33718,
-  "possible_duplicates": {
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Road, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27865 Orchard Lake Road, Farmington Hills",
-        "score": 0.9245283018867925
-      }
-    ],
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27865 Orchard Lake Road, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Road, Farmington Hills",
-        "score": 0.9245283018867925
-      }
-    ]
-  },
+  "people_per_result": 8375,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.4600035,
-            "lng": -82.90020369999999
+            "lat": 47.6233507,
+            "lng": -122.1651923
           },
           "viewport": {
             "northeast": {
-              "lat": 42.4613936802915,
-              "lng": -82.8990237197085
+              "lat": 47.62460093029149,
+              "lng": -122.1634357197085
             },
             "southwest": {
-              "lat": 42.4586957197085,
-              "lng": -82.9017216802915
+              "lat": 47.62190296970849,
+              "lng": -122.1661336802915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4b24733e2a8fdbda905db13cddb9e908980901eb",
-        "name": "Fresh Brazilian Jiu Jitsu",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "6115fb1661f0c28f6d5919274716ba23e3a0472e",
+        "name": "Harmony Ballroom",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 2988,
+            "height": 3036,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115790056452220315949/photos\">Fresh Brazilian Jiu Jitsu</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114096313727951083295/photos\">Giovanni Severini</a>"
             ],
-            "photo_reference": "CmRaAAAA-N5emZgjMGI3auFS6qEOsHPFhwJCUd_TItFKJCWjQpSoo5n17552pVAIuHnZxFQeOM-MjNx3gKrTT18Sj03LPNBok103sVWLy4sJ2egbGd2CXEqqQ3mI54kc-KaOl8-xEhCjs7kv9zqxlgnUbEDP-IXmGhRVIJbhyU35kXbDsbcqpz-2PikT8w",
-            "width": 5312
+            "photo_reference": "CmRaAAAA_mw0y81XAR-0zWZiAksyGJ_ezGTrHz2NaAscslwOfsFm5lkKeotmcwhL7EX3NdjJxgeIKQUn4WKMn_yZ9FRi8GW8pH7oOnA1D8tiB4HmeKeYUYj5O2pWp3L_o_cL-_qLEhCMDLjJTpR9fahr12kW8c2sGhRqsZH9D5KsxmXMYiHvhdKYN9HP5g",
+            "width": 4048
           }
         ],
-        "place_id": "ChIJ3ybnviUoJYgROpAnbmeItfE",
-        "rating": 5,
-        "reference": "CmRSAAAAaodO2OsS37VO7i5f1w72TbMOLDkol3M5EA_eflnM8Mg7isX26FDnfZ0-sSnDT3chWJmS3KkCnLjBKgodxBoPhcbJ2QM6AFHvXbqCdeFbOLbdfFLJeMNB5-rljGo61RcLEhAdENrwa-jIUwGjOCRiyAOpGhQu6sufFLLeKyduaSxz_a9jxH7rJQ",
+        "place_id": "ChIJD_mGpvhskFQRKTBkRqdx6vE",
+        "rating": 4.5,
+        "reference": "CmRSAAAAkoLZ4b5ZjAkM_qdXFIql9qvZzsSYMILEaSqRumBt2BtXpNQeXeOrVVEEDWSd6uCa3DztZSgT1-nX-yYxmpCWXbv7hec4rS1z67AzeelXHzOOUVK2aWkX_711DlYl6bloEhC53aPPmDwRgNYij-3FJr6FGhRCTT1hViq7rHfGT6nG5xcn1gPuDQ",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1407 132nd Avenue Northeast, Bellevue"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.63283089999999,
+            "lng": -122.1378364
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6341794802915,
+              "lng": -122.1364204197085
+            },
+            "southwest": {
+              "lat": 47.6314815197085,
+              "lng": -122.1391183802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8293207cbb8d28844b11a1d5df2bea1fef427990",
+        "name": "Capoeira Eastside ( Redmond - Bellevue - Kirkland )",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115669512095889065493/photos\">Capoeira Eastside ( Redmond - Bellevue - Kirkland )</a>"
+            ],
+            "photo_reference": "CmRaAAAAP64ScebrCH-4fhXq3ZQIyZ11NwW1JWxR0r4zLIAtf9CPLvO8TSMKZ6hEqYV6224n6FD0ctJQztqxjte-NGWcHT63sPqPgHEq2huNjWzAwtkgQvY2iK2QMA43dtLIN9OcEhB0DCD6wYoW1LbsSuMcoZORGhSRm39C5ZBnQ6AULu3AL8Uq57hrfg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJl7OUJwptkFQR5MHJS9VsFWs",
+        "reference": "CmRRAAAAY6PF0PpcOB8XitNpC_ltbPRSyzQhEv8XCbEVgeZJZg1uwRM26gtFbnoBvfOEkqfZ536pkFUGVPDJp2G8G6f7LhQ9GlKIGPCemCm1UAFEz9vzfj903qxAoJ0e_nYns8uiEhDaB8yP49IemVH_1ILPvDflGhRjzKBGbwa4yXxaLfNu9naS6i3fqw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "22520 Greater Mack Avenue, Saint Clair Shores"
+        "vicinity": "2505 152nd Avenue Northeast, Redmond"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.4602986,
-            "lng": -83.1370883
+            "lat": 47.60769510000001,
+            "lng": -122.3021127
           },
           "viewport": {
             "northeast": {
-              "lat": 42.4617724302915,
-              "lng": -83.13574626970849
+              "lat": 47.60904408029151,
+              "lng": -122.3007637197085
             },
             "southwest": {
-              "lat": 42.4590744697085,
-              "lng": -83.13844423029151
+              "lat": 47.60634611970851,
+              "lng": -122.3034616802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
-        "name": "Capoeira Mandinga Detroit",
+        "id": "53c9e28ebf70f0dcc07a73a6a20598177a71beb7",
+        "name": "Omulu Capoeira Seattle",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1626,
+            "height": 1369,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109644007448311548204/photos\">Omulu Capoeira Seattle</a>"
             ],
-            "photo_reference": "CmRaAAAAV0DzgGUHs9T8qz7uyqSl41BTK5ZJWxPzfSqfUK9WQCCXGtmt8RlMwVzRhbJdM8pCkLmWAJnKmgz-cEryhdPiBQ7k82enqZ73IRveDp8mTEtl3F8hgwr5U5xQkEPiimWtEhDwjI_R3q1NiUdEgDgQErsiGhRixkyhKPiE3ROnosNpFaawwIZA4g",
+            "photo_reference": "CmRaAAAAoov5mS40A1wq3bzL_ELUL5j8AO-Y4blPAjf5TUm4HIDM52dOfOeUUKrkOjHEyUvmdyS-zL7x6JqqOf7UL7sI7q17s7yI37ROYUdpmm-QG7Jwr-Ampv6BYsAOouv3Y7DHEhDViPSjJcnux3XImWAqeK1sGhR4YTD6mlRXhATggVKf5LaL_lvntA",
             "width": 2048
           }
         ],
-        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "place_id": "ChIJb69wattqkFQRVgmLR0UvHnA",
         "rating": 5,
-        "reference": "CmRRAAAA9_Zqa1lNUWHpTryn-yKDGt1_5atcf77pZzXZBaMnSXQVeJTY_fle8AAlxKFX-TmeZjzgZOflw6i0XKbKuZvtIv2ziXySgrTGc0DavUsCvtwf-M-sUoWSS4xq1MtgEHSQEhA4vXwluX2ePEqavfGkkzowGhQxex8uP98YMS114MZvgkt1vNXfrA",
+        "reference": "CmRRAAAAT_UKLPQnVUBw-9riZrx61wRmKXjzFw-YiXvqwdYtWuXBFDEW8_4yHrIXZ5IjvmlUkl0eRk90nhcrZHDzm48Anf5jtz-H6I1hkmo3U4zXMp0kqhUNuEeM2P1gjmEaN036EhDB7KMiMnmR-D1YIdet1muzGhT13-VE_vPuDOV-DInhuoR0-oDaaw",
         "scope": "GOOGLE",
         "types": [
+          "school",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "247 West Nine Mile Road, Ferndale"
+        "vicinity": "415 Bell St., Seattle"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
+            "lat": 47.57727479999999,
+            "lng": -122.2977025
           },
           "viewport": {
             "northeast": {
-              "lat": 42.5290309802915,
-              "lng": -83.3588091697085
+              "lat": 47.5786762802915,
+              "lng": -122.2962020197085
             },
             "southwest": {
-              "lat": 42.5263330197085,
-              "lng": -83.36150713029151
+              "lat": 47.5759783197085,
+              "lng": -122.2988999802915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "reference": "CmRRAAAA8iW3U3_T_W5YGfYXzGIot6sPboL5HUPeDZYmj4mGkHL4C-s1qYxBYd44geZq6hIIajTtM0wdiB4Yq7ABmyvW8xo1RzIwie_trskuCoRLT5e0psrUtV9pAsUYhPJXpolvEhBfk4P0tv8wQgwGAp_nWWSOGhTgJptVdvppGlHYy-qIxVWQiu-z1A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48034 Orchard Lake Road, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.50065949999999,
-            "lng": -83.3608659
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50203943029149,
-              "lng": -83.35769595000001
-            },
-            "southwest": {
-              "lat": 42.49934146970849,
-              "lng": -83.36192254999999
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
+        "id": "595976ed220fb6da8ccaa4f37b428acb97e0d924",
+        "name": "Seattle Capoeira Center",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 414,
+            "height": 706,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/101638517339801215750/photos\">Seattle Capoeira Center</a>"
             ],
-            "photo_reference": "CmRaAAAAnYsHJpXii3dkK-voEeLeHFUac2klfLqwUuI58woHpMpHUt3MxhO6hgOO7yxNryI5fpbbeNhe6crK9H__pshuJFqLEkFDcwN3BJQGsyz5lP94FBtEUjdHpW4K4eB9zdW2EhD21t1x2rJzLzRww-bEtGboGhRQ-ceiKbE7mUql8XMrEt_x0f9_5w",
-            "width": 820
+            "photo_reference": "CmRaAAAAalAI44ZN77joNbw6FdwHVIerZtN-RgdXquTwDjbwsp-6Y_L4geYjSC5tXRrxbxajc8YbGqOX6l9pYGrfPfSKAENS1qCMGCQAq09zGNY9-7Xn-u2CR3wR2vKKqLkjrdcsEhAENkrVxbL-TJc0C6NrFc1YGhSiqrjooymT1qrtBbUckKRJn6f5uA",
+            "width": 960
           }
         ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
-        "rating": 5,
-        "reference": "CmRRAAAAz2-98FUZeD4f9s-0qNSQU7m4d2uCxCNVYQuzBpWO3iIZh9RqPJuHyqbTLyvLNE9f7CPO5J5ZQla-AB9_4xFoKYJLv6HPhnp5FXmOE2lFMivBnKqdy07ZfTN4NGmf-i2DEhDYYUL5LspYKAAGiVL3uAFrGhRyIayQFUx4lfjByMNH79IJlTx8TA",
+        "place_id": "ChIJOR4rlJRqkFQRs2rPPpk54bI",
+        "rating": 4.9,
+        "reference": "CmRSAAAAc-y1snzIVQ3mGaGjzQTTruTAcGSm01eI1VGgmWeZp2TF0t2dIJPKa8fsBLiwWvs-t-QxXmfWrITtVRD0Y-RaEZS8LqEmIaJJ957I53jbgO7fw5l3RM7stMnPhGPb81KKEhDw1gXZMnmflo-PaoFCxfzLGhSr27kAZPd4FUZFMSOC4WXFsKagpA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "27865 Orchard Lake Road, Farmington Hills"
+        "vicinity": "2909 Rainier Avenue South, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.621667,
+            "lng": -122.312297
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62301753029149,
+              "lng": -122.3111340197085
+            },
+            "southwest": {
+              "lat": 47.6203195697085,
+              "lng": -122.3138319802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3ba458d46f551fa8b1f9b0230abaf3aeb3ba9954",
+        "name": "Dance Underground",
+        "photos": [
+          {
+            "height": 3089,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104965408893649069229/photos\">Stacy R.</a>"
+            ],
+            "photo_reference": "CmRaAAAALka6sbfiT5HD9NNt_-kDU5AXqh2bT7Iqm2phETQPt8qCiNF-Webj47zm5y6Dn0bBJUMucHOqvUZHqErJkA4brA6zXlZpz7nVIDQOyUzW0SY_pdyrqcNjO123h-UlXhKeEhAMd52wIL0jkKuPwlPl34soGhT_GhbV8LBuCQTdy_sWNPjeB-_XMg",
+            "width": 5593
+          }
+        ],
+        "place_id": "ChIJqVgQYSsVkFQRWCijUjNjytg",
+        "rating": 4.2,
+        "reference": "CmRSAAAAdLImWw7aCFQ89b_n5_u0Xs8KMQf7bgPwRj8kUNB7kGt5an5IiuqUA7aLw6uoGBR2Qqo1RPSbuxMIrVzQA4H8UO4b-ikZApTxPcRvVcHBoH_jVaOdZv9To7jTqFScHFu5EhDzDA5dj5EvH3_mrBW1KsXaGhSpV9P1OBkeGt4RhBas2nf_1YvqIA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "340 15th Avenue East, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6216589,
+            "lng": -122.3123532
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6230078802915,
+              "lng": -122.3110042197085
+            },
+            "southwest": {
+              "lat": 47.6203099197085,
+              "lng": -122.3137021802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "631c3af78ecb57db01b3ebcc1ebc2c545d4c9a22",
+        "name": "Fenix Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ4xOJIFsVkFQR7LREEa5FvYQ",
+        "reference": "CmRSAAAAkHVFtORE4FBMzYtX9Oy_SMpGXcF92oUu63FhMABDWkO4hxH1htwx5fJIvQ0q3nEYkhwKlRL5ti1ug28zaBPh13hTDnB5TMeHK0FrDYQBJQXJ4kdNTauCGB_4oIOQ74LgEhBKRojWjC0CGBqhufwWerNyGhRXQp1TZV0gTVJsghmXT6tHk_KkWw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Dance Underground, 340 15th Ave E, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5757123,
+            "lng": -122.3204992
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5770725302915,
+              "lng": -122.3196161697085
+            },
+            "southwest": {
+              "lat": 47.5743745697085,
+              "lng": -122.3223141302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6864fcdcea9b1ed494e58182b02b10f04c577b8b",
+        "name": "Capoeira Malês Seattle",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106708897472044113557/photos\">Capoeira Malês Seattle</a>"
+            ],
+            "photo_reference": "CmRaAAAAsgrvNyR7p-2rRroeHPHIN3-_I6b35Wj6X6W-17KXwPfaBYasD7p4kSfiV97ywD1s05HrJ-EL75aDoalSCF3Bv0N_gbzRTmpc6cdpRhsuRYFidNIk8JDKoWpyNPkmOO1IEhDPDpXc5iPmuC_Piw4CTAv_GhS3LYSbLT0p1IoIysdJxXCyHL9p6g",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJM4yMJoBqkFQRw_BBUsDob0w",
+        "rating": 5,
+        "reference": "CmRRAAAA3eGG6psUIBwIu0hh4j7jgsv_RJ5HuEDMI3NGpecH_3MQ5_7yPl3tKKLaEWUlRhFAXe2LQJ8lZ4HqzwMkefBZCdNuYW6COeiK8n673nfG2_VxDVhNBReygOcXp6bflW3YEhAjFptatOotWE_9Zdq7dSC1GhSApU3co-ovcakYlOT4WAnbE9wN_w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3150 Airport Way South, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.57564569999999,
+            "lng": -122.3209324
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.57700078029149,
+              "lng": -122.3198348197085
+            },
+            "southwest": {
+              "lat": 47.57430281970849,
+              "lng": -122.3225327802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "4cd2c1035b396e2db14621b0bcf1797c99f0dba2",
+        "name": "Studio 206",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 562,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116478332932604444010/photos\">Studio 206</a>"
+            ],
+            "photo_reference": "CmRaAAAA5abcVE-UgIBPYIkzp-XzbEfoAmQvlC0eM-tbHxBEAB8NRFkrcGif38dWOjiGNXTZm1KpCB_uC21TLceitdci5STBK-00f9yTbt-_p7CMf9aobEbLuqARZqLjHvOyhCxsEhC2ebjyGvRnDdN2vvE0zKIsGhSMKPxlt87T754vkqQyGqWySZSJ3w",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJF-XJMoBqkFQRI9y7fUo3BVI",
+        "rating": 5,
+        "reference": "CmRRAAAAcjxNXQ1uMf0daVousVG8M3_KhpMFL7eaS59iU25bTEjZ3rRUVWuk4n6RrRp5wssV8GH95SRSUwaCDRoXlM0bs4peYFoG_ExZ72E33jfj7I5HtO7xrY4uyl03JUmV-L1NEhAYSc6691n_l1Fj6y465UgDGhRp-B-ltEP70h9uBSwsbDNDIWJeHw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3100 Airport Way South, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6585425,
+            "lng": -122.3134141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.65989053029149,
+              "lng": -122.3119670697085
+            },
+            "southwest": {
+              "lat": 47.6571925697085,
+              "lng": -122.3146650302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7b58520be81daa26856710864bef0c788d2e9cb2",
+        "name": "Senzala Seattle",
+        "place_id": "ChIJLVOuqPQUkFQRTQBpJlAqWGM",
+        "rating": 5,
+        "reference": "CmRRAAAA2WafWTYR1Fs-WEwFvJnXWC5SNcGbh3ERKjTyIWoaYsrPsfOoqE6u6xsgwJg5tUrcdSad37UBBQAZ0M_sjkO4qp0RVFfeXDgu1Gf6LJU3AkfZSSE5LB7GwOGB088br2DVEhB3qPMGtPTOQuMPNkAS2vFpGhQOoBiFxOdXcFW3q8rWMl3kn8BEgg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4205 University Way Northeast, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6215078,
+            "lng": -122.3375186
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6228556802915,
+              "lng": -122.3359835197085
+            },
+            "southwest": {
+              "lat": 47.6201577197085,
+              "lng": -122.3386814802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f42d5c1f70683ee142ba23eeb87d9c6c7e49a917",
+        "name": "Flow Fitness",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105719757283438807633/photos\">Flow Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAdP1JHuzo9_mAxlrYFuT9WcNzNUnoQkWaSFv9eIvpv6EJun2z4M-YpDhAE9vqNx4M28R6L4AAduiNpFson-v1qTBVM7zQ-UE5kpFUlfc8fDHR7Y4jYVe9WrmhTZ7a95H4EhBr5TDFccIupZRhvyXQGIw2GhQKdV6-XhqfubNO03bjRdPDKLC1AQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJvSSesTcVkFQR4rkK4IpYwqs",
+        "rating": 3.8,
+        "reference": "CmRSAAAAOBuCUVpNR7oiQP5-g5ClNaqUreLk_anPpX3XIGfeerM6YGHdgcuq6BkuuJws-qMK8gVadag3z5dAFkCB-jOO_RAiJ8aoaW-aZXHCcTP28GUE-4GbuwDxzEDi_5Cd3WyxEhAfwo0-KcT_6UZ1oyc1SFn8GhS86odayV1d2XFHqaDmndfpkqBUUQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "311 Terry Avenue North, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5765449,
+            "lng": -122.3304661
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5773832302915,
+              "lng": -122.3290937697085
+            },
+            "southwest": {
+              "lat": 47.5746852697085,
+              "lng": -122.3317917302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1448d31eb45a8e512821719f9dee5e1b11b7661c",
+        "name": "Gracie Barra Seattle",
+        "place_id": "ChIJN9bjWswVkFQRXeqJa0XAatE",
+        "rating": 5,
+        "reference": "CmRSAAAA7ktyth6zQjXlmQEGnldgupgJLNuIXkESH5J4IbvGzOWvpPHeJ-Psg0zzeJsqY8J2vIO_eG5UuMC42bP3x5xwB86buvnS__OiqEomZZbepEOY7gE_PSjOuQ0WqDDYPYgUEhCKq3gCpeM-LbJy1te46I5bGhSoZFhxR338JNi-iM3CkNmPmvPu3g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "270 South Hanford Street #201, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6756294,
+            "lng": -122.3046877
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6770540802915,
+              "lng": -122.3033391697085
+            },
+            "southwest": {
+              "lat": 47.6743561197085,
+              "lng": -122.3060371302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d087cb4c726f6c952ff541ed549a0237f7f5ebe5",
+        "name": "Community Fitness: Flow Studio",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1363,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106757663807478430291/photos\">Community Fitness: Flow Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA1OHo7GHIDpUl_uks6lQG67nReVcnWW2WO3xbVyjbYuuNwtCxUPJcI5lKtWq1wZPgFjg63SuO-n9TPJUa7ZUj7lGU2Oso8Nnt5uV2-bpiGgp2AjkUVZDW3GHW9lj_G1TXEhCyxgudEGaJnqZ0kyELaJXzGhRL6fZvtrfYVwdfUeS6sHl2dFUfqw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJz20ojHkUkFQR5Km4RZdKLwQ",
+        "reference": "CmRRAAAAHFK4kD0PfGRCxy1yzV5OGzK4BIecrdR5dvM1DjhBq2KTG9xRhh-WOevlARcTFIAs7pSWMJW32vGx8gYT7WTubi-ZNBirtSa61ftCd2jRdoMSff72iYmoCk9po6pFs61bEhA1erRrfmFJ_spoWJPjT6U4GhSRoIbRzFRNV4K-v2fVJLqL4Ts-PA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2113 Northeast 65th Street, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5205874,
+            "lng": -122.2625932
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5217194302915,
+              "lng": -122.2611944697085
+            },
+            "southwest": {
+              "lat": 47.5190214697085,
+              "lng": -122.2638924302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "50cf405a342432c8ad327ab3e0ed6029781dd06e",
+        "name": "Água Benta Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115018396996348692478/photos\">Água Benta Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAADDphBjs7deBouRSnRZbCe7Uommr5y8E5-0Xuz_73OYdcEefDlIqdk8o0QI4QctZwtLGMKHfg7brlJG73qxVIJdf_6F9G4qEaVT0BmLTUkN1XhSjLwwzyQ1ZVJ1SZpXheEhCKu7pGjpQKMz1QnUGs6zyeGhTudnQ3Cc9Drga7jF6C8UjRkzOfoA",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJCbtyYw1qkFQR1V8cEH3zrGQ",
+        "reference": "CmRRAAAACBhF6Mu2ltR7PShpF80P7tpCVgS5DUwFXD7CwkBZIblO5v5RmZFNHPaZWoY3i0CJqr_I_a66e4ELmIgKwS0iL-WOqg9Y81EVNInCtow5rE4HucDjaPrmgA9Y900x0FdEEhCK46T1CH0iXLGVy_85XSiNGhS37Pr49M2gBVfKKgKPG5FY2Cc67w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9460 Rainier Avenue South, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6618273,
+            "lng": -122.3408821
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.66317628029149,
+              "lng": -122.3395331197085
+            },
+            "southwest": {
+              "lat": 47.6604783197085,
+              "lng": -122.3422310802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "29afd80cf5e7e2f0fd4b2d927063e7cab6ca7491",
+        "name": "Compfit",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108645030412382404674/photos\">Eric Wilson</a>"
+            ],
+            "photo_reference": "CmRaAAAAOhAx7G_lHyZfZj6MfSWrPJ1jJt-PjcA14C4_c60XLxlgylaxVdjPJ0UgShL2tHg_jnbbS22TNfzKDbchr2VA90OrJlxIX-oOx37BRu6f4L61BCyWCJGEieXjzN4Dc9tLEhDRRiHf5kW0NI418k7V4z0mGhSnebZs83Lu4ZJ_-hFPNHfjYG6EEg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJs5uLmR16CEERuupkYX9ZI-k",
+        "rating": 5,
+        "reference": "CmRSAAAAI_wdWBJrggcHJTlayyeowQ3OiIdWTYZKXk3VYdIPWug33CQo9xntCtPqTkcYqsezZOyUDjwSlQusUL5nzTs_OhmQhdSo3-3DHiLrKkQqFOS6GoAmS4d5lXnIlbRJik2wEhA4xRlOEkvufFoaVlsx4OcVGhRiTXh84SZdLEUIyA_GBhKtU0S5jg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4501 Interlake Ave N, 6, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.50552709999999,
+            "lng": -122.1578799
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5067814302915,
+              "lng": -122.1564628697085
+            },
+            "southwest": {
+              "lat": 47.5040834697085,
+              "lng": -122.1591608302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7a403c33db7bbab6952f37eb13379a0f9260d4ce",
+        "name": "Capoeira Malês - Renton",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104998568969488043890/photos\">Capoeira Malês - Renton</a>"
+            ],
+            "photo_reference": "CmRaAAAA7nZ7aWwnyrD-I6uGPMX5-Elrcr1pzE3mF71vCdvVEr9kVQjVrqcsAK4_bPF0S7YJslpBGZgV5R7GvUYoIfm_iHtOkW8WeJt7eiqhH8kzHpd6ae6eLqqnQOYzFPBlnJcYEhA0WHSfsb9jD80NR9XzidcRGhTtZexM1sRrG-Sdvc_SohdYFDfhlQ",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJF_WdvGJokFQRfEAzq554Jjc",
+        "rating": 5,
+        "reference": "CmRRAAAAqdFFIt52mvUtOUAPxoU4vIj2xSJ3YDgYMRzbXE_0LpFqTL04i2LPWcQK1Adpd0lTHpg7U-qKASNNMG4YshJe7nVrRrBissN2o1vrx-lLD2-AytHDlkNY3Tlcx9bYo4mdEhCnOCRiSd4DfcMxVXlap75-GhQ1XQ70ROvV2AMMkqgmVCNDjqnp9Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4602 Northeast Sunset Boulevard, Renton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.65150300000001,
+            "lng": -122.353623
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6527290302915,
+              "lng": -122.3523316697085
+            },
+            "southwest": {
+              "lat": 47.6500310697085,
+              "lng": -122.3550296302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "89cfa7ab8a1d4c2530ffe932473a06524ed16ca7",
+        "name": "Bahia In Motion",
+        "place_id": "ChIJI0YN3KkVkFQR4kOw4mXtf-U",
+        "rating": 5,
+        "reference": "CmRSAAAAmoD1OhUIugWc-uo7o6-PrVQwqhiDNeDK-SneuXpNBxRmab8tVgqvV_gxxkirrDLFv-m6u_hr3p-L50kUt1d1ibrG_DP2Q2PM602zmMtHCjn38cM86QlkpyRsxeP4rNgwEhAWPS46GKZpmXMv-vMcrHGVGhTGukU3mnP3HPscZVTkvHf2Lo09Bg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "418 North 35th Street, Seattle"
       }
     ],
     "status": "OK"
