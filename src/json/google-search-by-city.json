@@ -1,20 +1,111 @@
 {
-  "city_name": "columbia-south-carolina",
-  "city_rank": 192,
-  "city_population": 133358,
+  "city_name": "olathe-kansas",
+  "city_rank": 193,
+  "city_population": 131885,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.0007104,
-      -81.0348144
+      38.8813958,
+      -94.81912849999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 65943,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.9206727,
+            "lng": -94.7598328
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.92174128029149,
+              "lng": -94.75895316970849
+            },
+            "southwest": {
+              "lat": 38.91904331970849,
+              "lng": -94.7616511302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3f6161e42ecf2fa6c86ce43a0729ad678451dc0e",
+        "name": "Brazil Academy - Brazilian Jiu Jitsu School",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106139064136134966415/photos\">Brazil Academy - Brazilian Jiu Jitsu School</a>"
+            ],
+            "photo_reference": "CmRaAAAA5wQ-OHmmm4UGTBLlmVIjjXz9jin9I2AaQ-5Abm-WUWOgbajh_DxrQQEN83l013PwGAxjkriBDpG0Vde4w4hOaMuQH2M3rC_-waQqW00giqNwGMbmOGyNcGpZHAQEH0OcEhD7yJnw3dd80K3ytujbj-_uGhSkd6WgNrbXIKohsAo2QrBb-hpB0w",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJOel5vg-VwIcRGQYq_qmUmG8",
+        "rating": 5,
+        "reference": "CmRRAAAAd57FE86azUqWlTxaWPqCuP7GdFi962jGu89KoU9Zage8xCTstHKLajvGQqR0uaw4s7o7bqwget90syDcewAFZy9VrmRTjQefcikms3pTG1X9Pmvki8dm3tFbLwkCFYo7EhDX32q1E_SQUPN1Jj6a98DyGhRMpbbq2z0MWLfVAMMzVyAnT_rYjA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "11441 South Strang Line Road, Lenexa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.0101357,
+            "lng": -94.5749766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.0114805302915,
+              "lng": -94.57349291970849
+            },
+            "southwest": {
+              "lat": 39.0087825697085,
+              "lng": -94.5761908802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "53d727af72525cd218f331a4654284ab44fe8379",
+        "name": "Grupo Axé Capoeira Kansas City",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102093740530589740736/photos\">Grupo Axé Capoeira Kansas City</a>"
+            ],
+            "photo_reference": "CmRaAAAA4DtK2vrKiINcLplUeKLX0-lDwo3L-nLp9ATv2_uG3y9ozbjrkTHF_a3JGdxgdnniIvkpva8IACTcNQW6vUlpEH8atjw26pP2PqVhCHONj5cJFwAii1B9u4A5Ka5ey2DjEhCYoT6qJ4m75ETJdt1UtxevGhTy3aKyLRDxFyhPUMvRFEGCGS0-Rw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJM4zreA7vwIcRnn9Ya5_3bOY",
+        "rating": 4.5,
+        "reference": "CmRSAAAAjIxw7HwEyzzJvEZbnHkiCSm7ai-oaUU4n1smLs-s7VBStOWrIIGIOJPtgYYfOfVsZw2M73KdFKVUB0St5oWbKkXpgY-XSniZFWvposzqKQW_RCJJLTkeEgK0CcuyUqjFEhBJEReGBa8xLkm6N9fHZdqvGhSkrUqGCYyOvRagk2-cdHinT7YKvA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6430 Troost Avenue, Kansas City"
+      }
+    ],
+    "status": "OK"
   }
 }
