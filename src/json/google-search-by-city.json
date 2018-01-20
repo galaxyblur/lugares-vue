@@ -1,112 +1,20 @@
 {
-  "city_name": "denton-texas",
-  "city_rank": 217,
-  "city_population": 123099,
+  "city_name": "victorville-california",
+  "city_rank": 218,
+  "city_population": 121096,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.2148412,
-      -97.13306829999999
+      34.5362184,
+      -117.2927641
     ],
     "rankby": "distance"
   },
-  "people_per_result": 61550,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.9290085,
-            "lng": -96.83263679999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.9302614302915,
-              "lng": -96.83128836970849
-            },
-            "southwest": {
-              "lat": 32.9275634697085,
-              "lng": -96.8339863302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1c471a67d3182505545759c04523512ac3573399",
-        "name": "Dallas Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
-            ],
-            "photo_reference": "CmRaAAAA4MNvIxbKJHx7110C3ds07P22LWdf2H_YXGoDIhxQmDZxbQWQawdnbwD2TbmpPebfOLiVc4ftuz0L595NvgWu7GQQIXj8KQ2YUL8NYrXo8B8q9eQy9p9-f0_XE6-Qp0vmEhCTc5GVNUqj0RfwRRJPrEnkGhQEgTtRds91Zs9hWvRH94SdjCJ0ZA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
-        "rating": 5,
-        "reference": "CmRSAAAANWCcXB7uzYjaKp8LiNIcnRVGsYo2UA_5NduvXNYsd_oHowg5GpTU8Ds_nFVq9h7agp5gZkgt_PofLwoM-gWVZqlR-v_awX9-OIb5TAAHzY6uaOC0AEiW07viwJqxkBBTEhCaRk5I77vz_6ND3j2YyvHhGhR43zC_6QC8F4HJYEGLNrhI3xj5qg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4505 McEwen Road, Dallas"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.08637239999999,
-            "lng": -96.67050259999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.08797278029149,
-              "lng": -96.66964151970848
-            },
-            "southwest": {
-              "lat": 33.0852748197085,
-              "lng": -96.6723394802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a48c4d918a190373db68f0a79390f41fe9a22ea3",
-        "name": "Capoeira Allen Martial Arts Club",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115419137930175066115/photos\">Valkyrie Michaelis</a>"
-            ],
-            "photo_reference": "CmRaAAAALwGCONFOi0HtYqFSXJlkLKX8wuJKYUpORrLjWZm_RrBCX7OfZp0vBLm7tKuC6FkaZcQRwtKrVgGQdOMdjPpEaVdInxwpyZc-YqvOVM9lcNMDfECzYFlCIEC0LtFt1EtGEhBTlFNnTeNqgUy--impkci-GhSqAwzTyZGeZSoUXKMF6Ewwf8RKWw",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJd09VcckQTIYRsuk_5ZByrOY",
-        "rating": 4.4,
-        "reference": "CmRSAAAAj5dzOpTScqhmUULR9rg5QR7GeSlF1jmF5INCT3_8FtPKYvIIgLEu7Z9-bkAjqLpBJA2qHtX9npSIyXN3MSbEOpxwSct8c40r1X62qg5v2D5IZKAQ8zzbKRQcWbcefHe2EhDTmHonUFN0_WsZ67UNzC3nGhRmAbuuaOI1MTul9A76Tg-G0YnyZA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "801 South Greenville Avenue Suite 113, Allen"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
