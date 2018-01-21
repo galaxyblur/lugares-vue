@@ -1,20 +1,92 @@
 {
-  "city_name": "abilene-texas",
-  "city_rank": 221,
-  "city_population": 120099,
+  "city_name": "athens-clarke-county-georgia",
+  "city_rank": 222,
+  "city_population": 119980,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.4487364,
-      -99.73314390000002
+      33.9519347,
+      -83.357567
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 59990,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.9645742,
+            "lng": -83.3930148
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.9659266802915,
+              "lng": -83.39170351970851
+            },
+            "southwest": {
+              "lat": 33.9632287197085,
+              "lng": -83.39440148029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "63095248550bed82d06698e5d1fdcdc0c559f2ea",
+        "name": "Center City Ballet and Movement Arts",
+        "place_id": "ChIJw9ezcDpt9ogRL2kL3rph0dQ",
+        "reference": "CmRSAAAAV8bJ_vIAERMgtuFk4kF3jAgPUtwxvvjJqP2086fC3OEuJyM_GbuZsvtALymPnkqR5jmg86gQMaXDj1RlCa14LCJ5wwcrNLcwC6cxOW21PY22-efJqUn1MUKGdMOrFffMEhDasHzYE1_aUlTAjnx7cnUAGhQDlcvMM9yZ0GnR6dJi7deLJwAgtg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "750 North Chase Street, Athens"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.86358609999999,
+            "lng": -83.447429
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.86484018029149,
+              "lng": -83.44622021970848
+            },
+            "southwest": {
+              "lat": 33.8621422197085,
+              "lng": -83.4489181802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "850df2c3669eb9496c275f19e714621779360f45",
+        "name": "Megalodon MMA",
+        "photos": [
+          {
+            "height": 552,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111462139443398212436/photos\">Megalodon MMA</a>"
+            ],
+            "photo_reference": "CmRaAAAAHWupFcz8sydDwjVd1G8msOTBQA3LrcipoTXF6VGTcQJdq9ZTQPRBXdI3z_Kjx4HWLWn_BpSqkt0nc_2dpQppf4XS8vSDgW-7gbvzjvPO6EvoaUw7X1ijSkTZLAZk-lnQEhCCYU9JBFroQX0wC8xfALQLGhQg5NWHWti-jmrqwjMJFqhpwiwp8g",
+            "width": 495
+          }
+        ],
+        "place_id": "ChIJc0Lme-xx9ogRrN0WEywlNdk",
+        "rating": 4.6,
+        "reference": "CmRSAAAAt3LKJQG_h31vtmmiP2_VKnVpYvgDzSrATaal33MBgjAfa_4JzibMs34IrPb6P1XtHtDYsDPgbHoSOqJGX_Nxs9dsANlPrZt8NyNk2Xvfm7S-kg_0ck_sSaObiG5x4oynEhCVBG4YrOGJbl8C4-PAS-O3GhQh_3jSKHB9WFE6Ejv60ps7Y5IehQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1071 Jamestown Boulevard E-7, Watkinsville"
+      }
+    ],
+    "status": "OK"
   }
 }
