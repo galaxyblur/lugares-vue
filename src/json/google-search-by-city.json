@@ -1,97 +1,20 @@
 {
-  "city_name": "san-buenaventura-ventura-california",
-  "city_rank": 258,
-  "city_population": 108817,
+  "city_name": "pueblo-colorado",
+  "city_rank": 259,
+  "city_population": 108249,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.274646,
-      -119.2290316
+      38.2544472,
+      -104.6091409
     ],
     "rankby": "distance"
   },
-  "people_per_result": 54409,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.27930420000001,
-            "lng": -119.2949425
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.2806476802915,
-              "lng": -119.2934530697085
-            },
-            "southwest": {
-              "lat": 34.2779497197085,
-              "lng": -119.2961510302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0ca6026ad22ea3646750b60e0ee8112c6f7918e4",
-        "name": "Yoga Jones",
-        "place_id": "ChIJyxNp4fGs6YARGnX5NL00EiU",
-        "rating": 4.8,
-        "reference": "CmRRAAAAWEQyK5KUCuRYKmDuc9u2uXe308v0x1fL1QLje_-8qs-em7QOd8v6bW7zoo-Euscj4VsTfIz6AEOmf2XCdki3RFb43xBoqBpQ69-T0AsXNiCmtOoQsZCmPV1g9HCnY_JLEhA1QHEQjHrw-zUFdbm0NB2JGhRgP4df8xcFAvSXz95EQM-Vfl66yA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "105 South Oak Street # 200, Ventura"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.233046,
-            "lng": -119.170956
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.2343949802915,
-              "lng": -119.1696070197085
-            },
-            "southwest": {
-              "lat": 34.23169701970851,
-              "lng": -119.1723049802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1475263a796a1628371a2056c2e1bf734f6a497b",
-        "name": "Ventura County Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115311606692635842456/photos\">Ventura County Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAt_pybtvvBjAincJdg_1wfwnY_dvX-IyT0zyneF_JrJFxKglLcYYLImCYN7zpg7Q1kNYqxbQt1fNr1fQdyg0fv4mFqPuJJI2nPzqm2t3wuPrp6Cb79EoSkoTRSrv5MPD_EhD7XgPwHRSJJbxim5PNSgXPGhRBVpk9avjVfTlQLAvOSh63ZWw-qA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJq2GG0CtM6IARbJqPiCY1dxQ",
-        "reference": "CmRRAAAAqcZyiaxOiWPP7hqls6vC8-TNaS8UMdG3x3MnTnZlb5xHrcA5H-d_kEEp5fhkq5wqOgqLU3D0aOTuL8eqKSf35VgkctagyFzBQd7zbEWE3ZNMwrQ-pWEXu5tLr_boXen-EhDAn0710_dc9Cm1vnOVLTy7GhRkRB9LzRzgn2UiyQ59XSOKBDZPZA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2550 East Vineyard Avenue, Oxnard"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
