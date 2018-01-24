@@ -1,20 +1,52 @@
 {
-  "city_name": "roanoke-virginia",
-  "city_rank": 298,
-  "city_population": 98465,
+  "city_name": "albany-new-york",
+  "city_rank": 299,
+  "city_population": 98424,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.2709704,
-      -79.9414266
+      42.6525793,
+      -73.7562317
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 98424,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.68839669999999,
+            "lng": -73.7990902
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.68974568029149,
+              "lng": -73.7977412197085
+            },
+            "southwest": {
+              "lat": 42.6870477197085,
+              "lng": -73.8004391802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
+        "name": "Pil-Sun Tae Kwon Do",
+        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
+        "rating": 5,
+        "reference": "CmRRAAAAZOzG80mFo-eVjgGis8uVBWeLgFvKBZKBTyLd1GhbiveEqOJyxF7gxt4gBmeQx2BhIZKt6aMN__cXc9mZjnj6u7ZFdY2t1Xm9MsA4UhC12Ou0XJ3z6kRqH078I1Fb9pNaEhDyDV8HcAojP0Q0e41nTEzGGhSN6QB2_pUGpM8XDfF20Gc5PlChpQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1095 Penn Central Railroad # 3, Albany"
+      }
+    ],
+    "status": "OK"
   }
 }
