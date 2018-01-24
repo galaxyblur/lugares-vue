@@ -1,67 +1,20 @@
 {
-  "city_name": "flint-michigan",
-  "city_rank": 297,
-  "city_population": 99763,
+  "city_name": "roanoke-virginia",
+  "city_rank": 298,
+  "city_population": 98465,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.0125274,
-      -83.6874562
+      37.2709704,
+      -79.9414266
     ],
     "rankby": "distance"
   },
-  "people_per_result": 99763,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.0342934,
-            "lng": -83.5967343
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.0352998802915,
-              "lng": -83.5953666697085
-            },
-            "southwest": {
-              "lat": 43.0326019197085,
-              "lng": -83.5980646302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9dcfe572e956daccfe15658b918b70de0c462678",
-        "name": "Kuk Sool Won Martial Art - Burton, MI",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117049286232933467648/photos\">Kuk Sool Won Martial Art - Burton, MI</a>"
-            ],
-            "photo_reference": "CmRaAAAAr7NYcNvnkdbczNMq_TTelBWM3wCCbL7gmwzIX_xSqo4CQCFRz_ZCuK07_EbGjlhpEFIuUHLvSz9s1pDOo8hDIroBAPNtw0vCe2E9xlbaQZi2LUTq4KmXNVc0cvQ6F5XuEhDn9KVJfUxavuDklIQsVECAGhQuB_FJqjqHGNCICMipcx752fQkCA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJTfUTHn6AI4gRexGHdKuBGjw",
-        "rating": 4.7,
-        "reference": "CmRRAAAAG-KGuyjHkgSzcUzckJCSSdZJMqONBoBRbgL5JFazCsLK7XkSsm5HvTUy2HIQ3szcY4CV5Zpw2Gf-2l6Za4SZSu3y0jH7ige6Tr3dOseo7SEmTc2tJhjs8rH5juzYrKmzEhAbBfUKEN3dHF-IfnC-RDsyGhQNIKtICD6mVzYLHjgO4tXLPk5yOQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "store",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5515 Davison Road #7, Burton"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
