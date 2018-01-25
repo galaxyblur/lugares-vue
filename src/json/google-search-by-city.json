@@ -1,67 +1,20 @@
 {
-  "city_name": "rio-rancho-new-mexico",
-  "city_rank": 329,
-  "city_population": 91956,
+  "city_name": "yuma-arizona",
+  "city_rank": 330,
+  "city_population": 91923,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.2327544,
-      -106.6630437
+      32.6926512,
+      -114.6276916
     ],
     "rankby": "distance"
   },
-  "people_per_result": 91956,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.1488645,
-            "lng": -106.5854682
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.1502007802915,
-              "lng": -106.5845636197085
-            },
-            "southwest": {
-              "lat": 35.14750281970851,
-              "lng": -106.5872615802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b5ccbb95dc1be80bb70b3543b6fab10875a151a9",
-        "name": "UFC Gym",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115704020050434273857/photos\">UFC Gym</a>"
-            ],
-            "photo_reference": "CmRaAAAA5lIQs8gQkyeFaWb1tRo9HkmQp9BiHPrIsK5hPOptYsRBPJOo7tvlsgGtRiwbAVKjQpJm8xwI6W4sYtSA7FZdFBc4zNRdMIUalZQeW37e6EQplLKrTYnQxT1-pUU3xMVMEhDtwzOa5Nw9BJp4_WzPfYJpGhThRKtCoLYt1237CQSZaeFJeeRIQw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ8eLkmJB0IocR67bMm8Wb-1M",
-        "rating": 4.5,
-        "reference": "CmRRAAAAX7T-t2yBt1193RlO3PF1NH2js2PSlwdBDZ-OeM7DVSHSwbP2l_-_XkQE9k6qUAQ9HcJ3MVORwkAS37kElWKFdSqZGwa5bFpxs-fgsPYZzQCM19PogZN4auYGHpwgd_EkEhCiWlKZe0p5gXtZPZFcXy6cGhSDsse7nCAQqAQTGKfRrnA4JmD6IQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6300 San Mateo Boulevard Northeast q, Albuquerque"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
