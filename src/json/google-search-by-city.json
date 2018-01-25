@@ -1,20 +1,108 @@
 {
-  "city_name": "lawrence-kansas",
-  "city_rank": 338,
-  "city_population": 90811,
+  "city_name": "santa-barbara-california",
+  "city_rank": 339,
+  "city_population": 90412,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.9716689,
-      -95.2352501
+      34.4208305,
+      -119.6981901
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 45206,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.4242797,
+            "lng": -119.7052737
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.42553943029149,
+              "lng": -119.7040271197085
+            },
+            "southwest": {
+              "lat": 34.42284146970849,
+              "lng": -119.7067250802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fa7d651a64b23cab2025bcb49d50b1cbc4278cb4",
+        "name": "Capoeira Sul da Bahia - Santa Barbara",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 481,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106886065017622544835/photos\">Capoeira Sul da Bahia - Santa Barbara</a>"
+            ],
+            "photo_reference": "CmRaAAAASz3dbhSnE_0TJABltDVIGrRHZBphpHGxtvXpJFU8a9ByFxhYpBNe-NRgmIN7OozXMvz5BPEScOZm8kMblIhwzzKDyi2MaLAihrsV2D6eVwgsop4yEoQzrTSWXjZEzTkdEhDTJy73Y9gWeo4yKtsCOF1JGhTCNUVaQnui7KMoLPeyBGaYDQbUeQ",
+            "width": 330
+          }
+        ],
+        "place_id": "ChIJIaqu8oQT6YARsvf8rV1uuqA",
+        "rating": 4.7,
+        "reference": "CmRSAAAAQvmMGT372p4fRUFehUmjKyhVyErO9u5h649d6a0vjvFDKWQm_lgpys8dPk700E2Adt-NSNbgRAJAKgtDT4DFL8XQnk5OBxLjRmCQzOt9a-yZvvOFiX0aBbwodwIOdxMWEhAfPnzkPnyLEOrNaQhDV-w8GhTg8PSTwpaBhybAxjCIec7uPBALQQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1230 State Street, Santa Barbara"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.43544869999999,
+            "lng": -119.8117919
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.4366422302915,
+              "lng": -119.8104535197085
+            },
+            "southwest": {
+              "lat": 34.4339442697085,
+              "lng": -119.8131514802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "70d4e32cbe06a3dfabf468335d96db3c6d8e25e8",
+        "name": "Capoeira Batuque Santa Barbara",
+        "photos": [
+          {
+            "height": 1275,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108365410531741696214/photos\">Capoeira Batuque Santa Barbara</a>"
+            ],
+            "photo_reference": "CmRaAAAA0HN-mDBc0yXrKgBOJSWVUqIz1LU2XGupvqxNdrkQ3fvOxkc0OZNnSefjdHRJuO_deAgKJexWnYY2-HCH0nZMHqKl2ukPtx5w0evkBBFvHCUJ588-clGcQ1qQX1xCLNcFEhBFD-yceoZA08NzUkzyzzk7GhSKPJa_RLtgYTzFBRjLywikT9ER2w",
+            "width": 1650
+          }
+        ],
+        "place_id": "ChIJ5aK0iFFH6YARXE4j-lGp6Hk",
+        "rating": 5,
+        "reference": "CmRRAAAAirCXMaJ9QIijpgRWH3kGuHZigJHxrS4QoqQmpyzKsMvpayVCMVAIJ4B_a27xRCOZJXa8G4A6lFyvqvdNILC_BNitKhUnpHBKoH17knqUphKcr2JXfk8E2o73tmCpYRuFEhAq6sJJM9OECJdxpI2EqBclGhQFUijKkhflUj_5zPywJB9dnMfEeQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5370 Hollister Avenue, Goleta"
+      }
+    ],
+    "status": "OK"
   }
 }
