@@ -1,20 +1,51 @@
 {
-  "city_name": "duluth-minnesota",
-  "city_rank": 365,
-  "city_population": 86128,
+  "city_name": "carmel-indiana",
+  "city_rank": 366,
+  "city_population": 85927,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      46.78667189999999,
-      -92.1004852
+      39.978371,
+      -86.1180435
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 85927,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.8081918,
+            "lng": -86.14679629999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.8096908802915,
+              "lng": -86.1454529697085
+            },
+            "southwest": {
+              "lat": 39.8069929197085,
+              "lng": -86.14815093029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
+        "name": "North Star Capoeira",
+        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
+        "reference": "CmRRAAAALpjOf5rIqnlJZ4DKJx_st9U7nOs6pn_-4pZwYZPEvZ9yzTBLhmnVjOyQd-E11lp5KZ2TfOMh5YOhS4NEQm4JsUACap782uV2ACwBujctk9RSNxsjAWk69VzLY7HH839-EhDGQAlkrg7G5y2JBMInBTiKGhTY39fMpleqqmP-AIP8xFVJcKywvg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "609 East 29th Street, Indianapolis"
+      }
+    ],
+    "status": "OK"
   }
 }
