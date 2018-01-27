@@ -1,20 +1,64 @@
 {
-  "city_name": "menifee-california",
-  "city_rank": 384,
-  "city_population": 83447,
+  "city_name": "champaign-illinois",
+  "city_rank": 385,
+  "city_population": 83424,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.6971468,
-      -117.185294
+      40.1164204,
+      -88.2433829
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 83424,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.111069,
+            "lng": -88.20681599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.1132083,
+              "lng": -88.20605144999998
+            },
+            "southwest": {
+              "lat": 40.1103559,
+              "lng": -88.20910965
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2205694c43c90fb322cf0674e230004e517272c3",
+        "name": "Capoeira Angola Center of Mestre João Grande-Illinois",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1121,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107750628238277818830/photos\">Capoeira Angola Center of Mestre João Grande-Illinois</a>"
+            ],
+            "photo_reference": "CmRaAAAA-AHw2XbaR_3FsCinjNT--p1dB1XA1q8q9x8A_oTkPs2Y5WsI0KTGf2qjxvJc7HBzbBaM-KKn5dLowoGM3bfOaV9R_KP21BjsDkWnYvH70MKiFjmdrj56ZDau1tPZTuCVEhD7HbVCvZk1iivwNTdfWxa-GhRt9DOgF1CTiKUo8biNAbhMQ6X4qQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
+        "reference": "CmRSAAAAR_FTlqXS-qqxoC2sqtySDWe6rQse_vVpxcUmIcjWd0WXEdkp0nEAhegUYiJPsK3Jw33_vXvSZhXh0ArJTXxEy-OlS9ZHL8kDsOJhrVuAFmmu-Spej7TqWvPCz9cHLXAXEhCRxWKNvJCsOY_Cr3Fzn2cSGhSdy8tDfcyj_6jvXqZh7_wTIxZQew",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "201 Lincoln Square, Space 157, Urbana"
+      }
+    ],
+    "status": "OK"
   }
 }
