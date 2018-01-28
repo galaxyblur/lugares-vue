@@ -1,20 +1,111 @@
 {
-  "city_name": "longview-texas",
-  "city_rank": 396,
-  "city_population": 81443,
+  "city_name": "farmington-hills-michigan",
+  "city_rank": 397,
+  "city_population": 81295,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.5007037,
-      -94.74048909999999
+      42.4989936,
+      -83.3677168
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 40648,
+  "possible_duplicates": {
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Road, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Road, Farmington Hills",
+        "score": 0.9245283018867925
+      }
+    ],
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Road, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Road, Farmington Hills",
+        "score": 0.9245283018867925
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.50065949999999,
+            "lng": -83.3608659
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.50203943029149,
+              "lng": -83.35769595000001
+            },
+            "southwest": {
+              "lat": 42.49934146970849,
+              "lng": -83.36192254999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 414,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAALSyUi50JIVpkWMy7PsD0kZxdsjA-QfkUoyqoQsQWUiTdBaw5Fi6jZEe2Mg8mh_IQz4lsE_kfqCKdPSwtKOYa9NvF79Se13M_tYPJWs73Gyk5PkWgHPidcRbCk3OaVLCkEhBpgg2sTgK_h2hh7BPXOLKrGhTvmrXwPKydvVu1ZoRrGepByY2Dcg",
+            "width": 820
+          }
+        ],
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "rating": 5,
+        "reference": "CmRRAAAAnRQzWMc04PyRNbtq6WIuvrFlF-c3LGRuButCJzISHP5Qx5P9ji6ofjIXzsDFhRktoiONJ5UTma-6mYcZchwUAv92A8_93H5sEfNSRcgnBFT9iw0WJ_nisSIre8Awx3e_EhA40s0L2OvMfTbnUdsii1csGhRepeYTq-QSnrpJH2WlE5eas91s_Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "27881 Orchard Lake Road, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5276867,
+            "lng": -83.3601159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.5290309802915,
+              "lng": -83.3588091697085
+            },
+            "southwest": {
+              "lat": 42.5263330197085,
+              "lng": -83.36150713029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "reference": "CmRRAAAAXIlVpiosqUTtrXn7xpiuC02eb6eTGdyulW9azF7SLPIYtUIif59HDPrLQvIBnoAiiNljpiGExX6nqa9iTqoWK7_Z7UdIN14M1YddhN2FgMx7PKB7E0V3ysyozrCAUKQ4EhCfMJoe132r6wupeaBSZ6D4GhSrFfJuPaKHsZv3Audq-9fQ4f1Rqw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Road, Farmington Hills"
+      }
+    ],
+    "status": "OK"
   }
 }
