@@ -1,51 +1,20 @@
 {
-  "city_name": "bloomington-indiana",
-  "city_rank": 392,
-  "city_population": 82575,
+  "city_name": "sioux-city-iowa",
+  "city_rank": 393,
+  "city_population": 82459,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.165325,
-      -86.52638569999999
+      42.4999942,
+      -96.40030689999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 82575,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.1615338,
-            "lng": -86.5216805
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.16266273029149,
-              "lng": -86.52033466970849
-            },
-            "southwest": {
-              "lat": 39.1599647697085,
-              "lng": -86.52303263029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cdd24f0adad8a9fb29847c91649368cdb678464e",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgRVF7ksNLbo1s",
-        "reference": "CmRRAAAAmUzzrPGpowtBzVfUNGlN1Cj7eG6VhhxHykfABy_c-q4f7b5bJkhtxXcvtgvDNAxDJR3BIGnef6N5gZG2TAagTeom4FflM2J-5xfJnUpOA2h7YlAjTeGgWfYyhlG3jvhxEhD7lRVhPREQiKvdTvz0zDYDGhStDYDeaFeyc-n6-nLWfXThZOGpyw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "909 East 2nd Street, Bloomington"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
