@@ -1,20 +1,106 @@
 {
-  "city_name": "sioux-city-iowa",
-  "city_rank": 393,
-  "city_population": 82459,
+  "city_name": "warwick-rhode-island",
+  "city_rank": 394,
+  "city_population": 81971,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.4999942,
-      -96.40030689999999
+      41.7001009,
+      -71.4161671
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 40986,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.7032442,
+            "lng": -71.4070354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.7044739302915,
+              "lng": -71.4057392197085
+            },
+            "southwest": {
+              "lat": 41.7017759697085,
+              "lng": -71.4084371802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fc521597f411f226ca5482f3efe1f1149e8cce93",
+        "name": "New Wave Martial Arts & Fitness",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109438710874622015950/photos\">Carey Fudge</a>"
+            ],
+            "photo_reference": "CmRaAAAAv7koCkP12h_Jn2uQXuVKwTbuygN3MWaRudgnV6GLfLIVBOorgDkVFx8FuisrrRtGngTz-flqspefT69_c36b54WXrFfOtMkRum5p_9ngAIMLKsigwvtD2LsPf0ZGtacKEhC5AXV5fKSB8F9A16HfMsZYGhSRflbwkhceuwAEmOtAR1Oero2lVg",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJE547I8pP5IkRCU6e0vNOkG8",
+        "rating": 4.9,
+        "reference": "CmRRAAAAthKfNEfA0M-clRjZ8RWIKNdhpmR8if-GUQzx9f8uU1LMJ6B_Qq3mWYbSG9GeMwDGQBep5rGaUmBgDjQeXz-n3YTzTH_11vKDwwh99hwpNmjs5MWoAvCOuQgn0YCnZtZvEhAxO4kzX1e0Ir6Xi1IPuP31GhTrpHj-Ajl0fFpZLli21Z1Vr4yeiw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2327 West Shore Road, Warwick"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9014142,
+            "lng": -71.0900285
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.9028684302915,
+              "lng": -71.08866861970849
+            },
+            "southwest": {
+              "lat": 41.9001704697085,
+              "lng": -71.0913665802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
+        "name": "Capoeira Studio C",
+        "photos": [
+          {
+            "height": 590,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
+            ],
+            "photo_reference": "CmRaAAAA14QpnIF-Lisi8mOmknsmuj6f5dl2CNzPhsGilXQRkMxE778Yza4eGwd8fjvowCjLm9AuVDCYMNSweyTJGGy0kHXBvAjRFrvyoNBh1SlFNlzSqpU3ZFZSyLbY-ZPDMyl3EhAmxuFTIXUmWZ4xrODAZ3vyGhQOx2SNutNKOnJ7bQmcu5ODvt-vrA",
+            "width": 620
+          }
+        ],
+        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
+        "reference": "CmRSAAAAiwFzvXH1WYOIIEp9OyqQsgiSYef_-Uz_VmqYjszXi5ZyzhoVF6RbC9gdfmdeACeqQ-HlZZqme1SjaKehW4Bialqky1Z3CRGkIinqLDZI7g_rmqIXyZa7WeTNqUbaOkQcEhAXu3wuXbaXmwkGdqM2Mko6GhTcXnqR1WntepIQqYmeAlBMyzurlQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "85 Main Street, Taunton"
+      }
+    ],
+    "status": "OK"
   }
 }
