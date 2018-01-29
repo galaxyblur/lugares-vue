@@ -1,66 +1,20 @@
 {
-  "city_name": "melbourne-florida",
-  "city_rank": 428,
-  "city_population": 77508,
+  "city_name": "st-joseph-missouri",
+  "city_rank": 429,
+  "city_population": 77147,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.0836269,
-      -80.60810889999999
+      39.7674578,
+      -94.84668099999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 77508,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.0778277,
-            "lng": -80.69470059999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.0796686302915,
-              "lng": -80.69335291970849
-            },
-            "southwest": {
-              "lat": 28.0769706697085,
-              "lng": -80.69605088029151
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a404b940560cc40a01e37a8f786dfcf27277db65",
-        "name": "Melbourne Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109555170180425321356/photos\">Melbourne Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAU7fdAQjyMnedflpgrn_-c-CHLawrznoEZHP5dUSykB1RbhBruW_Qw9msb5eLoaj3erVIziccvCI9cGyeh0mKuggC8pQGoGaTKCyLk_Mi-cf_FVfbiKlnlrRl9H2Av9eOEhBoF4B2hBngu82s70FR7fdnGhR9sHRgRkzyIpfUufhLZeuBjqKkSQ",
-            "width": 640
-          }
-        ],
-        "place_id": "ChIJIZCQE54O3ogRQWMyABXbu88",
-        "rating": 4,
-        "reference": "CmRSAAAA1DRDLpv_6d1VTdSMyW7fUWLUzLXScu_hNz6FyY1LBpbqw94dtvnVkzV5e89vJCzwTBpkMfc8eK_RHAPC8CnU9uGkXEOUnYwBIzxlU_Z4rwiM7g3l-00as5XCkN7ucxS_EhBQgv0_bVIwVcYi0bFb-uT8GhRsaPkCGMJH_h_lQ3aIVad3k9xjXw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4195 West New Haven Avenue #1, Melbourne"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
