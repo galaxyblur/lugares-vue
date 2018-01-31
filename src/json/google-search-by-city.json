@@ -1,51 +1,20 @@
 {
-  "city_name": "turlock-california",
-  "city_rank": 482,
-  "city_population": 70365,
+  "city_name": "muncie-indiana",
+  "city_rank": 483,
+  "city_population": 70316,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.4946568,
-      -120.8465941
+      40.1933767,
+      -85.3863599
     ],
     "rankby": "distance"
   },
-  "people_per_result": 70365,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.51448910000001,
-            "lng": -120.8260116
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.5158211802915,
-              "lng": -120.8246628697085
-            },
-            "southwest": {
-              "lat": 37.5131232197085,
-              "lng": -120.8273608302915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0ec2a8ac24b70abbb1e6aa16dc62348dc61f52",
-        "name": "Central Valley Capoeira",
-        "place_id": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
-        "reference": "CmRSAAAAEOGe5Sk-O1k5HYIVgxu_X2wL7Kt17fr1XHXmtop3PdBMzvizna2_QFaQTB9KRkyOJLvFyVv0KRyGgSOOhjL_-mdtARd8pRP01PWWzrVOqBcM_P3okzU_VFOKGRkYH4EYEhB3OYrdh07OITfpoo33qKHAGhTHx0a7J5wVqG8_wkVcmC2Wp-1FMg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2006 East Tuolumne Road, Turlock"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
