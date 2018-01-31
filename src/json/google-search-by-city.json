@@ -1,66 +1,20 @@
 {
-  "city_name": "layton-utah",
-  "city_rank": 480,
-  "city_population": 70790,
+  "city_name": "lafayette-indiana",
+  "city_rank": 481,
+  "city_population": 70373,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.0602216,
-      -111.9710529
+      40.4167022,
+      -86.87528689999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 70790,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.7667678,
-            "lng": -111.9106359
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.76829653029149,
-              "lng": -111.9092685197085
-            },
-            "southwest": {
-              "lat": 40.76559856970849,
-              "lng": -111.9119664802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "444c5f04635f4254114077eb2ad479a143995288",
-        "name": "Salt Lake Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAt27LJc2CvsBI3_lS3aZJewZzlXSSJIrVm5xGEf3fit1rwx0wNcYPPHAIn275eX2uFmBR-8hICFOH6v-uBeT5FtmeBw_vWpf59ama3GCJ0LlO43wXTTEOEiJOGwxO-VQiEhBZY3BZJvZhk0KqZBOE7XyiGhSqfIUSmuBqQLdGEemdRFf22NBr_g",
-            "width": 852
-          }
-        ],
-        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
-        "rating": 5,
-        "reference": "CmRRAAAAdLfedrjcH3_IN6eo62Q2JfY6v5UJfOm2IGAYTfzQJYVFGrapKG2T51h8CH2pu4V8q0Dhfx92Awer6XU7WULJISpi7s23GeadnNlmtES2Az2eMxplRyW3TSKWn_Z96JaAEhDTNzpPRVjtIcshOEYM5BbWGhRk4e-85BTFqKFGycE5tV4qnk3AgA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "West, 663 100 South, Salt Lake City"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
