@@ -1,20 +1,65 @@
 {
-  "city_name": "jackson-tennessee",
-  "city_rank": 505,
-  "city_population": 67685,
+  "city_name": "pasco-washington",
+  "city_rank": 506,
+  "city_population": 67599,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.6145169,
-      -88.81394689999999
+      46.2395793,
+      -119.1005657
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 67599,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.2320365,
+            "lng": -119.0917008
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.2333854802915,
+              "lng": -119.0903518197085
+            },
+            "southwest": {
+              "lat": 46.2306875197085,
+              "lng": -119.0930497802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6e2430abdbf7f4264d53322f6223d1636d5d66f9",
+        "name": "Find Your Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108612422938682037257/photos\">Find Your Center</a>"
+            ],
+            "photo_reference": "CmRaAAAATSbylEjqw8_b9ZX69DxwErF_yKcgORYXA_aaiXM5W53ox48J4GsyuTdIL9jnRbuP-py6RN14eTkXuWG3XkES99xRrmPaQsp0UjyfpD1swx950Y6AICeuGxchWJUNOwiWEhBeWoFnAuu8G2gwOydzqXEtGhSCa1OGCyUhf7qD3oturlTGLKlSCw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJrVLqyOd-mFQRpIheQsDKj18",
+        "reference": "CmRRAAAAvShiyR5RCftf99Z0ssG4T561Wmu-1BF7rn9GTtpc06yu8mL-Wzlo6cuGGWIZOOtTqDTppYbrIA3P9DM5Vs-JlpWN6gq1o60p5pMukAQQmhHRXkOGp1914_h_wD2zK0HAEhC1var_qwAGwLgTNVBXjsT1GhQn9YFEQyYeLIHIal1-oauQeWXLnA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "411 West Clark Street Suite E, Pasco"
+      }
+    ],
+    "status": "OK"
   }
 }
