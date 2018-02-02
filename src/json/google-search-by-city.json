@@ -1,51 +1,20 @@
 {
-  "city_name": "frederick-maryland",
-  "city_rank": 514,
-  "city_population": 66893,
+  "city_name": "oshkosh-wisconsin",
+  "city_rank": 515,
+  "city_population": 66778,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.41426879999999,
-      -77.4105409
+      44.0247062,
+      -88.5426136
     ],
     "rankby": "distance"
   },
-  "people_per_result": 66893,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.0745836,
-            "lng": -77.13844399999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.07639948029149,
-              "lng": -77.1365447197085
-            },
-            "southwest": {
-              "lat": 39.07370151970849,
-              "lng": -77.1392426802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a630eb9d1bab5abd650ee19ea28344d30ef15a5d",
-        "name": "Abada Capoeira DC",
-        "place_id": "ChIJLev43aTNt4kRkOaX0I_xdEk",
-        "reference": "CmRbAAAA2FSdRxteL0lxES6qzD4vcRw__Xcv2GIFXmPRF62qgUPAIqsC3rXykKjEp4oThspcf32V4aKne6AL3lTZcNJvKhOEaKGEJD8yIA-qeQuHwElaUzlVcW6nPnrTU_mEFqPoEhB2ohTIDkFoAhu7JpKgktzVGhQVxFRN9D2IU0-atXykcWkCu2vElA",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Rockville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
