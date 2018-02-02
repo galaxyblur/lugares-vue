@@ -1,16 +1,16 @@
 {
-  "city_name": "woodbury-minnesota",
-  "city_rank": 528,
-  "city_population": 65656,
+  "city_name": "eagan-minnesota",
+  "city_rank": 529,
+  "city_population": 65453,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.9238552,
-      -92.9593797
+      44.8041322,
+      -93.1668858
     ],
     "rankby": "distance"
   },
-  "people_per_result": 21885,
+  "people_per_result": 13091,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,47 +18,34 @@
       {
         "geometry": {
           "location": {
-            "lat": 44.957209,
-            "lng": -93.169113
+            "lat": 44.7456433,
+            "lng": -93.20808489999999
           },
           "viewport": {
             "northeast": {
-              "lat": 44.95868858029149,
-              "lng": -93.1677641197085
+              "lat": 44.7469922802915,
+              "lng": -93.20673591970848
             },
             "southwest": {
-              "lat": 44.95599061970849,
-              "lng": -93.1704620802915
+              "lat": 44.7442943197085,
+              "lng": -93.2094338802915
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e159e8833adfd8e68a3d1dddb4623fa1b337a412",
-        "name": "Capoeira Minnesota",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 479,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100688324126308350534/photos\">Capoeira Minnesota</a>"
-            ],
-            "photo_reference": "CmRaAAAAjZfU76VXMbcRhVp0NG9ROHrPuVrWEEUvUG0xE-A90ZPfRuyRtaJmx565aCAkX3UfK3yrkvCEJhTzLFMLSH4YzzIOTOMlptdl7100Chc7JUO8buB6XYqBnAozwV2DxkFUEhCpgvNfPjkOttW-K9V7yGE4GhT1_E75h-QnFZgcTes981gKYock0A",
-            "width": 720
-          }
-        ],
-        "place_id": "ChIJeSpfUrHR94cRyKh-GcNUjr8",
-        "rating": 4.7,
-        "reference": "CmRSAAAAAm5SjCmpnhoFeXqjfDjsI8zN8Pkc17dqGgexVBt54_8FGkDcBl8gjhuuvKo5U1_CjKi2t7EUKP77esulSwEAbRvxbcJhc0yYwrk16blmMGljKM3Lt3BclggWymTjDu-ZEhDdBULXU3VfHnn4jIwTykqrGhTVmB5kPqIDkhJyeYPk71xGtvXSpA",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "1bbb8278d8df858686a1c7c01ce92ca238f4a0f1",
+        "name": "Capoeira Fitness Academy",
+        "permanently_closed": true,
+        "place_id": "ChIJD5NVszwx9ocR8_8ih7LHHMs",
+        "reference": "CmRSAAAAFgGYT4e6Po8J4D4Fgv2Z04xVvj02MxInOHZnApNXa8C-sTJWQayhada4JGtOXe4rs8P2qODf9WNV3pdSLRybyQbWJZatdyzFPaXpLPxkrzbELq0-Nd_iTsWMb1BFdkreEhB83hwDIqZ78hxLUQbhhz42GhRN1cW9dm5qFBmF0WI6Jc_YIDgntg",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1632 Charles Avenue, Saint Paul"
+        "vicinity": "14113 Galaxie Avenue, Apple Valley"
       },
       {
         "geometry": {
@@ -90,13 +77,13 @@
             "html_attributions": [
               "<a href=\"https://maps.google.com/maps/contrib/117562375695623979223/photos\">Minnesota Capoeira Academy</a>"
             ],
-            "photo_reference": "CmRaAAAAjaExHzOVBL0xtuaeV6KvdGlHXxzf9d9j83xZWdjsT9gtJmaZYZFAX6pKQ4MhGnrpJWTWzC3cFoRSvlkKdJ4xaYRpdeVbHt8MG2f1_2f4PExUi4HRYmP3aWWvPnKUwB5gEhCsFb73OMuouQhqkWUERrWWGhRIhRAKIlS-6snKYxiRKGtUnAtWkQ",
+            "photo_reference": "CmRaAAAAwsqeI5X_D5TM2d9-pd3m39CWrI8akIcBPBswlUoa_z6gJM3TpMf3v3Wv_ht_9LxXamK-WDnflKuEhjLABSIz875QXU5lSTJ448Cjxf2y1Z5h8DUNqkjqqHjk8hX1UT28EhCd4EbW3D7LpNC4yKEqtPRSGhR3lKWfhbPnFWszuqGr-5HYJvy5fw",
             "width": 2048
           }
         ],
         "place_id": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
         "rating": 5,
-        "reference": "CmRSAAAAlvVTZCrV4yzG43TsSq46GYsmatW2AM5C-NT2AhMio8Mywo_LhGQrB0A7ZqhRuHuhtcUIjFygPyZioRvOqssdHfT_9x9YCBVt4gU_OkSJS-2-Spc2nD6n8QfLs5OUSk5MEhCqJyYzEQLvBVcwhLjd5SAvGhQEydmxC-CZMaXBRkZS_KPmBOSqhQ",
+        "reference": "CmRSAAAA1ecOAVRsR1dQ2tS8IWMHaz_PVYuAwYq9i9mFVE4OKcm9Mjayo4I-z6QJl_-bzqLovjJW4lVFWIEF8JLhrkRrGa5_-x_4e2vD8sMNUZkFPX_9i4qBSmxxDwurB_jXyK2TEhBmxWUyHuojDOKeFhDKzBaLGhQdxVF5Cgit8PpsLD4uGqJdAMAdLg",
         "scope": "GOOGLE",
         "types": [
           "health",
@@ -104,6 +91,91 @@
           "establishment"
         ],
         "vicinity": "6463 Lyndale Avenue South, Richfield"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.88552199999999,
+            "lng": -93.285659
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.88676793029149,
+              "lng": -93.2845381697085
+            },
+            "southwest": {
+              "lat": 44.88406996970849,
+              "lng": -93.2872361302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "252d303b884256e30e3a7ff1bf2004ef3711e663",
+        "name": "In The Company of Kids Performing Arts Center",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109755157683422897493/photos\">In The Company of Kids Performing Arts Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAUl_TE7e2R_yJ-AGmngEjqBiAuyjfD5z0OfCBJX1O8dr296dTo4YKzxyz8fY269BgrhWqopmcU-aud0HQAxkkyVIEuMm3VozYoBPsIxBE1pYeC6dwQCcsVY1kbGi5_5xzEhBpnhx8Lj0TAlla1nqEuj9mGhQQJbGz6yuB3osiYL9njBBQkOOQpA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ77G61O069ocR52SQ_xhnw3s",
+        "reference": "CmRRAAAAzXAAX4u01C56uz2G8DoryZmzt0vqcufZGEcAc59m1UxNL1LnRkEWYao9vzfns6X61zX_CJCaRB_azZUKouVMVM17IFZ0t_H5mZgD_DFwwgdG-51Tbv8DkBBpyxjFladeEhDi8RFaUTSK9a94T3Co9F-iGhTBkExgkPBTmfNW1t1QMqUVTefsIA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6465 Lyndale Avenue South, Richfield"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.957209,
+            "lng": -93.169113
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.95868858029149,
+              "lng": -93.1677641197085
+            },
+            "southwest": {
+              "lat": 44.95599061970849,
+              "lng": -93.1704620802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e159e8833adfd8e68a3d1dddb4623fa1b337a412",
+        "name": "Capoeira Minnesota",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 479,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100688324126308350534/photos\">Capoeira Minnesota</a>"
+            ],
+            "photo_reference": "CmRaAAAAPw9KiqWAxF_ms8gwVUeQndBA1IO2hIoAr4WF-7tZVUeiWfrpGzAh7-J6usVWBQTUd11BoIvZm2UdiLAu88UCN6FNG5I7Ef-lxlMlBxqQWD0b1YcpCa335jY0-0TNY2A0EhCW7mUT57YkqTsRRRTknMdKGhS6uMRt1tF1IvkGDGMfi9tmgzyPwg",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJeSpfUrHR94cRyKh-GcNUjr8",
+        "rating": 4.7,
+        "reference": "CmRSAAAAnqdKidhZULzwO3jgVG5dc5iVkuSsdauOERqJdvG32fRwtHwBH7KYab8VMmyHSOUNOs_VNP6jAjuJW7FEmfQbCbrBZVKTwkM3V61QFQBCC9zBjP8syRp20Fu907yEAH4ZEhCreCnynH5Gb0k4eCF7vtpAGhQ3TXsj5eVcAoesZmQlFJgaWurJ8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1632 Charles Avenue, Saint Paul"
       },
       {
         "geometry": {
@@ -127,7 +199,7 @@
         "name": "Afro-Brazilian Capoeira Association",
         "place_id": "ChIJ_deEDM9TVEARvybmao31Lvg",
         "rating": 5,
-        "reference": "CmRSAAAA-odGc4Pdp7UzyJhT8tahPjHD5UJuIuVxaaGrf68Qb_6AeBAUB5Ebj_CSQ9RYhYdeQ0cS_r2GSLmlYM5neaXLBO_vdhBJUDmur-vv1-eoF2pT1EcCASXhZAq265qoys_NEhD7i8-GnVtkPHHT54F65_HnGhT9Br6SE-0cAaxa0uLXIqxr2Nm3iQ",
+        "reference": "CmRSAAAAPQ6Mvw5EnoehvcqTM4Q7xD_QqeMm5N_Zonw3zB1DRBg1QsaFvE3wea17zQ_ivAPINyuqQhYtHF5XinyofgzbYV3Jrm1AAx8_cwDBb6JsMW5qkvL7JaAGn1cT5MdHBBa6EhAI4UZe5UmV8r8q_ws8XvdgGhTRjLqPX_CBgwenN551Xmm_zAsBFQ",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
