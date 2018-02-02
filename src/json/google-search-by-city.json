@@ -1,107 +1,20 @@
 {
-  "city_name": "portland-maine",
-  "city_rank": 519,
-  "city_population": 66318,
+  "city_name": "st-cloud-minnesota",
+  "city_rank": 520,
+  "city_population": 66297,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.66147100000001,
-      -70.2553259
+      45.5579451,
+      -94.16324039999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 33159,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.66712299999999,
-            "lng": -70.278964
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.66856328029149,
-              "lng": -70.27750871970849
-            },
-            "southwest": {
-              "lat": 43.66586531970849,
-              "lng": -70.2802066802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bd70685510a70a105e6fb1095ca59df467778282",
-        "name": "Maine center for taiji and qigong",
-        "photos": [
-          {
-            "height": 1367,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112365203627813887372/photos\">Maine center for taiji and qigong</a>"
-            ],
-            "photo_reference": "CmRaAAAAbsUyQeGKN7XTje1qiS9j77B5U9KWSZQLE4I0zgnm_vCWLb7l_JhpSs33Pbds9L-tVOugatv9Rz-q0xcJzPN9sNZQmzAW4MbWRQKvs0MLy6t6qDRudc8XMoQHE06sfQ-wEhAR2esErpigkScvpEU47942GhSb1AM9g0ciCmjXTMHUy4xvOx3DoA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJT8UvYYmbskwRGBTmY_aLAs8",
-        "reference": "CmRSAAAArWhQu5RUbR8EAEJRe7ZRfJpSUlrhVwv0l2225TM0WTH-7cc9YhtmLsfPRnjWmy5udQJRftdMCjCTZaaG86J0CY_yyl5onrPXjKf-0SAREv4yGXPdwZvIpHrMY7ZWF2LkEhAKG7OSY4MpFfqYUjwgCn0DGhSHEF4D_ZHS5VKkTqORRcoZV7FOLg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "500 Forest Avenue # 1A, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.6494412,
-            "lng": -70.3583153
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.6509150302915,
-              "lng": -70.35651531970849
-            },
-            "southwest": {
-              "lat": 43.6482170697085,
-              "lng": -70.3592132802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d1b70422f6078066fb9511f37ba65547262d2e60",
-        "name": "Maine Warrior Gym",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104316520501309560182/photos\">Maine Warrior Gym</a>"
-            ],
-            "photo_reference": "CmRaAAAAvtIDlGmiOXlGaS9nGqmxVdhupvVxfCWTymaY-CM-xXjszbtcKTQjUfOQPq7x94bQvwLs5WvZQfQkIAOn-xMuhJwVZEvE65I3SLamNoFD-A6YzcfiYyRtQG8y1LhI8UquEhBfXQUs5uHvpuPZTpaAysd1GhRyT9iUh1Xfzh-EjFZDX83GEtPaHQ",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJF671So6ZskwRfJ39SYU05rw",
-        "rating": 4.8,
-        "reference": "CmRSAAAAzjzmmZRchqhr5eB9bynOJRlVwe1BllTdblvara_UUq0winwmLyKnbKMRLFNAmTpWJig4LNpMeaL-dElTLIaBJBkD0SD6ysTv4emrFLYfSae30HzB1UAv76WXJdEM74HFEhAjTpRc2mjC-w4lahNpYMwNGhRwEna2QDpkjJbldD38MuR6iNyubA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "865 Spring Street, Westbrook"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
