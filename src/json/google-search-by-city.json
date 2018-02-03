@@ -1,20 +1,122 @@
 {
-  "city_name": "madera-california",
-  "city_rank": 554,
-  "city_population": 63105,
+  "city_name": "conroe-texas",
+  "city_rank": 555,
+  "city_population": 63032,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.9613356,
-      -120.0607176
+      30.3118769,
+      -95.45605119999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21011,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.21012,
+            "lng": -95.527255
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.2113732302915,
+              "lng": -95.52597686970849
+            },
+            "southwest": {
+              "lat": 30.2086752697085,
+              "lng": -95.5286748302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d459a79c8cf11fec5c60ef516939ef5fd706ee20",
+        "name": "Ince Karate",
+        "place_id": "ChIJX6kCgmYwR4YRzKq-a7c0NOM",
+        "reference": "CmRSAAAAoVLre7oWi9zxxDATA0mLJdfbWV1nSCSU6DSzvCAXsHoVPaj0qCBCqvs6Mkq6ly6fVSm5D5gnkKC6coFclYQizxENDsuUFuqC0far4_MW9ZWkHtSNo-KD6tETjVtAEBnaEhAsMMIm_vSBXcPratg1Y09GGhS-UOoTx23LBtXSiiqUDEtWC4Ba6Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "8000 Research Forest Drive, The Woodlands"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0538019,
+            "lng": -95.4860411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.0553196302915,
+              "lng": -95.48481786970848
+            },
+            "southwest": {
+              "lat": 30.0526216697085,
+              "lng": -95.4875158302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f852fad29fe28a931cfc0e0295bc62dced4b6ef3",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJiXjaSBPNQIYRE2a82Kzr7yo",
+        "rating": 5,
+        "reference": "CmRRAAAALVHVd1kp72vumXI6z7TiN6r7qv2Acut68fcXkEhYS0S-at_PaUns7PwQb1D7Zw_CX8p4NCunrsp0usOGcVHYjJp4XWI-mENxLsUjTu_tsYJY9LeyugeMCBKgd-n6JtlEEhALaIqWC7mem-DkZA7EUyU1GhQBXnRQmYgHeQHrV5GZeoD35PXAgA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Road, Spring"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.9979223,
+            "lng": -95.5093029
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.9990490302915,
+              "lng": -95.50779186970848
+            },
+            "southwest": {
+              "lat": 29.9963510697085,
+              "lng": -95.51048983029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dbb67b8c95b5054e06a002441a3c44defb826bb",
+        "name": "Grupo Cafu Gingado Capoeira Houston NW",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "rating": 5,
+        "reference": "CmRSAAAAwAo2LwZCwhzNUOagxWQkjp149ybu0vn76kDCVds6-iV6y6ZcXB1DT3o5sp3sIzA1lk-20vEtWmVAnC0xsSsFtYlGeNHI0_2pIHr-Y7I_deXk3OLKFsaXgqumRyrRg4dZEhCtuZ3epdayZa0hg6yC5OSCGhTxGqDaZFFWdZTX1E3yE1BF7g0PJw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4622 Mittlestedt Road, Houston"
+      }
+    ],
+    "status": "OK"
   }
 }
