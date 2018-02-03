@@ -1,20 +1,111 @@
 {
-  "city_name": "victoria-texas",
-  "city_rank": 536,
-  "city_population": 65098,
+  "city_name": "san-clemente-california",
+  "city_rank": 537,
+  "city_population": 65040,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.8052674,
-      -97.0035982
+      33.4269728,
+      -117.6119925
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 32520,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.4303277,
+            "lng": -117.6176585
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.4315588302915,
+              "lng": -117.6163404197085
+            },
+            "southwest": {
+              "lat": 33.4288608697085,
+              "lng": -117.6190383802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dabf5a042675920282494ee035e8ce3f8ed4492",
+        "name": "Guillobel Brazilian Jiu-Jitsu San Clemente",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 396,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107263706822291170051/photos\">Guillobel Brazilian Jiu-Jitsu San Clemente</a>"
+            ],
+            "photo_reference": "CmRaAAAAKpP4ovwmQzLcBwv5XrKSRgMqHIgXs90Euy5Rr4NI9Z4bX29Do8XOLuhL9Dr251WQ20EO1RmY5SY8PVo-mAn2xXz-GDNsXUWZRPzDdnWwuZZPtqzbpmZPIjRjq4u3HR7REhA1fmGaz6TqYbkbq9T-90CwGhTKONDeg99r2esnESXgexMa266uXw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJEyED6gv03IARoeuXg0ThIas",
+        "rating": 5,
+        "reference": "CmRSAAAAj_8J1WBipW-XWLWPF4QMfmFvbJHXUhCsRDGUzJccdjlXFe03nNRzPcClMaMKdt5i_WHCRWlGMtDMf8DmGsJUrhaGpZgSvtWEtBmxA1CwZu9CBnj53PE_CrJREJ_SJTHcEhBePyRF5GR2BpOEFeD97-SCGhS-W0Ba7txM8VBJhCjQS6VQtk7FkA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "621 North El Camino Real, San Clemente"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.6819532802915,
+              "lng": -117.7772299697085
+            },
+            "southwest": {
+              "lat": 33.6792553197085,
+              "lng": -117.7799279302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAk7jCW_3lxmoBH4jjOMA7BOUPK8Z0030W0Dq-V6ESl73sWwXUtkxi4fIDLd2KcMjkPd63mMssjM4u_JEyeAmAFDidunCcjaSEIEg3T41ZTKh8JaqlnfY8q2o8T3QH7ZrSEhDFy3hQRcwTD518VkXuvBt9GhRO9yqHXnFokOp4ry4WixoFX4oQbg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRRAAAAXIBW2kKZVpm56McA04mhRDEOv1YSVcX94zGgWNfxr4SqRvwknBs6UM4H0NWuYV1VWk2rvLCQvP-viDodnPe6hmw5dYEpRjxYWiXhkhqy-wNpds7fS1HQugajeL4PWW44EhCbveS0OBIwDnWZbQRK0TXqGhTXv_0C3o7Gt7-dFlP4uyl_UBHgRw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Road #100, Irvine"
+      }
+    ],
+    "status": "OK"
   }
 }
