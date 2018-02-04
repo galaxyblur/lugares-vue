@@ -1,16 +1,16 @@
 {
-  "city_name": "greenville-south-carolina",
-  "city_rank": 573,
-  "city_population": 61397,
+  "city_name": "west-des-moines-iowa",
+  "city_rank": 574,
+  "city_population": 61255,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.85261759999999,
-      -82.3940104
+      41.5772115,
+      -93.711332
     ],
     "rankby": "distance"
   },
-  "people_per_result": 61397,
+  "people_per_result": 20418,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,48 +18,105 @@
       {
         "geometry": {
           "location": {
-            "lat": 34.8196626,
-            "lng": -82.28837779999999
+            "lat": 41.56862599999999,
+            "lng": -93.73545999999999
           },
           "viewport": {
             "northeast": {
-              "lat": 34.8210115802915,
-              "lng": -82.2870288197085
+              "lat": 41.5703674302915,
+              "lng": -93.7345214697085
             },
             "southwest": {
-              "lat": 34.8183136197085,
-              "lng": -82.2897267802915
+              "lat": 41.56766946970851,
+              "lng": -93.7372194302915
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b0dffa76fbc7c30447db0734a0febc58f41ce237",
-        "name": "Raja Academy of Martial Arts",
+        "id": "d88df274d8f779b11ddb3c029883a3691dce32af",
+        "name": "Des Moines DanzArts Studio",
+        "photos": [
+          {
+            "height": 2952,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111451524218540130035/photos\">Natalie Bensley</a>"
+            ],
+            "photo_reference": "CmRaAAAAg_X4byunYCxJGcbDXwOR5ye45Ohgj6gA2W478Jmxk8Ca4Tnul_idM1tFaS4e9AekPgxtnyw5KrCwdb81zTV9jzjH4S87TaCs4StoBVIi-W5uOS6m7040n3nh6QyqTgysEhAk-wN6-xTfKtJxAH5EAXd1GhTgnaIEtCnVc3MM-SPZgMjcXJRxJw",
+            "width": 5248
+          }
+        ],
+        "place_id": "ChIJFepP-tqf7ocRfuAOBB-WDfE",
+        "rating": 4,
+        "reference": "CmRSAAAAlwIQWrefbFahm72gyvRXUUHWTx9b3hHvKFdu3kYaqwC1BheGljbO0047euKFyWa578pNoH1RLgw0EIbDptlAi03nasjgPeMR0Bsqgbj38Pmt2w2-KAFpT6m1u8fn-OarEhD22ABnjS-c_W4G7xGcHDLVGhTOo4P0q-LwWmn0unoATrJMwZYq2w",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2150 Delavan Drive #8, West Des Moines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.60720999999999,
+            "lng": -93.62751899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60855863029149,
+              "lng": -93.62650471970849
+            },
+            "southwest": {
+              "lat": 41.6058606697085,
+              "lng": -93.6292026802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
+        "name": "Roots Capoeira de Ouro",
+        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "reference": "CmRSAAAA8SI5xRh9uGDnveVLtR0bIMbZ6Q-DR4fFKc-1CcANq7Q_-DCQZ32g4jBrIybUILLdJEkWRw208pFAAejtMhsMPzeJwVppd5il_za4UztWcG7sDJAuEko_c1ADysp9pOSeEhCGYgYxs-3mZD1TXoZ85LL5GhSJV0vQ7QQgaWvZVKvbf0PW_v_RAA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1541 8th Street, Des Moines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.58911099999999,
+            "lng": -93.61058
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.5904220802915,
+              "lng": -93.6094321697085
+            },
+            "southwest": {
+              "lat": 41.5877241197085,
+              "lng": -93.6121301302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c0eb58faf915e1c1a04e0a68e7121e121f880ad6",
+        "name": "Gateway Dance Theatre",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101975997457046324647/photos\">Raja Academy of Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAgUZPWBc9H0bt4qpVd537HkLFXn5kf-hpS_NGOwpgFu_iL_Ioo3JM1kWiIAX44RsfUdvP0I60ZXIU79DcyJujuYcPX6DTv69WKCBduFhzhYRB13lIz9u4eVaTRvt4TgBEEhCbnLMoh-OMjPlkiOGVMurYGhScf8YCTrOKj_2BodjTr3Z2gGyjBg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJtYTP4_glWIgR-HQIkfGys8U",
+        "place_id": "ChIJG_QFGbKZ7ocR-5KzZANOCyU",
         "rating": 5,
-        "reference": "CmRSAAAAMo682o63WvVAuH-R-wORVsshmdCwBkpADcno7LAATJ0YnW5A5H7l3OHyvsrLX0P_DpbBsYRIceqe5Jxce55ewEsBQdS92rx_vYPWwbtlOcuW7uqb8u6PaBsZ4rwv-_zZEhBJzwf45DW-CHKoAJiKEWwkGhRcrG38bx4a1o_79qmAdXMl17NCPg",
+        "reference": "CmRRAAAAgilmRTYwxtwMNBldaJ8P9w06GUUY9I703enN61ftsZpVx3gRoHKwDAa9jIhVFAKFaB_GqEWMbSOoR2ouvE1ZAwNeuqvmYbKUnJae5FzoFNQtBx6WvOgKoVmFkgq8OGqcEhBpFGqXY_bTvSda5_2iecOjGhQoNWlQhHgpLCs5NFDBEpvGP3xHjg",
         "scope": "GOOGLE",
         "types": [
-          "gym",
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Suite B8, 1200 Woodruff Road, Greenville"
+        "vicinity": "315 East 5th Street # 12, Des Moines"
       }
     ],
     "status": "OK"
