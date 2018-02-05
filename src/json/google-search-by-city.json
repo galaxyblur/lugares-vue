@@ -1,66 +1,20 @@
 {
-  "city_name": "south-jordan-utah",
-  "city_rank": 602,
-  "city_population": 59366,
+  "city_name": "springfield-ohio",
+  "city_rank": 603,
+  "city_population": 59357,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.5621704,
-      -111.929658
+      39.9242266,
+      -83.8088171
     ],
     "rankby": "distance"
   },
-  "people_per_result": 59366,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.56052099999999,
-            "lng": -111.917983
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.56164138029149,
-              "lng": -111.9167170197085
-            },
-            "southwest": {
-              "lat": 40.55894341970849,
-              "lng": -111.9194149802915
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "deab89e83d0d50ffb03410179ed3c3dda7d7cf33",
-        "name": "Capoeira Utah",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105489075562715512096/photos\">Capoeira Utah</a>"
-            ],
-            "photo_reference": "CmRaAAAAsmIU3Omac8SnW-MTDzqIrh4uUbcNMxZXXwsZR6wjXDrLJdzHBeLL47s7uFNxDU2CAyPJNJh2kXLEGBXEGB0w8jMvjUsJvMgl1BYqtUhts7dgDwakqR-2MTSLPyGjrZS-EhCak_N2XltlUAz_U2ZrH6rNGhQ33cvI35GWImrARmPKW8OQ2kQVwg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ-aUBQjqGUocRZbsadl-oIhk",
-        "rating": 4.7,
-        "reference": "CmRRAAAAsGM_IoHc3hLI92O5V4gnQGYwrPhSWOwKcllm0zO2UMABbrgjnV1DBP4lNkMYiG3FMTDpAq14egrB-FCukWQssM_-2B4diSgGWTTv7M31WX0AM3FE5TGTLsyzuwH6bd5TEhCWuO9bIWVtFjx-8nSvF_qAGhThhL1sXPih8JurDd14u97HO_3gSg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "968 South Jordan Parkway, South Jordan"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
