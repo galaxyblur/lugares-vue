@@ -32,7 +32,7 @@
           prop="date"
           label="Date"
           min-width="130">
-          <template scope="scope">
+          <template slot-scope="scope">
             <timeago :since="scope.row.date" :auto-update="60" :title="scope.row.dateLocale"></timeago>
           </template>
         </el-table-column>
@@ -41,7 +41,7 @@
           prop="name"
           label="Name"
           min-width="150">
-          <template scope="scope">
+          <template slot-scope="scope">
             <a :href="'https://www.google.com/search?q=' + scope.row.name" target="_blank">{{ formatName(scope.row.name) }}</a>
           </template>
         </el-table-column>

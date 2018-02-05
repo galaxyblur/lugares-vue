@@ -5,7 +5,8 @@
         <el-input
           placeholder='Filter results (try "New York" or "Luanda")'
           icon="search"
-          @change="handleSearchChange"
+          clearable
+          @input="handleSearchChange"
           v-model="searchTextInput">
         </el-input>
       </div>
@@ -24,7 +25,7 @@
     </div>
     <el-table :data="groupsInCurrentPage" v-loading="!groupsFileLoaded" stripe>
       <el-table-column type="expand">
-        <template scope="scope">
+        <template slot-scope="scope">
           <div uk-grid class="uk-child-width-1-4@m uk-child-width-1-1@s">
             <div v-if="scope.row.schedule_text" class="uk-padding-small">
               <div><span class="uk-text-muted">Schedule</span></div>
@@ -47,7 +48,7 @@
         </template>
       </el-table-column>
       <el-table-column label="Name" min-width="150">
-        <template scope="scope">
+        <template slot-scope="scope">
           <div class="uk-margin">
             <b v-if="scope.row.isLikelyCapoeira"><i>{{ scope.row.names.join(', ') }}</i></b>
             <span v-else class="uk-text-muted">{{ scope.row.names.join(', ') }}</span>
@@ -66,7 +67,7 @@
       </el-table-column>
       <el-table-column label="Location" prop="location_text" min-width="200" />
       <el-table-column label="Website" min-width="200">
-        <template scope="scope">
+        <template slot-scope="scope">
           <ul class="uk-list uk-text-small">
             <li v-if="getWebsiteDetail(scope.row, 'title')"><b><i>{{ getWebsiteDetail(scope.row, 'title') }}</i></b></li>
             <li v-if="getWebsiteDetail(scope.row, 'description')"><q>{{ getWebsiteDetail(scope.row, 'description') }}</q></li>
@@ -77,7 +78,7 @@
         </template>
       </el-table-column>
       <el-table-column label="Listings" width="100">
-        <template scope="scope">
+        <template slot-scope="scope">
           <a :href="'http://maps.google.com/?q=place_id:' + scope.row.id"
             class="uk-button uk-button-default uk-button-small"
             target="_blank"
@@ -105,7 +106,7 @@ import ElementUI from 'element-ui';
 
 import locale from 'element-ui/lib/locale/lang/en';
 
-import 'element-ui/lib/theme-default/index.css';
+import 'element-ui/lib/theme-chalk/index.css';
 
 import UIkit from 'uikit';
 
@@ -213,12 +214,13 @@ export default {
       if (newOffset !== this.currentOffset) {
         this.$recordEvent('search-page-change', { searchPage: currentPage });
         this.currentOffset = newOffset;
+        this.currentPage = currentPage;
       }
     },
     recordSearchEvent: _.debounce(function recordSearchEvent(searchTerm) {
       this.$recordEvent('search-for-term', { searchTerm });
     }, 1500),
-    handleSearchChange(searchTerm) {
+    handleSearchChange: _.debounce(function handleSearchChange(searchTerm) {
       if (searchTerm !== '') {
         this.recordSearchEvent(searchTerm);
       }
@@ -227,7 +229,7 @@ export default {
         this.searchResults = searchTerm ? results : [];
         this.handleCurrentPageChange(1);
       });
-    },
+    }, 500),
     getWebsiteDetail(item, prop) {
       const hasWebsiteDetails = Object.prototype.hasOwnProperty.call(item, 'website_details');
       const hasProp = hasWebsiteDetails ? Object.prototype.hasOwnProperty.call(item.website_details, prop) : false;
@@ -243,7 +245,6 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
 .el-table .cell {
   word-break: normal;
