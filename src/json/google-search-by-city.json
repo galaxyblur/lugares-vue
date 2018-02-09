@@ -1,20 +1,230 @@
 {
-  "city_name": "yucaipa-california",
-  "city_rank": 698,
-  "city_population": 52536,
+  "city_name": "watsonville-california",
+  "city_rank": 699,
+  "city_population": 52477,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.033625,
-      -117.0430865
+      36.910231,
+      -121.7568946
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 10495,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.9100243,
+            "lng": -121.7570383
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.91137412989273,
+              "lng": -121.7556884701073
+            },
+            "southwest": {
+              "lat": 36.90867447010729,
+              "lng": -121.7583881298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f5a52af5c50ef105cc1d22d0950dc85b23ef3054",
+        "name": "Watsonville Yoga, Dance and Healing Arts",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAKpnBBFHeyhnSyudQX2S6Jj1h_kukVrRxGaVjZjQ01ahY1HUReoWiqljyDA-tsR5z6rph1msSEnEBuujt2_vdE0BWN0K4ThIIPTxGwoVavRJG75ogqP_XL1Rcb3z5F9UuEhAK39HyQ_hgwHORomNPUh2bGhQ7oOHA7p2VTTyBhb6G6KnJmuuWlg",
+            "width": 837
+          }
+        ],
+        "place_id": "ChIJr_ubZCQbjoAR2EoVKXLZQNY",
+        "rating": 5,
+        "reference": "CmRbAAAAjBXfCASA6nxdccXrWh5IIiBxKQhptMsD-Jy9cO5kzs5ywNdcxSpDYH3O1u2smdQBZbyOA9LtAUAOAhhkIr0bZ6aDOMrzPohe7M8t6gfvM1JzOKllE8tciFxPCHlfNA_SEhCUTHrjqH1-rZxIvFfprkFsGhTgKWnQPNUHb5jGdo5464OXPdpQkQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "375 North Main Street, Watsonville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.95986720000001,
+            "lng": -122.0478072
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.96141082989273,
+              "lng": -122.0465064701073
+            },
+            "southwest": {
+              "lat": 36.95871117010728,
+              "lng": -122.0492061298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "63cdc3aca5a1a95052a2ce1c9f101e74466d29b6",
+        "name": "Santa Cruz Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAASjdD4HEnFss0wbcx9mpTu8QMwZ4UivQgG-DdfRYhb23sxSIA5FsyIBJe4Pl9m_APKj_oY_O3Vfigse4QEfswx0Lv5491O7ZX418VRfZQGkSayIkLpayXAnJ3SztqmNoyEhAnDqmMCBLDEJElAd-0ax42GhQ2Ppb8HTZdi3pSZQnxLPKAmrmxrg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJFc_okXlqjoAREUoxY-9bick",
+        "rating": 5,
+        "reference": "CmRbAAAAOxDtS1SwBrhb7CXuuDGNd7Awc-5w2YqT-XNvGP7V3GLDMttZWu8AdKCLDVNIVi2XQN1Uf-DFxjiLq620ra7eJ73oDvn3SuDVeaYcAqq_0DwdaK2c_FfHKUXmFU6kVsauEhDtBGdACZxNnh-_6GN_xEBMGhQQkhJRjHp33gcre4-TwHxWoWTu3g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "207 McPherson St, Santa Cruz"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.5947955,
+            "lng": -121.8926771
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.59612662989272,
+              "lng": -121.8910905701073
+            },
+            "southwest": {
+              "lat": 36.59342697010728,
+              "lng": -121.8937902298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6babd935170d0998a51e5f90698a0669e89dd796",
+        "name": "Capoeira Monterey",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAiAE2z5B6_RoVY_aFz9E1B5w5B5fEU-zD-3Tl-3dFbD8cHvNFf6vprGaECKzuwPuewdJYeoDBMi6QwySzB7F-kMe-sx0o0AXLoinDBKBDXHdf3CjUnbFTdpBQxQW-MiclEhD9EsjZuzL8FsyOmGoc8ehOGhT1ZzOokwWFKeDfGXg8rSLEB3PQ8w",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJUROQcSXkjYARYcAWr3z9gSs",
+        "reference": "CmRbAAAAzYKekKOuNkCBwtK_kJPtks057ymw38Dxw2ah_hsp7x-U3mPsmgs13QomLjVKz0P1NiSedH-OZ-dVkcjsCl-v66ML66LReevB5Qo2GFKOj0FhQ-ugypczl8Hi3sTDV-fEEhC2XuVj7ngHvLj5pA5OQvyGGhQZgRqtTlo78V2Aa1deNqaYf0ySfA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "724 Abrego St, Monterey"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3300266,
+            "lng": -121.9112649
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.33122947989272,
+              "lng": -121.9099051201072
+            },
+            "southwest": {
+              "lat": 37.32852982010728,
+              "lng": -121.9126047798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e9bc5ac1439b4160bf7b9283c1e3983eaff53382",
+        "name": "Capoeira Irmandade",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAA57HNLoYzVJV5nTdOYxECnqYkwwr6OHdbOxsN9h46Z_rs9ph_kEETUSdQeJs9rMdQxPDhwEBuAmyPYoUOsxI7GY1k9AcZdbfpHC6YE4dTeNOU8sETAmQtGMdiqCF5s746EhDkFpXW4R_lQs4ObeK9eWdmGhQUiDfNqNpo5S9h4JJCM0LDenMcXQ",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJMVjJQKjLj4ARuGnGsQc2joU",
+        "reference": "CmRbAAAAxN9d3QXRLIYRUC5ZR8W2_g6XAbp1fCGuHRaxviAt_SoeeXOVQykdcSdRRaQ5G6Qb0t_E8vcfG3l-xR21hmnLEl_feb9I00VxbBumggyB7FlWToJsrMBroS8GBQkGA7wSEhDJSr6XWN3SXwKsKWcaABvwGhTTN9YeHkEBLb-VtMG8K1r-9SQKog",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1043 Garland Ave Suit A, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3311167,
+            "lng": -121.9497948
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.33246607989272,
+              "lng": -121.9486630201073
+            },
+            "southwest": {
+              "lat": 37.32976642010728,
+              "lng": -121.9513626798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d13fa4abe41228d875431a7499218b18ec6bd093",
+        "name": "Capoeira of San Jose",
+        "place_id": "ChIJ374KLP3Kj4ARzKRbN_lAi4c",
+        "reference": "CmRbAAAAX7-taW0fwZZoRn0ZWFjQH3zZT93HyLz50ezntuS62gS84_d7W_2k0Kl7zOPMaHbrUUp0-_7LgHAoXZ2-i6l3d2y9AOCxn00qfL4ILx12CO_8PXbdMFQsnczsEdKIgrfKEhCJbV3VyPYHFxSV4z9ld9oqGhRwx9ZYKsfGsg92FlQCfGzHHBXw8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "850 N Winchester Blvd, San Jose"
+      }
+    ],
+    "status": "OK"
   }
 }
