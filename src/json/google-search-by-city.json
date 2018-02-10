@@ -1,236 +1,138 @@
 {
-  "city_name": "bradenton-florida",
-  "city_rank": 711,
-  "city_population": 51763,
+  "city_name": "gilroy-california",
+  "city_rank": 712,
+  "city_population": 51701,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.4989278,
-      -82.5748194
+      37.0057816,
+      -121.5682751
     ],
     "rankby": "distance"
   },
-  "people_per_result": 10353,
-  "possible_duplicates": {
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 17234,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.4953331,
-            "lng": -82.62249949999999
+            "lat": 36.95986720000001,
+            "lng": -122.0478072
           },
           "viewport": {
             "northeast": {
-              "lat": 27.49696452989272,
-              "lng": -82.62114617010727
+              "lat": 36.96141082989273,
+              "lng": -122.0465064701073
             },
             "southwest": {
-              "lat": 27.49426487010728,
-              "lng": -82.6238458298927
+              "lat": 36.95871117010728,
+              "lng": -122.0492061298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7a713fcffa6b16aefe89b3b8a54b90971793ab0b",
-        "name": "Dojo Martial Arts",
+        "id": "63cdc3aca5a1a95052a2ce1c9f101e74466d29b6",
+        "name": "Santa Cruz Capoeira",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 480,
+            "height": 3024,
             "html_attributions": [
               "Photos are copyrighted by their owners"
             ],
-            "photo_reference": "CmRaAAAA1LZVjCXbwshHrxjHqXHoUt9RufauRddTSkiE2ZhCUU3lyirHEqidyvRivpRFkbzICoheMiFafYlT2FlWmNx58wDFTxdBMlG70s5rNjxSQcLS4h0a35ZmjUwaFKY-5JcvEhCnMdTrugemkzj1zrUKCy_DGhTmodugtI8kAlNVyGm8yK-1Tmlq3w",
-            "width": 640
+            "photo_reference": "CmRaAAAAdz0Xzixx__yvE8VQ-gX7l7VR8h5zlv2Uh_hGgBJBvYj8tt4TJP7IxHwwXSXUW2Eyuk9zddayi6rSFaXEA2qEt1i5Ps-U58J-hlLcq_Yhqh_IQpgnY71KjysjuzpuXYOQEhA1J3oaF-3yGGZQaVym5y77GhTURwiaX7DAjpTyVwy8uNry5qdwsQ",
+            "width": 4032
           }
         ],
-        "place_id": "ChIJ63kfiwIXw4gR7pkjUFwwQ0I",
+        "place_id": "ChIJFc_okXlqjoAREUoxY-9bick",
         "rating": 5,
-        "reference": "CmRbAAAADRc00bpiPlq342BMonLbRe35Yacb-54Nj4Tr4zicSVl8Zc8HVNoGjAFFEdJy51YnAOfH0kcRRFi7fNXJmzVcaeiZDYJgVAYcmGFZkuy6Yd5CS4QVSdrQaMaVlo25Ul9rEhAqmemYe8odyEjlmfUb8XBKGhTf3KZY4VZXyysdguYv_odm_3BQJg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5917 Manatee Ave W #101, Bradenton"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.4305309,
-            "lng": -82.42595299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.43212887989272,
-              "lng": -82.42460932010728
-            },
-            "southwest": {
-              "lat": 27.42942922010727,
-              "lng": -82.42730897989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0fb6fd4a9b44813695579c6484eaa90e96dc49",
-        "name": "Capoeira Vam Inc",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1530,
-            "html_attributions": [
-              "Photos are copyrighted by their owners"
-            ],
-            "photo_reference": "CmRaAAAA2dLSjy6Z91OjoaxnlCgkKx_XFHTpN_3EcBXMwQzKyNAn1LJsiXtWitULd1Ivyff1yi2MdQMxFkIQYMroYJ9vX_GM0mVyjXbcb7baaE2eI_fzAXEOF7imWpC3beEtfcdkEhAhOXb2oeRwz7dBNLYLbfH2GhSfiJPNtf1eoY-daVuqdPyM8yRgjw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJWVF4oIY5w4gRwqywWK7JpZ4",
-        "rating": 5,
-        "reference": "CmRbAAAA-rbb5FgTvs7sMBNRB5M9m58D0hd1VULr9cCCDUigSQLnjmx4VIyc1EnLOlr5HvgAsAO2vBzbUYZdZk2U8ITZKgKOhWiOn0hUajO4782xEU2YY8cQMempmUBi7xXHnNFnEhCFvTbhF2kzWzq5D1nnGqc2GhQuqhyiZXVsHrGLFYriAHdiNN8pOw",
+        "reference": "CmRbAAAA1bX-Wi2wQC1YkK_HTGM370ChZZCw319dFT7M6y6vmApQQpumLdxFlUk3Ai8uFFWYyCw3zEV8aiUgHzmwnA5N6TeiOjL0PSWufMc9dbPMq-ldg23N7oj19HDsPSmGtrizEhDemNxQb63sjjKofZ4gYbuBGhTgf9K4BpDVJN23JAQhYxafVDnnyg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "11534 Palmbrush Trail, Lakewood Ranch"
+        "vicinity": "207 McPherson St, Santa Cruz"
       },
       {
         "geometry": {
           "location": {
-            "lat": 27.2993271,
-            "lng": -82.47517580000002
+            "lat": 37.3300266,
+            "lng": -121.9112649
           },
           "viewport": {
             "northeast": {
-              "lat": 27.30076347989272,
-              "lng": -82.47382642010727
+              "lat": 37.33122947989272,
+              "lng": -121.9099051201072
             },
             "southwest": {
-              "lat": 27.29806382010727,
-              "lng": -82.47652607989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4548fc5ca39425d9fbb538f038883e964f0476e3",
-        "name": "Capoeira VAM & CapoFitness Sarasota",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1152,
-            "html_attributions": [
-              "Photos are copyrighted by their owners"
-            ],
-            "photo_reference": "CmRaAAAAd3UaoFgTLrwB0Ynllbdc8jcBC6sRwSb_iT_h_P17ZGiODmdsteusPIitddxSTv94ReS8eeWKQZzpHh6C-Vlrdfw7bDv00tTvbOSLRIAGEAo_LJGU01gJ56fSILXxKQ2ZEhAdyStn8Kx6YMQRz4i_XqEbGhS-9R1uov0lR10Q_kFzWp_ReM8Zzg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJK3h0TdVGw4gRgDBg45OU1Hk",
-        "rating": 5,
-        "reference": "CmRbAAAAAFAd0Y_hM89MgYakK6eadkEswBYcTZuodDKH06kWObg1rLC9xNPOaK-QzHLeTzApycwHuAFfR1Xn2ZqCdwNf6MDSsStl-YndduDRWFaoJgiTUZveSlj2XGrh9P75cRAFEhBv98J8fPYaEbUXYjo6NHdFGhRh1cw6DBVHs2GsEeuGbO7eUDoncw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4672 McIntosh Ln, Sarasota"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
-        "rating": 5,
-        "reference": "CmRbAAAAz0n2osF6uPe-dHPt83Jo-OCKYDJa788mznfotvqjZDmrc9EkeHstGYRmrTAHrydAecnZv_geOT4IOFlAi46rNzhNKe5uS6iLOHEMPKLWBPX6hn_juFlh8ICWBi5UBe11EhCv9v_ZTPUvyMWiVQL7hyoDGhTVul4Vscw8_jpKTwTWmoC5Ak-iTQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
-            },
-            "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
+              "lat": 37.32852982010728,
+              "lng": -121.9126047798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAAJ_8b_aMRDZGFmcGW1g02aZqyaILzx0JKOmKN0AKKpAq2ubLcjcvJx9wCszpbrxs4ymHbJ5d_uif8RTtu5UTFcBTuVb9j5eU48t-j4xbEIqh-KuW8ltoWwJKtRTjXYeWnEhAHmbo6OZOMPYSzuBmCFd13GhSNdh9zTpV_16NWTMqn92C4GeguCg",
+        "id": "e9bc5ac1439b4160bf7b9283c1e3983eaff53382",
+        "name": "Capoeira Irmandade",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAA8MU8nuaa12QJXW5YzOHD7_DZMpwte1wKmRo2H5Btnl11qJlw2V6VXYaFz7OjJhD1AchdGRn-wry52EWY3rPlhQmZL7zp50jVTc-v3eRB9FVti4hvz43n7nBz4shgmFX3EhDLbDoy6UewQqqGKa2ABXv4GhT-l4DMiHUSAlw8MSceKTBNVpNqMQ",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJMVjJQKjLj4ARuGnGsQc2joU",
+        "reference": "CmRbAAAAYF7lnNLRyYAw1livhjmmsqzqoF_4UIHWP9WF3fBiaJ_oj9GTACKevtvSMbRwQg5dC5uTlJlllNAXNcTJll2zNOZYI88DkoGXpv0WVUf11s432N2flExyMj-_eZvK3cazEhCX8g17sfSkXM18Mwepfd1mGhSJMYxEa8so1z-CRgDMwJicqYuyzA",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "1043 Garland Ave Suit A, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3311167,
+            "lng": -121.9497948
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.33246607989272,
+              "lng": -121.9486630201073
+            },
+            "southwest": {
+              "lat": 37.32976642010728,
+              "lng": -121.9513626798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d13fa4abe41228d875431a7499218b18ec6bd093",
+        "name": "Capoeira of San Jose",
+        "place_id": "ChIJ374KLP3Kj4ARzKRbN_lAi4c",
+        "reference": "CmRbAAAA7le49U_knwvJxx57u3NzvyYZhYBhF9JAQ2kv9UP7KW3qQcRc5gwxu_BTzLIFP6_AVdCPmzF1muyBJDNdRwIQBoYsddeL-011hEndwQv-dMw0eTObUexSfVvTzQOCa6PvEhA9jQQqIzYVdQsKE-1E4zeBGhQWFMefgn7TuA3smZrS7yWirtiYkQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "850 N Winchester Blvd, San Jose"
       }
     ],
     "status": "OK"
