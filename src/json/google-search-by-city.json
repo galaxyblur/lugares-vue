@@ -1,67 +1,20 @@
 {
-  "city_name": "southaven-mississippi",
-  "city_rank": 724,
-  "city_population": 50997,
+  "city_name": "charleston-west-virginia",
+  "city_rank": 725,
+  "city_population": 50821,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.9889818,
-      -90.0125913
+      38.3498195,
+      -81.6326234
     ],
     "rankby": "distance"
   },
-  "people_per_result": 50997,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.071982,
-            "lng": -89.9617553
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.07286612989272,
-              "lng": -89.96054282010728
-            },
-            "southwest": {
-              "lat": 35.07016647010727,
-              "lng": -89.96324247989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f2ff5c4ff6fd30493b6c3ec24095ac3be55dd85d",
-        "name": "Memphis Parkour",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "Photos are copyrighted by their owners"
-            ],
-            "photo_reference": "CmRaAAAAAEdKYeOuDTeC5otcZ_PfmMGkUSSbu4iynWowS2WHT_-1ScBq2QeravJOKgiW2vs7-rqElM9tvpiIwxk0rtgMSvfFJibYZURpJlPOTG4HL-Ur72ytsz5Ss82GuKl6FPahEhBKmmDtt5unUqOhFLrgmdBUGhT0JhA3Qq3wl3MnCtqJDqMvinDN2g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJvecCp1KGf4gRKom8nFltO9s",
-        "rating": 4.4,
-        "reference": "CmRbAAAAL1MsIu8KiFp2y5SQSyFsonqOk7JwBIwsbXRVuXPWm8fv0u1DE96rFtfpJu6FGirXj_EEkk2tchaJsmgBbSBeUG4bwK5bh28dCCeA0uFbPZn2KYQAGeFsWsKT-OXdZayIEhBbkD4_HbIxPvBGRGI1ezlVGhT4uI7L1AoxghKMabcayHsWBDkn7g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2850 Lamb Pl #1, Memphis"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
