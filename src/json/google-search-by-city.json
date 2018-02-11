@@ -1,155 +1,20 @@
 {
-  "city_name": "lenexa-kansas",
-  "city_rank": 735,
-  "city_population": 50344,
+  "city_name": "saginaw-michigan",
+  "city_rank": 736,
+  "city_population": 50303,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.9536174,
-      -94.73357089999999
+      43.4194699,
+      -83.9508068
     ],
     "rankby": "distance"
   },
-  "people_per_result": 16781,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.9206727,
-            "lng": -94.7598328
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.92174212989272,
-              "lng": -94.75895232010728
-            },
-            "southwest": {
-              "lat": 38.91904247010728,
-              "lng": -94.76165197989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3f6161e42ecf2fa6c86ce43a0729ad678451dc0e",
-        "name": "Brazil Academy - Brazilian Jiu Jitsu School",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1000,
-            "html_attributions": [
-              "Photos are copyrighted by their owners"
-            ],
-            "photo_reference": "CmRaAAAAvbqoROhf7uckU7nLwGaBUKiWpl93WkpDPQKi91WFJoOQCLSIrjK2sGBtgjCDLPJVZNOU4DAo6e4RgCb0LawfunLTCDnxHweXrPC3UMBbAQhsBuCgsFniS7QC_O7cig-XEhB0DAdT2y2sDTlVOE1tVF9hGhQxrAxJwQ8h3O0B8qajYtuBvy0vGg",
-            "width": 1500
-          }
-        ],
-        "place_id": "ChIJOel5vg-VwIcRGQYq_qmUmG8",
-        "rating": 5,
-        "reference": "CmRbAAAAOeFxeR2mJcgTzOKYo0Y4BuWdbXZ1a-4uDYaSyTNZQCAKqt0uvSmSWi1LX_trbAOq3B_mTTCdzYgrjlSB4kL0yyeyLxXMokjmynY7wjS0IG3VXHa-tL5GlX49YDO52S8TEhCjeIdqNlQ7_cJPvgQW0E8IGhQVgPPVvLPgFzLglntNHcI7X3s8qQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "11441 S Strang Line Rd, Lenexa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.0101357,
-            "lng": -94.5749766
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.01148137989272,
-              "lng": -94.57349207010728
-            },
-            "southwest": {
-              "lat": 39.00878172010728,
-              "lng": -94.57619172989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "53d727af72525cd218f331a4654284ab44fe8379",
-        "name": "Grupo Axé Capoeira Kansas City",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "Photos are copyrighted by their owners"
-            ],
-            "photo_reference": "CmRaAAAAQL7p6LC42VC9FmMHb75s-v1nCinWYE_NRkb41UNlILXZOHKx4RhiwSmG2Xh3s2B3-gQaKhYXbnFoLnvbkbIbAl4RBBX_t7HyP63t4vTDHiTWGTFJ0-tO0j7ag2hUC-CHEhDvTu0nMBPCb_mfK3ajP2l2GhQfWZzhn4nghPQHN2oOn-mUXG3ZgA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJM4zreA7vwIcRnn9Ya5_3bOY",
-        "rating": 4.5,
-        "reference": "CmRbAAAAuuAi3MDJGvzMTslotpxHy0sL-jX6IGMg7VMo6xod1daIMYGJiwz8yUAOJJyCYilm1GIeFh5NKJVxQmtnxVy0JcExmu0RuNL_2p5Vv0BazoNxIq0Zb_4OMsbddQYTby7FEhByBe2xeP3gSQtkyFj9QFTVGhQl0kKgLFUlMlHvRjwDLhgFS_LFMg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6430 Troost Ave, Kansas City"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.009772,
-            "lng": -94.30026699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.01112182989272,
-              "lng": -94.29891717010726
-            },
-            "southwest": {
-              "lat": 39.00842217010727,
-              "lng": -94.30161682989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "71d2cb8c949c67f3c3426074f3a8fe1c573fb55a",
-        "name": "Grupo Axé Capoeira - Kansas City",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 768,
-            "html_attributions": [
-              "Photos are copyrighted by their owners"
-            ],
-            "photo_reference": "CmRaAAAADdbfoYLgEAFi10ahRaS0_Sg24xK-VYY1ZwPpo9z5wMNAjkqAIvFHoYOo0r4ibZKMAIQzXILcHqLb9_S_2-CmjcnoROnTiwnlmD3CAekWdnTtzEuoclBKq8ERxunuJ-6uEhD55N27bL7OMFNTBSAdU_EcGhSkLJJiNht2p5aTeQjZr8XZLajkSg",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJizifeewbwYcRf2u6dIExj8c",
-        "reference": "CmRbAAAA_MSGARC7graMsZIEcJwR_BAdIRU4n1dv2wBHBCTrkegbXnjldjwAZindX3nbmTM1_fqEDvXQuD7MKTPsol8yAjjMa_zvD7cFngI1k2C4gWen1H2QMf2OD977rNDyQVwFEhDNhts-o2nX54o1JUt0eWQvGhTb1X0i6JguFS89N6SpJHVPVbaqeg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Welcome Mat Judo, 3004 U.S. 40 Highway, Blue Springs"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
