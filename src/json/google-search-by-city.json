@@ -1,20 +1,67 @@
 {
-  "city_name": "saginaw-michigan",
-  "city_rank": 736,
-  "city_population": 50303,
+  "city_name": "kentwood-michigan",
+  "city_rank": 737,
+  "city_population": 50233,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.4194699,
-      -83.9508068
+      42.8694731,
+      -85.64474919999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 50233,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9634792,
+            "lng": -85.66276549999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.96463792989272,
+              "lng": -85.66142417010727
+            },
+            "southwest": {
+              "lat": 42.96193827010728,
+              "lng": -85.66412382989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0bdf5085229c8b0b3128a44f48cfeeb1187f2025",
+        "name": "Armentality Movement Arts Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 621,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAEgGJzeErgXLCvFTjuztuYRAAVxJkgliT46jD0keVpTrHutvYX9slBYfQrx9ZDQ_eg16MWqze1NJGeTSQ72qaGzSIwFwEh10CuY5uM8_1dW5yqrQGUIZpBgjIG8eYdRn3EhBvlGC86y9HfQ5SZ0FeyMzHGhRBMP7m_jmYQNQ3vla1kmoEtFZ6Mw",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJGYYf7LitGYgRp9ftcRNC17A",
+        "rating": 5,
+        "reference": "CmRbAAAAkfNKhyabV6Jy9EgyPJDqH3wmxjW6xrEVf_IrtIu5s38Pd5fkXMD2P4mtLQBIJmLZGYK3zbcmPb-KQfoNofTgMo4AX_mNtD4GJ2_5YLaJs4JX0XcKs8_Nhxq7yh5olgJ-EhAnEErNDJ-LYousWmOEMB2RGhSbK4wVB0gCH81ZOC4lM8Zxk4kqcQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "233 Fulton St E #620, Grand Rapids"
+      }
+    ],
+    "status": "OK"
   }
 }
