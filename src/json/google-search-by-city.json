@@ -1,20 +1,125 @@
 {
-  "city_name": "roswell-new-mexico",
-  "city_rank": 769,
-  "city_population": 48611,
+  "city_name": "parker-colorado",
+  "city_rank": 770,
+  "city_population": 48608,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.3942655,
-      -104.5230242
+      39.5186002,
+      -104.7613633
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 16203,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.6782939,
+            "lng": -104.936617
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.67972347989272,
+              "lng": -104.9352676201073
+            },
+            "southwest": {
+              "lat": 39.67702382010727,
+              "lng": -104.9379672798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a4e87b229ce99cbc159ea3e0f964235baab26137",
+        "name": "Brazilian Capoeira",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAITfjlXbwlPktgPPP_ySZge6ARzBMyWOS0v60ylCX4VaANpFhN7OaRCfc9sMH20iWxYG96w2tWYusf9zyPFWUPPAI5WardrP6-Wy2Znny8AxZM4_SO3xj5RGskEfPsSmAEhDRPtEzJnrUdIwgGqYHtQttGhSkJV59BL2ALyvPoJX85D3ipFOxgw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
+        "rating": 5,
+        "reference": "CmRbAAAAkA3prRY7reSF0Q30WR3mXat4Kf8Jmz8b5hddnI3DVvRGfUtJLH6opDkgWgwrVWofeclZkGtLdUUOPcuFOinzn-3GdYLvbfmeEfmZMQ2vy5GfBdSlkprje5aB6TckG4JXEhDXL6Q_s4AucadtN13JFUsNGhRl3QbWRGlZXMBCUPN--ppomKQkZQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4362 E Evans Ave, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "rating": 4.5,
+        "reference": "CmRbAAAAlXcHtTgkFyIcUk2xmJMbxQl-GTqJ9UwRLjsu8EMY5IsihvURHYYzzcNCGt-Mhs24SB3WFgMz1ANAKFjzKy-mKAiAPRZ66PTGcNQSiBjeZuHHstqhb-cr2nkWTfIfVWh4EhB1R9roL1ejqQPCQkX2x9rTGhT-6IA4ggBmrxOapzZlwZZNvcEcbg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "reference": "CmRbAAAAmiDLxuZuyispRNQJ4kAsLET8OOZFnkWYZdm0viAJeEFKGPCRz8jlVNstZBebheyMkgKBwqPaEr24rBXcZN9sp1ctpLWAe5_wWVGw4ibK1zouPz5QXMOkna3j4qUTaui4EhAOKMEVC1UNNF9RMnm6q4uHGhTKvUozfan_MCcdl-t4K2MT3FS_VA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
+      }
+    ],
+    "status": "OK"
   }
 }
