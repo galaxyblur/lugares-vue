@@ -1,16 +1,16 @@
 {
-  "city_name": "ceres-california",
-  "city_rank": 797,
-  "city_population": 46714,
+  "city_name": "cedar-hill-texas",
+  "city_rank": 798,
+  "city_population": 46663,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.5949316,
-      -120.9577098
+      32.5884689,
+      -96.9561152
     ],
     "rankby": "distance"
   },
-  "people_per_result": 46714,
+  "people_per_result": 23332,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,32 +18,88 @@
       {
         "geometry": {
           "location": {
-            "lat": 37.5144891,
-            "lng": -120.8260116
+            "lat": 32.713013,
+            "lng": -97.34637339999999
           },
           "viewport": {
             "northeast": {
-              "lat": 37.51582202989272,
-              "lng": -120.8246620201073
+              "lat": 32.71421842989272,
+              "lng": -97.34502387010727
             },
             "southwest": {
-              "lat": 37.51312237010728,
-              "lng": -120.8273616798928
+              "lat": 32.71151877010728,
+              "lng": -97.34772352989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0ec2a8ac24b70abbb1e6aa16dc62348dc61f52",
-        "name": "Central Valley Capoeira",
-        "place_id": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
-        "reference": "CmRbAAAABlwDAvhrG69lkTlrMDNPIYhrv8FI4xlBzUB757OCcmxJLjFXdu1czwXRkkNb2bHjpB76nG3Lj2Y88ktlhRH_X_kRyxl1AyjIJzCcxJGC2lP4vzyj74nLtiGg89E8DwdNEhDkTv82R0z9IV5zJdyCcy8UGhQ7_OZrgskHtB27cwTf_0XAiLasIQ",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "photos": [
+          {
+            "height": 918,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAACfaihviS_iBBtEuoQii5HVxRjlu3hQltw7FBnmzJ6-lyzxuR9zV27PqHFQKprEMK2GK53rRcMhtgSV6hTmQCE4bk4L_MG8_ojl0V8XoJ0id6TMiApNNTzF4XEZTDasp-EhBRaQPkHjq3G3TS9Dy-HG0MGhSpWRtVb4fTsfmbkXL1E3SYEBfw0A",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "rating": 5,
+        "reference": "CmRbAAAA7uHy1E9ocWtahCwrpCzn2_tOZFeMt9xitW2KONk0IbVr4lwZP8GDwOFX30cEvgb9gsNmmNXGF4pBYIB8ySIW5VSmEF80rkd3swGO7eSGZNwZU3w2QMf7nmp0W6_lUeDfEhCzsBzlCRDe4aIGU2folfIXGhQXMM0MWxeuUTbMV-O_6EHrAqqHaA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2006 E Tuolumne Rd, Turlock"
+        "vicinity": "1800 McPherson Ave, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
+            },
+            "southwest": {
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAX5fW01fhz0oYvYVQz1-bY1F-EKCr_HDYmv02UQ9bRSsPnqm3ujGmQt60UQysC5kvWy7yoBolmEeLYbaeAg0zS_b0QerpJZkfiYoZ2uRj7DyyI0B4K_I7dchJoAZHmS_WEhCQW6HNzqqe_rmdKwEfIHE7GhSblC-Rp3ZqrclgLW8SJKB10_O67Q",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRbAAAAAVbvQwabE8V0BWbsFcSvxcIONZpNKFC97Qt7K3HNRS1XMYbOrkaaD3tTHl6hMHHHa4O_jqbeZyLdo3JIdQR2372M3CsKu-SCeOrhEtmuFFt7gd6AVUO0fvsyqKRJYSH-EhD0OC4c4hq1MKGv3-nvMn4-GhQBTpgady1xmn0ex83JR5QHFSB1wQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Rd, Dallas"
       }
     ],
     "status": "OK"
