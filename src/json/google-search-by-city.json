@@ -1,16 +1,16 @@
 {
-  "city_name": "lawrence-indiana",
-  "city_rank": 794,
-  "city_population": 47135,
+  "city_name": "wauwatosa-wisconsin",
+  "city_rank": 795,
+  "city_population": 47134,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.8386516,
-      -86.0252612
+      43.0494572,
+      -88.0075875
     ],
     "rankby": "distance"
   },
-  "people_per_result": 47135,
+  "people_per_result": 23567,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,32 +18,77 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
+            "lat": 43.05467400000001,
+            "lng": -87.900397
           },
           "viewport": {
             "northeast": {
-              "lat": 39.80969172989272,
-              "lng": -86.14545212010728
+              "lat": 43.05590877989273,
+              "lng": -87.89904822010728
             },
             "southwest": {
-              "lat": 39.80699207010728,
-              "lng": -86.14815177989271
+              "lat": 43.05320912010728,
+              "lng": -87.90174787989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "reference": "CmRbAAAAkDtzlEFUoH64kDwsXo8jCX0A-RWRli5QN6lUsQgqwKo3ctv2nZ7DkSYuVZyEQ1-HyFttdoWbL9W1yAvfeaZvYrkOKc2wy5U6dkIEryVBUEKTk-JbMwDyt8m4ZCDWOH61EhDCpp17yu9DTQ_M8yFCAZS_GhSyxiTfr8A4CHO5qp7zaxo2PGDPbw",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2ef83b82c11c3694754f18357b38380728589f9b",
+        "name": "Capoeira Nagô Milwaukee",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "Photos are copyrighted by their owners"
+            ],
+            "photo_reference": "CmRaAAAAFqsofigGC3UFHs_mcgJAwMpEVecvXpgGCm-TE0UQ1_ZNK2vDeQvDs2UGGjrio2i55pPomdQd_l0cPL2oBQG4ziaO-jy9LqC1Uz6GNBanhdUC0MVCvl8pd6D7mQVQ8-n8EhAfafF8dwo8IZu8QSmIlrACGhScO40qpz1GIVCIy3qYN_JPzRo4Xg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJHe14bhsZBYgRIq_Ghm5wHpQ",
+        "rating": 5,
+        "reference": "CmRbAAAAP504FINdUkW6B2Yb8Z9l_udYCqm44CJZvMotZr-06ap-JLiAjqrGH8JjeN1D_HkhaWq-4yPhuGkmIjAPe_5tcBKkP46SJB8K8E8CUPLBh08WKaMHIKLFx_KNZ-0cx7xHEhCNwSgbLdx3sqSKjjwuVAu3GhQ82ZP0x7k47ZLAaus4XBBSJ2R21Q",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "609 E 29th St, Indianapolis"
+        "vicinity": "910 E Hamilton St, Milwaukee"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9980772,
+            "lng": -87.8917141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.99949627989272,
+              "lng": -87.89026172010728
+            },
+            "southwest": {
+              "lat": 42.99679662010728,
+              "lng": -87.89296137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc5b16e5c9b8c070a90d48ca5c2a67c3037702bd",
+        "name": "Body and Movement Capoeira Angola Association",
+        "place_id": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
+        "reference": "CmRbAAAAjsQ7JqB7flAAsodH9Psy9YpodZv2fBxUT_RzHtx5vEJf9eHRPXDP_mpTmN2V3jIWGEYePJzoGGozjEd-QkAzZ3bVUdd7tjSHayRYO9MQ5X2Wpb6jFepG6pSQIGIi6ratEhCxDzM4jjovgvB1Z8c0knzNGhRcBtaQyRNN3C_FzZoza0iqISZM-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2499 S Delaware Ave, Milwaukee"
       }
     ],
     "status": "OK"
