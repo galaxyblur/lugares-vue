@@ -1,20 +1,67 @@
 {
-  "city_name": "lompoc-california",
-  "city_rank": 844,
-  "city_population": 43509,
+  "city_name": "el-centro-california",
+  "city_rank": 845,
+  "city_population": 43363,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6391501,
-      -120.4579409
+      32.792,
+      -115.5630514
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 43363,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6170048,
+            "lng": -115.4052545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.61835527989273,
+              "lng": -115.4039315701073
+            },
+            "southwest": {
+              "lat": 32.61565562010728,
+              "lng": -115.4066312298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "27806084d7dcd1607a48c4a3bf5d83ab14a4f137",
+        "name": "Capoeira Brasil Mexicali",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111043538642937907494/photos\">Promocao Sanchez</a>"
+            ],
+            "photo_reference": "CmRaAAAAt9j4U348rC6HV1lmgMpUCAFnqEZMCQuIqfzmhaDeOGAL4HPbxD7_KZZIBtqrx1mRFM3gjnn7R_wC658FqfES9kTnSK66LXmeOIAbXYl1xVqviQP3jemhP8YnccNE2WHoEhAUFSy9dlBcHpJng88EctfgGhT7t_Mub6Wp0nVWX4pqtTuns-fNyQ",
+            "width": 4224
+          }
+        ],
+        "place_id": "ChIJJ9wzrTlx14AR2sMWqZ7_zOg",
+        "rating": 5,
+        "reference": "CmRbAAAAAKZuwjtxkYCbu8420dNXN04P_G2jzv2dG_ep2NJGog-6uTOTnRuloohpyM4erX2UoSZFy36LAkkoMnYNF43pq-jC4aO5icEkqyWxWgBD6CTomgejPamhuh-_uIrVr5bwEhAs8_xD8vIi1-aqYUN-qTfDGhQEmykZiwFausOkEd2C2XroUeOy4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "y #2004, Bulevar Venustiano Carranza & Villa Avenida Valle de las Mariposas, Villa Bonita, Mexicali"
+      }
+    ],
+    "status": "OK"
   }
 }
