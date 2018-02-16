@@ -1,16 +1,16 @@
 {
-  "city_name": "concord-new-hampshire",
-  "city_rank": 869,
-  "city_population": 42419,
+  "city_name": "burlington-vermont",
+  "city_rank": 870,
+  "city_population": 42284,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.2081366,
-      -71.5375718
+      44.4758825,
+      -73.21207199999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 42419,
+  "people_per_result": 21142,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,47 +18,79 @@
       {
         "geometry": {
           "location": {
-            "lat": 43.191649,
-            "lng": -71.51849399999999
+            "lat": 44.487859,
+            "lng": -73.20754699999999
           },
           "viewport": {
             "northeast": {
-              "lat": 43.19328107989272,
-              "lng": -71.51705692010727
+              "lat": 44.48920882989272,
+              "lng": -73.20619717010727
             },
             "southwest": {
-              "lat": 43.19058142010728,
-              "lng": -71.5197565798927
+              "lat": 44.48650917010728,
+              "lng": -73.20889682989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "69adfba999460405f13463bff9987782d7d11e49",
-        "name": "SDSS Martial Arts of Concord",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7d6031c00e9b3d81c65dea71859ab91734d84dc4",
+        "name": "North End Studios",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 500,
+            "height": 1200,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106679633542807659133/photos\">SDSS Martial Arts of Concord</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109642695605123657644/photos\">North End Studios</a>"
             ],
-            "photo_reference": "CmRaAAAA9YuhVKTjznwp4dYWGnvgSLbGNTzHWzDdqUHT_KC0JbcUrV-TKGKIuzV6zL3Vj8tx3xRoJfFNRMri-09QiQpku8mwKhJzphmDmlyWVS6CvOk1Ly4TWAs9tPJaa9bHWWDiEhBBjA2WTZHpbzlCkDQsO-vpGhQqBuekwfXpN-WA6d8NzGve2dDJmA",
-            "width": 500
+            "photo_reference": "CmRaAAAAADDexn-iXGHhBiVtPKHr50T1x9dDqbSqmiPBNt6NHUus-HjLqqiYe_LrUALAYCmLNOWxPPSMGGVJQgWXSG0XL_u1BvwrxkaFkxns9XxiRQuj9pEbDUisM169jfzTDiK0EhDQiBNppMz1BiCOkdvVBzqHGhTuqKRmB0jH8VlXrKt1m9GpWLPvlQ",
+            "width": 1600
           }
         ],
-        "place_id": "ChIJ_R6Sg3tq4okRJ2BOozMFSKs",
+        "place_id": "ChIJfdSkoYt6ykwR3PHPU-XyCQY",
         "rating": 5,
-        "reference": "CmRbAAAAF2kWB8xPrOZbNaEOHHDnqKvAMsFA-J2rZQHDt0yhIuWLZODEVvZN3SXPclxS2PeJ00uUHtwF8vvjXann0b-SRjQzTShPNw0pGXAxHB0NJl4T7QQNaWKe9Q68vHkSman3EhAi7eSeRIgmYt59W2e_ngoKGhQv5qcSP853SI-1i6YseBWB2H0Pzg",
+        "reference": "CmRbAAAAOHwR2yusmKaEUDwavRgqzVw4kM2FDq_Bc5KkNcmeMP4BzdEZssUCUEekcvjAkaEWNVVSX3lKPj0gx4WnSqKuJxrJqIn_dNHRKY1_IaShia1xqZcv8v34rL1uAy37lJ9-EhBIsidQObpUAmQXy8o3Lji3GhR45b6QNaG1LYI1Z6RI3L4CKhV_GA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "294 N Winooski Ave # 111 Burlington, VT 05401-3680, Burlington"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.4486171,
+            "lng": -73.1314907
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.45022112989272,
+              "lng": -73.13016567010727
+            },
+            "southwest": {
+              "lat": 44.44752147010728,
+              "lng": -73.13286532989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a94760e8263950da17f7ceb07b20cf6dfd043002",
+        "name": "Vermont Brazilian Jiu-Jitsu",
+        "place_id": "ChIJ96STNAR5ykwR-t9-D1spnCA",
+        "rating": 5,
+        "reference": "CmRbAAAAvkZeHx9mZ2t7lNFR8LNaz0xCyN7WGVFui9rnM999Oxi7R8nm_gNvjm41eqivlYTXJUWhLyJc14JFhHWSi-ei1E4HCzt7bQgvIi02k0MMeWZMznUEhPQIOfRxJeoq4pXMEhCDO1oCqDvaDMhDRx2wSxRWGhQLoMmTActbcvuty_5bfNvQ5xHC6Q",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "30 Manchester St, Concord"
+        "vicinity": "55 Leroy Rd Suite 35, Williston"
       }
     ],
     "status": "OK"
