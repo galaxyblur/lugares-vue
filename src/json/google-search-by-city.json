@@ -1,20 +1,100 @@
 {
-  "city_name": "fort-pierce-florida",
-  "city_rank": 854,
-  "city_population": 43074,
+  "city_name": "smyrna-tennessee",
+  "city_rank": 855,
+  "city_population": 43060,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.4467056,
-      -80.3256056
+      35.9828412,
+      -86.5186045
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21530,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.7864065,
+            "lng": -86.4042114
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.78771167989272,
+              "lng": -86.40286807010727
+            },
+            "southwest": {
+              "lat": 35.78501202010728,
+              "lng": -86.40556772989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a4d026df443cd96bd0256b26f4915c427373b8c",
+        "name": "Capoeira Maculelê Murfreesboro",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJL7KWbO75Y4gRRMUVMMHZJDU",
+        "reference": "CmRbAAAAVNhVjR5YBTWnpqcE_ShYXDs4ZCFPxYYUfdVomC3cUwnctQv3nozMTEJWRNiXL_Mr97OVZyoqzSlS-Pz3fgmZOCAom7hqEy4ap1ZjW9jIOxYM-ZRsJ-y8QTTvfa0R98bTEhD1ZNChPkt5CAbTcDbHzpPnGhSfIC-J3ZBJrwqvz-7mVwd_bFlOuQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "220 Barfield Crescent Rd, Murfreesboro"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.1523713,
+            "lng": -86.8458567
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.15356522989273,
+              "lng": -86.84450052010727
+            },
+            "southwest": {
+              "lat": 36.15086557010729,
+              "lng": -86.84720017989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6af144443685c4dd230fde4aab30a3aba9ed72d5",
+        "name": "Grupo Balança Capoeira Nashville",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104630049540296113933/photos\">Grupo Balança Capoeira Nashville</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Eaz8z1jJmkKGfgxZ88IQIg4ANcBhZbd0i5qDNG5Em49kCXyc2ikVeFzFismVg-y37z5RX9T0I5k3R29XEsUarpOXNJs4ZQZz2d8IKifxmF5KzVH3HRxbXeRC8LtSOG3EhDtGQxDelbWlZi3GuGA5F4qGhSfrLmz8RrI5k5eCwANFeRt_iSzIA",
+            "width": 1537
+          }
+        ],
+        "place_id": "ChIJa8SAGSRkZIgRoUGxQOXnsOc",
+        "rating": 5,
+        "reference": "CmRbAAAApQSRDHU9U4rZ_FtbAHDnqSqYYRAWn6cXXVf4iFHiYvivOQWDkYFFOREbKNt425Nqp-lqM63wQ-EBl25Rd3CD4AMcwKLKQGvAZAXHMF3Qg1e4BCjmBCfMSOwEEmo87mrIEhBbmFYpZC-0lWxOIglKU5N1GhRJb2uWLjLZXArSSUNsIhDCMBT4vg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4822 Charlotte Ave, Nashville"
+      }
+    ],
+    "status": "OK"
   }
 }
