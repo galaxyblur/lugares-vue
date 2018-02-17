@@ -1,67 +1,20 @@
 {
-  "city_name": "state-college-pennsylvania",
-  "city_rank": 877,
-  "city_population": 41757,
+  "city_name": "urbana-illinois",
+  "city_rank": 878,
+  "city_population": 41752,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.7933949,
-      -77.8600012
+      40.1105875,
+      -88.2072697
     ],
     "rankby": "distance"
   },
-  "people_per_result": 41757,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.78287,
-            "lng": -77.8769507
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.78409642989271,
-              "lng": -77.87542302010728
-            },
-            "southwest": {
-              "lat": 40.78139677010727,
-              "lng": -77.87812267989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e53dbc4c53f76981cf4b23bb9fe2a6e7cd2e9ec",
-        "name": "Central PA Mixed Martial Arts",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 4016,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115393852848820611911/photos\">Chris Stratton</a>"
-            ],
-            "photo_reference": "CmRaAAAAKs3ip5uUniqgqS8L7EWj7iTbV5cB-8zE_CQTo764Lrq_9471XmXXrGeN_LYks3bdty7kkhyAIQJFUzth3GMQoaeQvU8B5RKNo-F4aTm1IDmENfgq38VDFEQFt7595k2fEhAnkCkY6ujwjhf6DAVcXYp9GhQTsUfxNj2rHt2_RudStkkOTRP53w",
-            "width": 6016
-          }
-        ],
-        "place_id": "ChIJWWREYYuozokR6tXeyL3W01M",
-        "rating": 4.6,
-        "reference": "CmRbAAAAWEFj_45BwggE0EpVeoz-eOThwttEFmx2li78SjDv0wTrRoue7tBYwyLrM4yyCizAOmzuDdeaUTVThdlM36gwdkVKui85n03LgkVoqPPFRse2XYreKe55TUKk1sG5kTI1EhBk0vfWPabeg0ATC9S6_-MdGhThvd5c2ePHbu_EVOTQbyKBVTYMfA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1445 W College Ave, State College"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
