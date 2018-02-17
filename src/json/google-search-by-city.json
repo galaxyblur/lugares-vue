@@ -1,20 +1,65 @@
 {
-  "city_name": "urbana-illinois",
-  "city_rank": 878,
-  "city_population": 41752,
+  "city_name": "plainfield-illinois",
+  "city_rank": 879,
+  "city_population": 41734,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.1105875,
-      -88.2072697
+      41.632223,
+      -88.2120315
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 41734,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0061162,
+            "lng": -88.0823128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.00747307989272,
+              "lng": -88.07903845
+            },
+            "southwest": {
+              "lat": 42.00477342010728,
+              "lng": -88.08340424999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
+        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAvFk24G4OufRhwS3nIrtX5qrgGukZl4brmaflmcX80lnbHwg_K07XvDF407N-K07KOfZlKc-8LKmcI0W2F0nWUJA8zDpS4e1bXV-cAMXffRlt1ImSHeJ7eSLeWGyb3MGVEhDlXKAQxUhfVbganMc3v0hLGhQtOFcy0UGjxKb6Ta36YhC9R5Dk9g",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "reference": "CmRbAAAAHvwHKMC5EcC1lZ222nf3xMI4BXSm3c2Czy4oWG3x9FK2HB9udRRUUDzTw7tSNZKlgS2VTqPwsJ69pKCsxVPequRB45aLEEa8B4hRbcPq-D8Ox26aDrZUQDf-3XZ363PhEhCkx-EArbuZ58XQnwoO809YGhTCMlovT2fk-4NLyNbblwSzvYOGZw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1154 S Roselle Rd, Schaumburg"
+      }
+    ],
+    "status": "OK"
   }
 }
