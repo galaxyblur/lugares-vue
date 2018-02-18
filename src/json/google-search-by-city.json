@@ -1,64 +1,20 @@
 {
-  "city_name": "cedar-falls-iowa",
-  "city_rank": 909,
-  "city_population": 40566,
+  "city_name": "beaumont-california",
+  "city_rank": 910,
+  "city_population": 40481,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5348993,
-      -92.4453161
+      33.9294606,
+      -116.977248
     ],
     "rankby": "distance"
   },
-  "people_per_result": 40566,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5143264,
-            "lng": -92.4336882
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.51567622989272,
-              "lng": -92.43233837010727
-            },
-            "southwest": {
-              "lat": 42.51297657010728,
-              "lng": -92.43503802989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f9a6246174c48f20375df8e032f28886c205d04a",
-        "name": "Heinz Academy for the Performing Arts",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 429,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110846559704120606076/photos\">Heinz Academy for the Performing Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAGrxHv-l4ktVsbDpQ3Jjdum4Ak0uXrMzcWQUx_vVf1WBuoiz9EifMwh2NP5va9oQDbXpmNmb5zYMSIBhkvpC5mFGdiqobQs8SNd-DXQzogb5lnnaA7AH4MJDT75dub-ZTEhAdHTv1azUsBy-gbzM9xQejGhQwE41qC0Z9C0ZcW2gfi-CF-cII5w",
-            "width": 420
-          }
-        ],
-        "place_id": "ChIJPULeaDpV5YcRViEEsVkEI4E",
-        "reference": "CmRbAAAADVVoEPeT9JMVgAFKhgHlgGJQqOr63po5a_pBM-l4jTh9Q2xIzOMH8iMgZGGdUH6AvQdSm0M5_QaRHOCPit7wwch6l5TT2beGNoKUrwXp5yhHh2jdT_PpaN2aVUdA6Lr_EhB-2iax59gDClJFnjRsB-wPGhQayZhpGUVOYjWuOOTDYp-A17AqzA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6322 University Ave, Cedar Falls"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
