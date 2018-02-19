@@ -1,20 +1,67 @@
 {
-  "city_name": "moorhead-minnesota",
-  "city_rank": 939,
-  "city_population": 39398,
+  "city_name": "calexico-california",
+  "city_rank": 940,
+  "city_population": 39389,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      46.8737648,
-      -96.76780389999999
+      32.6789476,
+      -115.4988834
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 39389,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6170048,
+            "lng": -115.4052545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.61835527989273,
+              "lng": -115.4039315701073
+            },
+            "southwest": {
+              "lat": 32.61565562010728,
+              "lng": -115.4066312298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "27806084d7dcd1607a48c4a3bf5d83ab14a4f137",
+        "name": "Capoeira Brasil Mexicali",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111043538642937907494/photos\">Promocao Sanchez</a>"
+            ],
+            "photo_reference": "CmRaAAAAbzi5JRjG19VDMktCVBzVJFC_bgxYuHA2YBpx1SfRx5-0diUorn4UR1OHpe7igg_p2P4FPf08-YmnbO9yG-ox1f48s1x7IaGA4xe_cm4zF_-f6VuDR_UOwvjtfoWN6Qm7EhCYBuOIe9Lw5-oDtVkuddgAGhQ1fIcivsKslwd2E92qwKHAanjnyQ",
+            "width": 4224
+          }
+        ],
+        "place_id": "ChIJJ9wzrTlx14AR2sMWqZ7_zOg",
+        "rating": 5,
+        "reference": "CmRbAAAAKop1WIY5CPxl32qO_ydOB4HaH_H5OHgnEzEBmo3AZ-b-XDv2AzXPgj_jMgzYqhnGUtzezIZ5IhW6S6Gs68weEpxxg9bVlYkfSDwlkNszXNGVqJH2YqTzV811_yLUgXZoEhCkzlGKm5uZZMZqK1yYETnzGhR9Nsln77_fj7BBFw-k02giwC-h1Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "y #2004, Bulevar Venustiano Carranza & Villa Avenida Valle de las Mariposas, Villa Bonita, Mexicali"
+      }
+    ],
+    "status": "OK"
   }
 }
