@@ -1,20 +1,115 @@
 {
-  "city_name": "bullhead-city-arizona",
-  "city_rank": 941,
-  "city_population": 39383,
+  "city_name": "germantown-tennessee",
+  "city_rank": 942,
+  "city_population": 39375,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.1359386,
-      -114.5285981
+      35.0867577,
+      -89.8100858
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 19688,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.071982,
+            "lng": -89.9617553
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.07286612989272,
+              "lng": -89.96054282010728
+            },
+            "southwest": {
+              "lat": 35.07016647010727,
+              "lng": -89.96324247989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f2ff5c4ff6fd30493b6c3ec24095ac3be55dd85d",
+        "name": "Memphis Parkour",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110519125907676273022/photos\">Memphis Parkour</a>"
+            ],
+            "photo_reference": "CmRaAAAAV34GBazGKTrjf4No24fqkQZA5ieKMltM9SSDZm3G5D2uOgRhYJkJFsjo1VIq7azZXnMMo_4MUp2bpufKslFXYKGTPbsdD2wAQlXsamdYoWcAqYl4Vo5bjnxmMUfSP5_WEhCA1iagy-OzbRHQvp4aEzEAGhTo6QfcpHnIk3TxHPXMYqAQQVVj1g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJvecCp1KGf4gRKom8nFltO9s",
+        "rating": 4.5,
+        "reference": "CmRbAAAAOH8Hqh-KhNohxjI5mtjHWMLgvHIGe4Pvn6yqsfOzgv52xoi21XpUnaJiZz3P3G_Wn5YbhIT5fxUb7XuOcjLTC-lAxoxPtp1ozsEmaFQ8H3n3hRcue6U4lX1sNpct2UxuEhD4cFgzzuPa3RYvwwu-53t0GhSD5gWHHKcPrXhn7_fkfdAtxESO-A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2850 Lamb Pl #1, Memphis"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.136744,
+            "lng": -89.991625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.13809382989272,
+              "lng": -89.99027517010728
+            },
+            "southwest": {
+              "lat": 35.13539417010728,
+              "lng": -89.99297482989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7ff3d1df5c92c81f340edee6ba84fcc0d8397cc7",
+        "name": "Delta Groove Yoga",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106819149294987604731/photos\">Delta Groove Yoga</a>"
+            ],
+            "photo_reference": "CmRaAAAAvjIv6cnWM38DkLbpp2dTnsylqvPzQyjHnB8Qn-6TEkNsb9FwQ4tZ06vea_4V5uwhmLChUGdFL0T_boAEnISr6J5IvK-yl7CLFcO0jJUs0PUCp2drYMNlFH9Gxi7W0pvEEhDRBB1ZtLAuu_K5u2M7FzEKGhSEoqL-oMa7Tq4E5qaPRnrmzy13gA",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJYz-_66-Af4gROzjK9GAtA4E",
+        "rating": 5,
+        "reference": "CmRbAAAAJd4ph2kfauqfH8WdO0Uc7qyf2aYDyQxItfkEeYn-2kfN2X8I03kCf1w9zw4HfAO4fkju-9QcxQa_ikKWk93jxBFlIEi8dNUYV-h1VIRZ20mwXCaXUXRhq3UAaXOlsu2rEhBCKx3XBeXWQcDvavTaBn8DGhT--RoCgmDUZrUpy84r_ZcCqLauEA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "clothing_store",
+          "store",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2091 Madison Ave, Memphis"
+      }
+    ],
+    "status": "OK"
   }
 }
