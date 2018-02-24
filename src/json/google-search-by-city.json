@@ -1,145 +1,138 @@
 {
-  "city_name": "tampa-florida",
-  "city_rank": 53,
-  "city_population": 352957,
+  "city_name": "honolulu-hawaii",
+  "city_rank": 54,
+  "city_population": 347884,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.950575,
-      -82.4571776
+      21.3069444,
+      -157.8583333
     ],
     "rankby": "distance"
   },
-  "people_per_result": 117652,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 115961,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.991793,
-            "lng": -82.517893
+            "lat": 21.2994672,
+            "lng": -157.8560146
           },
           "viewport": {
             "northeast": {
-              "lat": 27.99299192989272,
-              "lng": -82.51654552010727
+              "lat": 21.30084542989272,
+              "lng": -157.8546260701073
             },
             "southwest": {
-              "lat": 27.99029227010728,
-              "lng": -82.51924517989272
+              "lat": 21.29814577010728,
+              "lng": -157.8573257298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7308012595726be272f9af7011651aeedc947381",
+        "name": "Capoeira CDO Hawaii",
+        "place_id": "ChIJkxwD_eFtAHwRpgvMhhEevNw",
+        "reference": "CmRbAAAA9ajFDw0FldIHaesxMYhyd9BzUzp_gHNlNV70rXsutxgplegRUCuPUZQzaqrLe6lujQP9J_BkFjwOJwF7NERwfybpLdQqoumKYHRGVY6orEifq2EzRzl6CbwEbA1UJ5nsEhDz_5FKZ0rVG0WvE8g9TIl9GhQa164hKB5DWy5o9o9cbt6CNjdaIA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "670 Queen St, Honolulu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 21.281869,
+            "lng": -157.784375
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 21.28306192989272,
+              "lng": -157.7833425201073
+            },
+            "southwest": {
+              "lat": 21.28036227010727,
+              "lng": -157.7860421798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b41002ad6924495135f13a9d1d9c85d5b1298453",
-        "name": "Tampa Martial Arts & Wellness Center",
+        "id": "22a0778e75884d245ce6886bf490b247f2d42a32",
+        "name": "Capoeira CDO Hawaii",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1536,
+            "height": 661,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105814300938925993495/photos\">Tampa Martial-Arts</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106336724379228260345/photos\">Capoeira CDO Hawaii</a>"
             ],
-            "photo_reference": "CmRaAAAA-WcHGOSq9UwW8FneYMSw94BcYFOmaPaOEj-Ilkad3piZOFjqkyOpVI6WCDo_X70u9ts0NWoCznHDP6MLADHi33l_kGPkWcsZqYTWI8qxxPH3lawHYO3AB3HwNwblcxpBEhDmv2nuuzK_yFCLsKTJbJaLGhQ9SmPuSS1wiJI0YQMvx-wN7bCJ2A",
-            "width": 2048
+            "photo_reference": "CmRaAAAA4ocr2AHD-_zew7aAcpmCy0g2TtNjVGqhez1PNeF5rNa3ObcsT8KDHhGBNwzuItEMnK0JjoReI5lZK_KsDsWxHJxbS2b5w4Dt9Z8ceTjivBH9MT0Dai980fG8d3DRNp8bEhB-6Egd-uZwcSVgqQ_bkmlJGhTqioLCobdFOb4Ou75nO8kpa78nFA",
+            "width": 960
           }
         ],
-        "place_id": "ChIJwTDjudLDwogRgsSsv_zF37w",
+        "place_id": "ChIJS0_jcWRuAHwR8ARKEhsGDcM",
         "rating": 5,
-        "reference": "CmRbAAAAdf0zZeKNZur1OL9RdPXrqnXk6tA405hqbkUTNZHAtQf5jm3AQe8t48hEMHdbQgs-GJKKmaFyRaBcQTLfU02U9B-SNl5kvjJnG9LL1wLGGRd6h0GPZ3OXdsYnK5OM1euBEhA-vdzYAKvOyxntZECCVkQuGhTuiTzm6yvCy7pLCswxN_-9zH-tuQ",
+        "reference": "CmRbAAAAgLBCvYr3wmzUdfICMYBQNozzOE334nCE8DQKJZKNhBle22nuiAURqQuqDO_WLJW6AlVboB9yb10ElKjzbiD98zTkG2rNMR4TofMzlRjiINHj4VXCgg2w4BsQTJwFBYNHEhAlxHv-Pv--LNy6akyjcSfSGhQb7pFEkK7btI0r3ID7dy2eziiqRw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4405 W South Ave, Tampa"
+        "vicinity": "4901 Kilauea Ave, Honolulu"
       },
       {
         "geometry": {
           "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
+            "lat": 21.4154166,
+            "lng": -157.8062754
           },
           "viewport": {
             "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
+              "lat": 21.41689027989272,
+              "lng": -157.8050163701073
             },
             "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAAAC7CS8qfh5n9EhLazHST-Pmfl73eFSctFOKlyicmB04B2JV--K2VfYgcyPNFbh_BwhARUI52NODPWkXfIXLp8531towoGg7K8NdJKN3z6rAzw_SZrmj9MmKQH7wbLf67EhCvUa2JMk_XUAZAVSo0BoseGhT4KCzMWeYJpF6al-BzX4z2fjEHYw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 21.41419062010728,
+              "lng": -157.8077160298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
+        "id": "b3e0ba90c5726c62f7f44fc57057f169a10e1b90",
+        "name": "Association of Capoeira Besouro, LLC",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
-        "rating": 5,
-        "reference": "CmRbAAAASH0WsGeFuAxc8Jy9LNEbOUeJiqUj-VLIEb9cWO_JEU6PVee2Up0x2TdXoj1BCEkG6pQZId6niC3aa9Y3R27ii8VJIPIYXG5Q3BOHiKPYm--cOSxfI2V7VN0tccnSbk_zEhCyuZNxKz9eLeCpANcDld-0GhTm_LHemUmB3_-LcrVy6SSABVobjQ",
+        "photos": [
+          {
+            "height": 1543,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113369733821068223345/photos\">Association of Capoeira Besouro, LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAEiMiRjH6J3hJaRTomRQWV6eFIJp_fQqHFXTbQEUUuO8Kr9hCBSA9mD7FRvNyn6LvkmQQrFz9cXxSRovK0iOlJGKaWn55d0ArGfBR17czujgeYdyt6OHOIFEgtb92OI-eEhB5BAVjDixQiRMhWqcacJrNGhR-Ocr8z3tjuAnuNutKvtulA3eNFQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJf-8Uu6xrAHwRciQ7_zGQZdw",
+        "reference": "CmRbAAAA9D_CHeE_PwHe-5a-7oHQjlftLrsMbSvhh8ZdssQSzQcRfE_z6kboR1KfkeTe_FjfndcCrClX4MZtC_7nmAIXDj4FsftOtEfmB4TTjCj1UaCngKX1xFX02XoaAEQcgbYrEhCsnW7LpVIxrh46kY-0-cLlGhQL3A_m60-293mTmfmLdUieQKRx8Q",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "46-208 Kahuhipa St #3, Kaneohe"
       }
     ],
     "status": "OK"
