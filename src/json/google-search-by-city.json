@@ -1,16 +1,16 @@
 {
-  "city_name": "lincoln-nebraska",
-  "city_rank": 72,
-  "city_population": 268738,
+  "city_name": "buffalo-new-york",
+  "city_rank": 73,
+  "city_population": 258959,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.8257625,
-      -96.6851982
+      42.88644679999999,
+      -78.8783689
     ],
     "rankby": "distance"
   },
-  "people_per_result": 268738,
+  "people_per_result": 129480,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,77 @@
       {
         "geometry": {
           "location": {
-            "lat": 40.8142834,
-            "lng": -96.7568112
+            "lat": 42.9113566,
+            "lng": -78.85903239999999
           },
           "viewport": {
             "northeast": {
-              "lat": 40.81540962989273,
-              "lng": -96.7554585201073
+              "lat": 42.91261912989272,
+              "lng": -78.85768472010727
             },
             "southwest": {
-              "lat": 40.81270997010728,
-              "lng": -96.75815817989273
+              "lat": 42.90991947010728,
+              "lng": -78.86038437989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e6c87a196048832b5fa1d67c376299b99f0833d4",
-        "name": "Capital Aikido",
-        "place_id": "ChIJzSXEqZvAlocRrueTu2kU2aU",
+        "id": "e6eeef9db0cdc5508e5a24ae51ce196d43d6436a",
+        "name": "Capoeira Mandinga Buffalo",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 262,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112805290222847997772/photos\">Capoeira Mandinga Buffalo</a>"
+            ],
+            "photo_reference": "CmRaAAAAWA7mjXk7uwixYnFVEcIppTjLmu8tSbBBRrVj__epkDREN_S-Y4PS3xsIpgbWmH8eNCMmVga8F4niYBni-b6fRSXa2sckwRVfSBtEs4jAv19EXWhIfg3oluGkhyAncNitEhBR1WhfNlsgqbbQbzcgFEcLGhS8LcHH4bE_APvheDe_Gram06o2rQ",
+            "width": 288
+          }
+        ],
+        "place_id": "ChIJT6cvlRsT04kRfxPizgV4qzA",
         "rating": 5,
-        "reference": "CmRbAAAAUvOU5ptKY-s2ZHJuYQdJVRajvl7_b3F9CFFednNK5Ky3DZnqgNkIY6XiVBsyMRCFhECWSS7B0OW0fxGUtaXew5GsH3_oY_SgcFptJV8PqlvUXtwd7n_PcQxy_8ikdG8SEhAME7H7J3HoHbD1WhJEkTQpGhS2Zr_L434IGXnPOh7mkJcC8Rgw6Q",
+        "reference": "CmRbAAAACBEIlGDau7bAZnNQOv2th8TKRWXkTdLJ8rfj-sTzgygibnLcbLTj2qjRfsL2Uw9b49dKi69PwFSor2CVjKtelpDKp5cZB5zo_YMNJxgol2ygDVNZqOOXTQv7HcbSbxSEEhDwRCWCfbmyrfn9DAb-uXMQGhQfGw988N_8vbwX80bbtOK3Za9yUw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2540 W O St, Lincoln"
+        "vicinity": "226 E Utica St, Buffalo"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9195488,
+            "lng": -78.7844939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.92089667989272,
+              "lng": -78.78302572010728
+            },
+            "southwest": {
+              "lat": 42.91819702010728,
+              "lng": -78.78572537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6abe338d2aaddcdde442149944bd8f84cd3e743e",
+        "name": "Capoeira Mandinga Buffalo",
+        "place_id": "ChIJR6kOCdsM04kRX6m-cmOAhT0",
+        "reference": "CmRbAAAAVnO-OYSbBsWWOCiIlWCOfz9bFx5oZWkW5aKz_cuPPPxiPzOX03yAgdEd69oeGPwaocAGmgV2L0TCR3XKbc2BWTDUQs3i9F1J23t8dXU0VxjRR7-kOtWzG5igIaUWGMrJEhCIRBk7HL7I499WHpRZUtdKGhR0LJ7l-MrQEIHRD_W5JDGtOq4z7w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2773 Harlem Rd, Cheektowaga"
       }
     ],
     "status": "OK"
