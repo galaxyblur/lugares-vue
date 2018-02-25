@@ -1,20 +1,111 @@
 {
-  "city_name": "toledo-ohio",
-  "city_rank": 67,
-  "city_population": 282313,
+  "city_name": "greensboro-north-carolina",
+  "city_rank": 68,
+  "city_population": 279639,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6639383,
-      -83.55521200000001
+      36.0726354,
+      -79.7919754
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 139820,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0659217,
+            "lng": -79.78732839999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.06724367989271,
+              "lng": -79.78606477010727
+            },
+            "southwest": {
+              "lat": 36.06454402010727,
+              "lng": -79.78876442989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0c23477934e06c0caab7062516a5484b929797b0",
+        "name": "Free Spirits Yoga",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116038203108220024863/photos\">Free Spirits Yoga</a>"
+            ],
+            "photo_reference": "CmRaAAAARjvSqEWbXNmpPW-EQAcGhdgNwhroVNfOZ3wqYnxst4qqM1cf2ryAkiLJDajweoHoFv3x1UWa1sL3qLJTpF1pIc8nOXWm84jw0KspTKFqxtr1ealH_T2eTVdqZW_BOkBIEhBwz-_OrKpeR8GjtvmKoCAZGhQ8FPHo3mwtap76wDTf5QhzVVcxvA",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJ87TtMyAZU4gR4GpDror12wc",
+        "rating": 5,
+        "reference": "CmRbAAAAjr8kbvimiQ1R8SBRgGWrf7SV8S1zD5sYUquRinK_Msk_feo7_HCJkV29mib_q6ta-UQp1-GC-SJ5ZsAgRCkDujYmdogAffgs9igxInHCXJ_D6VwgeQDniroN520O3fWpEhACwUcv0grHcvAfphmx-gTxGhQjUPh3Oa8RLDKcb7S_nP4ZAzNRUg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "337 Martin Luther King Jr Dr, Greensboro"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0792008,
+            "lng": -79.7995933
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.08044037989272,
+              "lng": -79.79829967010727
+            },
+            "southwest": {
+              "lat": 36.07774072010728,
+              "lng": -79.8009993298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb27c8d665f02b42041fa3d5e6da48ce8eb28d77",
+        "name": "Artistic Motion School of Arts & Preparatory Academy",
+        "photos": [
+          {
+            "height": 683,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103404891184088948640/photos\">Artistic Motion School of Arts &amp; Preparatory Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAwDwgg-6VrHj8elQ0SE9BVujX-hreCgExq25INi7S2R_S2IWldR2Bn-V8ZZFewcsE3p3L9B7YM6IM-AbyP08r_LjkS0QXfByaMswlGMV7EQXRJVKy_soWsRUYcn5dvavoEhD5turFsAjLUYarvpFGqQnGGhQgD_4-fV2hwHmjLVz8o6aoqlgTaw",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJdXdLfM0dU4gR7AsW2LNWbm4",
+        "rating": 4.7,
+        "reference": "CmRbAAAA_WNjszYYufYKxAPAKglKXQp4rBaFZUbT0INhrWecEqt90A83gVBT9TPhZNQ5mfg7y6ogy8DF32Pudf7m25zjsSk53OhvHpiSucXzHM-ICU5438wqmEa5HbRIPZvf2RgJEhBuJZqSM5pZi5TKXjs8qLdPGhRTNbJ5RF50u0p7-4RSVDoh0rLq5g",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "800 W Smith St A, Greensboro"
+      }
+    ],
+    "status": "OK"
   }
 }
