@@ -1,16 +1,16 @@
 {
-  "city_name": "rochester-new-york",
-  "city_rank": 103,
-  "city_population": 210358,
+  "city_name": "des-moines-iowa",
+  "city_rank": 104,
+  "city_population": 207510,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.16103,
-      -77.6109219
+      41.6005448,
+      -93.6091064
     ],
     "rankby": "distance"
   },
-  "people_per_result": 210358,
+  "people_per_result": 69170,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,123 @@
       {
         "geometry": {
           "location": {
-            "lat": 43.1504441,
-            "lng": -77.5696032
+            "lat": 41.589111,
+            "lng": -93.61058
           },
           "viewport": {
             "northeast": {
-              "lat": 43.15166502989273,
-              "lng": -77.56831417010729
+              "lat": 41.59042292989272,
+              "lng": -93.60943132010728
             },
             "southwest": {
-              "lat": 43.14896537010728,
-              "lng": -77.57101382989272
+              "lat": 41.58772327010728,
+              "lng": -93.61213097989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e9752276a77285c8c5ed021c171a3fe9802caa8",
-        "name": "Capoeira Mandinga Rochester",
-        "place_id": "ChIJBYcBeIK11okRRQ459aPhafM",
+        "id": "c0eb58faf915e1c1a04e0a68e7121e121f880ad6",
+        "name": "Gateway Dance Theatre",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJG_QFGbKZ7ocR-5KzZANOCyU",
         "rating": 5,
-        "reference": "CmRbAAAASS5v0WeOXToi4yfbPox7h3wkHI1caeuHmGST9XCzxeQJt0W5xOLKNA0H0hpdD8KWXSLRz3YWtZIIeKDUPiM3ewdhjMjqE4YzRda7iYkmBTVp1V22lrPTeK0UxdESlKx3EhBQSuuo3XERTP3cstdPN-c-GhT6S_5GQRALMMrV5HSSEYUF6Ai_tA",
+        "reference": "CmRbAAAAFjUOe_9oc4kyjup62DrgHMexK6fmsjJegkhZAEBX93z2tqLik6ZVLkipwi3LDdXzXw4VznSNF0kbtmQRebyUNgGF6XkSEWJtOkNcVAQ6mZeCEhiadDVZxCgDPrWYxE4vEhAIep40V1cPshcirf9tbV04GhT268Gnol45-jkhGzs82XnuE0cfJg",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "46 Sager Dr, Rochester"
+        "vicinity": "315 E 5th St # 12, Des Moines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.6085065,
+            "lng": -93.63131609999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60985552989273,
+              "lng": -93.63020422010727
+            },
+            "southwest": {
+              "lat": 41.60715587010728,
+              "lng": -93.63290387989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "259d59a5d4f14030894088a9b35adb0d1f33cbbb",
+        "name": "John R. Grubb Community YMCA",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103960499198126366361/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAFsZu5zlYBDE1XikOBI3-Rbdd02kmJ2O2Yb8ZERS2oxVlmFrMgDDV1WNpdov7zA6oGOo9Jgth0jDbrwncZGuz-4icM4XC9uZmEGcBVgrJKqiLLxb41jXE-lpC6aSXwqLvEhB2t-TyJzxOZfgM8ImZrsTOGhQcJ9WC1iSxLBHkcn49Z9h0DmnXLw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ40yIA3KZ7ocRPkgDzcuS9Bo",
+        "rating": 4.3,
+        "reference": "CmRbAAAAMgs9V9HmdG_RNQZNBk-UuONn7ldFGdzWl_kuF8Ht5GwwpZ-06sVqepMlejLUQDwmmEyjo-2JVekDwJMUxQ2FG8SH_6y0qiqCoDiVVqdFh4rAc2eIbhdPEAqMs9EWdUrxEhDaAgq_uP29_zMl2YLZqPbTGhRT3Eb2XcbM0wu-Ny-_EtiQxwqRwQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1611 11th St, Des Moines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.56862599999999,
+            "lng": -93.73545999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.57036827989273,
+              "lng": -93.73452062010728
+            },
+            "southwest": {
+              "lat": 41.56766862010728,
+              "lng": -93.73722027989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d88df274d8f779b11ddb3c029883a3691dce32af",
+        "name": "Des Moines DanzArts Studio",
+        "photos": [
+          {
+            "height": 2952,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111451524218540130035/photos\">Natalie Bensley</a>"
+            ],
+            "photo_reference": "CmRaAAAAeODKeGmeeqO87si7it9zZbazRkRzyDAYXgB82JtSMf9Jg47Om15vwoLu7oEPFM9-RYBQgYIJ4KzyVNlALjVoUrbvxBTayHK1eimOPaBWHMlJSi32dt8g_Z3jRv1vDwLGEhDfwjN_hF-fs7kTC9RbT9x8GhSUdIHh0d5AZGgUADj9iwy65RunAg",
+            "width": 5248
+          }
+        ],
+        "place_id": "ChIJFepP-tqf7ocRfuAOBB-WDfE",
+        "rating": 4,
+        "reference": "CmRbAAAAlGaXX41jz7TLC23jBOBKzKZ-ZmU83AsPOriw_q7JtwjMSGjcH2IhY8_Sw6kvGeLlK4eJZA2kElnYTRf2y_1iLhU2pLbZow8glhZaeKxV5efAKBcNy_5II2MJWsdXPf3zEhBpmlSCBjvZtqtj7jzK62kuGhTzVzbFiegM-mBFlK2JyVfg1iAzCg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2150 Delavan Dr #8, West Des Moines"
       }
     ],
     "status": "OK"
