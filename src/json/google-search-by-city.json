@@ -1,65 +1,20 @@
 {
-  "city_name": "richmond-virginia",
-  "city_rank": 99,
-  "city_population": 214114,
+  "city_name": "san-bernardino-california",
+  "city_rank": 100,
+  "city_population": 213708,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.5407246,
-      -77.4360481
+      34.1083449,
+      -117.2897652
     ],
     "rankby": "distance"
   },
-  "people_per_result": 214114,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.53547200000001,
-            "lng": -77.561272
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.53678167989272,
-              "lng": -77.56009852010727
-            },
-            "southwest": {
-              "lat": 37.53408202010728,
-              "lng": -77.56279817989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "42b581112dda7fac175f9e0c5358f18070107e88",
-        "name": "Capoeira Resistencia",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100180166960998838604/photos\">Charles Giles</a>"
-            ],
-            "photo_reference": "CmRaAAAAjQ_UNripi7p_HedL0lZlffy5WeOm19pRSvlagFiDPjUbbfMD0P7osGTA3FOAiLpTfbgik0QtBaTDZUWKa6P_SUqhO9o5WNTXcsDELhaigIkcW9TcBz3sKHfCbu_7cSpeEhBnY05twJ-oeeWpqUXzbsmhGhTc_uOylijHDkh-NjeqQMTfT0Xg0A",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJFWdNVysTsYkRe9XIcn6GnEk",
-        "reference": "CmRbAAAA_RmD2_wSpjUwq2tgNQ0de5DAz2dboBEXXsF44okHLuO1bL5-YHL7fBAwsi5FA47gBRX0yXqC46I1lt3CQ6-FDJnM597yIptTKnYMW3ZzGR2L0n0KO8Dd4wIrGt5hJxwnEhCzMMR82Rv0hVj2TX4x7r4tGhRmPjMZFVCHKD9clu9tWdr6Na_jYg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2723 Buford Rd, Richmond"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
