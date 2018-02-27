@@ -1,61 +1,20 @@
 {
-  "city_name": "tallahassee-florida",
-  "city_rank": 125,
-  "city_population": 186411,
+  "city_name": "huntsville-alabama",
+  "city_rank": 126,
+  "city_population": 186254,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.4382559,
-      -84.28073289999999
+      34.7303688,
+      -86.5861037
     ],
     "rankby": "distance"
   },
-  "people_per_result": 186411,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 30.4616558,
-            "lng": -84.2841078
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.46300562989272,
-              "lng": -84.28275797010728
-            },
-            "southwest": {
-              "lat": 30.46030597010728,
-              "lng": -84.28545762989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6228d0d43fdeca35ce41ec0583885fb55baa6409",
-        "name": "Tallahassee Capoeira",
-        "photos": [
-          {
-            "height": 333,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108091637037363536281/photos\">Tallahassee Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAkrasQdj27tBnLqUjfzcLb4yEgzGWoSwd8qfl6l5lRJTmPsmwo9YSlO1nCaHzNOwJJ0t4NLvMX4fvrtvkG14-ISVHib5T-FaTEleLVC3lbrtqQV9o_n6d_w3sphHeB9yiEhBMhFamhdUmN1D2SK9fwDGZGhStesYugZtWDeaNDnaCdWj9A7DOZQ",
-            "width": 500
-          }
-        ],
-        "place_id": "ChIJ3Tqh9L_17IgRn_yrYrtML7U",
-        "reference": "CmRbAAAAzqA9dK3PGEAqC7D7POSSh7EyxmdmqFkaFXlZWNE8kW2DCTEx3WZ17IdIhzbrg5taIGSFBcUsCa2U-30AjLsYwFAFyxAS9p4CQdeUvXP48e6MPni0WqkwiOFEAMh8MJ3jEhDe-w8wNtG5ikatpYy0Q4aXGhTK-vblrpv0GakUjqTzTFyZJi3HTw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1660 N Monroe St #3, Tallahassee"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
