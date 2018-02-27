@@ -1,20 +1,112 @@
 {
-  "city_name": "chattanooga-tennessee",
-  "city_rank": 136,
-  "city_population": 173366,
+  "city_name": "oceanside-california",
+  "city_rank": 137,
+  "city_population": 172794,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.0456297,
-      -85.3096801
+      33.1958696,
+      -117.3794834
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 86397,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.1282599,
+            "lng": -117.2572792
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.12961467989272,
+              "lng": -117.25625745
+            },
+            "southwest": {
+              "lat": 33.12691502010727,
+              "lng": -117.26034445
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9c0b017c36161e1039e6510786785c341813d44e",
+        "name": "JCS Fitness Ribeiro Jiu-Jitsu Carlsbad",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 801,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106419267564030968977/photos\">JCS Fitness Ribeiro Jiu-Jitsu Carlsbad</a>"
+            ],
+            "photo_reference": "CmRaAAAAvciUXdDrK-dt9ah0_UnW4lmggCQB_3Z_AyVYms3FHcviUQsvbGa-2b7tMQQOCzjxeLX-7zzPyLjwJ5nJ82UQPazTva1oIlZ-1JR7sclpE94yJDf5YoPrcSh781Zx8veuEhDNM69JsW_rsmG_S3Lz6YNfGhTPKw1ldgIGe_mkL2-tfd_FVrjZEQ",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJG1sFZ6J03IARXHO8-WpeR_E",
+        "rating": 5,
+        "reference": "CmRbAAAARK-yIzTn-8mr6UiBk1CL3AiZ2rWahL_1JvnH0LAGI_8JlD9fnElS2nNYCTAUiKYY8CcS69asDVVi48DFlpSejne8buWMvqHRoiFKU4mDLTIoQwn_flwz101vbHDjBBPmEhDI98wKGJbqImXHEuftnAYOGhS1_wTz8GmiOwKbvYEjuohtG_WYxQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6158 Innovation Way, Carlsbad"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.8017431,
+            "lng": -117.2364357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.80263287989272,
+              "lng": -117.2349484201073
+            },
+            "southwest": {
+              "lat": 32.79993322010728,
+              "lng": -117.2376480798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "642f28df5748dda714469f85df04c1425a66dc33",
+        "name": "Capoeira Mandinga San Diego",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1554,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114470844655637669893/photos\">Capoeira Mandinga San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAAWmSZMKV3PoCn-Du7Tfj7WFadC5zDjpPiEhFfR3E-mxEGp12fGJVkYsEuHgrUf4K1COafQ-964ESIZCc8KOXx9RIMttV2rbjYsToqpr7LZVI2KtkrHXjOF18mEwJXsJC8EhAqQ49tMJF0f0We5okuM_RgGhQKWS4ZyhT-4bMFZgAKJj7dZrifzQ",
+            "width": 1472
+          }
+        ],
+        "place_id": "ChIJZU5gGvGq3oARPVjx2V1qUfA",
+        "rating": 5,
+        "reference": "CmRbAAAAl9RGWilRYlOjYljgvaArOp5RZb4hBXfA2y5O2oFwJnx615HdRk8PcgK6B5Zw2mjwIrjPJ2DeEAnOYqEZwnAK-UuZ6wGuhJ_i7x7U-mKfINSYdFKwUYcEgtF5-Rc7GYYcEhA1rukUizpWibXrlU3-qGHzGhS9n03_oCk1gGLChAOOf_5xISsJ1g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1880 Garnet Ave, San Diego"
+      }
+    ],
+    "status": "OK"
   }
 }
