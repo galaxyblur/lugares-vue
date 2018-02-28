@@ -1,20 +1,101 @@
 {
-  "city_name": "lancaster-california",
-  "city_rank": 153,
-  "city_population": 159523,
+  "city_name": "corona-california",
+  "city_rank": 154,
+  "city_population": 159503,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6867846,
-      -118.1541632
+      33.8752935,
+      -117.5664384
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 79752,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.9893437,
+            "lng": -117.7160085
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.99068407989272,
+              "lng": -117.7146741701073
+            },
+            "southwest": {
+              "lat": 33.98798442010727,
+              "lng": -117.7173738298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e432d7083eb1b6b23d0ea1ecbb551bfcb4773bbc",
+        "name": "Krav Maga",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJJ3aHGkjN3IAR_ZzkJJM_UX8",
+        "rating": 3.5,
+        "reference": "CmRbAAAAqcJxONVs7T9Mu3UUOo0sAnPFmGkOnS1YAacuiXScAeVNchohQccfxGD-CHqI59NjRzM1W23yXjvsW2AVbAvoMue_86T1E3_6-dOTDInYE64o2NmGbY9UYtH6kWEC3nM0EhD39KYG1jMSIVKOzB9SnmHPGhTcVUgkS4ORl-yDwBfSkaDpEYLnwQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "14610 Pipeline Ave, Chino"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68195412989272,
+              "lng": -117.7772291201073
+            },
+            "southwest": {
+              "lat": 33.67925447010728,
+              "lng": -117.7799287798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAA-BKiSxSxWznMk2kyqLK5MRLkkkp7cBhVhFYauvXR5B0srz-nIvMiRa4sgBAM59RXawEswxVH6Q_MXbcbyYauEuVbk3Ew4j1dEbidJxUAd4I3KAYypaiuyb0-c9yaSjQLEhAxzrfXqZJu3Z9sYZ7KlLeSGhQZczdDEjfPzFOe7SmOPtwyfqbfwA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRbAAAAyefyxJrEz28D6ejJEpnhl-GdBwr-Jt3OCLqm_r9v_Olwx_uQj8bG6I6tn4vWmcUFf-I7zMUB24k6H8-BcbV2iB-jkB8Pq1wKZhZgejtFHPLRlpHPWt2sATDTUOWxqZR5EhCSjjVg0DJ3Z4qKvhOKY-a4GhR8tnqX0F7orfaP9z27kjIjGfC7Ng",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      }
+    ],
+    "status": "OK"
   }
 }
