@@ -1,20 +1,113 @@
 {
-  "city_name": "cedar-rapids-iowa",
-  "city_rank": 199,
-  "city_population": 128429,
+  "city_name": "charleston-south-carolina",
+  "city_rank": 200,
+  "city_population": 127999,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.9778795,
-      -91.6656232
+      32.7764749,
+      -79.93105120000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 64000,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.859238,
+            "lng": -79.797057
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.86060352989272,
+              "lng": -79.79588652010727
+            },
+            "southwest": {
+              "lat": 32.85790387010728,
+              "lng": -79.79858617989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b9157796cf55c6cb6e98049f45cf85e04d6912de",
+        "name": "Low Country Karate",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101908818803443131738/photos\">Greg Goode</a>"
+            ],
+            "photo_reference": "CmRaAAAAddirzIjf86ca4J8MpiZqLpAeROAY50_FBHrMr2dYrtZ3zHxx71UqwdG1cQBP5jnbIrSQcOUs-AEGt65VTedC1ozuQ-qbi7-4iuXdnO3ukpp8Ozjm_kjm1ZG9kJ7m2WVWEhAw9RO6XjO3e6z2yA7gAmjRGhSXxtcLnIZEyXAHolBUWbnJLQ6j7Q",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJWY4DRJJt_ogRxspGf6vdiTE",
+        "rating": 5,
+        "reference": "CmRbAAAAP5T16a_8jDpoNpGQNAd6DtOpDRl0hufDjjKTOqh53jYDx45t1w9l9WpQOpvXt-UXzWKZ_peMV-Pc5SjPYZbo29HayuQPxps4QBwgJdiIllSDyv__Wu0QtCNZU0Un46gSEhD-4OtmAc52H2masGaSrAlIGhS3_qyuIQMkEaBIK6pi0y3TQUmnow",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1031 SC-41 #100, Mt Pleasant"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.8635886,
+            "lng": -79.78955789999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.86474882989272,
+              "lng": -79.78802602010727
+            },
+            "southwest": {
+              "lat": 32.86204917010728,
+              "lng": -79.79072567989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0ea44494b609438c89f23952a5440b71e417ecb0",
+        "name": "Palmetto Sport Karate",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109662614856736220541/photos\">Palmetto Sport Karate</a>"
+            ],
+            "photo_reference": "CmRaAAAAr43Dexihhi8LWZRF04gqGx9b4sYDzN8LKWfUgIcLef7kv_kuKEuU-FqjD_J6OJNmqCOgRhURQX9L4QNn5VfQYruLvqXusQqjaRc3OJnmS5RxRxFEmkEKg9RFZx86oHJuEhCR4CxUPdcotkUVJ8vJfJB8GhQbpssnWhyi1ZMdvKXLUmxA8ykvwg",
+            "width": 1152
+          }
+        ],
+        "place_id": "ChIJg1qm5aFt_ogR61eQDnrJfsU",
+        "rating": 4.7,
+        "reference": "CmRbAAAAZ4mNqkt8wwRjeBJuakZkhhbM-E-Q9P5voRSJafkIyn8Cpa7Zuykrj-IT3R-s47GUG0VFCYq5qGjmve_ruLiqGtF60hOaewVRyodUlXaSXxouqA22BoSqkEPYUNJgFU-kEhDb8BZ-42eAaoM2js_9CcpDGhRn8OwgspBNSPOMQYH97GT65xWtzw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3040 N Hwy 17 b, Mt Pleasant"
+      }
+    ],
+    "status": "OK"
   }
 }
