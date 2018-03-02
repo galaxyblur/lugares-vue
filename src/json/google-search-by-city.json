@@ -1,154 +1,376 @@
 {
-  "city_name": "warren-michigan",
-  "city_rank": 189,
-  "city_population": 134873,
+  "city_name": "bellevue-washington",
+  "city_rank": 190,
+  "city_population": 133992,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5144566,
-      -83.01465259999999
+      47.610377,
+      -122.2006786
     ],
     "rankby": "distance"
   },
-  "people_per_result": 44958,
-  "possible_duplicates": {
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ],
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ]
-  },
+  "people_per_result": 14888,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.4602986,
-            "lng": -83.1370883
+            "lat": 47.63283089999999,
+            "lng": -122.1378364
           },
           "viewport": {
             "northeast": {
-              "lat": 42.46177327989272,
-              "lng": -83.13574542010728
+              "lat": 47.63418032989273,
+              "lng": -122.1364195701073
             },
             "southwest": {
-              "lat": 42.45907362010728,
-              "lng": -83.13844507989272
+              "lat": 47.63148067010728,
+              "lng": -122.1391192298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8293207cbb8d28844b11a1d5df2bea1fef427990",
+        "name": "Capoeira Eastside ( Redmond - Bellevue - Kirkland )",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115669512095889065493/photos\">Capoeira Eastside ( Redmond - Bellevue - Kirkland )</a>"
+            ],
+            "photo_reference": "CmRaAAAAVd1JYY3BO0x32WtGokFtlVtcezDNvVgYkpff2BD3Ej5mKeom7mx4Xxvqm8nsRmskuKfjoFSv8WYSlPqMvmBlfRl1kQkyh71HDSV9HMxqvRiOybwPPDwS2KBGmCUPkVwmEhCjFZHaGyXoksaXH7GzTkrbGhT5fXKYy7ERV_mFmma28LQ6A5yonA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJl7OUJwptkFQR5MHJS9VsFWs",
+        "reference": "CmRbAAAAVpaD1Qof8zslEOzQEGqo-KzMJWVpbM6gsu29tzKw7IAAE2K4r4YvsQB9C32yD_3oYKlySlRGMvvQWLmsep0RBs9x4yDH0ZN30XPRNqRZiGBslAfwnWk3vmxSXosP-SThEhBzSkPxPwL0hOriZsOJ_xLmGhQs1WtxfdzDI4oavN42Pw4irwxQkQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2505 152nd Ave NE, Redmond"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6076951,
+            "lng": -122.3021127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.60904492989273,
+              "lng": -122.3007628701073
+            },
+            "southwest": {
+              "lat": 47.60634527010728,
+              "lng": -122.3034625298928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
-        "name": "Capoeira Mandinga Detroit",
+        "id": "53c9e28ebf70f0dcc07a73a6a20598177a71beb7",
+        "name": "Omulu Capoeira Seattle",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1626,
+            "height": 1369,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109644007448311548204/photos\">Omulu Capoeira Seattle</a>"
             ],
-            "photo_reference": "CmRaAAAAwZdMyuMTAeo5Guu_7t2MJcTcsq3AhWhM1CX9yCEAANaod_uNHyQsi1DE-EmJJcgjDphK6Ex9sWi91vRN_Rm1JFyLbvTsQ-dH_Df0h6oFpj_GsxSi9X5ATi2bQOvAjp7nEhBuBJECoVlYBagZSqVuQGAiGhSyQvkAAsYi72c74homUoZGfH4sDg",
+            "photo_reference": "CmRaAAAA2B_qslEUZf5Wo-YDfSc0FT196OWCUsjNrAIVXr6FP166es5GI-Hqau9y2QkXfcg27--dN6RghjNGqRfLuEB0TiyokBNuxn1G6ftinRIxyR-pqbKjrt4Nt-21HSAoW-NnEhD1_LHs5ToMim2vgXg1s_4DGhRjnphoTBmkeN1JUWdbpQnzHxqp-g",
             "width": 2048
           }
         ],
-        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "place_id": "ChIJb69wattqkFQRVgmLR0UvHnA",
         "rating": 5,
-        "reference": "CmRbAAAAx2awwkzEz7R84ZJBKCuyHwphD0-kw_N0XE1aUA5ZooYjZnTDobcFdmCb0MnYQChQaSBgNoz8HgjJ6rXqKXs8T6KsSW2PgtSWwA-GU5nVipL2Ooke86vYlIfOgLpF1riYEhBKm6chrvdJlNmw-Kd216PDGhT3TVcMXUDiBMDiwgwFsMhTesWSfw",
+        "reference": "CmRbAAAAc-HiL_lIx7mEr3G4WItoKyNtnwpebxUxEyy7C77BEguagneYNJDrUd42TxSxwC2RWlBshofomWz9tq-NUA7X-pFMq1YAMFxnS6uS76QWjsM2B4Aj4_AhAsKZyMraIB-oEhDHZkac6riN_4es8BLJFehYGhTpd7NpXGQD7InQk64Fk7_WLOW-7w",
         "scope": "GOOGLE",
         "types": [
           "health",
+          "school",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "247 W Nine Mile Rd, Ferndale"
+        "vicinity": "415 Bell St., Seattle"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
+            "lat": 47.5772748,
+            "lng": -122.2977025
           },
           "viewport": {
             "northeast": {
-              "lat": 42.52903182989272,
-              "lng": -83.35880832010729
+              "lat": 47.57867712989272,
+              "lng": -122.2962011701073
             },
             "southwest": {
-              "lat": 42.52633217010727,
-              "lng": -83.36150797989272
+              "lat": 47.57597747010728,
+              "lng": -122.2989008298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "reference": "CmRbAAAAwTpXx0yH--fZlkc1XHIKODF3E8BgAUpY3z0Z8XVz1ksU1jO8AbITfZqEZGkWDkKwsPGHV8nYheRfzA3U1KcPaGW4sT7P2-0wKDkmP-8VdzxayU8gD9KXlwKErzzIBWXZEhAb4bXqWYA-EgploxQiMRSaGhS0_8vhxCHLKq-Mb0XxAiZ97Gh_mQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5006595,
-            "lng": -83.3608659
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50204027989271,
-              "lng": -83.35769595000001
-            },
-            "southwest": {
-              "lat": 42.49934062010727,
-              "lng": -83.36192254999999
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
+        "id": "595976ed220fb6da8ccaa4f37b428acb97e0d924",
+        "name": "Seattle Capoeira Center",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 414,
+            "height": 586,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/101638517339801215750/photos\">Seattle Capoeira Center</a>"
             ],
-            "photo_reference": "CmRaAAAAGx5hvbgOXV7yGGBHuOzTQXu6n6QX7H2JZG4pLkQUmGnp7TZVJCi0xv8GuN5qySAmiaE9Ke7W1foSs8tuhE6Emz_9qee0_eE0XL_JbrL3bJndPjZ5o6bmZ66eSB8oVlVpEhBaPpIa6RLPHu4tBlu4hYVXGhS4mxW0x4AYEV6WVyu7VtpZ5lJC1w",
-            "width": 820
+            "photo_reference": "CmRaAAAAhpEYO1_0IPRTcFqpKpAxCXr7kSXFvqooPFGVSzhxB0wDOo7gSzyvQnJVjPVsM13OyvsbII7ylDsYO5CXxp-xEAcF5luZToq1j_oEIPxk3qKkunFRWvlFOt-1xNF5hGKqEhAL7ktspectkr_9c7LNC973GhRFGTDFKVUSVt7JOVW2WFw3yoPGFw",
+            "width": 1075
           }
         ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
-        "rating": 5,
-        "reference": "CmRbAAAAZAZAApJZinF8iTn9KxW8yh2HR2JkRHoiQuXNr6cJjwmBZ_UcGdpfMicGHBsBhBYEQUg-wf77eVGe2pBqjy4925ms1hLhsIPp0l6HhvsIX6QlmXh8E1MbnRM3Q5UAp4nsEhD2AAFvNW2KsB50dxFBxiekGhQ4HYBTXfv6bydPCHznNsIzI0xv3A",
+        "place_id": "ChIJOR4rlJRqkFQRs2rPPpk54bI",
+        "rating": 4.9,
+        "reference": "CmRbAAAAvcgo2GEZpnVSBtrfsFfpVNjH2V1ChcRfbJQztK65rXTmMAkKNRYlo2mn9LBoib9tt9afGtCTQY3rlN-Ir-aStSY3BORYbl6SDcfm5y6zO2t1DNeByuZ-hU-gt6Kc0TpzEhBAdQwVw2SRQoW4QerU08WQGhR_rPVR3pKkQKpxjoggP91SnwCI1g",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+        "vicinity": "2909 Rainier Ave S, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6216589,
+            "lng": -122.3123532
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62300872989272,
+              "lng": -122.3110033701073
+            },
+            "southwest": {
+              "lat": 47.62030907010728,
+              "lng": -122.3137030298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "631c3af78ecb57db01b3ebcc1ebc2c545d4c9a22",
+        "name": "Fenix Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ4xOJIFsVkFQR7LREEa5FvYQ",
+        "reference": "CmRbAAAAiL1ndF_XGIl5SlmittX_LEAAToDpPY1ctORc4XXl_ozfljPbkic_ZY34IWSWVs38c9eb_b6nNLf5bnCSGiLsAew3apq5Lh7vXmXf5mNtVKwjYYK5hR7SqdGZZprLzbAQEhB8mLj6f8WOPoxaVn9dplM4GhSF1AuQJv_iqkArsXK8qQ8UaXfNMQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Dance Underground, 340 15th Ave E, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5757123,
+            "lng": -122.3204992
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.57707337989272,
+              "lng": -122.3196153201073
+            },
+            "southwest": {
+              "lat": 47.57437372010728,
+              "lng": -122.3223149798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6864fcdcea9b1ed494e58182b02b10f04c577b8b",
+        "name": "Capoeira Malês Seattle",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106708897472044113557/photos\">Capoeira Malês Seattle</a>"
+            ],
+            "photo_reference": "CmRaAAAAnlp-25u_VJ-rrU-V6m4aINzN-VbvvdxVlvE1AFQlNfLPGRNspmiyV5gLMyCG7a5TaC4AKVRf4rQ0hTKsk024I5PAag3uvdtkRuqEHXCMgirVW2Hi6Yp6EzazN7pfefLgEhDtPaJV82YAo7eAGwoIub5BGhTem2V9qCpGFt-ivRiXfkkcQ5tcmA",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJM4yMJoBqkFQRw_BBUsDob0w",
+        "rating": 5,
+        "reference": "CmRbAAAAtXUqES58eHi4ghr-JijPZGTfoB14AMHHocoBqf27UzOgMPfIktDvxu4HclN3ppezRo1fn1Cf5EJ9StzxYrrW4yHLyo90tj6EA2WMqkAEUdDVb3qPWf0CjtIY6rBJhtrrEhAjCGHTHFJaWEdbmz9xT0i8GhScxLQa3CcjZ12wGfIDzXuTuIe8Tw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3150 Airport Way S, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6585425,
+            "lng": -122.3134141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.65989137989272,
+              "lng": -122.3119662201073
+            },
+            "southwest": {
+              "lat": 47.65719172010728,
+              "lng": -122.3146658798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7b58520be81daa26856710864bef0c788d2e9cb2",
+        "name": "Senzala Seattle",
+        "place_id": "ChIJLVOuqPQUkFQRTQBpJlAqWGM",
+        "rating": 5,
+        "reference": "CmRbAAAAIg8YrWdmTkXnj1DOKJvs3O8AYUgB1OffbA2rM0zywa0H729A-kdGmyq7ItAWUzEi_IMFLLoeh6ZjkExxPHcXWOb7jjcloYbb8xs2DEEfBnBTlUQcodyhaTag3I_1mXNSEhBql4HMh3NVZnv4qCi1ovHyGhS49DpV9Kl9cPz9DJe4AR4Q560c7w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4205 University Way NE, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5205874,
+            "lng": -122.2625932
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.52172027989272,
+              "lng": -122.2611936201073
+            },
+            "southwest": {
+              "lat": 47.51902062010728,
+              "lng": -122.2638932798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "50cf405a342432c8ad327ab3e0ed6029781dd06e",
+        "name": "Água Benta Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115018396996348692478/photos\">Água Benta Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAAshl34JmKkOXbvm706t12ibxWNFyNldcIjpoIiR7txXuvDRM3Hlhfj6w-f6vXLO-IzSAF0b2gza0wYVsZlsCeY9XbNRKZeHU2sYCYNfyOD8jBILg37XOo8hcqWXXm-u1EhBvVDxHDoP_2zJngyGT4eNMGhSIs2ES97ElpYbkUbuSy073qjqocw",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJCbtyYw1qkFQR1V8cEH3zrGQ",
+        "reference": "CmRbAAAAknDENZa0GpcfezsgjYFCVTi7cQjmGOkXmfaqGwqNqx4qnLMV_r8_PnnSh4I8oDaFZTqT0ubiu8juylX91x7KjOgwUKYff8Vv2e8Xgc8hCKhfLmoin1KWT8qVoVm8Et_8EhCGywMlV8ysmpG0utTgVZKmGhRJNY18bXiQUzOM3zwxAIV8vgemzg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9460 Rainier Ave S, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.50552709999999,
+            "lng": -122.1578799
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.50678227989272,
+              "lng": -122.1564620201073
+            },
+            "southwest": {
+              "lat": 47.50408262010728,
+              "lng": -122.1591616798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7a403c33db7bbab6952f37eb13379a0f9260d4ce",
+        "name": "Capoeira Malês - Renton",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104998568969488043890/photos\">CAPOEIRA MALES RENTON w/ Professor JABA .</a>"
+            ],
+            "photo_reference": "CmRaAAAAI2hM6K3TMkIpYi0lX7USXF-3KyDJYUSc-xgT4OUx8rJkCCFP-lhgxL3OrJ2No0bczj3yJli_w46mYXSm987YtPC1Su41qSNpkNkOPAkZmuelqxTFCWzTAmMov-HTn1L8EhCVrRExIfzihqsa7qYHEK6wGhRjEjg6mKAas6kC-mdK5ad6eZbaHA",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJF_WdvGJokFQRfEAzq554Jjc",
+        "rating": 5,
+        "reference": "CmRbAAAAVgrbS1FK2P60XlkoTLcDdDDZVDImbxYsKtDRykThuezyhR2sB-vV-Sw4vQU5dl3nlB-u_HrtK5qP2ZHT9WvaiQx0FwBh3ibEDTT22UjhbugGiQwbQk20LtPtgvTwIiKKEhARCqjLR7tynVAMMQb0MWOcGhTP1NXIUWpmAmXn05uTv8Z970s6VQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4602 NE Sunset Blvd, Renton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.65150300000001,
+            "lng": -122.353623
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.65272987989271,
+              "lng": -122.3523308201072
+            },
+            "southwest": {
+              "lat": 47.65003022010727,
+              "lng": -122.3550304798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "89cfa7ab8a1d4c2530ffe932473a06524ed16ca7",
+        "name": "Bahia In Motion",
+        "place_id": "ChIJI0YN3KkVkFQR4kOw4mXtf-U",
+        "rating": 5,
+        "reference": "CmRbAAAA7zb5syyOpr_eNvVXKW99UtBff4dkszlj2fQvqhUwRZSNCIN9n7s1tb8c-0mhOAiWdX2DJ2Ztpcw_rxNe6yRY8xMhT4sIsKBQHCComQhvBmEDeBu1FxzsNbmpGHqsyeTHEhC7yc7BubUufoQFY_OF2k8QGhR9vv3Z4GDgJH4qn8hdWNxk-qBypQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "418 N 35th St, Seattle"
       }
     ],
     "status": "OK"
