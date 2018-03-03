@@ -1,88 +1,68 @@
 {
-  "city_name": "murfreesboro-tennessee",
-  "city_rank": 228,
-  "city_population": 117044,
+  "city_name": "ann-arbor-michigan",
+  "city_rank": 229,
+  "city_population": 117025,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.8456213,
-      -86.39027
+      42.2808256,
+      -83.7430378
     ],
     "rankby": "distance"
   },
-  "people_per_result": 39015,
-  "possible_duplicates": {},
+  "people_per_result": 39008,
+  "possible_duplicates": {
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ],
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 35.8572065,
-            "lng": -86.3929009
+            "lat": 42.230809,
+            "lng": -83.725053
           },
           "viewport": {
             "northeast": {
-              "lat": 35.85867992989272,
-              "lng": -86.39176457010727
+              "lat": 42.23215247989273,
+              "lng": -83.72415907010728
             },
             "southwest": {
-              "lat": 35.85598027010727,
-              "lng": -86.39446422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d8151a9d4c42a11f2f294a022718e595e480330c",
-        "name": "Dunner's Martial Arts Academy",
-        "place_id": "ChIJkcZ_GXT4Y4gRd2PhuB8IF4U",
-        "rating": 5,
-        "reference": "CmRbAAAAKeFTg9uszBrJKuyx_MMeylaQCWnQ1IDKJaeV5yoOUnX9Ro241tNVruyMjT-1yrpduPLygDCmrLfg9XKYKPJdzA9S4LY8nxTjUtpnmrEqDh7JMVL6neRCI-2cTJyTqUcaEhCNTNln_nkrQSITV5OfWZTTGhTSALRiDssEyxGWAuJVKimONOO74A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1004 Memorial Blvd # E, Murfreesboro"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.8457496,
-            "lng": -86.44793969999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.84673422989272,
-              "lng": -86.44656242010728
-            },
-            "southwest": {
-              "lat": 35.84403457010728,
-              "lng": -86.44926207989272
+              "lat": 42.22945282010728,
+              "lng": -83.72685872989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "63f9327706ec62e306cd12cd1c83d5aeb4732cba",
-        "name": "UFC Gym Murfreesboro",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
+        "id": "bd14d01913483d0fe69d9638036e244cad2f1f29",
+        "name": "Ringstar Studio",
         "photos": [
           {
-            "height": 315,
+            "height": 3024,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105529400963145795619/photos\">UFC Gym Murfreesboro</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/112824694233871390615/photos\">SeeCory Climb</a>"
             ],
-            "photo_reference": "CmRaAAAAskl2qjxaM-kFL0wJyZ6zHF0BJqMCPpvxRHz9oUEEKgLaj-LJe8eVztKcy1xVpmXcrgIZk1imkAddiR86-lTJwFFJ-3-SmcxubnRkLbhk8Axj52Rawk2-gTnSwexDiWK6EhA6F0-LSpYk5Ijyw4U1JT_FGhSzL19qP499o9Zi_eoDw8zBpxjQCA",
-            "width": 851
+            "photo_reference": "CmRaAAAAv8WMMc1zVPCTTgC638amZSrvSFHcyx-buiAkXYLZuaP4nGFhPJo0QJ8JQDenzd_543CAPHDKBzAF8yBZAQA1L9VQWyu7sOsfvZtqCtZxhy5u5q68LMVyCvUOoYU2QjuIEhCmCU6bMydCD9TxFJkXndCqGhRVVWnTw8B4NX8uw8QwKQlEnniTxw",
+            "width": 3024
           }
         ],
-        "place_id": "ChIJaf0xbcb3Y4gRWxgLlZQnNCk",
-        "rating": 4.8,
-        "reference": "CmRbAAAAf0TDJAuxScLz1KjD4YCweSkcJ90Z8_8_NwcpLbrIYmGdbbZfaM1aTgMHFzCFVOs1BJUP4hVwGqa79LH0WsCi3rxk6ata019pLbLjagpGtZYM42Vgs0yyLlQZUE-HPhKiEhDznisjKBuLGtFNpXkJ9T6PGhSHz1Me9ZkFc-qwEQWacPHCPdJDlg",
+        "place_id": "ChIJ1VKwvpuvPIgRgLMWux4N9qk",
+        "rating": 4.6,
+        "reference": "CmRbAAAAJUaNFjE1FMVqT8lQTEyocIYS8dqznHXpXoPR4bHXJwKcLSB1kYKvGH2QIwTditCHIv96NzCUZWygJhTxV6vm8HU6OUCQZXD3VyZOHRAGBcYI7A1mW96Ujyn2Mq_2fGD7EhBQPXlIphHJpLRMdR07ujzbGhSZ7hklQ0hZwOB5CjYfJDUV3Yh_TA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -90,41 +70,82 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2812 Old Fort Pkwy, Murfreesboro"
+        "vicinity": "3907 Varsity Dr, Ann Arbor"
       },
       {
         "geometry": {
           "location": {
-            "lat": 35.7864065,
-            "lng": -86.4042114
+            "lat": 42.5006595,
+            "lng": -83.3608659
           },
           "viewport": {
             "northeast": {
-              "lat": 35.78771167989272,
-              "lng": -86.40286807010727
+              "lat": 42.50204027989271,
+              "lng": -83.35769595000001
             },
             "southwest": {
-              "lat": 35.78501202010728,
-              "lng": -86.40556772989272
+              "lat": 42.49934062010727,
+              "lng": -83.36192254999999
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9a4d026df443cd96bd0256b26f4915c427373b8c",
-        "name": "Capoeira Maculelê Murfreesboro",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJL7KWbO75Y4gRRMUVMMHZJDU",
-        "reference": "CmRbAAAATakWTghk6lgrMd6FOSJeyEK6UD4s8E1jkMVuPy22riUqzXPdIef_QjmBW61-sWKYLVN8H19cnQohAQh5SgwJDyLwSESpemfWF7dbqbMycd-70-NtdEmaLi_YFy07u1JLEhBf1PXopOdFM4fYYT4lh7JaGhRcyrDJryh2HBIFoyggB6Wf-AvEdw",
+        "photos": [
+          {
+            "height": 414,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAZP8xeilxuuOhhsta6nJpzVTOT8Tw1b9CNvm8PbRdMjG7blSmhjZWtnWv460pTL8lV3BQ6wHM2nFwEiPVKvCWHsAElJBQB7lqsUwBzOrISqRYS0x2R14TwpXrVUR22Z8HEhBkKPS_qCKuWGgsMThKgnGAGhS8fEyZQJvMmJeFvb527lk1Uz3yOA",
+            "width": 820
+          }
+        ],
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "rating": 5,
+        "reference": "CmRbAAAAVnmc8iQBU-D9NOS7J1eG0sCjvSXMA3xd-Wt76vKvoM0MRri0jYb4tw1dGRlt5CyfKSJGyVfG4ecTo7gGNFAUMj6VN-klLX9xo-PuZS9KtR9QrtWQqs4wGDif8a6CY49IEhD3cVjUxfg6HGqUdh2n-xcwGhTaDpmtJSTbuEa6JEYurODmN9CCtQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "220 Barfield Crescent Rd, Murfreesboro"
+        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5276867,
+            "lng": -83.3601159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.52903182989272,
+              "lng": -83.35880832010729
+            },
+            "southwest": {
+              "lat": 42.52633217010727,
+              "lng": -83.36150797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "reference": "CmRbAAAAbpStNBpNOma3enOmFPFSrKNiMOggAzPjkVl7dnoAIW25kzjodTlJW9tkA6iVIJLlmaerF54a0EpM-wH_eZiNMeCPqMy-8t86Oaxgyo3HDNB_ljOpNKL3_1NiaRzocNRpEhCzAmbGYAa8CWTZ3x-KeCWWGhRFkWGC93MxbWnX7Ox8Z4gYS7OUqA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
       }
     ],
     "status": "OK"
