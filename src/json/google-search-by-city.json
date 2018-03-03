@@ -1,151 +1,63 @@
 {
-  "city_name": "ann-arbor-michigan",
-  "city_rank": 229,
-  "city_population": 117025,
+  "city_name": "springfield-illinois",
+  "city_rank": 230,
+  "city_population": 117006,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2808256,
-      -83.7430378
+      39.78172130000001,
+      -89.6501481
     ],
     "rankby": "distance"
   },
-  "people_per_result": 39008,
-  "possible_duplicates": {
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ],
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ]
-  },
+  "people_per_result": 117006,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.230809,
-            "lng": -83.725053
+            "lat": 39.6800552,
+            "lng": -89.7046434
           },
           "viewport": {
             "northeast": {
-              "lat": 42.23215247989273,
-              "lng": -83.72415907010728
+              "lat": 39.68142232989272,
+              "lng": -89.70329387010729
             },
             "southwest": {
-              "lat": 42.22945282010728,
-              "lng": -83.72685872989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "bd14d01913483d0fe69d9638036e244cad2f1f29",
-        "name": "Ringstar Studio",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112824694233871390615/photos\">SeeCory Climb</a>"
-            ],
-            "photo_reference": "CmRaAAAAv8WMMc1zVPCTTgC638amZSrvSFHcyx-buiAkXYLZuaP4nGFhPJo0QJ8JQDenzd_543CAPHDKBzAF8yBZAQA1L9VQWyu7sOsfvZtqCtZxhy5u5q68LMVyCvUOoYU2QjuIEhCmCU6bMydCD9TxFJkXndCqGhRVVWnTw8B4NX8uw8QwKQlEnniTxw",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJ1VKwvpuvPIgRgLMWux4N9qk",
-        "rating": 4.6,
-        "reference": "CmRbAAAAJUaNFjE1FMVqT8lQTEyocIYS8dqznHXpXoPR4bHXJwKcLSB1kYKvGH2QIwTditCHIv96NzCUZWygJhTxV6vm8HU6OUCQZXD3VyZOHRAGBcYI7A1mW96Ujyn2Mq_2fGD7EhBQPXlIphHJpLRMdR07ujzbGhSZ7hklQ0hZwOB5CjYfJDUV3Yh_TA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3907 Varsity Dr, Ann Arbor"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5006595,
-            "lng": -83.3608659
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50204027989271,
-              "lng": -83.35769595000001
-            },
-            "southwest": {
-              "lat": 42.49934062010727,
-              "lng": -83.36192254999999
+              "lat": 39.67872267010728,
+              "lng": -89.70599352989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
+        "id": "817b73a1fecb9a5f3f98bd99fc45e2c1d0f7e33e",
+        "name": "Capoeira Volta Au Mundo",
         "opening_hours": {
-          "open_now": false,
+          "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 414,
+            "height": 492,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/112086773152481477157/photos\">Capoeira Volta Au Mundo</a>"
             ],
-            "photo_reference": "CmRaAAAAZP8xeilxuuOhhsta6nJpzVTOT8Tw1b9CNvm8PbRdMjG7blSmhjZWtnWv460pTL8lV3BQ6wHM2nFwEiPVKvCWHsAElJBQB7lqsUwBzOrISqRYS0x2R14TwpXrVUR22Z8HEhBkKPS_qCKuWGgsMThKgnGAGhS8fEyZQJvMmJeFvb527lk1Uz3yOA",
-            "width": 820
+            "photo_reference": "CmRaAAAAXU77MmHG0fHH9sJ3CvBVVnmz1dHiAWXyOz2WPUhHb5MHuvbH7xMt01mHPkyjM5eDKPsvsKe4Gw2A-I8rOXOZ4ed3lW5R5hPLbBLNYXfEzenev876U9N-ZRL92Cv7aZ8GEhAkkw0SGpRMcpV5JIQ0ankNGhQb8-48PaffI-pRBx8Mg_iVGfTJ7w",
+            "width": 738
           }
         ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
-        "rating": 5,
-        "reference": "CmRbAAAAVnmc8iQBU-D9NOS7J1eG0sCjvSXMA3xd-Wt76vKvoM0MRri0jYb4tw1dGRlt5CyfKSJGyVfG4ecTo7gGNFAUMj6VN-klLX9xo-PuZS9KtR9QrtWQqs4wGDif8a6CY49IEhD3cVjUxfg6HGqUdh2n-xcwGhTaDpmtJSTbuEa6JEYurODmN9CCtQ",
+        "place_id": "ChIJjxUHnXNAdYgR-U3tqI_AfYI",
+        "reference": "CmRbAAAAcOUC68olGHm-vXi4lTytzrWDc9FzJOeROAm4d21JUt4qigQ0qgYrHhsx2YPBB2SkPE0EJroEikPHfrAsaHQsvEE0aOsVZXAZFItQDK50SB-d4wiXwYzFsgxeO5-tOVRHEhBvFLN4X0OjYG1SqMXksCdxGhQcztkIE-HO8moWt5ny4iw9UZaYEA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.52903182989272,
-              "lng": -83.35880832010729
-            },
-            "southwest": {
-              "lat": 42.52633217010727,
-              "lng": -83.36150797989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "reference": "CmRbAAAAbpStNBpNOma3enOmFPFSrKNiMOggAzPjkVl7dnoAIW25kzjodTlJW9tkA6iVIJLlmaerF54a0EpM-wH_eZiNMeCPqMy-8t86Oaxgyo3HDNB_ljOpNKL3_1NiaRzocNRpEhCzAmbGYAa8CWTZ3x-KeCWWGhRFkWGC93MxbWnX7Ox8Z4gYS7OUqA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
+        "vicinity": "1 Cottonwood Dr, Chatham"
       }
     ],
     "status": "OK"
