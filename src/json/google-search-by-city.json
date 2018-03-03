@@ -1,66 +1,20 @@
 {
-  "city_name": "allentown-pennsylvania",
-  "city_rank": 224,
-  "city_population": 118577,
+  "city_name": "norman-oklahoma",
+  "city_rank": 225,
+  "city_population": 118197,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.6084305,
-      -75.4901833
+      35.2225668,
+      -97.4394777
     ],
     "rankby": "distance"
   },
-  "people_per_result": 118577,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.3769369,
-            "lng": -75.0340904
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.37851372989272,
-              "lng": -75.03149164999999
-            },
-            "southwest": {
-              "lat": 40.37581407010727,
-              "lng": -75.03495665
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "93706b6bb60d05ce321b68b94d03866ab5c443f4",
-        "name": "Capoeira Morro Verde",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1360,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115523194882455593370/photos\">Capoeira Morro Verde</a>"
-            ],
-            "photo_reference": "CmRaAAAAwKMMd96JZkfStCc45OX_8oDwvhJkfHFksYAh-P18dc-REhmAxTngP-jjtkqPdqWnHyZArECBTq9XO78z7MUd0DQdlTUi1NoBTT_2lWVe1cKUOo08WWeK6hwVW07NAWZcEhBaeBa-93Mjffc33EPpew3eGhT4wyDRBDjvEqhwSR9Kv1pmSYsWUQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ8ZnhkTYBxIkRb9ekHnCrVJI",
-        "rating": 5,
-        "reference": "CmRbAAAA5WZwOIWBfaxw19psz99PQho0QxKgA-PWVQBg5pznPxgNr8sA2PVrij2bF466-smkeMKxpxBL1fOLjuX3U_BduUPxlRU5lEulnp3b46FiKghXm7Mqdx_imKGcsCFeSMG9EhDaKoBFWeFk8ykAdLy-PDSFGhSK4Dt1HJu0Kd1SOHqPcr4JbxQXGw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6365 Greenhill Rd, New Hope"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
