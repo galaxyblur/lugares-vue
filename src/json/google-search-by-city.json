@@ -1,20 +1,110 @@
 {
-  "city_name": "beaumont-texas",
-  "city_rank": 226,
-  "city_population": 117796,
+  "city_name": "independence-missouri",
+  "city_rank": 227,
+  "city_population": 117240,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.080174,
-      -94.1265562
+      39.0911161,
+      -94.41550679999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 58620,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.009772,
+            "lng": -94.30026699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.01112182989272,
+              "lng": -94.29891717010726
+            },
+            "southwest": {
+              "lat": 39.00842217010727,
+              "lng": -94.30161682989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "71d2cb8c949c67f3c3426074f3a8fe1c573fb55a",
+        "name": "Grupo Axé Capoeira - Kansas City",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103126836674219055774/photos\">Grupo Axé Capoeira - Kansas City</a>"
+            ],
+            "photo_reference": "CmRaAAAAFUNNfqY0G6RWvipyblcCQW9j_flWck0JJfzHetrB20awjP6FDOwsIBzatXiQiugtIAz2sOPdacgqNjZxP2RfindMU3iXee4bpdvA6bf9lEZ7Kak6045PYnUhyiNQiwB6EhDR6azh5F2aM9L8DYoBEYvsGhRqyoEoqBbQ_R1Ga66-htG0hEYLMA",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJizifeewbwYcRf2u6dIExj8c",
+        "reference": "CmRbAAAAaIwLX4NbEWT94_LxQcOQFvooICn7z4fBASl8PbzR9OQSS0mFyr5pJ4ea7xElfes6ah4zYC2GQ3tCfnPrFikEmT7GjVsobj9ElnDLIA3M2Yw6QVY_-CFW_yHt_y6x4DspEhA4XlaVrJoJGI7Z4fqgDvb3GhQMpeLWtDDH6_OQ3rHOG_5xWOZ89A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Welcome Mat Judo, 3004 U.S. 40 Highway, Blue Springs"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.0101357,
+            "lng": -94.5749766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.01148137989272,
+              "lng": -94.57349207010728
+            },
+            "southwest": {
+              "lat": 39.00878172010728,
+              "lng": -94.57619172989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "53d727af72525cd218f331a4654284ab44fe8379",
+        "name": "Grupo Axé Capoeira Kansas City",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102093740530589740736/photos\">Grupo Axé Capoeira Kansas City</a>"
+            ],
+            "photo_reference": "CmRaAAAASGlCmU47mZB5Sn8d8zeIvP7g2jdDMjSnHOOyI-PmHYJ2rS_9zRVLtt6YQZh9XmeS0gFwBjSZBP_SLczlIsr5ZYJ18547Qexg4xNJBJI6beVQtK-Hm3eLt2MVngbSpQOJEhCgeGdLh5Yy9uYCjYafwvYCGhRw7xqCm4DTtZp4k0aSeAwMh5C0NQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJM4zreA7vwIcRnn9Ya5_3bOY",
+        "rating": 4.5,
+        "reference": "CmRbAAAA0TwBswqDLHTPUpL4PAUgeAJNwUmGQbQTvaIwK-otvMJNvqBPpidaXkfYTwUwr4hMGrepZedKim8BylXGwqlcEH5I9Vkg2dJtaM_nqlmmLP9r_Ul51y3EUAWoy8T4taW-EhBDYjLGL49-TmTwccuduH5YGhQMzIZVJx6IEJtsNlEVxz4Oi83X9g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6430 Troost Ave, Kansas City"
+      }
+    ],
+    "status": "OK"
   }
 }
