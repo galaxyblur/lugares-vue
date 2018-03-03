@@ -1,20 +1,107 @@
 {
-  "city_name": "midland-texas",
-  "city_rank": 215,
-  "city_population": 123933,
+  "city_name": "surprise-arizona",
+  "city_rank": 216,
+  "city_population": 123546,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.9973456,
-      -102.0779146
+      33.6292337,
+      -112.3679279
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 61773,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.4954773,
+            "lng": -112.0831415
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.49682342989272,
+              "lng": -112.0819591201073
+            },
+            "southwest": {
+              "lat": 33.49412377010727,
+              "lng": -112.0846587798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
+        "name": "Capoeira Brasil",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109835485667846703056/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA1d-PykA9ZxxVardZWiQXUmyyTRkMgmZJ6tPYs-kXdZ0xzY7k0QsgOmKG6AH9zoFWGKoFMXwcWiJUb8chi1SRMmrs-u4yERVoH7C4vSu5SrtSKZOGIfKeUsqKrA2SJ4rhEhCKE6JU4E7w_1WMrXyr4682GhRlIV6Hi12XR1DMymfsN6nRdldz_A",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "rating": 5,
+        "reference": "CmRbAAAAS3Hs6IWqPrJEQJpO6P3mi89G8JcUjbza48HVwqQlBCyFGn5Uz75eKqOFpbj_wTWhFaK37gNcfFYFZxjLavgiVmVlfjFsPpXs2yUblO3tVM6I051B-CDzz-bKgYuzD_NqEhDyCnmX1xiMHPi28smT3-T5GhSI3GFdZedbyRZ9CXG8D0UIOTcMqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4113 N 7th Ave, Phoenix"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.448315,
+            "lng": -111.92672
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.44966462989272,
+              "lng": -111.9252356701073
+            },
+            "southwest": {
+              "lat": 33.44696497010728,
+              "lng": -111.9279353298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
+        "name": "Axe Capoeira Arizona",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 528,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
+            ],
+            "photo_reference": "CmRaAAAAVfKicLx3OYjbGmWRgZz6mufjI4CY7FM7TXX3fOtBnqqr87TPPAvKvnK29R1cOWjuTgvodE3aMhBS9LvWJdlxeIAWhmLvwgdZn2w8H83qn9bCLMuXF9IY-f_suYxspaGSEhBqbGJrc9AW2ADF58rxNlzxGhQNZ7L4XsMCe8F3tDme4wcKtefkkA",
+            "width": 792
+          }
+        ],
+        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "rating": 5,
+        "reference": "CmRbAAAAdtGfeeGa1ki5ZhyZAwHBbLKRRZqxhfwK_YLO7bUICd3uk88olLT8FYu0X-KtQz1S5aYFNvMSpmF5xLfN8Mgc_-ZYOxr3Kz7nN-p5MJ_LGKRueksI0bmiVW_3Jjift1lYEhDBfBF9bgEIc50DMe-tMJYRGhRmjRk4NZQ3ybYglIv4S8Qo79H_0Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1650 N Scottsdale Rd, Tempe"
+      }
+    ],
+    "status": "OK"
   }
 }
