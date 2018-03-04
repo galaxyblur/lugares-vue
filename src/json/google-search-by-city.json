@@ -1,20 +1,67 @@
 {
-  "city_name": "odessa-texas",
-  "city_rank": 247,
-  "city_population": 110720,
+  "city_name": "manchester-new-hampshire",
+  "city_rank": 248,
+  "city_population": 110378,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.8456816,
-      -102.3676431
+      42.9956397,
+      -71.4547891
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 110378,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9962661,
+            "lng": -71.4659929
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.99760112989271,
+              "lng": -71.46479082010728
+            },
+            "southwest": {
+              "lat": 42.99490147010727,
+              "lng": -71.46749047989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "9c1167f39be539feb5b7d040042fe0b452e1afd9",
+        "name": "Fortitude Health and Training",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101499303577320040865/photos\">Fortitude Health and Training</a>"
+            ],
+            "photo_reference": "CmRaAAAAAwyRYYM9HcEg7oy8HTVVovAlHZhRDj580USPvB19HsCpRDVb2SQtNw-6Clz0YMrRLcjZyJxl_fO70ikoT9ABqRZUox1tpj7qjF61RrSG4qntBFkJzGXWEVpIb2xJ2XHQEhCo54B28G1VdChPfJf9OXiKGhRhWSzCscDFpP23tIWO2bq2UT1U5A",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJRbxniS9P4okRh-hKftohn3Q",
+        "rating": 4.8,
+        "reference": "CmRbAAAAoZlxMJCBfLNgAZ7P5bkViOHm7XtwpNuc4mCVg3vXwBMv6iqqMgRmI0_-JONqm2rSPHWuyYNODfCD-irTqzLXczkbn75YYXIWB77rDN8hPNvJDwgPg-Tqnt5B_XvJSrMiEhAhKPIbTQvzDAuDfEmC4ja8GhRpjrHJaUwi2T5y-hY7oMYTZvlLXg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "775 Canal St, Manchester"
+      }
+    ],
+    "status": "OK"
   }
 }
