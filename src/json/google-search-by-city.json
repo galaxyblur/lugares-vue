@@ -1,16 +1,16 @@
 {
-  "city_name": "centennial-colorado",
-  "city_rank": 268,
-  "city_population": 106114,
+  "city_name": "everett-washington",
+  "city_rank": 269,
+  "city_population": 105370,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.5807452,
-      -104.8771726
+      47.9789848,
+      -122.2020794
     ],
     "rankby": "distance"
   },
-  "people_per_result": 35371,
+  "people_per_result": 17562,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,110 +18,239 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.5624472,
-            "lng": -104.8976429
+            "lat": 47.6658945,
+            "lng": -122.3136236
           },
           "viewport": {
             "northeast": {
-              "lat": 39.56397767989272,
-              "lng": -104.8963502701073
+              "lat": 47.66724312989273,
+              "lng": -122.3119964701073
             },
             "southwest": {
-              "lat": 39.56127802010728,
-              "lng": -104.8990499298927
+              "lat": 47.66454347010728,
+              "lng": -122.3146961298928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ea95677008630f166f03dcf77ced71cf1deba940",
-        "name": "UFC Gym",
+        "id": "596254906ea4dfc1bd0c0f349da4163cf245e144",
+        "name": "Sina de Capoeira",
+        "permanently_closed": true,
+        "place_id": "ChIJ50mxm2EUkFQRXXe9bdgB3fw",
+        "reference": "CmRbAAAAva3vtB_ApBdDAJnqbrOLdbXysp-8UFrVTYlo4uSBG80NiiiKr-qMBubIbrDoNdvXlVxIOBiHMtDWbfSGe1J-7CWm0HklL0AlgTdVfSBlSj_LmK5vJfTJN3cOuxgWEZS-EhD7EZ8kRR4Pego6YzAYjdRYGhRL4Cqo0GmZKZ8I5AO0MnaOZtGA-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5031 University Way NE, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.63283089999999,
+            "lng": -122.1378364
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.63418032989273,
+              "lng": -122.1364195701073
+            },
+            "southwest": {
+              "lat": 47.63148067010728,
+              "lng": -122.1391192298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8293207cbb8d28844b11a1d5df2bea1fef427990",
+        "name": "Capoeira Eastside ( Redmond - Bellevue - Kirkland )",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115669512095889065493/photos\">Capoeira Eastside ( Redmond - Bellevue - Kirkland )</a>"
+            ],
+            "photo_reference": "CmRaAAAA-vxQ4DqZtwSmt_HBDwo8GdnAZlPa_-nRBsre7IJQQQp9lENbr8xVZ-xJt38xGxwai9lisPhuNEo8h5cN7kgSwreUlH9iOnP5yu0ywcyjopM6M_S_avV6Az4rpdp1i6INEhA5kfT4COtkvTkcP4Nzvu8mGhRlhAHH2kKsE3tQTDq_861Td0CsNQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJl7OUJwptkFQR5MHJS9VsFWs",
+        "reference": "CmRbAAAA0nCCdC9EdDaQtr8ZPpXbIiA5WPHhcaj9BRHLDk3htJ39z5soonX-sCupCVBSVQhWnbIN2sN59XTV21nAqMNayrAaoHsFOabgSGNnQm7ygzbwevVRnOudVwzovBEwudhbEhDrsLjaqv5luR4S5OE9EIdnGhSYiL0eqeME8XbOsOFAouv8NgJYDw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2505 152nd Ave NE, Redmond"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6216589,
+            "lng": -122.3123532
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62300872989272,
+              "lng": -122.3110033701073
+            },
+            "southwest": {
+              "lat": 47.62030907010728,
+              "lng": -122.3137030298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "631c3af78ecb57db01b3ebcc1ebc2c545d4c9a22",
+        "name": "Fenix Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ4xOJIFsVkFQR7LREEa5FvYQ",
+        "reference": "CmRbAAAAJnPi64FmlEbuPhuO1XO4knHBKX8FIt_DdG5G91LYCKdSAIwKNcuzFLf49KxulLTWihBF6Tg8aSPygubqDUrRynPCs3lkMTH4F0o0re1yp_WBQcAHZhJlRHMFxqWcsXKQEhBO3HMPu3TIXBeaWHIU5suVGhSRA1q68QZtnplbWzGofgP79prDWA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Dance Underground, 340 15th Ave E, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6076951,
+            "lng": -122.3021127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.60904492989273,
+              "lng": -122.3007628701073
+            },
+            "southwest": {
+              "lat": 47.60634527010728,
+              "lng": -122.3034625298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "53c9e28ebf70f0dcc07a73a6a20598177a71beb7",
+        "name": "Omulu Capoeira Seattle",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 315,
+            "height": 1369,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110044997007934140744/photos\">UFC Gym</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109644007448311548204/photos\">Omulu Capoeira Seattle</a>"
             ],
-            "photo_reference": "CmRaAAAAhbRk2tzgCvEESyswv1K2YpkafrqtL1jz9IhyOlSDpKpkH_Oqt8ljnw6HJn_iGZOA7M7viK-n4Kyh8B9luVseo1d85ecA6tUde6EpuaIkxYEsVuQ2h7crSEW5mY_PezzxEhB5-MAxRJAc7MfJMPEFVv1HGhRmBSEapCwltSCbZpVD3Oe9z6nFKQ",
-            "width": 851
+            "photo_reference": "CmRaAAAATzNDOWYoYpzdTL2Zlfjb-hn0Fyk-WFauH0oOz2hATZanZmjwHNOAfNwj1nbu6wfilnpFbQZS_iwafDuKtJaVNefn7hSDOC78I_9bzIHFT5TURK_zmJ1aacRhLjTUEASkEhDY9R1IRYSoGkRDuq5VIls-GhQDCSaJxtRRWWDIQm1jzYvDZspVZA",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJ-btOG0yEbIcRt9saEf6QwEo",
-        "rating": 3.1,
-        "reference": "CmRbAAAA7xZMlVE7wtkuxRH9m334bM01M65gFhMGvS4P0Y5U9-iHsCRPJtDOVNpRGha1MLbk3oe7OF366LZCXiATjLds5VD8QyGDNvSN3Uw7Rq79bgSyYiPVR2KmSmCqbTTCOgTJEhDqntMaqfw8ajQhYkssUxUoGhTX6lMPip9DUOIPEPL6IYRXNRt_iA",
+        "place_id": "ChIJb69wattqkFQRVgmLR0UvHnA",
+        "rating": 5,
+        "reference": "CmRbAAAAMJQr0TB941a8PG3KgPTzB67V52_UxsAmJqDziVfetsvukoCbA4XIvCBvn-bU-RGrg3ASZ-qDE4CD3xPlS1V4sCrRlJLeLb-YYePeNNZywg7hc2kZrsSUwH5ZveSyNYkQEhBFZtnPSl4ZWpb2eKZqLLLQGhSJriRX3yI4uxsi--ixp074qcPdvA",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
+          "school",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "7824 Park Meadows Dr, Lone Tree"
+        "vicinity": "415 Bell St., Seattle"
       },
       {
         "geometry": {
           "location": {
-            "lat": 39.7308796,
-            "lng": -104.9983669
+            "lat": 47.5772748,
+            "lng": -122.2977025
           },
           "viewport": {
             "northeast": {
-              "lat": 39.73222757989272,
-              "lng": -104.9971465701073
+              "lat": 47.57867712989272,
+              "lng": -122.2962011701073
             },
             "southwest": {
-              "lat": 39.72952792010727,
-              "lng": -104.9998462298927
+              "lat": 47.57597747010728,
+              "lng": -122.2989008298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
-        "name": "Canto do Galo Capoeira",
-        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
-        "rating": 4.5,
-        "reference": "CmRbAAAAg8JBsbl9rm-Nz0vADVT4WiuaSTopw8qjGP4PF6kihfNfeuqfuz5GKXrdoXeUnSd0Pfq3Zuw3Zsnvwa5CLQ60FqOzu-x88kZuYaREk91qnpsbl-EzzA_-r03n84cWJBGBEhBw2mtbICuNxkPZGhK-D-B1GhStm4B994XPUmFH7_PPriVLrjq9sA",
+        "id": "595976ed220fb6da8ccaa4f37b428acb97e0d924",
+        "name": "Seattle Capoeira Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101638517339801215750/photos\">Seattle Capoeira Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA7w89p9goZKM6Q84AgbcxOB-kY4zqHe3He7P0S2psCQgUdKDJxu-RT-HAvwaOBUEyoSIuadLgdw9jRDnVMti8GFFW9jeTYhCHCNYabV3Z8cXy7BRgel8MqGu0jvX5VtdSEhBXlYkwaDNxlkIqBjrclVOSGhSHdCNqQBw7C8pz9VTg6rqHllmeKQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJOR4rlJRqkFQRs2rPPpk54bI",
+        "rating": 4.9,
+        "reference": "CmRbAAAAujmN20pgob6abtMEbM_BOZIUnjmyimQfzTvoQpvB1pNzsRfkJ_D58FPue9S2-gG-eE2OlXcWTcdPM8JIFHMOPWcZe2TTEspVK7ZbM9xXPEyr6z8229K7hirhsDiHajUeEhBhsxU0-TpsNkUCsiLxtAfgGhT12gltLzieFRxGEPC6k2CY_YZfTg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "910 Santa Fe Dr #1, Denver"
+        "vicinity": "2909 Rainier Ave S, Seattle"
       },
       {
         "geometry": {
           "location": {
-            "lat": 39.7583015,
-            "lng": -104.9883232
+            "lat": 47.5757123,
+            "lng": -122.3204992
           },
           "viewport": {
             "northeast": {
-              "lat": 39.75936192989272,
-              "lng": -104.9873553201073
+              "lat": 47.57707337989272,
+              "lng": -122.3196153201073
             },
             "southwest": {
-              "lat": 39.75666227010728,
-              "lng": -104.9900549798927
+              "lat": 47.57437372010728,
+              "lng": -122.3223149798928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
-        "name": "Studio Capoeira Denver",
-        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
-        "reference": "CmRbAAAAsyI9Rlc8hGTIEKFvUBjfpp6g0WORndEu80R5n_tqWumOmW2nkt6VnE1sKFkq9aXkUhosxTrhZlOwfdQamcnk5YQVmqcWvNMV0CtqBqhmB_9r5MFf7cojMtrwPWpQl5DZEhAszz8vrpnuz5EI06nYSTCNGhSL6_no1xhQbHh_7Vfj71eANVI_Sg",
+        "id": "6864fcdcea9b1ed494e58182b02b10f04c577b8b",
+        "name": "Capoeira Malês Seattle",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106708897472044113557/photos\">Capoeira Malês Seattle</a>"
+            ],
+            "photo_reference": "CmRaAAAAhZOlG6KDKGb2jbXlSzLz5Qpna4uFVbTSTMhljWqADZ7_nf8Cu3nxkZLnxmQL1xFJyVPKeMRtT-ckgVYGdHGqObhfQB4LOPUH6VvmtzKKtzawgvJNu50WwnGmXJ4KyvTYEhBAGgZtd3PuKRZk0neei4mHGhQvr4vve-gA2qcBjGcT8-0RLugb_g",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJM4yMJoBqkFQRw_BBUsDob0w",
+        "rating": 5,
+        "reference": "CmRbAAAA_VJpjZ13fYWG3RwsDKAWKOwbPnI61ZAhMnVepIOTJQuPfgJgxWWv3DLC7E19ZgMXz3fPSPC12bMwYJP9UU7i_qL6JCYqhkmO5oZs63qwbvt1aLg7s6f9_f_ffbtjZx6kEhAj0etenaGaZR95a-IeOIKrGhQF4x8KYEXXZjWKO-VxEJ7k5M0V5A",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1451 24th St, Denver"
+        "vicinity": "3150 Airport Way S, Seattle"
       }
     ],
     "status": "OK"
