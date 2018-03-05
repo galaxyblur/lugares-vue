@@ -1,66 +1,20 @@
 {
-  "city_name": "palm-bay-florida",
-  "city_rank": 270,
+  "city_name": "wichita-falls-texas",
+  "city_rank": 271,
   "city_population": 104898,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.0344621,
-      -80.5886646
+      33.9137085,
+      -98.4933873
     ],
     "rankby": "distance"
   },
-  "people_per_result": 104898,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.0778277,
-            "lng": -80.69470059999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.07966947989272,
-              "lng": -80.69335207010728
-            },
-            "southwest": {
-              "lat": 28.07696982010728,
-              "lng": -80.69605172989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a404b940560cc40a01e37a8f786dfcf27277db65",
-        "name": "Melbourne Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109555170180425321356/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAY39i9zq6dNyYRGd2OSf2YmwTSuJVKSzW2L8c26TI2ygX5iHJP0Nqnl7lZJnKINeTM72T5A30uRPqO9jWiAaWyQKSHd_T96a0AixRqog-qwKO1nFC-6EwSZU0jHVVa8e4EhCVvkFTrb6mdMW2lbY4EExNGhScfaURXAZifbRZAcmFbyV22WDQQQ",
-            "width": 640
-          }
-        ],
-        "place_id": "ChIJIZCQE54O3ogRQWMyABXbu88",
-        "rating": 4,
-        "reference": "CmRbAAAAhQQIWw3SI0Nr0i_Jj-WUUybQ4evOn7yCYJV-VQz_gOJ41114_QSSN1WTUJ0hg1QQetOGPJHgTUT_JNlHnv7HfYsL27X4vz9e1tLN9j_LBg3o9a_nIwQBa0FuWFGBqe2hEhBPCQwW_s7wQOmh_8CF6_nQGhQJTmBMcExJiNo3mMYxk9pBemNRJQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4195 W New Haven Ave #1, Melbourne"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
