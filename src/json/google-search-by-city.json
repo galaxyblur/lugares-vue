@@ -1,16 +1,16 @@
 {
-  "city_name": "albany-new-york",
-  "city_rank": 299,
-  "city_population": 98424,
+  "city_name": "jurupa-valley-california",
+  "city_rank": 300,
+  "city_population": 98030,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.6525793,
-      -73.7562317
+      33.9971974,
+      -117.4854802
     ],
     "rankby": "distance"
   },
-  "people_per_result": 98424,
+  "people_per_result": 49015,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,93 @@
       {
         "geometry": {
           "location": {
-            "lat": 42.6883967,
-            "lng": -73.7990902
+            "lat": 33.9580364,
+            "lng": -117.3958125
           },
           "viewport": {
             "northeast": {
-              "lat": 42.68974652989272,
-              "lng": -73.79774037010728
+              "lat": 33.95938457989273,
+              "lng": -117.3949375701073
             },
             "southwest": {
-              "lat": 42.68704687010727,
-              "lng": -73.80044002989273
+              "lat": 33.95668492010728,
+              "lng": -117.3976372298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "32b4665d4abe75a9e2719dff668657caaa4634cb",
+        "name": "Tournament House Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1530,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109286371422610857413/photos\">Tournament House Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAA5CN9IeCqXzkQNKfdGxJg-IeYJrpYIGXHu69kVHFJrBKz7WjjkPDE31ji14vjFCb5jAQDnOBxpE3fG2s5pZ96dfJI0fnJLNELr7cHof3lSub8BZK5uEMSbcFy4Y3CZFYfEhDS--QL_uQFP9dqwHM2Mf6lGhQ5d_D9iS8UnARV9vGtdmXTgFweJQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJTW2Tx7qx3IARXgEFFG2Q4RQ",
+        "rating": 4.5,
+        "reference": "CmRbAAAAMr1SkRa7VLyvZOo1Nd-l5F-tyV6thWlH7yd_l-HrhT1FXU7u5rBbUrQbm3RMN9i4ZQc8V2OcWlP0AJqt9pVL5E5TlYZAteBwm-SvcMtYuieKAQdiivS8PeJp6k8FEaf6EhCF3dGqZ9drxM-I5gyzjALuGhRxT1gzMA6-1DUKA3pHFLFEzfOdwg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6250 Brockton Ave, Riverside"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68195412989272,
+              "lng": -117.7772291201073
+            },
+            "southwest": {
+              "lat": 33.67925447010728,
+              "lng": -117.7799287798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
-        "name": "Pil-Sun Tae Kwon Do",
-        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAQGeGC5jc_T7bXV18ZA7t3S3cDKDwCSCpzafXd5auE3QT0lAcXE1E82BurgWWQgpmG5l9T4Estwe0KAyn86Ms6tw2VYT1Em-2WLTen2qbPG3M-DYsgoO0t5YgBpAAMEU4EhDv6I8Lgla8-mdQnOz_UVCrGhT7xRbBWLj4U38HWlNEg1tM88Sf4g",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
         "rating": 5,
-        "reference": "CmRbAAAAPDGmtmMMWlcAqfQPxWd5E5VxgqUxuxKKG4aFfE87_irs-1XPt5paOrlU4fZpTlm8z-Y-nMybvJX-xv9bQGnbqbp_y0UqBFAwXV4AB5JW6AJKfaxFeZHWW-cEawJdsdmNEhDqIPu59_gHu6KJBKaBrrLiGhRRcqUVyOWXO3g4DDRqHmCFAb8rMg",
+        "reference": "CmRbAAAA57lZjAlwtR_Iu7IJoXwmE8cUYKXZd94mSaiFFLorrqSU9gWDKoBPARKkS71wKwlgukjoxnKCsj6hgARWw5Oi0Cz0m7w2ADlD1ay99ebNs1ZnR4LA4CFohgBp_9BfS6R9EhA7QrbTBP6viPx0oc0g_LHgGhR5CpDugF0Tcxiai82j_wnFg3NfVw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1095 Penn Central Railroad # 3, Albany"
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
       }
     ],
     "status": "OK"
