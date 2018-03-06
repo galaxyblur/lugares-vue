@@ -1,20 +1,66 @@
 {
-  "city_name": "south-bend-indiana",
-  "city_rank": 288,
-  "city_population": 100886,
+  "city_name": "lakeland-florida",
+  "city_rank": 289,
+  "city_population": 100710,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6763545,
-      -86.25198979999999
+      28.0394654,
+      -81.9498042
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 100710,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.065839,
+            "lng": -81.793311
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.06718882989272,
+              "lng": -81.79196117010729
+            },
+            "southwest": {
+              "lat": 28.06448917010728,
+              "lng": -81.79466082989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "309f30c2616d87e58f93a624a84f1aefe59f984c",
+        "name": "TPF / TEAM PRAISE FORCE, INC.",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110011247710293123623/photos\">TPF / TEAM PRAISE FORCE, INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAECxxiu-RLHee2CalubPInkESTh-N-_L_4b48mQzg784vIBXRZTMbmjYZ7iSpIWnYgLfRJ3oc55iHEmS9ZG3xWiY8NEdYYWUU_gtM2jEi0EOlk2-jJUV7Pj-iRi2Fq4CPEhBY7TVp7ZSbKJXL3p2Qi356GhQDCWzNOnrn3PlH03uerPlM1SYp7w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ_coUiUVr3YgRIpT3ZuZZS0c",
+        "rating": 5,
+        "reference": "CmRbAAAAps8_G7vbIKH-AmLwNhJ16NlY2MLhTuk5r0-XQF1Vb-BZzuDRLdhHuU8gODNowMAevkCZ52UDiJ2xDH877sUsNKUGohawctlbp3aDxyrqv0HSYf3nVzTl6mWw4eAPTsoDEhCK2m-pysW5X7wV1RDpbHUmGhS_s1dYoTR6K-fDXz0rhpSxmOlL-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "310 Courtland St, Auburndale"
+      }
+    ],
+    "status": "OK"
   }
 }
