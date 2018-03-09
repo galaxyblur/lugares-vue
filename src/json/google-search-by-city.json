@@ -1,52 +1,20 @@
 {
-  "city_name": "ogden-utah",
-  "city_rank": 375,
-  "city_population": 84249,
+  "city_name": "hoover-alabama",
+  "city_rank": 376,
+  "city_population": 84126,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.223,
-      -111.9738304
+      33.4053867,
+      -86.8113781
     ],
     "rankby": "distance"
   },
-  "people_per_result": 84249,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.0624809,
-            "lng": -111.9452104
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.06371492989272,
-              "lng": -111.9441039201073
-            },
-            "southwest": {
-              "lat": 41.06101527010728,
-              "lng": -111.9468035798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8f2cfbc15eba977dacae6933159faa2f9c353b17",
-        "name": "One Hit MMA",
-        "place_id": "ChIJeaeYzYUBU4cRuAbqTfag4xM",
-        "rating": 3.7,
-        "reference": "CmRbAAAAUx8ACrVni8ESCKsiDmrIrYbr5QAWLrlQHGNufeZf9z0czowoxFZG9qsY0tosYhntQwId5RrmHHj7Sc21tqGNLrdIgIvwdChflAJ_kWqFYel8MeGVY3WXf_ddjV5YGpWcEhDXoNdXyXUcYqCqCEPje-UIGhTv1Y3QqfVx0rN9Bx6ayOTUIQPPeg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "192 N Fairfield Rd, Layton"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
