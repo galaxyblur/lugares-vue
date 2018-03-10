@@ -1,67 +1,20 @@
 {
-  "city_name": "indio-california",
-  "city_rank": 382,
-  "city_population": 83539,
+  "city_name": "concord-north-carolina",
+  "city_rank": 383,
+  "city_population": 83506,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.7205771,
-      -116.2155619
+      35.4087517,
+      -80.579511
     ],
     "rankby": "distance"
   },
-  "people_per_result": 83539,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.7241215,
-            "lng": -116.3954417
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.72547132989272,
-              "lng": -116.3940918701072
-            },
-            "southwest": {
-              "lat": 33.72277167010727,
-              "lng": -116.3967915298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "c2e783dcb8934915daaf9586b11aae45a7c71063",
-        "name": "World Gym",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 684,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107126392213543660994/photos\">World Gym</a>"
-            ],
-            "photo_reference": "CmRaAAAAsHH3bPnl2FZpmtktxIhcjcgF1EWnuHri6McFoK6Ga5DPWKISI8AdmiLkyt5t4DAKAU1qNQSuB1W9vc-6kHEUQ6wZaEx43OUMJhx1N6Wec6CO3jBcNkulGm4hfY2-3gI5EhANIPmBRKBxpu6Dw3MDSMprGhQICBqnVGy6jgxOb0R_KuReS4zOOA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJ0RTMHOH92oARLHhZ8xmhv14",
-        "rating": 2.3,
-        "reference": "CmRbAAAAvNHn-1V0p5somPx-jOwIkId8MhUnOg1yV2TdGeYKsf8i5OChVZPZjONZU2sgZPSFtR2pgpDu9aUJvd-zBCOuNIPVECmz8cz3JoNAqQpkGgYiR0dYmeK84onTJdONS6fIEhBD-JVRL6_YjVP-xt1AxJbbGhQccyg99BkIOvK9yAo1iOdo-Y5g4g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "72840 CA-111, Palm Desert"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
