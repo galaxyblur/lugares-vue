@@ -1,69 +1,20 @@
 {
-  "city_name": "fayetteville-arkansas",
-  "city_rank": 411,
-  "city_population": 78960,
+  "city_name": "bloomington-illinois",
+  "city_rank": 412,
+  "city_population": 78902,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.0625795,
-      -94.1574263
+      40.4842027,
+      -88.99368729999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 78960,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 36.1301982,
-            "lng": -94.1187044
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.13154802989271,
-              "lng": -94.11735457010728
-            },
-            "southwest": {
-              "lat": 36.12884837010727,
-              "lng": -94.12005422989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f878265bfadb5d1b00acb8d61965533caa355c37",
-        "name": "Fayetteville Athletic Club",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 853,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115422046369926972195/photos\">Fayetteville Athletic Club</a>"
-            ],
-            "photo_reference": "CmRZAAAAp2K2x4AqmwLHdNgzh-VLZG60zG0ay7iFoA4BV0zAo8xF277ypysIwTcwOFoZK3kjuJ4HsP78r1iVwqX1Vy4rb0KX9B9qtvvlEGi0fD3GQrurswW5k2Q1e4ESBK3YcM_sEhDV0kHXdiC4mo-AmDwS5SduGhSQcy_i10xTLzNAyDa24v9EKFQGjw",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJ9ZKEp7dryYcRa1eh4mPz94c",
-        "rating": 3.6,
-        "reference": "CmRbAAAAIfgmt8QOdxUTuOvLH7D-Oz8pxemQUQOuVzfeP7PUi6jG78xASIz6hLtwFbe-DkfM3ScOWkfx2dYxR_5En6W_QDjhVgk7mbWWHtkGgbh10UxZLbTqEgO2nMLSsZ57Oz5fEhAIXJbCbyEzs5rVTouQNmXzGhRtcE57pGI-RAmjep6AxHoI5jUE1g",
-        "scope": "GOOGLE",
-        "types": [
-          "spa",
-          "gym",
-          "health",
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2920 E Zion Rd, Fayetteville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
