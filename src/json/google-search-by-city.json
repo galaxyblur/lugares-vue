@@ -1,100 +1,139 @@
 {
-  "city_name": "largo-florida",
-  "city_rank": 418,
-  "city_population": 78409,
+  "city_name": "brooklyn-park-minnesota",
+  "city_rank": 419,
+  "city_population": 78373,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.9094665,
-      -82.7873244
+      45.0941315,
+      -93.3563405
     ],
     "rankby": "distance"
   },
-  "people_per_result": 39205,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 26124,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
+            "lat": 44.9558916,
+            "lng": -93.29506699999999
           },
           "viewport": {
             "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
+              "lat": 44.95706882989273,
+              "lng": -93.29371627010727
             },
             "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAAzqH37iPWH2XCXQ-pNkRMyjyDUg_8EiObcWjFW_ee_gOhdfolmugPM9p3G46uFvHc5b7CjChL81FsJChbzpPpsWdcuU9Vk-xpNrbJoFwj7YVnDN06JONsay49jci5tfo4EhCch5vPO-R1fwRv_db6QJ_IGhSGA2pCOor8tKlXcZ3nSUcdM3Dzug",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 44.95436917010728,
+              "lng": -93.29641592989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
+        "id": "d91d98688d83ed1d5f1f438072f31fb016d3a50f",
+        "name": "Afro-Brazilian Capoeira Association",
+        "place_id": "ChIJ_deEDM9TVEARvybmao31Lvg",
+        "rating": 5,
+        "reference": "CmRbAAAAqIYL2OkGz8aNUw8Q-nYep5WYRQpAlV5AQXZSjl7klqXhIYW1sM1Zan1K0YYNt_6rWtmjpElmGBDuDpoFoTEmTYhk-Po67y8mQiZ1Cq10e_VsxfKh5qDevrU68O5RrmtrEhB3Zki_tE9RU6ocZA3Z4TjeGhSgsx-o65EZNUO8DHt8dwfOqpiVLA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1200 W 26th St, Minneapolis"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.957209,
+            "lng": -93.169113
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.95868942989271,
+              "lng": -93.16776327010727
+            },
+            "southwest": {
+              "lat": 44.95598977010727,
+              "lng": -93.17046292989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e159e8833adfd8e68a3d1dddb4623fa1b337a412",
+        "name": "Capoeira Minnesota",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
-        "rating": 5,
-        "reference": "CmRbAAAA8X4MzlcFilwF6Nwy32hPBF-QoF41Lm-yBQcah7TH4yiuL2rKYuraH2n2CvGDJlGChqZmMp0AFH3_UEMX_W1XBQLRNXAOjqDrDkx8Ubpd4V9tjJ1eNEUHD_pAsCAFQN7nEhDS2XH7SzUj0zv69-OJAJmcGhT3W9MsOAODfnUTjxbzR2sTytjCWA",
+        "photos": [
+          {
+            "height": 479,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100688324126308350534/photos\">CapuraGinga Capoeira Minnesota</a>"
+            ],
+            "photo_reference": "CmRaAAAAR6MqjQc3YuBYQ8tu0v2jvAVMngXgcpUiIwBS0BfWvMVqWk7pB-D3-QIYttsLF4H9GApekJBsrbaV1dsKTFNf0HOIIgEoIsnm7Cj30Gf6DvTML8_wYvEDcTX5h7I0tQwyEhDU8NYQfDroDNqSi_xE_CFCGhQ3u5WyWY08SEcOT-H4PfHxKWtL2w",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJeSpfUrHR94cRyKh-GcNUjr8",
+        "rating": 4.8,
+        "reference": "CmRbAAAAeiccZFibkQND7qp2QCL2WJvJOcw5ffNR9aU0_EhYIB97KaQZUBnlSz7JytijpusoxvJ5qzgGKcRh1e3dT9SnB5ANgTIztdjUFQrJ2C7SrY53DiMgh3Zo2cGyUCyeQKGpEhAFmuoewGHFSrTU5qp6eFuhGhQ-fXjnbO7OvHgMYccQxsDBi9L0KA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "1632 Charles Ave, St Paul"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.885463,
+            "lng": -93.285648
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.88672057989272,
+              "lng": -93.28451502010728
+            },
+            "southwest": {
+              "lat": 44.88402092010728,
+              "lng": -93.28721467989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "34b2fc3db44933329ed6b1771eeb629ad4a2c5ec",
+        "name": "Minnesota Capoeira Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1190,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117562375695623979223/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA1xvVtMdLnXHdU92x-TrjpibfYUBowBHNDfZbuC6dKt2oouDWvFF8UmchG-lwLeV8j1OKWbo7gJ8Wx1P1A6lOGpXBgDOIPl140MJIEX2La75DoMpABEKzaKVzNGqYiS0rEhBw0cZLfA1KvyfJLIEKgu9gGhT3bgZlaP8gsEdcSY9l5v8H_SfAow",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
+        "rating": 5,
+        "reference": "CmRbAAAAeGSHxCBHqyfJu_gmIoFaINt_vojKqX5Jvugl0c026MyhkhkM8GtbIpIFcxgqxbdd6hg2PA7BeBALgr0-NHkqgGjTQXGdYA_0556z-cS0D700hPi5wWu5VdtskvCr36SLEhCZLV0KdkHVRo8cZlBYZTFaGhTJM_9tBTst2JgAH-Br-mklN7C_UA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6463 Lyndale Ave S, Richfield"
       }
     ],
     "status": "OK"
