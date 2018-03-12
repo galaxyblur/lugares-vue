@@ -1,20 +1,52 @@
 {
-  "city_name": "kalamazoo-michigan",
-  "city_rank": 440,
-  "city_population": 75548,
+  "city_name": "baytown-texas",
+  "city_rank": 441,
+  "city_population": 75418,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2917069,
-      -85.5872286
+      29.7355047,
+      -94.97742740000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 75418,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "rating": 5,
+        "reference": "CmRbAAAAbm7AkjDYWRQPtujkQgBSdFMO7AZBwDDzJ9GTq_LR4eDSjs4hiPHXjJ96EXSTtfKcKXq6lSzqP1G2voB52kLNl6yotxCZpVRKQdKV_ZtvwBfoYDgjvCOCrkXZzbpF_PdLEhDapsL30CWDIWV_oTkhJDsvGhTx3Db5bZPubfpdeKfn6YH01KTSIg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17050 Galveston Rd, Webster"
+      }
+    ],
+    "status": "OK"
   }
 }
