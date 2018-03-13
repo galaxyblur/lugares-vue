@@ -1,67 +1,20 @@
 {
-  "city_name": "wyoming-michigan",
-  "city_rank": 451,
-  "city_population": 74100,
+  "city_name": "lake-charles-louisiana",
+  "city_rank": 452,
+  "city_population": 74024,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.9133602,
-      -85.7053085
+      30.2265949,
+      -93.2173758
     ],
     "rankby": "distance"
   },
-  "people_per_result": 74100,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.9634792,
-            "lng": -85.66276549999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.96463792989272,
-              "lng": -85.66142417010727
-            },
-            "southwest": {
-              "lat": 42.96193827010728,
-              "lng": -85.66412382989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0bdf5085229c8b0b3128a44f48cfeeb1187f2025",
-        "name": "Armentality Movement Arts Center",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 621,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108338022117382235561/photos\">Armentality Movement Arts Center</a>"
-            ],
-            "photo_reference": "CmRaAAAACLIEaj7kdxQK2VI_20pivdWitdDd8-5629XENZFkbr6scIMAhKSsTv5vwIYgnl0NarPJjytZBbaKSc5-l52QksxG2uUPtOM3921zkON-8SZbD194788WRhGvClhr6cutEhC05leXV1lJ6hj45csH2M_bGhQLnt8IbtdlwN_v3yu3ETMbzewDjA",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJGYYf7LitGYgRp9ftcRNC17A",
-        "rating": 5,
-        "reference": "CmRbAAAAZQN8Ty5N-iQA5sTULs8xnP6XmG_y3jO5osi1R_men7frchifIBjtfwlIdII8R5OHYp7S0jvb_HomyjnXcktfn-9O4xAho5zSP1Iz3e03CyOy4Fdbx6yfi_NpWcvXCryUEhCObe0tRTLtHD-nRoci3ZuTGhSD3eutKbzs52fYKcNLNJOEkTt02Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "233 Fulton St E #620, Grand Rapids"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
