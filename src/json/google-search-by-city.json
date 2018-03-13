@@ -1,20 +1,52 @@
 {
-  "city_name": "appleton-wisconsin",
-  "city_rank": 456,
-  "city_population": 73596,
+  "city_name": "gastonia-north-carolina",
+  "city_rank": 457,
+  "city_population": 73209,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.2619309,
-      -88.41538469999999
+      35.262082,
+      -81.18730049999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 73209,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2640118,
+            "lng": -81.1834842
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.26524472989272,
+              "lng": -81.18213307010727
+            },
+            "southwest": {
+              "lat": 35.26254507010728,
+              "lng": -81.18483272989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "49b57787082928752521fdc623c7a1fbf0a4f842",
+        "name": "Equilíbrio - Movement Culture Center",
+        "place_id": "ChIJL2w7GxXAVogR5TYJlSZggmo",
+        "reference": "CmRbAAAAqeCgs_0ZLH1pmNXEu6ul5CdmFAYmhfPWZ5UjYg6FSLpgtF_5nzxTr3B_FvhLlJcfSSvk26bVqCBoKKYovRbHB4ZgBbMIvoiV_z-OX__zgXtgxyuFFrLc_zTuIe1ngTfbEhAF_u4PvYiXK8rIPNY8Meq_GhRCshKcVx38HlX4uo30SOZTHKp8Dw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "182 W Main Ave, Gastonia"
+      }
+    ],
+    "status": "OK"
   }
 }
