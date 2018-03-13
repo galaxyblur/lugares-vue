@@ -1,56 +1,20 @@
 {
-  "city_name": "canton-ohio",
-  "city_rank": 463,
-  "city_population": 72535,
+  "city_name": "warner-robins-georgia",
+  "city_rank": 464,
+  "city_population": 72531,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.79894729999999,
-      -81.378447
+      32.6130007,
+      -83.624201
     ],
     "rankby": "distance"
   },
-  "people_per_result": 72535,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.0075209,
-            "lng": -81.51963339999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.00878747989271,
-              "lng": -81.51841182010726
-            },
-            "southwest": {
-              "lat": 41.00608782010727,
-              "lng": -81.52111147989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0eb94e2f42d080c34349988b3839a9495e7703d9",
-        "name": "Akron Capoeira Club",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJc8HlFH_VMIgRiHHGscB1bk0",
-        "rating": 3,
-        "reference": "CmRbAAAA60XiDpqZKmSWG-DUQ5Jdy1DIKErKxU0HNjMkm0pyqTf3THcPrQuTwbwX-aEypsfjDUKb0ZLwwp5TQY2k-OnqCTnX7hQbNjKWDpm-wSZqBvxNh_p0ccSM5DSPNzT_Slc5EhCSlzUWkcrhTVvRxp0fDJX4GhST6mz6um3zxY4VoULNW1CcCyYchA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "119 Delora Dr, Akron"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
