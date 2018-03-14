@@ -1,20 +1,97 @@
 {
-  "city_name": "rapid-city-south-dakota",
-  "city_rank": 479,
-  "city_population": 70812,
+  "city_name": "layton-utah",
+  "city_rank": 480,
+  "city_population": 70790,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0805434,
-      -103.2310149
+      41.0602216,
+      -111.9710529
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 35395,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.0624809,
+            "lng": -111.9452104
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.06371492989272,
+              "lng": -111.9441039201073
+            },
+            "southwest": {
+              "lat": 41.06101527010728,
+              "lng": -111.9468035798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8f2cfbc15eba977dacae6933159faa2f9c353b17",
+        "name": "One Hit MMA",
+        "place_id": "ChIJeaeYzYUBU4cRuAbqTfag4xM",
+        "rating": 3.7,
+        "reference": "CmRbAAAA_hc0avdn-7KusKkwmSK-TBqLYhPJFye-S90vDtROTv-CKAD88fg-dkVQfCEYyhGyYKBlxwx0PfxGqvge_Et0qmofm1LLM0qICAi3f3dyPOVRbs5vLvh1CBrDU6SWpbwMEhAD6g564uvXNNX0KzSeOQO8GhS4KU50UQz_7LStSqtMgklaPlAlAw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "192 N Fairfield Rd, Layton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7667678,
+            "lng": -111.9106359
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76829737989272,
+              "lng": -111.9092676701073
+            },
+            "southwest": {
+              "lat": 40.76559772010727,
+              "lng": -111.9119673298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "444c5f04635f4254114077eb2ad479a143995288",
+        "name": "Salt Lake Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAPMed8o-MU3M76JAsK8P7vYgK860r9yvmI8Mo2d0XUTONI27qkordYOL75TgOO7Hbc12LoeAuqK4JXTNVlcmiazkBD3TW5ukE2wb2tP8rRfB45Pyzi5FyalA1gxb5nmd9EhB1FXAPQsRVc2yY95FmknM4GhSn9mSoYcT8O8hBOWmuqcxQ5dRFSQ",
+            "width": 852
+          }
+        ],
+        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "rating": 5,
+        "reference": "CmRbAAAAvBuPY2AcqJIWOZSfXpnCkU2EQ8TWixI1MnJzdJxii9nOr1jfhO2TYRmBIhjyrF3Hl1dhMR1CWDCikG2FYaoJTKNRjjQbXBz-fXLXFu4hf4vs6KBxat_OLWBr8l1JLax7EhCUlnxkIo0ze3h975AHNBHAGhQMUIxmOhqTDrAzolY6rcuX9MMiRg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "West, 663 100 S, Salt Lake City"
+      }
+    ],
+    "status": "OK"
   }
 }
