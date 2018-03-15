@@ -1,20 +1,109 @@
 {
-  "city_name": "jackson-tennessee",
-  "city_rank": 505,
-  "city_population": 67685,
+  "city_name": "pasco-washington",
+  "city_rank": 506,
+  "city_population": 67599,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.6145169,
-      -88.81394689999999
+      46.2395793,
+      -119.1005657
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 33800,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.2320365,
+            "lng": -119.0917008
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.23325617989273,
+              "lng": -119.0902865201073
+            },
+            "southwest": {
+              "lat": 46.23055652010728,
+              "lng": -119.0929861798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6e2430abdbf7f4264d53322f6223d1636d5d66f9",
+        "name": "Find Your Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108612422938682037257/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAPs-bG9ituthbFXWS-mO7Df2OUf7-BFPH7ThgBgibVSIiSb_7yhlSy71uStKck8FYhL5mMpmoMjPyix7mc6Rnoff0otWCfR3tqhiExYoVva6OfHV5pebzRNCw5qf2JX5dEhD8O8xtb2ylNMcjzFEJWQpuGhRWF2RS6eAdJwbR2d4pfUg-b-uOmg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJrVLqyOd-mFQRpIheQsDKj18",
+        "reference": "CmRbAAAAbtPozuZVHroPm-RGVXJsxQ4Zq4-j0kyaorN3CfBDUy1--IFHOs7jH9ryGD_kMksphS2U7qcaZm4CAeRbAHK3vNVwKV5df7kucXEq-VYV4XfK4sT5oYLOx0x3qi93JN2MEhAo4_3yILN_ZIGCwEApSnLxGhSMC8g67OJqYzG5hkibC9k49OY1OQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "411 W Clark St Suite E, Pasco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.2625416,
+            "lng": -119.2676883
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.26392017989271,
+              "lng": -119.2661050701073
+            },
+            "southwest": {
+              "lat": 46.26122052010727,
+              "lng": -119.2688047298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f9aa1607572a2c6ff50f1a7061968936bca2b424",
+        "name": "Tri-Cities Academy of Ballet",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112920290808815131837/photos\">Penny Law</a>"
+            ],
+            "photo_reference": "CmRaAAAALsVgsiljyBpbd8THKmDt1h-n-wgaNuwpY9fcAyx0UusaCMMzeof0nwGTj5ijkEZB9gltvqVmcCVG3pI_EUIQcHPzPAmP3iP0HropT5DJEi51TrnvmQA3kkxIfrZD3Z4uEhCe14Yid1KX2_Q9COXPq133GhSX7SWsI69Q9PffEYxuiLtER7Dlsw",
+            "width": 577
+          }
+        ],
+        "place_id": "ChIJAXoRUIt6mFQRycG_tSmlYxo",
+        "rating": 4.7,
+        "reference": "CmRbAAAAVQgqpATS9jgxMnVbP7xsEgt21XsAJybGWjmSjTs2F3R4CGq40pk1J_260sR1fIaSJxbfojmXK4FQ7NFuzHqEv1OPpm_-lFlY30YT8KF46IZPLzO2Vrn9rWyaHzZg7ZyeEhDIQi0McxCNVRYXJCqKL1mwGhQynR9dFlmm_II3Dd2Zm9P9eIs8DA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "21 Aaron Dr, Richland"
+      }
+    ],
+    "status": "OK"
   }
 }
