@@ -1,64 +1,754 @@
 {
-  "city_name": "kenner-louisiana",
-  "city_rank": 512,
-  "city_population": 66975,
+  "city_name": "walnut-creek-california",
+  "city_rank": 513,
+  "city_population": 66900,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      29.9940924,
-      -90.2417434
+      37.9100783,
+      -122.0651819
     ],
     "rankby": "distance"
   },
-  "people_per_result": 66975,
+  "people_per_result": 3345,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
+    "next_page_token": "CqQCGwEAAFVmxdRYYHFIv8KoUxUwNdn-XhfAR43gZlB5yN7nAi20OwBp7NRm73R_TvFaPdvY8A8BpApO4UhqJacl8e6_GwZKLsLrBRBtpxljMyXwu-uLiRUtpZ4ZdvyHJd6Zw41wAgXb6CjywSf-ZR36ZSDXDBUZ5Ll5fYIO42ubtA1eu1LiVZdg13VYbl5kUEsempY_37_VMjfLHP6Xiuax87gbC8E9MLEPeaAQF5zmDbFNOk8IinYOR5YSz3uhVrliNibPs8vvbLIOLJLSq5OIgzZybaVjcHftZKSPlemnEVGmDAajnwffBPMOeebJTpi5eNMjWj7jlUp7lsMiW1QWHKqIm5BKVR0yd_9pjwtToOVr2SLSX40sUmGfYnAyubziGfHmzhIQ3-WoPVDK9Eqq5OxN_rAGyRoUlOHRL2Y7oJthhMhJE39NGOkhUOs",
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 29.9731788,
-            "lng": -90.0802401
+            "lat": 37.896831,
+            "lng": -122.06799
           },
           "viewport": {
             "northeast": {
-              "lat": 29.97461242989272,
-              "lng": -90.07901747010727
+              "lat": 37.89829742989272,
+              "lng": -122.0667052701073
             },
             "southwest": {
-              "lat": 29.97191277010727,
-              "lng": -90.08171712989272
+              "lat": 37.89559777010727,
+              "lng": -122.0694049298928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d658fba56a411971e3e0575b5aa62de58abf25be",
-        "name": "Capoeira New Orleans",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 5312,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104633215119647928015/photos\">Grupo Maculele New Orleans</a>"
-            ],
-            "photo_reference": "CmRaAAAAjRImVyt2HPywXR-SWXdug0gAGclOKYO_kuiPkVqyhyEH7kLs_5kduV05dY7jDODfuGNwHcBXRqtByWEGb6s1xBUSJr_8CY8RXhkQo3mjJPa285Of4EY3OerUwV_OxFryEhDCmbK5_guh6u19hE--byAcGhQThvaOix-UskiyNOx81I5T4SGtIw",
-            "width": 2988
-          }
-        ],
-        "place_id": "ChIJ99HE4XmmIIYRe2FrUPTNVYs",
+        "id": "a724da139b348d098dd5cd9ea4f50eb51fbebe16",
+        "name": "Omulu Capoeira Walnut Creek",
+        "place_id": "ChIJ9xGSkuxhhYARPKacbLrJwVE",
         "rating": 5,
-        "reference": "CmRbAAAAOrVK4b0PPld-lNbPzgri0qfuXPnKfSGWInEPG54lqrE4yev5_MZHAcLYLcEId0ydlyGFe3DK0OjUabZS11j9byfChfPgXqV83fhq2MW8OEH0Kf8KNGQZ9RDAHDlIniThEhCdFqoinQvQq3jOf32u7hAJGhR1quc8FiO4w8YBjPkNpEPmn1G2-w",
+        "reference": "CmRbAAAACL1leoXoY9LoLH-bdOeZIIIAA-oSitVk6kVHagCd8rT5BDVf4CEJN1LJpNSiTYvw_05qecAzvnqBHZ8lIHEltKGekty1sZFnmP1UVrmXfXX76TfcKDSj5XeNjfY5lkHFEhBfiuvhHYwBX_T672XWulgXGhQ1sBxZ5OXyx40BTnhdNVsXIbQDjw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1016 N Broad St, New Orleans"
+        "vicinity": "2029 Mt Diablo Blvd, Walnut Creek"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.9708499,
+            "lng": -122.056075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.97219972989271,
+              "lng": -122.0547251701073
+            },
+            "southwest": {
+              "lat": 37.96950007010727,
+              "lng": -122.0574248298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "13f0f6a8f8e530ece47a412fc672c82db222a36e",
+        "name": "Omulu Capoeira Concord",
+        "place_id": "ChIJZybGasZmhYARJ1HShJnOyVs",
+        "reference": "CmRbAAAAwa0jFrwT5rytqghjtlWVseE5XVVn0XldhsAEZhrwOry0N4NQTabdBDxOMJfS5TcEhaI4hQN21HVVFDOz2g00L6T5AytybMYTuYSJgPVlKLwZqgdpZ8undhLakMS-xbYpEhAMhKjf3GxzCoCtBkJqZD0HGhQhyykEceHiA5Grd3mNTBKdHX8O4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1975 Diamond Blvd, Concord"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8354478,
+            "lng": -122.2508193
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.83693217989272,
+              "lng": -122.2498208701072
+            },
+            "southwest": {
+              "lat": 37.83423252010728,
+              "lng": -122.2525205298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8b110258b4aaf0f337f92cd004af5d2183ae305c",
+        "name": "CDO Bay Area Capoeira",
+        "place_id": "ChIJwXOlVu59hYARbLSzSRBb70g",
+        "rating": 4,
+        "reference": "CmRbAAAAByTNFryZiezEAzI0i6Xu8q8NIGxd9qJEPG09XIGBQDqQZik1TMOoLRcLkD52UX2PfoZhjktuvwNgpBTOuAIneIEpvJqr8gWppjz_ItK8YAkzFPT7a4llHPpFCfwo-oCMEhCHYc3FkYJamQO49dqG9LhwGhRGtCwLD__zqmwa5HugGCqmcNImHA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5212 Broadway, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8271247,
+            "lng": -122.2519954
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.82847452989272,
+              "lng": -122.2506455701073
+            },
+            "southwest": {
+              "lat": 37.82577487010728,
+              "lng": -122.2533452298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "951ad1d12a905d2adeef6239614515c817afd189",
+        "name": "Capoeira Institute Inc",
+        "place_id": "ChIJKy8nl_N9hYAReFW98BVkFpQ",
+        "reference": "CmRbAAAAuF0R3vyneunhwpgcICY9saKEdT6HwNL2LIR8pQ2XDx-djH8aM-1LwXYJ09iAK26XgnZFrQ2N9FGj0hMY2GLK3WL7fwCy5C_n_JXcCTssh__mOPwgiMs-abetGbs4NWvtEhDByKa8ckbIroJGVdpmC-JbGhRNIYDmYI3vuD0DUm5Yv2tJenPvmQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4225 Broadway, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8093494,
+            "lng": -122.2499629
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.81066007989272,
+              "lng": -122.2485622201073
+            },
+            "southwest": {
+              "lat": 37.80796042010728,
+              "lng": -122.2512618798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "200e35beb66df297405abc8661330a44e751bb6c",
+        "name": "Capoeira Angola",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJtWnimEaHj4ARfbTaGCZOB7Y",
+        "reference": "CmRbAAAAZXRgqdqIhxfUbbCKtqaqrZILBLEXWFxtmfANez-F6BWWJI7uN3HVXpBd_wTt4O5cEPCN00KfipAtnBfVKZZzIiO7C13k6qp91qWrb8oemTbTIuFiyENIdvLMwaV21GobEhAulgVzMHtpwXmXI2NFirIPGhRZvFyaFjxnCgw6flx7sXnFzqmR1w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "580 Grand Ave #304, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8538179,
+            "lng": -122.278754
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.85514617989272,
+              "lng": -122.2775533701073
+            },
+            "southwest": {
+              "lat": 37.85244652010727,
+              "lng": -122.2802530298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "df9843557612f84b95d67f95a24a95d90c43b026",
+        "name": "MVMNT Studio",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1220,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111617050279321011776/photos\">MVMNT Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAApHBDrJV6gnKnRNCmaaLcBRtpR_73rfKbDHwcdAi_zez0OJb6nHSPja-huDgowpBrlYaT9LisgV1vf72RvfraatdhiwfoteVustzsIdPqije8JEjVd_Ab3AouapoIJpfSEhB24py_T3k0YiejUZtW-5q2GhRi99hebWTqpbSqZPKu9JlwDP7-Yw",
+            "width": 2578
+          }
+        ],
+        "place_id": "ChIJ1XMKJYh-hYARUBgAt43TQvo",
+        "rating": 5,
+        "reference": "CmRbAAAAnS4irc7VGrVFWhseSI-jDHOnZqmw_5UGfcoh2KSSH4VdiwHBvrQAny75qiD2xUCjIHAsdv80cYbIWp6iMgVnD5B_i90-7CEh_m8I0zHrsJG3QFSue6pzEVmwMqqv1qJZEhCuFnpldVnnsEcElYFucw1QGhS0rExb4es3z1jsLVl-T4pD4RNWKA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2973 Sacramento St, Berkeley"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8703062,
+            "lng": -122.2921361
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.87162462989272,
+              "lng": -122.2909399201073
+            },
+            "southwest": {
+              "lat": 37.86892497010728,
+              "lng": -122.2936395798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a5bb45f2100a3fc2d3fb05f4261f6750a205097",
+        "name": "United Capoeira Association- Berkeley",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ4dCxo8F-hYARC7xZxocw_BQ",
+        "rating": 5,
+        "reference": "CmRbAAAAmvyy-1Bmg2uD14sV7YK_F-Bh0F5a4dUIsK3oG25qe0C_7sKvKrzRbm5Xwn81SQrTaFbjY6jNn3se-zuGdz7L7UWY6Xx_fomJxZRjKPQ6gsazMwF_gvA8RF179nvLIjDqEhCwx-S32TwL98QojjEkJmIOGhQ7S37yCgKyhocQ7Zt-HSrz98PnEA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1901 San Pablo Ave, Berkeley"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8339836,
+            "lng": -122.2797389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.83536452989272,
+              "lng": -122.2782404701073
+            },
+            "southwest": {
+              "lat": 37.83266487010728,
+              "lng": -122.2809401298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a85742f411fbad162336fa1624a7f5ef1666c734",
+        "name": "Filhos de Bimba - California Bay Area School of Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 359,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114316422815784633441/photos\">Filhos de Bimba - California Bay Area School of Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAA9HtSTTsYijOP0fXPkB2hltAlnVvOnu_gm536FG3RuzWDRX2v-oM24LQfBbD5KhQfTwk4mNnpmPKcq71QLW_XgB2MDKQT6hK5QvuyFez49WyLn_K9YwtvMYthE3sB1nSxEhCFNKKHy093D1ArIroQDg5dGhRt0ot4FO_HMGOAFVAcckYGBgUY-A",
+            "width": 630
+          }
+        ],
+        "place_id": "ChIJJd7XKhN-hYARJQnjbWtVp5A",
+        "rating": 5,
+        "reference": "CmRbAAAAlvetLleS0y2YcwFsJv8C4FiOiVS9u_aBsoNi8zRvdV_3n4YYtE6yKZ3ZWe87AMM1mwzvI_lBt7G_aDjjtRTWM_7EFuPV5IkgdBh825gov-_JQpu4uAp6s8JcLOUbJ_EcEhAnm83cIJD3vYwGDvR5BIUzGhTE_EHkxbSe2kN3Og0uyl4c8mwD4w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4321 Salem St, Emeryville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.872133,
+            "lng": -122.301145
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.87346507989271,
+              "lng": -122.2998840201073
+            },
+            "southwest": {
+              "lat": 37.87076542010727,
+              "lng": -122.3025836798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "570f90a604ba9e5706eb0f0570beb32d45ebf995",
+        "name": "Capoeira-Brincadeira Viva Academy",
+        "place_id": "ChIJf6H8Gdt-hYARphbK52mfZMY",
+        "reference": "CmRbAAAAVv0IrNE2G_WFz1ziKzUcUX-TK7LCscD2TA25wLSRTjz7Qdh70hyQzIF-W2eQX6AfdjrhnA_lso47hNc0sQYPS_SoqN6XVyluSXQOLUyS9QT1Iani8j_Y3BQs4MwCoBW7EhA4qP93NiRUyfX7RgfsdVBEGhRiR1i-2xE63fLNyEWM5ThYpdIOkw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1645 Fourth St, Berkeley"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8028283,
+            "lng": -122.2655877
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.80427272989272,
+              "lng": -122.2644817201073
+            },
+            "southwest": {
+              "lat": 37.80157307010727,
+              "lng": -122.2671813798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4e403497890e9d41aff48e389684011f52504c0",
+        "name": "Omulu Capoeira Group Oakland",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 797,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108872424464866073361/photos\">Omulu Capoeira Group Oakland</a>"
+            ],
+            "photo_reference": "CmRaAAAAoxe-y1DgxTgWhiLvU5kjyaOotiMLRlUFVwouNR-wKv-Hv_zI2NggfrLVmmugWuQ0xtb4ZlaNzBLljmfdPGLlq58v49cy0kCh9Yqoe4XQ5T3WO8ORRq32PdwfoDy20c3WEhBsJuOJ-RxjJL4Ll60ZPytiGhSxzMoG005KEDZ8f87jFWwyU0z5Eg",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJ1wap1rSAj4ARw1rSgqvOpkE",
+        "rating": 5,
+        "reference": "CmRbAAAA9ZhgBUokbo-x7Bw5NjX98TfbEMLEx6PKY25ENw-501c59VczYi3zo3Sb6-9vQpvdJKsjnQLECS5XMy5hd05KwWiDA6oz2vhlDcUOSNLiuBSvYOyVFG8pnFrzOYl-ibyvEhBNrHcD7kU29rNO43uRHvwjGhTyS6MuuvWOvNbXR5RGjNQcWsSt8g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1428 Alice St, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.821198,
+            "lng": -122.284279
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.82254327989272,
+              "lng": -122.2829088201073
+            },
+            "southwest": {
+              "lat": 37.81984362010728,
+              "lng": -122.2856084798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "700bb4ddfd27ef86fb653972fff15281f0491075",
+        "name": "Capoeira Brasil East Bay",
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109455366979384739147/photos\">Elena Spitzer</a>"
+            ],
+            "photo_reference": "CmRaAAAAXgN1LkT3-XD9l7urtI4s5TYrVgzIGGXGf7S9aumezVdkKplxmqMI2ynsaG_n76fdoJB44RXu_rilHAq5-N0Kcf3YY61xVyoI7Mb2GCT4mnwl188Hd9o_vpJeyyMRuQlaEhAUOaSEK1dAfQtV_wiJ7kU1GhSZEZWY3uqINVImZ2q_DTEJZ6iWJg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJObXtpBl-hYAReCxNKGB4PS8",
+        "reference": "CmRbAAAA5_U_YDoQyVd8S3F9ykdUEuxbK7jCNuKRH5pemMKpRKm6_YgxHX3NYNyYCMecxZAaaSlJ2KWzKEHhpR0vUwuXGiqaqLYLdT60u4BrZVoybE1fmibY4gyw-5vQGAhhfBYxEhAEO2COK5buJ0Ze9tDG6hVhGhQZ-DWtT7VphFCXe0H0VVfG7h3DiQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2822 Union St, Emeryville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6748522,
+            "lng": -122.0810687
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.67610232989272,
+              "lng": -122.0799045701073
+            },
+            "southwest": {
+              "lat": 37.67340267010728,
+              "lng": -122.0826042298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
+        "name": "United Capoeira Association - Hayward",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1362,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116049420993522808852/photos\">United Capoeira Association - Hayward</a>"
+            ],
+            "photo_reference": "CmRaAAAAcW9EkYCNB6-EVY3pF6DyTwxxxnq2VIcE4KdqwUHdUJF1bXpHm9D85RzkCRS8ir1Xb-cK-8C2mcejDo11w5ZqyS1eCHcterWGJ98xz09tp_7N2Ng2JLJuBiIDaEMjkD-yEhC08P5XyJUg0nb2isG1wh5OGhRRqHlSMxWYpGMQhk_W4qfShE6eDQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "rating": 4.9,
+        "reference": "CmRbAAAAcA_LVO3ZNuCpwCbY8o_QAoIl9_ADI0dknJjQ3Sk8cJy4FeA3K6Z1vr473Zu1KgxqK6KTsz4Q8vZDqfqfa5mMrjJH3jx-bFNSKmNChLpHqRZDdQG7KJpnabpADxHBUWjhEhCkj7_esBd2AU5UjSy63hNdGhRoq41UpEvxh0ES3KBeUWZG9Uo01w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "22540 Foothill Way, Hayward"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6574762,
+            "lng": -122.0545358
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.65882602989272,
+              "lng": -122.0531859701073
+            },
+            "southwest": {
+              "lat": 37.65612637010728,
+              "lng": -122.0558856298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "408369ee432ff5c5dd4753f07a502e78f3982f8f",
+        "name": "Omulu Capoeira Guanabara - CSU East Bay",
+        "place_id": "ChIJjbzlMfOTj4AR6SCrnIIQmq8",
+        "reference": "CmRbAAAAIaRPWSfaEqc0zzG9ycNbxUgSmJZViq7fEGK-DNRxrg8ketFZKxLeCNVSzBnxMdto8Lti3PzM390KwU0B6jQZBZ-ieDpRhtj9-GHlkLYYs7FDm2JVUpfo8q9so7qDL6rOEhCy_IFdtweh_nOmA6Ju7IiEGhR6v2H8VJU9dckL_hRjAmd6P9XT5Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "25800 Carlos Bee Blvd, Hayward"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.7645028,
+            "lng": -122.4128589
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.76584707989272,
+              "lng": -122.4116059701073
+            },
+            "southwest": {
+              "lat": 37.76314742010728,
+              "lng": -122.4143056298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "205350dd319a1c36475d145d53c53844b75d8722",
+        "name": "Capoeira Ijexa",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103748807866937759046/photos\">Ryan Molyneaux</a>"
+            ],
+            "photo_reference": "CmRaAAAAkOlPFjnffDdkTpO5jyAPgE3Rdt70y1cmDNZ04w9xbIxFOM9D5FQK3UiICW6YcF-xjGbuEB7p0myMLoG9oo9kVQTawCEfpEOnG8FCddD-MtHCA6Da2NXwVQg1xXYtjdiWEhB_PR9_-T_mP5sWbVb-I9mpGhTRDf7bc3xQiV08f2gM8L5CxneMnA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ0an8qjp-j4ARNjrs9Fq6bDw",
+        "rating": 5,
+        "reference": "CmRbAAAAzMZ0ZaWFfL9IHyeGq2pspYDt7ccEX0HcXCHdEA27Tc-yYadNR0SsKL2XQgMi6TGjEn3ynsbQOSFNZf3QltP7XZERYmeB-KOMCQpIY-CrjKF2Q3vV2pwsCdyXb3KHXm7fEhCC3shVkPnM2xxjJSoTMMnsGhTp5WkZmxXgZeXdE6s9xqzq4Iu53g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2095 Harrison St, San Francisco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.7623689,
+            "lng": -122.4175922
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.76372917989272,
+              "lng": -122.4160685201073
+            },
+            "southwest": {
+              "lat": 37.76102952010727,
+              "lng": -122.4187681798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "77412c3d8a9250032d4c2df6d73a1b3f4cde681a",
+        "name": "Omulu Guanabara Capoeira- Aceituno",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJI_E8RDt-j4AR93fHfwfibMs",
+        "rating": 5,
+        "reference": "CmRbAAAAWoYvkoPv8VVRPQ_Pif-ZnPjk_axJ_5G9hWumRtDphAfUJAYzuRZzrvYc0VDM6b4D5tXdBiuq9XY5_MqCwwrkLLXNQSQ7HHLpXhpvcHUJQ-d6-3lmpySPnFiFAKXSbaY-EhBgpSe_lcHjYyVg-4pgLU69GhQ6PFU9hu7vcAQtZ3NlUaNDcHufYQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "672 S Van Ness Ave, San Francisco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.774582,
+            "lng": -122.43078
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.77591962989272,
+              "lng": -122.4295247201073
+            },
+            "southwest": {
+              "lat": 37.77321997010728,
+              "lng": -122.4322243798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "3f9cb5ee8e5f2b6ea803392a85d36d15ef28c073",
+        "name": "The San Francisco Capoeira Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1346,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101040503272965078552/photos\">The San Francisco Capoeira Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAmtcFJ9gEHPxL4ZZ4vy20D-xAFaD2BLnHhxvLfgWRvSkUjyf0wP7hiSrDUeOTEii8nKSNF_rK1DQ3_TRVyRs0Yrz2EUMiu_6HxYlUEUKszI5vZ8Z7xx2iO6e4sGH7zkwIEhDrt71DPkgDvd60a8OAI9edGhQUnPeAxPfXnhvDZJwNE3pYFWqoGw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJuVmpbKSAhYAR90vjglgXLj4",
+        "rating": 5,
+        "reference": "CmRbAAAAZco7P5fR3cylcK6Jmd77rgfW2f_RxDl1R5wf7ACqvwMrGCP2_vIt2cAHZkDkVBQwYnoi70J2RKk9TnY0ENjwr-R9G_4LXocwXOmfZAnrMyrqXJrcdcpmKstq65rzeRcBEhA5zP9D9NUrU3qhX4ySEpYsGhQd68EMVA6CeR9fTp2DgdZaPvcUsA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "548 Fillmore St, San Francisco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.7552517,
+            "lng": -122.4192776
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.75668227989272,
+              "lng": -122.4179356201073
+            },
+            "southwest": {
+              "lat": 37.75398262010727,
+              "lng": -122.4206352798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "9e69c518bc1e3490f6a10b63c744b972667cdd30",
+        "name": "Abada Capoeira San Francisco",
+        "photos": [
+          {
+            "height": 304,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103981039424532500470/photos\">Abada Capoeira San Francisco</a>"
+            ],
+            "photo_reference": "CmRaAAAApH6SxSnyL0pjVTxiToPZGC2xxec6m5FXTqBXROgz8hT3Wt2DUEatmEHUhsCfq5sWXaeEt8kbVFv55V4xbbfZ_yU2mKSqbV6h8yVHED_xOGEvkZIGkODN-fjO52T887ecEhBKKE8JVF6XgAN2XJfMnF2MGhTPVD6AUTN3ocqxg2ujiIMCQP1Kew",
+            "width": 300
+          }
+        ],
+        "place_id": "ChIJAQt1Jz9-j4ARhlcWQV5K4lQ",
+        "rating": 4.6,
+        "reference": "CmRbAAAAw5uzXw3Xll-mqOlnfpByIsm979ZVxz8kPbcLcxMa8OCq5TfhM3WtMq3L29Gbr2rSGqJH4g3O3eU-mKeoveN9ai_daA3EtnEqicnWuZYkeKCPyiy3I_a1hSza2nSkoFFCEhCoZSgtiE3ec7vYzhp99KSSGhSdF-Rnyx-kJDKMifSlL3g_UvP7jg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3221 22nd St, San Francisco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.7876358,
+            "lng": -122.4414587
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.78913902989272,
+              "lng": -122.4401401201072
+            },
+            "southwest": {
+              "lat": 37.78643937010728,
+              "lng": -122.4428397798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b3a30d6e962798250ee720e6f271af75aa1407ce",
+        "name": "Capoeira Sul da Bahia",
+        "place_id": "ChIJZ-P528uAhYARltXJwqzbESU",
+        "reference": "CmRbAAAAxICo7rIb0v222U2z3MjQe6TI_HaREdJF_AY3S92-8RR01Z7Cqo-6jGHUIvTpPWgBlYuvMWVRLLcLBcyZy8Pz4773UpCPyPCy_RHUvbuJ5QK-Gw1DnRUw8feLO8FoyYofEhBR78aszngiCL80PFW9SA17GhRIv2oouCSXE0Sejo9FrR8_SHHEiA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2863 California St, San Francisco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.7627429,
+            "lng": -122.499888
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.76400337989273,
+              "lng": -122.4985316701073
+            },
+            "southwest": {
+              "lat": 37.76130372010729,
+              "lng": -122.5012313298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d149dabc29859a60a3cbc9a4d63bc035f1c61f39",
+        "name": "Capoeira Brasil San Francisco",
+        "place_id": "ChIJscUaQhqHhYARM6ZFw8fLi5I",
+        "rating": 5,
+        "reference": "CmRbAAAAUwSYJj995T72y7XABMKXNpOsWD8wILKKz2xxnbK32o9UWopZAPxw8HbTco5BCrqVuauU1wyag1RmZQ_eGiwvPVF1wON8JxmECXnU9ZV15UxPM5nRMCeUEYIMGNtHGL16EhAlrn7Xo_mqRrQ5yc-LNF1uGhQ4Qf6n4ITmSkJHRuNKotFfe-w3pg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3906 Irving St, San Francisco"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6877853,
+            "lng": -122.4696317
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.68919692989273,
+              "lng": -122.4682825201073
+            },
+            "southwest": {
+              "lat": 37.68649727010728,
+              "lng": -122.4709821798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "26ba664651fc8b6deba9e72741fcadb945b270cb",
+        "name": "Capoeira Batuque Daly City",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJNS9t1HJ8j4ARjiSKM3caA4Y",
+        "reference": "CmRbAAAABunqfnoWxMvcIXgcan4dQFX2mYpNogPpEh50yXiNUqOFYBM-dx4NOPnJR-SXAM0fYPh0MU0MY-BYIzzMYV8YeQ0QWerfe9U7fN-f95DUraD0WkwuG8LaVhuL6pbqEKFHEhAyrU9yTiBLlGKm1NHwYBVjGhS1reVtA5Qwr_6q9EuuUxgiWgz-zw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "69 Washington St, Daly City"
       }
     ],
     "status": "OK"
