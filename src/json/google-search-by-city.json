@@ -1,20 +1,66 @@
 {
-  "city_name": "victoria-texas",
-  "city_rank": 536,
-  "city_population": 65098,
+  "city_name": "san-clemente-california",
+  "city_rank": 537,
+  "city_population": 65040,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.8052674,
-      -97.0035982
+      33.4269728,
+      -117.6119925
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 65040,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68195412989272,
+              "lng": -117.7772291201073
+            },
+            "southwest": {
+              "lat": 33.67925447010728,
+              "lng": -117.7799287798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAtFKMlL2rTM_eDLEeV3Mx8p5cpUXVW4MQIHOYzLCYCTMNDMAmKftOC6YSbepdtiPQd7kvT1gANAh6YVxcxVODNknBX1OFaMUl2v9A1ff0wC0fIQodRkwCBr5UJfyDycTWEhAEN3xj2KAXlQbNaj47w0fGGhQDXyZmnR2L-74Fn-6r-tppK2O_SA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRbAAAArZIpmKkA1icqTQ3MsdLIUy3TSvCPrU0PDif5VqLGhO24Ffs_hWsbU9ozrlq4WOAYkhKnE0d_jfT8Co4xiSdCDGv0X10-5UYSS2rFE64S9RYpb91rkeEHNKXr-NjXwE82EhDt9HeoNK6dDjCf4uR9TjpeGhRjV8VzN2BH6_xXcb5eAruc0TAoEw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      }
+    ],
+    "status": "OK"
   }
 }
