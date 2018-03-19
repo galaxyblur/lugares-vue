@@ -1,20 +1,98 @@
 {
-  "city_name": "moore-oklahoma",
-  "city_rank": 618,
-  "city_population": 58414,
+  "city_name": "jupiter-florida",
+  "city_rank": 619,
+  "city_population": 58298,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.3395079,
-      -97.48670279999999
+      26.9342246,
+      -80.0942087
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29149,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.558822,
+            "lng": -80.0710447
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.56024367989272,
+              "lng": -80.06969367010727
+            },
+            "southwest": {
+              "lat": 26.55754402010728,
+              "lng": -80.07239332989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dd8be48aeb09e6b8e81ec2d801ac62c843e60dc4",
+        "name": "Capoeira Karkara",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3300,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115378533334271158596/photos\">Capoeira Karkara</a>"
+            ],
+            "photo_reference": "CmRaAAAAscIxc14UdqDSbWKktIGO9s7oTXhxB8_Dp85ujLhJrZDyBJWgEJjefp2ecmMMWhq9X5q-qPl8JUCQ_PyY-1iJcsUIAnl59irI4g47OMd2W5eQQRZibDhOo99lkym-xMluEhASf8_e_vn_lbQ8gkkOv4udGhQI8og6NGXxC52YohUMBkR7j84L-w",
+            "width": 3300
+          }
+        ],
+        "place_id": "ChIJ7-Bpvccg2YgRZ92vOBnr9wY",
+        "rating": 5,
+        "reference": "CmRbAAAAOAfta0RjyLS3y7brQLCBL9el0_lglcveH8yp3yuF1jkzt0JKrUiH7CS-BM5q77lnrwt3z1fwXFx99cfaCoC2giXGDVE6cBZ-D82RIZpbCUZBROQn1YBF3GP74oYaFoWCEhD-rCoVUDt75lzoQyirK-V4GhQc7gfwKhwYRLK654ZiNtH0voEbSA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "106 Commerce Rd, Boynton Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.5330436,
+            "lng": -80.1220488
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.53439147989272,
+              "lng": -80.12104687010728
+            },
+            "southwest": {
+              "lat": 26.53169182010728,
+              "lng": -80.12374652989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0e0c5ffdbc583386929b07d719c85b8f52d53a82",
+        "name": "Capoeira Karkara",
+        "place_id": "ChIJG1m9occg2YgRU9qSsnPHyKs",
+        "rating": 5,
+        "reference": "CmRbAAAAeErJAK48EmuqvELPU1TZtkX9SVQKO88BqT3hG7ORG7de4SZaRsxDB03YE8AdvJcwZfLQmJFZCPJ9eDugz9TiT6X7_lXuhKahA9hUh1noHofhTCVHmC6HbvuOwzXrnFABEhDV4yOcKJXLUjbqvZQd7POAGhS97Fce4pBIpaQmn9KH6XeHIQoZgA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9600 S Military Trail, Boynton Beach"
+      }
+    ],
+    "status": "OK"
   }
 }
