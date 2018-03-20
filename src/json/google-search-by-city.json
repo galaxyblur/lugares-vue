@@ -1,20 +1,115 @@
 {
-  "city_name": "dubuque-iowa",
-  "city_rank": 621,
-  "city_population": 58253,
+  "city_name": "bartlett-tennessee",
+  "city_rank": 622,
+  "city_population": 58226,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5005583,
-      -90.66457179999999
+      35.2045328,
+      -89.8739753
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29113,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.136744,
+            "lng": -89.991625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.13809382989272,
+              "lng": -89.99027517010728
+            },
+            "southwest": {
+              "lat": 35.13539417010728,
+              "lng": -89.99297482989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7ff3d1df5c92c81f340edee6ba84fcc0d8397cc7",
+        "name": "Delta Groove Yoga",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106819149294987604731/photos\">Delta Groove Yoga</a>"
+            ],
+            "photo_reference": "CmRaAAAA0TMNIjYTnKQZh9vGgZiDbrn1UnFLCoG_mM-a9ZN2LAVdG39nj7-b6YvUCDYnf0G2euLP18bp6Fua_g3-1xVrZ3xLKM_JQsll05GkgcUwA0Fz2ZuAWN9hDJDhcWEhfZ1WEhAjI-NAcjXghiW1m1g24sZHGhRSNSAQbfkj8KehWSMxJxrhYpEQWg",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJYz-_66-Af4gROzjK9GAtA4E",
+        "rating": 5,
+        "reference": "CmRbAAAAJcMHpH4R5QXQL2_dHRIC9foKHEb1ZOCGQpLDz-ozvJ32id3CI_mDyPTC8Tm3DXSirxomlqU6e-djZKzWw88X-opmES9hcksp-dlZfUN8fz_s_Qrcmy9xmEoAYT2nW2VkEhAXtsKpTni7mFddl2U7DnScGhRjTOW_ABvB4JhQmQWYm6rsbB4hrQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "clothing_store",
+          "store",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2091 Madison Ave, Memphis"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.071982,
+            "lng": -89.9617553
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.07286612989272,
+              "lng": -89.96054282010728
+            },
+            "southwest": {
+              "lat": 35.07016647010727,
+              "lng": -89.96324247989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f2ff5c4ff6fd30493b6c3ec24095ac3be55dd85d",
+        "name": "Memphis Parkour",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110519125907676273022/photos\">Memphis Parkour</a>"
+            ],
+            "photo_reference": "CmRaAAAA_316_HGw5DX65WTkQI-EkJL3lnkj83PtnDeGXvqWJZeCAZApmBlkRcbb5Lakx6iXTEyU-nfBfDbLBuAN_NkwvlEfz-T5HMmTIZlQmogrAjqyl8ON-Rja_fgppTDGLMoHEhBMBBGG2Os87fCXD-sCEgYxGhQVT8FCrGsj1zSfguwcEgo7HuUqWg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJvecCp1KGf4gRKom8nFltO9s",
+        "rating": 4.5,
+        "reference": "CmRbAAAAWFeR4hbaX6jIWl96y7FvWbLj8MJqEpN4nVlgVZ3y_Wu1hPfBD1r26MBTC7Twc9dn8sPrlnK2Mb5VRQUwh2QkNZTn9dCHDG9NrR7VEvN84Fkigq7q7VNURy4s3C1chGE6EhDOb31s3-Q6Y3FyLSK3hpoHGhTXZTRza772pupBsigieeV3ng0w4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2850 Lamb Pl #1, Memphis"
+      }
+    ],
+    "status": "OK"
   }
 }
