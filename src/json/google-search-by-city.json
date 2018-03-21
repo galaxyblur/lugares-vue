@@ -1,101 +1,20 @@
 {
-  "city_name": "eastvale-california",
-  "city_rank": 660,
-  "city_population": 55191,
+  "city_name": "porterville-california",
+  "city_rank": 661,
+  "city_population": 55174,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.952463,
-      -117.5848025
+      36.06523,
+      -119.0167679
     ],
     "rankby": "distance"
   },
-  "people_per_result": 27596,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9893437,
-            "lng": -117.7160085
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.99068407989272,
-              "lng": -117.7146741701073
-            },
-            "southwest": {
-              "lat": 33.98798442010727,
-              "lng": -117.7173738298928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e432d7083eb1b6b23d0ea1ecbb551bfcb4773bbc",
-        "name": "Krav Maga",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJJ3aHGkjN3IAR_ZzkJJM_UX8",
-        "rating": 3.5,
-        "reference": "CmRbAAAAPkqWJ42CEOVLpbe-EtNsQPpk6S1yAHZTiWl2jd23dlYT0iMEJfEF_uidG4WZlSjIX4JW1tb2DBmwNNW1kPsNeNizEvKsKnBbH7VwJAenLngsZStXPwkXzHWK0xbxH2Z-EhAtRt5KFLZdMJuUAzlEqqFEGhRMJmnbQXwC2Eut6qxOCOUxMLCS-A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "14610 Pipeline Ave, Chino"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.6809383,
-            "lng": -117.7790654
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.68195412989272,
-              "lng": -117.7772291201073
-            },
-            "southwest": {
-              "lat": 33.67925447010728,
-              "lng": -117.7799287798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
-        "name": "Capoeira Batuque Irvine",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
-            ],
-            "photo_reference": "CmRZAAAA2Sf0mSc2tJfZ7S2MMQqt8GpkFSFlu9FNFSrYkC19bTEE3oglqGIMqWq5iWC4NSmCsKjkGEqMFKeA1ntNRAhX7M4nLoc2xyZkZUw3VJhcfX97SzLAuCan6blO7KeqOGBcEhChxIOJDpbcbaUZ6Bm1MkriGhTQioX34CuEMgeNUwXAM0AntwB09Q",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
-        "rating": 5,
-        "reference": "CmRbAAAA3Mu30_lV8PGarutM1p2gbGz-UsUdMV-4cY_J0zNf6Oe0Nh9S4UQxBtpS7z7dr3FhTPhJe0emqiAFZi6UovA8_-K91k0Vmyqdjm2EbhD5XqOe5GTmxGTxNyew3fN8PlufEhBDPb9mSrY4D9aOJljd-L58GhRAiO5mu1DqeE9XOyHXdHvml_9x8g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "15435 Jeffrey Rd #100, Irvine"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
