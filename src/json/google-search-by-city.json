@@ -1,42 +1,91 @@
 {
-  "city_name": "oak-park-illinois",
-  "city_rank": 707,
-  "city_population": 52066,
+  "city_name": "peabody-massachusetts",
+  "city_rank": 708,
+  "city_population": 52044,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.8850317,
-      -87.7845025
+      42.5278731,
+      -70.9286609
     ],
     "rankby": "distance"
   },
-  "people_per_result": 5785,
-  "possible_duplicates": {},
+  "people_per_result": 5783,
+  "possible_duplicates": {
+    "ChIJZe_ipL5544kRw4O4nql_W9k": [
+      {
+        "place1": "Sinha Capoeira 1431 Beacon St, Brookline",
+        "place2": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
+        "score": 0.8852459016393442
+      }
+    ],
+    "ChIJg1Q6wbt544kR0buBMd3l8uE": [
+      {
+        "place1": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
+        "place2": "Sinha Capoeira 1431 Beacon St, Brookline",
+        "score": 0.8852459016393442
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.9527072,
-            "lng": -87.7174405
+            "lat": 42.3860637,
+            "lng": -71.017906
           },
           "viewport": {
             "northeast": {
-              "lat": 41.95400757989272,
-              "lng": -87.71615257010727
+              "lat": 42.38764807989273,
+              "lng": -71.01706677010728
             },
             "southwest": {
-              "lat": 41.95130792010728,
-              "lng": -87.7188522298927
+              "lat": 42.38494842010728,
+              "lng": -71.01976642989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "48b84744a8082dee3071ae6f1ad90e1a98a1d033",
-        "name": "Grupo Capoeira Maculelê",
-        "place_id": "ChIJoWEPH77ND4gRCzl1wU8ntEY",
-        "reference": "CmRbAAAAvGWEki9wrA_d_1kU2J3lzWH3x8-crTBPwrWz4yoPnoYOuAjKARgy5ZAQPj_JdbxyVi6CFABHmlugvND2WERFeWSufw6GIN31xVc6JG6Ie5VHPY4h0ti78NzYE5qZbTEgEhDUc_T-WbU-ivCCurTv31jSGhQSZYceDHL83rM91TwekJfeuNdygA",
+        "id": "2c14acdd8bb350e685ca0fb7fbcd342efe197e1a",
+        "name": "BENEFITS of CAPOEIRA KIDS Classes",
+        "place_id": "ChIJg87zWcxx44kR3i9mFIzLIko",
+        "reference": "CmRbAAAAeYgTVUgcwGwGVimPCFy9wGujGdsoPNueul85dUb2suuWBIU2ik6F1YFMgWk97EhvtfkeUkaPzvld1YvrQOFNVa-BSYYXICdb_9IG0y4M1IsmU1ah5n3CqoZr42co6edpEhD4sXU8OJOICe9p0QwT1Zi9GhTvvnNGN692ZX2juLu0hs1L_l4XAg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "175 William F McClellan Hwy, Boston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4001307,
+            "lng": -71.11347119999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.40156917989273,
+              "lng": -71.11207092010727
+            },
+            "southwest": {
+              "lat": 42.39886952010728,
+              "lng": -71.11477057989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "36b555afe1ae74939f867ac3259c2e3ebef814cc",
+        "name": "Capoeira Angola Quintal Boston",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJKQMemdh244kR6B3_f8CrLZE",
+        "reference": "CmRbAAAA1FZBzXauB-jYXezZRJJCPlajrx8wyzB_laLdgMbdFO9GLF3xMCKbRSQ3Dg6U5YbavNii3fZTMkLr1EZsNd24SqHkOi7mgcozDpKFCOPWzHaZM-IaFGeqH6tNeuHzcFAFEhAQgjkhL6gfIcQh_tEGi_BDGhQu1aONhNbNQgAVaVNxO8tfSWC32A",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -44,356 +93,280 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3933 N Elston Ave, Chicago"
+        "vicinity": "730 Broadway, Somerville"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.8959299,
-            "lng": -87.66653989999999
+            "lat": 42.390248,
+            "lng": -71.12150199999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.89736097989272,
-              "lng": -87.66519237010726
+              "lat": 42.39168807989272,
+              "lng": -71.12006617010726
             },
             "southwest": {
-              "lat": 41.89466132010728,
-              "lng": -87.66789202989271
+              "lat": 42.38898842010727,
+              "lng": -71.12276582989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
-        "name": "Axé Capoeira Chicago",
+        "id": "5d3640aec54a62f0677665759a070940e54bf372",
+        "name": "Sinha Capoeira Cambridge",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1152,
+            "height": 640,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111612155413556623211/photos\">Sinha Capoeira Cambridge</a>"
             ],
-            "photo_reference": "CmRaAAAAd1p9GJXJSEHxaDJUKGzvZjeRfTJjASA7GbFcAKY844Gny-QZEPCe3P58zOng3IuspnNIka5jspFsCd-SbDqwXg5JbslIY7JwsLTAagkFO3HiMKz6ssXvfl140EeCdtBAEhDo8I7bC7JzhsO4tGETlJLYGhT749xZ3X9U72Fg-wN-lqY9VYpHGQ",
-            "width": 2048
+            "photo_reference": "CmRaAAAAt4d2WoTcu7JPrf50tgZspMOkZnj3eid3AGM8hMl83hb-nlpnkg0G_KRb2grmSYwnj5zDGE5IXlqrFUcVn2DvRxNeBSX-7_1Hdvs74bw52kkK2GWFeM8JTJ-izx9vOuuMEhBdk4_eBK7oloSgZEm_BrtuGhRV7qISbrp5QMI5H7B3XFNTra76aw",
+            "width": 640
           }
         ],
-        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
+        "place_id": "ChIJ09kv3Bd344kRLdUWL_Ea8fc",
+        "reference": "CmRbAAAAwaKIhPdIsnlJIDZ7-oWkEcAXSL0eEifElr92ULk8V1WclMtVMI-TT4y4gPhvKBXXBT4bao0A6L0sziZQke4-INJkgl2GFKcKVt6aZxtUOf234sy9VOUisrxh6UwFr7TVEhCaDuomI3VJTFh1sORrT4NvGhRCrECJHJCZJkgvUFnxuSevD5GRYg",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2000 Massachusetts Ave, Cambridge"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3638436,
+            "lng": -71.10223020000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.36511742989271,
+              "lng": -71.10096267010728
+            },
+            "southwest": {
+              "lat": 42.36241777010726,
+              "lng": -71.10366232989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "20a30f1dd34d29d90e5596494f6c29c246866102",
+        "name": "Embondeiro Capoeira Boston",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJF7mfEVR344kRSLsD4ZnkhwI",
+        "reference": "CmRbAAAAL89p0N3zU9oM4aDNSA2CCCOf0LCCOPe-CIMvb_rhFVYsGHNjGpIWn1HXuTycdZbFWlgCPMoEzoclHQ7jSszDuR_HiYJYl7y9-OY1HQNPuAzGawbPmaEVKUynShpCrsAGEhBGsnzNsQZzkzwJuUvkjZ55GhT1KFFwb9q0MBdB8QPGBptUfYRe_g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "185 Green St, Cambridge"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3515479,
+            "lng": -71.13192029999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.35289772989272,
+              "lng": -71.13057047010727
+            },
+            "southwest": {
+              "lat": 42.35019807010728,
+              "lng": -71.13327012989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "163ca2015c178ff902d182d383048b49f80d4232",
+        "name": "Sinha Capoeira Allston",
+        "place_id": "ChIJIzMa7MV544kR0R6d_0PK-f4",
+        "reference": "CmRbAAAAABwUSTu4j2uKQuy8HLDmSETqR13zG4WWFZTmx-Flzapumcz0KJtYfFndJUJI2u5VCv8ij9Hj64LZnyIfHxZEf5BmT2B5UU0fh7l-iD0Wh_4Q7Qh19T8upKbKDUurlyA8EhBLxVlD6IyDAVb9mxjHewaWGhRWAVQZlglROmaKJYQymfrk-kB0XQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "161 Harvard Avenue 13B, Allston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3154164,
+            "lng": -71.0594728
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.31679487989272,
+              "lng": -71.05828122010728
+            },
+            "southwest": {
+              "lat": 42.31409522010728,
+              "lng": -71.06098087989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "37902fe053d3189b22959924e1a43e93601836fe",
+        "name": "Sinha Capoeira Dorchester",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 776,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116680133982916304220/photos\">Sinha Capoeira Dorchester</a>"
+            ],
+            "photo_reference": "CmRaAAAAbXjpQRr32z0l2LyZcqLbke1TJGA3ZIFoE1Wf5H3maiwGRBaTrvO3FVNghuTlwNSTFcbGB3wK62LH2v6R6viL1YYlIv2PaCP8e3qGFrTDHiy2pYp480qAEZwX3dv5LOaZEhAmrysLbSY76j8604eABxFeGhTYad6urGv55B_TPvV9MHQ9nVlYUg",
+            "width": 1232
+          }
+        ],
+        "place_id": "ChIJJTFXw1J644kRk7k4FUcoijg",
+        "reference": "CmRbAAAA03qS5TkoxClbVdyqlb9h2N9ES3iCob1XHh6B-hT9yI9Hqy9s7qcJZwjsiT2_PRo61492c39_NHwoV8uqb5EmVlEs0hiWVAZ6BB5Nv11WkeXXJGKgIFRzG9vc-Ki8ASwPEhD7H67mvDTchnW4fZfUy8_-GhQr0c27x3w8jeGvbTxJkRt_GaUHsg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48 Pleasant St, Dorchester"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3406189,
+            "lng": -71.1260898
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.34202732989272,
+              "lng": -71.12477942010727
+            },
+            "southwest": {
+              "lat": 42.33932767010728,
+              "lng": -71.12747907989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8e543a4ccf220408bbde9b59af4982de6eb88a17",
+        "name": "Sinha Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1125,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115247688110722630923/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAMaPbstO4GugxXCmkxM0qV_dLqnL63wj-sXO29pjiPiDaoJLwUpvs-nw-yyJ4okfqOa9gkRUiC3RoLwZEjj5c86f7lmoOH4FHZ1sSfBDzHIEGI_NGY4nhxWVfRE7aYVIIEhDxyZWzccY8CvGxHURDigIzGhQi_lvyzV9YeJ1cjw2hEqlg5iZVlw",
+            "width": 2001
+          }
+        ],
+        "place_id": "ChIJZe_ipL5544kRw4O4nql_W9k",
+        "reference": "CmRbAAAAUYU8bZsOEoBvOK9j2wYgeb9z300xCIx16AIahZM3Qh2xTtmdIV9VY5be06EQikutk6A-mYIWrqBsrjRNVzIOFRcKpAS5TZw9aaiQCgTQ0vtkIrd08kU3n7uI71ZzgjIFEhCClszX3A3QvfDBB3dPMLTXGhRscavVJPqBiUqLbZ1LZ43yMXbVLw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1431 Beacon St, Brookline"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3396032,
+            "lng": -71.1288261
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.34106272989271,
+              "lng": -71.12752102010728
+            },
+            "southwest": {
+              "lat": 42.33836307010727,
+              "lng": -71.13022067989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1b4877bfba7030d86f6ef716669efc7eb8095fec",
+        "name": "Sinha Capoeira Kids",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110324719945658873578/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAeqB3mJuBPexvaVXWDIaUpsnddSlptqm1WdS3N11uOsVZigcL2VUmV-L8rLgGwYtrKLX50K9-_FJKDgttnYbLFmwo-MLRSDytP0ThYJHief5q91laF1M9xrhfLsr1WoK9EhCewDj8Fz0cJbaDiuETqx4EGhTZws1ZdIhKI2-ioGuUsRN9BJZfRQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJg1Q6wbt544kR0buBMd3l8uE",
         "rating": 5,
-        "reference": "CmRbAAAAgKjk4yxLsFYL6-lGICV_Lrf4SGiH2OCP-sh_r0Ix5iPCNIbG5rZHain-q_4qvjxP_tO032V7V4M2nrZ-EzJ3PKwO2xOQMbbD-_tFh9xdEyYef7kc46TcelWIjY3hzzPrEhBg3gsG1hP5bUNxYKoOPj7qGhSMLKNONXtZlUCNywHKoOFwRDhLKQ",
+        "reference": "CmRbAAAAO0UEtlW3-9N3nvHjXE1nEWwv8ClDGv0oHIUzk7OfZmPbJWSknUK8HO5QQaTaKqu9EyMhRHFqLE5PDkFwyz0iL2M7xNkALphtn_tQ0lzoEwHORusRj7WgN3NTNIZTztPAEhA_gWbBnjbYAfEGNfwzJsFOGhR-h37F9ngU5jfUBQkrlkh8rQFD_g",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1543 W Chicago Ave, Chicago"
+        "vicinity": "1485 Beacon St, Brookline"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.8803115,
-            "lng": -87.6375316
+            "lat": 42.3175695,
+            "lng": -71.10561229999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.88166232989272,
-              "lng": -87.63590797010728
+              "lat": 42.31887342989272,
+              "lng": -71.10415172010727
             },
             "southwest": {
-              "lat": 41.87896267010728,
-              "lng": -87.63860762989273
+              "lat": 42.31617377010728,
+              "lng": -71.10685137989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
-        "name": "Omulu Capoeira Guanabara",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
-        "reference": "CmRbAAAAAHjGzAXBLG0hpeeCAwhO8t-gdu7glcalsTIx1buAziQfRB5aODiw2RVjxGBm75vuI3cXpQUywTrYUjk1OoBFq7464qbEQzA5X54vt39oQTlJxWvccG-eKq93qfgdtmKjEhBRvZXIntpzivhVLj2jNGS6GhTLLlLf8jzHj8u79hIDLC78_tiNpg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "100 S Wacker Dr, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9581719,
-            "lng": -87.6747535
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.95936702989272,
-              "lng": -87.67339917010729
-            },
-            "southwest": {
-              "lat": 41.95666737010728,
-              "lng": -87.67609882989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
-        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2532,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center - Grupo Capoeira Brasil</a>"
-            ],
-            "photo_reference": "CmRaAAAA5RKCFcbdXC6ASwBEiWHUl26cpnvk4BGPNPnw8o0OvniWPdu99DLnxyCo4phu1FTixbCppsX0jw5gtLdbVXAY0IPLW047qSMUEgrOL5fcoEoDMPkmEKwJQd-WNqY1XeneEhD7fdIZDATLsIh3kmVe2CP3GhQG51jh0DfINjtTQILi9HJyc_b_1Q",
-            "width": 3555
-          }
-        ],
-        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "id": "ffc41db1d2f247855ff50157b529b73c7a270525",
+        "name": "Capoeira Gerais Boston",
+        "place_id": "ChIJrxXBGHh644kRrzvK7vx-6gU",
         "rating": 5,
-        "reference": "CmRbAAAAhuKgBlBpuTYm39JfbRAA21rr0OjamPQzcljqicC7-J8qmlR83ZkXZBHyH5hFB-kU8bRs5GVdOc4qMiyQMNaeJe_SFRPyOcCSbVrClx813KM5q8lNaEBVVP-1hXVbWOvHEhBpKC_V6geGavVhjqCqa_zLGhSncqRtsGFtlF8gINWw0s3sA44pCg",
+        "reference": "CmRbAAAA-QaSdD-0h_GbNUu2WnmHDu0rRe_LNjIO3QaFAT1JS64k95n8PkvgJRuc7LTeA2evQTT-k4CW1kTsZCdOsiCIvCWiZ_2Hl-l2fOH4fVSJJ3M9XBBNhtUk4j01Lz016ShxEhCMVV_Sts2vfu4EaM2jQFhMGhRumtFwjui3vftKZGy-0NLZwNzgmQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1802 W Berteau Ave #215, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9401434,
-            "lng": -87.6548612
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.94137002989272,
-              "lng": -87.65350977010728
-            },
-            "southwest": {
-              "lat": 41.93867037010727,
-              "lng": -87.65620942989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
-        "name": "Grupo Capoeira Brasil: Formada Colibri",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
-            ],
-            "photo_reference": "CmRaAAAAWxUjNQhvD9fk-U8E3NwjqxI0beq_JODSkhVPBbBQyVge3KclJwGIHn7Q2KDLFhPfrtI9vkF2OKTPzDMoKCf7zULX8d4Z-jj1bJdV06he_dxUEjx9kUOqJyCaYWCzUKDAEhBS55i2mJeOXJw1X9v1ClEKGhR8LpZiQKnVAbBfIGIdWRijmlmrlw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
-        "rating": 5,
-        "reference": "CmRbAAAAJn4_XqEICkAl6e1o9XeDmlZ1yANYFdeWz7cSU2ao-S0L1X3P1d1wqNOG_GddREYk23Tgbhg_xTkpXc7-a6K7X1QjFvKy2DQ2HEk7VU4z2yQziP7BQTlWsl4HTli2FaCGEhD0jokl_eRm-osYCV8BlK5pGhSdaNFj1OUDeXzNnCRw4bdnTJZM1Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1016 W Belmont Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9401434,
-            "lng": -87.6548612
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.94137002989272,
-              "lng": -87.65350977010728
-            },
-            "southwest": {
-              "lat": 41.93867037010727,
-              "lng": -87.65620942989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "8efde9e6467143d660cf5478c72f950149a491a3",
-        "name": "Japanese Culture Center",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3416,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109669855484647094723/photos\">David Johnsen</a>"
-            ],
-            "photo_reference": "CmRaAAAAhcyk0WP3kOQN5jpgxS5GJO9gOQ9GXvYFJ7SWqYNzAygp9L2jhK8ORN8PEc-8eqLxIvrTUms1ubAmbSOjnvNcDT98tzJh93sMQMOFWiZLL-WdGzHSb7QWFPVhCRkw46ZYEhAzk8k3qeTkbAVIhUdtLfp_GhSqoCDBIVrSubseOgkib-kYHPhYgg",
-            "width": 2174
-          }
-        ],
-        "place_id": "ChIJQZMaj6vTD4gRF2_zcohQrEE",
-        "rating": 4.9,
-        "reference": "CmRbAAAAIJ18pFbnqkFm3kwSk3mn5YbXS4mdINSqiyoKwqREpElIvBZ30KJY7YC6FVHdW7-g_LS2q2jj_0o0CnJnesXswJAmi8WNvG2EtHidiaIa-kvo_qV37Gm1y41GCWf8YsVaEhDbgfqQOoIFHnNerkQ0i1i-GhTkhqMALLIQY_O5zJeCL03b6NJwoA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1016 W Belmont Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.901196,
-            "lng": -87.630342
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.90254787989272,
-              "lng": -87.62877687010729
-            },
-            "southwest": {
-              "lat": 41.89984822010727,
-              "lng": -87.63147652989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
-        "name": "Gingarte Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 682,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAA7PEobKuGD3dWrw1nH6ZAgK7QoJjJr9Y2bspzjIz_hF65kLF8IvyU7CRuv9tcIXiwd8LrfMPhQWDj56j3TbBndtMGtBXhBtnOv38m97lLB5zvoAIRBnSwb_IclnEZEnejEhBalT3cCh2k8VyVPCVZSAQQGhToobDA0MR5QUAv9IuK_G4w6KgWsg",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "rating": 5,
-        "reference": "CmRbAAAA4SsYSczv4lpD1G12DpzKbEKBfaJ2kRbA9ZA7a13zDfN_dscO3twCsOGC2rtWCJwm6yfMkXbFUsxBXuZmKC-3KqUSYxtF-QoLCzv1va9q3Ws8xBB_qpyXdMTfORoBfS6nEhDsE-ysKvq0jhbKpZvGNTBWGhQKhpSmjFgwbI2AodxWCtMRjlKxWw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1016 N Dearborn St, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.991912,
-            "lng": -87.654746
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.99325562989272,
-              "lng": -87.65374082010727
-            },
-            "southwest": {
-              "lat": 41.99055597010728,
-              "lng": -87.65644047989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
-        "name": "Herança Cultural Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 991,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAxsvuOfPkZs_Gsu7Nj83KVcCquzDqKWt5GSipVvAfe9MwmGxGgn8XKYBnOwViet8k2ZGfN40hgAlNweThxVR_FXPjOJF8scevjlz27C5-zhLuHVo3NC8KE-CE42bwnJpIEhDUfVWkOz7y0SHJHzpncYW-GhRV0sb0rya4h2v5PP8AUxACSV_Kig",
-            "width": 1894
-          }
-        ],
-        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
-        "rating": 5,
-        "reference": "CmRbAAAAclQMGBBch_z5_8TWkAbX8SlDtvOfXXdRJCU-E8A-wTZ6J_fPZD8HqKXsrlot7ADKIec3kjLncK7TxEIIe9CYn8ihA9UHPaAPdfm5HcAyuOIRwsY-OuUxXFIEM3APL6giEhBllDlHkqpUGmgcMHpgz5POGhQNDCie6to81FF_8kGxlXowzBxotA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6033 N Sheridan Rd, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.0061162,
-            "lng": -88.0823128
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.00747307989272,
-              "lng": -88.07903845
-            },
-            "southwest": {
-              "lat": 42.00477342010728,
-              "lng": -88.08340424999999
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
-        "name": "Grupo Capoeira Brasil: Schaumburg",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAIgNOZYKrAdARn6ygjEpqB4btzsOB0Jh1ums2lpJX1emOXKPzxXnqb0D3w21mAQ5nRt9JyXJmpZ7xHmPIUYwTwksJGEJwm7XYyg6g6dvtl_af5flQpYw7vYireAmMUIq2EhA2JrzZvc0q821R11mI_-KoGhRZU__QAhyDo2w_8EfQtI6PK6V5_A",
-            "width": 1920
-          }
-        ],
-        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
-        "reference": "CmRbAAAAgh4thj4C0y6-BIy0FRNipmXoc8nzcenz4g0wlffV-Lh8vAlrjJo-Znvr8XWZX6ESYjyFqdtyfYl8l2fdWrNH_kHTj2K6FOnQSKhlgUBM9PJf8-wndwpnugRBXKKhpkSJEhD5CPdA5fzB40Aj40WXfK3bGhQzLGNcxCsToUBVCOHzBOU8rr4Tzg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1154 S Roselle Rd, Schaumburg"
+        "vicinity": "45 Danforth St, Boston"
       }
     ],
     "status": "OK"
