@@ -1,100 +1,50 @@
 {
-  "city_name": "pinellas-park-florida",
-  "city_rank": 744,
-  "city_population": 49998,
+  "city_name": "troy-new-york",
+  "city_rank": 745,
+  "city_population": 49974,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.8428025,
-      -82.6995443
+      42.7284117,
+      -73.69178509999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 24999,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 49974,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
+            "lat": 42.6883967,
+            "lng": -73.7990902
           },
           "viewport": {
             "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
+              "lat": 42.68974652989272,
+              "lng": -73.79774037010728
             },
             "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAAQwA8yFBk9fGD7e9tUwj3YndewRAFj90kpEjJ3TqpmFo57tXZTz0zSkFIWUEw4zlKSErJH2EPRQo5vpiXWuLfXMHKASx-P4Dg6AVJoa1yi4lCkWQgiPMVkp4Pzz3ao4QoEhD670K0A_ewTqSFeIb7ot1oGhSRTeVEZ1nmJRzbaXaj5xJeKVM9mA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 42.68704687010727,
+              "lng": -73.80044002989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
+        "name": "Pil-Sun Tae Kwon Do",
+        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
         "rating": 5,
-        "reference": "CmRbAAAA3HP8TrzDLF5ufjHQoYQhjZlePImYrEa3A37DT096za4pN7_h0u3tCDzj5hlQFQdqXIyFsh6Yeg4EdmYv-USFewJPlmfTPabLH-YYSQboxVlsmOYzhPoRNIS12yMD5IEFEhBZZ2uvObQHMfxd8kfOLLB8GhRqy6BCv41bRJTZlw4sbl1R7cdasg",
+        "reference": "CmRbAAAAxeyvZUD9n3SrCHgrRiDWXm2xh7R9gLAAloeLYHN416wBu3cQInGixPPcjVLo_kcVFBWNYvPafbGpDv8RVDUs-f13pSiScTFFEA8zR4zhUFtlxWnOUKpgqBMcqK0xtWZjEhD8BAIiVk9Cw8AkIOSnXwspGhRZ8AcAQwawu862dcLwXCygg7urjg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "1095 Penn Central Railroad # 3, Albany"
       }
     ],
     "status": "OK"
