@@ -1,16 +1,16 @@
 {
-  "city_name": "apple-valley-minnesota",
-  "city_rank": 739,
-  "city_population": 50201,
+  "city_name": "grapevine-texas",
+  "city_rank": 740,
+  "city_population": 50195,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.7319094,
-      -93.21772000000001
+      32.9342919,
+      -97.0780654
     ],
     "rankby": "distance"
   },
-  "people_per_result": 12550,
+  "people_per_result": 16732,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,26 +18,126 @@
       {
         "geometry": {
           "location": {
-            "lat": 44.7456433,
-            "lng": -93.20808489999999
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
           },
           "viewport": {
             "northeast": {
-              "lat": 44.74699312989272,
-              "lng": -93.20673507010729
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
             },
             "southwest": {
-              "lat": 44.74429347010728,
-              "lng": -93.20943472989272
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAF_q6SWoUChicXrSQHwGPiOaMh0aVSvUQC3pMMBx6jdgvIF0Llz9pkW-aMGtiFEn7Vcv5cJDE-sPuR3w3wHpbyrsLkjCikcxtB_xtauY_vAbeWJHZHv87GWD83yxcjeF0EhAncGFLnpvs-rFIQYcoR0qFGhRJPxRRkFkf1d73JatNeOOLIAxlPQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRbAAAAdqgqt8G_fiH9F0w0JmMdB0hUT8QC8-74PbzHL8nu5YFg2CZ9zhdCowbR7q5yRDocmvcHXK1_4FsCepNH_X7KzWaUrYelXlddEE9yE01x0cX2SQdKXV7ClFdUtES8YGefEhA8uYY_ON1LG49MdlIb6kblGhSsCdTl7_CVCo-f_8vG-R8Ogcp70A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Rd, Dallas"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.713013,
+            "lng": -97.34637339999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.71421842989272,
+              "lng": -97.34502387010727
+            },
+            "southwest": {
+              "lat": 32.71151877010728,
+              "lng": -97.34772352989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "photos": [
+          {
+            "height": 918,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112294789667396374360/photos\">Lindsay Puente</a>"
+            ],
+            "photo_reference": "CmRaAAAA2X-mPHQhcKXTY8bwLjfPsKIdfYdjqpfbzm0JGkGdtZzebmx5WCJWUoTSx751JJjllFWg9xDp6odTUkwB9mHnzDcDQqS_jfyHkSwGFIEz8BW_0HYuaM2qgW4kpvs1hC_6EhAp5A10ykRx5T9I9WqrkA_3GhTzO1KISGmeIAfTInU1wN2WV0UF7g",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "rating": 5,
+        "reference": "CmRbAAAAeyjY8FZWv9DMssl3x03e-8FLTUq7VnseCqKDW6Jd3iCpMxVe4ZK8lR60J6qqdTbgorOwWPv_74PV7zJfWiTqiThGkGwEulgI9GXSswEO59HV4x8kdmERLEmrSIQFbq6DEhAZZ1rpjYeJvEmf2JP62MB9GhQ7EYUyi-oNJC5o4KvOUZ6UFZby9Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1800 McPherson Ave, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.0863724,
+            "lng": -96.67050259999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.08797362989272,
+              "lng": -96.66964067010727
+            },
+            "southwest": {
+              "lat": 33.08527397010727,
+              "lng": -96.6723403298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "1bbb8278d8df858686a1c7c01ce92ca238f4a0f1",
-        "name": "Capoeira Fitness Academy",
-        "permanently_closed": true,
-        "place_id": "ChIJD5NVszwx9ocR8_8ih7LHHMs",
-        "reference": "CmRbAAAAgwKoRHG1cicWqChDVx_cbHCMKdkMd2cIITw8yalwPc32pdF9tMBsiptlYQ395nwM8gRpepkkH7TzUHEP49wmCpFERDdOQB5-V-JoRkgneWtAjP3eo9G7GfWivpIgJ2oqEhCYHKTg9YfbV1JR0s3LcaCiGhTF0Hlu5T6hRgOvIhwVwa-7LnmBpg",
+        "id": "a48c4d918a190373db68f0a79390f41fe9a22ea3",
+        "name": "Capoeira Allen Martial Arts Club",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115419137930175066115/photos\">Valkyrie Michaelis</a>"
+            ],
+            "photo_reference": "CmRaAAAAmAu6-wcr0e4se9-x_MiZpC3UeUBSaVn3hWLatx3ICiSAZKo290OJBR3MbzzGt51N0X7U8sr2WNqxNTDRYpr7LgN7I4WXtFLeP8f66h93Qi8zgl1zSc5TEjyP4EMdX-kXEhB-dyEFNGJXpEGmhOJYZZ2DGhSBdhjoEBJLevkqMgrpK8X_W80e6Q",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJd09VcckQTIYRsuk_5ZByrOY",
+        "rating": 4.5,
+        "reference": "CmRbAAAA34La7kT6I355FkL1EmBJb4uACN4xFCduO4AQYiUXMmTSi8dd9esK-_u9cPhKQ_574krJMi5tvTIytxfNGlXtK2Kd08wWEnU_v1ZEK8w952qB8WlzK3VvIdX8C35_yQTnEhBbf1K2U6AUXUN8gTttFbhuGhRM2TWZxhnD7bY7-Emp3q2yjQoVqA",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -45,127 +145,7 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "14113 Galaxie Ave, Apple Valley"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.885463,
-            "lng": -93.285648
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.88672057989272,
-              "lng": -93.28451502010728
-            },
-            "southwest": {
-              "lat": 44.88402092010728,
-              "lng": -93.28721467989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "34b2fc3db44933329ed6b1771eeb629ad4a2c5ec",
-        "name": "Minnesota Capoeira Academy",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1190,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117562375695623979223/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAViseO4y-L3yZ0lnY7OF93ysvnEYbDBawUeX69zhlL2uj9ZFNdLtNejA7O4UwxEoaAHMY3OOfqiVUCzfQLR-v2BN2q7OTqiACfKgSukIBprz6T2UefIKIe7KE2jz6QGQ5EhB7LWB9Wec5WRvjqhxfTv9IGhQkySrzPWQbXQdTH7Y5EFEouvb68g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
-        "rating": 5,
-        "reference": "CmRbAAAAvOnMsuO8gvi4-s3UG52kMyyCeVrWRW4asSbdoR_Hvh2sixEcCbZgtGkl6-sSxSMjNDyGsDHhDRkGznZyhDUJ490s64ooiYwKonrxFdKiBq2dHTT3jCkMOtZmeWywfLIjEhB6VHBX9jKMivaNIeJ2OX6JGhStdv0aj-s2i1pvJQR0UxTWWcmM0A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6463 Lyndale Ave S, Richfield"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.957209,
-            "lng": -93.169113
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.95868942989271,
-              "lng": -93.16776327010727
-            },
-            "southwest": {
-              "lat": 44.95598977010727,
-              "lng": -93.17046292989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e159e8833adfd8e68a3d1dddb4623fa1b337a412",
-        "name": "Capoeira Minnesota",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 479,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100688324126308350534/photos\">CapuraGinga Capoeira Minnesota</a>"
-            ],
-            "photo_reference": "CmRaAAAAn1EMCTMvbnhUejM1eke0fNz3PckAAiyOfE7jpT_9YWG-CZ7HNOIcAjEbWjET6Vp0vlOyJbw19XRiaVFWWBOw-oI57QD2-dVvV3SXxzN2qTKSA973H7nVO1Krxs78xmdpEhCd7ynD3dqJ8HJLxANjxCQfGhT0WHGC2z8IpQryhwS_mbigeisDPA",
-            "width": 720
-          }
-        ],
-        "place_id": "ChIJeSpfUrHR94cRyKh-GcNUjr8",
-        "rating": 4.8,
-        "reference": "CmRbAAAA7MvjXQV6a9RqQBGEPBq4bOk5NAo4Vy2tQ7tImESmRhEtJHTJm_63sT7yEY73jMEZO7hOURzEROh6Ag7leEBHPuGY2FKhUnLQqxXC0iMUtACbLdrzaRt9Kz50qYIgFuGpEhCOqRvj0TcrsmuXM3bJ_DlCGhS9S9ve2mZKdLjhMVIy7LV76BSnRg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1632 Charles Ave, St Paul"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.9558916,
-            "lng": -93.29506699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.95706882989273,
-              "lng": -93.29371627010727
-            },
-            "southwest": {
-              "lat": 44.95436917010728,
-              "lng": -93.29641592989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d91d98688d83ed1d5f1f438072f31fb016d3a50f",
-        "name": "Afro-Brazilian Capoeira Association",
-        "place_id": "ChIJ_deEDM9TVEARvybmao31Lvg",
-        "rating": 5,
-        "reference": "CmRbAAAAwsBxHGHJZYuGX2DAtIlqqE-07AFn_opgludNw37WTDy1IzG5mNnxGO9W-qc9lpaaF57fLTFQCD9mtjH99hbgqLrSh7L_fqemNXcSXDkUtWBFQAW4L6nf96Me9lTUazObEhC3WzR4AtmEFmJj4CIwyoopGhSD_j07_OrtxgYOvIAmiAQnecHS4w",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1200 W 26th St, Minneapolis"
+        "vicinity": "801 S Greenville Ave Suite 113, Allen"
       }
     ],
     "status": "OK"
