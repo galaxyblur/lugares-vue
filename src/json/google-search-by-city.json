@@ -1,20 +1,142 @@
 {
-  "city_name": "wilson-north-carolina",
-  "city_rank": 753,
-  "city_population": 49628,
+  "city_name": "niagara-falls-new-york",
+  "city_rank": 754,
+  "city_population": 49468,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.7212689,
-      -77.9155395
+      43.0962143,
+      -79.0377388
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 16489,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 43.0713995,
+            "lng": -79.1242424
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.07283812989272,
+              "lng": -79.12336595
+            },
+            "southwest": {
+              "lat": 43.07013847010727,
+              "lng": -79.12687174999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b5d2f6540689248b325a712966b95a41150ffe6a",
+        "name": "Niagara Falls YMCA",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112724983530613326431/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA7kM9IJJnYm2xIyYbhvx726cQa_YCMfmw7IHkhM-P2KYFJ8JshOsuthfVvs_LyJrFFV0z7cmlQjNXrGhtlITgPYQ4LFm96XQAhJGty2ZxbuOtHZfA7GHpaLZ-o8PvufmwEhCG1csnvEv5-JmfnW7HTM1cGhQXyzDYDi68Es2fcF_e5pD4x1rJig",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJIXcViGVE04kRXK6_cxKxlSQ",
+        "rating": 4.5,
+        "reference": "CmRbAAAAHPgPPpiEauz1zIHjDBeUX9J0qpkYOrPFb7jPOAD3HFOlFLL7RN90o88EcFIzTuo-WV6FvJtKvLTGpZAMdbuSblspbNi8K5Xuxy-h_tTUsqNpPRr7D_AOud7vAxnF6ktpEhDk3L9lRox_62SR8jkJogqDGhT_zW7l9RS-hv0_OdcnOsyjCFOdwg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7150 Montrose Rd, Niagara Falls"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9113566,
+            "lng": -78.85903239999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.91261912989272,
+              "lng": -78.85768472010727
+            },
+            "southwest": {
+              "lat": 42.90991947010728,
+              "lng": -78.86038437989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e6eeef9db0cdc5508e5a24ae51ce196d43d6436a",
+        "name": "Capoeira Mandinga Buffalo",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 262,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112805290222847997772/photos\">Capoeira Mandinga Buffalo</a>"
+            ],
+            "photo_reference": "CmRaAAAAIVe47DrF8ojrsbyL7FLR8vo-uYeqm4a1SiNz7uJJQmRINycNrTWe4aIWBkp_Juhh7bXAVmMnjxXD1uL8NYrnEXVGKJq_uwqnbKNeZQjJmSXG6UgWbw4wcgWQd4W8s5CVEhDBs0Etha52ssobPVBznouqGhQUspaXBFLW_OLkcyVs__vd5DnZtg",
+            "width": 288
+          }
+        ],
+        "place_id": "ChIJT6cvlRsT04kRfxPizgV4qzA",
+        "rating": 5,
+        "reference": "CmRbAAAAk-04N1YVUeUKnCAjPN1HJfWIVs4GvrE7gg88TB1BecnBJr3ld4dXKoBGGUOy0NO2c9-EIgmaAOt8Cp3TUfrs3WQQ_NUWEXWcmuT-M93FcW4dLWwRoqG1HQ2P7FKGyF6HEhB-0f_uOE_LwZqiimkK14h0GhRNVHXfEArl16eUb5EeWx400LZyfg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "226 E Utica St, Buffalo"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9195488,
+            "lng": -78.7844939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.92089667989272,
+              "lng": -78.78302572010728
+            },
+            "southwest": {
+              "lat": 42.91819702010728,
+              "lng": -78.78572537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6abe338d2aaddcdde442149944bd8f84cd3e743e",
+        "name": "Capoeira Mandinga Buffalo",
+        "place_id": "ChIJR6kOCdsM04kRX6m-cmOAhT0",
+        "reference": "CmRbAAAAF9NVCMPKwk2Folxa20rhB4d6aCTvzluukwTnH4Dcxtm7anIRFz2X18zk4RcB5iLXgMYJ46E_uPigXXTDrjkGLVz-ZatWmfxVYXjoULeqBjqMq1ViMlAFGLloInDkOqK-EhDvA-9N8P2eoyzJQht4SvjeGhQ_qh6hNGdjSzewgCjL6KTNC_0cLA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2773 Harlem Rd, Cheektowaga"
+      }
+    ],
+    "status": "OK"
   }
 }
