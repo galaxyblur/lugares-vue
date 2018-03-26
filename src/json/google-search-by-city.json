@@ -1,20 +1,67 @@
 {
-  "city_name": "sheboygan-wisconsin",
-  "city_rank": 766,
-  "city_population": 48725,
+  "city_name": "middletown-ohio",
+  "city_rank": 767,
+  "city_population": 48630,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.7508284,
-      -87.71453
+      39.5150576,
+      -84.39827629999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 48630,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.3486953,
+            "lng": -84.3308926
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.35004512989272,
+              "lng": -84.32954277010728
+            },
+            "southwest": {
+              "lat": 39.34734547010728,
+              "lng": -84.33224242989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b0b68916fcaa2a895d903a5c647102a592adcd0",
+        "name": "DRISHTIQ Yoga",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114437157458755400598/photos\">DRISHTIQ Yoga .</a>"
+            ],
+            "photo_reference": "CmRaAAAA4E-rPn20LwcVgx_NLOVat5gKnwqsg5dnI6ryWf0_gJcc_BVNBXSY8ELUJaBoqF0csQvW6qDB9xfiUnx2tjpXRmJMrwbPaBQ1nvUuOTiHDgAwKPAhvImco5hf3X6NslNTEhDc_yPMsE1WL_0k7snPL08XGhSGf6LBMLLqukAuezWsrpbYMsNeyw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJA_PeKWBXQIgRLTv46ddnino",
+        "rating": 5,
+        "reference": "CmRbAAAARXeVW89o5-HCPtZkhpHtzX3syUlmRz6ojKS45Ox3ttfap0Aowpqhcebqzmhf-14EiU9JFfKgI4ukF2_wbAIWNaFQYHXeM27ksG9pEkfj1tTxNiL6iqnlbYMSV1DfPfENEhAntRDt3QKT_uNFX4O-WTe2GhSdexlV02Vqh1m8nM57uFR-sAZUEA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6209 Snider Rd, Mason"
+      }
+    ],
+    "status": "OK"
   }
 }
