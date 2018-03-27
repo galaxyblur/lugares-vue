@@ -1,67 +1,20 @@
 {
-  "city_name": "coeur-d-alene-idaho",
-  "city_rank": 801,
-  "city_population": 46402,
+  "city_name": "san-luis-obispo-california",
+  "city_rank": 802,
+  "city_population": 46377,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.6776832,
-      -116.7804664
+      35.2827524,
+      -120.6596156
     ],
     "rankby": "distance"
   },
-  "people_per_result": 46402,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 47.70338109999999,
-            "lng": -116.7865462
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.70473127989271,
-              "lng": -116.7850907201073
-            },
-            "southwest": {
-              "lat": 47.70203162010727,
-              "lng": -116.7877903798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ef8616cf3fcadccc71aa091d84d4913372018ffc",
-        "name": "Fuel Fitness & Nutrition",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105659678188517723675/photos\">Marcie Taylor</a>"
-            ],
-            "photo_reference": "CmRaAAAAU1hz4lFjRLNSQQzq_iCMEW6gfGK1fXKAx8Z2oZB5Sbp4ClmTbRJDhXFJV6l_9GsIWbBgKdce8iXWZEnoqGp6vmPKO8vUbQ5ECP4dYEVkGe11VdWV020GbZ2f1nOcCgtnEhDGB5UqMVYON0cqJnqZpU3qGhQinCmQO1T1TBD0Ue5R6fgY6OP4NA",
-            "width": 4160
-          }
-        ],
-        "place_id": "ChIJbaykWNrGYVMRwrofb_EIArw",
-        "rating": 4.9,
-        "reference": "CmRbAAAAlN1Wlz4grhscoJey00TKjKiiah6rty8_OAQ9n_jGmuQm7NLGN9XEzvVG1jJX1LsFc-mIntHkvIOhFRAhJLGDm90BnXWp7TWLsuXj42f2W0xkZkcJHuUvU7SvgCEVekQkEhA0p1JaBTBOqdoZi2Vt8j0YGhRVLMZTo9Zl2byX3U9HyM2dF4Auuw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2641 N Government Way, Coeur d'Alene"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
