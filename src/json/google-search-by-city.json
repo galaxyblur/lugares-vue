@@ -1,20 +1,66 @@
 {
-  "city_name": "summerville-south-carolina",
-  "city_rank": 807,
-  "city_population": 46074,
+  "city_name": "twin-falls-idaho",
+  "city_rank": 808,
+  "city_population": 45981,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.0185039,
-      -80.17564809999999
+      42.5629668,
+      -114.4608711
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 45981,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5517994,
+            "lng": -114.4435734
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.55334352989271,
+              "lng": -114.4422201201073
+            },
+            "southwest": {
+              "lat": 42.55064387010727,
+              "lng": -114.4449197798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "43601acd44007114895fa787419a7baeb207dc61",
+        "name": "Low's Martial Arts Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110538750851669486416/photos\">Low&#39;s Martial Arts Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAARx91oYH-M7AupEipT2-h2-PPEnLgKIxN6C1tZbi_FCOCemMpnd4UDrFJxRRcEmoiIO-zp18uFEaVPCHrQBBl8wyDG9vTUWNSacDMFj5CMJIXg7OP2Xd5KZPLGv9tot8aEhAdYq3UvsEPwpLk-WIT6KTkGhRfXtBmXlvTU6Ji4bcU0TIuf2sQMQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJSROQgIujrFQRwjP4BsvI_g4",
+        "rating": 5,
+        "reference": "CmRbAAAAjc_ZGwbgY9IhQaviWU_0vsZQkXUxY3cyA_NAWgFkzDeAhQj8q3252tz7b7XS3Yl-2_IujuL00T_JxR65bNkUbtr2OYT-ges8J-98_Z_duX0-1Y_JvVHD-xRjkR4at7J-EhAZvu3ytm4IXx-9dJLKIQ0ZGhTpGFY6VXalGDBjv7FwsCNbwlEwAQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2054 4th Ave E #1, Twin Falls"
+      }
+    ],
+    "status": "OK"
   }
 }
