@@ -1,20 +1,50 @@
 {
-  "city_name": "kannapolis-north-carolina",
-  "city_rank": 830,
-  "city_population": 44359,
+  "city_name": "charlottesville-virginia",
+  "city_rank": 831,
+  "city_population": 44349,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.4873613,
-      -80.6217341
+      38.0293059,
+      -78.47667810000002
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 44349,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.0301954,
+            "lng": -78.4810773
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.03152432989273,
+              "lng": -78.47965207010728
+            },
+            "southwest": {
+              "lat": 38.02882467010728,
+              "lng": -78.48235172989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "de7f6bce190c27c4fc759f3b734be0d38595650c",
+        "name": "Zabor Dance, LLC",
+        "place_id": "ChIJ-3GDKCSGs4kRUN_oS_XuTZ4",
+        "reference": "CmRbAAAAw-lQ_a-_fkfWGQLjUbjaR8TXxjUM32FG36Vr5v1NFZL7tgQn9OYNFjqJ9F3K8a5HYf28NSxW9UXOrSXXfHbX95h9XV4gGNCAxX3E8zFxcySTY1rlMUqNujOalm3davpjEhDwbn1LKWs1OeMOtXsP3GEeGhTvdHcAhRDK9-0KHigSsygPP_l7Tw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "109 2nd St SE, Charlottesville"
+      }
+    ],
+    "status": "OK"
   }
 }
