@@ -1,16 +1,16 @@
 {
-  "city_name": "charlottesville-virginia",
-  "city_rank": 831,
-  "city_population": 44349,
+  "city_name": "littleton-colorado",
+  "city_rank": 832,
+  "city_population": 44275,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.0293059,
-      -78.47667810000002
+      39.613321,
+      -105.0166498
     ],
     "rankby": "distance"
   },
-  "people_per_result": 44349,
+  "people_per_result": 14758,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,31 +18,106 @@
       {
         "geometry": {
           "location": {
-            "lat": 38.0301954,
-            "lng": -78.4810773
+            "lat": 39.6782939,
+            "lng": -104.936617
           },
           "viewport": {
             "northeast": {
-              "lat": 38.03152432989273,
-              "lng": -78.47965207010728
+              "lat": 39.67972347989272,
+              "lng": -104.9352676201073
             },
             "southwest": {
-              "lat": 38.02882467010728,
-              "lng": -78.48235172989273
+              "lat": 39.67702382010727,
+              "lng": -104.9379672798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "de7f6bce190c27c4fc759f3b734be0d38595650c",
-        "name": "Zabor Dance, LLC",
-        "place_id": "ChIJ-3GDKCSGs4kRUN_oS_XuTZ4",
-        "reference": "CmRbAAAAw-lQ_a-_fkfWGQLjUbjaR8TXxjUM32FG36Vr5v1NFZL7tgQn9OYNFjqJ9F3K8a5HYf28NSxW9UXOrSXXfHbX95h9XV4gGNCAxX3E8zFxcySTY1rlMUqNujOalm3davpjEhDwbn1LKWs1OeMOtXsP3GEeGhTvdHcAhRDK9-0KHigSsygPP_l7Tw",
+        "id": "a4e87b229ce99cbc159ea3e0f964235baab26137",
+        "name": "Brazilian Capoeira",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112640448608706135415/photos\">Brazilian Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAmCxmsc9EGCez2Bklj6hLNU3ycmSK6XQ0E7kdsYK_7Y0mQueGqfX6CvjTwuD7YUvEdHJkuqMdsn6N-RfhUZJeMkvt4dfqtWKxTP1olV3Ex1uqx_2O6hmCKQRQGEeGwF2qEhCHy7uke8cyUtrq9b0N5__TGhTd5DNLrQpZD9tHCwHuIGKQphtK7A",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
+        "rating": 5,
+        "reference": "CmRbAAAAvGlkxRKYwfhSlGklfzoqP3Gnp3lh8oObmWBjyEMLO6CbrqPudDFphhXZ--thvGDlkTVeuI3tD93M9Ta2NjikMmNxeBMraKl0dwm6z9UU8b9mHogZwwLSlfI_GzYYTF3yEhDQVkTXxVWpI8PeSvVESFqVGhRH6Y6pQbnhr0ZQ-1KBWjkyscmOKw",
         "scope": "GOOGLE",
         "types": [
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "109 2nd St SE, Charlottesville"
+        "vicinity": "4362 E Evans Ave, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "rating": 4.5,
+        "reference": "CmRbAAAAnskvXPMzeu6jgDQRpQnJu8Y_pI37WUdCC8bOQmupGjXXGqbZNugXMUHWb49NlrdvFLvJNIcNVHpS6D7TLZyJuteh6ko48G3aNVpXptUQVrg1CG8C_AUe74otXlYbMYj6EhAD0w4lnNv9wIRB-M3DMUUyGhTyhywyOvqzu7Gqo8bKmqTzCNQp_g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "reference": "CmRbAAAAWHq8jeUM8yM1TD_3qEsxC6qAp0rt9Uev5WEY35r69Nd0altv2lueWlBXwOu9jOC3Z5nOffgGJuNnVBW59z0GnAt0ULIqldh7mW34oXlX2iVa9uY0McYtcGM7vnY2-CyWEhA4esDzcTNz0UNe2E80gZxGGhRipc2flh4DCrke7W0z0DFWhHmkdQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
       }
     ],
     "status": "OK"
