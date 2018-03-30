@@ -1,67 +1,20 @@
 {
-  "city_name": "state-college-pennsylvania",
-  "city_rank": 877,
-  "city_population": 41757,
+  "city_name": "urbana-illinois",
+  "city_rank": 878,
+  "city_population": 41752,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.7933949,
-      -77.8600012
+      40.1105875,
+      -88.2072697
     ],
     "rankby": "distance"
   },
-  "people_per_result": 41757,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.78287,
-            "lng": -77.8769507
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.78421982989272,
-              "lng": -77.87560087010728
-            },
-            "southwest": {
-              "lat": 40.78152017010727,
-              "lng": -77.87830052989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e53dbc4c53f76981cf4b23bb9fe2a6e7cd2e9ec",
-        "name": "Central PA Mixed Martial Arts",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 4016,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106009147473162754374/photos\">Central PA Mixed Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAqupOIx5noVGK1A0F0Lepyo0IZuOhwKQydXLyXkylCM3XBEFuCe6Y3B7zQbZYIoG9wbJ-ovAuFu3VKw742BSXBHxshlRqAsIVDeOMCxPaqMbX_HZdbKKDMCeJckM1eFfhEhB3BILhdrUgWY3wTDHOoX11GhSI9S5JJ-kZ8nrFxexan4ZV0usnmQ",
-            "width": 6016
-          }
-        ],
-        "place_id": "ChIJWWREYYuozokR6tXeyL3W01M",
-        "rating": 4.6,
-        "reference": "CmRbAAAAqo6nkbtg6x87ryacZ3uFYb-62wem-kCbRcMmLWmBMKxvkrHeYn5rjtV5e5bl9FNAwUENAJTfc51DDnPC5rPxEQuYf-HaqsAFgQVy2nZ_5OHlIBZLt1BqBTubeuq4ZuYTEhDN3-bdxhA2VwvJrClfZwXqGhS9AAzpPuVcmr2-A_CoJop5hzH6Tg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1445 W College Ave, State College"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
