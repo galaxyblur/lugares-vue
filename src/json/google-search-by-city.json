@@ -1,66 +1,20 @@
 {
-  "city_name": "hagerstown-maryland",
-  "city_rank": 906,
-  "city_population": 40612,
+  "city_name": "prescott-arizona",
+  "city_rank": 907,
+  "city_population": 40590,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.6417629,
-      -77.71999319999999
+      34.5400242,
+      -112.4685025
     ],
     "rankby": "distance"
   },
-  "people_per_result": 40612,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.674683,
-            "lng": -77.5622719
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.67578737989272,
-              "lng": -77.56034662010728
-            },
-            "southwest": {
-              "lat": 39.67308772010728,
-              "lng": -77.56304627989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5bb635cc1b2bbf01de93686c786ea7ae30612afa",
-        "name": "Flowering Heart yoga and Whole Hearted Health",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 528,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113928908944884188977/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAKPjGSTvEZaEX8uD7Mx3Q-rfG4vcyg_jXjX0OCvxPHpEt2ZsNJfW0jFIf2eBC5JlOgZHn81naZKqMsOq40g2RLOaPZTJRdEzfYWtUiLgtX-XWseRMMLaghrtbO_MO9mGkEhA4Yg95hqmVEd393GWhmoAgGhSdz-067e_bAEecXmVh9LnBoIqahg",
-            "width": 798
-          }
-        ],
-        "place_id": "ChIJJevWAH6VyYkRy5YAk0HW9P0",
-        "reference": "CmRbAAAAoU_m1HhH_D4gzYRlLG_JtU4PUSO2IKKPRR_jTe58XLOctZNH9XfVVu9v0k7bjneF8w_pnUzSvnLz8JSuQYB_tQHBrabtJVjpw5-etxTdvZYLPmPKzFem315wyHBryc4XEhC-tt-TIhghr19bc0Za14-mGhRH7apX32Y4YfcVuMDiSwJ7yQueyg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "13112 Bikle Rd, Smithsburg"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
