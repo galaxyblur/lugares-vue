@@ -1,66 +1,20 @@
 {
-  "city_name": "spanish-fork-utah",
-  "city_rank": 998,
-  "city_population": 36956,
+  "city_name": "beloit-wisconsin",
+  "city_rank": 999,
+  "city_population": 36888,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.114955,
-      -111.654923
+      42.5083482,
+      -89.03177649999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 36956,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.3075475,
-            "lng": -111.6977217
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.30889757989272,
-              "lng": -111.6965779701073
-            },
-            "southwest": {
-              "lat": 40.30619792010727,
-              "lng": -111.6992776298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "38d60695391761bbc7dee4620db137b405fab1de",
-        "name": "Utah Valley Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107391712528442834353/photos\">Utah Valley Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAw2AbG2ibca81NIZki7FcC79DfiOHXxvqtqqNfvw6POWKaCalyhHsAgNk_Ca1wapf3QJL-5oR7c23hPSTOvSW-JhLmQ5K0UbLt7E78HHv7SGB5N26BvEXbfJsIgREznGFEhBxz1m37GxA4IcLDjRLluGNGhTFWhNYZmIpRX8HBERcF6-JJZiWlA",
-            "width": 1893
-          }
-        ],
-        "place_id": "ChIJpajnqo6ETYcRYATRWJcEF7I",
-        "rating": 5,
-        "reference": "CmRbAAAAX3uj_VfI26u6erTN3tjIJ8acEpsHookDQc3BnE0E5R77nUO9ZO8GGZAR8wn1PEWFekqiFXpotSHzgLHL3HzctDKG2_1-knSXD7qtxCCJIaYlAf66fnHyXZsH-XvtsUCvEhAygx4qBf9fD0iGvfwi4DQXGhRggSXrb9Ribrpek7MBu5tFASOSMQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "578 N 100 W, Orem"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
