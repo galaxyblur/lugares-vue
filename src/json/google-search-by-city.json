@@ -1,16 +1,16 @@
 {
-  "city_name": "charlotte-north-carolina",
-  "city_rank": 16,
-  "city_population": 792862,
+  "city_name": "fort-worth-texas",
+  "city_rank": 17,
+  "city_population": 792727,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.2270869,
-      -80.8431267
+      32.7554883,
+      -97.3307658
     ],
     "rankby": "distance"
   },
-  "people_per_result": 264287,
+  "people_per_result": 396364,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,128 +18,88 @@
       {
         "geometry": {
           "location": {
-            "lat": 35.2168988,
-            "lng": -80.85283439999999
+            "lat": 32.713013,
+            "lng": -97.34637339999999
           },
           "viewport": {
             "northeast": {
-              "lat": 35.21829762989272,
-              "lng": -80.85140467010727
+              "lat": 32.71421842989272,
+              "lng": -97.34502387010727
             },
             "southwest": {
-              "lat": 35.21559797010728,
-              "lng": -80.85410432989272
+              "lat": 32.71151877010728,
+              "lng": -97.34772352989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7f22706e203e237629649d00a14ed8613f12f249",
-        "name": "SweatNET",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "photos": [
+          {
+            "height": 918,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112294789667396374360/photos\">Lindsay Puente</a>"
+            ],
+            "photo_reference": "CmRaAAAAgIbllahum3lehDDm90n4ycMaBuquHUscaX-Z7vMInZNYS0FOAiBXEug-pkIaMTTwix2LEFno2cfK4J3__FaEmvxqKGTeIq2dLr87IzyMLIVZxLrOT8BV8KkostE1JVszEhBm99W-Z0KE9Ajh6svEtK_SGhSaUzUqXf9pkMBJGYWIHmC5Wfrq-g",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "rating": 5,
+        "reference": "CmRbAAAA0IOI7jEA1ygjn8GBd7OMqUUycmbfA0cnH2UMLaW6sm-GxhUKGGu5otwmkj7YmeAUUTQwP9p_pFz4UIQuHlgrTgUv5tvx7NyirP8p2rWHNu9p70tk5IMjx5_HgkbsuR_gEhBH_0dtNUXNLpmLYgHXPz5uGhS98x9diwMAE4O55MgcanzEBo7upQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1800 McPherson Ave, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7705978,
+            "lng": -97.4039031
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.77171412989272,
+              "lng": -97.40226247010726
+            },
+            "southwest": {
+              "lat": 32.76901447010728,
+              "lng": -97.40496212989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "50d0b76edcb3da04186a54eac242a9e586b4836b",
+        "name": "Genesis Jiu Jitsu",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1080,
+            "height": 3114,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109555147799285867616/photos\">Sweat and Sweets</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/108036572810021529642/photos\">Genesis Jiu Jitsu</a>"
             ],
-            "photo_reference": "CmRaAAAAvJYZVIm6fA9LN56QcU_2oTFCRN48sDlXelaLmd_Iyac2e-N9XXWaGrJv1CyGDkCZFzB_YUM73EI_2XQpXJG_eHqut7lLXFWGIjeFXYw8T-ZRtrTBxL1vYky5-vJ1_AM6EhDlm6fm_LSwHM4w8jJpQP3FGhQIuagC3lfR31RpaUYJr9ngD3LP7Q",
-            "width": 1920
+            "photo_reference": "CmRaAAAApaN1cIaGIHHeOYHOGXWUp9JDS6GUXZN9ZQdtm-uYwBEhSjfIlyi-dg_p0Rj4bLV4k71wi_2AqOXeg7xbLKAkQjLIm2-BYAeIcneFCobvnQHHzFByJxaptUe4QcXikLj-EhD6Npquj5Q9usa0hx9husrYGhTgr3oy1HsJ4Ue7TPg5RaUbamc2Vg",
+            "width": 4729
           }
         ],
-        "place_id": "ChIJ1WsSyoGfVogRFm3oSUORvxo",
-        "reference": "CmRbAAAAVVMvpi6m283GJfia66qZFIFcAf3CadztF6H6c-nA99CyPlukynlEJmb7x0DQ1kOlQqJVX45816jWuySm2bR-RdZbrUT2f8oGumOMX9fwebC2tDCBkVbXk1_o21HWEnbTEhC6Cx6vDGWcx8DCPn2uRgOTGhSLoMwYkGJ0IrJ-ovkTaIcprbm92Q",
+        "place_id": "ChIJx6fmfH1zToYRkv9PfDQ2vOo",
+        "rating": 4.9,
+        "reference": "CmRbAAAAqvbEngCsG2fhgeIibGIuW4dIg94Tfsq4PS45fTCnCIOBCJcofvPOMHNpOPpYtkH18oRlUzxPvatBjJpBL4gMRAIPMWFColKOFJaRMAaWNbPbdbJQ4tsRLtUqOfLNH78GEhAVHz25L9W6dduQbG1Q9rXQGhQiUhHNyktY8uCYIw-EblRZFxNVUg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "310 Arlington Ave #229, Charlotte"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.2198217,
-            "lng": -80.8083493
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.22132407989272,
-              "lng": -80.80698237010728
-            },
-            "southwest": {
-              "lat": 35.21862442010728,
-              "lng": -80.80968202989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4defe523b9f97e3cbfa3f3747203b42df3082f72",
-        "name": "Dojo Body Mind",
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109064764724876246581/photos\">kaledev</a>"
-            ],
-            "photo_reference": "CmRaAAAAXoIT1sAbtGrTdB0P4Hl3dkOUPmY5kNrWjQMNnuobqDH8YzuTDb1DUtMEUcHahZsojUdKz7mEWWWDNHKiNb_jAuD7REjq_YfYCsE5o8k1FE8RbQS2Q9D2kEuODFijZTlUEhBQ4gNMkYBYVPk768uSKiFrGhR5GCVCGpJThaDD3hk4-nPc-28_MA",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJ5dYDR_4fVIgR_P-wsgFEC-I",
-        "rating": 5,
-        "reference": "CmRbAAAAogptiMyXqU_028rNlTuafaULmPREq2XWAuls3RT10KHFR2ExglO0nP08NOEhgxwug1lm5DcyEdUgGEsbJ50IvybIzsUp4IS1-iwo5K3ODjXVlUGsbzQvMlBvn554t4K_EhAyJMLWfCrimjwTtWs1n-bSGhQVSU5BVzubaBcWJYSX2Mr6rgyF7w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1820 Central Ave, Charlotte"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.2196774,
-            "lng": -80.798678
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.22081437989272,
-              "lng": -80.79735742010728
-            },
-            "southwest": {
-              "lat": 35.21811472010728,
-              "lng": -80.80005707989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d948b56efce10724fd5fc68788e9876c08859d39",
-        "name": "The International Capoeira School",
-        "photos": [
-          {
-            "height": 3036,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109089230800118934888/photos\">Nathan Hayes</a>"
-            ],
-            "photo_reference": "CmRaAAAACLqtW8nU828v-7cBTjX4cJg9bmDMzuj6vvXpLta1l-nE4bcwSdRXZEZysUO4zOOGSDTKQZen-qJIRWPv9ZiGlmXAaeGJIcFrkrkzs3tkII7Smg9SULWRqOhTikI5S_1_EhDSiWMkEgTbspSm80sLBbd5GhRzdRqHjuu70T1b-DZSr8pa2PExFg",
-            "width": 4048
-          }
-        ],
-        "place_id": "ChIJ9yk9ZvcfVIgRT79rJBbb_eM",
-        "rating": 5,
-        "reference": "CmRbAAAAPBTk7jfpgcPVU6O5nn5rDWnKrhc35klZ4uoWQZg8V4g3iiZzmvqFDYsy-MtMxMJyQ4htBVZOOXGZ9mkToFTM_4dDTgnetOp1lFMD3Vx05c3xAMA92cqmccUAvRFFSjAvEhAZ_3mArnzl7-9H--oUQvzcGhRHqyWYuoOu4DxgZS_inPlsD4orug",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2609 Central Ave, Charlotte"
+        "vicinity": "5512 River Oaks Blvd, River Oaks"
       }
     ],
     "status": "OK"
