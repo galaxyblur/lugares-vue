@@ -1,20 +1,63 @@
 {
-  "city_name": "anchorage-alaska",
-  "city_rank": 63,
-  "city_population": 300950,
+  "city_name": "stockton-california",
+  "city_rank": 64,
+  "city_population": 298118,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      61.2180556,
-      -149.9002778
+      37.9577016,
+      -121.2907796
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 298118,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.014376,
+            "lng": -121.3222675
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.01572582989272,
+              "lng": -121.3209176701073
+            },
+            "southwest": {
+              "lat": 38.01302617010727,
+              "lng": -121.3236173298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bbb0d28f79404e34fa841d1eab4afccb8c1dedb4",
+        "name": "Ernie Reyes West Coast Martial Arts",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116706686136900315333/photos\">Eddie Gabriel</a>"
+            ],
+            "photo_reference": "CmRaAAAAE5S6hGMNpbiowOcnsOVm48IAa4hCYNoDI5i_00QzkqJ8B42pse1SpiiM8fjgjdJyWr4rqJFZfdTX-b8ecyA_Epycgr4rcdTzcli-NzM9iSueZoNGdLzK5HLvqo_P5gHXEhA5eQ-MD_-XKD20AR-uQHeRGhSl9yrs4LQZnNuZgfr0BnwTz8Raxw",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR2oTTlEJkIARQiQGeVFsSeA",
+        "rating": 3,
+        "reference": "CmRbAAAAq3uNlxACfE8M4wm5AifyqACaGSNPUQuQsQkQPUT3c8UHUoWONoubR_fnO0Zwx-ApS61gLseMGvl_Hdknt7QKahhsPGnuxPUCLCA_Utuulv8sbsBHY91PlAypU35osnOFEhAfl0zBoaywxAPjXp4gFaqFGhRjFbJ4VzI8uQ6OF5rAclWE0RYdxA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4950 Claremont Ave, Stockton"
+      }
+    ],
+    "status": "OK"
   }
 }
