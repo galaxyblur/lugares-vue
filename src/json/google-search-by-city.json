@@ -1,209 +1,92 @@
 {
-  "city_name": "orlando-florida",
-  "city_rank": 77,
-  "city_population": 255483,
+  "city_name": "st-petersburg-florida",
+  "city_rank": 78,
+  "city_population": 249688,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.5383355,
-      -81.3792365
+      27.773056,
+      -82.64
     ],
     "rankby": "distance"
   },
-  "people_per_result": 51097,
-  "possible_duplicates": {},
+  "people_per_result": 83229,
+  "possible_duplicates": {
+    "ChIJR8HaPoDhwogRo7IyCTogywI": [
+      {
+        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
+        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
+        "score": 0.8051948051948052
+      }
+    ],
+    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
+      {
+        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
+        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
+        "score": 0.8051948051948052
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 28.5796596,
-            "lng": -81.2949725
+            "lat": 27.7749953,
+            "lng": -82.6469516
           },
           "viewport": {
             "northeast": {
-              "lat": 28.58101087989272,
-              "lng": -81.29341492010728
+              "lat": 27.77634512989273,
+              "lng": -82.64560177010726
             },
             "southwest": {
-              "lat": 28.57831122010728,
-              "lng": -81.29611457989272
+              "lat": 27.77364547010728,
+              "lng": -82.64830142989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ac3ee67c998c98ab09b629dd4940746adf86a59c",
-        "name": "Capoeira Palmares Orlando",
+        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
+        "name": "Tampa Bay Capoeira - St.Pete",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100275786013286847816/photos\">Capoeira Palmares Orlando</a>"
-            ],
-            "photo_reference": "CmRaAAAAt-23Io7k2iJkvhx1jHPQStwF1vNkhvJOXpebF_CXagmV2ANzWfO5hjFyj9XgrNAfqjMTcG219tZIuDgpQBS3XBH4YOvLwYV7tBeCT_5eXdMTRjLcned5xK8QvL1Us4HVEhA0s_jVZYCFIOzh0iCXBCUJGhTXV3znu0o_ADUo3z8jnKWtWYqJyg",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJbZ5qCYBl54gR2zs-rSwPQmo",
+        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
         "rating": 5,
-        "reference": "CmRbAAAAels1DoH6ybK88OKcaCZ82xZeXozxKFaaswLnohsyg3Xckc00GYRbIBPE4Nv-MTT-iuz6rOT6qWSXxNG2Ivgi1c05rSsPVjKt5adr5Ek08-Vo79o6WBLbUTbTMJ6noyi6EhByhSOaGaXfB7yo3_SMjIbeGhRS1v8ociSmH0kV0O1nJYtf0gix_w",
+        "reference": "CmRbAAAAPQV9VugEijag1NtHrvUREBj3V_0eEGlbhD_p2u0DX2JLqF3nSVZ76FX3hScewzjssTiM7edE_kgzu1_9xRWx67nZBw0KCG8A-xeCTBcBiHQOWBeIEYZTv6bUv4fgw0c7EhBZA7y9f6ORZ38kzMJzy4iKGhRYs7w4W0mM_AiWRMEzhA0DPVb0kA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2400 N Forsyth Rd, Orlando"
+        "vicinity": "2033 54th Ave N, St. Petersburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 28.4615138,
-            "lng": -81.4374611
+            "lat": 27.8214144,
+            "lng": -82.6609864
           },
           "viewport": {
             "northeast": {
-              "lat": 28.46301872989272,
-              "lng": -81.43589952010727
+              "lat": 27.82266827989272,
+              "lng": -82.65963457010727
             },
             "southwest": {
-              "lat": 28.46031907010728,
-              "lng": -81.4385991798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
-        "name": "CBP Martial Arts Academy Orlando",
-        "photos": [
-          {
-            "height": 659,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">CBP Martial Arts Academy Orlando</a>"
-            ],
-            "photo_reference": "CmRaAAAAmm0qoUwbCNHZtqGhDw5QckFoCStyCyH6wHMVIZD0m71LvxRdjj79qzmG9wV0qPMKeOOf9IsaYwX5fHEYqaa4yu1HhKgLclD2_00ZSIqyQm7lt-gi3Wp65qQLdOlH1ZiBEhDdMH6GYydterFIK1fTwSlYGhTstC-NQ_nXOWje5IQUzIvuDHahFw",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
-        "rating": 4.8,
-        "reference": "CmRbAAAAzMfDhaMuNGH-cZ9OT_OJbx2hl7uOXNARG3RUdwzAw87oR3_EheTrzit3qFXlQnOcHYV5MBF4yfENg8UnjuLaZZAe7NiSDWla3Jf0caChWFtyzxKYYndH8xLXSxdgO812EhCnXye3n60nyhyVPzGYuKrLGhTGu_F7s9CLmaMj8-0Lx98f9iPO0g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "7075 Kingspointe Pkwy #10, Orlando"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.5346945,
-            "lng": -81.5232389
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.53604562989272,
-              "lng": -81.52170092010726
-            },
-            "southwest": {
-              "lat": 28.53334597010728,
-              "lng": -81.52440057989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
-        "name": "Capoeira at the Traditional Martial Arts Center",
-        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
-        "rating": 5,
-        "reference": "CmRbAAAA4y86xA-DJftzdO04qDKzHdIWVSWNb1ynAf6kAdFStEfcLBIk6dnkepeyZjdqSr1WjqQQiBJExST20PvX-uzGs5h5rLBpfoLizb3i_WV_1pfJ_v9WYIoS0OiH5LGb2CYNEhDHJe1mbgfE1R3wse7qqnXXGhT7oVnXF1cHBAVQfmbd6dn_rizZIQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2220 Hempel Ave, Gotha"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.54785,
-            "lng": -81.19394899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.54919497989272,
-              "lng": -81.19299927010726
-            },
-            "southwest": {
-              "lat": 28.54649532010728,
-              "lng": -81.19569892989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
-        "name": "Capoeira Orlando",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 540,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
-            ],
-            "photo_reference": "CmRaAAAA_oEvrRb0KVJO21JdlY2g5qsNLLtrlLD0L6Bc-MdWCyHDEIfh8gs0keMo434rFuZuFUD97OS_5MR4g5zV4Iz4HSX1Q12jdfGfKXamm38cj6-3SqJNn8r0D2TB-aMynXoDEhAWKRJvtTBBAyKLhMHPReEwGhSyu-QusIHZladMQW41WetU4rspNw",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
-        "rating": 4.9,
-        "reference": "CmRbAAAAFERBmUYQ1VEd2BwbQeOqNpwBm-TMOxUJKjMHC8SmJYfpR4sY3gNNHNKKZ7itC0SXHlsiaQF6jEbUe_RROLzAfoIUPcOd-pihrvfeNDFkf-ZxWPSEy_cPUcFDXhzmmpJIEhA25DIG2-sXr-9X7uZxpi0pGhSMTad0_9pwlaZ2uczyeN47XQin_A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "829 Woodbury Road #102, Orlando"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.4341409,
-            "lng": -81.5582823
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.43539327989272,
-              "lng": -81.55703552010728
-            },
-            "southwest": {
-              "lat": 28.43269362010728,
-              "lng": -81.55973517989271
+              "lat": 27.81996862010728,
+              "lng": -82.66233422989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
-        "name": "Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
-        "reference": "CmRbAAAAXIuaQEyAflMtTQt4aEmxrhRl2cPUo2nSbfwxrfQMwj5SZooAxIK5uruIF3ywpSxQ5K1Dq9JQ20v9pqO572L6BFDY7lU5d_3TMk_5vp6SIUwJDvv0CRKqqY7tPgu90-dCEhDu8Gdg8gePFYbE-m4L0nCPGhS85QvUZeh7oo6EBMHp3KFbtmrx0w",
+        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
+        "name": "Maculelê Tampa Capoeira",
+        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
+        "reference": "CmRbAAAAUfVkkfG8ND8MBx0gE5EVls_KFkpVnZ4TmIpkL0pAtC7geiligc0JnEX0n28IX8wB5qzGjta6QzPonWXfA0Qfzek3UkaQpJPg5OFAbDbU7HuVo50r44fs9gXa_5FiuQ9gEhCH5OBKypL5m0JFBTwJs_mtGhRkJVxNIOgGFh5hgdDzft_01i4D7w",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -211,7 +94,52 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "9001 Taborfield Ave, Orlando"
+        "vicinity": "2033 54th Ave N, St. Petersburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.4305309,
+            "lng": -82.42595299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.43212887989272,
+              "lng": -82.42460932010728
+            },
+            "southwest": {
+              "lat": 27.42942922010727,
+              "lng": -82.42730897989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1f0fb6fd4a9b44813695579c6484eaa90e96dc49",
+        "name": "Capoeira Vam Inc",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1564,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106760776227634529528/photos\">Capoeira Vam Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAtO0VFlP1HlupAVc5E4msrs9Cr7UMAEDqhG2BiGoSR9zaw8g_h3fauCHLyfB-WiYaHzZB6pCWbYcTDSspAJat6iG9mrJ_h-hfKQY4ZFS7hjlZeTeZupgAF9NIALfH4IOOEhCNvfBpXrL4RZVEvVXaiuSvGhSPBlz8RFYOxaiLDnwf767RKZvyRw",
+            "width": 1564
+          }
+        ],
+        "place_id": "ChIJWVF4oIY5w4gRwqywWK7JpZ4",
+        "rating": 5,
+        "reference": "CmRbAAAAbDPicy8zb0u6KyCLJmpKGnd0qbkiAIdl_uIKOodseQVdsIPPxGY0ODt-RFvV95caFhhkgkVZBUF36ajTllq-cuEWZEMmk4RAGusMxnwNp3ERlkITTshtSZsVwAhaUkiBEhDeidkj5AZAufsgbvBF2I8NGhRPXKQtwSz9qUOnDmptDaWN3jDRrQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "11534 Palmbrush Trail, Lakewood Ranch"
       }
     ],
     "status": "OK"
