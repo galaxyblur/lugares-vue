@@ -1,66 +1,20 @@
 {
-  "city_name": "san-bernardino-california",
-  "city_rank": 100,
-  "city_population": 213708,
+  "city_name": "birmingham-alabama",
+  "city_rank": 101,
+  "city_population": 212113,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1083449,
-      -117.2897652
+      33.5206608,
+      -86.80248999999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 213708,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.1071384,
-            "lng": -117.6855761
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.10832257989271,
-              "lng": -117.6842230201073
-            },
-            "southwest": {
-              "lat": 34.10562292010727,
-              "lng": -117.6869226798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fd999236e734967b5154a5c2ed537189fde36ddc",
-        "name": "Defense Arts Center",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 986,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101978810341485196224/photos\">Defense Arts Center</a>"
-            ],
-            "photo_reference": "CmRaAAAAHldyPmDE5PCvvCffuA_NFY7hiWUske7J_QpxqWqCmU98rJgHGUfl4LUqX5wdwPYxsR6uAJo2WS_sM26GaLcyF9NHagZAEg3pXrvie_ZLFX8N-RZAIVrqAXDxRk3Qt_M8EhBaGDA5RIfxinnVXiVTnva_GhTEHKDA8cniZ0T8diXl_LV3cvgRQg",
-            "width": 1855
-          }
-        ],
-        "place_id": "ChIJZ-fA7gsxw4ARzJqW_ZFC3dU",
-        "rating": 5,
-        "reference": "CmRbAAAAmBszbF4lJ0Trbbv14L66aFBO-BK3ldntVDELRD6vEulkuP5axDXokx_2tKRXN_frAEK1--BtfrYeE2IPG9l1IegGcte47z7doGhXaWJB8Qp_GSlUz4i6C7ywrih_zYlPEhDoLSu8wI1GNMgvEtql30qaGhRx8BTjYhMMf_PeeTomAjotCgwMkw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1811 W Foothill Blvd, Upland"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
