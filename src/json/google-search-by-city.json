@@ -1,99 +1,20 @@
 {
-  "city_name": "oxnard-california",
-  "city_rank": 108,
-  "city_population": 203007,
+  "city_name": "fontana-california",
+  "city_rank": 109,
+  "city_population": 203003,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1975048,
-      -119.1770516
+      34.0922335,
+      -117.435048
     ],
     "rankby": "distance"
   },
-  "people_per_result": 101504,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.233046,
-            "lng": -119.170956
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.23439582989273,
-              "lng": -119.1696061701072
-            },
-            "southwest": {
-              "lat": 34.23169617010728,
-              "lng": -119.1723058298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1475263a796a1628371a2056c2e1bf734f6a497b",
-        "name": "Ventura County Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115311606692635842456/photos\">Ventura County Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAW-d1jtwG-k9salS73PQdMCywZcfEJeEBQ8EXJKOf2U35XrGO5I1L3P10D5rNIGO6Qr_BWGN-a9uxrNZ36_3wurV8KKI76pH0N_7HFC4dtLufZeL9lH7GHJwgP9TCU7XEEhAqNWsrckVbHitTzK-Y65XTGhQAkpWMFgBXUQ_muOiwX0WWVI1WPQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJq2GG0CtM6IARbJqPiCY1dxQ",
-        "reference": "CmRbAAAA9Buh_BGuUfcdwteGOZXZFY5cJ1rwFpD7hP0p6fnQRw7PGyIfuHOyYRR98_yOIyAQwNinDBa0oiFWZeFepG_pyDGTNGoannaJUvp4VucKGRfHHhoJLVHvwXgr-I6Vt6f9EhDVVNRS2xmaZqhlxciMAqS9GhQUk4VwRbMWVViNipUlCxHb0IIiVw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2550 E Vineyard Ave, Oxnard"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.14605,
-            "lng": -118.8133621
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.14772587989272,
-              "lng": -118.8120138201073
-            },
-            "southwest": {
-              "lat": 34.14502622010728,
-              "lng": -118.8147134798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "049b3f842362227a1b9499574aa4429cf2fae32e",
-        "name": "Capoeira In the Valley",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJUyF0eYok6IARTbMgDfYQbtw",
-        "reference": "CmRbAAAAcyQ6Un2caz-ZqvaDBcfCW6t7Ied6FMsq0G0WwyE9894s19Llbrd_GppGA1HZ9SoV0EOvgKE1f5ba6eiE3orLxQSqgEkoxiFAZ_qczwcVJEAnQEGJXKUsbClI_cwah_T3EhCBHjz7SYUf8qGidefqqFf6GhTs9tOYnR8HzB5TYMAVf1PDrxMaww",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "31800 Village Center Rd, Westlake Village"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
