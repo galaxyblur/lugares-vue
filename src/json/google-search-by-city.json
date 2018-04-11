@@ -1,20 +1,112 @@
 {
-  "city_name": "lancaster-california",
-  "city_rank": 153,
-  "city_population": 159523,
+  "city_name": "corona-california",
+  "city_rank": 154,
+  "city_population": 159503,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6867846,
-      -118.1541632
+      33.8752935,
+      -117.5664384
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 79752,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68195412989272,
+              "lng": -117.7772291201073
+            },
+            "southwest": {
+              "lat": 33.67925447010728,
+              "lng": -117.7799287798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAc9a9WerqzlfSU5p4IQ_pRaKK6z6yY3YoWQtpaLYl1I6rzfoVKdPT6-Nl2r8ZViztzHgVN4TqVJ7HXDJ8vqNSScbcKzKKhXFONfZy0jolBTe679vmeAphRcoyDje5wVzEEhCbCjw9-PzqwHwbw28FeT6zGhQ5DA9CJpH2gb6OeiOyfkYA6Um5Jg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRbAAAALoQJ76xE0fyjOm_W-pSNmHtVZYa-zJ8K6MGeWn0jqq8KD7T3Z5AVaFE1JKy_m6zuYSUn2A1_hCOBAMsEPss_rad9RYEPyUTNJTXVxVkGjBiDeH37CjeL-3V_kib7D6DqEhD-prZBYvIFhLhndTDXAQbdGhRlkESQEj5B4IKjsE5VU2SfG3tzgw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.721223,
+            "lng": -117.999711
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.72257057989273,
+              "lng": -117.9985800701073
+            },
+            "southwest": {
+              "lat": 33.71987092010728,
+              "lng": -118.0012797298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c926a838d717d77250e67ffcffb874e8809fd88e",
+        "name": "ABADA CAPOEIRA ORANGE COUNTY",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106007823777458536733/photos\">ABADA CAPOEIRA ORANGE COUNTY</a>"
+            ],
+            "photo_reference": "CmRaAAAAKFMZJ35MoGBq6ZLuwxXTY_XRhPrONDeYkoHWwQwk1H9HYETEY9h7Z4x1_d9UlID-WTj-dzXoEhFXJyseniw2my2HSBlhp6JgGNq4Wz-E_tc5LKA5MdKGbxWCbilGELDcEhB5otDwrFZBoh-ezr9gt7lPGhSO-gVWT4rzJU3AlmO0xscMPUDTBw",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJGUTtamEm3YARs1kf18kQ9aA",
+        "rating": 5,
+        "reference": "CmRbAAAA-PYY0kfpz-TcQt1RhAss798pa1w1gtTHolWP9a464mEnxoBASZjBuRcUikOoHY2m-4bsQVm0e-oexgd4eT6PXsm0okE7TSXgeq0YgXjuUwdSnR_JWxVevUmzhe3b0JaaEhAeTW9ivvA6uPqbUJjGDzL-GhSO8W3hfpH_EaXe7eUL-gNqA1ft4Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Gothard St, Huntington Beach"
+      }
+    ],
+    "status": "OK"
   }
 }
