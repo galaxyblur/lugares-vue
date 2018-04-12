@@ -1,200 +1,199 @@
 {
-  "city_name": "olathe-kansas",
-  "city_rank": 193,
-  "city_population": 131885,
+  "city_name": "sterling-heights-michigan",
+  "city_rank": 194,
+  "city_population": 131224,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.8813958,
-      -94.81912849999999
+      42.5803122,
+      -83.0302033
     ],
     "rankby": "distance"
   },
-  "people_per_result": 32971,
-  "possible_duplicates": {},
+  "people_per_result": 32806,
+  "possible_duplicates": {
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ],
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 38.850334,
-            "lng": -94.832583
+            "lat": 42.4602986,
+            "lng": -83.1370883
           },
           "viewport": {
             "northeast": {
-              "lat": 38.85195382989273,
-              "lng": -94.83116437010729
+              "lat": 42.46177327989272,
+              "lng": -83.13574542010728
             },
             "southwest": {
-              "lat": 38.84925417010728,
-              "lng": -94.83386402989272
+              "lat": 42.45907362010728,
+              "lng": -83.13844507989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2ea282a4a4949a807a32343caba0e17f709eb69e",
-        "name": "Olathe Family YMCA",
+        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
+        "name": "Capoeira Mandinga Detroit",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 800,
+            "height": 1626,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107080556451316629459/photos\">Olathe Family YMCA</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
             ],
-            "photo_reference": "CmRaAAAAl2aF3xoWWyxCOY982TmCbbfa18GOAsgB2ZxI5JL_Q1Ml5mWn3lgmZKJH_JKszK5Av3ZdCizck3E7DtUGB04TS3g1Uw5jH-Tyg0wpm_0wWDD9Rh8inDcjFGzu73fZ3J3DEhD1XF_Wx6bGvuAeVFd0XwUJGhTMoxI5hgJWA-gfkUuqDhZvlh7eCA",
-            "width": 2400
+            "photo_reference": "CmRaAAAAObgxfgwmMspdEEwSRgOpyJ0Fqlm0MOSbYLgGXOoN3Bf9z_84SWLzgsR9BbHlzHO8j9crJ5MNC3uOD2tfgcuQ1hWHSVmSzGFukv1TbT8isFx3Chs7z_DlmH6RllOSFkQLEhDFoCwLjSC-5wq9wA20FFWOGhSbcJzvJh35BKMLB-fo670CnE9CZw",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJ5ZPjxrW9wIcRS519LHZkjy8",
-        "rating": 3.9,
-        "reference": "CmRbAAAAUaHxWFvyvPnwmuSDs8ghgvhY3VwnZOkw19sxvnXkWQ5MpRTq3jn4eTyiov24EdK0iu00KQLTrGQX5fVlLpNtaxUNjjhVD3DWzgmTf_3dJEaMtj6crcUrx5YYgcCeLuWtEhBV4EH_yBPnhlreDlvcrISnGhT7XAGYd-8sFj2ynEb-8t-UrWB39Q",
+        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "rating": 5,
+        "reference": "CmRbAAAA73BaNTEgxBZq1MqQbxCyzDtDZ43o-Cfg19MdnKKTpfwJ3ho0fXemqBBjYe3EXwnQxLXVWcIOIFmfcrF9oqt7bdhQ2-c6ExQu8O-27CP7dZUqL_JRwHP1jn6R-BsrLrw-EhBzFVx6bXSXrdmaYmao1aqzGhSvjEYsddyL_iNStuGiPX-X_-MXvw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "247 W Nine Mile Rd, Ferndale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.422379,
+            "lng": -83.176875
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.42366357989272,
+              "lng": -83.17565672010727
+            },
+            "southwest": {
+              "lat": 42.42096392010728,
+              "lng": -83.17835637989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
+        "name": "Tabcat Detroit",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAAja6WnXt3HvwCsZeNf_1rBQUolx8muVFMy9CwVaKthbVERt7LQoZREW_Q2j_tktg2gff6YfJQ2zKPGwlOdaiSxO3CMYDShvhFeSchuQYIMkVa576Y8nUzHYrCeNyPMKH_EhCWlYc0QtPs4IP_MP5yVaiTGhR49x3d1DS3Ki547pwSNuCMvGnm0A",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
+        "reference": "CmRbAAAAqqef-0DbvmPoqtymXUs9qYUVXHxAX_zNNjZrbpiDtB5rcQqZh_DYGTUeTl7H_msHg7Dcnr5bxmSqBoTiOetA54czlMAaM081L_wlTZfPV_5LgISjVs5crxFANqB5Yov6EhA6Ujqvz6zKgavnMPf5NW6nGhQ2BL7sI4tBO80_YB_dQEGt2aMX4Q",
         "scope": "GOOGLE",
         "types": [
           "gym",
           "health",
-          "school",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "21400 W 153rd St, Olathe"
+        "vicinity": "18018 James Couzens Fwy, Detroit"
       },
       {
         "geometry": {
           "location": {
-            "lat": 38.9206727,
-            "lng": -94.7598328
+            "lat": 42.5276867,
+            "lng": -83.3601159
           },
           "viewport": {
             "northeast": {
-              "lat": 38.92174212989272,
-              "lng": -94.75895232010728
+              "lat": 42.52903182989272,
+              "lng": -83.35880832010729
             },
             "southwest": {
-              "lat": 38.91904247010728,
-              "lng": -94.76165197989273
+              "lat": 42.52633217010727,
+              "lng": -83.36150797989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3f6161e42ecf2fa6c86ce43a0729ad678451dc0e",
-        "name": "Brazil Academy - Brazilian Jiu Jitsu School",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "reference": "CmRbAAAAtPS0n0mjlSULCsudLxfxK2GEzINxn2Qz83ZT9eCPUuLKMIBuoUhgHmQk4xJ-JHNG0Imi4-PYPMjNW_lqfiI2rrAPfDc3wwkToeXoO_ssbyucpewl7OvP2hJAGHhkMk-WEhAaqqVuIlzKGhbCXPQECD5OGhSs86w7gTFqxiFIqt0twoCfVdGcKA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5006595,
+            "lng": -83.3608659
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.50204027989271,
+              "lng": -83.35769595000001
+            },
+            "southwest": {
+              "lat": 42.49934062010727,
+              "lng": -83.36192254999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1000,
+            "height": 414,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106139064136134966415/photos\">Brazil Academy - Brazilian Jiu Jitsu School</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
             ],
-            "photo_reference": "CmRaAAAAWQ6osibs2hUueg_bacriIOVzWPyNGvpsVBNDvSCEulmtqBGWm9M72DMuinK6xuOImfK3v4zc4bX8h6CpaTbkkBm-387hMApMJQr4iEeD97yv0U4i5dv_hq0n-_WGfUvzEhDVMUdcshKeh9aNaeFejIpAGhQk9csXEMY6sNhCnJJNDrPpfVNrLA",
-            "width": 1500
+            "photo_reference": "CmRaAAAAxk80EuwSo1D7iiEtBw5jNRQc4HEXf0HB-ADDe0fZfl0an7DConOzuCFKTSJsJb4G2egFUcDRb-ifP03VvJFfUzpD1yvhpvZb3KPl9cKfzgVGE7aIUywAkGhs31RYkiCtEhDNRR-8bKUFRggJ__4jGhUqGhQ079IbTri5n-8uoSP0ZyAk96TYUw",
+            "width": 820
           }
         ],
-        "place_id": "ChIJOel5vg-VwIcRGQYq_qmUmG8",
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
         "rating": 5,
-        "reference": "CmRbAAAAQCbPlwMeAyTa_j8FVI3QL3UG_DaSm-lgjH_SpHmjwK4RjMeThM_4I5jutCoiUjJLc3sDRUb6BKoUryW2-NgHHViO8yYyvoLv46I3jsTcDEZTexVjmahy3esDrDpfSQTJEhAqVyZ70LNn1ObAkWAUSQXTGhS-f7vj0NoTq67AydXXrFeTRci5qw",
+        "reference": "CmRbAAAAwgFgECmN_fWqgFmgPnUZ1CLzSJsWugxMy4wwEkgMnlQD6ByAA1WmT6IZAlhJQfRN7F_sWNjPqzA_eyj2sJ4rV1_9ZyEIb4LWfFE84ZMdBe6rZ6w9zMaK2VPr4njDPmDVEhDz5VBKqi0jFkodVO7n3fKbGhSIXIrF9_oACEj7EGqVtPcCNB36wQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "11441 S Strang Line Rd, Lenexa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.0101357,
-            "lng": -94.5749766
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.01148137989272,
-              "lng": -94.57349207010728
-            },
-            "southwest": {
-              "lat": 39.00878172010728,
-              "lng": -94.57619172989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "53d727af72525cd218f331a4654284ab44fe8379",
-        "name": "Grupo Axé Capoeira Kansas City",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102093740530589740736/photos\">Grupo Axé Capoeira Kansas City</a>"
-            ],
-            "photo_reference": "CmRaAAAAISluu7_efTifWpeJcBYkz_qktco13sEX-uMThlFCgp1AcXQ0rYAXNCV9yujGJKup6jxaBUhYVJ1k1DF-9QKRGu1hEXXxxL6GfSDRYBbdTGG8DBSEr3Blxqzhkv_6BeG8EhBjPRHYzTnvlgU2-8q12CbnGhQMrjPO_qC22LHW4XFhmOlzmJBpTQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJM4zreA7vwIcRnn9Ya5_3bOY",
-        "rating": 4.5,
-        "reference": "CmRbAAAAT97GwdA4Xz4gGLgioAko49zy8dr-sn_DL3ZhjqOFeBxQFO9RAAipRxhPorqQMYYJXuY-rwVLF7iVNarzmrmsJ2u1t9ZzZnVAHO51r88EZ6vzigzvk-milix-h2hKpaGPEhDiOwpJV6KaB6wiPOKCpl0lGhSUD97XOnwSq6HHN3n0qANZ89P0Lw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6430 Troost Ave, Kansas City"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.009772,
-            "lng": -94.30026699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.01112182989272,
-              "lng": -94.29891717010726
-            },
-            "southwest": {
-              "lat": 39.00842217010727,
-              "lng": -94.30161682989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "71d2cb8c949c67f3c3426074f3a8fe1c573fb55a",
-        "name": "Grupo Axé Capoeira - Kansas City",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103126836674219055774/photos\">Grupo Axé Capoeira - Kansas City</a>"
-            ],
-            "photo_reference": "CmRaAAAA7n6lof7sWb1b6HtVwo4b1E_k5_QmANKbBsh91vI4rB6eNpCuzfhxiYsXkN5ojlcu9N9cWt9nFol-ZxTpMApPhzWz4oCx7-A5CejSjDkBQnJwXiNs2f6XnKl01qiIUwKKEhBSdjQle6vSd3CwgzZVhqq2GhR6umklTJpxoK2Yu2bgY14G-f22pg",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJizifeewbwYcRf2u6dIExj8c",
-        "reference": "CmRbAAAAKsRH9t7K1nsp1Kd3Dh7V7it8gg1AYxSNLAZjqPCosLzBzJpENHx2RiV7Xi0cNCV4BnkfrCUlMOGzhrIXLykR9mH4IretURB0etOUF_qjUg5MXnWe2NV2eJOA-Z8pVIttEhBV8aFBpcjgURs1gmYdobBrGhR6kiHrrbcQeVStKdqwjx7GU3uwzA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Welcome Mat Judo, 3004 U.S. 40 Highway, Blue Springs"
+        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
       }
     ],
     "status": "OK"
