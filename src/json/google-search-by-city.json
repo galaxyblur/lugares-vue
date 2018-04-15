@@ -1,100 +1,108 @@
 {
-  "city_name": "clearwater-florida",
-  "city_rank": 252,
-  "city_population": 109703,
+  "city_name": "waterbury-connecticut",
+  "city_rank": 253,
+  "city_population": 109676,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.9658533,
-      -82.8001026
+      41.5581525,
+      -73.0514965
     ],
     "rankby": "distance"
   },
-  "people_per_result": 54852,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 54838,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
+            "lat": 41.4558454,
+            "lng": -72.8216024
           },
           "viewport": {
             "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
+              "lat": 41.45719522989273,
+              "lng": -72.82025257010729
             },
             "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAAH4OzQrw1Oa9kKof5nbw1HWIubvmcCODJENaBi3QLzz4RmqrrWhFVI5z-9UoPNPEiNkEHCaXkdkbWy696lKFqVvsVpbW3RPdfr6XGkMLrXbP4UQ9RqKG_-iiQ7rSfaQ7PEhBrbl1RJOYWOK9PsJ3Z4gEZGhQZ-OXH4Ceo2pKP-ZktyEK2m55jcg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 41.45449557010728,
+              "lng": -72.82295222989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
+        "id": "76981c0cba55bc4cb9027acb73c260aab6020a4f",
+        "name": "Ginga Brasil-CDO (THRIVE Capoeira)",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "photos": [
+          {
+            "height": 1530,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112100340763014557664/photos\">Ginga Brasil-CDO (THRIVE Capoeira)</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ2JFWiBjxoWGPbV2IcbY1CKTkE-75w8PpdeLQZaUk_B9OK1YFgKsqwYcJBzldvUQxV73fMCiaSWG_E1558sIUet58HHCv6zfuycbNBa87PbPkZFgDGPe90aEk2NQ2VjLEhDYmNdMBBu4zERlF5hhQlCdGhQf9XTZY4LhqzC9f3Gc8qUfP9rwUQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJKxUPXDTQ54kR6cmXbhoy53I",
         "rating": 5,
-        "reference": "CmRbAAAAoBXaTdk42UZf7oK_qZycHOFVm-JGZBm59PCViWwZskgqvMS9reKF3e15DeageZiNvcKJ5U3rUTYh65zLqIs8M9thrmT_TJzjmPna6tnB53NSjMlqQ-HXiheZLqyrucx5EhCkrz2UCyucOsoTGm2Y3RZCGhTkLWV5NqGzh-21mgGMCh4yiAdEiQ",
+        "reference": "CmRbAAAAdz3DGu2gl6LxFRg0b6CGhTodAo0z9m0H4e5SdrJD2VSQUsgxAN3mVXvWXhxPtm7YCy_vojJpFEVSEj7JQ0e0Xk7C27c8WZB33oDeVyKd_pOdF1RGImqnLuX4tycw25RYEhA3iGvmKnTlkup-7quMPkdeGhS3nSXCRtykG89k-egiY4MjWUG2Qg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "221 Burlington Rd, Harwinton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.6596678,
+            "lng": -72.6837352
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.66116117989272,
+              "lng": -72.68249782010729
+            },
+            "southwest": {
+              "lat": 41.65846152010727,
+              "lng": -72.68519747989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "40b833c1c89d2193941963762e547dbe8981a867",
+        "name": "Capoeira Brasil Connecticut",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100034839602342264717/photos\">Capoeira Brasil Connecticut</a>"
+            ],
+            "photo_reference": "CmRaAAAAwwDyUPhPKLBVVvskg_7YdQUqHmIQNfMeIzb-WD737xykuIlw8WKNOjtgNYt1vbhNmrITgg4-tUbOXG2PU5gcTlQDkQVWHe3pXiwIpOy__F4Nd-ZzTrhzSTIdzj1MQzXUEhC93PWLPZZkqk84mKkDpbV3GhREpWUBeIiqbJY0jaEB7kOlSf1-hA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJJUFquh9N5okRRTO-3NY42X8",
+        "reference": "CmRbAAAAOO9M_4LCZ_SYyrsFxPDYXBuF9wivDkyRaxDI99lK0yoPe0VONKA58C59BMughDbsgE3J6V0iDDDHOEujXd04y2hPugvrQ1ahOJOE3epS9cO05mAqHuCPz9d7eHpqTMGiEhBt-JD1tXOyEpLd-XwZQXZQGhSJ0EbFnln6ew7B-xAz49gJ-RHpzA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "154 New Britain Ave, Rocky Hill"
       }
     ],
     "status": "OK"
