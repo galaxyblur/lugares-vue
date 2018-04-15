@@ -1,20 +1,67 @@
 {
-  "city_name": "odessa-texas",
-  "city_rank": 247,
-  "city_population": 110720,
+  "city_name": "manchester-new-hampshire",
+  "city_rank": 248,
+  "city_population": 110378,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.8456816,
-      -102.3676431
+      42.9956397,
+      -71.4547891
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 110378,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.6520461,
+            "lng": -71.3186288
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.65340337989272,
+              "lng": -71.317127
+            },
+            "southwest": {
+              "lat": 42.65070372010728,
+              "lng": -71.3208334
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "03cfd261be3d561408bf64ae79ab189ceb645391",
+        "name": "Recreation Center",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102515699431306379789/photos\">Zach Vivier</a>"
+            ],
+            "photo_reference": "CmRaAAAAkEzx7Xu2bNA-ZB-wb2L5ZjqPQOSR1vYinIB1_eWw06JLcUftfnF_vqGt0oljHM5U3BFSwf-xeb_WyQmVYREvaqCOvEqHXcBmciJ_IycZ99FvmbkTLjMFnCKzzpiXH1ZqEhDVeX-xMun8V78iHDrPaO_aGhQmo-gK6KbI0rs82seeWmsxk7twKA",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJSY6L9EWk44kR3Zby-Oczg5I",
+        "rating": 4.7,
+        "reference": "CmRbAAAAnDwYFuO7aQQV3attBz1bKtAtdPX6tHPWF-h7NmwIXhhMgYUKm7Hebu2UiKF6EOklVyNpA0M6Pg96kS4g3yA9kHP_tgIcqYKzvDRJvn-PoNgcGmoh9OrE4t7mOz_zj7n5EhD93snGcuKZ7WuA4Q8gCOTPGhRStQZZ4ho2ssUH4WXqJ4gVRy_F3Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "292 Aiken St, Lowell"
+      }
+    ],
+    "status": "OK"
   }
 }
