@@ -1,20 +1,68 @@
 {
-  "city_name": "rialto-california",
-  "city_rank": 284,
-  "city_population": 101910,
+  "city_name": "las-cruces-new-mexico",
+  "city_rank": 285,
+  "city_population": 101324,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1064001,
-      -117.3703235
+      32.3199396,
+      -106.7636538
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 101324,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.318812,
+            "lng": -106.734329
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.32034757989273,
+              "lng": -106.7331065701073
+            },
+            "southwest": {
+              "lat": 32.31764792010728,
+              "lng": -106.7358062298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "11bbfa1da4714c0e3708e972a602952f3f9bf374",
+        "name": "Club Fitness",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106500421349393652118/photos\">Club Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAd5B9-7qx06VVuFPyrCTWJQZSDZLW6MzDLNE-7Lk1aaMfkWJaGJ23b-djnx6h6P3QaB5UEDR3TXWYItgxLukXAxQHvnUI3_1rqBxxy8NnsN_Nu_Kb406exkTfjSrvYkXGEhBgHVObZR0dfEGdx26P0chNGhQHO7cTqS0EMXs-MQwA9SarB-Bpbg",
+            "width": 3872
+          }
+        ],
+        "place_id": "ChIJq6qqqmoU3oYRukVq1FaxODY",
+        "rating": 3.7,
+        "reference": "CmRbAAAA6xVdU2lxc9hQu-JeL1yg5uhovMWSrOmv9z5tRKHtph8mRplmPjklnFMok_uvq6dfppmjw3UGqXGezWJdH7d_9LcHhtC-doRghyd9NAcssNTNo7WrQ_pm5VI4N4qdph9bEhA7mZDQJukQjkZbYB9x_TodGhSe3Ie127yxgm3JwHvqp6KUMdb0-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3850 E Lohman Ave #200, Las Cruces"
+      }
+    ],
+    "status": "OK"
   }
 }
