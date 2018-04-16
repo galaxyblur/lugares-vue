@@ -1,20 +1,112 @@
 {
-  "city_name": "south-bend-indiana",
-  "city_rank": 288,
-  "city_population": 100886,
+  "city_name": "lakeland-florida",
+  "city_rank": 289,
+  "city_population": 100710,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6763545,
-      -86.25198979999999
+      28.0394654,
+      -81.9498042
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 50355,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.0461367,
+            "lng": -81.9564222
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.04737527989273,
+              "lng": -81.95507322010727
+            },
+            "southwest": {
+              "lat": 28.04467562010728,
+              "lng": -81.95777287989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1de85bf1f73a385c62ab26ccfdfedf37c054c959",
+        "name": "Sifu Och Wing Chun Kung Fu",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102797876488721564719/photos\">Sifu Och Wing Chun Kung Fu</a>"
+            ],
+            "photo_reference": "CmRZAAAA_mk7yEu-rVmut9DD2zFZWILraip8mfGHNoCFtVJlRQzk07nFCeoby758fkc8m93N1wJ4seesr5nm7Z11WJAdxd3RGcT_0c5ItVa6B0hzIwBteE59YdLhhetMQg-ZrqVEEhCXyiSVwVTKFksad3v8FvTIGhQ4r2qnbS3bNa2iEDUhdfTbIvoIGw",
+            "width": 5184
+          }
+        ],
+        "place_id": "ChIJA_nPdrQ43YgRTnNLY8rXKUo",
+        "rating": 4.9,
+        "reference": "CmRbAAAAYmLN74JFhxi3SQhJiwG9DSYbHRpBp7O3KhjSOSsGWH8sSNpQ7DLQJzl_Q5i1DgRglFwQvkwXc_07hO1q3zs2NdS7gtprud9b4QT61kBWQLoRs974sRo9T5X5QDlfIc71EhBC3EMEz15mUXvWnIS1nTFqGhT3urD5WX6ml2nqSXgf_wuqmddAjw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "116 E Pine St, Lakeland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.065839,
+            "lng": -81.793311
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.06718882989272,
+              "lng": -81.79196117010729
+            },
+            "southwest": {
+              "lat": 28.06448917010728,
+              "lng": -81.79466082989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "309f30c2616d87e58f93a624a84f1aefe59f984c",
+        "name": "TPF / TEAM PRAISE FORCE, INC.",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110011247710293123623/photos\">TPF / TEAM PRAISE FORCE, INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAACLORQhKy4YdP_feQrX8bhAU-e4VQYK8Bq78FzQeQu77Un8ZcHHmoZRTla8dD6iAQO6EAlPr10ARv95IfxF0nwjrD6Tn2WpR9H0ilQ0UsnBZFWyNJuQIKSzBxsTwZZb7hEhCCXplAwOA9ltaR85kvbXz2GhQSxK1ZaNBUMnhy3XWwfMyGJzuwfg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ_coUiUVr3YgRIpT3ZuZZS0c",
+        "rating": 4.8,
+        "reference": "CmRbAAAAo2lVHH-9O3JoleBf-XtCnDYeAPqJxpsv3yk8MRGi0m1BlG78dGwSnDFwMHz0LLuPZkH0T0gkB-GSh5vTFOTM5xpddHs3DX3tSlU9ptSkSH68Amd4e2tN1EgESpNFavg_EhBw-gBcizn_CRE9MwBX8cL2GhREVAmjGMgMVGIn4agIUNtA_Cma_Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "310 Courtland St, Auburndale"
+      }
+    ],
+    "status": "OK"
   }
 }
