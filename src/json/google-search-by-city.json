@@ -1,66 +1,20 @@
 {
-  "city_name": "palm-bay-florida",
-  "city_rank": 270,
+  "city_name": "wichita-falls-texas",
+  "city_rank": 271,
   "city_population": 104898,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.0344621,
-      -80.5886646
+      33.9137085,
+      -98.4933873
     ],
     "rankby": "distance"
   },
-  "people_per_result": 104898,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.0777813,
-            "lng": -80.6938316
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.07964627989272,
-              "lng": -80.69291757010728
-            },
-            "southwest": {
-              "lat": 28.07694662010727,
-              "lng": -80.69561722989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a404b940560cc40a01e37a8f786dfcf27277db65",
-        "name": "Melbourne Capoeira Cultural Arts Center",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109555170180425321356/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA8-nhvTQb7CubLNmdboYU6Oz3GMoM2TAp7a2nZWZjxtw3IM304adrhbE72bupHQtNdFuQFkf-NZYs0aesYIPJ4KJBDt2sd0rBrZilObGVBsMgL1SMSmTD-Mlst66Ce4NJEhD8van3wbGXY2ZjqpFGidaOGhTBfnjg0GWbIZ-fAh8rfQaDgpP0oA",
-            "width": 640
-          }
-        ],
-        "place_id": "ChIJIZCQE54O3ogRQWMyABXbu88",
-        "rating": 4,
-        "reference": "CmRbAAAA4ZCaTj_7_gXNPkrnVxNa61vLKvOt-vqF352PAxUExKD-f2R8mKzgu670Sgrx7ZICOCLK7aF-3U_FBQ7_FfV1Tp-Pv-Fcy8XCPHp9YKVdELBs794l2aqf9l3kyl-6GSh2EhAP9mhRl-JcIYWsYALfxVAJGhQY21OrovUvunI034jz7sS35vRNKw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "#13, 4195 W New Haven Ave, Melbourne"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
