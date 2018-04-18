@@ -1,16 +1,16 @@
 {
-  "city_name": "roswell-georgia",
-  "city_rank": 318,
-  "city_population": 94034,
+  "city_name": "beaverton-oregon",
+  "city_rank": 319,
+  "city_population": 93542,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.0232431,
-      -84.3615555
+      45.48706199999999,
+      -122.8037102
     ],
     "rankby": "distance"
   },
-  "people_per_result": 13433,
+  "people_per_result": 10394,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,84 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.92699,
-            "lng": -84.3778044
+            "lat": 45.4868354,
+            "lng": -122.8054577
           },
           "viewport": {
             "northeast": {
-              "lat": 33.92827117989273,
-              "lng": -84.37645587010726
+              "lat": 45.48828292989272,
+              "lng": -122.8040875201073
             },
             "southwest": {
-              "lat": 33.92557152010728,
-              "lng": -84.37915552989271
+              "lat": 45.48558327010728,
+              "lng": -122.8067871798928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "56d5ad0861bc8f4ae04096719a9adfdb054691d3",
-        "name": "Welch Martial Art Experience",
+        "id": "9db66de955d90a0051cb0c5ddf9465c3948d5a29",
+        "name": "Capoeira Brasil Portland",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1512,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117385667205999980428/photos\">Harly Materan</a>"
+            ],
+            "photo_reference": "CmRaAAAAjtFkpOojITwhl7dWJGLM_N3SEx1t1UYB-0dKlXkVxCOQIrnKU1jFJAJxgeb_w9jYuPjIQRBm3BwxkyJQvBvAMjjQ1jBrZ2Uu7trKbFqSSaKYHzusf3sQZtpCYLesiXbKEhCxZo9VuXi8WbwynBCqfCn-GhQGkBA55h6Q8MSnwhnM5hprCIeoRw",
+            "width": 1240
+          }
+        ],
+        "place_id": "ChIJjduG-Z8OlVQRRcbs6kqJBXc",
+        "reference": "CmRbAAAAjb0uAxSMwlmnT-hHUc9dn3QPphcq5Qn8gfn-Mxtn5MImpmntmhUnAICNw22qhXV3tGYJvAXCZujtZ8qGP8iL0jc5CeZDwfq4v5WJP7ntmiSQ1abkXE3clhmGxbj6JCvxEhD_IDGjclcgCe4x-D9GRlNgGhSiMASSo1-Vxh6MtFzzMGrUcKm7GQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "12570 SW Farmington Rd, Beaverton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.4869017,
+            "lng": -122.7798375
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.48806617989272,
+              "lng": -122.7784879701073
+            },
+            "southwest": {
+              "lat": 45.48536652010728,
+              "lng": -122.7811876298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dff43351e297a3b3ceecf8371c80d320108dd0be",
+        "name": "Capoeira Oregon",
         "opening_hours": {
           "open_now": true,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1365,
+            "height": 857,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106390860345165743963/photos\">Welch Martial Art Experience</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/108973071731956848371/photos\">Capoeira Oregon</a>"
             ],
-            "photo_reference": "CmRaAAAAe1m39wZGpkYNwwVghTTq1zQEcC29D_AaI0S3ePD66u13jfZIQyvkQ20Xlen2p7A1qyp1aEqZ3tVeRsuTrLfyvRzwGWegxGpZz3ut_OmUuSY2yUiMPkgq1fZodrie5r_9EhD7J-RDJVXqs5YpwPQAfAr5GhSgwhPy0upoJQIEtm5J3QsQd72ZWA",
-            "width": 2048
+            "photo_reference": "CmRaAAAAMmXH1RfkMHy-g9gQAz2Fm8zm01QtGbGoJdmqP_h4XZBr0OSBrCgV6WiQK1-lyphEoJDKb2SLh4c_LqULLD53ISLagd_ZyfB1R-_XR4T0GGtpG8o3mccZE4-uuUD7z0EIEhBNsql2GazBkHpvVE11gKwLGhQ2rGiAZO1OYHV4E3djImDSpD59DQ",
+            "width": 1280
           }
         ],
-        "place_id": "ChIJfQ4VJmsQ9YgRduqN1kcN1HI",
-        "rating": 4.7,
-        "reference": "CmRbAAAAOEliSuJZAHMCTHOu5C6wHlktZuHnMma0MtOI2d46ogFfiwZtCSs0z6RtNeezAch9FsTQ3072l-1b5zN_WdtNwE46c11PvI0Y3w-lNvkrebYGXV-nC7xokTpI2_QsduQ1EhATY9EBdY8q_lRl4JTA3ad3GhTNMSy-WSi1BKrelkeXtPv4LOqXYg",
+        "place_id": "ChIJVfAS6LwOlVQRfdxjPwbpe4s",
+        "rating": 4,
+        "reference": "CmRbAAAAn7E6A0DF5FTaxQw993DpvnHU8lr0h1VX_U0fQrW18SD8rFx5SjowEyfnAML0WOE6OfbW9tK8jbMy66EomTQKetIYpOv5EUaWt8LgvMW49al8YEDHfwT_b5RY8fOsZpzVEhBh_0izwbFBanVxVzjbFHaHGhR4zLHgU9azihRslGSYpZCDFcegpg",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -59,230 +103,272 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "6305 Roswell Rd, 160, Sandy Springs"
+        "vicinity": "9955 SW Beaverton Hillsdale Hwy #230, Beaverton"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.92275060000001,
-            "lng": -84.4720416
+            "lat": 45.4921876,
+            "lng": -122.6763929
           },
           "viewport": {
             "northeast": {
-              "lat": 33.92438827989272,
-              "lng": -84.47087087010728
+              "lat": 45.49362627989272,
+              "lng": -122.6750382201073
             },
             "southwest": {
-              "lat": 33.92168862010728,
-              "lng": -84.47357052989273
+              "lat": 45.49092662010728,
+              "lng": -122.6777378798928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ef568a689c804e3b21925cc69d0a79662ed04710",
-        "name": "Cultura Brazil",
-        "place_id": "ChIJXxVxG5oR9YgRfk-nqDbO8o4",
-        "reference": "CmRbAAAA8bWJG6CEiqLAiMO9XK9C2Md2H14AmwECQIONQdG8UmyUiDbEzfbw8pg6DDcd5sMY35H3LUxvjXc1vl0pATtP6N7Yc6jVEtYGGsw61URcmtXw9_L-eVENAjVfT4N5_GyyEhAUelImW72xwdnGQARX4s9OGhRaXp3dOfwEgz3Ph6BJ8yNdDgAN3g",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2852 Delk Rd SE, Marietta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.1411497,
-            "lng": -84.2465409
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.14240972989273,
-              "lng": -84.24542792010728
-            },
-            "southwest": {
-              "lat": 34.13971007010728,
-              "lng": -84.24812757989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfae887a7f3863cd2321c29b857ea6659b0851d9",
-        "name": "Abba Capoeira Martial Arts Academy",
-        "permanently_closed": true,
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102275501711483402125/photos\">ABBA CAPOEIRA</a>"
-            ],
-            "photo_reference": "CmRaAAAA0NtmJiANzKWa8QoFz8r8vw9jw-LD5UgKmKa2mVC6Lefr8i4K71Q2N-6i-nZSmhTt_eMhdCOaLUfIZRrbhOZ1A0Yf_nBiY7Y8jB3oHZqYS8WdEv6ELp5tP6vGuhgqkPhYEhCmGPALtCTJG04xY5immX0oGhRQPqY9PqFI5p-hmmYtrSd_W2tnKw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJ86OE7KZ19YgRlmQVE2zQB70",
-        "rating": 5,
-        "reference": "CmRbAAAACCYHP15gCa8P_HE5-Wm-iLe5iS4D9ILqAWA1KAPFXRub-TVsKKTF_oqJh4KXZRoA_Em6rEtLeOaPv5OdMPnTmkYaB9X5yoEHNy3XS9ij7tGxouEhhc5urv4iM7ZZiheZEhDFsK2pVq5Rr01CA3FcAXBiGhT4-TJU4iUOG6J8wrVfGqJvfsHxAQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5910 Gateway Dr, Alpharetta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9530606,
-            "lng": -84.5770546
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.95393517989272,
-              "lng": -84.57574662010728
-            },
-            "southwest": {
-              "lat": 33.95123552010728,
-              "lng": -84.57844627989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1694f89e99dc1cc246c1337b6dd34c4cf8396421",
-        "name": "Grupo Axé Capoeira",
-        "place_id": "ChIJ8fRdVNoV9YgRTwUhmtaFgUA",
-        "reference": "CmRbAAAA9F7EIm_ehB2oJggZUmiz20f-_BKlCab72nLbyCBK9CHL17wUdyv19AR1oViqrJkkQGSaayd3fMpRUiUwDjQ1Vv0qqTM7bbOEwiLnJn7Ru-47sgY2vJWYyhogVY7igL7sEhBZCBrIvHZaarL7tHq_GWyBGhQoOR8sCMAe1LOgzuoopGKZxtt8hQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "800 Whitlock Ave NW #141, Marietta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.8061302,
-            "lng": -84.3098689
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.80751632989272,
-              "lng": -84.30882502010726
-            },
-            "southwest": {
-              "lat": 33.80481667010727,
-              "lng": -84.31152467989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ee00410740748e1bbfa19397eddeb0bc1a0564d",
-        "name": "Capoeira Atlanta",
+        "id": "7cfa3b3d20d59dce48000b5e73831bb9640e959e",
+        "name": "Raízes do Brasil Capoeira Portland",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 2160,
+            "height": 640,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104943987064514581040/photos\">david guzman</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/115031096535672368050/photos\">Raízes do Brasil Capoeira Portland</a>"
             ],
-            "photo_reference": "CmRaAAAAk43HztHu9-6zOBpOnJQsSlgVRl9FEjlxx6aLtrSZ1UZDcikSnlsSfBP41kXtYML64ylrg8oKVTjGCWJwwLIcjxitzpupKBSwtaH6tBpAQ7GvvozHKmz1NTDnWX6_5QwgEhAblf3h6NR948x-EIg93_dAGhS3k7KY8KZp2GvMpqGX1Mcge7R-QA",
-            "width": 3840
+            "photo_reference": "CmRaAAAAw3lcb7BusvmlsB1sNkrRu5klMQ5tEZ6dkNEBB3xwZ1Rs3mcqcRhBgWQHNXWCwZ1enKxEOm4fQYU3bbcP09ukwA16wIjBHGmmUkHkkPqyAE8DBfZgWD-mdZAGvULbXVBwEhAxoBythjDQWoT6ooqRqyhxGhTnuYTev2lLN786MYXKfPr2tA_zCA",
+            "width": 960
           }
         ],
-        "place_id": "ChIJaTI3Tc8F9YgRIyJZb0GoP9c",
-        "rating": 5,
-        "reference": "CmRbAAAAk0jGF78MfRlsFl7JDUGGrHayR8Jk_YGBWw8sYUNNMB49YTwAnD4jFgb5aX_FxfdODbMZitSe3oWOrfsKhcVSbfyqkSK1zbJJ_USfEQK6C8yXGgdb90lja-lh8Fes4N5KEhAxHy4LWPEvspMNYta8_4yEGhQmf1sCSeFeUS6QLXzqhs8E7duQCA",
+        "place_id": "ChIJV5bi8lsKlVQRx7rOqM1E0vk",
+        "rating": 4,
+        "reference": "CmRbAAAAA-LfRbTpF8FPJdRcBlexOlzpPT5ngiIoO1q2DDluyd5GeVsZuE7LiqYoaMHWKiSYU16ACTe7prJPVtHWO89XDai31l4sMQ-vEOfhvfLPDpISu63_q1LIdzgWzW-fVVAREhD0UnHvER-vC8udAHk9mybMGhQm7ERUALhhTo7Nzvd3ihjKpJHnTQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1781 Clairmont Rd, Decatur"
+        "vicinity": "0110 SW Bancroft St, Portland"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.7680626,
-            "lng": -84.3042662
+            "lat": 45.58041,
+            "lng": -122.719025
           },
           "viewport": {
             "northeast": {
-              "lat": 33.76919412989272,
-              "lng": -84.30280832010729
+              "lat": 45.58185197989273,
+              "lng": -122.7176100201073
             },
             "southwest": {
-              "lat": 33.76649447010728,
-              "lng": -84.30550797989274
+              "lat": 45.57915232010728,
+              "lng": -122.7203096798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e2f8bd38f11a43221845e4a2a525c577db14e0e6",
-        "name": "Maculele Capoeira",
-        "place_id": "ChIJB0_SqSUH9YgRcqX6_tk7Rso",
-        "rating": 4.8,
-        "reference": "CmRbAAAAZHZKvoVeo8lGr7apaJmeHs6TPLOEf7PuDRWRZSisHV3PQG7dlUvOFlWn_t8fTeg8nXr6J4u6guoGTlG5LwJ-JxH5De8P-VcCmDtVGz4KAlroTc8e7TKiyMomSEx98O8JEhCQZ1Cywscpz9L4ndZT9oeWGhRJZgFJ1hjUaY4M0i-nvcv-YHx7xw",
+        "id": "e75cbb686f30b6d38c7b6a7d61918f00c701ae4f",
+        "name": "CTE Capoeiragem",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112698177599274947373/photos\">CTE Capoeiragem</a>"
+            ],
+            "photo_reference": "CmRaAAAAXob9-2RBwbGpqcMrnVXhv0uGxFLf64pDrqCvR8eeOibsM-AOIe7slgReF5i59rrl1Z9_82g05Qm_cLX9SuKGHmAabsAUdGG8thyNTn1f67afEqUu0_4g46aNf8Hc3j5rEhCsDeFpDY9h3GixBtwL_H1gGhTkWwVSy_ZtJiNf8j-VO9Pej0vTHA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ80P_WE6nlVQRGRm-LKaf3jw",
+        "rating": 5,
+        "reference": "CmRbAAAA1kyrD9tP3SeU1SBUqm-fLYXCRauUOX8Fq0Xtw-7FH00FKBQxR1HD64EHc5cvPpxr9gTDfiJ_jIAyXlURRs_D2RBfZJDqS_DYshSDz1lRi0MGjSgOoJhNl3VvbjweK0GDEhC9KyuRUhoa9PjtbhFfTUaBGhS5NNhgys92-HEs15DFmvQ01BM6wA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "533 W Howard Ave, Decatur"
+        "vicinity": "4830 N Lombard St, Portland"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.7406855,
-            "lng": -84.3496289
+            "lat": 45.4996362,
+            "lng": -122.6443979
           },
           "viewport": {
             "northeast": {
-              "lat": 33.74203452989272,
-              "lng": -84.34809882010728
+              "lat": 45.50098717989272,
+              "lng": -122.6431697201073
             },
             "southwest": {
-              "lat": 33.73933487010728,
-              "lng": -84.35079847989272
+              "lat": 45.49828752010728,
+              "lng": -122.6458693798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a085cc5f51d1fc64a176d5cc205f986ff07cfe8b",
+        "name": "Capoeira Ijexá Portland",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 375,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100219885680901653619/photos\">Capoeira Ijexá Portland</a>"
+            ],
+            "photo_reference": "CmRaAAAATSuzeVYNWntEtCMryQG41-f5Mm8imCVCvolqjZmAykGeVAk3oZ4eUj3d5piw21w3-GiTAG50W1tJuRF-2QQYTWvfXrfMTxqa6QVOnmG2S6loIvZUC3YxXcvtj3bcBIzjEhAmi00dil6Q8r2Z64XM9z4nGhQ3HI1ibLd44IcE_Zwy2BTUVFv4Fw",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJdal54X4KlVQRGhwUp0U5V9k",
+        "rating": 5,
+        "reference": "CmRbAAAACHOolnIdpwK2gCB9UQLc979aUKesvXeChz-b_CTP5Zvh3iJhsi04np65kPHnbf9mzjFeXJpMo1UyKoCB4Qtxv0WJT21Ni2tOVaul8IIJ5cFXKflhebhWgol_PpZR5F0oEhCdnEUrS2EboxY21Vwqld1WGhSEUtSTvWanFIJoPWxvxLfvcFgL8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3228 SE 21st Ave, Portland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.5352948,
+            "lng": -122.6582858
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.53652962989272,
+              "lng": -122.6569361701073
+            },
+            "southwest": {
+              "lat": 45.53382997010728,
+              "lng": -122.6596358298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7baf5663483fc6a728f8b85b7910bbf77badee66",
-        "name": "Capoeira Passo a Frente",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1087,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108685201964740773665/photos\">Capoeira Passo a Frente</a>"
-            ],
-            "photo_reference": "CmRaAAAAxi7ABVTeL7kBzcWM3PpTgma9kUQMrky5Qver1bWGclwECt-69GZQrNe-IWRvBziaYdTtGffY6g0LcDp7tKFQ4uP0pUtpWfOKgTwqfwCpy0G9KLTdgJc8y0LcPisxfanPEhBKETWzCfYbkqcVXC5ffZbRGhSbJtboB9ha8B5jN8UZoC_aUX-XeQ",
-            "width": 1089
-          }
-        ],
-        "place_id": "ChIJjzOzpGAB9YgRX0H63xFn7Us",
-        "rating": 5,
-        "reference": "CmRbAAAAiggp2bNOQEM4DWHUT42NxZ0O9CNv9YpqKdS0qoSbecIFj362xc4S_DM7Cj5U_QDJI77eiC4lBBWcNKNnaE3fy1v1hFftvXjsvdO2uW_I1VtsJshfOrzZT-_Q_GPkcUmHEhAeq4uS2b48iYGRhYFdU3nEGhRQ7k98Hp7GvjfwKtvFcY648yBugg",
+        "id": "91e1b26088db6fefa5dcc60a9a50916c887a5d0c",
+        "name": "FICA Portland Study Group",
+        "place_id": "ChIJY0sAn0ynlVQRaoVGraWIBt8",
+        "reference": "CmRbAAAAfq3netnum8qKo975EcQy3upKRNkxoPvJu0HACUWkptsoCiC4IVXCbpl_PB4pL1oh_WNSPuetXLYrzQaqkTitQt-VSPG7TxG-750Ee53mts1vNpXMYwt4rjJokbaM5Z0QEhBfmhoCJqYHR8PsD6drHhiOGhR9eJeujw-jbjAHpIhKCDJ0166VRQ",
         "scope": "GOOGLE",
         "types": [
-          "gym",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "707 NE Broadway St, Portland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.4930945,
+            "lng": -122.6402903
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.49458107989272,
+              "lng": -122.6389406701073
+            },
+            "southwest": {
+              "lat": 45.49188142010728,
+              "lng": -122.6416403298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1970b8c2a8f6405d00ba476153a05fd9d7f1ad1d",
+        "name": "Capoeira Regional LLC",
+        "place_id": "ChIJlRr2SoEKlVQRh_JWdu9UvWs",
+        "rating": 5,
+        "reference": "CmRbAAAAEmS3g7we5_M50DaQGYYOuS9U5e4l-tT1wKrNWXKypaBoIejVojlSXJd-lXiMZl3wp9hoyYhiEbk_vgdZEZLtjig640EcEGfs3LnU24mMIhUf7L13YP3C_RRcL1R-ptUcEhDw_qsmvQUizMAE7ntA2tFvGhTD1-dZRDk1zFovufkPHyUlcXZiFQ",
+        "scope": "GOOGLE",
+        "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "495 Moreland Ave SE, Atlanta"
+        "vicinity": "2512 SE Gladstone St, Portland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.5162596,
+            "lng": -122.6353671
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.51769692989271,
+              "lng": -122.6340171701073
+            },
+            "southwest": {
+              "lat": 45.51499727010727,
+              "lng": -122.6367168298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7d93a2c06601b2d507973e91b7585fd287b5cce5",
+        "name": "Capoeira Angola",
+        "place_id": "ChIJn0TIlpaglVQREgsAyIjo7Ps",
+        "reference": "CmRbAAAA5Buo04O0dpN7VIcsSVhDWt6XMqOAk8YN_jGReVgs7ZSp_uJ3_5EZNyCrfHwFZcocTD89nc6K0-Kij-ymgeJYEc1yF5KNvvQ0-ga2H8mQ_FxiG076IRsHEYdZB9borHLBEhChe1DQV3X431iRfDow6-5gGhRoc3r4We8GZVp-j_0Ew_YBf9PTmA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2940A SE Belmont St, Portland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 45.5262372,
+            "lng": -122.6170556
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 45.52767892989272,
+              "lng": -122.6157042701072
+            },
+            "southwest": {
+              "lat": 45.52497927010727,
+              "lng": -122.6184039298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d39d3f8cfcfb47d3a763e4746b7c587da22c2743",
+        "name": "Capoeira Besouro Oregon",
+        "photos": [
+          {
+            "height": 1450,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105592293271994955151/photos\">Capoeira BEETLE OREGON</a>"
+            ],
+            "photo_reference": "CmRaAAAATpETkXJKYi4mWxRT4QqcsLR-ZzTzBRzluihSeGfWyPx8p_vt-peLI_pt1DB6K9JFb1BshQHKMdqCUbbYTcDHBuLPUqjU-HDrv8HD3U_FN1OsR9d2Psud2eBIOKAkwMsjEhClrO7ZGb0tw0OGOcRPRzB4GhTs6akcT_cEhHiFyQuZIUt33Qir9w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJMxV6Z92glVQRGY8NjwDZKFg",
+        "rating": 5,
+        "reference": "CmRbAAAAJQMT2YRkC9Xr05aIRxihLhZZFqPrW26ja2wAHugqNIqZ-uHxPg0dkNOogloDEGuI7meIRNDyCcpAr493zc5JePpMvFTKs3qCu5-RvOzzc4dhzOMpaKwDBiZX2dKgtCO-EhAJad2sg-QE6_5AfYkgUmZaGhSh2u7XQq_EeN751kPKxExARedhxA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4400 NE Glisan St, Portland"
       }
     ],
     "status": "OK"
