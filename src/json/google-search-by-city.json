@@ -1,51 +1,20 @@
 {
-  "city_name": "rio-rancho-new-mexico",
-  "city_rank": 329,
-  "city_population": 91956,
+  "city_name": "yuma-arizona",
+  "city_rank": 330,
+  "city_population": 91923,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.2327544,
-      -106.6630437
+      32.6926512,
+      -114.6276916
     ],
     "rankby": "distance"
   },
-  "people_per_result": 91956,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.1230004,
-            "lng": -106.617469
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.12435022989271,
-              "lng": -106.6161191701073
-            },
-            "southwest": {
-              "lat": 35.12165057010727,
-              "lng": -106.6188188298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "3677ea107134d03d3e9ad81d8f5d5dd974c1d74c",
-        "name": "Capoeira",
-        "place_id": "ChIJSabvMqN0IocR66f7wtxEJWU",
-        "rating": 1,
-        "reference": "CmRbAAAA2ilCEC5qy1yQWqI2YeaoQp40A_5s_a-8OY2c6cXCarpBOFiWbOnBpVrAyCri0yMRw4FQi78cHui6_20epRW5bMZjSLbEPd7PKtkl74P0uAMKKxkZVEtx38E1fFANG3A4EhC_-EqWxVEO4CMUhRtvPj8IGhQx2Sa6IUiautYQJlGanwWaePaGLA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Albuquerque"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
