@@ -1,20 +1,66 @@
 {
-  "city_name": "reading-pennsylvania",
-  "city_rank": 353,
-  "city_population": 87893,
+  "city_name": "norwalk-connecticut",
+  "city_rank": 354,
+  "city_population": 87776,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.3356483,
-      -75.9268747
+      41.11774399999999,
+      -73.4081575
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 87776,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.891057,
+            "lng": -73.89826699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89240682989272,
+              "lng": -73.89691717010727
+            },
+            "southwest": {
+              "lat": 40.88970717010728,
+              "lng": -73.89961682989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "33d1db8b4edf821536075c306cafb97709312934",
+        "name": "ABADA-Capoeira Bronx (ACBX) Cultural Arts Studio",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 899,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116515203244389105155/photos\">ABADA-Capoeira Bronx (ACBX) Cultural Arts Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAB6EXdFwrJ20cCL_5sM9xr6lSZ-Y25F78UcbYft9tvLeRtFVdZtGO23zvDOdItsdQOJ8o3jjNKoMsBHm5nsNG7jrJCw1hvZdFvIK3qv6rmvaW5hKe5SEUGPKwmTcH7g2fEhD0dsr4zS-vSIqeRAMHgqJzGhQd4toHLDmkL7TJaiwvJNO0m-RD-Q",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJQZpkh6_zwokRqzwvGLFRtBc",
+        "rating": 5,
+        "reference": "CmRbAAAAVZs3I6Y1eZdAXCQlXDIz0n1P-LU9jsyuzYg8PW8DoNQ33-JxAgR-rv4PBI4MNOrS1OcNrOCxx-nIG-Y-pqpcGwK80c_IxSeiRRjfy6TFFh1mZJmMdq_je_O_WjOtG4lCEhD4oEQWaIPVul6cgJWzeEu9GhRgXXgSi8qbw5MawDteWpGIcnoenQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4685 Manhattan College Pkwy, Bronx"
+      }
+    ],
+    "status": "OK"
   }
 }
