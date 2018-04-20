@@ -1,55 +1,20 @@
 {
-  "city_name": "ogden-utah",
-  "city_rank": 375,
-  "city_population": 84249,
+  "city_name": "hoover-alabama",
+  "city_rank": 376,
+  "city_population": 84126,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.223,
-      -111.9738304
+      33.4053867,
+      -86.8113781
     ],
     "rankby": "distance"
   },
-  "people_per_result": 84249,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.21495729999999,
-            "lng": -111.9756306
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.21604897989272,
-              "lng": -111.9742937701073
-            },
-            "southwest": {
-              "lat": 41.21334932010728,
-              "lng": -111.9769934298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4aee404a316791a86c82847dde95648a576e1a71",
-        "name": "Ogden Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
-        "reference": "CmRbAAAAfH_Q0d9eSLLQE-fUryKmgmnuW_PJQCpB0cl8in7JLdgR9uFy7CME6qHOjWcegR0-gcPzhNugAHdosxvAYu-_DSUtxtIxhG3rGM7kzVoNBVzv0dm1nJIPSi9nDfBaWyaKEhAWtzfcb4SYQi1UK4TjK3xbGhS_V-7y2TvRjgFIDQG_cJRppNa3ug",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "222 28th St, Ogden"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
