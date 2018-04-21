@@ -1,20 +1,106 @@
 {
-  "city_name": "edinburg-texas",
-  "city_rank": 404,
-  "city_population": 80836,
+  "city_name": "cranston-rhode-island",
+  "city_rank": 405,
+  "city_population": 80566,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      26.3017374,
-      -98.1633432
+      41.7798226,
+      -71.4372796
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 40283,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.7032442,
+            "lng": -71.4070354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.70447477989272,
+              "lng": -71.40573837010727
+            },
+            "southwest": {
+              "lat": 41.70177512010728,
+              "lng": -71.40843802989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fc521597f411f226ca5482f3efe1f1149e8cce93",
+        "name": "New Wave Martial Arts & Fitness",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111613706701271045763/photos\">TJ Morse</a>"
+            ],
+            "photo_reference": "CmRaAAAAqu1m_sSL0wZ9Z4FSpKaJtP4P5nziY2mqI5ZIYoD5ElKrgw83Vwz7MWyxIFQBbJ6HxC6-Bsfm1Ox2jXKrXEIWc7-w0eVLJl5NjmqOYCkXHYsYhyVd2cG8CcVAQrczhcxGEhDLZWcU_W-idLp_c_eZBjeIGhTC_wKxTfuU6diWGYIDuzTtytA6uA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJE547I8pP5IkRCU6e0vNOkG8",
+        "rating": 4.9,
+        "reference": "CmRbAAAA_xpqhTMwVgnkt_81B1hwTCNhfdIuQJXyj-IT-aruUNYHrlFK8UfAxlt8dhKeIRXWsa735p454rjm5q6CA_tkMH0z2-wvow80LVK0PddtxOGbqiz-iZiXe2fwB8i91569EhCyREm9eoSyXNKCtnTwG6bmGhQqv_V0zYIIfNoT3VXlhqdxpqyBOQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2327 W Shore Rd, Warwick"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9014142,
+            "lng": -71.0900285
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.90286927989272,
+              "lng": -71.08866777010728
+            },
+            "southwest": {
+              "lat": 41.90016962010728,
+              "lng": -71.09136742989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
+        "name": "Capoeira Studio C",
+        "photos": [
+          {
+            "height": 590,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
+            ],
+            "photo_reference": "CmRaAAAAN4sOit1pi6t4OLjT6YFryGJ7uyuwA30Izkd_nAzmdXEz52e8qCD0ZAbzk1raok5BFZf7sLrBjLcb9oSQeZM7b_GCaugFaWqczllvE_AlfCs8vacy0Hz3xdmBsZtr_khWEhA_pNvuPJ23HegpKp1V8Gc6GhSzIpqvs_Cqu4CzF6LXBJylNvdifA",
+            "width": 620
+          }
+        ],
+        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
+        "reference": "CmRbAAAAqUVEkiscLRuqF0DVHyb-9Qr-ftczpdQdy19qnN2fnUrs72O-ctzn94oRBPMhnaLjNWedjzQeNxhZhZzsSCUJh0vjC-FMKyzwXXTIEwNfsNqM-AiCcdIJLmGlQI2VkM8SEhA311oE0FYVCEVkfW3qLswCGhQKLwnC21Vmyu2LP1-WbHVDP2-K4g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "85 Main St, Taunton"
+      }
+    ],
+    "status": "OK"
   }
 }
