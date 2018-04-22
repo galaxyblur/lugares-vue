@@ -1,20 +1,65 @@
 {
-  "city_name": "st-george-utah",
-  "city_rank": 431,
-  "city_population": 76817,
+  "city_name": "kennewick-washington",
+  "city_rank": 432,
+  "city_population": 76762,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.0965278,
-      -113.5684164
+      46.2112458,
+      -119.1372338
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 76762,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 46.2320365,
+            "lng": -119.0917008
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.23325617989273,
+              "lng": -119.0902865201073
+            },
+            "southwest": {
+              "lat": 46.23055652010728,
+              "lng": -119.0929861798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6e2430abdbf7f4264d53322f6223d1636d5d66f9",
+        "name": "Find Your Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108612422938682037257/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAr0eT_GeDWmk8fFtg4L4KI1EjsH1q5MnC3tGlKgZnhlxiVXP26hTR9B3kJezCVce2sRxQX_HDFricNCH3tc8Vh16xa9uZE7JQzBDV3R_P1Wbvc4qU0wkhSMPqb_yzL44REhDKIHm8vEnhZfvVlucWPM4zGhRaWzhkhuMvdMLZHMRSbdaKY21obg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJrVLqyOd-mFQRpIheQsDKj18",
+        "reference": "CmRbAAAA57eW9f5XGMhxuAdNiDnuMlQFHBeVNKrpcZh_CdrCD7_I65oErkL3YqKfDMKlMcNexk9JhkQA-fsPGQppYY_Az4xWnUo8A5bMa4Kxynw_AvfXE7klA-gbeXR_CayJW6upEhCvzQLZOCHA3DIVNoGwUdkhGhSOSs-p0VzfImRBm8DFGM1OZYAK5Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "411 W Clark St Suite E, Pasco"
+      }
+    ],
+    "status": "OK"
   }
 }
