@@ -1,20 +1,107 @@
 {
-  "city_name": "eau-claire-wisconsin",
-  "city_rank": 508,
-  "city_population": 67545,
+  "city_name": "north-richland-hills-texas",
+  "city_rank": 509,
+  "city_population": 67317,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.811349,
-      -91.4984941
+      32.8342952,
+      -97.2289029
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 33659,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.713013,
+            "lng": -97.34637339999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.71421842989272,
+              "lng": -97.34502387010727
+            },
+            "southwest": {
+              "lat": 32.71151877010728,
+              "lng": -97.34772352989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "photos": [
+          {
+            "height": 918,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112294789667396374360/photos\">Lindsay Puente</a>"
+            ],
+            "photo_reference": "CmRaAAAA2B4D60PCpNnO_CWV0M6lkkVPhLXexY5qbOjugEUbDh0m_wEbxdtxzI--tdw2WToPe90FxysX2yVDI3feYAlQk3UA2QLLqtn3mjNDSlN2N7rlcCzB4xZN0G3xPLWdemDHEhCbkpX1enwM8ncnsfReyxhOGhTCJoXU4HU8N3m9QiPktTZjuRzKdQ",
+            "width": 1224
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "rating": 5,
+        "reference": "CmRbAAAAOUIalhoXEZm9qCknUe6xepuRhwDdJx6ofAMDmMe_2h8V3ZGs6JVeJ90KfVcPfJNIJm_RzVGWVZvwUwu3wiqgVeG38DnWOwKo4H3kdTy2iM9Ue_AIgauwTtgxTXPhtlIREhCO4_pMgGN0fbxH9wwZkVttGhT0PRmBMutqHDhwzTHbEo5eK2-uJw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1800 McPherson Ave, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
+            },
+            "southwest": {
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAXN_oG6GuJMnDZnlNLz9xqpHvqL3dbASpDJmXef9OfTQ6Y81crkYtggsDQcJE_T4WKNzkN6OohiFNdmyTsvfNUVi4Twrh1zx8drak6DCa6hAoqMGuX8pWqxYHQYX_VRPXEhBjHcYP2K6ZFvLPnwzp3QI2GhRHEAtlcFqF5OT-JlgXhKDHOr2mrA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRbAAAAXEh8YtHQaiqN1de13vxlwg8XhC4gRAbdTYZUmyMTWyjARDCWFmEZyXLkqoxN5ZG60OSD6MlwNo3NdqOl0oQ0A07KKXX8yizSj2_mfMovlkl6OhejMn10TI1l4dlmRVrZEhCqfKRQ7g-Go3ZgIH-CY586GhQsccEpWkMGSgRzeoAJmqg0RE_XEQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Rd, Dallas"
+      }
+    ],
+    "status": "OK"
   }
 }
