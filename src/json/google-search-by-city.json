@@ -1,20 +1,92 @@
 {
-  "city_name": "redlands-california",
-  "city_rank": 486,
-  "city_population": 69999,
+  "city_name": "santa-fe-new-mexico",
+  "city_rank": 487,
+  "city_population": 69976,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.0555693,
-      -117.1825381
+      35.6869752,
+      -105.937799
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 34988,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.6830039,
+            "lng": -105.9580105
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.68436417989273,
+              "lng": -105.9565805701073
+            },
+            "southwest": {
+              "lat": 35.68166452010728,
+              "lng": -105.9592802298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "494401953b95c0f4d2decb272be36616a63f31de",
+        "name": "CAPOEIRA SANTA FE",
+        "photos": [
+          {
+            "height": 554,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107056963162033737558/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAWYSXIdF99khtwnkOVmOrihpF7bGe_KBBy4K5Q9DPiJLkqcIQBtctFS3DY6JoJXBBq7rACdrkrh35n84HlRFE2fxqWXYsZ4qnASCkoYnypBPmNcXINjQ2nE6QX33RS8RoEhAqARwXal-ZxGTlH7UYb7XaGhQS04UiushMc1JF585RTEq1AhQ80A",
+            "width": 831
+          }
+        ],
+        "place_id": "ChIJj9fc9G1QGIcRTDD6Sp-gLMA",
+        "reference": "CmRbAAAAORnDkL1K4kQSm1fVkr1Bj-XOa2vtwi5-4DDJqKclKLyTbm5i3hWs3wpBfjwKoH6Cr_9kD59wWNx15P03MRO2RZp1VYTgBgDFzEkzAmEum1y6u7pRFtMxSszn4AYiySH1EhBBwyQAIF2CPMkiYbhOVDL-GhRchn-FzHOs6dZn7Hq5GAOOYLYf0Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "501/503 Kathryn Ave, Santa Fe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.613552,
+            "lng": -105.9972095
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.61497252989272,
+              "lng": -105.9958651201073
+            },
+            "southwest": {
+              "lat": 35.61227287010728,
+              "lng": -105.9985647798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "84d54265e77d0b72aad07ff70e07dea1bf056360",
+        "name": "Berimbau Academy of Capoeira",
+        "place_id": "ChIJ79j8lYtZGIcRjNKB8D2XnEU",
+        "reference": "CmRbAAAAQrkpvRXJ_ohTVPSX3SYqvp6yydgrFfrU4TOHS1p8gYuJbu5CapTQ4h6dCqoDaghpqJt6LuSqLw3mkVgwax7jtSIa2sDtxkbeZIZfm29pvK-Yrdaz5CCx81hAt4Ix6OFaEhBXEn-t4sDjlEv7KjtlgC85GhSchBJPn6lFGe8AE1xq45aCxnkOnA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "52 Oshara Blvd, Santa Fe"
+      }
+    ],
+    "status": "OK"
   }
 }
