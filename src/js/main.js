@@ -6,10 +6,6 @@ import router from './router';
 
 Vue.config.productionTip = false;
 
-router.afterEach((to, from) => {
-  recordPageview(to.name, from.name);
-});
-
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

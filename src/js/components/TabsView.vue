@@ -29,11 +29,6 @@ UIkit.use(Icons);
 export default {
   name: 'tabs-view',
   props: ['active'],
-  methods: {
-    handleAboutClick() {
-      this.$recordPageview('About', this.$route.name);
-    },
-  },
 };
 </script>
 
