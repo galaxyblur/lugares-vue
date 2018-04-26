@@ -3,10 +3,8 @@
 import Vue from 'vue';
 import App from './App';
 import router from './router';
-import VueKeen, { recordPageview } from './plugins/VueKeen';
 
 Vue.config.productionTip = false;
-Vue.use(VueKeen);
 
 router.afterEach((to, from) => {
   recordPageview(to.name, from.name);
