@@ -1,20 +1,124 @@
 {
-  "city_name": "victoria-texas",
-  "city_rank": 536,
-  "city_population": 65098,
+  "city_name": "san-clemente-california",
+  "city_rank": 537,
+  "city_population": 65040,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.8052674,
-      -97.0035982
+      33.4269728,
+      -117.6119925
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21680,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68195412989272,
+              "lng": -117.7772291201073
+            },
+            "southwest": {
+              "lat": 33.67925447010728,
+              "lng": -117.7799287798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAinLNHU-vLD-dlV_yAl3MHoGw3_dyzGa5KtF37O41TIUMF2LORIgGQ6p-HXVwYtXAGBLuW0qjs-n_upsGGwJQYbINzwnPIA2GAljRQLz6e4Px0n2qm_2V5xp34za0DvczEhD0wyg5mo2VjQIU0Gvt9IRAGhQKsH6U6bZrSy1_NyOdoiKiI4uMTA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRbAAAAWgGuN11RF1QuLUSFmSjqgDPd3hdaW986vHHXc02UWGl0v_3zRp9wuTjy_icLusP8e2rSV3rMkg_8VkDuywkQ2spejJH-cOzcpoxu5qb_YmLRR5IhVUcxd4THmrdEJ08_EhCK_wMylMdDSNu7CSTt1rrPGhTiuZ7VlkmSdWmZJOeQk_wgax8Guw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6550863,
+            "lng": -117.9194759
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.65643772989272,
+              "lng": -117.9179422701073
+            },
+            "southwest": {
+              "lat": 33.65373807010728,
+              "lng": -117.9206419298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c06ddc2b38ef3baf0a885a954b50ca2eddb81218",
+        "name": "Capoeira Brasil Orange County",
+        "place_id": "ChIJNYBpUX_f3IARfLrZ75yCbJE",
+        "reference": "CmRbAAAADtyHK9lqXqqPgxGxAR8UfjHncejkcFJbVVMMV3czRA9fXLv1q7RUZOdg8Sq1PHzK9ILTI52PP1LMF9pdbe4XAi4LgwvIpjSroP9o-cFLKFOdWHkUkqheSx3f9goFPK9zEhB0xQnOwG3srOHIf_Gg3bWPGhT6aDV1XKzZ2Dm9vEc0CazP4AzK_g",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2221 Harbor Blvd, Costa Mesa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.13902,
+            "lng": -117.270587
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.14054252989273,
+              "lng": -117.2692825201073
+            },
+            "southwest": {
+              "lat": 33.13784287010728,
+              "lng": -117.2719821798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "132b791d0deacf96e23872b94723ab1e58485d04",
+        "name": "Afro-Brazilian Dance & Capoeira San Diego (North County)",
+        "place_id": "ChIJsaz54Xxz3IARH7e1dIi6jJw",
+        "reference": "CmRbAAAAzik8IRiZ4rInE_LJil2RbobwQ2z3YDJsQ1Isc5vQY_pH_8vP0kyRFbXt8psGehe4K_hcbrMt1dbTz6ZOgkyDbya3swaagvUtea3OBPbfa9HWJF2EN2m7bTTmBnyEeTIAEhBdwAOqbowiNh4g-K3zksI_GhSD1KsXVx6AaSuyHR42V5cZszOdkw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2441 Impala Dr, Carlsbad"
+      }
+    ],
+    "status": "OK"
   }
 }
