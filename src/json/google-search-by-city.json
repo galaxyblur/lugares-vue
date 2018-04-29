@@ -1,20 +1,83 @@
 {
-  "city_name": "casper-wyoming",
-  "city_rank": 599,
-  "city_population": 59628,
+  "city_name": "broomfield-colorado",
+  "city_rank": 600,
+  "city_population": 59471,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.866632,
-      -106.313081
+      39.9205411,
+      -105.0866504
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29736,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "reference": "CmRbAAAAPzeB9vYvfpBWWKTjYnw_WxNIC-84bzNSy2arFEcmZTAWtoaQQ0-OgXZJxjt722SjX-o215K8cGgaJ8ufzaIXGMGWehwNwyicREr6p4zBzvph8zptQURM1OtWHzAY9E83EhBYnk3xWP-UMOErOPDi9cytGhQ05zYrr9uRNUGNbu8QILSypPl9QA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "rating": 4.5,
+        "reference": "CmRbAAAAzjzAnNBgfvvQCLG4REsblhQC0V8tjeJhcFM-wFZRTHkScJFDj0T7DmacdDoyRp-sJ3aGyxKoi0BXAl3K-EDEYeqWTLGnSs_h7cdl8gt4LdwCqJzBoTJUO6r2DJnuvzqKEhBECUuC_N-brK0PaWbOr8ZZGhT4pzSJ-82haRgOd9-zLBxwX2xlOQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
+      }
+    ],
+    "status": "OK"
   }
 }
