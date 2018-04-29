@@ -1,20 +1,111 @@
 {
-  "city_name": "lancaster-pennsylvania",
-  "city_rank": 605,
-  "city_population": 59325,
+  "city_name": "north-port-florida",
+  "city_rank": 606,
+  "city_population": 59212,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.0378755,
-      -76.3055144
+      27.044224,
+      -82.2359254
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29606,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.2993271,
+            "lng": -82.47517580000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.30076347989272,
+              "lng": -82.47382642010727
+            },
+            "southwest": {
+              "lat": 27.29806382010727,
+              "lng": -82.47652607989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4548fc5ca39425d9fbb538f038883e964f0476e3",
+        "name": "Capoeira VAM & CapoFitness Sarasota",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105473484253125650275/photos\">Capoeira VAM &amp; CapoFitness Sarasota</a>"
+            ],
+            "photo_reference": "CmRaAAAAMwMO2S6bzTXQRM104LrGD0S4nbPYybQEzV0uAR7v8hhI0mD_YDW2YNC7HgmcAmN2ym3oGxtK_8j_NbEoec0FSlQEEdIGyNCqQm8a-NilepxTwerhkTNTcN-W7A40gcRBEhAiz1Hl1kDxbmRPVigvpPwcGhSV1sgKnSvi71Eh6rsLI1TsYZ0LAg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJK3h0TdVGw4gRgDBg45OU1Hk",
+        "rating": 5,
+        "reference": "CmRbAAAApt5MAduRVnek4s3pKUuXYp0lsn3OIi49ll20SOff4JgtnC0RWFLjtibH2G5YMTPbHzoY1eozD3bP7ya1bauwPg3ihRX5xUmWr6OFPmd35mRiQQKd42OjWcm2l01RxHy0EhCuf77rOhTdpaycvEfxm2jbGhSaeSu9GuCgoYZu-39JdjJqWpY5EQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4672 McIntosh Ln, Sarasota"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.4305309,
+            "lng": -82.42595299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.43212887989272,
+              "lng": -82.42460932010728
+            },
+            "southwest": {
+              "lat": 27.42942922010727,
+              "lng": -82.42730897989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1f0fb6fd4a9b44813695579c6484eaa90e96dc49",
+        "name": "Capoeira Vam Inc",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106760776227634529528/photos\">Capoeira Vam Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAsYB36_zSTsEieEugJmUYxLsguqypt4s0SUaHj7pM2n_whQ0XU1WV93PScxq6x8950A8M9cfu61E_szSmcCxl-QnxJ4f9EOS2hAmGMoKjxR7foDJ0K-JnOtFq0ce1IXzfEhDaADHrduLJjHDljx0sf3_UGhTlphAFCJG6gPXOes1ZGnJCf3jQ1g",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJWVF4oIY5w4gRwqywWK7JpZ4",
+        "rating": 5,
+        "reference": "CmRbAAAAH8oN3x__Go31Xc-q3DAHhExcgg1oM7_9P9eRnbAyMdM2ksyPs-zAyRyEKifr6IXrLq795_uY6mnJSNp5KXUWvN-2u5tP9DzxMPNC_oh4pfN-5eqOtKhS3x-rd2Epoy3mEhBhezEcqqsG7qg6L0l4iYPDGhTFvvoBIJqopNqyq1tB45mpBKbM5Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "11534 Palmbrush Trail, Lakewood Ranch"
+      }
+    ],
+    "status": "OK"
   }
 }
