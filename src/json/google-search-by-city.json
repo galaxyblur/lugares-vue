@@ -1,20 +1,69 @@
 {
-  "city_name": "dubuque-iowa",
-  "city_rank": 621,
-  "city_population": 58253,
+  "city_name": "bartlett-tennessee",
+  "city_rank": 622,
+  "city_population": 58226,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5005583,
-      -90.66457179999999
+      35.2045328,
+      -89.8739753
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 58226,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.136744,
+            "lng": -89.991625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.13808832989272,
+              "lng": -89.99027632010728
+            },
+            "southwest": {
+              "lat": 35.13538867010728,
+              "lng": -89.99297597989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7ff3d1df5c92c81f340edee6ba84fcc0d8397cc7",
+        "name": "Delta Groove Yoga",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1136,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115634581146199879466/photos\">Paul Ringger</a>"
+            ],
+            "photo_reference": "CmRaAAAAmU6wfxi3aOjFrzFS8Jw9uo11PedgiNMj2O-v4wLEjaVr-3nzdt6EsDWRcSwQMBKDz6Aj-bNvusXvD_TdwUc0oCVKbqo77KM5pfSTbhL7NEZDWKgP-9Ni-MU-g2pHQot4EhD22XjXT4cRJeFDnn-IbTfcGhSL7z-elEJ0v0BJROeO08BvohCWIw",
+            "width": 1607
+          }
+        ],
+        "place_id": "ChIJYz-_66-Af4gROzjK9GAtA4E",
+        "rating": 5,
+        "reference": "CmRbAAAAF-1OPMiUOARlGd1xMkvH-PXVvjU7w94kL7gDds4wrnkCxbgsIdJazpvKZ8wCDnRYZ12_W8iNPYnURCeYTr58yK5-sCxGY0cJ_Ll8PW9ojX1-7L1P_2U9Hsgouiv4JGooEhBoYzKP6M7-svsaYP9ApbLUGhQ7ZiAK4OcUgVeeBbyAs7mDAWCxHQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "clothing_store",
+          "store",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2091 Madison Ave, Memphis"
+      }
+    ],
+    "status": "OK"
   }
 }
