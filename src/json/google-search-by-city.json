@@ -1,60 +1,199 @@
 {
-  "city_name": "buckeye-arizona",
-  "city_rank": 641,
-  "city_population": 56683,
+  "city_name": "dearborn-heights-michigan",
+  "city_rank": 642,
+  "city_population": 56620,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.3703197,
-      -112.5837766
+      42.3369816,
+      -83.27326269999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 56683,
-  "possible_duplicates": {},
+  "people_per_result": 14155,
+  "possible_duplicates": {
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ],
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 33.4954773,
-            "lng": -112.0831415
+            "lat": 42.422379,
+            "lng": -83.176875
           },
           "viewport": {
             "northeast": {
-              "lat": 33.49682342989272,
-              "lng": -112.0819591201073
+              "lat": 42.42366357989272,
+              "lng": -83.17565672010727
             },
             "southwest": {
-              "lat": 33.49412377010727,
-              "lng": -112.0846587798927
+              "lat": 42.42096392010728,
+              "lng": -83.17835637989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
-        "name": "Capoeira Brasil",
+        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
+        "name": "Tabcat Detroit",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
         "photos": [
           {
-            "height": 1365,
+            "height": 2988,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109835485667846703056/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
             ],
-            "photo_reference": "CmRaAAAALoS8lfKoSsPUWqdDxXLbM_OLa0coJPm5oO0_NXsScuuUDnUJBhHFDDNVCRr2KekqBFTw2c_4-l3xKgBJJh99pmfPupWAlD1M1Sv1jKXB2eVenX89G99xN5O0cotvXgWzEhDBBUqpBxA0TURO5o7vxCobGhT_X5lZ4_lL7riC48P4rlG7zZaV2w",
-            "width": 1365
+            "photo_reference": "CmRaAAAAobw1JCSn8YYcNdahyITsjpcH5pAs_rXhE2PXZz03DTrMnvCAayZLb-8ZmV0qWpPhv6us2S5i44rj1jWvEAEKQKFx7nA1WSkMDmFNla_PyzKq4tAHRSArl8lw5ilrTBoVEhCn0TFRMTITwDoUzA5CLbd8GhSuiN_HnhyhjDJ5WGiIlWzrFPbBXA",
+            "width": 5312
           }
         ],
-        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
+        "reference": "CmRbAAAAGCFwnFe3IxaPF6puylK7rxGnM-IqmZyk2Z68Oi8xaTy6PZ9wPjxgADwAwT6bvJCcqUeOiJ4Q7MkSd56TOo3G9Elx8VBqGwBx8YeZX8w_o0BNmeOuBQSXYVICjrohTjl7EhAXco5INOdLkz0-1wcP17msGhSLWisO8WCEIHAZHnXWLuxDSqwXug",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "18018 James Couzens Fwy, Detroit"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4602986,
+            "lng": -83.1370883
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.46177327989272,
+              "lng": -83.13574542010728
+            },
+            "southwest": {
+              "lat": 42.45907362010728,
+              "lng": -83.13844507989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
+        "name": "Capoeira Mandinga Detroit",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1626,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAAxgo4ZTgEDXDpudn3tPVS49wAdk5atwJrnurWmkfL0Yrv33wVet0KvVCNtAC2X2TVdR6kG2pnsmTLq0hkFHNZZXY-fkmpSJ2KHkR-q_E9Y4H-Gtnnvjj0D4MpexEqlryQEhAgQk4ys6285UhXJZSE2P_4GhR2X2l0bLbxwHQPW5WtKuTjBin7Ow",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
         "rating": 5,
-        "reference": "CmRbAAAAY1UJINcEKf0AL-PSkHLyyhTPz77iIS0r3xT9IocHa9FQFl7wjblIKyYQhMAyOeGASRUmV9zYd81d_yCB6huCWAbR-r-DlK8Qgr3q1nBQGdxxrjIrVgfAcK9cVbbP_UNhEhCCLQMFrXHGWfnWRl37bzpEGhQ-yu--O7QK8ugKH6Aqmv58kHUivA",
+        "reference": "CmRbAAAA1_aNeM9K59fwcDEORIzJA0_acC_iRSHohw_Zo-auoQcFgNaxK9u8AQSHQW42LETSR-P1FzG8IUSlOtHs7oGVI5Tdd6mWeCObFdilzb_u8OEf-MXF6NCXCmOIB8GROFInEhAqPjrS6YAWgNrLpTTaL-CEGhSe4QTKx4W6U5ITBA2gDy6o_FZHMg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4113 N 7th Ave, Phoenix"
+        "vicinity": "247 W Nine Mile Rd, Ferndale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5005072,
+            "lng": -83.3609625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.50190432989272,
+              "lng": -83.35763385
+            },
+            "southwest": {
+              "lat": 42.49920467010728,
+              "lng": -83.36207205
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 414,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104232165641470445560/photos\">The Michigan Center for Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAABIz9jehwYrEJwElLKkWnHzE5_17Mbm7A0Ej7gowouSrS_oL8elLd0-NTQ5i8PtMqdx9zk4736lyUsj8ix0_T-Sgbxt3TYLMoW4XsOTiKWp77ziPmlyDtin7Ts8BvZBsFEhBJApVlxKI6y032jDKL6accGhR3c1WY1hzwVgbTP8KmZwa1XToYgQ",
+            "width": 820
+          }
+        ],
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "rating": 5,
+        "reference": "CmRbAAAAuflxXeKrzhMcYWAE_K3W8Z3YWuo5uuStLcAcMlaK9esbP3yexJIQVsr7m05kWQ3arjsW_UI4aNYQV7d_VisnelSpLRt1K4V-mLWMilguK1Bo6uszRbIGzMqyFIqdH1G_EhDzjBrrlX6AKA2oGytgw5iwGhQb0sqwPQapGI1G00xZ-IBXbjNuvg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5276867,
+            "lng": -83.3601159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.52903182989272,
+              "lng": -83.35880832010729
+            },
+            "southwest": {
+              "lat": 42.52633217010727,
+              "lng": -83.36150797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "reference": "CmRbAAAANzuPcbCdGjeLIahMBRyehe6QO-ZOlqR3CyMjDXdUN-apX24i4LtT0sxKBVdyMsNnGCj06FLFhFsxGgo1_gO0EMiToMtO8a6UbUsj2MrY_yBSkfMzJwaevopvifHt3V0OEhDxnzXeZIneHxqrp5BQqb8pGhSKZmVQK127tZr53tkqpcyUofSobQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
       }
     ],
     "status": "OK"
