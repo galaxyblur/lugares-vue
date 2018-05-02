@@ -1,20 +1,66 @@
 {
-  "city_name": "corvallis-oregon",
-  "city_rank": 659,
-  "city_population": 55298,
+  "city_name": "eastvale-california",
+  "city_rank": 660,
+  "city_population": 55191,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.5645659,
-      -123.2620435
+      33.952463,
+      -117.5848025
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 55191,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68195412989272,
+              "lng": -117.7772291201073
+            },
+            "southwest": {
+              "lat": 33.67925447010728,
+              "lng": -117.7799287798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAQu-aJIny2yTaIC-cuU8dEgsWbh493K0GDS1pg938FlzLq8aefwbOje0yOnoOeTsuUNqFo-wGP0a-rnkSRQscEcMD9YydY6zIXVazY9PRSOieZCzJ7PCcNXkV5vrfh8NIEhAvF-lYppIOueeqCbEqEQ2XGhQWvUw6tQPhHm_1y3s-KGZRLP_mxA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRbAAAAcAmDocK8aNgn-Uxhj6RPvDRT3u8Yw3h93eTpwEn_jtUn-AFiSzx9aksT_wfMhQBT53Vgyq7OVRfOHXKMZvgDV7glTwk87hElxW8oHOg7EdtrWsj5JmgOY2rUcNtqvVuTEhA2nd6k0P85Ler3U7oOw-2vGhTIzcNEdx9p4D36nezJbwFg3RWQ2g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      }
+    ],
+    "status": "OK"
   }
 }
