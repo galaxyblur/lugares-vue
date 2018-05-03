@@ -1,65 +1,20 @@
 {
-  "city_name": "richland-washington",
-  "city_rank": 700,
-  "city_population": 52413,
+  "city_name": "delano-california",
+  "city_rank": 701,
+  "city_population": 52403,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      46.2856907,
-      -119.2844621
+      35.7688425,
+      -119.2470536
     ],
     "rankby": "distance"
   },
-  "people_per_result": 52413,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 46.2320365,
-            "lng": -119.0917008
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 46.23325617989273,
-              "lng": -119.0902865201073
-            },
-            "southwest": {
-              "lat": 46.23055652010728,
-              "lng": -119.0929861798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6e2430abdbf7f4264d53322f6223d1636d5d66f9",
-        "name": "Find Your Center",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108612422938682037257/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA2U065qkYJtA0T33a_9pzEXFLN8e8a6DJqJ6TucL7EPeFVWcf-gJuvXQgkthTcutjiBnNCJPrcWXyRQaA6Wfu0FzL2WzWKPSM6HdEJJtLJYzQjhuB5kloEAy5ynsi3M7DEhBst646JboCzUnscDnraRCBGhSkXTubNTWXM6JwV2WAfrRuCxSJMQ",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJrVLqyOd-mFQRpIheQsDKj18",
-        "reference": "CmRbAAAA6zNzT0OA4YBc5GTJ2_8pituDE0l7DhLap281eLBeMAkUcv8lst5mpQVKgrhEMeVJz1ifCGvPGj9uJgUiLZnbuJBM8bEHtfB2fsJd6UhC1SHhYeudzDRtpZiyTg5E1Z_vEhA38AzmQjxlgoXjXK1wjYSGGhQOuPtCrca4YWhKUyHdAOB6hSFQPg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "411 W Clark St Suite E, Pasco"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
