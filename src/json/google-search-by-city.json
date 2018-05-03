@@ -1,20 +1,52 @@
 {
-  "city_name": "lake-havasu-city-arizona",
-  "city_rank": 695,
-  "city_population": 52844,
+  "city_name": "pensacola-florida",
+  "city_rank": 696,
+  "city_population": 52703,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.483901,
-      -114.3224548
+      30.42130899999999,
+      -87.2169149
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 52703,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.4263165,
+            "lng": -87.2025599
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.42761377989272,
+              "lng": -87.20152662010727
+            },
+            "southwest": {
+              "lat": 30.42491412010727,
+              "lng": -87.20422627989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "86ce04a669328f6564849dc33ebe636d6c938304",
+        "name": "gracie elite pensacola",
+        "place_id": "ChIJp7yng7_AkIgRx0_fVWAdyvs",
+        "rating": 5,
+        "reference": "CmRbAAAAjRwLUfowLY6OdbX1PD91NLcbZ1WVD2Da1yM3r3S03lASCZkSaxf_yzhbRHiaoeu6HoIrT_4PUt2d29V7HmDpqAi5UoUiTdlWEP4PpxJf8W8ivasEdszF3Ncy_E4O74pNEhCKUmbE8e0BwD7GodE0sHPvGhRmsHr8rvFbZXrWj95qB4Iy-DjhTw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1010 N 12th Ave, Pensacola"
+      }
+    ],
+    "status": "OK"
   }
 }
