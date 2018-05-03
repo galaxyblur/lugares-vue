@@ -1,51 +1,20 @@
 {
-  "city_name": "greenwood-indiana",
-  "city_rank": 684,
-  "city_population": 53665,
+  "city_name": "bellevue-nebraska",
+  "city_rank": 685,
+  "city_population": 53663,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.6136578,
-      -86.10665259999999
+      41.1543623,
+      -95.9145568
     ],
     "rankby": "distance"
   },
-  "people_per_result": 53665,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.80969172989272,
-              "lng": -86.14545212010728
-            },
-            "southwest": {
-              "lat": 39.80699207010728,
-              "lng": -86.14815177989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "reference": "CmRbAAAAY313XhBYjQ3ht7AbrDbjQ5Z5iwL3i3__8IGfLtduPazk864C1aaHjxruoToiA2l_zya8DsSjncLSaCmss6K5YgECbrua6nLuLICwtGSQ2-B3Sbts_aq78D-gdu17vT5nEhDbhSPyo-y1E1eAw4EUxgi6GhTmcEppr_k35tiYedLzVdXUx7UQ0g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "609 E 29th St, Indianapolis"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
