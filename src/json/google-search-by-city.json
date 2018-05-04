@@ -1,50 +1,20 @@
 {
-  "city_name": "ankeny-iowa",
-  "city_rank": 715,
-  "city_population": 51567,
+  "city_name": "la-crosse-wisconsin",
+  "city_rank": 716,
+  "city_population": 51522,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.7317884,
-      -93.6001278
+      43.8013556,
+      -91.23958069999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 51567,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.60720999999999,
-            "lng": -93.62751899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.60855947989272,
-              "lng": -93.62650387010727
-            },
-            "southwest": {
-              "lat": 41.60585982010727,
-              "lng": -93.62920352989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
-        "name": "Roots Capoeira de Ouro",
-        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
-        "reference": "CmRbAAAAGyIITpdBQ9ODOoheN1FD0WxzWEd5hqRADoHLcGIFmZh9Y_gXVPcxIttvUXcmGruOgm81A3EnQuZiZ-owph2-9pdodyYYyqR9MGBQjNbU8kKSkwcCjchvCIexO6T6XQXTEhAGZqf8YoMIwZ2qZcuTBOXgGhRyOLgBBZ-t52xrVI8LR009nbrOMA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1541 8th St, Des Moines"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
