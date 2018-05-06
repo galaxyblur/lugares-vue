@@ -1,20 +1,52 @@
 {
-  "city_name": "logan-utah",
-  "city_rank": 764,
-  "city_population": 48913,
+  "city_name": "galveston-texas",
+  "city_rank": 765,
+  "city_population": 48733,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.7369803,
-      -111.8338359
+      29.3013479,
+      -94.7976958
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 48733,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "rating": 5,
+        "reference": "CmRbAAAAAX2fL3UV1JdNmdwWw3mrj3EhdPwPf674gO3U5wbQpS6Yk3SzyR2WMNWlo6nFbGuNFPeMEhpToojoygJgHN3CL28KO1qBgKWdAcpZ9CaSlodMeJbhKJO1OW1s-TXztJDIEhBsItLwdRHCc1vhCBHa0l2KGhQEkIklG99Fv0lZYLyac9o5D8KmKA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17050 Galveston Rd, Webster"
+      }
+    ],
+    "status": "OK"
   }
 }
