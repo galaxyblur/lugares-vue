@@ -1,20 +1,110 @@
 {
-  "city_name": "collierville-tennessee",
-  "city_rank": 790,
+  "city_name": "middletown-connecticut",
+  "city_rank": 791,
   "city_population": 47333,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.042036,
-      -89.6645266
+      41.5623209,
+      -72.6506488
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 23667,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.6596678,
+            "lng": -72.6837352
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.66116117989272,
+              "lng": -72.68249782010729
+            },
+            "southwest": {
+              "lat": 41.65846152010727,
+              "lng": -72.68519747989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "40b833c1c89d2193941963762e547dbe8981a867",
+        "name": "Capoeira Brasil Connecticut",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100034839602342264717/photos\">Capoeira Brasil Connecticut</a>"
+            ],
+            "photo_reference": "CmRaAAAAUEek4Ov7sXCngsV8P2TVE4gAp1bjW4aHSJBh8fscpG4K8FByLBLcBqFIL0b98K9_SdVxsJSE68qYVU1Ulz_TarYsVhpvnAz1Ll8ZvZPwAKPIkH9l9SaU5WJ7MdtQbXFaEhC-nyeY8tvLzzBgNtNhu8hQGhQl2EL6vrxLUCSmWlxYpuhfm6F02Q",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJJUFquh9N5okRRTO-3NY42X8",
+        "reference": "CmRbAAAAXYg_qnt0vgxAIbTGX0i2CabKF8MTdwlGHvWl9SzUm5cswv7s6JrnHNEcKffw5rf7ErUcvyQLS5sXF9ExiihqsfrXqdBFoec1sZgD33nKwZT15zklDlMxE_0mSsCQFUsxEhCHfTiYtIBla5VdBYsV8TGjGhQX1ulOJaD6Dt0BQmkFEiLPcT1mDw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "154 New Britain Ave, Rocky Hill"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.4558454,
+            "lng": -72.8216024
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.45719522989273,
+              "lng": -72.82025257010729
+            },
+            "southwest": {
+              "lat": 41.45449557010728,
+              "lng": -72.82295222989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "76981c0cba55bc4cb9027acb73c260aab6020a4f",
+        "name": "Ginga Brasil-CDO (THRIVE Capoeira)",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1530,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112100340763014557664/photos\">Ginga Brasil-CDO (THRIVE Capoeira)</a>"
+            ],
+            "photo_reference": "CmRaAAAA1jYLxRXuugrulKt4TUnn_Oj7raT1cCMr48mYfXOmgmESzBcwYpHCv4zx5KqiSCwwTtgJlqesxVWnywOiGFfVmg2CQ7DUNMsZ4Qr8pwpK1nDUE_xwD1FCLtiYQ-m1A8ITEhAvhFprdWkjhw--dRS3VYMEGhTmJ0P9gJ6ZvxTfyuJul30t4QKFIw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJKxUPXDTQ54kR6cmXbhoy53I",
+        "rating": 5,
+        "reference": "CmRbAAAALYv3Q3SpJNdGfy2RIVNLW2KlBKFhYHLSEiTqbM7M3JiowyGxCiiz_IL5iUCOH-s4FXPQVMLlWGd2YlP_0lxJncu1O9dgfVD3M8mwIs3qsw3poxgzYdL-7hgRi2UkjTkiEhB8xZVJrKGGXvzlZrAjgVcIGhQ8fL8frYibmCH5R02IzMjYFadhXw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "221 Burlington Rd, Harwinton"
+      }
+    ],
+    "status": "OK"
   }
 }
