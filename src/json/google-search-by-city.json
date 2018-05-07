@@ -1,20 +1,106 @@
 {
-  "city_name": "stillwater-oklahoma",
-  "city_rank": 792,
-  "city_population": 47186,
+  "city_name": "east-providence-rhode-island",
+  "city_rank": 793,
+  "city_population": 47149,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.1156071,
-      -97.0583681
+      41.8137116,
+      -71.3700545
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 23575,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.7032442,
+            "lng": -71.4070354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.70447477989272,
+              "lng": -71.40573837010727
+            },
+            "southwest": {
+              "lat": 41.70177512010728,
+              "lng": -71.40843802989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fc521597f411f226ca5482f3efe1f1149e8cce93",
+        "name": "New Wave Martial Arts & Fitness",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111613706701271045763/photos\">TJ Morse</a>"
+            ],
+            "photo_reference": "CmRaAAAA0doiIL_ModntFnibP5vmnxYLAARxakmiSYe31AFn_NAkobqqf8DUNUCcwwhbYKPh83akYktRlK9A7QCb7L8xplIftjbedaQHfyUvUtFHN3QEVPZGGqYuFPjz77AwWW5pEhDX9WI8ccNYy6pA2WDj6NFmGhR9G_DzGCMvRDIu3LRBOm7r_PZL-w",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJE547I8pP5IkRCU6e0vNOkG8",
+        "rating": 4.9,
+        "reference": "CmRbAAAAukf2LQgFZwW5QaRNjD-z1PlV6BuL5YyElcX6cvThP4VDyEwujLhJAJhnkd9YE-FDSo9KciOSBejMohaW1n2A6MHx2lWCtZ6eTlANWvjdvf3cPFcwM860-lHsGKTwpYt_EhB6xW4rIrCwVb_U-KU0yCWfGhTVUfISBjEmGJFYVMExUS9iEq82EQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2327 W Shore Rd, Warwick"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9014142,
+            "lng": -71.0900285
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.90286927989272,
+              "lng": -71.08866777010728
+            },
+            "southwest": {
+              "lat": 41.90016962010728,
+              "lng": -71.09136742989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
+        "name": "Capoeira Studio C",
+        "photos": [
+          {
+            "height": 590,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
+            ],
+            "photo_reference": "CmRaAAAAOt4UWhEUekoQbMQhMuWhedPQSGnXGCbvlK6L-Lt3A9QI-h5Rp-G3QBxApFtYZ0XCztgfJI0uVO2emnO1AUxealtHFfZFgCiKMxDut5yqS7RNtfTKOSr7inVwmOvWitfjEhC-oJst_1BYoJKy6m_DFw4wGhR83twfGMUWjzvbFFMa_NKsGH1rdQ",
+            "width": 620
+          }
+        ],
+        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
+        "reference": "CmRbAAAAosvn1dQ9tZo3r_Wi4OWCsQeae_8lXxmjlen5E1L8deciwg9DLbUxoOdorkecx6haiXZkXKOul8JdUbN4ftMsZrTpFyu0KLStSmsY6bkfk4YxI2YqFVgQ9axnXkwYj2STEhAWRNK_GWIFK2UwowkDfKBQGhSAURI6LoYHzddVh_d0bZuEovTNdg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "85 Main St, Taunton"
+      }
+    ],
+    "status": "OK"
   }
 }
