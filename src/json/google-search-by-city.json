@@ -1,20 +1,52 @@
 {
-  "city_name": "pine-bluff-arkansas",
-  "city_rank": 805,
-  "city_population": 46094,
+  "city_name": "texas-city-texas",
+  "city_rank": 806,
+  "city_population": 46081,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.2284312,
-      -92.00319549999999
+      29.383845,
+      -94.9027002
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 46081,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "rating": 5,
+        "reference": "CmRbAAAAj_E83GjxpQAh4gK2oZc0NrUd2px5JyoRreE3oseHPjfGgwbCMEp_bd5nCoMMAsX198Oafw7BS98VObsNUSOI2Uls9D8ayZzMoNu5Zb-7SOXZHMaZBDisXIs8AODK-QfdEhDLebfSzX1fNRYULj7NzSXtGhSlEAQ1TTqsieRJUtrMK9K-A_kzZA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17050 Galveston Rd, Webster"
+      }
+    ],
+    "status": "OK"
   }
 }
