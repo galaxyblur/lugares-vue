@@ -1,20 +1,53 @@
 {
-  "city_name": "twin-falls-idaho",
-  "city_rank": 808,
-  "city_population": 45981,
+  "city_name": "jeffersonville-indiana",
+  "city_rank": 809,
+  "city_population": 45929,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5629668,
-      -114.4608711
+      38.2775702,
+      -85.7371847
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 45929,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.2172038,
+            "lng": -85.57172589999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.21836212989272,
+              "lng": -85.57078692010727
+            },
+            "southwest": {
+              "lat": 38.21566247010728,
+              "lng": -85.57348657989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "ea69e276bd46ade9811520fb06d59c2425f3551e",
+        "name": "Freestyle Fitness",
+        "place_id": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
+        "rating": 5,
+        "reference": "CmRbAAAAoqVyz4f-nymoyMJMRcwKLjZN5lZpJYVwcffhVbprclUCkRRuoX5KlJOz7WUCa_uTe7HQWFF-Ff7kLr8Ae4JVL3RE1gjKLFEvx8mmkx1ABrDx-dZbA-l-0vJUDd10jBE_EhAb0HLvgYBnA3XWJSYA2MeCGhQjS0oKCZtHGHcQ6D6X1Oai3p9UVg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1825 Plantside Dr, Jeffersontown"
+      }
+    ],
+    "status": "OK"
   }
 }
