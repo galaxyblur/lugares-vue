@@ -1,20 +1,83 @@
 {
-  "city_name": "charlottesville-virginia",
-  "city_rank": 831,
-  "city_population": 44349,
+  "city_name": "littleton-colorado",
+  "city_rank": 832,
+  "city_population": 44275,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.0293059,
-      -78.47667810000002
+      39.613321,
+      -105.0166498
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 22138,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "rating": 4.5,
+        "reference": "CmRbAAAAVQ6qAe-EirBY40EW_WeIe1j1fMiQonB3IYYekWhUp2s0rdOuq68OBwzC2cJsrC4G7s0ZJX2MG6Dr0TT07WwcQZjUhUN4q7V6s6JSYBZRVc8BJsOiR9ORxsdTVgzV60adEhAovyqZb6y5HYOWDbRL8QG-GhRW3c5XNTGuBaPhm1qCKA4CimhVSw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "reference": "CmRbAAAA0Dj31lrBkhOlPyo8LRodcBmowZbKBDIAUIpm2WRx06tlJdlw68VmJhoLAeKkttYZb7q3R7cc6lYFML8a2UwtXuP0k0eUMQyVa53BRZZ-zK4j37Ww1afxmJubcvgD4X31EhCLc-Usaz2BRePaCtCX_O-PGhQvPp_HR9utVQUw5rF20GShP1E2Hw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
+      }
+    ],
+    "status": "OK"
   }
 }
