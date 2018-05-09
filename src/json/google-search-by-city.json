@@ -1,20 +1,111 @@
 {
-  "city_name": "blacksburg-virginia",
-  "city_rank": 841,
-  "city_population": 43609,
+  "city_name": "dublin-ohio",
+  "city_rank": 842,
+  "city_population": 43607,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.2295733,
-      -80.4139393
+      40.0992294,
+      -83.1140771
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21804,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.9651635,
+            "lng": -83.00253029999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.96632567989273,
+              "lng": -83.00114637010728
+            },
+            "southwest": {
+              "lat": 39.96362602010728,
+              "lng": -83.00384602989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "6e41a6aea919ee0fe92d0caa192b6dc3791d6c1a",
+        "name": "Carioca Capoeira Columbus",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 695,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116360200931330089954/photos\">Carioca Capoeira Columbus</a>"
+            ],
+            "photo_reference": "CmRaAAAAXJtQDfEdnaEvxIYWmkrIXz47vT5vxyWIk_z7ER99fff3PsRABz6EqCwPH53NNzwQX2OxGlX3voMvu1WH-oY-PE5Q7dnx2uFMK6c7ZndTA7os4pbUWm5ieLzZp1swqY4iEhAp8QqCGQN86aizj7XMeb1PGhSF-Wgh-06Iin6l6SP0xGxC9mR21Q",
+            "width": 695
+          }
+        ],
+        "place_id": "ChIJqXwl3i-POIgRImCLbi1DNv4",
+        "rating": 5,
+        "reference": "CmRbAAAAI3dtt-AlNSNIt9Ju_ZeLnlLXOoGVqqTq3K6DUVogubBTgoeurFCbq7j9Hcm17H_FrVCzuTkMyobkFu0zs0qFiA28ed4cy9pSNGvb_j3YJu09FuJo18xyGFU47nLr_xkHEhA6paD3NtBjCbnB8F27XSVHGhTkDbkqCLnLc7TlGxK7I7i7ih2-wg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "40 W Long St, Columbus"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.9417371,
+            "lng": -82.9921762
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.94303822989271,
+              "lng": -82.98958524999999
+            },
+            "southwest": {
+              "lat": 39.94033857010727,
+              "lng": -82.99303985000002
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5739a53d68b563ca85529b624eefe3e52db937f0",
+        "name": "Capoeira Brasileira Columbus",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101593806278191090307/photos\">Capoeira Brasileira Columbus</a>"
+            ],
+            "photo_reference": "CmRZAAAAGQTjjLEYn-bCE3akMExPXfLBntn5DuOurX2UcLspb62yBkQatdFoHQwWcijbrCsaBQkPoPNcLAOPy3T8GnjM4kW9fqI7SysafIljvSYKQXCN0--6WDQaKRLDUmhAkcXGEhBI71_-okY1Kg4c0qtR8msPGhQptPPY45Mvd62Ks7qVVRuqYnS_3g",
+            "width": 1156
+          }
+        ],
+        "place_id": "ChIJ8VJzJK2IOIgRpoIiVfm4698",
+        "rating": 5,
+        "reference": "CmRbAAAA11dJWA9WAYl6r0_6R1RM1RGeePP0OWpG5AXTFj-L7Y8MqZbXmmgllULIQMSJl5O7a9tw8FbuXFAqu9YKu3HQ2tgFOA376DJQJOfQSHxmkmj0Ekf7dCUjgmJ39oAdWOBgEhCd3HLJdKKIac38WEo20LJOGhS-BJY1F7mZZvt3m50JOU4GXZbOlQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1069 Jaeger St, Columbus"
+      }
+    ],
+    "status": "OK"
   }
 }
