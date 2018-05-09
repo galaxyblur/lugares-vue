@@ -1,65 +1,20 @@
 {
-  "city_name": "lacey-washington",
-  "city_rank": 824,
-  "city_population": 44919,
+  "city_name": "biloxi-mississippi",
+  "city_rank": 825,
+  "city_population": 44820,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.03426289999999,
-      -122.8231915
+      30.3960318,
+      -88.88530779999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 44919,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 47.254811,
-            "lng": -122.4423251
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.25617972989272,
-              "lng": -122.4407843201073
-            },
-            "southwest": {
-              "lat": 47.25348007010727,
-              "lng": -122.4434839798928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6765d4530c1f57fbf69a46dfea04417f1251378a",
-        "name": "Tacoma Capoeira Center",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108566144111458725837/photos\">Tacoma Capoeira Center</a>"
-            ],
-            "photo_reference": "CmRaAAAAOFcsZyJ9cisRHF3hz6kt4c0bfweE2M4_trTXLtUEOyEPUwoOOJO6cLennwl8zj2Dz-tSocBhOsIow-yx26ebGR7_YR2rtVbQqrMUu2CJXZBuc6-DCSTQfzaoVTOoI9lAEhCuqHwc25n3ubeNP_jn4K6MGhR1a1KmarPl9oa5NMDRpASQNsofPw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJj_9PdwpVkFQRNl6dfRGZbJE",
-        "reference": "CmRbAAAAdvjktmIncXa4qvRIcmO8bTobXE_tJV9GnutmF72bLzuZ0BY5i45kyIt73rtjlYx5B_IkIeO4tz7mb5xe3KD_WlCT6pbOnQM0m8UGhbC4x5sxsYqPaFAyh_QceYxf34izEhC34Rzfj4XYhR9NwmLcgPrHGhRpyXQYdrnFrvElWlGSH4KhF4tFCA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "902 Market St #308, Tacoma"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
