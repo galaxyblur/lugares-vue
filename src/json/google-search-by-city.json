@@ -1,20 +1,50 @@
 {
-  "city_name": "coachella-california",
-  "city_rank": 853,
-  "city_population": 43092,
+  "city_name": "fort-pierce-florida",
+  "city_rank": 854,
+  "city_population": 43074,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.6803003,
-      -116.173894
+      27.4467056,
+      -80.3256056
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 43074,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.6252435,
+            "lng": -80.3827009
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.62659357989272,
+              "lng": -80.38133432010727
+            },
+            "southwest": {
+              "lat": 27.62389392010728,
+              "lng": -80.38403397989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "11559a68bc890c825b4aa52be5fbe17bf6e71b48",
+        "name": "Abada Capoeira Florida",
+        "place_id": "ChIJXUw3qjxf3ogRIaFOfwoksQQ",
+        "reference": "CmRbAAAAXUeKiQx5H7AxvUnGdKcdkINsXRSqS5kBUZVaH4_Cbp2WXxS1cs9gLYiYfpWz-ZlawtbFj5FOZnSh05POyl2ejOMdjzgdza2z5dczpJhqsnnTx1wiI0mww42qjRYc8ArFEhDYKDyb-llPLnEKrzpzKHBjGhTiqN-CXgdEqU2D7EHZzAB9BxYk5A",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "970 4th Ct, Vero Beach"
+      }
+    ],
+    "status": "OK"
   }
 }
