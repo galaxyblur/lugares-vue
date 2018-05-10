@@ -1,20 +1,96 @@
 {
-  "city_name": "burlington-vermont",
-  "city_rank": 870,
-  "city_population": 42284,
+  "city_name": "apex-north-carolina",
+  "city_rank": 871,
+  "city_population": 42214,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.4758825,
-      -73.21207199999999
+      35.732652,
+      -78.85028559999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21107,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.860191,
+            "lng": -78.71041919999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.86190332989273,
+              "lng": -78.70865477010727
+            },
+            "southwest": {
+              "lat": 35.85920367010728,
+              "lng": -78.71135442989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4ef5e8c61b15f70df45000e3346d5ebc602d8d5d",
+        "name": "Capoeira Brasil Raleigh",
+        "place_id": "ChIJnVLVfgL3rIkRtuy9Sq1TQY0",
+        "reference": "CmRbAAAARvEhw1q7Lbf0DH6wJ0qohcTLcBkfi9JAoUcPTl12yWhaWrjnxLLrqqeQICnthC9yBVZ4kq9BmU1mMl44ZYYCl6w4ZkNTXwNisayKejSXPyL-15cqCVKSn816w9vleya5EhAXOGpCf5mpRj8GiaYKCC39GhSblH0Fbbrl501aFSYnm6gOCvDQrQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6701 Glenwood Ave #103, Raleigh"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.8468532,
+            "lng": -78.6005763
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.84820302989272,
+              "lng": -78.59922647010728
+            },
+            "southwest": {
+              "lat": 35.84550337010728,
+              "lng": -78.60192612989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8bb189f55a84b5881670064e1c88f8d53940c32c",
+        "name": "Raleigh Abada Capoeira",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113883345004070706224/photos\">Raleigh Abada Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAPfU19-poHOLsWNH9WNtjXgvohSGMH3ePf8-XsKkWBwuFR7576gbPSWyqTFqLtct-UE6jhCVcSKDfq7q4Hy48pPqp1oSX2vj_RYNyX_pK2XF3sfNqVm--vjlvcc-36xWxEhCqYoQFA6vlvGUPMq9y4NUDGhQs1kFIaPWAXvn_70xgjLGDU1AWhA",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJ007TLAZZrIkRpTKmhFUDAWs",
+        "rating": 5,
+        "reference": "CmRbAAAAL__WPO2fSd85RxvHqlQyK2I5_vChRacdEENRY-kDjzX8NFC6zRbhYZfgjvKYyauTWJETJbwFaVVrvVSm_FfJ7d_ezkfy9KsiXZgiIDjWMQrdL5doKDByrAtavmOtx7XCEhCO1nFFdgJJkW2-6ZS3HnGeGhRoel5XZ7iXUT4jmp56ykoub_w3Fg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2210 E Millbrook Rd, Raleigh"
+      }
+    ],
+    "status": "OK"
   }
 }
