@@ -1,107 +1,20 @@
 {
-  "city_name": "rohnert-park-california",
-  "city_rank": 885,
-  "city_population": 41398,
+  "city_name": "westfield-massachusetts",
+  "city_rank": 887,
+  "city_population": 41301,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.3396367,
-      -122.7010984
+      42.1250929,
+      -72.749538
     ],
     "rankby": "distance"
   },
-  "people_per_result": 20699,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2355172,
-            "lng": -122.6413765
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.23686702989272,
-              "lng": -122.6400266701073
-            },
-            "southwest": {
-              "lat": 38.23416737010728,
-              "lng": -122.6427263298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "327f936cac22d86f5a7327a2151496abc8162eb9",
-        "name": "Capoeira Petaluma",
-        "photos": [
-          {
-            "height": 1939,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111815811201287977997/photos\">Lia Alexander</a>"
-            ],
-            "photo_reference": "CmRaAAAAI2GJDYXIT87pAwEzvjnsLhVSVQ489hR4Nv2pWyp4AAmycUHmgy5PMz-KxkEjm9qoxHDn8l-8cXDLvNvFAnI1MWMOJT9AjLLXJNlPLqAlaPICoPs9EH61YpBCPKVMKKjLEhCdZS8AuG94qDTH4HgrPtZgGhRm3i9Z2F65bSfCwFAMhO8paXMAmg",
-            "width": 3659
-          }
-        ],
-        "place_id": "ChIJfdvIax20hYAR8a-pZvqzLZk",
-        "rating": 5,
-        "reference": "CmRbAAAAmETJSGuBdWja63dIbAfHU-bmcg9ry36r1KoG7iCrUmNlCuJ14WZrPz95aJZLMEjkEEvS7igqNQpHJKzbtmdWEkG0A72OACkOHHI196phX5b_sV2pw1IXviKYD4dI3tgKEhBRZiXjeyNn9MhG8GCkbWmlGhQGnr_Gzx46_jegPK3XuCj7kcsgIw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "110 Howard St, Petaluma"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.405523,
-            "lng": -122.834014
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.40676507989273,
-              "lng": -122.8326589701072
-            },
-            "southwest": {
-              "lat": 38.40406542010728,
-              "lng": -122.8353586298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fed7eee169800e01c26d48ef805c5aeefb31afa1",
-        "name": "SHDWBX Studio",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117042391203936136203/photos\">SHDWBX Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAAZHsrKqaJmPt1sWma-kOGux7ZVEPWlUnyqa9VCIfGrmnXhyBQKswkfW9Rtpa65WlVPnTTKWZ5SM5mkQ7pWdmwV_0zhzfsBVBaN3d-V-i3Xx4EmdNgzaJ74--GDvlbNDAmEhCF8FYXOIuN_sXSenbY86ysGhSJwvdl2r0VwNUyU58PcjFur-PZbg",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDc8yfHQ6hIARiisEo-93Sao",
-        "rating": 5,
-        "reference": "CmRbAAAAcC7kzEHZRb43ClVsxMC5A34Vwex6zEVlYazy0nh6X4-jLVgrrGLQ70Hc1dXU54hnD9mzBgkHkYBt3Psm37fuSgSWzUprKm7MHzC3aKzwKa36VuIEWxHLVy2hwqNsmacXEhB68SZtbwMI_iX79XLz8YsUGhSPIGRXeFHCGFWluwVXt8k02kdd2A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "7758 Healdsburg Ave, Sebastopol"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
