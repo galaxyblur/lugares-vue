@@ -1,20 +1,108 @@
 {
-  "city_name": "moorhead-minnesota",
-  "city_rank": 939,
-  "city_population": 39398,
+  "city_name": "calexico-california",
+  "city_rank": 940,
+  "city_population": 39389,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      46.8737648,
-      -96.76780389999999
+      32.6789476,
+      -115.4988834
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 19695,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6585948,
+            "lng": -115.4501826
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.65994462989271,
+              "lng": -115.4488327701073
+            },
+            "southwest": {
+              "lat": 32.65724497010726,
+              "lng": -115.4515324298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2bb7d2088863e71948ec4c9e891414c17ebd7427",
+        "name": "CAPOEIRA Mexicali",
+        "photos": [
+          {
+            "height": 458,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112691419559891540486/photos\">CAPOEIRA Mexicali</a>"
+            ],
+            "photo_reference": "CmRaAAAALlqcPqpqdUhk2VQ38IMs3SvvBOjYSm8V0Y37lc_dEouHVzy8aabKDV3BxdOBOAaqnv4S2QhCD0IN_2akLRtAcsHHXQigZ6H2NcJV-kak3PSnJ0m8PQOvA--VlB8PdAw5EhBC5hu_qQD1qL9BYIBBb4mmGhSXj6kDVDCnB0K1PdFopDKxKQv97g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJi-HyUBVw14AR0XcmAMdZLuw",
+        "rating": 5,
+        "reference": "CmRbAAAAN3B1xTCoj_Riii9hhLmM4ZXOXGOAyPQe-AjblWvzXn5SFbI09opC4znSQjumRxDoKEww0U7boVjoK7aul37x9tdrYGZSRpn1R5jzlUukTcB-oW4nvNn2YoAgtNsLp7loEhDHZzqM9-Tc-9-D7w3gGVrhGhSIFdRtsEL5-pCwK2miR0o8h1z1UA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida República de Uruguay 99 Sur, Cuauhtémoc Sur, Mexicali"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6170048,
+            "lng": -115.4052545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.61835527989273,
+              "lng": -115.4039315701073
+            },
+            "southwest": {
+              "lat": 32.61565562010728,
+              "lng": -115.4066312298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "27806084d7dcd1607a48c4a3bf5d83ab14a4f137",
+        "name": "Capoeira Brasil Mexicali",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111043538642937907494/photos\">Promocao Sanchez</a>"
+            ],
+            "photo_reference": "CmRaAAAAVp4QyuUy-yv6aMcWyCG255y1mYlk2bEMF0tTLhLCadsfTAFo2pYkLwtrp-Z9yD2VWOKMbXOldXDp8YbR7IPAgO3k3lCo1N1BN9PvelFEIeZRnsB3WGBOuIwS4X8UNOgtEhCIizJHEkzTY2mQQA_uTSjGGhTmytnj-NkDT9GFF3wWLW1Ww2d6Xw",
+            "width": 4224
+          }
+        ],
+        "place_id": "ChIJJ9wzrTlx14AR2sMWqZ7_zOg",
+        "rating": 5,
+        "reference": "CmRbAAAALzz3uIs3m3MVJIoWmN5O7SQNpRJTx1VWtqGnITDqkqnBYVSa1HKFUVfg6wMscUGav_7g9SqQ380K2pTkkfLbTp5VPNkzVhXdt9dQzYhIenPXzXHesbattWyyPuNRY4upEhCd7uTsI3nWXvUIcZNDXiGgGhR2dkQm6zRE8Pw7lZfqukLAg3Gccw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "y #2004, Bulevar Venustiano Carranza & Villa Avenida Valle de las Mariposas, Villa Bonita, Mexicali"
+      }
+    ],
+    "status": "OK"
   }
 }
