@@ -1,51 +1,20 @@
 {
-  "city_name": "indianapolis-indiana",
-  "city_rank": 12,
-  "city_population": 843393,
+  "city_name": "jacksonville-florida",
+  "city_rank": 13,
+  "city_population": 842583,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.768403,
-      -86.158068
+      30.3321838,
+      -81.65565099999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 843393,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.80969172989272,
-              "lng": -86.14545212010728
-            },
-            "southwest": {
-              "lat": 39.80699207010728,
-              "lng": -86.14815177989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "reference": "CmRbAAAAAyB5XQy8yOEDj8ogmRkE_M6xLxWEZB-ToykG6dakjIbgSS1n6dr9y8VgOHm58QIGmSrfi_WOYFCF3dYVCug6gKEBc0N5O3BlAdpkJzaWExq_LjhuWAQXsupuh79DGFWWEhAS0Ufp0FfurQZjbcwwRXPNGhT_SQ72yuW7UNUoAKbxVxgizZKf6Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "609 E 29th St, Indianapolis"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
