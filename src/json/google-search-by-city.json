@@ -1,66 +1,20 @@
 {
-  "city_name": "colorado-springs-colorado",
-  "city_rank": 41,
-  "city_population": 439886,
+  "city_name": "omaha-nebraska",
+  "city_rank": 42,
+  "city_population": 434353,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.8338816,
-      -104.8213634
+      41.2523634,
+      -95.99798829999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 439886,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.8999541,
-            "lng": -104.8505675
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.90109817989271,
-              "lng": -104.8496379701073
-            },
-            "southwest": {
-              "lat": 38.89839852010727,
-              "lng": -104.8523376298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e94c7b61e03471ffab5d7afcc85e200755a58527",
-        "name": "Brazilian Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113008027868670644209/photos\">Brazilian Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAU-aRXtlBixYj74YGxerCWHhIKALyZj_n_kyIl4hFBECtvZNlSXRMysLSArPUEVwURNIkXbQ0pv__gdr6YIL57zQLSQTb8QFGsgHbG_lA25zJSYHnxn49hJgyQ8ifdf7nEhACsldjZnRfFm1gZj-K25kGGhQiKYacziwnjxJ7X7oRVsSA7uwtNQ",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJXwgzLddPE4cR6FUUFt9PnRA",
-        "rating": 5,
-        "reference": "CmRbAAAACcLhxPyQ40c_p7a_kQNagr147E_8KMKOoY6zW488gMWh_j-_K10eLM9_Z0GgnLgu5-67-axSfaJCzmey3qABVvfi3ZLWmf8KHyoo6VZRhCk2PfJm5EH9HkjaDgik06AhEhBG8g_YYDr-JDy-QE80Vor1GhRAj-80_kp_BwwjOac-2aiZovxbag",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4705 Centennial Blvd, Colorado Springs"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
