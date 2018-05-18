@@ -1,20 +1,56 @@
 {
-  "city_name": "tulsa-oklahoma",
-  "city_rank": 47,
-  "city_population": 398121,
+  "city_name": "cleveland-ohio",
+  "city_rank": 48,
+  "city_population": 390113,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.1539816,
-      -95.99277500000001
+      41.49932,
+      -81.6943605
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 390113,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.457361,
+            "lng": -81.7132273
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.45874967989272,
+              "lng": -81.71199722010728
+            },
+            "southwest": {
+              "lat": 41.45605002010728,
+              "lng": -81.71469687989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4bbea685732598f9e223c378b51895195ff7a7a8",
+        "name": "Grupo Unidade Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ1ch3Ad7vMIgRDX7bpIaO1lQ",
+        "rating": 5,
+        "reference": "CmRbAAAAiYIKKmNKdnepATI7SPjjGERvvYEYkjIkUYklDqlvIBNFBv-qYWGaUjM8losvsMJGavjoUe9D6_Gab-MbCOAzGv2WChA9UdsBFOTiUA7hXb_rWxq5c1JiA05PyIBvNftOEhAT7-Zgl30NMZ_OYsTF1sMCGhT31YB10ULa39IGKOqCpJ0AIjyvaw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3565 Fulton Rd, Cleveland"
+      }
+    ],
+    "status": "OK"
   }
 }
