@@ -1,131 +1,87 @@
 {
-  "city_name": "tampa-florida",
-  "city_rank": 53,
-  "city_population": 352957,
+  "city_name": "honolulu-hawaii",
+  "city_rank": 54,
+  "city_population": 347884,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.950575,
-      -82.4571776
+      21.3069444,
+      -157.8583333
     ],
     "rankby": "distance"
   },
-  "people_per_result": 88239,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 57981,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.991793,
-            "lng": -82.517893
+            "lat": 21.2994672,
+            "lng": -157.8560146
           },
           "viewport": {
             "northeast": {
-              "lat": 27.99299192989272,
-              "lng": -82.51654552010727
+              "lat": 21.30084542989272,
+              "lng": -157.8546260701073
             },
             "southwest": {
-              "lat": 27.99029227010728,
-              "lng": -82.51924517989272
+              "lat": 21.29814577010728,
+              "lng": -157.8573257298927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b41002ad6924495135f13a9d1d9c85d5b1298453",
-        "name": "Tampa Martial Arts & Wellness Center",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105814300938925993495/photos\">Tampa Martial-Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAPKY0D-kjMV0WVSvFsqe_7cSV_jHL0B0zG_arAcNSkU_8CAMbJriOtzhUZgK_BhLht_-6-8ywSZ8gjpToAUokpfJwU_TWx6wRtEB6eBdXNs089dK78ciYMTCBlrFWVVvGEhDKNkyDcfyWTN7L888sQ_8PGhSiBv6Eq6rwvMY1dETIxdCIAAABFQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJwTDjudLDwogRgsSsv_zF37w",
-        "rating": 5,
-        "reference": "CmRbAAAAcARzTtKC9zgc2T2VXX2uPYTJosI10yfsw_s7WqSYUFY940Zz1uJX_AE9HnRqGMcHJhCQg38IBqVl-jF8CyygprjS3fJDmop-pu5zm3RaecKRre29dPmnYZWiLjcVjFhiEhBp6zZfHDjqfdgy3Pg5TWhwGhRN1QPEt9gAsSIBBsvTOCeH26MFEQ",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7308012595726be272f9af7011651aeedc947381",
+        "name": "Capoeira CDO Hawaii",
+        "place_id": "ChIJkxwD_eFtAHwRpgvMhhEevNw",
+        "reference": "CmRbAAAA4unxiuc71hZVMt5stGTs2DrulcqjUNCqkOTR74tBV-mKcrzAiRwOz0d12yS4VRKbnmVv8Lx8ywTm8TTtO4o4Y_nnTJqWc8_oHSUztitXjNtxtTe6jxFooE8Wde3unOwhEhA19pU0hHn0qGVAS4uV05A6GhQ3ePQ8f6XlQ4_k0npbEgaXdukroA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4405 W South Ave, Tampa"
+        "vicinity": "670 Queen St, Honolulu"
       },
       {
         "geometry": {
           "location": {
-            "lat": 28.0798425,
-            "lng": -82.50598400000001
+            "lat": 21.2974956,
+            "lng": -157.8580307
           },
           "viewport": {
             "northeast": {
-              "lat": 28.08121917989272,
-              "lng": -82.50499962010728
+              "lat": 21.29889017989272,
+              "lng": -157.8566216701073
             },
             "southwest": {
-              "lat": 28.07851952010728,
-              "lng": -82.50769927989272
+              "lat": 21.29619052010728,
+              "lng": -157.8593213298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "000fdef11d34ed223a2ffb0f6e894a2b9f619022",
-        "name": "Tampa Bay Capoeira",
-        "place_id": "ChIJ8dZfsZHAwogR2P0nns5Atpk",
-        "reference": "CmRbAAAA6apCgvXR_THeaRe7m59XIq_HaFmKD2OMVH0i6Io5HzgbawlDID9E8-fqg6jQrEp5tqqirPBDFuScYCiVGIKbgm6dKb2jr5_GBy3f7vneTrI0vTFEcHLazDD0ioMoAQMuEhAa9f1v1Ln79cYO5-dAhT-iGhT2stvBr1cVpILf2m41J40CGNIlvA",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
+        "id": "e471f4624f7e11cdb36ec438c23fc57b3b7317e9",
+        "name": "UFC Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110621219299662665949/photos\">UFC GYM Honolulu</a>"
+            ],
+            "photo_reference": "CmRaAAAAeUhVuHoyuX4M9lnRUz5J8pCA9mts8nULqBNHsxlWw5DdXXDn0ZkDaMTQ7kg9slwLNKnXWU7QTLpcUR-FVmQ9finEg8BPWGMB_77NOr1WAc_mQ8Z0cMLlvzTTV-gBCckAEhCL_kEwCuxeicIgNU_NNdW5GhT6HoUPQ_bdyBdDrkdiMKsrN2CuLw",
+            "width": 1200
+          }
         ],
-        "vicinity": "14457 N Dale Mabry Hwy, Tampa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
-            },
-            "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAA82P6R4sFeMTZU9RLb4EYca4dIBCPvkBU3_dECv-7mZLPgCdt2Lsessf7mF-B728LgJldwcR60EMnYStcqMHjWCC1yOS957n8jFjQdlwO_irmjK4_j0vsp8NGBjw68WGMEhCHW_I1v_366L8GZ6gsiYa4GhRgtQN7Q6anfngXEXZxs54JPs8qSw",
+        "place_id": "ChIJfSdhMQhuAHwRsDHh08tiPLg",
+        "rating": 4.3,
+        "reference": "CmRbAAAApFc0PDCLisSYiyN_VF4RGBy59MRpDhHIG6VrXiZlJtupHzSgCsoAD2BTtTPyNNQ5VeniDIqGkPMbhDqqiezFyd4jpOB8oIKizI4O0cPJVsbNu1jcc2irP2IVsphaElgmEhCw1VCyxmIb8hpeWd5iFHxzGhRyQ9-ztsPT30wDyxYuCid2cWDt6w",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -133,42 +89,182 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "805 Pohukaina St, Honolulu"
       },
       {
         "geometry": {
           "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
+            "lat": 21.297331,
+            "lng": -157.860412
           },
           "viewport": {
             "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
+              "lat": 21.29858562989272,
+              "lng": -157.8589769701073
             },
             "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 21.29588597010728,
+              "lng": -157.8616766298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
+        "id": "a4131b72efa4c9d63907bb590d36ec1c4627646e",
+        "name": "Samadhi Hawaii",
+        "photos": [
+          {
+            "height": 300,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107936418333820924652/photos\">Brian Low</a>"
+            ],
+            "photo_reference": "CmRaAAAA0TUI7rTQ6OcirzDtLHWP-7ACNY2bIUo_K1wO2YnbR8o-alp9fv1fRJi_2FI-joQAgTyqPfar3OSDY9mkpoJ4KMLdKBJY6mdWxWtioo6SuFFY3YWWQ83qdRwzb017QEp9EhBPWJ6RnPCWH35wGiQX3KPuGhR4U3xw6wZ5ucWYGU8W5QPfv98GGg",
+            "width": 300
+          }
+        ],
+        "place_id": "ChIJUQPh8whuAHwR4NZcS4fkQWY",
+        "rating": 5,
+        "reference": "CmRbAAAAJ87EQSevNTKJam2mknb6m4bQVSfpNMy0lKDraMC3lYQs2f92rJp2TTKnn61nvkj75IM4cwOs4LNRnuhHMdoPb4525Z6JuTbKGqX1eyxDTZsEKGwxxvdd5jD0G9syI5CtEhAB5Um_ViKF-P0pjCBoFIxzGhSG99IC5uX0Mc4osDjMseN3FbM1nQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "330 Cooke St, Honolulu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 21.2958609,
+            "lng": -157.8524486
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 21.29712242989272,
+              "lng": -157.8512236201072
+            },
+            "southwest": {
+              "lat": 21.29442277010727,
+              "lng": -157.8539232798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eb993a3d5ee50020e69ba35864ab7e021a3c727f",
+        "name": "Still & Moving Center",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "photos": [
+          {
+            "height": 666,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115821764009848734082/photos\">Still &amp; Moving Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAp2htCUtXZFp0HKcvj89MBgHGXo8jdJExRFa5TypBE01fgUedWztwDTNxGTAizpow_LqkGiTcP1dAvINoS90TbW4AsCwuJgIxbELGXMJUR_KPa6DU7KeumM7XPDDllVtdEhBHdSitOq0eIO-hB45wpIHUGhQox6jbONuAGPJiXd5ecbkmL4m63g",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJ_____29tAHwRY1JgiGPiOkY",
         "rating": 5,
-        "reference": "CmRbAAAAeGxP_b5H9EdIPNFie9MzKv3lTb9fC_rUN0XeyCvoQc9jYdes_rAnnLVJfcoCROhY4XtXDe6J_xsriIjscPPLfgf7xiilsyQIjC1TMUihWxCdGxXpx0rsQg10wfzAeGn7EhCBwVMM36OAJQfJ-Zc6eAaqGhRalcOTfD0opR7Plz66fI7_PKtNLQ",
+        "reference": "CmRbAAAAtlzdfKM7Q8c2zCjGMGk3OxdiJP0G8YaXHmnkIkfXFbLvpaSvYNBrk1cXSN0FXwDIUoWvX90XGabAPgAXLwgWovpoFuoljAXwKG6I6scQogHdj0lvxkk3dlOePpJfF2G_EhAS3Mdy2O_gbyUOlEyvI3WeGhQYpu3OwlajjaEDuL6--flHCQfMOQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1024 Queen St, Honolulu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 21.281869,
+            "lng": -157.784375
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 21.28306192989272,
+              "lng": -157.7833425201073
+            },
+            "southwest": {
+              "lat": 21.28036227010727,
+              "lng": -157.7860421798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "22a0778e75884d245ce6886bf490b247f2d42a32",
+        "name": "Capoeira CDO Hawaii",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 661,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106336724379228260345/photos\">Capoeira CDO Hawaii</a>"
+            ],
+            "photo_reference": "CmRaAAAAfJ38NW4CE0oATFUJV3erXbfbpG-nHtzV2l7Uxvxpk1NPRCiRAr5l59yFdnezRf4vrT-FxWVKIDE2U1SSG-cMkwAwj7nSFfCUAybOqSqffcl04oH5mqqhTt9ZaadJGv67EhDl1qhteZlXD6QX2jmpv9RDGhQm8i6_SXV7pLE89FA2mT4qmGzRHg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJS0_jcWRuAHwR8ARKEhsGDcM",
+        "rating": 5,
+        "reference": "CmRbAAAAYGSPk1yHZ43vF9xjK3NzlGsvlkh5jXNbwgIrFCEB6A3cReiqAf3oj5c75WAsMNjerjTS8I28XC4kR5xdj-fjqdtQenrurn4GMNvHVLAMb4sAvWltloANKEVHjdT1p47qEhDcDlgsMF9kzGd6kvuScw00GhTfUfilcnY9KoIoaaDUFAMJbwpJVA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "4901 Kilauea Ave, Honolulu"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 21.4154166,
+            "lng": -157.8062754
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 21.41689027989272,
+              "lng": -157.8050163701073
+            },
+            "southwest": {
+              "lat": 21.41419062010728,
+              "lng": -157.8077160298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b3e0ba90c5726c62f7f44fc57057f169a10e1b90",
+        "name": "Association of Capoeira Besouro, LLC",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113369733821068223345/photos\">Association of Capoeira Besouro, LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAA0_reTNXsRdMLX9TGCiTTzXTbM18gvi8bZbrzsMYVeS0EGq_0eRewgIWxxNoBq0OhIbrnaNQcUpjX0vugtRWhwWjb1ETc4FseHCCAIEgooA2YUZM_b_od-RuTCaz_Z3bPEhDMqL3q7-IWKrP1fSnrNQmMGhRJsZXqaiZ2VRYUhgClN8I4Zb3-3w",
+            "width": 1540
+          }
+        ],
+        "place_id": "ChIJf-8Uu6xrAHwRciQ7_zGQZdw",
+        "reference": "CmRbAAAA-V6Ye89ySpJu7PteV97KLa-AWpDIG-MtrrII40Ty-8s7yEFqGMEMOnHzuASnKEUwl06GNEGJYM3oG8uL2oYeGAuk2dqlhZXoRKKOajaLK_MMRmEyvuZaiT_MTpEb_6H4EhDMUG9hzbcgI6oIlcyUKUUUGhQhHZ-yo5k-2NRC7ebCJNCUfiM6Og",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "46-208 Kahuhipa St #3, Kaneohe"
       }
     ],
     "status": "OK"
