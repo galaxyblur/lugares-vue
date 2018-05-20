@@ -1,20 +1,66 @@
 {
-  "city_name": "reno-nevada",
-  "city_rank": 90,
-  "city_population": 233294,
+  "city_name": "chesapeake-virginia",
+  "city_rank": 91,
+  "city_population": 230571,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.5296329,
-      -119.8138027
+      36.7682088,
+      -76.2874927
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 230571,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.7723386,
+            "lng": -76.0886936
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.77354817989272,
+              "lng": -76.08715377010728
+            },
+            "southwest": {
+              "lat": 36.77084852010727,
+              "lng": -76.08985342989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "833c6c8e300b47c59b11fda38188a3afbe029a2f",
+        "name": "Linxx Academy",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 639,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116774124634698309958/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAplG_OjDt9SxCB5Fp1YsoePP_RCUxUZQJIXyI5OPwrxfLKAF7a2IMaD8f7ltAKQIxdZoc1iy8ATIPHW0SFV42qg4vaAn6d78EGD2FY1GTCEIxKwJXR7AGhuMqQcvdzXUvEhAh44GsG2gelxi-du2H3c4aGhQdtc2TAtS4-Umor6C0bbfrlJkm1w",
+            "width": 1136
+          }
+        ],
+        "place_id": "ChIJVZ0BAX-_uokRQwb4DiKNo9M",
+        "rating": 4.8,
+        "reference": "CmRbAAAApya55BWzVzN4Z1gbnFzkfFNPo8GJxxSNtjiPUPo40dxITouoSNsGvlmb9DyvImIJqqoXsHGz4W7PlXPagePAT-eCARmwKe-gqdb5W2Cs9zDjBwN2C0mGIwA5W4MhxGSbEhBz5kdtFlEAUZ08WpJu2PauGhR2SkkMAV_E4G2SuQyIU9RG7cTXpw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1925 Landstown Centre Way #220, Virginia Beach"
+      }
+    ],
+    "status": "OK"
   }
 }
