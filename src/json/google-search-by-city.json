@@ -1,107 +1,20 @@
 {
-  "city_name": "santa-rosa-california",
-  "city_rank": 140,
-  "city_population": 171990,
+  "city_name": "rancho-cucamonga-california",
+  "city_rank": 141,
+  "city_population": 171386,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.440429,
-      -122.7140548
+      34.10639889999999,
+      -117.5931084
     ],
     "rankby": "distance"
   },
-  "people_per_result": 85995,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.405523,
-            "lng": -122.834014
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.40676507989273,
-              "lng": -122.8326589701072
-            },
-            "southwest": {
-              "lat": 38.40406542010728,
-              "lng": -122.8353586298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fed7eee169800e01c26d48ef805c5aeefb31afa1",
-        "name": "SHDWBX Studio",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117042391203936136203/photos\">SHDWBX Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAADMdgrot4NKuoFw0qVMrP3PuK1BIWz1YEfPbHv_-5741dD9zJup610QG0f3D4nKDOw1VAibPUoCcQgQFqeMFBTWG1ktkfhH0Z6xiq29PUYsMCi-gCEM1wbNfeuKtRmjJkEhD0hsUVcWLHvRJTODRFeXW7GhTNRS-3f7PDAM48lWmJpmh8ARsudw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDc8yfHQ6hIARiisEo-93Sao",
-        "rating": 5,
-        "reference": "CmRbAAAAcOpZD1lVp3NCE0wjcqyyEmX0geJzUKmGlrK3t4gndAksiilED0R-IwX3p0V_eX2jvAM9vV7l80qRaSm4DclkghI0wdhelVKCHZsIC4Ny5fEvaNVt0gwqcqduEIQ56dydEhBw_NKXIN1XAhs2uso_fVNUGhRBdiRtJ3KxzGIjewwsajnt_6MkTw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "7758 Healdsburg Ave, Sebastopol"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2355172,
-            "lng": -122.6413765
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.23686702989272,
-              "lng": -122.6400266701073
-            },
-            "southwest": {
-              "lat": 38.23416737010728,
-              "lng": -122.6427263298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "327f936cac22d86f5a7327a2151496abc8162eb9",
-        "name": "Capoeira Petaluma",
-        "photos": [
-          {
-            "height": 1939,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111815811201287977997/photos\">Lia Alexander</a>"
-            ],
-            "photo_reference": "CmRaAAAALONv__-uLlh0W_fNBUX41Q_eBPex7qgT9YcrJEzt0pZfCei3E34M1Gzqag33YfgAb8TThJqKuHXT0o1gQFNSnUD94eYO5hhdkJl07aoQvqwaetGwXOVWlKYBrYdpqEy0EhBNBk4SYAKKCxj3OTD6A1g9GhSrBfg_8xQoqCZxHIXKeg9ESbPIbg",
-            "width": 3659
-          }
-        ],
-        "place_id": "ChIJfdvIax20hYAR8a-pZvqzLZk",
-        "rating": 5,
-        "reference": "CmRbAAAAOjY-SmpGM36IV1aB64pyHatzgRupgaVF5aqSdJCashDQz9oyCEXoAqcu2J2w2WBmEqa48iBzh6Wx75k-Ug3o9O76hZRt9OGgXT7OYQRoW19jXL1lzgvaiIxhHDBNDrstEhDPN_oH4V4eoJme4XM-44HTGhSR8YdF4YULXyRHUSSn3HNlpElRTQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "110 Howard St, Petaluma"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
