@@ -1,20 +1,152 @@
 {
-  "city_name": "springfield-missouri",
-  "city_rank": 148,
-  "city_population": 164122,
+  "city_name": "peoria-arizona",
+  "city_rank": 149,
+  "city_population": 162592,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.2089572,
-      -93.29229889999999
+      33.5805955,
+      -112.2373779
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 54197,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.4954773,
+            "lng": -112.0831415
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.49682342989272,
+              "lng": -112.0819591201073
+            },
+            "southwest": {
+              "lat": 33.49412377010727,
+              "lng": -112.0846587798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
+        "name": "Capoeira Brasil",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109835485667846703056/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAVhMLyUeY58miJYC-6m5wyVPsPBIqr8ytxSqC8FY2GJqnCXX6zkuSJLrhLZ7rbdHkJdZsPUuFOFmo76clK2VKsmGHZqHZ1NSO0jz8OUNADhJ6W1qDTZ33zbc9Vo8kpid7EhCLyYZVXTqH64NKo8C0nB3QGhTvJcP0pYZL0xsmyPDGuFfXVPZDjg",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "rating": 5,
+        "reference": "CmRbAAAAdHja0nnnCMG9iUf6JZg7W03KVGeMlEFkS0exCdJplv8AmITNLDg21tn6ipjHUZ3YyxCo-62HJr7OML6cDpUMx-XtWMyrpSNlXbhR-M8oeDio2q81GJ4l09tWdSb758rvEhDngQAGprH3yTX9oUKY3OmZGhTjBBxuIwC65ux01kPnn7w7ZJUX-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4113 N 7th Ave, Phoenix"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.448315,
+            "lng": -111.92672
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.44966462989272,
+              "lng": -111.9252356701073
+            },
+            "southwest": {
+              "lat": 33.44696497010728,
+              "lng": -111.9279353298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
+        "name": "Axe Capoeira Arizona",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 445,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
+            ],
+            "photo_reference": "CmRaAAAAKt-bHlXZHMi0n1HEbIHxDoDPHzEOYGcEm0XqSu3heWpdtx7nyFubCZVRRHzuI6ZDV1PNRTJ8EdGTbAjODQX9DGO6HEAvJ_ye2fHenOjZi6Y1sNSkNOOGdA6LetFOgKqXEhAxRBerUOra_LxrSwkkiV2zGhQLJIMW-68rGhT5Eg0AejXRHRxxAA",
+            "width": 792
+          }
+        ],
+        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "rating": 5,
+        "reference": "CmRbAAAASfhhqqK_HvXICMTXIQniBU_jAedMje_SnmH8jJd5-1knz0X20IL4qy6WGZ0iGhnn02XgZuVE5QnKenIWXrDmHgRPx7k08XSfFhJAN35kOJHq5bzpxoyZE50GEtIUsNmUEhAUUSn8gBTcjyn-2kx0j73OGhQFVXk4pOp9gy6rSfEptU71DdvxWg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1650 N Scottsdale Rd, Tempe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.414698,
+            "lng": -111.834378
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.41621412989273,
+              "lng": -111.8330265701073
+            },
+            "southwest": {
+              "lat": 33.41351447010728,
+              "lng": -111.8357262298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "29888803e3a509c097fdb8ee260d80c65c032cb4",
+        "name": "Capoeira Phoenix",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 315,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101142999339175539584/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAMlKyuzkwiC9KUHW7AO1NY-EmKbpmetMc4d2Dk8gSRct6BX14fTWCrJLT2lajCsEcflEozLuKZd9nkuMAgrY93YPyUt8cv_JPY8kUvTzj1j8z7TXGZx938wS0lNia2RZWEhB14EZIKOJJDdotI7cxoVwPGhQ01GttCvrOF5OwWrjLMLNT9y_jFg",
+            "width": 851
+          }
+        ],
+        "place_id": "ChIJqXXkFOinK4cR0VZ_7ycl6OI",
+        "rating": 5,
+        "reference": "CmRbAAAAqE2jaqwYWhApT9eqFnlsUrrsTajuhKUraje9dTH8heKUBamW5MyfRBm8jn8EEQknXoqCVvPzorgKLxLemEzIMqhrmmDNUGFdydi7dxFIbstxkYo5pB1MrJNOb986GGwkEhDcCpVNzOLvTYnAkLlDevEzGhSXmCYSGCkQzOesOhbQOLkwkpWLqA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "101 W Main St, Mesa"
+      }
+    ],
+    "status": "OK"
   }
 }
