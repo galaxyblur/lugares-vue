@@ -1,63 +1,389 @@
 {
-  "city_name": "springfield-massachusetts",
-  "city_rank": 158,
-  "city_population": 153703,
+  "city_name": "pasadena-texas",
+  "city_rank": 159,
+  "city_population": 152735,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.1014831,
-      -72.589811
+      29.6910625,
+      -95.2091006
     ],
     "rankby": "distance"
   },
-  "people_per_result": 153703,
-  "possible_duplicates": {},
+  "people_per_result": 16971,
+  "possible_duplicates": {
+    "ChIJHa48xmzMQIYRXbEayv9DSzM": [
+      {
+        "place1": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "place2": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "score": 1
+      }
+    ],
+    "ChIJiXjaSBPNQIYRE2a82Kzr7yo": [
+      {
+        "place1": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "place2": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "score": 1
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.6596678,
-            "lng": -72.6837352
+            "lat": 29.6567966,
+            "lng": -95.2311358
           },
           "viewport": {
             "northeast": {
-              "lat": 41.66116117989272,
-              "lng": -72.68249782010729
+              "lat": 29.65822932989272,
+              "lng": -95.22986467010728
             },
             "southwest": {
-              "lat": 41.65846152010727,
-              "lng": -72.68519747989272
+              "lat": 29.65552967010727,
+              "lng": -95.23256432989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "40b833c1c89d2193941963762e547dbe8981a867",
-        "name": "Capoeira Brasil Connecticut",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
+        "id": "a5b3920b7f07ae75be65f3b7f09b592c127696cb",
+        "name": "Grupo Cafu Capoeira Association",
+        "permanently_closed": true,
         "photos": [
           {
-            "height": 640,
+            "height": 1800,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100034839602342264717/photos\">Capoeira Brasil Connecticut</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/105895549388952730936/photos\">Grupo Cafu Capoeira Association</a>"
             ],
-            "photo_reference": "CmRaAAAARDbyzaLi3FjlsbbQKXU1S4eiepb3CVNItNIohgdULf9k2I_7yYyY7pSoCq3AEaIxo6jlpXzqG9Gpj1vwr2-LrDvirboxEBQHs8TGeUipi9PSSJ77XnpmweG3s4lDB-vSEhDKEJ4UYwLNNFiAps_4bV6PGhRVAVplAWz8hxAXg8P3xXvuwwao-g",
-            "width": 960
+            "photo_reference": "CmRaAAAAk7A8MAvi0TXaOGl60jtrZ-F4n9W3EOEXq0d-D97lzLeqXBfoH_xMrZH8HoI_JNtLomArHpm9IanjEfNKvY5MdxkNaWcoGhz8UcNJm6yBkZEu--_uwzD7NAeMBDNxYxFrEhB50cLCKNfPyp6HBbBXkmtDGhQCFY8tHYH0LXduGe4r-Qjn_JE5Tg",
+            "width": 1200
           }
         ],
-        "place_id": "ChIJJUFquh9N5okRRTO-3NY42X8",
-        "reference": "CmRbAAAAceAqmByiUL3-3XzuxOqyp9MM3EV2uyYUD1mkpDez0TOuUqjl0ge3nFJAjqIi1YmvbmjbUtWkvdgG88YGzrJbJc0No9Kk_HPc0A0yfyVSXQKrb4Gm0HWowGH54KqlBET9EhAUp0KQQ_ZR-tpuIZeS6sqMGhTCS57AvmBiWOuz15WuVBXQTkba9w",
+        "place_id": "ChIJR5-dWYmXQIYRoS2C_QLhu7E",
+        "reference": "CmRbAAAAjtJOx020BV090dKwocEsx8RbBdLgu4jXxKI5fjtJs6IatwHuFa_0zVFbh3PTZ2Xq3q2LUgmtURdhoSs8jCpMjaIG7GNW8kUnh86HltG52gzH5jj07iXTBUm8NKKW13QQEhBPMxAkzwrqFC8jMzNqX_1dGhTwY0AH5zprvgoHu1v-nq-Yf0SHMQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "512 Wisconsin St, South Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.6209038,
+            "lng": -95.22299100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.62225362989272,
+              "lng": -95.22164117010728
+            },
+            "southwest": {
+              "lat": 29.61955397010728,
+              "lng": -95.22434082989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a7697a61e3a9fab948c942f83a5d0765649ece0f",
+        "name": "Grappling Zone",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109650103244438936139/photos\">Master Jiu Jitsu Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAArlwlBWd8AzHutGA1XTk62MHv6wwQRlme-9l6eDCZOMerag8HjLbyr9-j_mS8fpLBDrdXd-KsjkUkGJ7Kmt03h5KfgksaB6ZzLWkXTvGQ8NYEu0XME-Ljsijg0JOJEMQiEhC5qit4derf8keUUYMx6nhuGhQKcMNvd3JXz9jiDvqfgj68l3oauw",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ-3EC8m2XQIYRU1stB8Dx_Ss",
+        "rating": 5,
+        "reference": "CmRbAAAALFK9vXvQxhkPQIY1SxUFF6jkfR8Ly8lBY63jh3EM7-DmP8LGkWvxweC_dUiVkbGiobKGAI_YPpg81TEjUAO9JEWH30ALzFdZz2xD4rcRliYKk9Jmonr2CvJNwD3-OjzSEhB1O1GFAhBv_orST3Kppzm-GhQkr6rjIxbt6rLnS6MgFI7G8hx2Rw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "154 New Britain Ave, Rocky Hill"
+        "vicinity": "12260 Gulf Freeway Suite A-17, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "rating": 5,
+        "reference": "CmRbAAAA6Hny53JwUwaukpIHMAKLJ5ZQQQ9PMtu8bTasann-dbrBQlww0eoAKI2nxYU7qHr3vl25US2lGQeYN7j8ynTmUJ_SBe3j96jA39zv1G-WSfsPJQ4RV7NcZP6BdEqgNblZEhDKQB-d7jjtmS2ieotsFwEoGhTQq2gaQ57yCdiEBVKDFe7Df5tvhA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17050 Galveston Rd, Webster"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.790332,
+            "lng": -95.37496900000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.79182457989272,
+              "lng": -95.37362152010729
+            },
+            "southwest": {
+              "lat": 29.78912492010728,
+              "lng": -95.37632117989274
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "da46b36452ecd8e6130dd7a004daad5307eafd82",
+        "name": "Brazilian Arts Foundation",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106627875786740751644/photos\">Brazilian Art Foundation</a>"
+            ],
+            "photo_reference": "CmRaAAAAjuddFKSXIkI2ebnCX2R2oCQPf54Jm-RfZE2njb1ouOY3JLNddXjNMrsBifnvqk7iuUrZnFonNLAzg602YvxAMpvGerS-xYcT_3JaKKITjDs-RTPYUPV7Ksb8MsK7EeYPEhADTpAd3ycsdwFtsxgJ7N_kGhT3Bu6BcSMeOlhhFb_J94iSz7y84g",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJweVywKO4QIYRBbGZt2oyBFc",
+        "rating": 4.8,
+        "reference": "CmRbAAAAML4oh9m3zc7JiLDr6BICSX0p7dTI04cr7Mm8bjib2jBVqZFFRodVjO1-SSXNp-9qmOH2Uwrt_k_HK6trd9n_15N59dlE4_2Aj8dAORWP7uJQY6iWHAEAOlUQSZTwG8oKEhAjjINQvHMTHjrcObD81pQmGhQW9CRYFJY4r2CpddMI4ADUCSMn8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "316 Pecore St, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.7368635,
+            "lng": -95.47904659999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.73801432989272,
+              "lng": -95.47769527010726
+            },
+            "southwest": {
+              "lat": 29.73531467010728,
+              "lng": -95.48039492989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "055d7004fd6670554c175b7411e09840d96059dc",
+        "name": "Capoeira Luanda Houston - Graduado Paraná",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJm5ZFi9jDQIYR7mEhepYRFxw",
+        "rating": 1,
+        "reference": "CmRbAAAA_hssln31GZ8kuKW9sw1aggEt6dB-Ilr6OgCZJw5u60r-xR_JfJ9M-LD_aKN7vXnixrQufhe9urop9R9KZKHkpX940X7U6T5-dSCG1DZ786j1eSnqY-Vt1DiXLexPy4tZEhCT6ZoQPQzXUgsIHr7UVc6XGhRPVeKVYsprH2XJKsTYVRmuDFKkUw",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5704 Val Verde St #2, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.9979223,
+            "lng": -95.5093029
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.99904987989272,
+              "lng": -95.50779102010726
+            },
+            "southwest": {
+              "lat": 29.99635022010728,
+              "lng": -95.51049067989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dbb67b8c95b5054e06a002441a3c44defb826bb",
+        "name": "Grupo Cafu Gingado Capoeira Houston NW",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "rating": 5,
+        "reference": "CmRbAAAAmNW_qbRJZOuwAU6qt9MwQMkvh6rJj2JVT-2MrsDINCkn7cg2xn85uFkqAxkijul2K4SJjGYHZvmpwV5FJ85SEyfCGzXL592gsd5C7il3BbCZegtC_tBLEa-zXUbeXdy6EhAqtQDNd8g_eXnN8RArkxnCGhTvwCVXHQkMZX5tDgJlC-cJ5CR7AA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4622 Mittlestedt Rd, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.8682608,
+            "lng": -95.6443999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.86962197989272,
+              "lng": -95.64341037010729
+            },
+            "southwest": {
+              "lat": 29.86692232010728,
+              "lng": -95.64611002989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fe7c31cddd744f4055f2ddf3024b728fe8490115",
+        "name": "Aruande Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1671,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101848570030577251642/photos\">Aruande Capoeira Houston</a>"
+            ],
+            "photo_reference": "CmRaAAAAKwHuQveYuyu7WHKoRnRaQ6e5oHQG0XDwe8dejmqmFAh3RkPLBQXaN4rwTTeRuzRKqnR9cOd-T9n4GpNkOQd0G7XFk71npQtvjFkZ6jsQ_9u3k7UHJ8pwsv0CMn5ehkRnEhC9zoU_dtdp2bIRAi95NyE6GhS_AwYix94XKfnaoRHEbH3uwqBAhg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJOxyLwPXZQIYRcSVfrS3bOGs",
+        "rating": 5,
+        "reference": "CmRbAAAACNX8wozbT3L8l9kz_SxHkkna7uutFwDuyz9CuSuU6PHEbk7jtrSgYn4eTyC71isE9zh9lJWnjAHEZ2EEKzPNmjoaDowIy_fvpcaCWJkYNuSQS3fSmrC0b0ODO0IlwFf0EhCIsYUWpnpZeOedsuJzHX6TGhTNGEYZF0agZdfI_UcUN7SwKUP9cw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6110 Hwy 6 N, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0537462,
+            "lng": -95.4859829
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.05529592989272,
+              "lng": -95.48478202010728
+            },
+            "southwest": {
+              "lat": 30.05259627010728,
+              "lng": -95.48748167989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c49a6518a1f5ba4b9e3fb86fb481d7014a447a56",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111199821320638009630/photos\">Jaguar Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAAKFq5CQXSN6voA5FioMrSiGJxJs6uFulOjZP-Vf3uS8vyYAqpV34MQT5FNEzVIv7o5PJo4-1N8sgi0BMC_Rg3hK-prbsSNsJz3m7jVKV_Wu_JgNsKAUKfkk7_f4gCAqnYEhAjmfKfNM2WvuJqI2L8Cv1oGhTz2v-XLXiZaNhQXmQUkWZF1x3KWQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJHa48xmzMQIYRXbEayv9DSzM",
+        "rating": 5,
+        "reference": "CmRbAAAAfQTD0umLf-lKSn1fY19XPPJrmxe88wBIFN8xmTO1qz6PfxEf67stp6GxqQmf211iy2sdzVE2Z0TAaIRy7KaoyutUBGH9_nQoBGR2awrTjFkCatVTxq1TAMkNQfkAfWNgEhDg1zfylWUUwEiwPw25p-JXGhTGQGargB_YmkWI7FzZW7LQKmIpUA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Rd, Spring"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0538019,
+            "lng": -95.4860411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.05532047989272,
+              "lng": -95.48481702010727
+            },
+            "southwest": {
+              "lat": 30.05262082010728,
+              "lng": -95.4875166798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f852fad29fe28a931cfc0e0295bc62dced4b6ef3",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJiXjaSBPNQIYRE2a82Kzr7yo",
+        "rating": 5,
+        "reference": "CmRbAAAAgtxk9TOtUFq4SisMbX0P7k625DQecw5vHgcpxOc0HamqLVN6Afy3dFeQGmbE72BeUH9B37t78nY9MA4UP85VqduAVOS88PbgOWO2qUAYM2ZukXYNnKljFKTtWqiN2VXWEhDzhZoJbf1eaM0uJFCYShecGhTSbq2tzametabKfoQAaAFj6VIciA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Rd, Spring"
       }
     ],
     "status": "OK"
