@@ -1,20 +1,112 @@
 {
-  "city_name": "killeen-texas",
-  "city_rank": 185,
-  "city_population": 137147,
+  "city_name": "frisco-texas",
+  "city_rank": 186,
+  "city_population": 136791,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.1171194,
-      -97.72779589999999
+      33.1506744,
+      -96.82361159999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 68396,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.0863724,
+            "lng": -96.67050259999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.08797362989272,
+              "lng": -96.66964067010727
+            },
+            "southwest": {
+              "lat": 33.08527397010727,
+              "lng": -96.6723403298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a48c4d918a190373db68f0a79390f41fe9a22ea3",
+        "name": "Capoeira Allen Martial Arts Club",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115419137930175066115/photos\">Valkyrie Michaelis</a>"
+            ],
+            "photo_reference": "CmRaAAAAuv-VkSLs3U0kwcsjQ3ZNxdLlLfMeseyf-6yGLP-_D-FCv9sVOzn4_Vno3JhPbVpadQpgdqhjyPd6LQ8YwxOLXI2Uboa7drb3U626o6xVJhAuInx2ta21vGpAoadhCLWuEhCjmkfl0yGyZHRzuNbBJ5e-GhTIWt9oMgTLQGW1o5Yk4q9tQ4Duqw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJd09VcckQTIYRsuk_5ZByrOY",
+        "rating": 4.4,
+        "reference": "CmRbAAAA9h4W9MvLDaDOOZHbDu_l9Yzw2fqDjDzGGFF3DPG35W1T359nM_4hQEXQfEkxPZ3fZI2f-ShVHfip2guh4FKLaiR6M-tAkN9w2Of0YGphw5L5DmaxuW9-xGh39PT57GgEEhCcfCcRZt8nskojeFqoNo0QGhS1gsLXlS1ZsyCVQrl0UCHZuj2AuA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "801 S Greenville Ave Suite 113, Allen"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
+            },
+            "southwest": {
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAA7wGPKwJg9zt4o7ICZFimBYBi8-wafjL9SpKNGgP42oKo_lrE6Wi5aIDl2Mr9ZH3wUJoLH84YObxX8GwGd27WpB9xX8KRXSvnzhwLcTtifH7Vy6iSN-konaxYnWaCOTh9EhDZzdjXBJc1PKAGCgTHsLeMGhTqnI7imS9qtUTlw6EcXcKQg-EtXA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "rating": 5,
+        "reference": "CmRbAAAAAV9fPEPhSyTPIOmwBUEvt51CXS5CuCid60K27SQUcABYg7EmAdabBkL7D3fpJygCqslT0RmQXyTgiyAtsFcY0fzG3oQ2n-3PGw4bZboT1yZwV-kMOm6lsLR-qOt7tGIxEhAkE6NgWEv9uUb_oozih1XQGhTvINXkl6MySaVaQyySsVcblf-lNw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Rd, Dallas"
+      }
+    ],
+    "status": "OK"
   }
 }
