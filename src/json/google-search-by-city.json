@@ -1,52 +1,20 @@
 {
-  "city_name": "pueblo-colorado",
-  "city_rank": 259,
-  "city_population": 108249,
+  "city_name": "high-point-north-carolina",
+  "city_rank": 260,
+  "city_population": 107741,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.2544472,
-      -104.6091409
+      35.9556923,
+      -80.0053176
     ],
     "rankby": "distance"
   },
-  "people_per_result": 108249,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2508682,
-            "lng": -104.6065803
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.25221832989272,
-              "lng": -104.6052877701073
-            },
-            "southwest": {
-              "lat": 38.24951867010728,
-              "lng": -104.6079874298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9dfde5d575e83a1c7e628f0081e2d5bffa5bf7fd",
-        "name": "Dragon Dojo",
-        "place_id": "ChIJTx81HySjE4cRKbk1juxEUPM",
-        "rating": 5,
-        "reference": "CmRbAAAAbNIVRLVcxgoYAUsZIsUnQ_msNggVU1mo8by9uocsgV8qvTDvWyjitV14OmqOiWxAzceKxLSsraqJDcW3JNu-wRkNPVlwdoBbsKXr-THjlBzfogFzuPtGav0Han31KoTjEhBbEdNzcehZdYD6ivTlrFaCGhQgWFBUyUw3xOZY8arSUMjmk86kbA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "916 S Santa Fe Ave, Pueblo"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
