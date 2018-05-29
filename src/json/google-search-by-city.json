@@ -1,16 +1,16 @@
 {
-  "city_name": "albany-new-york",
-  "city_rank": 299,
-  "city_population": 98424,
+  "city_name": "jurupa-valley-california",
+  "city_rank": 300,
+  "city_population": 98030,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.6525793,
-      -73.7562317
+      33.9971974,
+      -117.4854802
     ],
     "rankby": "distance"
   },
-  "people_per_result": 98424,
+  "people_per_result": 98030,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,47 @@
       {
         "geometry": {
           "location": {
-            "lat": 42.6883967,
-            "lng": -73.7990902
+            "lat": 33.6809383,
+            "lng": -117.7790654
           },
           "viewport": {
             "northeast": {
-              "lat": 42.68974652989272,
-              "lng": -73.79774037010728
+              "lat": 33.68196667989272,
+              "lng": -117.7772231701073
             },
             "southwest": {
-              "lat": 42.68704687010727,
-              "lng": -73.80044002989273
+              "lat": 33.67926702010728,
+              "lng": -117.7799228298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
-        "name": "Pil-Sun Tae Kwon Do",
-        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAahTpG7K2HzqTGQc2dhiGfw3p4O4mObDpMC_9ZIA9RBujLen4uPxEadA0RgbtYgnMo3x-lR6HMGRGxzBmejNTK7LMDTPdz3mBOODNCQmIrOdANRXInHCfF0PzkjSSptFCEhCtA6EGtJIAkA-nVcvOOtz7GhSsYRA61JVDM3-VLvdiuYgiPFaXZQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
         "rating": 5,
-        "reference": "CmRbAAAAoEcJy8NNjDSN-YyClHKvG1JKXiB9Vb7gJt8Ncu-1FGz_ov2KHKUKmTicVWFQUQnagh9SSLRfsUHAFLjdP9pSFVCSPAq42JIODtoEAiASGBNFaAiDR834ETx5-ZMUtAyREhBUxgSsZRF7mpGV6xHMp8sKGhSmAS5qbSub8NsuP7JhPNmtr18MOw",
+        "reference": "CmRbAAAANNj22QtwtSzo2U9h3bXdGRdEtHzSOKhaCgzbbYF26CzlqUFuTo47TX2SSdUsFkQZinlxa42gvvfiz1NcCloqnNNinTxGYiywDHNu-m1l2KfY5kvkM_hdwsnPlUUMbAb6EhCShm3KbDFxy5KFFiQXPsmEGhR_IqwyRBRo9MxaXVyH59HCVU7wQA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1095 Penn Central Railroad # 3, Albany"
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
       }
     ],
     "status": "OK"
