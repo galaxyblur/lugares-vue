@@ -1,16 +1,16 @@
 {
-  "city_name": "fall-river-massachusetts",
-  "city_rank": 349,
-  "city_population": 88697,
+  "city_name": "chico-california",
+  "city_rank": 350,
+  "city_population": 88077,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.7014912,
-      -71.1550451
+      39.7284944,
+      -121.8374777
     ],
     "rankby": "distance"
   },
-  "people_per_result": 88697,
+  "people_per_result": 44039,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,42 +18,80 @@
       {
         "geometry": {
           "location": {
-            "lat": 41.9014142,
-            "lng": -71.0900285
+            "lat": 39.73172650000001,
+            "lng": -121.8399269
           },
           "viewport": {
             "northeast": {
-              "lat": 41.90286927989272,
-              "lng": -71.08866777010728
+              "lat": 39.73297977989272,
+              "lng": -121.8385505201072
             },
             "southwest": {
-              "lat": 41.90016962010728,
-              "lng": -71.09136742989271
+              "lat": 39.73028012010727,
+              "lng": -121.8412501798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
-        "name": "Capoeira Studio C",
+        "id": "d96e9379c534c463568799a2ddca11217198d3e6",
+        "name": "Capoeira Malês California",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
         "photos": [
           {
-            "height": 590,
+            "height": 387,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106867872254622596298/photos\">Capoeira Malês California .</a>"
             ],
-            "photo_reference": "CmRaAAAA89nL07qAG_SZPVDuIjsuoaesUDC6d4o4f-N1KkCqSKnZY9Nrb__by4A7r97tB-hrA8-KK29v4Iy5kG1yk_SbduyzQy3BeKvXaTGE-dMdDFTll5wgkSOSvnQc13VszLuaEhD2oyquqYObP3wzbRMCgaPyGhRRjjmy0iwF3ujyNyw2p-uh3McG5Q",
-            "width": 620
+            "photo_reference": "CmRaAAAAVRWs4euU0LO2anSqsM7ePFVJFXvvs4xfB0Xmerba9bFYBEhGSsvsqWZW6ctIVm10zV6a_gNJZbKFHTbw34HVy_A64_53hqGdXoJ0JYtBoroPwU_cxyerJiE0Qq6kDJ9JEhCEmLJqy253FVSEkb5E6F5OGhSozPkx9gp8D0Zy99pce_0E1W7Ztw",
+            "width": 600
           }
         ],
-        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
-        "reference": "CmRbAAAAWBS8SAvIdx9ohBkjxSyq-h5f8LeSuyM12JQXWZj354a3M7iHqUoQCpynJXrdQaMEs8kYbGLNdclmH_oy-ITeOuYOXkAPsup9Ieik9j1ZQq-PGvso14fVGoMcaEoyC5LdEhAIaePOyjB1KgISgsHxzgJzGhS6MbGfv1o8p-_QLk0xjugQzggJxg",
+        "place_id": "ChIJewli0rsng4AR32dgC5tWeVs",
+        "reference": "CmRbAAAAAbqVIQ8bf6WFK8J3ZDjZhb4fPwQSh1PDknQMzvpdnNoJG_YqVVEV1gnRa9JLp4usYxYQ7QUm0iiiD-HWmEyVTdY1BuMaskK9IwkIdi-KQ31J87586W9gKa8cQZDSvtZ5EhBsPCzM71P1EFGVEs0ZQVcoGhT_SAOVFoa3T44NVTvo56DZQ3hAcA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "85 Main St, Taunton"
+        "vicinity": "254 E 1st St, Chico"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7416598,
+            "lng": -121.8378656
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.74297022989272,
+              "lng": -121.8366121201073
+            },
+            "southwest": {
+              "lat": 39.74027057010728,
+              "lng": -121.8393117798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "deb27964bd9ba509ca0d105d5c3c815a59002ff6",
+        "name": "ASCAB Capoeira Chico",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJJT1qNpQng4ARPK3CbS4lh54",
+        "reference": "CmRbAAAARD4ycip3wlECIHLxyXHs-WUxOyoqjnztL0QMxpoixm_uXx6_vNVS3gHfjmmOExDzDq6Ph4CIMrpMjUPMitF8gP_k7e4X0-Ie2a7iE002qOZfm-knj7KKZyUkJ0ZX0Vm1EhDDp0HrtC4A-qA-_3ugX3hJGhTQd9dkRh-sv4u3YMPDeU0xg3e7tA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1108 Mangrove Ave, Chico"
       }
     ],
     "status": "OK"
