@@ -1,20 +1,62 @@
 {
-  "city_name": "indio-california",
-  "city_rank": 382,
-  "city_population": 83539,
+  "city_name": "concord-north-carolina",
+  "city_rank": 383,
+  "city_population": 83506,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.7205771,
-      -116.2155619
+      35.4087517,
+      -80.579511
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 83506,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2196774,
+            "lng": -80.798678
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.22081437989272,
+              "lng": -80.79735742010728
+            },
+            "southwest": {
+              "lat": 35.21811472010728,
+              "lng": -80.80005707989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d948b56efce10724fd5fc68788e9876c08859d39",
+        "name": "The International Capoeira School",
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109089230800118934888/photos\">Nathan Hayes</a>"
+            ],
+            "photo_reference": "CmRaAAAATTgblSlVOR3Oo2PVPmlfK37gwlYkeYEx2lZlxaAG4bXsqWlSD54kh943UXoZDU0mprzEUIi6DI3BVVLmqgRHMW0C4DV2XOI-ALZTvXuTmZvUsBQfWh_Bc4g7GKFFpjLtEhDdXsvZHpC9fl-c7Vw-EnLNGhSv0pnNT3uAaxWqaHab9pipAC98uA",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJ9yk9ZvcfVIgRT79rJBbb_eM",
+        "rating": 5,
+        "reference": "CmRbAAAA6hRSY23KpkD946HRBvgdCrRvDsq6cU_E8095d2WOFJ4EzzLu8eS8k0xfo8Ge6pQYRXyDcWRVYdNMxNA6iovnQoD9XefxrDXcYo2LYSfUISEoXEFnLGUPBHT-2i-S7mQREhAbeMFafi-nV7S8Cv_u1BcrGhS6fseDcwoCSqMuSOYZsUSnbXa-bA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2609 Central Ave, Charlotte"
+      }
+    ],
+    "status": "OK"
   }
 }
