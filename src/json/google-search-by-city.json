@@ -1,51 +1,20 @@
 {
-  "city_name": "merced-california",
-  "city_rank": 400,
-  "city_population": 81102,
+  "city_name": "mission-texas",
+  "city_rank": 401,
+  "city_population": 81050,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.3021632,
-      -120.4829677
+      26.2159066,
+      -98.32529319999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 81102,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.5144891,
-            "lng": -120.8260116
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.51582202989272,
-              "lng": -120.8246620201073
-            },
-            "southwest": {
-              "lat": 37.51312237010728,
-              "lng": -120.8273616798928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0ec2a8ac24b70abbb1e6aa16dc62348dc61f52",
-        "name": "Central Valley Capoeira",
-        "place_id": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
-        "reference": "CmRbAAAAMpFoQ8y2_7il6vK6xZwLk7oQiNIFf8hXpJLWAHGs2GRruMUNC9AwzV3ItrsqVtanRDa_OlAUNiYi9qs9jxBKvZxzzHH3aEQjO4xt3Qvqdgloi_RzJhpO2AjGmbn0oA_9EhBjnoYs0POVA6uiwRKX7NrTGhSbi2dX-M83qXyfIvWQwxrjsu6u1Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2006 E Tuolumne Rd, Turlock"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
