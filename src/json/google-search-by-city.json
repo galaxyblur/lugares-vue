@@ -1,20 +1,93 @@
 {
-  "city_name": "appleton-wisconsin",
-  "city_rank": 456,
-  "city_population": 73596,
+  "city_name": "gastonia-north-carolina",
+  "city_rank": 457,
+  "city_population": 73209,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.2619309,
-      -88.41538469999999
+      35.262082,
+      -81.18730049999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 36605,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2640118,
+            "lng": -81.1834842
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.26524472989272,
+              "lng": -81.18213307010727
+            },
+            "southwest": {
+              "lat": 35.26254507010728,
+              "lng": -81.18483272989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "49b57787082928752521fdc623c7a1fbf0a4f842",
+        "name": "Equilíbrio - Movement Culture Center",
+        "place_id": "ChIJL2w7GxXAVogR5TYJlSZggmo",
+        "reference": "CmRbAAAAtzBtYwAVW16ESHCIUeZNg7InH4EbqNfuHIZgm0jBuStYiSw6sxcFIHCVoLK_D4vT7d2h0YUIOu_dQJILOjEPwviOivW82kDxQcYk3r7AUkybgyq90RfubwGwHHqbgarREhAUMyDZg0DZ5iw-KjF1j7r-GhS6uE47PMwTHV1mKMdd9tu98dFBog",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "182 W Main Ave, Gastonia"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2196774,
+            "lng": -80.798678
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.22081437989272,
+              "lng": -80.79735742010728
+            },
+            "southwest": {
+              "lat": 35.21811472010728,
+              "lng": -80.80005707989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d948b56efce10724fd5fc68788e9876c08859d39",
+        "name": "The International Capoeira School",
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109089230800118934888/photos\">Nathan Hayes</a>"
+            ],
+            "photo_reference": "CmRaAAAA9EMjhqriqsZrI3cU1TVmFy7m8gqH1Nb2UfdxQ6rFQhnpWbVJIO8Y_7nDF2D5PtxWtUtvh3v5nvlQI4ojjOPLXaA0mJejowzg3zPJyYkA3MCvbJCK1y30I3o-SSEym4SgEhDCutzJ7KiVFXZbfnC8LtndGhQEBc9EZqG7bvEDBqk0DJlrBEuu_w",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJ9yk9ZvcfVIgRT79rJBbb_eM",
+        "rating": 5,
+        "reference": "CmRbAAAAJwtlEKlzx1Zu01VIZs5bMFyjO2QRYBKKD7rhdPqB61q5uS3Oz-pEO6-vS8fnZIFzewbOXV0CQALAhWAZuSDFrCwChddSJwWF9rbCdnmaxKTtnZ8FSuVSeAJ5dQu6-sUBEhD4T4TPeruhDadQMvdzUp9kGhRg0Lw0E45qXpc1kBodgahlsmkTGw",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2609 Central Ave, Charlotte"
+      }
+    ],
+    "status": "OK"
   }
 }
