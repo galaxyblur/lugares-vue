@@ -1,20 +1,111 @@
 {
-  "city_name": "dothan-alabama",
-  "city_rank": 502,
-  "city_population": 68001,
+  "city_name": "rancho-cordova-california",
+  "city_rank": 503,
+  "city_population": 67911,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.2232313,
-      -85.3904888
+      38.5890723,
+      -121.302728
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 33956,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.6097166,
+            "lng": -121.3675389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.61134907989272,
+              "lng": -121.3661851701073
+            },
+            "southwest": {
+              "lat": 38.60864942010728,
+              "lng": -121.3688848298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5725453a83c9d9d87023864cd02c9cc8bb00887a",
+        "name": "Allied Capoeira League - Sacramento",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107896513263160867384/photos\">Allied Capoeira League Sacramento</a>"
+            ],
+            "photo_reference": "CmRaAAAALgaae1_Wn9RH_Mgs3RKIE3cuB6mVYhsQH6X7Oyss31Ps7abJE4JErqRVbt9Q-1sN20LKN4Z3bevA1-J4mgrVWfiISjh9PtywtRKRL6oZebULJDuBEIocjCSATXh_qTQ7EhBWTd_xust73qChT5hr69E_GhShpXIXf5VS2m0agC30GEvtOaUYMQ",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJQWOsQ-7bmoARAuUT05XRRVY",
+        "rating": 5,
+        "reference": "CmRbAAAANnvGqVlqo1l1Mjlj3EUrClt_T_ul8E62-LeBjuuj5YtlhziOxMnOqiwdD0mqtYUyuYIiFLxDY_eCLUCwRnEqS1LrE-PfUEL_JiVX_KPnAvnljxcDUQHNSBP1w_PPIqCTEhA9N8K8wnkU6LtnQjlp5C4zGhQ-MN-G67H0p9rOYWOuwsfWunVUtA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4128 El Camino Ave, Sacramento"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.5701444,
+            "lng": -121.476185
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.57176392989272,
+              "lng": -121.4747144201073
+            },
+            "southwest": {
+              "lat": 38.56906427010728,
+              "lng": -121.4774140798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b9231003fabaf1a1519a8d635b7babd9d7214963",
+        "name": "Capoeira Batuque Sacramento",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110807117384196377979/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAhJqHmFrj4Xa1e1ALOvfTu9Gz2g8dY0-hY4J3mCvq-E8Z2Z02XLUX2cAM-_nh0Ikx9IKi5ZsB0x13UU-DR7XW9JbOO4sPiio-oUrJiYqOiLL-G4HTFTy5NeMoXa-9ErZ-EhBbz7c6VSTQ2SIo5hB_CfS7GhQlmJkfd6KJ0f-dGNY7vQTNO0KKeA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJwZSZx-nQmoAR8R6BRcF0mOA",
+        "reference": "CmRbAAAAFvuYT_VceDV8ZvgFLRStbSTOl8DQ7tzpgrUCvR4AbE-3g8OpBnYfqgq_b9WKwL42mSfgC7udb03ApUqQ-HJ2f31FzKVG5eK8zWqLFXDlrbxUMfKvT-lOphIHoeUVLXRuEhDVi2wmlvGS68yMzNdE6fSjGhTE5CeXBrtb-83ib_aaQfi9c9Iuxw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2420 N St Suit 180, Sacramento"
+      }
+    ],
+    "status": "OK"
   }
 }
