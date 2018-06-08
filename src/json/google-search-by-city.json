@@ -1,20 +1,95 @@
 {
-  "city_name": "victoria-texas",
-  "city_rank": 536,
-  "city_population": 65098,
+  "city_name": "san-clemente-california",
+  "city_rank": 537,
+  "city_population": 65040,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.8052674,
-      -97.0035982
+      33.4269728,
+      -117.6119925
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 32520,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68196667989272,
+              "lng": -117.7772231701073
+            },
+            "southwest": {
+              "lat": 33.67926702010728,
+              "lng": -117.7799228298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAA58Z69Gz_bRis9FhE-VIdgyIGZEZZdJlq7NB2lxVukW6rbI8rVaZbG0Nwa7FiYEPI96L6PosByLEHyIQXBwc-jXvKhJdZ9HshSkt0AGZwoYWQjnxUQF9xcbURvyT2DkhfEhDu2Q4D6jU2lLy70oQ7z5IQGhRTgiMRStTDo0efjh99M4ZeKvY3Bg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "rating": 5,
+        "reference": "CmRbAAAADd0HaPkdZW03KY9oJpXJNLePkxsxVb7WVU7uPRtAns98M9LYbfo_t2DWCW8AW90WeD7EmrY2a8wjNps2Mpdr7alNMhDpSlszHmuqZHxtvBhT4pVqJeUW8ql_dwingIA-EhBO24U4ncO-AatRPSQNSdSIGhS_CWPTPC4BZzuwXWC-wDSkHlBG2w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6550863,
+            "lng": -117.9194759
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.65643772989272,
+              "lng": -117.9179422701073
+            },
+            "southwest": {
+              "lat": 33.65373807010728,
+              "lng": -117.9206419298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c06ddc2b38ef3baf0a885a954b50ca2eddb81218",
+        "name": "Capoeira Brasil Orange County",
+        "place_id": "ChIJNYBpUX_f3IARfLrZ75yCbJE",
+        "reference": "CmRbAAAAjNnrPL28dGZgEuPPv508Em6IoQjGEKx3Fw4Fy0BkmIyRqochDPxHq8aBmrqjxNe7STrrEqIzoahPtZUzhUXpk7BBq-2cXBzY423_YM56cXQiyYqm5wRMgKXHXQLy5pDaEhAgOGt90My7Bc-UM0E9BK6OGhTnUkmHZhTch3WI1Iki0RQgdvDlNw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2221 Harbor Blvd, Costa Mesa"
+      }
+    ],
+    "status": "OK"
   }
 }
