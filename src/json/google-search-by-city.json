@@ -1,186 +1,20 @@
 {
-  "city_name": "camarillo-california",
-  "city_rank": 523,
-  "city_population": 66086,
+  "city_name": "north-little-rock-arkansas",
+  "city_rank": 524,
+  "city_population": 66075,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.2163937,
-      -119.0376023
+      34.769536,
+      -92.2670941
     ],
     "rankby": "distance"
   },
-  "people_per_result": 16522,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.233046,
-            "lng": -119.170956
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.23439582989273,
-              "lng": -119.1696061701072
-            },
-            "southwest": {
-              "lat": 34.23169617010728,
-              "lng": -119.1723058298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1475263a796a1628371a2056c2e1bf734f6a497b",
-        "name": "Ventura County Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115311606692635842456/photos\">Capoeira CDO Ventura County</a>"
-            ],
-            "photo_reference": "CmRaAAAAIKO7XBGvm2XOyEaY2O6ujgrh5zFBMY5I5bgifm0TuRTRERG0aupB10fJbczfGfy_MCTFpbvkcJ6VaRJUZiyqoJtuKH27e35HFZSftMhfwpaS8DuBqjfX6lljpnS3CG_GEhDkzH_J3sUL0_JFer5SB7YkGhQ15TA4Ch2JVSQ7IVIU1PdOhTATfQ",
-            "width": 1800
-          }
-        ],
-        "place_id": "ChIJq2GG0CtM6IARbJqPiCY1dxQ",
-        "reference": "CmRbAAAA8KakH8BL79HWOHPuST2uNcalAhuPzAcQ2ObZ5u-xuKqrCNqYr5aBP7vC5SCAqznoZRpYGEqrvNYfrLwjHVtfgQq8w1ckbRzp8Lrh82ZZ9xgYnOzzpJyZdmRKW2ZBzX7iEhAACWJFBcojvDtI_iSnZBa8GhTxytR3ymD-PivoRHFbMGaLDnHo_A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2550 E Vineyard Ave, Oxnard"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.14605,
-            "lng": -118.8133621
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.14772587989272,
-              "lng": -118.8120138201073
-            },
-            "southwest": {
-              "lat": 34.14502622010728,
-              "lng": -118.8147134798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "049b3f842362227a1b9499574aa4429cf2fae32e",
-        "name": "Capoeira In the Valley",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJUyF0eYok6IARTbMgDfYQbtw",
-        "reference": "CmRbAAAA-oe5RarJCqt9oHbl2IwNIE3cOW5i8YnexjOxoCpYtfM8wYnyk-zk88ZoDYrEEPBjGK-ksa5czABx1uiAQAyv6-QUjUW61I4vf6FboGQYrcpnBVuUgw3yI3gY6YiLMz3gEhBvQ1nkcEwO5CbU5tf_a-axGhQhwl1J5SWBUfvcX_oXLy_PLlEBxg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "31800 Village Center Rd, Westlake Village"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.1957207,
-            "lng": -118.6062296
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.19707112989272,
-              "lng": -118.6047352701073
-            },
-            "southwest": {
-              "lat": 34.19437147010728,
-              "lng": -118.6074349298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2d6af9d62aa4a41f59015254b01d06ecf1fe2b5b",
-        "name": "Valley Capoeira Batuque and XL Eskrima Martial Arts Academy",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111364840243296086086/photos\">Francis Teran</a>"
-            ],
-            "photo_reference": "CmRaAAAAtL8fY1k5gY_w4LabJDpyFxmGyRgeUqsPbQeJ9bHno4lrftzF0E2fdfgk8rAdGN77U0ibJrH04RZOyr8x9rKWo9hykWr6-Zs3qwtPPsGJTNmghb3_KAeXDJFCBrZNnPW-EhAe23KkV3NRdQykfNvw7zWRGhRfXg15XkHn6RGOvPR56-w2qmH7aw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJ32pGYD-ZwoAROTUtZd_z3JA",
-        "rating": 4.8,
-        "reference": "CmRbAAAAyerzUvRlbjvyz49hWcy1vAKWhyyn7HEHyHHmx5RBdd1OsQkOfKITTfZCHaJdDNWalT7fP2wFWkvBli2Nf3LhPqMmFuA-V8A8dhijBeKokeJXFTIxzaYJ8vhLQfFEfIFjEhArAmJY2ztdvFP8aqJQVpSDGhQvRYZLDETxfGjJN7U2Zitj9uULJw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6901 Topanga Canyon Blvd, Canoga Park"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.1956971,
-            "lng": -118.6061257
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.19704692989272,
-              "lng": -118.6047758701073
-            },
-            "southwest": {
-              "lat": 34.19434727010727,
-              "lng": -118.6074755298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "34c06c01469790a3403b4f54ee3dc01b93c4fe03",
-        "name": "Capoeira Eskrima Brazilian Jiu-Jitsu",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111364840243296086086/photos\">Francis Teran</a>"
-            ],
-            "photo_reference": "CmRaAAAAKoeZhkxx_AgKLbfISXJvAwd7E9M89kdyL7kV1smrom2JwxXUtm1yO1aUTy1JkzjP9S6Ui3_JrAJqkrN6znXId_xUsPUTuLB59OeqFpS4MrQ0pHFjLbZ65XFNRnfnv78EEhAr9qFJsZtCGufI-frbORLLGhRAPQZadfhHLHrLPh5HSJh40XofGQ",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDfW7NDycwoARn3-sxn1tdFI",
-        "rating": 5,
-        "reference": "CmRbAAAAk2SzVjjQgtjYqC1bRTGzUuNwUMyzhsrzE_qzEKUEQnXgOmXtFid4qAaVrGeWbfiSXzwfOXtpMMieSMI5roisnOliJilF6nANOV_olCvVdBk6ZsJPEV8Nkvh8pOfYhDdbEhAlx9sOfKeIyGuUdpFBFq6DGhT68cWj6fw-zDdmg1IWnf2e4sc1Rg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Canoga Park"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
