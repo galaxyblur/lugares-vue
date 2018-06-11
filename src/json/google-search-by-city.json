@@ -1,20 +1,111 @@
 {
-  "city_name": "lancaster-pennsylvania",
-  "city_rank": 605,
-  "city_population": 59325,
+  "city_name": "north-port-florida",
+  "city_rank": 606,
+  "city_population": 59212,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.0378755,
-      -76.3055144
+      27.044224,
+      -82.2359254
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29606,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.2993271,
+            "lng": -82.47517580000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.30076347989272,
+              "lng": -82.47382642010727
+            },
+            "southwest": {
+              "lat": 27.29806382010727,
+              "lng": -82.47652607989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4548fc5ca39425d9fbb538f038883e964f0476e3",
+        "name": "Capoeira VAM & CapoFitness Sarasota",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105473484253125650275/photos\">Capoeira Volta Ao Mundo</a>"
+            ],
+            "photo_reference": "CmRaAAAAQo1OyhPG6MWETRLB0-3h4MRUY6V08WpSTqqlMO86rMxq0XIJi9Ip0CCpALQ0miz_232cXrRQDG_0MHiKocj9fBcox3WQp6uUJtpKVmbXK6vBvgocTRAOPg60NwJH1fwiEhACtgO0LhrOHOZKMyKKHCrsGhTHCiKkXf9qC2iiad1UYyEjpLDQBg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJK3h0TdVGw4gRgDBg45OU1Hk",
+        "rating": 5,
+        "reference": "CmRbAAAAkvzprUPuR9CddSRyCTJxJd_LnunP67cILtfxZHuRyyb16ZypJhyBX-LvKG2Ynbi9ykM6jYgRUpj10Qf0v2AMdxfjbr0Ge6vmglN-RI1XyFx6LJwOY9KidGBi3WAh_FekEhCKonne8V_INt9pJ-GQByWXGhSbPdoTtPRvA1SV9juS4LbC9SmTKg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4672 McIntosh Ln, Sarasota"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.4305309,
+            "lng": -82.42595299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.43212887989272,
+              "lng": -82.42460932010728
+            },
+            "southwest": {
+              "lat": 27.42942922010727,
+              "lng": -82.42730897989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1f0fb6fd4a9b44813695579c6484eaa90e96dc49",
+        "name": "Capoeira Vam Inc",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106760776227634529528/photos\">Capoeira Vam Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAGtLLMwVuupT-yBfUYy2YIKm3JcPj-gAagTl6g0M-iaeZ4SmjSwwhbqCeKxfnjEHmNtCg-dUg07HVTpr7RuTU9wEpdtK09D7f00lBz3yzu0A1uOIclm_HbViVXWIaI4eAEhC7STm7FnP2RyhtrNo9ivNBGhTiPEb3Vnc5b46xaTQhilYr4-eQiQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJWVF4oIY5w4gRwqywWK7JpZ4",
+        "rating": 5,
+        "reference": "CmRbAAAAU5NIMObtx-PSM6V-bxssSVYaVFLtL1W8ix1ZsWb_hy8n_0skcB0s9kaufV5kqS3AkBEwjYKYBRk6rXswTcxQo6mgUpXrpRJil_JeWwSanrh2d-09iPBs1Pypfi-YP_hDEhCSouo7Chtd4w1q7ZpXGVNbGhSQgepI8M-e1HGe-GCSTRxQ_1IHcg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "11534 Palmbrush Trail, Lakewood Ranch"
+      }
+    ],
+    "status": "OK"
   }
 }
