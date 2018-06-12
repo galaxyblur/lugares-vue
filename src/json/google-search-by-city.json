@@ -1,291 +1,442 @@
 {
-  "city_name": "la-mesa-california",
-  "city_rank": 613,
-  "city_population": 58642,
+  "city_name": "orland-park-illinois",
+  "city_rank": 614,
+  "city_population": 58590,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.7678287,
-      -117.0230839
+      41.6303103,
+      -87.85394250000002
     ],
     "rankby": "distance"
   },
-  "people_per_result": 9774,
-  "possible_duplicates": {
-    "ChIJiSjGsgar3oARQ2zFrveYGU8": [
-      {
-        "place1": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
-        "place2": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
-        "score": 1
-      }
-    ],
-    "ChIJy7bBTAGr3oARxUHY0XW_GUA": [
-      {
-        "place1": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
-        "place2": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
-        "score": 1
-      }
-    ]
-  },
+  "people_per_result": 5859,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 32.7101975,
-            "lng": -117.0590912
+            "lat": 41.8803115,
+            "lng": -87.6375316
           },
           "viewport": {
             "northeast": {
-              "lat": 32.71161552989272,
-              "lng": -117.0577547201073
+              "lat": 41.88166232989272,
+              "lng": -87.63590797010728
             },
             "southwest": {
-              "lat": 32.70891587010728,
-              "lng": -117.0604543798928
+              "lat": 41.87896267010728,
+              "lng": -87.63860762989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "28d1c284ccbac75f0528fd7a4b4cf928998e2d58",
-        "name": "O S Malandros De Mestre Touro",
-        "place_id": "ChIJSQ9CV2xR2YARW-JXWrSHnwI",
-        "rating": 5,
-        "reference": "CmRbAAAABi1e2OM6HaxIYEBglmY4FFqC7fUlWi41jVoZaHv9E-kjpzTHiJ-brqIr-Ouvtb77ciyt8ws-u_4JKH0fvRfpLXbOnmeCevibJGAUliFkg_jRfYmILJ8NulK8q_OkCy5LEhBabulPAXA8wB8ihg4hMpofGhRV_SsP8wRCZ42MIapRobseHjYMrg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6429 Imperial Ave, San Diego"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.7499792,
-            "lng": -117.1305026
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.75133027989271,
-              "lng": -117.1289836701073
-            },
-            "southwest": {
-              "lat": 32.74863062010727,
-              "lng": -117.1316833298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9d191f0c3afcc18a8612e51be41d7f75c4800a3f",
-        "name": "Capoeira Luanda San Diego - Professor Massapê",
+        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
+        "name": "Omulu Capoeira Guanabara",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
-        "photos": [
-          {
-            "height": 639,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106228684795441631674/photos\">Capoeira Luanda San Diego - Instructor Massape</a>"
-            ],
-            "photo_reference": "CmRaAAAAXZz0kdBA9zsxUUURy0kbpBli3TLglDY49gDFG6wwT0GF7pSEfdS676pwXszIZGHfk3Tf8gMkYhAdIvxo5EY5qMoEQa_AdhYOUVHOx_GIzg65nONHTzIfiJlPGmwRTAqfEhBd8X1a6KvcYS_UtpN4cGpQGhT7e3n4y0quSAlrn6ankOotjYRYLQ",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJg9ee7_ZU2YARHkU7tq307Js",
-        "rating": 4.9,
-        "reference": "CmRbAAAAm68cf-h2Y7Ahn5nfYohq9eJ3ft5cF1akgCl0N677HDCLtCi2sV5sZP2mRyCEatsmoFKq7Br3oeQk_R7nlLM50laIdGRJf4jyJsCRoz4vmQf7lEpiUE9j41w4GAbvkJyVEhDZYWtMlv7FWMRMukwZmDSNGhT0jKBSveBO7Pf_uvopoQypeoIuzQ",
+        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
+        "reference": "CmRbAAAAtbc0m4vMyvhKVT1ZqStR8PUQ85XDkqpV-oPeij3SrCMcXHpXt7JOoLgFg0se3t9wr_sFMPFGPXiGAsUlp1WNb8vrAxtis0EtVqYJZPO_4Fvh0FhPDJhhAQhGRa9ho0onEhCmiuHvTN5FtwScBW8aVT9nGhRA1Q264T_XGsndTAGQcgVDYi4X6g",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3980 30th St, San Diego"
+        "vicinity": "100 S Wacker Dr, Chicago"
       },
       {
         "geometry": {
           "location": {
-            "lat": 32.7161867,
-            "lng": -117.1589781
+            "lat": 41.8959299,
+            "lng": -87.66653989999999
           },
           "viewport": {
             "northeast": {
-              "lat": 32.71753397989273,
-              "lng": -117.1577750701073
+              "lat": 41.89736097989272,
+              "lng": -87.66519237010726
             },
             "southwest": {
-              "lat": 32.71483432010728,
-              "lng": -117.1604747298927
+              "lat": 41.89466132010728,
+              "lng": -87.66789202989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "55a950a0518ff0f37f08921b02c746e88a7b4220",
-        "name": "Capoeira Bahia-Brasil ~ Mestre Pelourinho",
+        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
+        "name": "Axé Capoeira Chicago",
         "opening_hours": {
           "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 480,
+            "height": 1257,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105227246352743272796/photos\">Capoeira Bahia-Brasil</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
             ],
-            "photo_reference": "CmRaAAAAwK7ikHyNka1JnLfC5ukuNdxsQw3m2xW39u8Bu7v_rGiwUaIWc0jSTymAkABBTqn9Amqa6rpeZpygOsh1BUh4ng3v2idORM1ywBG6jlezGL_o06-PEWObNU_rWiM_Xgl9EhD-THsSkikmCJutaZ8rCyXCGhTgXAGTDXppLEXFvvkDWGZX-SxYWw",
-            "width": 558
+            "photo_reference": "CmRaAAAAyWW9uyToF6riXc7NILZEMzLj2WWg-gk-8vdGre_ICh-2bYzMYZ05PFmX-tKXO2aDFVVDbxJqzeqVl3QzA8r9yUmFDSO6IO0cIfF1jGhS9aWRSZbnrxUXkjf1-YsqdULPEhAY7C2vjyq1vlAuY40tMmMAGhTyWNUGQmKiqbDzv64NPNiCyTTMhg",
+            "width": 2231
           }
         ],
-        "place_id": "ChIJETlswqZD6oAR-VIc5viO7LM",
-        "reference": "CmRbAAAAdlF43ZkamkCaDjxsZJfE4FWu1SkA8gKjVt_1TC0pdHkuUfQ4PBvjyb1OyIP4erbifHLC0iqCvmTgrUAdshl7C_igqVxvtqj55JggEr6RepIPyR1Ym7myClPNxtjOQzOsEhBMecShxYVnARPYl8Ud27KVGhRHo6re84xGERhquqQsllsptLrBMQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1027 Sixth Ave, San Diego"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.7394377,
-            "lng": -117.2282128
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.74068567989272,
-              "lng": -117.2267476701073
-            },
-            "southwest": {
-              "lat": 32.73798602010728,
-              "lng": -117.2294473298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "15d79afa9fd9f43649dd6b001bb9fb6bf8fd5043",
-        "name": "Capoeira Brasil San Diego",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1356,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109868254390408560946/photos\">Capoeira Brasil San Diego</a>"
-            ],
-            "photo_reference": "CmRaAAAAIgp_PDe25cef51by1ARH6C66t2MQluGy7daaHhjnRU7NaEj1bNdzyYZsc4e8L1i4h1JR8BABI3EdlAE3KwU_w9fzz_2k3m0Dhl6b6Mo9ty7LCmP1PdhO0-YjQ5MKmynxEhA7F62Bixf91_OR8wxLx676GhRZHlthpfnIQkPkqJJJ2e1Izb5lrw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJiSjGsgar3oARQ2zFrveYGU8",
+        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
         "rating": 5,
-        "reference": "CmRbAAAANpqHu7syKb87pfI0H-BM_SDr0yIyJ8BPwxwKdVFU1_w7fnkhn3DkiCm9A9h1sTu9xIxyQZjm4_UCsHv3YEE3Id-rmHXCrGhpyxW_MuR9_KyoEQdIOtrmLGU-wNgXYO-EEhBUsxl2U3nY4wEpcXxL2dmtGhTGrWQJ4bUa2K6MBz5Qx3kK3QSmxQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2176 Chatsworth Blvd, San Diego"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.739379,
-            "lng": -117.228245
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.74063557989272,
-              "lng": -117.2267896701073
-            },
-            "southwest": {
-              "lat": 32.73793592010728,
-              "lng": -117.2294893298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1d7e6524c78d2daa2417df5189572a9a74e20836",
-        "name": "Capoeira Brasil San Diego",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102146148622812249447/photos\">Capoeira Brasil San Diego</a>"
-            ],
-            "photo_reference": "CmRaAAAAf6WeZntKOT_q4dBa752gKcrUttwZ4u2d4yeuKzMOxlFhXX2BgalU2OTiDuFP76phunQtb186_fTYEsSf3M8BZUkjn9ltamY--Gl6uejUGaKAwaBIaM9aVQcbsnNmV17GEhCMPtz508K4jImbn6t8pHKOGhRvsl-gZ2PV-sdG4jPjbXp0YWcGgg",
-            "width": 1685
-          }
-        ],
-        "place_id": "ChIJy7bBTAGr3oARxUHY0XW_GUA",
-        "reference": "CmRbAAAA_7qT9S9ZLNu8wVUxaOJvkGKBpXDfVna4jHXUJfjg_QO6LvyMkFNDrW6y2n-Ai4R38ay4Hw91xSV3HOuSJ_MXiZWk71jlZP03cHNCVUNm_tLVaOd1MCPPZAkEAvDzbuVuEhC9cYxzOPKXZGsfsJ5t9_b7GhSBC1VHNY5E3Uu33gd_UL7UAGy1RA",
+        "reference": "CmRbAAAAzG8DsuZlIOVy8FRiFcOE9QNjGcHPrble9kRUImKf3GFDXoyrIQcDOp5i6C0ctqIlQKwUrE12IhK1YSWcX1cSSTToZpOwUsYvdE_uMyhQgqFiptEy_ITdZVWMlRu_q9l0EhCVxjjo4vomiAfgcUBEOaFaGhTENr3bpJFRbTzoaLunEugEqu2E2w",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2176 Chatsworth Blvd, San Diego"
+        "vicinity": "1543 W Chicago Ave, Chicago"
       },
       {
         "geometry": {
           "location": {
-            "lat": 32.8017431,
-            "lng": -117.2364357
+            "lat": 41.9133592,
+            "lng": -87.7112971
           },
           "viewport": {
             "northeast": {
-              "lat": 32.80263287989272,
-              "lng": -117.2349484201073
+              "lat": 41.91470467989271,
+              "lng": -87.71019172010728
             },
             "southwest": {
-              "lat": 32.79993322010728,
-              "lng": -117.2376480798927
+              "lat": 41.91200502010727,
+              "lng": -87.71289137989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "642f28df5748dda714469f85df04c1425a66dc33",
-        "name": "Capoeira Mandinga San Diego",
+        "id": "f815a0529f52aadd02844ea5176667327e59a652",
+        "name": "Capoeira Angola - FICA Chicago",
         "opening_hours": {
-          "open_now": true,
+          "open_now": false,
           "weekday_text": []
         },
         "photos": [
           {
-            "height": 1554,
+            "height": 1104,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114470844655637669893/photos\">Capoeira Mandinga San Diego</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
             ],
-            "photo_reference": "CmRaAAAAxExlNDLKKd407dpzPix_tIZk0YpZtd-9RA1gIXIn2CsRAhZb1U2DuP_X5h1LYQ-X-aFDKCZzhK9u-kVYho9-AQKBRmm6yxU_RMykX9hz3jJ6008wXnmf9nWRn30VoAC8EhAnm5r88VzfQvoBNRQwXYEjGhTsGOh6i436NAcN4xKyfHCcJ0wBxA",
-            "width": 1472
+            "photo_reference": "CmRaAAAA9ch2QI9e52iAM62CTX_Zn9dkW4qk6meoQLGiaSzEM7V762VhxYh6OTGt1H4YrAKm1QdJ08h5ERlZkL-rDgdtYCfRrnNtjU8hYq_ZmXy15gNG9x2HzVWIYHzaiLPEStIGEhBv5hi7VM5GoyN8izM3QBrGGhQmW04aweO4LbXGwNa_E2YsgF2R7A",
+            "width": 2566
           }
         ],
-        "place_id": "ChIJZU5gGvGq3oARPVjx2V1qUfA",
+        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
         "rating": 5,
-        "reference": "CmRbAAAAIGhjLfSSykERlX7QHdrgsZT3Dd3yRD-7RSH9ffrNUT_U2p583QjHzoBuvwfp_bTwIaGa67fqSA3or1-HH0-QkoOmht0lImWcI56Hi5awCFLMq3_Q0yWYjIINUMOrGvBlEhAP_ryECLDW3xwxtEtenTljGhSbBFyzQbQFzo0tUZMRJimomdduLA",
+        "reference": "CmRbAAAADGEY96Uhg3UzeDGzgR6RpSck6LkNysqkxbkqIhT8uSvWix-irU18zlhKRNxX9W6LdQN93MGLFDkmEl0CMZvJbMU1cR9I52ruQcIHnf6wO5VeZKJ1eGOYtIdz_TyGq_PoEhABMvpsbL5sKtgvMGScC_7jGhT_aDRNB5OvmgqYzzZciCczjT2o9g",
         "scope": "GOOGLE",
         "types": [
-          "gym",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1757 N Kimball Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.901196,
+            "lng": -87.630342
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.90254787989272,
+              "lng": -87.62877687010729
+            },
+            "southwest": {
+              "lat": 41.89984822010727,
+              "lng": -87.63147652989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
+        "name": "Gingarte Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 682,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAULOl0FuScrDNrbZTB-v1xqstFlh_MyvF--g64nHegI_uBBFZ367gv81cmT--U5DVmNez62haiADj2FuVuVPUCFRDj28uHRrHsemiuPjKTpcvgJ1sxZpGfHFBW0Bbf7eNEhCn-UaYDj0_TIVdjAEf0JnEGhS_3DWOPY25IzzkM3553Bj3YHnIiw",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
+        "rating": 5,
+        "reference": "CmRbAAAA6LKP6nhS0RV4qHXWnfhnHMIJpQp10F_3JvrB68Y5QJhlnkOQmbLTIPoRIS49-D_REllr17eVtPdrLbfMhifhdqLldh4OhL4CsK6PJzzOBLt8t_Tl0fob9Ut_IH1bpw8UEhCS1JEZ9yHv3fM5TUmBC2uhGhQcbaqleXoeLZ2pogV2WxP9aTSAeg",
+        "scope": "GOOGLE",
+        "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1880 Garnet Ave, San Diego"
+        "vicinity": "1016 N Dearborn St, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9401434,
+            "lng": -87.6548612
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.94137002989272,
+              "lng": -87.65350977010728
+            },
+            "southwest": {
+              "lat": 41.93867037010727,
+              "lng": -87.65620942989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
+        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ8uwJamxkwzHGvcHx4TOghc3nXYoX4Wc-lrEs5clWVqzmJsGDGGeDTlBBX_juQqdaYzhvA4Y02Z0tE8cwWooYhD-kZe7iTMerwqWd859RX6e8rsXI0FqOLkoSJDVFSq5EhAcCdPz7LMt9qWbCUSpm14hGhTZhFKqL6Icvx-xpTiB22eBaDlIOg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "rating": 5,
+        "reference": "CmRbAAAAEtvFbEyxvJbbuw01yFTufot_x1CSMqGWGfx-NgqnbK3NerM96-VPB0jI1yp00GaxNn4yVGJ4tyfHjVjOFvHLiXGGbJX_5OyRgZEis4jBcBhJCbWrx9Fyhh8kBr0IJE94EhAW63tnB7p1zvm_i9g1zqzuGhTi3W-XWSblqOA-iuoEL-iYgRDixw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 W Belmont Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9401434,
+            "lng": -87.6548612
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.94137002989272,
+              "lng": -87.65350977010728
+            },
+            "southwest": {
+              "lat": 41.93867037010727,
+              "lng": -87.65620942989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8efde9e6467143d660cf5478c72f950149a491a3",
+        "name": "Japanese Culture Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102723418276407885085/photos\">Japanese Culture Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAUvXJMljy7tkldk3WKIn5-FdkxETAAkdDKei0NwE4rSklPdmRIzv8pRsFfAF8N83wB4dLm_Iu3SggLovwcsXJ0OZ84c6Y_qY2GKK6i7C-95A50ZWCQ6omOEFN3pCcXV4hEhCyp92o0VZc7WhRy0_zuwYJGhRszwD7kzQN4aqlWKrDubDbDLQvYA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJQZMaj6vTD4gRF2_zcohQrEE",
+        "rating": 4.9,
+        "reference": "CmRbAAAA37jIWZJ27v-nG6UkzSA0xszmtub9Kuijj3KtJhuF5LlXQwFztMkMT7isoH4pdPxUMl3xP7tenGEoPVCXjxPxOmPiDwoURVjoEsNF0wDIikbxvFATnK78DmzN92R8oLTqEhBsP-8wE-oLBRFTW_zCrtHoGhTkKD6RNJ2xMUXgc-zrHhQc_uo_ZQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 W Belmont Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9581719,
+            "lng": -87.6747535
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.95936702989272,
+              "lng": -87.67339917010729
+            },
+            "southwest": {
+              "lat": 41.95666737010728,
+              "lng": -87.67609882989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
+        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2532,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center - Grupo Capoeira Brasil</a>"
+            ],
+            "photo_reference": "CmRaAAAAtjvATYQx_8Y5POLFT5Tb88q90ORmonP42RRGGPHsl498X9r5yU80jfaCN7C77uidLOPbhmg0w371MVQckvjCv8ls679JOh2L6dILS1hjal9Ey2mapoDr7GZAUprIcV3tEhCq89URJT76b3rgOzv6iXOjGhQv02NZT-73QUAl3cDhGdhCuVl8YQ",
+            "width": 3555
+          }
+        ],
+        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "rating": 5,
+        "reference": "CmRbAAAAOxX1o0Kete8hpHw2IhJIZ5axaAiws7jhWaZdv5A8kLcH5xRWl1pEIHDYGZUJRWWTFXsXDrUAEMGxvokkweah_Q3F4pohqS6aS4YwOJ4qzTYCAf-c1rlbqLIx5ikCwSh3EhBY_Rhv6l6jNPWWcXF_f0f-GhSvnjKjO4WeHE-vKiIrhbM7S45ymg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1802 W Berteau Ave #215, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.991912,
+            "lng": -87.654746
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.99325562989272,
+              "lng": -87.65374082010727
+            },
+            "southwest": {
+              "lat": 41.99055597010728,
+              "lng": -87.65644047989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
+        "name": "Herança Cultural Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAnODp_b9KaK888wKsBiNnn9GnW0Y7vP0Kln3OFBM1oAGMw98akVSRoC-vjRpfzDjGgPw4ukgxjSg0OHPI1HjaG0QzZhdSHKS1Ba7uUh4tlfsaz2oJzm2bsYIrnZl6Ptz3EhBIQV9fqHRkEjqtSNLGrwUmGhTRyt6NWdUm-2YX5qfNP63zM1fnEw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
+        "rating": 5,
+        "reference": "CmRbAAAAvUma0kqFEe8FkKLIuO840fGHLIbjsVGeT65uIEK3EGQRXuIAqsIxf71zevg_qc1vEQjNSyFKE7MNnEtPjmzNNyPWTvpBP7qXqf5bXBtIoRiOAURCmBBvBYUc73YyslnZEhAo491zDdAo98EtopByiVHjGhQy2vFsurrLP-Y999sY2PxoKNkwiQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6033 N Sheridan Rd, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0061162,
+            "lng": -88.0823128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.00747307989272,
+              "lng": -88.07903845
+            },
+            "southwest": {
+              "lat": 42.00477342010728,
+              "lng": -88.08340424999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
+        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 662,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAvwBtklC2zM0Q2JYtp7iGdEHz55IgMvTz9vZBrR1sGgbABOCOQtMUDke57X2n-x_tiMS8S_PHR7W-sSqNupNJNAE3uDCUaPK-nWItrr234IYL3PY70IyPVyPOjzCF-GiZEhAB6yFEbPGzsZmxQ9KhFO_2GhQYwRJAM7tDQrIAfDfeq2BVfc7HXw",
+            "width": 884
+          }
+        ],
+        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "rating": 5,
+        "reference": "CmRbAAAAn0IQoY5xIiHD2_cTlikzZJFRRfN54NIXfXKqS0e6xdO7HAEGPdhx3n3aBu6cWJ2Qj3wczPZAQLpuOXBpxXFJEjgGS0ZKmgIQmNalHhwforb0r2NbWU6La5-G-akgU1zfEhBY5FZlXZSIxnJK7bbymaiQGhQcxTgR7Rt1sOu6YqqMWIkJV2ipxQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1154 S Roselle Rd, Schaumburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0488079,
+            "lng": -87.7496398
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.05016162989272,
+              "lng": -87.74874127010727
+            },
+            "southwest": {
+              "lat": 42.04746197010728,
+              "lng": -87.75144092989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7b95a0ea013ef197960edb1873dd215ea8df2496",
+        "name": "Capoeira Skokie",
+        "place_id": "ChIJ8ZNIU2TPD4gRCC1G_E8ZHuo",
+        "reference": "CmRbAAAAS9Hge_RSvdOVARwwrSuzBNuT4xSStzI0-ZL_Bu6vthNz6oi_wKmtRfR_0-9cRPvkqYJoMj7LdW86duFjgEnRZAIJKAsz21op2roU1p2nF5-EzQjpyHX0BqzB1t5ACrYGEhAj1tJBWLPWKKPah3y2JxuJGhQ24uGgDd1EJsJcwf-HsB8zXzs74Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9300 Weber Park Pl, Skokie"
       }
     ],
     "status": "OK"
