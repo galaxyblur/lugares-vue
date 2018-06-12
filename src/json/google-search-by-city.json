@@ -1,66 +1,20 @@
 {
-  "city_name": "lake-elsinore-california",
-  "city_rank": 628,
-  "city_population": 57525,
+  "city_name": "ocala-florida",
+  "city_rank": 629,
+  "city_population": 57468,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.6680772,
-      -117.3272615
+      29.1871986,
+      -82.14009229999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 57525,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.6809383,
-            "lng": -117.7790654
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.68196667989272,
-              "lng": -117.7772231701073
-            },
-            "southwest": {
-              "lat": 33.67926702010728,
-              "lng": -117.7799228298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
-        "name": "Capoeira Batuque Irvine",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
-            ],
-            "photo_reference": "CmRZAAAArkWGEgLt2GJR8IC-v2DvwHkBrOWLm8Tnh8VkBL-PNOrgjlXGjz_mwloJUCuvEOGaEG0LIRydyGrflXq_GB-8vVrGT2dF_QwBjPFq7g1HGfFHnKVqpxvgjyBssoWwLWmvEhC9q0SE1H1VV6dlvUJCBMVdGhSxEUc4e2oS8mnw6kuVrCOx6e391Q",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
-        "rating": 5,
-        "reference": "CmRbAAAAsoSFj9J6m7sgIjUVFCob-oTpq_wrFZBO-W5-QK-jQeeFTQlKG_fMdyErkiMSoxmTLPQkFYvAhn532NbfqWEY5xuHshmD-BN6Bf7gTVvlkoDA9npoDRh0OjlFw8fI_JiTEhAtWBGgBYbE4l8lNnEDQB7TGhStwYa2FLywK3xY87mLgbuCaFttsQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "15435 Jeffrey Rd #100, Irvine"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
