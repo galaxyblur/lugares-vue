@@ -1,66 +1,20 @@
 {
-  "city_name": "decatur-alabama",
-  "city_rank": 653,
-  "city_population": 55816,
+  "city_name": "chicopee-massachusetts",
+  "city_rank": 654,
+  "city_population": 55717,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6059253,
-      -86.9833417
+      42.1487043,
+      -72.6078672
     ],
     "rankby": "distance"
   },
-  "people_per_result": 55816,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.6046303,
-            "lng": -86.9802529
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.60597712989272,
-              "lng": -86.97877642010728
-            },
-            "southwest": {
-              "lat": 34.60327747010728,
-              "lng": -86.98147607989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "22a46542c03236f81916e1931d03075a264d4cae",
-        "name": "Webster's Karate",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104552545058395716550/photos\">Aaron Lutz</a>"
-            ],
-            "photo_reference": "CmRaAAAAL5rRvjatqf-97oK-MjPSKD2dYfz7bMnLqje2P55Y_UOg8MT2g75R6wkPdlHvNdvV4xO1lYxlaoExYQ2vxs4ySRL4_pgMEF4i2tARSmlxyvjHy6SDltmQ1_5_P3bjcaBJEhAJtY8y2lLJsrrfCkPp6HchGhTCzxu9p8ajAWzyxx0ROxqGSbPo8w",
-            "width": 2448
-          }
-        ],
-        "place_id": "ChIJRwNB0X-GYogRmb4fG0WSgHE",
-        "rating": 4.8,
-        "reference": "CmRbAAAA6m8FS_dxyQ5K5E-sk387-YrQdTtQnovwrd2NUQql4pBZmRoYnduyoujVWLZlBZLxhIQkhmwv9cAJz9C2jrwgvbt2ejDRtxtY3urbsB1R8KFi12RURYioW7C8mfeYnBhWEhBIufC9jIR4QqeuIMpcibx1GhSUGlTD3E--fvzYgi0eEI56TvdDnw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "113 6th Ave NE, Decatur"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
