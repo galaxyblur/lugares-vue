@@ -1,66 +1,20 @@
 {
-  "city_name": "eastvale-california",
-  "city_rank": 660,
-  "city_population": 55191,
+  "city_name": "porterville-california",
+  "city_rank": 661,
+  "city_population": 55174,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.952463,
-      -117.5848025
+      36.06523,
+      -119.0167679
     ],
     "rankby": "distance"
   },
-  "people_per_result": 55191,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.6809383,
-            "lng": -117.7790654
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.68196667989272,
-              "lng": -117.7772231701073
-            },
-            "southwest": {
-              "lat": 33.67926702010728,
-              "lng": -117.7799228298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
-        "name": "Capoeira Batuque Irvine",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
-            ],
-            "photo_reference": "CmRZAAAAFfGdoCc8o_K52odW07YilO2Rt3-UCzzEwcfZnVERZj_Mk6k4JKnTHlnUsjhH3KFII3fVbH1Pnyg1OACQhU5jZyBJyvxzlYjxqvwhux87QUNoft5h4AV4eGconMe9VfbgEhCumBFEROKNWTVWBrGI4ZfEGhQyT_rXwVBRQn3K4O0upwKZfCcGnQ",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
-        "rating": 5,
-        "reference": "CmRbAAAAyzv6ePEr_VnmbV-0n7dvp4M80RheMnwJpinH364i9RETkv6FSF5l1AQ8ID18x9WjJbox6L45V46XbOXkROKBB88TVMq5FK1SRJtobmwZVyAi2KZYKw1SU7ihQvhRCBwQEhCeuRg-aCK6g1INQiEiFHs2GhTGoF8AG6RWeLfiO2AhHH5d14DO8w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "15435 Jeffrey Rd #100, Irvine"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
