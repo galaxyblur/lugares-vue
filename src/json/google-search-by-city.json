@@ -1,102 +1,20 @@
 {
-  "city_name": "pinellas-park-florida",
-  "city_rank": 744,
-  "city_population": 49998,
+  "city_name": "troy-new-york",
+  "city_rank": 745,
+  "city_population": 49974,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.8428025,
-      -82.6995443
+      42.7284117,
+      -73.69178509999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 24999,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": null,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
-            },
-            "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "reference": "CmRbAAAAFpBhmuut_nEvNxitSu31AVfonxNNu1t4bQ13fsm0FUL08H2hTo0qU2cjQn-5r_Hc1JMGlDGrm9EMMisGwbbW57CyMpfxZ_mdKGxvGBc926GR2YJerpgemRpjxtDKyqZeEhDmlIecU0IV7bvqDmNRzBhiGhTvgD3FzUEeEP8H8ecOPybGXsxCEQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
-        "rating": 5,
-        "reference": "CmRbAAAAb4LOdIwobAXqO8nYG9iPuz5Bru17z6yp689ZClA50y1jU7QZJT8xBtBYRnNx5pUrs9BXBmBtS1QkUXh7qwRz_cj_EEgvNmIcjj-UfQJcbwlEfCVNJ9rW67cUciJKL_ltEhAYS1Z4J5d5mo8zpd-J_proGhSfB7Cl3WEUYXwBrmhBHPsKELX_uQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
