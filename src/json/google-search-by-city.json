@@ -1,20 +1,65 @@
 {
-  "city_name": "grand-island-nebraska",
-  "city_rank": 731,
-  "city_population": 50550,
+  "city_name": "palm-desert-california",
+  "city_rank": 732,
+  "city_population": 50508,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.9263957,
-      -98.3420118
+      33.7222445,
+      -116.3744556
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 50508,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.7586518,
+            "lng": -116.3009116
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.76000162989271,
+              "lng": -116.2995617701073
+            },
+            "southwest": {
+              "lat": 33.75730197010727,
+              "lng": -116.3022614298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0d30bf8814a39aff74cd80eecece9f13bb3556a9",
+        "name": "Off The Grid Movement",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2730,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107008200290805064719/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA1MNx_5gELaOx6EbkfWbvmuOueyotOBaJ6o7stu1x-4ducT0qvZWvpZiVuZMknYrvVH_FSnKMQO1hnRPHk58nh8DpRUctkvQxMRcajqKNagVeW4ZIrNLzlM388mzdWf_YEhAqzrRF-fYUPVySPTMgbxeJGhQ5xa7eNR3i_eucISYST909AVkKBQ",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJE5POMCn72oARL8w9zMv_t7I",
+        "reference": "CmRbAAAANfecGj2YbBOi5tpEYQfCY-YSMfDEdTFFmUxnFzz_3kOskUW69_kfKxbbcH6pvFLIdfFv82CChB-MbIP-pbp9JXKSQw9U8tzcSWpSUlw_BBTPScV-pr376Ye2_JPoSFOsEhD2GEhkKKYChssLqwGjmjbUGhSamV1e1iisew8Kp-72j9Xln0XN-g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "78078 Country Club Dr #107, Bermuda Dunes"
+      }
+    ],
+    "status": "OK"
   }
 }
