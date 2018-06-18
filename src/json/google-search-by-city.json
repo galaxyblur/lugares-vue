@@ -1,20 +1,65 @@
 {
-  "city_name": "alexandria-louisiana",
-  "city_rank": 775,
-  "city_population": 48426,
+  "city_name": "olympia-washington",
+  "city_rank": 776,
+  "city_population": 48338,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.3112936,
-      -92.4451371
+      47.0378741,
+      -122.9006951
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 48338,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.254811,
+            "lng": -122.4423251
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.25617972989272,
+              "lng": -122.4407843201073
+            },
+            "southwest": {
+              "lat": 47.25348007010727,
+              "lng": -122.4434839798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6765d4530c1f57fbf69a46dfea04417f1251378a",
+        "name": "Tacoma Capoeira Center",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108566144111458725837/photos\">Tacoma Capoeira Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA5cpj37jfsstu2a41USxBgaKS6Gf8ABl7sV5FuUcycyeYi3p8U7R-d_lunxyq2dWKPZV5lWEd5s-IQbD191DpJx_VYBAexXZKwCuwGfMhWHJwkSahzADhWD7bMW2Z2PkzEhD5t_7zxDB8jVLNCOYFpckSGhTrUVpCxQQ4xXx1x_xTlw5LkYfA6Q",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJj_9PdwpVkFQRNl6dfRGZbJE",
+        "reference": "CmRbAAAAs_bkbmqUDq6fqalgs3tHWceaSVbhWCBuzH9PDC58EbXL9Hjl-GDFry648gphtpet126muLDgmflUrtozu4AyJBBMPeGki2N64dYmXv4XVwNCvqgBOPi6Fam-gsvMqQZiEhDlOAi5_qfyX6V5Z3Q7eqsbGhTDwT5q8nJ5Seguvdt6c29f1-GyQQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "902 Market St #308, Tacoma"
+      }
+    ],
+    "status": "OK"
   }
 }
