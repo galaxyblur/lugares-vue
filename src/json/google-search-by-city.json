@@ -1,20 +1,83 @@
 {
-  "city_name": "roswell-new-mexico",
-  "city_rank": 769,
-  "city_population": 48611,
+  "city_name": "parker-colorado",
+  "city_rank": 770,
+  "city_population": 48608,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.3942655,
-      -104.5230242
+      39.5186002,
+      -104.7613633
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 24304,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "rating": 4.5,
+        "reference": "CmRbAAAAjBE_9Jx0SasnZd-ImKB0p_jWleK4I0uP8-vzGR2bBNN6CqOyHaJCCIBloOAFkQxNbtHsHS3u0Mt6ziEWJ4GG6kCOlFhUtaITQOtyHoXcirzsE3emF4CYoqpak8Z3cqQxEhA_50TLTd4ga5I_x08fL1swGhTlTtobhZVdh1YHN6EArWXoi--baw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "reference": "CmRbAAAAmZ_pWi4W1_9JQ6OaM_20-5RDNaZsyQGNKssa8uruwfsG-Jdir1s8AqyB_lleBnlUV6GMdT9BNKLO5ON8D2JH5z0bfsPj7oI6-KG8TYo4PpaHyq34JnOaAZS6tubGJzdREhDcA5ogs5CYluDLyT8BPqLWGhScGL2kkTxGhWLmC9ubv0ZJmxQEFg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
+      }
+    ],
+    "status": "OK"
   }
 }
