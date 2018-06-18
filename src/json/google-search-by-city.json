@@ -1,107 +1,20 @@
 {
-  "city_name": "bedford-texas",
-  "city_rank": 771,
-  "city_population": 48592,
+  "city_name": "east-lansing-michigan",
+  "city_rank": 772,
+  "city_population": 48554,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.844017,
-      -97.1430671
+      42.7369792,
+      -84.48386540000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": 24296,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.713013,
-            "lng": -97.34637339999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.71421842989272,
-              "lng": -97.34502387010727
-            },
-            "southwest": {
-              "lat": 32.71151877010728,
-              "lng": -97.34772352989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
-        "name": "Fort Worth Capoeira",
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103548991068521148222/photos\">Fort Worth Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAA7SdAfBeZmO0N0XTUDhGm-6PfzfXfgI84JbtATJCXWbc5cOZlQDJ32LMbSTn-ZRMpoq3R7ueCpOR34jhawv_aRw0iu3mpntCbdUJg8KfZhipbBQ_Fk8jr_xkCkWpE9A1NEhBm9IUC1s_q967UxLOUYILJGhTLtKt8fj97uyvMo9MNCydmQsPK0A",
-            "width": 1583
-          }
-        ],
-        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
-        "rating": 5,
-        "reference": "CmRbAAAAjSLD-mj3if7shbCUM15A-TKgRfOC3UyadB2_NnohS1HmQNS44cDCN_TDOXrPewbWxErINj_RKWbqY7h87YIePkkSFWRVZQDQSLYrXc9qNw8u_Z_0JexqodwIyi4hdMpDEhCARqne2hHM1f5g-Jx9lWdJGhQFf3lotrdIFHWOdMbjMdAQ9nh62g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1800 McPherson Ave, Fort Worth"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.9290085,
-            "lng": -96.83263679999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.93026227989272,
-              "lng": -96.83128752010727
-            },
-            "southwest": {
-              "lat": 32.92756262010727,
-              "lng": -96.83398717989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1c471a67d3182505545759c04523512ac3573399",
-        "name": "Dallas Capoeira",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
-            ],
-            "photo_reference": "CmRaAAAAlDHsVd-3-xxjMRBUHf6UsF3ExYCwBhJXWUB3v5z027XFbjWi--usL-YojNShphj-BOXFeRD2X7cuf7w3X1BNupcI4iZALqz7kG4R3YVbVndHtlJPQWwbbnDN73xQMNFmEhD8Qfsdy74TVB7Wm-N3KILBGhSNwMgWp46JmxrxAUXTClA_VIIUsQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
-        "rating": 5,
-        "reference": "CmRbAAAALpZqoIzlIWlYdAa4YbMvc5ZfiXYKn6EfDncT6U3tF-T6Z6Y9QmRHWBb0jM73PqA-Mn6k5UXmyiNtnxXgdRhxEjA6AEs29vlXsTcJjg_yeNFH-xrUbISSIXLdj9o3nvnBEhD0HeHTb9jZ04vHlZpn658RGhQ3VQK3tKmggIWZGdZtyjekx5NESA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4505 McEwen Rd, Dallas"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
