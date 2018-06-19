@@ -1,56 +1,20 @@
 {
-  "city_name": "euclid-ohio",
-  "city_rank": 777,
-  "city_population": 48139,
+  "city_name": "mishawaka-indiana",
+  "city_rank": 778,
+  "city_population": 47989,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.5931049,
-      -81.5267873
+      41.6619927,
+      -86.15861559999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 48139,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.457361,
-            "lng": -81.7132273
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.45874967989272,
-              "lng": -81.71199722010728
-            },
-            "southwest": {
-              "lat": 41.45605002010728,
-              "lng": -81.71469687989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4bbea685732598f9e223c378b51895195ff7a7a8",
-        "name": "Grupo Unidade Capoeira",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "place_id": "ChIJ1ch3Ad7vMIgRDX7bpIaO1lQ",
-        "rating": 5,
-        "reference": "CmRbAAAA51wqgz4RYS--MwZYTu_anUsO1aK_UBojnW3rfiujZAIPZIAVxC2IU-aJ2xNiZzn2iPST6lClfWPMFyij4AEZ-KVI-R9XE7GlDmxC_Ar1DS3DXUqhSD-wPtnIR7mFeIv6EhA08N_ajNdW_kwqCFSeidCSGhQc5ZyG-XzNtKvlvVq598LFpjML_Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3565 Fulton Rd, Cleveland"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
