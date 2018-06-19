@@ -1,20 +1,586 @@
 {
-  "city_name": "salina-kansas",
-  "city_rank": 779,
-  "city_population": 47846,
+  "city_name": "azusa-california",
+  "city_rank": 780,
+  "city_population": 47842,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.8402805,
-      -97.61142369999999
+      34.1336186,
+      -117.9075627
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 3680,
+  "possible_duplicates": {
+    "ChIJTe7MPM6XwoARThciifC-4Ks": [
+      {
+        "place1": "Capoeira Los Angeles 4454 Van Nuys Blvd #106a, Sherman Oaks",
+        "place2": "Capoeira Los Angeles 4454 Van Nuys Blvd #106a, Sherman Oaks",
+        "score": 1
+      }
+    ],
+    "ChIJB-w6_86XwoARqcriXH9h4v8": [
+      {
+        "place1": "Capoeira Los Angeles 4454 Van Nuys Blvd #106a, Sherman Oaks",
+        "place2": "Capoeira Los Angeles 4454 Van Nuys Blvd #106a, Sherman Oaks",
+        "score": 1
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.1553515,
+            "lng": -118.1502209
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.15676417989272,
+              "lng": -118.1488723201073
+            },
+            "southwest": {
+              "lat": 34.15406452010728,
+              "lng": -118.1515719798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1dfd671f3bb870cab1d1b191472390a9e4fa313a",
+        "name": "Capoeira Batuque Pasadena",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102270479381716928729/photos\">Capoeira Batuque Pasadena</a>"
+            ],
+            "photo_reference": "CmRaAAAAagE1i-x9C79ydO6fr6fL6A12IWkSeKBUzUKA5RwhuJUDb6hBY1_sMrmH20ZJGCUUS-d4A8_eyfPzx2dhp0QzBIjbrLVLqtE1ae53jUWcmZPh2ICYR-b3TNZVskVh-tvOEhBJeLV8QN1m_6KNyJVBZOK_GhS6485wKC2XaOpUOExmvftyGxc4Nw",
+            "width": 750
+          }
+        ],
+        "place_id": "ChIJxdvCqg3DwoARuFvCnYuTGww",
+        "reference": "CmRbAAAAQDA_X7AYpZDg52skS9b3HHF0atv83qDXZn71_CmCs-hg3M1LTSgnI-wDrzthEOljHE_MBslV3zVlRsnSRYmekb72PzvP4dncDZT0kJbr3Eo3VRQKpLoLmDvKvSooSl4jEhAO0xtRdone5O1SOeNGHa77GhTHuAfjOxho_9s8geSTOIc4iegScA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4 Esther St, Pasadena"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.0935422,
+            "lng": -118.1614412
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.09480147989272,
+              "lng": -118.1600024701073
+            },
+            "southwest": {
+              "lat": 34.09210182010728,
+              "lng": -118.1627021298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd243ce3c58505ed29f75eae11a6160e2a6f88e8",
+        "name": "Solsinmotion Capoeira Collective",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJrXp_eFbEwoAR6ncYBvTGYRM",
+        "reference": "CmRbAAAAo64HBrjwLVSk7EmudzY6VWj_pFAqTe5jAB7kL5Qw36ujMRG48SfZ-3OMIYsd-qGh7Qt7Rmhjy1PCSO6l5-Yh82yn914FSxhQHK4CmeZJT9OP2m9DbPSVny1QpVyj3bQVEhCKACoGCjE7odADnmOLv8wtGhQZeFVkt7ynMSxF0h2PcLsEi9HWLA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5471 Huntington Dr N, Los Angeles"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.138808,
+            "lng": -118.212174
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.14030492989271,
+              "lng": -118.2108302201073
+            },
+            "southwest": {
+              "lat": 34.13760527010727,
+              "lng": -118.2135298798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "028bec004e5539435c522a038be6cd4583762b27",
+        "name": "Capoeira Brasil East",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1333,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102647717033297088660/photos\">Capoeira Brasil East</a>"
+            ],
+            "photo_reference": "CmRaAAAAH7__mhcbf0_zH3UrShva-t26LG2cDg_eerpaQIzHJMUiIreowCYYIT9UDizoWAa40BxbLiQgNOG7jU55xEj4SIoTsdg_DNa2BxKmRkyaFHtIYrqT7G_bqZlSP4nbmp7TEhD8xIXDmjlgi3nfjdk6_9JEGhTN5rteTMw6NFo_UCgdavhiq7KHkQ",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJc-OqJmfBwoARQsntVKT7os0",
+        "rating": 5,
+        "reference": "CmRbAAAA9R5B-InxKtRerQUk7HA8cftzTJ7Cash067nagcYM8ycSqyy6u1HYRHFL50QmHo65_ObVAuoSEqO-E6Dyh_ynolc9MvCNfvIXGN2jTR9FnQ0phFgIc6hDClA2aN9WDGldEhD_wEJpk5jJ69td0oL3JlV2GhRc1JlsvyTAB8BAQKFTOFYckLOouA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2102 Colorado Blvd, Los Angeles"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.1508685,
+            "lng": -118.2554992
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.15221892989271,
+              "lng": -118.2539484701073
+            },
+            "southwest": {
+              "lat": 34.14951927010727,
+              "lng": -118.2566481298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "716e47130c7b5ed2a25550a49aeacb6a8fc99c73",
+        "name": "United Capoeira Association Glendale",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108317311801175371142/photos\">United Capoeira Association Glendale</a>"
+            ],
+            "photo_reference": "CmRaAAAAYEQgjzPpGa3nFu-tyJBsU2joqWvY7gI4R8_S2cOw0Tzw-4106xndqKE7s8p7Y6BZCO9pqL9AFj88tqVAF5K9vgs8-pDkF9ntVrGq2Rk-mfLEoCqPeeHslM-4unPIFGMjEhAn4OkfD65ZHH5iKTSXfJUeGhTBGaYP7xV-iHc_a3XZ9cNH_tkFTw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJRStOi1TAwoARJE7mJaG_PeQ",
+        "reference": "CmRbAAAAK-E-pmtusZ3y9oGdO2QrRPpDM6cWCAzVEAVy7GJaGBVpI0p1TF97A6-U-50GJn0MhrsswbNcdX7qRHx0ygSsM5ctk5g9jgroEsfPQNMwLmOsmADVrFr8SFWJq2zAzfTwEhAeQVB2zp5GuOWjA5AhagMSGhQRO1-X66n7S8h6jvuH3ouxPAG6gA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "325 N Brand Blvd, Glendale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.1015346,
+            "lng": -118.2728757
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.10289542989272,
+              "lng": -118.2716684201073
+            },
+            "southwest": {
+              "lat": 34.10019577010728,
+              "lng": -118.2743680798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7f149b76e73a7af608a04290ab484e3580c8dc51",
+        "name": "United Capoeira Association Los Angeles",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 449,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109000579868588695468/photos\">United Capoeira Association Los Angeles</a>"
+            ],
+            "photo_reference": "CmRaAAAASDj4V5b6FHARp9bQelEdnT39KpML7YKd3DELfCFKZGccyImIAqon7vac9nQnQKJsJTdgDLhF3ir-3N026BfDjWIN-jZy-eymfRc4L4kPGVbV0T_TvZE0SpoPq4bou4tiEhCnyzWS1J_RxnosMAf3MhfjGhS3EWcD7patXts5ekdUso26KqCN-Q",
+            "width": 600
+          }
+        ],
+        "place_id": "ChIJdQun1TTHwoARKBhFGDBl8VU",
+        "rating": 1,
+        "reference": "CmRbAAAAVTSugc8a66tULn-QpwPYUNzUUrlzQXAvlwD-HhqB5xpmzuqQ5dTIaus8U4XlK9T7155rWDVwj2koV4oEq8trN5gk5l4pxMzC8Nr51VqBIVLmj2okwAjSkfrsJdGNY_4iEhB00dq9BF5zi8BNHvZxH9aNGhSvToX9JlbOpWY-YwNsd8j7isxqlg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2306 Hyperion Ave, Los Angeles"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.0329658,
+            "lng": -118.3054371
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.03418942989272,
+              "lng": -118.3040868701073
+            },
+            "southwest": {
+              "lat": 34.03148977010728,
+              "lng": -118.3067865298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d05f99215786dfdc99ae31015950f102ec5dc737",
+        "name": "Capoeira Batuque South LA",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107428403370880630049/photos\">Capoeira Batuque South LA</a>"
+            ],
+            "photo_reference": "CmRaAAAAPLheFKYqDyUIEdybyrqxMtfBjVFDGEmrffCkTYTvc87bznmOBux4iQoRzkPu0kCZyM1T3x6HVDB5V2XETSowFdIyFDR7IXmcWfGUDZVF5W0hgC7R-RrW1nHwvPTDeatyEhBG-m0glvgvAVgIeeFEZ13EGhQTIU4C9i-y4V_Km8xwCbAIJGLIqg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJSRDaWHO4woARpNM7YINphl8",
+        "rating": 5,
+        "reference": "CmRbAAAA-LJloPj9T9X0RSkncwQBsgtKIKpOws0uaP4396B2NDvk0F_zpt8ztKVW6wtzNfgJNe5vp26QWTMftrJjUzwmCVqjkilXrsL1WbHNEwFZ07nojMK6zaubZ2Hz3ul23SWIEhD_uG4VBe2LoIQ0ppRbcPT0GhRYk2swcO2296W9f8XmWR4orQZIbg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2709, 1879 W Adams Blvd, Los Angeles"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8338173,
+            "lng": -118.1418467
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.83508647989272,
+              "lng": -118.1406069201073
+            },
+            "southwest": {
+              "lat": 33.83238682010728,
+              "lng": -118.1433065798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c06ed4c18c8ea709ce566742f17be3046b05153e",
+        "name": "Capoeira CDO Long Beach",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3648,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103893103277280873504/photos\">Capoeira CDO Long Beach</a>"
+            ],
+            "photo_reference": "CmRaAAAAVMCi8XfXnSJJwc1FmluWyRjRVDBeDzyjUgEeuaA5ROyzwv4QPTH6FtymLk3pEfduSwa86-_oqIp-3soqNhZUd5Z0L1G2ItYefU8Mcw2CPecGTvwdal8be1AyROKEdeJKEhDCNtKJ1g0krmWAp3Ww4opfGhSO0hmwsnA01zJPkv_ZO61ZqerSpg",
+            "width": 5472
+          }
+        ],
+        "place_id": "ChIJ5e-le0Qy3YAR5BMxMqCBGTI",
+        "reference": "CmRbAAAAODYwDOzxoHZAlGQ9bPwwwDtp-s9xzmAZCGSLal1f7T2s0A8oPfTkgsb8WKQgDCLnXWjFOLrOYddMey4zgP9HbIKhCqEpP9ZFVvS7Km3zJw2FrSQCa9ABzFXdbQmHFqJHEhC4rgNcVow-NKXwkzedM-CJGhRiR6klye_yR8GR-0cJA0veMH9pdA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4162 Norse Way, Long Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8187192,
+            "lng": -118.1788622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.82017037989272,
+              "lng": -118.1775113201073
+            },
+            "southwest": {
+              "lat": 33.81747072010727,
+              "lng": -118.1802109798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "896e344eb54cd53d0cd2f87470a74fa7b2ac3a14",
+        "name": "Capoeira, Dance, & Fitness Center",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104799104201791271032/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA3X4Me9VIkqeH9oqPPuIIzoD8EE2Ctzh912Aj-P4P6o06HBAYbTBO2ris-sliAjWiVC0xbwr8HVb8pdx843B8mMRUjwgMG3dkQ-jKHXlJOnjA7PSTMjzJseYFamnqhvETEhAdLGL4Il5pomUC66Duj90nGhSPTBnd1-u5WqHDXVom24nBxwOICA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJA1ajDb8z3YARFtTnM7PtSkE",
+        "rating": 5,
+        "reference": "CmRbAAAAMZnBo5NoUhFD_eKdZedL3T7bFAg9VC36iHJdhTWVdIRoRKJLs_ZlGrzyy_jYwPP-5W-y44acsZgR-U-ugykm4STa_V1eC5yMi0q-tOf9MtoAZxBUjTRuYAOL1plCIpbMEhD9EdPVaGNmBUeqfKM6KtaUGhRqkCU986p2uuawPYKRv2hGGy9WHA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1090 E Wardlow Rd, Long Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.0369807,
+            "lng": -118.3649476
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.03824772989272,
+              "lng": -118.3635313701073
+            },
+            "southwest": {
+              "lat": 34.03554807010728,
+              "lng": -118.3662310298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0f985951be4f102e7b969974f0e4f95d4e522a35",
+        "name": "Capoeira Brasil Los Angeles",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115097590488169751533/photos\">Capoeira Brasil Los Angeles .</a>"
+            ],
+            "photo_reference": "CmRaAAAAHhu0KYxhp6bpCIkw4xwBZEsKOG_QcWY_mrDcRt_2kjNXtHYiecrMR1pwv71DA3Is5Jrdos728s-_UTiRP5kxSHLjVy2mR1t98kodlKEJtM3_dSTK4fRRsFQd7hqZJkvsEhDKrvQtbMG5cEgzcAK6Nd_tGhQj-8Ur1xADO9t2J8GSCN5YM1HBtA",
+            "width": 540
+          }
+        ],
+        "place_id": "ChIJ73cQvaC5woARRcQJLF6fIOg",
+        "rating": 5,
+        "reference": "CmRbAAAAyze4AdHT1AGSD1bdCDyh0BoCnVmiuAuDRHBA_scFLTsgAqFzp3sEPB_zmmdlnrg8_9pXZQlMkBcdSPqtWMB2CBA2xJqjwt6JdBpW_VGGlLBUzpVSOT6LOucayrXJnZlVEhA7FJXZCWRIWMqe9Hv0Gw_dGhS8h0BB1UoNmsJUvl6w_7P3szdGDA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5557 Washington Blvd, Los Angeles"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8060477,
+            "lng": -118.1684732
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.80748687989272,
+              "lng": -118.1671228701073
+            },
+            "southwest": {
+              "lat": 33.80478722010728,
+              "lng": -118.1698225298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9de6af55b196c103ea7b05fe86bc1a01e1b0f12a",
+        "name": "Capoeira Mandingueiro",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJzU7f5dAz3YARKeAmE25UZGY",
+        "reference": "CmRbAAAANUg8TO1n18x-3owV4WWCjJhFpMQ97kkA6cZ2s-vp8kG0Mds-XOLP6KMxKCmG_e5eWiLG1lTrb6vVCqR6NvHAxOZQfI_utWwulhtiT3UOaPLgcRLwhEdJv06WcQdhZT5lEhAXK55PjnVZN8hBsHX0KqXhGhRYK6KY2s8eefEICchmsmfwkXLzCA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "101, 1900 E 27th St, Signal Hill"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.7746675,
+            "lng": -118.1649725
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.77635527989273,
+              "lng": -118.1636212701073
+            },
+            "southwest": {
+              "lat": 33.77365562010728,
+              "lng": -118.1663209298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "73621c705c38aacf7a9ffd4003b44937dd36ea47",
+        "name": "BodySport Capoeira - Mestre Roque",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113214259332928023821/photos\">Aleksey Volchek</a>"
+            ],
+            "photo_reference": "CmRaAAAAvxuSCD-xuSfwChOK1roS0sY5RGIReP3o36OzKjAeyJKBIRY43d6hvhUnqs37GDSUOwu372ImPT0wuWQtAxxCnGhTuG8MeVFTPlq_wC3jqBqLyIa6nHnlUTTCxQjKYnhQEhBadc8cYfVRSxEvSunMkBJFGhTF8QD_0fJZgH-TtUZvNZ6j10uivQ",
+            "width": 4928
+          }
+        ],
+        "place_id": "ChIJ_-829gsx3YAR20XLlgO3fX8",
+        "rating": 4.4,
+        "reference": "CmRbAAAAS_-BhGa5qhpnrp-l677mFdVOgjUGeIcPbPduWEaQGVvNj9EvsZqS-OSeDP-8PUE4-IIFkgn712NpItodU_hj_QAS8N5T_TzT42t8CgU4riZ30k43DXiDcbrkv7wE6AhrEhAdPoOWn68Clao6XHhW6F9pGhQ5opJDVyS0_CTA7zhGxdajglNpUg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2236 E 7th St, Long Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.152455,
+            "lng": -118.4481243
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.15380367989272,
+              "lng": -118.4470689201073
+            },
+            "southwest": {
+              "lat": 34.15110402010727,
+              "lng": -118.4497685798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e550c39b9fb21aa647461355246a4cdd80c569c8",
+        "name": "Capoeira Los Angeles",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJTe7MPM6XwoARThciifC-4Ks",
+        "rating": 5,
+        "reference": "CmRbAAAAOfrSSOWHHsn6l3kJc4gXz3SEoKLVX5OGj_ICVb-A-jMSavp9g77qFlN9IpfX79_WWPx5Y-sO-_xXSNtIS5L4FxP1VWi0047yS271o9m_bcMas3Taa2OHHeUNB0_FoUH_EhDxEQ_SyrIs7oIeXOSqabuxGhTcF0iPcLUMKrxuOSqHcZchQ4j_Og",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4454 Van Nuys Blvd #106a, Sherman Oaks"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.152455,
+            "lng": -118.4481243
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.15380367989272,
+              "lng": -118.4470689201073
+            },
+            "southwest": {
+              "lat": 34.15110402010727,
+              "lng": -118.4497685798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "591cb4a6703fab4bee4cef70bddb249d7e47f226",
+        "name": "Capoeira Los Angeles",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 662,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102542171344185958474/photos\">Capoeira Los Angeles</a>"
+            ],
+            "photo_reference": "CmRaAAAAIw5plhKo2JBtuYTVbKnx9xLFC8umaAlQ3EZruV3LEr0lrDvsqnHRxZDrDXofmn49SX-HWR-c1JGz56hJaqtQAu5WKAgaUjH34gfBk1Y8RN2URdJ4pCdl7oE-LQXmXvMNEhBpL5i3CCwllTsdJ8cWN-wzGhQJ3U5prK0Qk411R4QUYoqP7-CXqg",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJB-w6_86XwoARqcriXH9h4v8",
+        "reference": "CmRbAAAAxoJYDjQoqG1YD4JlgvyLvzP7BJfWtzHJ_xFI5Ytk7aHy5RDLC-Fi1uy_YzC1nDxIK9qFQbgbdZmaD18PMqBWe-r7VBrJHkzMe4PgRpnjpMsrteYLtgcAWm94hyNLC-jAEhB9QS9SLY2u2kkmdYnYha3wGhQ_FHtFZn4M3CMoQzhp2-qwfv_fcw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4454 Van Nuys Blvd #106a, Sherman Oaks"
+      }
+    ],
+    "status": "OK"
   }
 }
