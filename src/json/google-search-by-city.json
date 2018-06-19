@@ -1,20 +1,201 @@
 {
-  "city_name": "hattiesburg-mississippi",
-  "city_rank": 785,
-  "city_population": 47556,
+  "city_name": "roseville-michigan",
+  "city_rank": 786,
+  "city_population": 47555,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.3271189,
-      -89.29033919999999
+      42.4972583,
+      -82.9371409
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 11889,
+  "possible_duplicates": {
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ],
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4602986,
+            "lng": -83.1370883
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.46177327989272,
+              "lng": -83.13574542010728
+            },
+            "southwest": {
+              "lat": 42.45907362010728,
+              "lng": -83.13844507989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
+        "name": "Capoeira Mandinga Detroit",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1626,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAAqqCDpC8MkWxyDcseKmloZn7gYBp3vo9XpoARAOMBe6Q2f9pBHyPEPG-xi0Q9f7LwRrLvo7L_X3D-bBKw6PC5EmytBlq7N0gxuuCBqI2oEGo0EU13TYxKM2I5JG9DqMSuEhAnLi1v-OKsuWHfshLXSOz2GhStqXhgXm4Hvlz5DaReiUQXKjVUWQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "rating": 5,
+        "reference": "CmRbAAAA2UkSdf0c6kOFKiysg173KdlQI-Vb6iDEKMmmmMDQdppuO9c_PcTeXTXRnj0nTGSgLV91ldX-bxDJQF04NGRaI9XVPTjZZOyVmLaBYfd61omfADgd63-MFYH7uBo8JG10EhCDzcBdoIvpKMw6TohoZko6GhRhPpuKnQBZx0ogvjR4x8Z8ml1FNQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "247 W Nine Mile Rd, Ferndale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.422379,
+            "lng": -83.176875
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.42366357989272,
+              "lng": -83.17565672010727
+            },
+            "southwest": {
+              "lat": 42.42096392010728,
+              "lng": -83.17835637989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
+        "name": "Tabcat Detroit",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAA5k2e3kkHy2nAGGv7nOqkk6KW9gPLkh9qZZp7icTkbTg5mlSATPxJIt7WfWRa_ZeI0HOpLNQ_4T28ycre82tlP1fT1ois06pmyzEITI77vI_ojkJI9Zs-jFvLjwQu4hNJEhAVfV6tEOwzKMkrCmE9_9_SGhTGj3e08tiiw7fAlI1C17-dgrz47Q",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
+        "reference": "CmRbAAAAHLCipezgx7-vPELVHSllxV5PDsg7kgLP63UkrBxHPliP3Jz5WhCCjmBTbetrqAbvkgYityJgAHQtkd4j6ebO0IGoJELhxPGRZ2ea3mUgNR1EqWiHVbtcjyoERZf6EQp3EhAkhHG8uMBBmLsz1sg6Zo_UGhQkfUD-J8veyAggRxr3gGGpqNguAQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "18018 James Couzens Fwy, Detroit"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5005072,
+            "lng": -83.3609625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.50190432989272,
+              "lng": -83.35763385
+            },
+            "southwest": {
+              "lat": 42.49920467010728,
+              "lng": -83.36207205
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108282838812664272157/photos\">Tira Prosa</a>"
+            ],
+            "photo_reference": "CmRaAAAAT0oysI6Ir_JI9sjOq2LQ_dMeTds_3Xhylkn9j3jl8QOT2Cbf9-m_5s0NwWdoceWpO0MvZ_CKGvKWtfgbYRAmMK0aZY1h0Ui7UcOApW649z1NiYdcqy-_ODrknR1JBUTkEhCzRfQ6f3jO-Czzx2PulumIGhTy7UsJTJEcdlHPpcw1mzRleBUZwg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "rating": 5,
+        "reference": "CmRbAAAAILc5kQklVXTn_6_NNSEwEWUsENOzV5GIN_6H1iADXPmoMyxUZJZ_vPkv_j9VFBwoZH4byh0eif-EEdA_ZcTnQg8ux9zmKUXkbtdWD9Qj1_mdA5DHHXjS_fuFCuHucoxzEhDguS5g3J7VkWEFzG57I4KWGhRymRxD2CVjau9cIdAIABr3j_mlrw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5276867,
+            "lng": -83.3601159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.52903182989272,
+              "lng": -83.35880832010729
+            },
+            "southwest": {
+              "lat": 42.52633217010727,
+              "lng": -83.36150797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "reference": "CmRbAAAAlksF5BXgFJLIMYa7ENXh9ZFltKYL8hT8S1wb2773eEvB8Lk4E_qAkhwMcZv0mtzsw-nBYGYctj9E1VLKqo06pRnEny3YBRIDulUE1Pfp2T7MS6ZKlTSzUReaHI_pcE7oEhCZHPLxjHEcUQYVNZVWEZvlGhTmpCHMW8-mX25hLjzmMT0NGGQzDQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
+      }
+    ],
+    "status": "OK"
   }
 }
