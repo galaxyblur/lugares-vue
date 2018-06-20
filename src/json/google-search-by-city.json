@@ -1,53 +1,20 @@
 {
-  "city_name": "jeffersonville-indiana",
-  "city_rank": 809,
-  "city_population": 45929,
+  "city_name": "san-jacinto-california",
+  "city_rank": 810,
+  "city_population": 45851,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.2775702,
-      -85.7371847
+      33.7839084,
+      -116.958635
     ],
     "rankby": "distance"
   },
-  "people_per_result": 45929,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2172038,
-            "lng": -85.57172589999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.21836212989272,
-              "lng": -85.57078692010727
-            },
-            "southwest": {
-              "lat": 38.21566247010728,
-              "lng": -85.57348657989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ea69e276bd46ade9811520fb06d59c2425f3551e",
-        "name": "Freestyle Fitness",
-        "place_id": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
-        "rating": 5,
-        "reference": "CmRbAAAAsEmxnRk1y7dSsTxhap0Ip2xaarHKixZ4mahhfS3dxIMVPuOMx9Q68BvHKTcoyQ9uTv7ypwaNjmEe7A3J6SsPhAU0ZTL8_FRxK-nMKBz7nL2DHsbHhDsYoiiy0uad3f-WEhCt-K6-QAmBVHJmbhQF2jSuGhQr8UV8J2p8MrTpw6D-5cT-wgkJUg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1825 Plantside Dr, Jeffersontown"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
