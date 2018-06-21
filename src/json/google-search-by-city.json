@@ -1,66 +1,20 @@
 {
-  "city_name": "pittsfield-massachusetts",
-  "city_rank": 836,
-  "city_population": 44057,
+  "city_name": "york-pennsylvania",
+  "city_rank": 837,
+  "city_population": 43935,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.4500845,
-      -73.2453824
+      39.9625984,
+      -76.727745
     ],
     "rankby": "distance"
   },
-  "people_per_result": 44057,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.449164,
-            "lng": -73.238725
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.45051382989272,
-              "lng": -73.23737517010728
-            },
-            "southwest": {
-              "lat": 42.44781417010727,
-              "lng": -73.24007482989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "20488e8f9e108412bddb3092b8fe4c7a11258f22",
-        "name": "Modig Internal Disciplines",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 707,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115705185083051189443/photos\">Modig Internal Disciplines</a>"
-            ],
-            "photo_reference": "CmRaAAAAd5aqVw6zwnQMQy-lDmnR2tIYCalLKQcByKrt9cRP8vZAem0dmusIKfsvi8pjN-KBHOAEytkRhG8DndyDe1kUKnS56NLUR4kvCbXEG20m-HOIJs4KkIE-j61Y2W8UB3psEhCrsG37UjobeGkI8DRgep-xGhRk98kEfrN43N5085wn5L4bnVyXIQ",
-            "width": 1600
-          }
-        ],
-        "place_id": "ChIJSwaNozhO54kRrSHeadW4G_s",
-        "reference": "CmRbAAAAvQHVTOnBzwchC6dP6Wya8CpgNpAMjOetpNgccBoavMdNynhVKau3Of8TbVHuTaZpOeHD5yna4iO-domKTmrH9x4iocMaNqlPqanDEn56FNSyaaEqTArmGZBd_BPs_jrGEhCt-zbxfm4qfV7sowz_N5Z2GhT4dvUFTq7RMbObPC_di9NvrtEYoQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "10 Lyman St # 5 @Chin Bo Jok Academy location, Pittsfield"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
