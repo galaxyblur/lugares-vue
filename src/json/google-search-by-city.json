@@ -1,20 +1,65 @@
 {
-  "city_name": "moline-illinois",
-  "city_rank": 852,
-  "city_population": 43116,
+  "city_name": "coachella-california",
+  "city_rank": 853,
+  "city_population": 43092,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.5067003,
-      -90.51513419999999
+      33.6803003,
+      -116.173894
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 43092,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.7586518,
+            "lng": -116.3009116
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.76000162989271,
+              "lng": -116.2995617701073
+            },
+            "southwest": {
+              "lat": 33.75730197010727,
+              "lng": -116.3022614298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0d30bf8814a39aff74cd80eecece9f13bb3556a9",
+        "name": "Off The Grid Movement",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2730,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107008200290805064719/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAX-4leDylmjO2ZUFc4g9rfFmHzy9bNHnlhLhwnX9SCdcf9imMpz0zKJs7NNmRzvjxF4HigNy414jQTGhuzGwRo75L1LuK-rAo2XiT1eLyz6VHhAUb2m1m7V1es6F9cASaEhANSopqLli6b3kwQBe8AizPGhTKJRAnP5I4EkZaCaBIN7JmhwVAHw",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJE5POMCn72oARL8w9zMv_t7I",
+        "reference": "CmRbAAAAahRNBkg_WD4qxqUg4U2rgsi8BpZ0qT8lcuK0_0MJ5L4n7gUds9fw58XSvVNcPVu4J7YoJPp51geiqKsKjivhX512c9usYjnADoUPbQ1swFT960fWmesyXmqRLQPc7nMqEhCSTZ7o1H7BYX98DUCxZCeeGhQY-pUffn3lNyWALQEzTuqNQ0MWZQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "78078 Country Club Dr #107, Bermuda Dunes"
+      }
+    ],
+    "status": "OK"
   }
 }
