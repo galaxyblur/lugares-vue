@@ -1,16 +1,16 @@
 {
-  "city_name": "fort-pierce-florida",
-  "city_rank": 854,
-  "city_population": 43074,
+  "city_name": "smyrna-tennessee",
+  "city_rank": 855,
+  "city_population": 43060,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.4467056,
-      -80.3256056
+      35.9828412,
+      -86.5186045
     ],
     "rankby": "distance"
   },
-  "people_per_result": 43074,
+  "people_per_result": 21530,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,31 +18,81 @@
       {
         "geometry": {
           "location": {
-            "lat": 27.6252435,
-            "lng": -80.3827009
+            "lat": 35.7864065,
+            "lng": -86.4042114
           },
           "viewport": {
             "northeast": {
-              "lat": 27.62659357989272,
-              "lng": -80.38133432010727
+              "lat": 35.78771167989272,
+              "lng": -86.40286807010727
             },
             "southwest": {
-              "lat": 27.62389392010728,
-              "lng": -80.38403397989272
+              "lat": 35.78501202010728,
+              "lng": -86.40556772989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "11559a68bc890c825b4aa52be5fbe17bf6e71b48",
-        "name": "Abada Capoeira Florida",
-        "place_id": "ChIJXUw3qjxf3ogRIaFOfwoksQQ",
-        "reference": "CmRbAAAAVyMd1bHNGHcU_p0vSvU9h-IQlQUfyJsJvXdpgfTBc71kl5RMGUqTqAX741My4js_TgPniMFsaE3mnnXMkbF6_XrgsyIomxY6JMMHBsZ9SWVTCHnYawcP6CrjWZ6G2GEIEhAthLH5HakkMkzxheSzG8YjGhTEuWuuboBIlA7T99Cw43xvVabhZQ",
+        "id": "9a4d026df443cd96bd0256b26f4915c427373b8c",
+        "name": "Capoeira Maculelê Murfreesboro",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJL7KWbO75Y4gRRMUVMMHZJDU",
+        "reference": "CmRbAAAAWBJwWGKPzXuhy0Z2-NSNucYj4tSgbvVeZXUPFT0eH4K5tzYPGn6wdO8ed0xrOBpmoixVhxIjfUFXQZYL5SKe9Ix-6AbZ4ET8JaV9oV8J5SrDNEryPzS-SI5l0XeHwBKsEhA4zPvpXut0soZTCHl1BmShGhTEHioMPcvmQHNmLb1Ej6LpLnYlqg",
         "scope": "GOOGLE",
         "types": [
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "970 4th Ct, Vero Beach"
+        "vicinity": "220 Barfield Crescent Rd, Murfreesboro"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.1523713,
+            "lng": -86.8458567
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.15356522989273,
+              "lng": -86.84450052010727
+            },
+            "southwest": {
+              "lat": 36.15086557010729,
+              "lng": -86.84720017989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6af144443685c4dd230fde4aab30a3aba9ed72d5",
+        "name": "Grupo Balança Capoeira Nashville",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104630049540296113933/photos\">Grupo Balança Capoeira Nashville</a>"
+            ],
+            "photo_reference": "CmRaAAAAYak6xYY2SYwFNl7k7qXgtL5CD0n-PYQNYGjgsePXh_6pV2g4gBtKtdUGJeBoMYq954bYahO_SDI_z0SazcrW-kjbjqRJUmAcVNjJfyC69vNe1zRGJMsq3S53JzUqiSokEhBqnwRYm2VCe3OloJpojFR4GhSQpLXia3v3ufR2MOVw8kIAph1DJQ",
+            "width": 1537
+          }
+        ],
+        "place_id": "ChIJa8SAGSRkZIgRoUGxQOXnsOc",
+        "rating": 5,
+        "reference": "CmRbAAAAdZ8ts7F6kw-lSDNJB2VWQEOQkZATnrv3cxF8C9XdeW5lde-Kf9L9vEOlEsqaGjb53eFOpnAunf7nZdV2rNlMbziWhr34CqS_xsv2fy37DAgcEGGUaRQLr2X9MsPvBf8vEhCWhaJBKa9rGVbA0xsytVxQGhRPHhr5v6MIqoHA2Pug4feRPL_viw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4822 Charlotte Ave, Nashville"
       }
     ],
     "status": "OK"
