@@ -1,20 +1,67 @@
 {
-  "city_name": "concord-new-hampshire",
-  "city_rank": 869,
-  "city_population": 42419,
+  "city_name": "burlington-vermont",
+  "city_rank": 870,
+  "city_population": 42284,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.2081366,
-      -71.5375718
+      44.4758825,
+      -73.21207199999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 42284,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.487859,
+            "lng": -73.20754699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.48920882989272,
+              "lng": -73.20619717010727
+            },
+            "southwest": {
+              "lat": 44.48650917010728,
+              "lng": -73.20889682989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7d6031c00e9b3d81c65dea71859ab91734d84dc4",
+        "name": "North End Studios",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109642695605123657644/photos\">North End Studios</a>"
+            ],
+            "photo_reference": "CmRaAAAAJEV03haLl2HHaQx5lRoaEla0OFgmfT9JVg-ZGNQQIOJplWrrcEFnDUAdyI8Rl29uf49n4KKvWgnP-AkwuZFX83yWDRzdbrBxA59Ts9kwYKN484KJmegMEhVf2KuEOIpsEhBq3vaooQ0gklR9tI_jaJYfGhSq9_7aXxBA5g--KAnSeSitL1gxsA",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJfdSkoYt6ykwR3PHPU-XyCQY",
+        "rating": 5,
+        "reference": "CmRbAAAAKdhaGg0f1Z3XC8x1tArCSF4id6Hs5TIn2fSfwgLrzH_YfVsS3b-1UxyMDbPhldiBaRviGqQgEhOJOzPzOaa4cpTkCu9HwYuboqal59ChFPpbwmcjpFjhaxb0ejMogDAOEhB7pd9GJUt5x45TK9pkr-xtGhTpyUQOUKsSYUNsqDgVccqzmfDG6w",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "294 N Winooski Ave # 111 Burlington, VT 05401-3680, Burlington"
+      }
+    ],
+    "status": "OK"
   }
 }
