@@ -1,16 +1,16 @@
 {
-  "city_name": "burlington-vermont",
-  "city_rank": 870,
-  "city_population": 42284,
+  "city_name": "apex-north-carolina",
+  "city_rank": 871,
+  "city_population": 42214,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.4758825,
-      -73.21207199999999
+      35.732652,
+      -78.85028559999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 42284,
+  "people_per_result": 21107,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,48 +18,67 @@
       {
         "geometry": {
           "location": {
-            "lat": 44.487859,
-            "lng": -73.20754699999999
+            "lat": 35.860191,
+            "lng": -78.71041919999999
           },
           "viewport": {
             "northeast": {
-              "lat": 44.48920882989272,
-              "lng": -73.20619717010727
+              "lat": 35.86190332989273,
+              "lng": -78.70865477010727
             },
             "southwest": {
-              "lat": 44.48650917010728,
-              "lng": -73.20889682989272
+              "lat": 35.85920367010728,
+              "lng": -78.71135442989271
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7d6031c00e9b3d81c65dea71859ab91734d84dc4",
-        "name": "North End Studios",
-        "opening_hours": {
-          "open_now": false,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109642695605123657644/photos\">North End Studios</a>"
-            ],
-            "photo_reference": "CmRaAAAAJEV03haLl2HHaQx5lRoaEla0OFgmfT9JVg-ZGNQQIOJplWrrcEFnDUAdyI8Rl29uf49n4KKvWgnP-AkwuZFX83yWDRzdbrBxA59Ts9kwYKN484KJmegMEhVf2KuEOIpsEhBq3vaooQ0gklR9tI_jaJYfGhSq9_7aXxBA5g--KAnSeSitL1gxsA",
-            "width": 1600
-          }
-        ],
-        "place_id": "ChIJfdSkoYt6ykwR3PHPU-XyCQY",
-        "rating": 5,
-        "reference": "CmRbAAAAKdhaGg0f1Z3XC8x1tArCSF4id6Hs5TIn2fSfwgLrzH_YfVsS3b-1UxyMDbPhldiBaRviGqQgEhOJOzPzOaa4cpTkCu9HwYuboqal59ChFPpbwmcjpFjhaxb0ejMogDAOEhB7pd9GJUt5x45TK9pkr-xtGhTpyUQOUKsSYUNsqDgVccqzmfDG6w",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4ef5e8c61b15f70df45000e3346d5ebc602d8d5d",
+        "name": "Capoeira Brasil Raleigh",
+        "place_id": "ChIJnVLVfgL3rIkRtuy9Sq1TQY0",
+        "reference": "CmRbAAAAI5P06Hm8M5UTak6qiyFufp2oyR0nBGyqLvm5UY7_zgWV5z-74EAbOY85kjykCda3nySuDRnFlU22N0k1d8sIOMVWv1R38V5tBSdQyr06VStupabNQpdigngBqP6jKb6yEhAYRB-guDIBnED_8g9_pm-MGhQyNEIq1mD6Zqt1UIn-UPjpMyGuzw",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "294 N Winooski Ave # 111 Burlington, VT 05401-3680, Burlington"
+        "vicinity": "6701 Glenwood Ave #103, Raleigh"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.8468532,
+            "lng": -78.6005763
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.84820302989272,
+              "lng": -78.59922647010728
+            },
+            "southwest": {
+              "lat": 35.84550337010728,
+              "lng": -78.60192612989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8bb189f55a84b5881670064e1c88f8d53940c32c",
+        "name": "Raleigh Abada Capoeira",
+        "opening_hours": {
+          "open_now": false,
+          "weekday_text": []
+        },
+        "place_id": "ChIJ007TLAZZrIkRpTKmhFUDAWs",
+        "rating": 5,
+        "reference": "CmRbAAAALnjKi4ZWLrdIOv4EJk0hM9mgN7dw0tmXEsFdhb44F9_9NiHrlL0UCjOKRmcGqpwFqwpVZKfr5kGuekY1jtJo7jBGoBOBQcwCBw5WOZHDnmyBHEKDCsaJ7oCmkNCf0KTsEhCV2n_tDVWhse8zz3GuH9VNGhQrzRnj8qsXhnj3Fs-5dzV_eYUQtw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2210 E Millbrook Rd, Raleigh"
       }
     ],
     "status": "OK"
