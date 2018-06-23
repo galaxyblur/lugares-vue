@@ -1,50 +1,20 @@
 {
-  "city_name": "urbandale-iowa",
-  "city_rank": 876,
-  "city_population": 41776,
+  "city_name": "state-college-pennsylvania",
+  "city_rank": 877,
+  "city_population": 41757,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6266555,
-      -93.71216559999999
+      40.7933949,
+      -77.8600012
     ],
     "rankby": "distance"
   },
-  "people_per_result": 41776,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.60720999999999,
-            "lng": -93.62751899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.60855947989272,
-              "lng": -93.62650387010727
-            },
-            "southwest": {
-              "lat": 41.60585982010727,
-              "lng": -93.62920352989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
-        "name": "Roots Capoeira de Ouro",
-        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
-        "reference": "CmRbAAAAzposLd4TkYa77gqJvbP66O2RYkWyvqF9sXju6fFY45Mthms8Ctfh_EIOcPjf7ceCz00By4T7R8h1ywi4oBgcJk_1ZiBY75tCaYaevz_XhV4cg2OBKmG6z-8MuirM97RHEhCTTy-ip6xmPIjVmuyJtCloGhRJXeiwqJdZNbG-dmzCKcO415q1Mg",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1541 8th St, Des Moines"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
