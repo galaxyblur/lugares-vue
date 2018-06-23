@@ -1,20 +1,107 @@
 {
-  "city_name": "findlay-ohio",
-  "city_rank": 884,
-  "city_population": 41512,
+  "city_name": "rohnert-park-california",
+  "city_rank": 885,
+  "city_population": 41398,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.04422,
-      -83.6499321
+      38.3396367,
+      -122.7010984
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 20699,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.2355172,
+            "lng": -122.6413765
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.23686702989272,
+              "lng": -122.6400266701073
+            },
+            "southwest": {
+              "lat": 38.23416737010728,
+              "lng": -122.6427263298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "327f936cac22d86f5a7327a2151496abc8162eb9",
+        "name": "Capoeira Petaluma",
+        "photos": [
+          {
+            "height": 1939,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111815811201287977997/photos\">Lia Alexander</a>"
+            ],
+            "photo_reference": "CmRaAAAAIMK5OuB_e8Go7hVTfpuGtmWlcNNXTN9Bgi1Maspp3M8-sgBj5QdsKe7tcotu52p27YU4F_Le_4Wqyz4SZMxEfOc8vUCyBxWONQH2cmPzXObLMuuz3D_s-aGFIE5j4SLKEhCMTf01_GeRymE0EEtD1lL2GhQvPTOsj5b_ymho28hSiHjrQHd1bA",
+            "width": 3659
+          }
+        ],
+        "place_id": "ChIJfdvIax20hYAR8a-pZvqzLZk",
+        "rating": 5,
+        "reference": "CmRbAAAAziFfkf61agc2W_8yFsR-uexIs8fZQlVUsfF4psLjxpb6ya63NkHxgi_t98IeTx3AhzBFOldIRCHXUnmcD-JzraJlkQnVJP6zgfN80u-7sxnEvw9D0_My9RnyzDuuK_1fEhA3zcBucSrRL98McgCGnnK9GhS_K1W7kmg9joVskQ5p8PIhM0RkkQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "110 Howard St, Petaluma"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.405523,
+            "lng": -122.834014
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.40676507989273,
+              "lng": -122.8326589701072
+            },
+            "southwest": {
+              "lat": 38.40406542010728,
+              "lng": -122.8353586298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fed7eee169800e01c26d48ef805c5aeefb31afa1",
+        "name": "SHDWBX Studio",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117042391203936136203/photos\">SHDWBX Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAc7fYxC13v467e7ViZcGNxrVTuet8vLwbFUK_tgRzrru4M5dYvVdjlt1W5I7do8hgai_ltW6fZP6hZAOoDAfMsTZWsexXkiRLASE4j567E2t46V3k8-6lL6g8uh3QEjwcEhC69jdo2b82o11ex-qtnfP3GhSuiuLkMsksQV1b9B-4-p03RDumvQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJDc8yfHQ6hIARiisEo-93Sao",
+        "rating": 5,
+        "reference": "CmRbAAAALf-Rd60NXb5_LliK6HQ3aja3Y1EXAgcdtsx9rYDFMC5qiDgO2KAAf2AkTZA874vRaCJYi7RftgCq0U0jVVrUuqGGirN7BfQX6Ukl6GhIyjcdbC0Evatd5S2Baoi6bdmHEhBVEStFbb8DbyqECTdMPsgUGhSxcoKfakd5HurRcw7F0IqmJQIv7A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7758 Healdsburg Ave, Sebastopol"
+      }
+    ],
+    "status": "OK"
   }
 }
