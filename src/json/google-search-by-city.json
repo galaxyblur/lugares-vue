@@ -1,20 +1,906 @@
 {
-  "city_name": "panama-city-florida",
-  "city_rank": 1000,
-  "city_population": 36877,
+  "city_name": "new-york-new-york",
+  "city_rank": 1,
+  "city_population": 8405837,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.1588129,
-      -85.6602058
+      40.7127837,
+      -74.0059413
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 420292,
+  "possible_duplicates": {
+    "ChIJWXN-p4FZwokRrwWn6uZjomY": [
+      {
+        "place1": "New York Capoeira Center 107 Suffolk St #307, New York",
+        "place2": "ABA New York Capoeira Center 107 Suffolk St, New York",
+        "score": 0.8985507246376812
+      }
+    ],
+    "ChIJvyUvBoFZwokRtey04kMD4nw": [
+      {
+        "place1": "ABA New York Capoeira Center 107 Suffolk St, New York",
+        "place2": "New York Capoeira Center 107 Suffolk St #307, New York",
+        "score": 0.8985507246376812
+      }
+    ],
+    "ChIJ32y1wKhZwokRojBGT8ikkxw": [
+      {
+        "place1": "Capoeira Training Center 440 Lafayette St, New York",
+        "place2": "Capoeira Training Center 440 Lafayette St, New York",
+        "score": 1
+      }
+    ],
+    "ChIJAQDQVppZwokR6El-WhBCgHA": [
+      {
+        "place1": "Capoeira Training Center 440 Lafayette St, New York",
+        "place2": "Capoeira Training Center 440 Lafayette St, New York",
+        "score": 1
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "next_page_token": "CvQD6QEAAOzr4Ds6208cVkC9x5trEec3HZFPuh7qrccVfJkYQAunzjEPyc0hagAm2kMX_sJcbLCv4oddmLwkbiOzjU2p72wGd_qaX8r_EQ-qUsIYDXbkPSU352BSlAqtHHmhoATA6QWzYn-i-OqbNjiUuDTi0YOpw0nYqUT_I_ekh_0vxDJT5gOvFTyK4uFDSXH84_7Ku3rPTZdTDoFyKrzTQVJVWsZ-bvm4-qYhwtp6Yv_FkaWcJWg5JPvyi2NQv5A9Sqn4zPrNi0qMYHkhFxAAvR3jKeMuDVB2DwxNp6oKBvPi__lVT5f4LMyRosgJffEiMC1Tq1X1QwBIC2n6ARyRcVGP12VEXOoTW216XMKKba5iU3Nb1lUvsb1M9KKt04sP6XqnCnhbBCj31xEi35hm7b31ifRrBkqJhTodfKuEn55xIQdH2ecddQHY8CphsQ2LlRZQkuQO9LJU1oG_GC6UC3i3taKxpuc2NTakWE8J-kuPvnJi_8JeRUlIGj9u_l_1D9oK0-y2uYmsmg_2R2irP0AcbOmZ4dbjZcVYNf-IdTpmO1NGA1L79cPYdIbA1pOT8jTcdfhgYyBjXFsFtmZbAYPHok8mvHe23NY5LF1hxoihtiDCV5qYPOBeqipG7nAlv15e17Sbnpq5QRnuoglhAo9wDHoSEOc10cexBg9Y-WasabPIkKYaFJD-6zHD1zbUYs0Rj9mhBVohkiEp",
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.715276,
+            "lng": -74.00997500000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.71655492989272,
+              "lng": -74.00868232010727
+            },
+            "southwest": {
+              "lat": 40.71385527010728,
+              "lng": -74.01138197989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d730e6b50c949f6de84baa7d26ac64e9154b56ae",
+        "name": "Capoeira Arts Dance",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 604,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105850220511869793580/photos\">Capoeira Arts Dance</a>"
+            ],
+            "photo_reference": "CmRaAAAAETRMUV-ExVrFeItnaUsCDEwPzngMT8TkrzIUq_0bi1oxJ0JhuUT1M2xGojow4Hsl8GFrViu8MPKWms1fXSe7zFCik5gIWt4bfRh5mL0Etm61br-At2695sAnLLT45l5hEhDA7YsNnjE_VDnVSib1n9aSGhQIBO6avfRhgZNAqEtr8PuojMhBMA",
+            "width": 390
+          }
+        ],
+        "place_id": "ChIJsaip2x5awokRLtbd8pLDv2k",
+        "plus_code": {
+          "compound_code": "PX8R+42 New York",
+          "global_code": "87G7PX8R+42"
+        },
+        "reference": "CmRbAAAAGo4yxaqvBCbWGnlJOCodiSJPABew3T264hLfGV-AGCidbpz1KwOsralSDBncbgnqDUsy1bE0x9TXo3Ff1tgGuOzFEpTpDGh8JcMh6mELsVy2tdwqxmz4KCwEZbal6rmzEhAXDcvKSOF0eYyGeBsOTLnyGhThO5APfr3V-XRDRW_VRRAE6oEUag",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "74 Warren St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7180063,
+            "lng": -74.00273969999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.71941222989272,
+              "lng": -74.00150652010728
+            },
+            "southwest": {
+              "lat": 40.71671257010728,
+              "lng": -74.00420617989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "593e1856d382fd8d5cf333121471bee25ebebaa8",
+        "name": "Capoeira Senzala NY",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJMSErdopZwokRqMO19x1eQb0",
+        "plus_code": {
+          "compound_code": "PX9W+6W New York",
+          "global_code": "87G7PX9W+6W"
+        },
+        "reference": "CmRbAAAARqK6YniLp6GlfR0-31f17-nPPIsQRXTJMNgpoIZTkVsBny_2_0GD3fooO5TnRvpqMWBvMVxQ2PycF4fbD-452z2rZKZVL4Ln8CEtJIPwp5jrvci3aJgu7ifcgC7JUba6EhAyPGGmn0MdFY9MgA8A0jlpGhTjnR5b68NO_FfMl6LxnCeF-L6ocg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "380 Broadway, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7252573,
+            "lng": -73.99333500000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72673172989272,
+              "lng": -73.9919254201073
+            },
+            "southwest": {
+              "lat": 40.72403207010728,
+              "lng": -73.99462507989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e6dcb33278b1b387be80f7c77a651d89b8b2cf2a",
+        "name": "Arte Capoeira Center",
+        "photos": [
+          {
+            "height": 406,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107580361844402421958/photos\">Arte Capoeira Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA0Se65xQcaNG45RL6Xpygz5WJPzqDpiki5dV28dAnWNd_RzdhExe7rOpPJlzZB-HjCWNqdBxzAwf23b4jeFyDbr0gr9RovwTEZ1ChnGFRBFBDzZjTBwp64PHweDJ9SwzKEhBashXV21_qs7GOoLjKxlNMGhRhJzrCyOdK5z-BG2BFlmCK21zbqA",
+            "width": 846
+          }
+        ],
+        "place_id": "ChIJd0tnOKZZwokRW_YI-4ahP_o",
+        "plus_code": {
+          "compound_code": "P2G4+4M New York",
+          "global_code": "87G8P2G4+4M"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA6nJHmRk9kuf-8aYAuOaCp8fao0Maj5kgZQsnW7iV6BsJ8I6a-4PfDVdOvPutXPS18q5sF-o41eVqT7G6LTGUulS6QooKFW4qxpqmw1SSCBv7jfB7joHPMDSs2c3WJUBtEhAEEi1H0hTEVb9O333_dOrbGhT2BhptuDtFszxxD8Krok41p-RqnA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "18 Bleecker St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7190912,
+            "lng": -73.986276
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72041222989272,
+              "lng": -73.98482787010728
+            },
+            "southwest": {
+              "lat": 40.71771257010728,
+              "lng": -73.98752752989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b6ba00a59efc107b32ffd652e44cd8bb9b1bc73b",
+        "name": "New York Capoeira Center",
+        "place_id": "ChIJWXN-p4FZwokRrwWn6uZjomY",
+        "plus_code": {
+          "compound_code": "P297+JF New York",
+          "global_code": "87G8P297+JF"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA9i8jTyBcvjk0OxQQRr7k6Jmdf-KOaGY5EQAauNTEMDWdCVscdjIsJBrcB1iiUGERva76apcNfpMDwfkUkbdKJmAfENDSU3Xcy7BjzlQF2SOLGOmn1Kr2i8bGVnW4gY9bEhBiijaIfKbYv2dwhwUCBYzkGhThlTmbY5tvntEG4Y8TZvpJX_WJJg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "107 Suffolk St #307, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7190983,
+            "lng": -73.9862607
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72042077989272,
+              "lng": -73.98481762010728
+            },
+            "southwest": {
+              "lat": 40.71772112010728,
+              "lng": -73.98751727989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1717414526ee3d9c38e7193efc0ef4ec6d1671ad",
+        "name": "ABA New York Capoeira Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJvyUvBoFZwokRtey04kMD4nw",
+        "plus_code": {
+          "compound_code": "P297+JF New York",
+          "global_code": "87G8P297+JF"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAApsxFvyGvhJNPjBjyW45x47DvvairW_vHQEtnQUn7sIFBvHSwA4EsGzVzQFSi7sP5cr6y-ICCqQDIfSc0UR-RNMiAWJprrTd9hMqCPe35ClqQjjF2ynZvDI8c4w2Yf-ygEhA9qYqotEFkxsda-JoL5tq_GhShbH3iQ0kX5QT-TiW461KUX8_FNQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "107 Suffolk St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7292634,
+            "lng": -73.99224869999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73061322989273,
+              "lng": -73.99089887010727
+            },
+            "southwest": {
+              "lat": 40.72791357010728,
+              "lng": -73.99359852989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a463b1ef18981e3fc1bd941901a5fb7784ac4a51",
+        "name": "Capoeira Training Center",
+        "place_id": "ChIJ32y1wKhZwokRojBGT8ikkxw",
+        "plus_code": {
+          "compound_code": "P2H5+P4 New York",
+          "global_code": "87G8P2H5+P4"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAPNz6_86VF78XhIUfZHQ8wHtp3CA5-je-qJMtnrZhpObZMpHJNcI-GRVm4HkOgqUuLJrTOWoH68jElMY-zREs2_-aqjK_vNGFC3oyntDB4l7EnAM8TTTowGQUnyRm4fqQEhCGALiMYDjPb9rX1Cd6B5zcGhSAEBKSupyvZH3UWwiM9U_f1qgiDA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "440 Lafayette St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7295142,
+            "lng": -73.99232310000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73076272989272,
+              "lng": -73.99076527010729
+            },
+            "southwest": {
+              "lat": 40.72806307010728,
+              "lng": -73.99346492989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7fba95b92dac6968744496d285538f297741e289",
+        "name": "Capoeira Training Center",
+        "place_id": "ChIJAQDQVppZwokR6El-WhBCgHA",
+        "plus_code": {
+          "compound_code": "P2H5+R3 New York",
+          "global_code": "87G8P2H5+R3"
+        },
+        "reference": "CmRbAAAAeA7om71iQGKc3lHBJ1jKQ125BEJPrZ-FSmGbGrukbfmw_h8rViQ1kmN9EfZD1f6UBA7qdqoDGzAp9cG0_ZYMFbhs70iGluGwpDZ0K0hKiGosKJ2ImbPu-JHd1JTVSGYTEhDwi7FYRU15GCaMdi8bMHjKGhSKv_keHMoAAJPZk4m0Ex3A3mP2LQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "440 Lafayette St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7290009,
+            "lng": -73.98930829999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73046222989272,
+              "lng": -73.98787582010726
+            },
+            "southwest": {
+              "lat": 40.72776257010727,
+              "lng": -73.99057547989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "60fffce3a18e00bd6db2a6cedf2fbef6466b8228",
+        "name": "Abadá Capoeira Academy NYC",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115885894351646809457/photos\">Hilary Kopple</a>"
+            ],
+            "photo_reference": "CmRaAAAAGP90A_Ok3W30UM02l72p2NRZuo-J0pJjWHBPu-KH2pRWp7n7l5zHxJ769jKrSalJHkajtzy4uWbE8cX_f3nlOYn0_XMx79WtYxeazVoSRSCxHjhiJ9CxijVYapg6QVQWEhCQSDys17VSVoOXL3WbQRY5GhRn8-BIZV-tA08XECfkN8Fi6YaNLA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJjRvPg5tZwokR2I4qUyIOTHY",
+        "plus_code": {
+          "compound_code": "P2H6+J7 New York",
+          "global_code": "87G8P2H6+J7"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAADX-CsopyEnTLIaBLDJO4Ao66ex6glflLDM4IEbNJYeN_6HlvU6X2z6o8DJaBZa7qSP53adlqXiMw1Uh5xVt29hAupiiSCoeCizmSdk2TT0fd4AmAfowI-tUCJjcpUuuUEhBMI5wr9ULe2gQ1p5ugwLPCGhT6ybdLN0I6MC5U8pWgnG2dZuPyNw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "12 St Marks Pl, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7324997,
+            "lng": -73.9888275
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73375032989272,
+              "lng": -73.98754727010729
+            },
+            "southwest": {
+              "lat": 40.73105067010728,
+              "lng": -73.99024692989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fd9f224670c68cbe461648b6fda1233579212444",
+        "name": "Capoeira Nago NY",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 663,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109516619881778841703/photos\">Guillaume Orain</a>"
+            ],
+            "photo_reference": "CmRaAAAAWZXCn-Zuq8DUy1t1XCbtJ9IlH2uk45bBR5IjahdHwNQ3Qop3a0RHzHBtp_YE7PY-TgsgEUUc0erFkEnqThrLuRmFFppsvk9OOyIJi2bWB6L4fegR1KqkHqx9VRFHOB9SEhDHI_oFVuKOwfUNQvlWU4h-GhS9O70SaDIg4B_helu4bhW10Dx8Dw",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJd6WN6oRZwokRmscd_6z8jqc",
+        "plus_code": {
+          "compound_code": "P2J6+XF New York",
+          "global_code": "87G8P2J6+XF"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA-OZ5B6z_1Q6mGE6dPHFJmKxfIUH1mh1Au_ePbglWsiA2e_sLgCrsoR_EgXQy-_-5I7Qjc8a3vfBWfco2N872GRqlaKO2azPQeXOu1I7e9BG0CJ6-y-HXoVkhC44qGlrOEhCKdqjP7TrJLspAKpG84ao2GhTF_DimnORXUNOxPyhjPfzZmNSXxg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "123 E 12th St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.6900097,
+            "lng": -73.9892637
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.69144007989271,
+              "lng": -73.98786292010726
+            },
+            "southwest": {
+              "lat": 40.68874042010727,
+              "lng": -73.99056257989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "990bc13f7c809eeee93b6df600e9921e547939a3",
+        "name": "Capoeira Guanabara New York",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106940824557098813365/photos\">Capoeira Guanabara New York</a>"
+            ],
+            "photo_reference": "CmRaAAAAYM4DvHWaAt6twdqtW7LGFpWzGv1XPW7kJf7bmlKffzvg1j6lPiJQE7PC206-0iNfoYAKiWTusSJ5p-GqrWpXUayPbq3F0c9VzCzgG74dVP9xli7TQb9svCA36LtDTmjsEhAM_M_13ktzQNkf914VucH8GhTZ_xPLTUesSYk5vjif2Otwb1Rbbw",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJ-SJ8m05awokR4YRuEbHQoAo",
+        "plus_code": {
+          "compound_code": "M2R6+27 New York",
+          "global_code": "87G8M2R6+27"
+        },
+        "reference": "CmRbAAAAHiE00RSEjmBKTaGq1TCXXy7vI-_0R0jiuMRwPdsk3im1P9UeZCztJdNqhlOCNFxSROsTSsr0woBaZXmfIM61W81buwiIfLvL04Rr5IcMQrWQQIG1vVPoBZ8TrcxDmBAMEhAn7hMuCqnmUruWRKapJdwmGhTVDEmj1UbfV7xvrmHPDWdMqEjvTw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "112 Schermerhorn St, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.686622,
+            "lng": -73.98249849999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.68793917989272,
+              "lng": -73.98106627010728
+            },
+            "southwest": {
+              "lat": 40.68523952010727,
+              "lng": -73.98376592989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ef1699da251c91de9cc7760ec7810f05a103fa9b",
+        "name": "Brooklyn Motumbaxé Capoeira Jiu Jitsu--Mestre Lampréia",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101877632343674392085/photos\">Motumbaxe Capoeira Jiu Jitsu Brooklyn</a>"
+            ],
+            "photo_reference": "CmRaAAAAyINYyesh9Zoq-IYrnQ__YWNrmwReaJqIAMcC9HO5dYVIFdOrfDY2MP-owQmvfDPx0MDTW9zvKOHT_dddsnT69pr3kgFxUq_Ysl_5Ab8rciP0VbO2gQiqxfm1Zs5h-GzKEhAoamiq7UpxZXn0fbUeeyVHGhRswhF2Cj5sn_u8x0NCtVnTpd-y-g",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJT1my4lZZwokRZzO2K_MdYaw",
+        "plus_code": {
+          "compound_code": "M2P9+J2 New York",
+          "global_code": "87G8M2P9+J2"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAcP_OwKezaShPomMhH_J0hsATQdH5SrGDMj3aKdD_nOLPS_dzfQmRMmcSblvOi3cFZ9K03S4P8raWlkFLeSZ2CGYDXjstQvoEg-qKmjcx_G-0CTUkBUi9TTeHXOkXA-OhEhACZvjkpU-xfLqsJXBA1D7YGhSpVG9sTbJ0XEpMfi95-RgEOqGLjw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "76 Nevins St, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.743371,
+            "lng": -73.99050799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74481357989271,
+              "lng": -73.98909012010728
+            },
+            "southwest": {
+              "lat": 40.74211392010727,
+              "lng": -73.99178977989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "88a982ff223105df94d52893ae5e10981db896f7",
+        "name": "Capoeira Luanda NYC - Instructora Trindade",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117217836385806665886/photos\">Tewfik B.</a>"
+            ],
+            "photo_reference": "CmRaAAAAgW83_KQ4OYO0m6liqW22eUs58P_74m7xeagB8N82UBfsO5w8sLjkA8HajlTVzMsXyDxvM-OCbt46nlQ1ICZdOZ7dAUJ5jd5SUCyBxup3gNalka-4XghKf-qctd0i7Wr4EhAZhJdx8Bufit392CCheBt1GhRtr5EPE5CCjnEKRFhUL4G8sCtVBg",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJ87TnY71ZwokRZvF-WSTlhGU",
+        "plus_code": {
+          "compound_code": "P2V5+8Q New York",
+          "global_code": "87G8P2V5+8Q"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAe0eprAkRZ1kJeRpSz-45m0m3PWk-lJDvT_KrnpGyhfngKIOZqMpqanJCZbYIsNweJwxK_IOIFe741vMD2ZdiX8DbTo9mO5QcGTkepwbnQolCMJiSzvNIG-ThlRCYNFgaEhBlfaj8FnSvcC-iBAkR1XyHGhSw7_rudiyu8-cVmtWUBdrubjn1WA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "28 W 25th St, New York"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.723658,
+            "lng": -74.047349
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72501297989272,
+              "lng": -74.04604932010729
+            },
+            "southwest": {
+              "lat": 40.72231332010728,
+              "lng": -74.04874897989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "24d54f3b481c8d323071940b147c888981d2d697",
+        "name": "Arts United Capoeira",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101191674846440946190/photos\">Arts United Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAPOXpWX663toUN8w_Gv0ZcJjbMROCYcDt-YqH8wXwDdle71LrIi7A0D6FdrIGpI3_N0wndhc1ndCvenuQCLLong43ls0aEqYzvk72ajep9fVWXS-jFpfMl9yMNLYPG9GcEhBKLpFRHd6KH_wwh-BvpspVGhSccC8cY5But0_wC1aiOwjIhUwE9g",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJl00ZO538ZUARlGxNl1I6Nqg",
+        "plus_code": {
+          "compound_code": "PXF3+F3 Jersey City, New Jersey",
+          "global_code": "87G7PXF3+F3"
+        },
+        "reference": "CmRbAAAA88GW2-jl_4stZ_m5AevonwYrRzrp6-KdgbFbS1AwS_43gp3IUlAU6kloOAhDbNvSJR_CAAXCQ15ZPpc0u4kQs9VEzGpdZpQzxL5RB5uqCWBX6Zx1OX8zQVv36pj_sJCXEhAAp-673yLrfOLfHWCS3uwXGhTx7TJg-7_Jvv1F0qAmhuHCYQAAXg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "54 Coles St, Jersey City"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.6783551,
+            "lng": -73.985884
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.67970492989271,
+              "lng": -73.98453417010728
+            },
+            "southwest": {
+              "lat": 40.67700527010727,
+              "lng": -73.98723382989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6c724010ff1b509147056c75af3f119feef7fda5",
+        "name": "Capoeira Luanda Brooklyn",
+        "place_id": "ChIJ4TG7B1VawokR6N1Y4qDg0I8",
+        "plus_code": {
+          "compound_code": "M2H7+8J New York",
+          "global_code": "87G8M2H7+8J"
+        },
+        "reference": "CmRbAAAAsfcKjLEINK7yuU-F5OU6NTYreCj3t3AFL1CbtEgH7E4dig6YMmk8Gsq21d31SBGQxZuuPNDA-dPt6VGzyGwhIpzWPnqJ70PufFtv3HKZWH4SsbIIn3Jxywdt-l6I66PnEhD-mRaCRYtJD897etSV7eiuGhRYjK_gdWiisGd8MvA7COrgJDxlTQ",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10 Whitwell Pl, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.6773554,
+            "lng": -73.9858296
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.67875257989272,
+              "lng": -73.98459337010728
+            },
+            "southwest": {
+              "lat": 40.67605292010727,
+              "lng": -73.98729302989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "21b8eb56eacc2fa5dfba96999f3f00b2efe2fc8e",
+        "name": "RB Capoeira Brooklyn",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1452,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100432592612470924956/photos\">RB Capoeira Brooklyn</a>"
+            ],
+            "photo_reference": "CmRaAAAAKsi-3tkZQaIxhnTX-G4HeZSSyDDVvhRioTWRnAx3nt_CK0biew7mklNE8TDotFG4_BrS-hcYzE2bykk1B-PDNL4kT_LSTzhCjYnLvHp_xpvj2dYFvXFHfFkjdYnHkXrcEhBF104m8360NZSPsme4vnpwGhRtxmvE1Jxyn63u4hO_j_VLvnbeZQ",
+            "width": 1454
+          }
+        ],
+        "place_id": "ChIJHQqkhvlawokR9BFBNTllsiE",
+        "plus_code": {
+          "compound_code": "M2G7+WM New York",
+          "global_code": "87G8M2G7+WM"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAn_d1jriqt9w9-WLdqtJQ7vDsHELQXXuwbRLguP-AmN6iXu0EOUdNEYdKlan4gWsIntAuMKmM9gzvFdL0AN_SugjFixi-ULdT8dJStaqUEbAwqAXFnhxuyxmbBZfHWqZkEhDS93MDkoYCNrqgVxh-4jAfGhRAEaTUlwwyQE9QXd-eqLe_r5nTPQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "279 3rd Ave, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.6703908,
+            "lng": -73.9856321
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.67179562989272,
+              "lng": -73.98423607010727
+            },
+            "southwest": {
+              "lat": 40.66909597010728,
+              "lng": -73.98693572989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "80f5e1cb3ac1cd02b8d25c584b4e0ace498305e8",
+        "name": "Capoeira Brooklyn: Mestre Foca & Professora Rouxinol",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1295,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113764938288988803334/photos\">Raízes do Brasil Centro Cultural de Capoeira Brooklyn</a>"
+            ],
+            "photo_reference": "CmRaAAAAGy2yJKRrwoXfeQMQFFVKMF4AUJG8KriPEB0k6TpO7GRChZp0tsCWi2bc3Oki7nh8qk4eIwE4yfZ2eG7-43iHOOWiJZ043_tnLr5hLDNR_ZiFjj9kfZ2I4iQl20COAoWhEhBtNzNlXzz2K9pPVMncKfAVGhRZ8tnOvLP4ZkGHwhTqAVi7yVV7Pw",
+            "width": 1295
+          }
+        ],
+        "place_id": "ChIJ7QsOy_1awokRp4U42tlyiBY",
+        "plus_code": {
+          "compound_code": "M2C7+5P New York",
+          "global_code": "87G8M2C7+5P"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAYDQAaTm-di4YCb73BoS8eeQRPh7UM_JMrNl6NBYGEJgq3ylkh4OO-HqBC_N9MqtOLSA4iu5z1XCUtJOMtc3wngIM3dPdqJMw7YDjBj5hg4Vxpix_gN9OPj4CUAw2zlrSEhAi3WXPfr8hHjZ6jA7qsnGHGhSNwK1qt-RuIAQTb4DNy__Z85icqg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2nd Floor, 316 7th St, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.674097,
+            "lng": -73.962763
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.67543177989272,
+              "lng": -73.96155447010727
+            },
+            "southwest": {
+              "lat": 40.67273212010728,
+              "lng": -73.96425412989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "819f7dca783a43e7e8cc9a7a41ff3541e558aae8",
+        "name": "Motumbaxe Capoeira Brooklyn",
+        "place_id": "ChIJO3jwi6BbwokRVEMbqkCADKI",
+        "plus_code": {
+          "compound_code": "M2FP+JV New York",
+          "global_code": "87G8M2FP+JV"
+        },
+        "rating": 4.5,
+        "reference": "CmRbAAAAcMkWdDGRyKBscSKjkmx3Z34eGIdDVl2Mo-PGIL3kucbZvr16NfsJa39M6CZRhyDq1BIjLcpSTPEV_z_dM34scp8G4421GyRD3XdtSZ0rNZEEWHmteJiynBwwxcugGnTdEhCruSg7qr5HxK1rtIisodBuGhRSz05zirPERBRyqhcU9_AznyZyvQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "759 Washington Ave, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.69189009999999,
+            "lng": -73.9424107
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.69322302989272,
+              "lng": -73.94120947010728
+            },
+            "southwest": {
+              "lat": 40.69052337010728,
+              "lng": -73.94390912989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "6263007f5e1ed96b4cb3ff89116ac564373a6d1e",
+        "name": "Centro de Capoeira Angola Filhos de Dunga",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1224,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109397848078348004475/photos\">Mestre Grande Capoeira Angola</a>"
+            ],
+            "photo_reference": "CmRaAAAACRXQcCoPnup3xnlvQn3Snz-ydGTi81FA4i4s_YprBHc7x0RTwkQCqnSuKpy-uppVPSUWsvPfhCm66irxLldoshoxpuYW_xIQ84rIC_7bvn834CnqZlSi8heKF6d9ij06EhChkBBiXYDiaA4G-7Pm2b2_GhT7JFMdYDkmqoCvTucvQzobU3QsGA",
+            "width": 1632
+          }
+        ],
+        "place_id": "ChIJm7yVI3RcwokRzz-joqpN9AI",
+        "plus_code": {
+          "compound_code": "M3R5+Q2 New York",
+          "global_code": "87G8M3R5+Q2"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA2hU9_5pbTRWqEmdD4Wu1geUaCZuR1Pz8TjBUbyj4S7zJO9u0KFqdYrcRA5rI3gva2HIJfyIWWXrAho9Cmg1yoDgMwVMpkYx9AjqxfQaQ2_eGwlIWagJ1K9GF2_nBtNyUEhCg096f-Wy5X9NXBB_XcOg2GhSdy8bDAWBZgH1kVublASbQvI7LoQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "335 Throop Ave #3, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.6793006,
+            "lng": -73.9494186
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.68065042989272,
+              "lng": -73.94806877010728
+            },
+            "southwest": {
+              "lat": 40.67795077010728,
+              "lng": -73.95076842989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ad31f872880673e86d11da4e3d28d6628c723d2b",
+        "name": "Capoeira Fit Brooklyn",
+        "place_id": "ChIJj8yF6JpbwokRJYItVADOAc4",
+        "plus_code": {
+          "compound_code": "M3H2+P6 New York",
+          "global_code": "87G8M3H2+P6"
+        },
+        "rating": 3.7,
+        "reference": "CmRbAAAA97_NoLXrVpfqFPMDMU3p79iv3VUs7BNcQf3cOHdi64y6MaeigYYUxK0nRQmo8onZLHBPqGGWqXoGTAcmdRA6l47HouCiD8-yqdyNGrDRPio4HGDtRBEttUi8MPxpIhZ4EhAfMLafxobSp-TK58gBlJ8AGhSgpapkjvg2OLfwUTNLyu6Z9_-Arw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "525 Nostrand Ave 2nd floor, Brooklyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7640241,
+            "lng": -73.9792839
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76548717989273,
+              "lng": -73.97785147010728
+            },
+            "southwest": {
+              "lat": 40.76278752010728,
+              "lng": -73.98055112989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7d0be79b53db1270c50117e115a66dc63f031ac6",
+        "name": "Motumbaxe Capoeira",
+        "photos": [
+          {
+            "height": 576,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112941976645743408426/photos\">Motumbaxe Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAXDLv4m05IfQnvk13BvYHB1-h5N5f95JZuMQV7KD8fJFa2NKNaEtAYLWThpiDNFmoArnx_PjOcWACu1zVCoHHG5YP1iZuyqsrOfvsZD-cYEjLumsIctzueAUCcSGUW1eOEhCb76RrR2xy5gT4CJjnTtEeGhS86qAy7-fsuLnlZr4964vCme3IxA",
+            "width": 576
+          }
+        ],
+        "place_id": "ChIJgzsG2flYwokRdE8zS_gImCI",
+        "plus_code": {
+          "compound_code": "Q27C+J7 New York",
+          "global_code": "87G8Q27C+J7"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAGv5LgZUFYQ0ImqBu0co8R3xg7OlWmknf_nph5edImPDO8DmRsDCcStJ5KWddfwiE9w_gkNwqiQgMfzP9yjX_dHrHQZO-56dJ0m0njAglAvofWLOc93fHfIZl-h0HuV_PEhDFU25aRHO1A1hXpsVhNX9AGhRx3qGcNo-r8Dd__XcGzFhgCg9S-Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "130 W 56th St, New York"
+      }
+    ],
+    "status": "OK"
   }
 }
