@@ -1,20 +1,93 @@
 {
-  "city_name": "tulsa-oklahoma",
-  "city_rank": 47,
-  "city_population": 398121,
+  "city_name": "cleveland-ohio",
+  "city_rank": 48,
+  "city_population": 390113,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.1539816,
-      -95.99277500000001
+      41.49932,
+      -81.6943605
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 195057,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.457361,
+            "lng": -81.7132273
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.45874967989272,
+              "lng": -81.71199722010728
+            },
+            "southwest": {
+              "lat": 41.45605002010728,
+              "lng": -81.71469687989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4bbea685732598f9e223c378b51895195ff7a7a8",
+        "name": "Grupo Unidade Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ1ch3Ad7vMIgRDX7bpIaO1lQ",
+        "plus_code": {
+          "compound_code": "F74P+WP Cleveland, Ohio",
+          "global_code": "86HWF74P+WP"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAgRGvrLh-wrtrKWImQBCJmA7XGZp0ejrDwUCo3q11eic7JQX6GqiFBy4S6j8N-idzzN93ZrTmyfhJQyA4XFJ6YhB5_NEKVhUJ-1kHD3_YsLbQuU2h7YfJEmIWwhd3n9IiEhDAm0HeetRkg2e47pWMSSndGhSSmfQl7qQAhvWSMLCgpNcGxPz1Qg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3565 Fulton Rd, Cleveland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.3652788,
+            "lng": -81.5303139
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.36662862989272,
+              "lng": -81.52896407010728
+            },
+            "southwest": {
+              "lat": 41.36392897010727,
+              "lng": -81.53166372989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "9aabfa492a31c8c1bd917bff713291f974090281",
+        "name": "CAPOEIRA BRASIL Cleveland",
+        "place_id": "ChIJk9z5wvbhMIgRoTGGhx2w0QI",
+        "plus_code": {
+          "compound_code": "9F89+4V Walton Hills, Sagamore Hills Township, OH",
+          "global_code": "86HW9F89+4V"
+        },
+        "reference": "CmRbAAAA4sXBYOEhjRZVmCxJvlNMV6WweAnAezcz4Tu8B3F2-RoqVKp9GUDUfDO_b7RBqPBd67UsVc20lk59UUOzkRtIjKvi8LS7X3DoP3RGFVZlEaGEmV3tm2u9AD8DYO_wBbC8EhDd_NLh63ZiUlP9Q6kd9yrMGhR2ds7cMu1h6we83azQVAE_Y-Bshg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "20437 Hannan Pkwy, Walton Hills"
+      }
+    ],
+    "status": "OK"
   }
 }
