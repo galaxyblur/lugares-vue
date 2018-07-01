@@ -1,20 +1,190 @@
 {
-  "city_name": "bakersfield-california",
-  "city_rank": 52,
-  "city_population": 363630,
+  "city_name": "tampa-florida",
+  "city_rank": 53,
+  "city_population": 352957,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.3732921,
-      -119.0187125
+      27.950575,
+      -82.4571776
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 88239,
+  "possible_duplicates": {
+    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
+      {
+        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
+        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
+        "score": 0.8051948051948052
+      }
+    ],
+    "ChIJR8HaPoDhwogRo7IyCTogywI": [
+      {
+        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
+        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
+        "score": 0.8051948051948052
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.991793,
+            "lng": -82.517893
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.99299192989272,
+              "lng": -82.51654552010727
+            },
+            "southwest": {
+              "lat": 27.99029227010728,
+              "lng": -82.51924517989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b41002ad6924495135f13a9d1d9c85d5b1298453",
+        "name": "Tampa Martial Arts & Wellness Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105814300938925993495/photos\">Tampa Martial-Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAA7a9o8A4cVWDcOyysRqYlu8-t6Ut-DXdo-XSMPVYskSpD4oOfLDabyUEzoT_8bLw2OeoHSAxpqFqh5HfYhweP4cXlLNPO_gvzbTTmZPN2TFfGosMBAePyuznWjvJMXPADEhBwUUnZEF53_fyAcgu3Gdw-GhSSRDxEmDJSWsx-yKQxNzPU05vtaw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwTDjudLDwogRgsSsv_zF37w",
+        "plus_code": {
+          "compound_code": "XFRJ+PR Tampa, Florida",
+          "global_code": "76VVXFRJ+PR"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAmALpEVKwmyOPv7MeyC1Ad2B2BuekPBTNlDfef-OSRUtaHLshfq04yJDQh2hcpY6PS6cib1E8FwDN_iZXOxA1iZ_BJzxkSFSwmwIT0EL4uAAt8oX2wGidBCyh3lQD3Q7LEhB_mO82NJCBHoLVo16ckIdQGhSuSIkmHGkDD1Kwg6ETKK-lZho0dg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4405 W South Ave, Tampa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.0798425,
+            "lng": -82.50598400000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.08121917989272,
+              "lng": -82.50499962010728
+            },
+            "southwest": {
+              "lat": 28.07851952010728,
+              "lng": -82.50769927989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "000fdef11d34ed223a2ffb0f6e894a2b9f619022",
+        "name": "Tampa Bay Capoeira",
+        "place_id": "ChIJ8dZfsZHAwogR2P0nns5Atpk",
+        "plus_code": {
+          "compound_code": "3FHV+WJ Lake Magdalene, Florida",
+          "global_code": "76WV3FHV+WJ"
+        },
+        "reference": "CmRbAAAAYH-N7vdnym5IJwmTTvaLNC3rjbRu7hqE_XEuXly73NhuUxgNXEjWDv2GrWFcsg9hn6xI4JijXr2X1DyVHMea56LLQ0o8dYdlEPsWyHHbliA8rDks_RUB7ybwaEvBBPbFEhD-dzWeDuJDejsLEd435JMqGhTfLkUuvOl6v1viIbAUScaPCBxi8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "14457 N Dale Mabry Hwy, Tampa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.8214144,
+            "lng": -82.6609864
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.82266827989272,
+              "lng": -82.65963457010727
+            },
+            "southwest": {
+              "lat": 27.81996862010728,
+              "lng": -82.66233422989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
+        "name": "Maculelê Tampa Capoeira",
+        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
+        "plus_code": {
+          "compound_code": "R8CQ+HJ Harris Park, St. Petersburg, FL",
+          "global_code": "76VVR8CQ+HJ"
+        },
+        "reference": "CmRbAAAAG6w1w61RJ0pigyWb5EsgTS7L_Lxr-4fmWwLQXm0UQEiZ4pgzWiGgxLyYouYcMuD6Pn0F97lp6KNDsWEkKunax6hiSYnnA4f5OLw5Ew2BB4EkKEjrX1OsMKrPoZiPv_l-EhAZ8zZgtuz0JGZWHQ0PYHN6GhTGTwLaYGlf-erC0zp2YRGuzblJPg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2033 54th Ave N, St. Petersburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.7749953,
+            "lng": -82.6469516
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.77634512989273,
+              "lng": -82.64560177010726
+            },
+            "southwest": {
+              "lat": 27.77364547010728,
+              "lng": -82.64830142989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
+        "name": "Tampa Bay Capoeira - St.Pete",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "plus_code": {
+          "compound_code": "Q9F3+X6 St. Petersburg, Florida",
+          "global_code": "76VVQ9F3+X6"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAYAaeeUbu21Uoqm1wbWUwDLwz36w5d-4RJ-DKjjvbUFRvP4ENqKq2zsDGIxKNlD9ICU26ay8vOsd1vp593X8zFN_EdiN5-1J2rfhmNsoCl2a_rt-6VrKKUHU2sLqblnRAEhC9hHFBDvYy2U7apA1wJkM0GhTjeErmlotiZdYm7quoPUqTOqlZjA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2033 54th Ave N, St. Petersburg"
+      }
+    ],
+    "status": "OK"
   }
 }
