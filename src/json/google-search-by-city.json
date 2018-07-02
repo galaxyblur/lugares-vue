@@ -1,20 +1,118 @@
 {
-  "city_name": "toledo-ohio",
-  "city_rank": 67,
-  "city_population": 282313,
+  "city_name": "greensboro-north-carolina",
+  "city_rank": 68,
+  "city_population": 279639,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6639383,
-      -83.55521200000001
+      36.0726354,
+      -79.7919754
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 139820,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0659217,
+            "lng": -79.78732839999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.06724367989271,
+              "lng": -79.78606477010727
+            },
+            "southwest": {
+              "lat": 36.06454402010727,
+              "lng": -79.78876442989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0c23477934e06c0caab7062516a5484b929797b0",
+        "name": "Free Spirits Yoga",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116038203108220024863/photos\">Free Spirits Yoga</a>"
+            ],
+            "photo_reference": "CmRaAAAAbhp-VOFI8baVm34yTtSnkxLYYb2F9lfFWuoeVw1_bzhzzPRMfQ_3sWLcsVVb5-stm5BwNYZl_p5tJjFCTvzk1Z3ovOxz9pGbGko5827L93AlyiDYah5CTsaLcrj-JXAwEhBPL2iYcnuKX3rqb_d5O2_GGhRTp65djdZMoDhh6lFYpxxIgC5k8Q",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJ87TtMyAZU4gR4GpDror12wc",
+        "plus_code": {
+          "compound_code": "3687+93 Greensboro, North Carolina",
+          "global_code": "87823687+93"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAmzwtBbopjT_axMcT2K38fV0iepc8xoPtJAIWaZmagSUEnOq7_BgMEUTpIp89b6euFzIgshX9ECOGFaZNl1IkxNmO9si_BFTXVJOWahK_u6vrjYjtu6ussaf51SuQcq7QEhB7W7grGzyZEa5TBZFiuEcNGhQlv5XZVqtdMeCTqplNgyAdHpOhnQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "337 Martin Luther King Jr Dr, Greensboro"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0792008,
+            "lng": -79.7995933
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.08044037989272,
+              "lng": -79.79829967010727
+            },
+            "southwest": {
+              "lat": 36.07774072010728,
+              "lng": -79.8009993298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb27c8d665f02b42041fa3d5e6da48ce8eb28d77",
+        "name": "Artistic Motion School of Arts & Preparatory Academy",
+        "photos": [
+          {
+            "height": 683,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103404891184088948640/photos\">Artistic Motion</a>"
+            ],
+            "photo_reference": "CmRaAAAAWgzYycXjYtXP0Lo1wA-oOI7t4ATVG7tBUw5jyr3Zaic-cSx2mRcvnS4KAXARqSg1jQaTtm-M9pHVj8wVN8nCnZ2ROUtDuGE1DSNGOB6Nxy2_-WN8uz7yEbmqPZBDykZuEhDLOO6I_Od23xbAyOyulGLLGhRBNFQFKpgJdZPZZiqKyJ5bWQue2A",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJdXdLfM0dU4gR7AsW2LNWbm4",
+        "plus_code": {
+          "compound_code": "36H2+M5 Greensboro, North Carolina",
+          "global_code": "878236H2+M5"
+        },
+        "rating": 4.7,
+        "reference": "CmRbAAAABuKcWG4QalM-vasOq2SrW5n8fzrI1xOURqOgkMcA-1WmBCn9oiQUUq-32lUsbktlt_cwfvbtWHuT6zlUlp8tKgOFHahUjOZFIIDbbFT0EZwqRfCdfjo7fYCay9pjkQZ0EhB3-q8JMDHt_0XxDgEjh9nKGhSnRPy0S9-8mmn1qEofgeD7uSk_rw",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "800 W Smith St A, Greensboro"
+      }
+    ],
+    "status": "OK"
   }
 }
