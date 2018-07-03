@@ -1,105 +1,20 @@
 {
-  "city_name": "oxnard-california",
-  "city_rank": 108,
-  "city_population": 203007,
+  "city_name": "fontana-california",
+  "city_rank": 109,
+  "city_population": 203003,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1975048,
-      -119.1770516
+      34.0922335,
+      -117.435048
     ],
     "rankby": "distance"
   },
-  "people_per_result": 101504,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.233046,
-            "lng": -119.170956
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.23439582989273,
-              "lng": -119.1696061701072
-            },
-            "southwest": {
-              "lat": 34.23169617010728,
-              "lng": -119.1723058298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1475263a796a1628371a2056c2e1bf734f6a497b",
-        "name": "Ventura County Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115311606692635842456/photos\">Capoeira CDO Ventura County</a>"
-            ],
-            "photo_reference": "CmRaAAAAYUcZUvf4VdDDuBMQd23OHxpcD8R1gJkMO0Te9RjZWcjJgQ1SMTMINkQcGseXRFZiBcfO3k2JL_9dVuAXLg6i_BuILT9IXXmr1iRtyVYni1uodceK7lcP3OZ6396eVzaEEhBOVGjKXTbmFkEmv9TMspNRGhSNBr1pfo_2UheRacgyD_4NyN95UQ",
-            "width": 1800
-          }
-        ],
-        "place_id": "ChIJq2GG0CtM6IARbJqPiCY1dxQ",
-        "plus_code": {
-          "compound_code": "6RMH+6J El Rio, California",
-          "global_code": "85626RMH+6J"
-        },
-        "reference": "CmRbAAAAyzEvE76oxyc-9jOvJU1LN0n7JLQq1yhJkVdkpH-GeIkjgvI4oOHft0p5G-K7psnD0xBwWn-nuTW-U3uu2NN0ZJvdYWIgG6lZj9lLmwjmAPqTO1mr6aCeiW6WyxN7PI7qEhAEW2MMAfQS1_lLj1GwxQNcGhQgDVEsKs6otz8Q8xFogB-9ZH1r0g",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2550 E Vineyard Ave, Oxnard"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.14605,
-            "lng": -118.8133621
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.14772587989272,
-              "lng": -118.8120138201073
-            },
-            "southwest": {
-              "lat": 34.14502622010728,
-              "lng": -118.8147134798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "049b3f842362227a1b9499574aa4429cf2fae32e",
-        "name": "Capoeira In the Valley",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJUyF0eYok6IARTbMgDfYQbtw",
-        "plus_code": {
-          "compound_code": "45WP+CM Westlake Village, California",
-          "global_code": "856345WP+CM"
-        },
-        "reference": "CmRbAAAAX1-jc1QM4k1gvFauIvJXH8wvI_AwiZp-v6Yq_xoRrW7BTW_3Nslypw8UPo5zR2AMcTx-NKOb0wv0RwblMw2PFAqhg-vFEna1D6s1dLukYQzLuUAOAylCFxICrWyFyEu6EhCw_cOPKITmoFQByoieSJEWGhRMMBuvnu7tC608-PJ9KQ7ERAmsQw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "31800 Village Center Rd, Westlake Village"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
