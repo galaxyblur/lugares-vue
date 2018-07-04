@@ -1,20 +1,54 @@
 {
-  "city_name": "knoxville-tennessee",
-  "city_rank": 128,
-  "city_population": 183270,
+  "city_name": "worcester-massachusetts",
+  "city_rank": 129,
+  "city_population": 182544,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.9606384,
-      -83.9207392
+      42.2625932,
+      -71.8022934
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 182544,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.352389,
+            "lng": -71.5334938
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.35370472989272,
+              "lng": -71.53195227010728
+            },
+            "southwest": {
+              "lat": 42.35100507010727,
+              "lng": -71.53465192989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a8a7c8677433ccf3fed3947a638c89a519c34355",
+        "name": "Capoeira Brazilian Jiu-Jitsu",
+        "place_id": "ChIJq4qNY3yL44kR-yJaPd1dca0",
+        "plus_code": {
+          "compound_code": "9F28+XJ Marlborough, Massachusetts",
+          "global_code": "87JC9F28+XJ"
+        },
+        "reference": "CmRbAAAAh9vnMddvJT40VZ7XuIpllBm4tGNzOTEzqOoSe8TLJfQwBnKSV3FvVcUR24uM6lKWDjvqlmSkf0sqTbp0scBFkp6YJ9a_JveZdfhxBvocN4frmw9Y4M8TF3V8cC_7V694EhBM_hUXlvi-rV6jFEdSjLudGhQH3BROAhp58EtNLIwQCH8GP8PP2w",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "24-28 Hosmer St, Marlborough"
+      }
+    ],
+    "status": "OK"
   }
 }
