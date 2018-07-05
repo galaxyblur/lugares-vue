@@ -1,20 +1,105 @@
 {
-  "city_name": "rancho-cucamonga-california",
-  "city_rank": 141,
-  "city_population": 171386,
+  "city_name": "port-st-lucie-florida",
+  "city_rank": 142,
+  "city_population": 171016,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.10639889999999,
-      -117.5931084
+      27.2730492,
+      -80.3582261
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 85508,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.2717551,
+            "lng": -80.35855959999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.27355037989272,
+              "lng": -80.35746757010727
+            },
+            "southwest": {
+              "lat": 27.27085072010728,
+              "lng": -80.36016722989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "9bf7165248288052fa1528030427baed8a5142b9",
+        "name": "Mission Fitness & Wellness",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2016,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111462359493357357900/photos\">Mission Fitness and Wellness</a>"
+            ],
+            "photo_reference": "CmRaAAAAT2d4aHguyalVvobOVPKVWS_i9qqCXHlTuokPriYNoCJHh9sXywp03ZDTPsFMlhoa81jOW8Ghs3opzMOrOUDexhwBMcItfn1BjXxxV_R-bkYDHHPWldQHfyE1RXbUhl4CEhDv5Nh0rAmzUAJOIgphN_i0GhQFf-1Hit7bVI8mUOnpjH1rk5SS8Q",
+            "width": 3584
+          }
+        ],
+        "place_id": "ChIJ_7yVRHzp3ogRkt-yQbB4TV0",
+        "plus_code": {
+          "compound_code": "7JCR+PH Port St. Lucie, Florida",
+          "global_code": "76VX7JCR+PH"
+        },
+        "rating": 3.6,
+        "reference": "CmRbAAAAcD_ismC5T-L8N0UuUA1LENtovuka1TLZ8ourHgjmkxC4y7sw0KK1DTZf__iDUxOPYTAUkxUhlVOeTmGXc-rozme56xHXUls986Se_7BAm93tcJF4RKLNygmxS1FjPBPEEhAYnqXxrjHDEDOu8KCaPBSQGhSjKHE3dQwfmTXPt5ttjG50P1tIQQ",
+        "scope": "GOOGLE",
+        "types": [
+          "spa",
+          "gym",
+          "store",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "460 SW Port St Lucie Blvd, Port St. Lucie"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.6252435,
+            "lng": -80.3827009
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.62659357989272,
+              "lng": -80.38133432010727
+            },
+            "southwest": {
+              "lat": 27.62389392010728,
+              "lng": -80.38403397989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "11559a68bc890c825b4aa52be5fbe17bf6e71b48",
+        "name": "Abada Capoeira Florida",
+        "place_id": "ChIJXUw3qjxf3ogRIaFOfwoksQQ",
+        "plus_code": {
+          "compound_code": "JJG8+3W Vero Beach South, Florida",
+          "global_code": "76VXJJG8+3W"
+        },
+        "reference": "CmRbAAAAASELHx_t_3MDHob7uFtYXSSJPXlWm3wcEhOKJC4mukwLtlp_niO264Dl_nH2pzh8yuGdLmWnjRvddwwLwwMHf8mw1z_5xxq6S6r3cAPcMuqnJxtPG7vgAjoZd0Ubdp67EhA6s8_ZwOWkjDXk-ulTdLXnGhROYFVpVbLpnUO-6kvz86EnkXl05w",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "970 4th Ct, Vero Beach"
+      }
+    ],
+    "status": "OK"
   }
 }
