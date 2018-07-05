@@ -1,114 +1,20 @@
 {
-  "city_name": "santa-rosa-california",
-  "city_rank": 140,
-  "city_population": 171990,
+  "city_name": "rancho-cucamonga-california",
+  "city_rank": 141,
+  "city_population": 171386,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.440429,
-      -122.7140548
+      34.10639889999999,
+      -117.5931084
     ],
     "rankby": "distance"
   },
-  "people_per_result": 85995,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.405523,
-            "lng": -122.834014
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.40676507989273,
-              "lng": -122.8326589701072
-            },
-            "southwest": {
-              "lat": 38.40406542010728,
-              "lng": -122.8353586298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fed7eee169800e01c26d48ef805c5aeefb31afa1",
-        "name": "SHDWBX Studio",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117042391203936136203/photos\">SHDWBX Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAAA6c7xIhhXvLUgG8SBzw6GgJMTrMqKaAcR_xpoiHLHPg5g10jovx_fqGsRDdk3KgsNOLyxllhMT3AXm62ZcYzqkvyAn_rEw_ribqmdp6hCDCcuAOLjdCejhzSzj6icRH_EhCrfBVTEBDa6-Fx9ydSAkvBGhR8QWgL66CuG9VzcCgXzTcf_GMxrw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDc8yfHQ6hIARiisEo-93Sao",
-        "plus_code": {
-          "compound_code": "C548+69 Sebastopol, California",
-          "global_code": "84CVC548+69"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAz4aL9mQTwibaq8WM2iGnl_0YYfalchEZvREoW5JUYWSXNTGYbj0TEDZ1NqKaF1whZY_UjBVkbeb5OTlURW-x4XzS8rSlxgIvvJC6M9dFNWbzvX-Zre-Lx1Ocd5MyoiGIEhBHAfi5aFmrvQ1__biqz6WnGhQCFQR9JatHD4KODV8ZPrFclMUJaw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "7758 Healdsburg Ave, Sebastopol"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2355172,
-            "lng": -122.6413765
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.23686702989272,
-              "lng": -122.6400266701073
-            },
-            "southwest": {
-              "lat": 38.23416737010728,
-              "lng": -122.6427263298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "327f936cac22d86f5a7327a2151496abc8162eb9",
-        "name": "Capoeira Petaluma",
-        "photos": [
-          {
-            "height": 1939,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111815811201287977997/photos\">Lia Alexander</a>"
-            ],
-            "photo_reference": "CmRaAAAAYjfHaF9bNkci6cmWd4WYRh-6kSGZwsRHhZ04SzfiVyqyGSQ9xsWdXjaCfwc0HAj-u-8Lqvfca7yluaR_NzkiBMGsav2JTvJlBI9W7qAQ568zXyXJWAJu9e3TqodVL5Q0EhBzds5LKInJk4mFEN9Iix2OGhQVPLqZFqtZ7Rze_OJ05WY9c4OEQw",
-            "width": 3659
-          }
-        ],
-        "place_id": "ChIJfdvIax20hYAR8a-pZvqzLZk",
-        "plus_code": {
-          "compound_code": "69P5+6C Petaluma, California",
-          "global_code": "84CV69P5+6C"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAeXLpth045xhEHkfftZhwSUjM1zX039e0LfKQJbmjB1XFK0-VJaJN3ZhGeo-sZwwAYSBkpAVyjXFApG-gREK3Paqejkuzms8xtoi4ecFAxe7voSMg9Eyuvt6zWHRbuAVgEhAyvVPdq-AYpx__aHhVj6knGhRrpgqL8sFm3VNdd5iQN7IF75r8bQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "110 Howard St, Petaluma"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
