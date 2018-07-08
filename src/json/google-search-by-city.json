@@ -1,69 +1,20 @@
 {
-  "city_name": "allentown-pennsylvania",
-  "city_rank": 224,
-  "city_population": 118577,
+  "city_name": "norman-oklahoma",
+  "city_rank": 225,
+  "city_population": 118197,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.6084305,
-      -75.4901833
+      35.2225668,
+      -97.4394777
     ],
     "rankby": "distance"
   },
-  "people_per_result": 118577,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.3769369,
-            "lng": -75.0340904
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.37851372989272,
-              "lng": -75.03149164999999
-            },
-            "southwest": {
-              "lat": 40.37581407010727,
-              "lng": -75.03495665
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "93706b6bb60d05ce321b68b94d03866ab5c443f4",
-        "name": "Capoeira Morro Verde",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1360,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115523194882455593370/photos\">Capoeira Morro Verde</a>"
-            ],
-            "photo_reference": "CmRaAAAAzQENU60Zb-JOvTfVelFkGugy4bffTWU9p-vI_mWgP7TEB7sIdxQwJ5QtUr8wyarT4elXu7gyZPdU_UfrEDFpiloNIotHrm8pt1q_jy8Gg7up4Bo-dw7aQz1lpvqgI6p5EhDQ_iPohGcKtxw22SmDjgGkGhSAx0Z8BVbAcCntPHjPpz61vN2AZA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ8ZnhkTYBxIkRb9ekHnCrVJI",
-        "plus_code": {
-          "compound_code": "9XG8+Q9 Peters Corner, Solebury Township, PA",
-          "global_code": "87G69XG8+Q9"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAUbrE7pSGmaCO3_Y9ExMmaEHTmCQWN55T8GnSC11hVB2cYX0oJZgCafRfqu00hg9iJvmXxvyCaBMhTMdA3SsE6tWHB8rb__wUavceUFCXTwTjlW4-_1NBMrXZx2y_Hgh0EhAr55Y_KL_WTBjxwSjGdkVmGhQCxojcs-Ftq-EnWmkDdieWz44cMw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6365 Greenhill Rd, New Hope"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
