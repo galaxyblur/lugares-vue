@@ -1,118 +1,20 @@
 {
-  "city_name": "denton-texas",
-  "city_rank": 217,
-  "city_population": 123099,
+  "city_name": "victorville-california",
+  "city_rank": 218,
+  "city_population": 121096,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.2148412,
-      -97.13306829999999
+      34.5362184,
+      -117.2927641
     ],
     "rankby": "distance"
   },
-  "people_per_result": 61550,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.9290085,
-            "lng": -96.83263679999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.93026227989272,
-              "lng": -96.83128752010727
-            },
-            "southwest": {
-              "lat": 32.92756262010727,
-              "lng": -96.83398717989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1c471a67d3182505545759c04523512ac3573399",
-        "name": "Dallas Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
-            ],
-            "photo_reference": "CmRaAAAAndBgKyiqhPm8R1HGVoF6scD9u2ORz1jWxGY9hinNpK66kkz60sbPwESh4ZfLna5j4M3h8rbn1gIO51YeTHR0tMBvmVm0Nnw5STu7tBMHOqQUFXv2WYtnRZutsRapiaXVEhBsZm42oO_lDNHD3m6RKYd-GhSqIcfQo2Wme2ct47GxrP3K1-vklA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
-        "plus_code": {
-          "compound_code": "W5H8+JW Farmers Branch, Texas",
-          "global_code": "8645W5H8+JW"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAQMizRrBSoLXX59h2Y_g4M4DyQ5kk9R7wvew9A6XLPdhXZ4mjAFf6U8vQUcfVs9yLBk2CHV-jMNU4FeJBzOfEPyUmC3c5FR3lWicMaVWdQXjJac6Qs_yEzm3KQt72kuwUEhBJewasLNcD82TfCOrjCkK0GhRt0DE1T_P7Mp-c2Fw3tmOGaCK-GA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4505 McEwen Rd, Dallas"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.0863724,
-            "lng": -96.67050259999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.08797362989272,
-              "lng": -96.66964067010727
-            },
-            "southwest": {
-              "lat": 33.08527397010727,
-              "lng": -96.6723403298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a48c4d918a190373db68f0a79390f41fe9a22ea3",
-        "name": "Capoeira Allen Martial Arts Club",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115419137930175066115/photos\">Valkyrie Michaelis</a>"
-            ],
-            "photo_reference": "CmRaAAAAhr6r1BbOVsOc5sMw_JuOgLaSoP9TMVlrkBjgLkbUJ8KWB8BQKt-Mlkne1U9C7bJ57SBHmJ22E6tLHrZ_ItUQmutlY_C6Y2tSH_lR9SgkHlpNbhM6IvDhq6qos5cjy1b0EhCyQsdqlTuIzzKnfQINr3uaGhScQt_WILGabCWKOQfYBh0-X2BymA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJd09VcckQTIYRsuk_5ZByrOY",
-        "plus_code": {
-          "compound_code": "38PH+GQ Allen, Texas",
-          "global_code": "865538PH+GQ"
-        },
-        "rating": 4.3,
-        "reference": "CmRbAAAA7p1l3ebwAgrgY-8srVGlrNBDn4jJ6PIofVPx024MZ-k6mePU8RQMDyaxAwz_9Z45kXDUp6m9MsM76_dXsmwcSufijruC_SkiWN3_753p42R6l0llv5v8kAn7q1CLxfq1EhA8W9xnafKX2h2EOg5dfav6GhQSqMwB6Qg3vsilqeXsdJnTBc2U8Q",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "801 S Greenville Ave Suite 113, Allen"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
