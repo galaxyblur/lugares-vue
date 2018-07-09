@@ -1,137 +1,20 @@
 {
-  "city_name": "westminster-colorado",
-  "city_rank": 245,
-  "city_population": 110945,
+  "city_name": "rochester-minnesota",
+  "city_rank": 246,
+  "city_population": 110742,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.8366528,
-      -105.0372046
+      44.0121221,
+      -92.4801989
     ],
     "rankby": "distance"
   },
-  "people_per_result": 36982,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.7583015,
-            "lng": -104.9883232
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.75936192989272,
-              "lng": -104.9873553201073
-            },
-            "southwest": {
-              "lat": 39.75666227010728,
-              "lng": -104.9900549798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
-        "name": "Studio Capoeira Denver",
-        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
-        "plus_code": {
-          "compound_code": "Q256+8M Denver, Colorado",
-          "global_code": "85FQQ256+8M"
-        },
-        "reference": "CmRbAAAAGL9ms3tUdeKreThIe1AZNkiL9DVs8cqKyt2eJaqk2DDJrx8MWxWgfcVeT17UQ2_zXYx8osnFeBQVAj90YZXbiS48igC1mcuwocHfjzvyuVWbAEmo1rp_S5T-_tYYL0_mEhCPE5Lu-LGjIM1Tg82RAN_-GhRtGLqVWvJGNNP_EhkuTwTiWTNE7A",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1451 24th St, Denver"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.7308796,
-            "lng": -104.9983669
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.73222757989272,
-              "lng": -104.9971465701073
-            },
-            "southwest": {
-              "lat": 39.72952792010727,
-              "lng": -104.9998462298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
-        "name": "Canto do Galo Capoeira",
-        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
-        "plus_code": {
-          "compound_code": "P2J2+9M Denver, Colorado",
-          "global_code": "85FQP2J2+9M"
-        },
-        "rating": 4.5,
-        "reference": "CmRbAAAAtpKCyZWpiw_8t0k6XTeS9GQxsyGXEMw_7IGFhQmFfK4A7XmTMPaAHQ1HqLiq73hnvmZE-kSULfGgAn2hOEK0T_5e3qP03_MekaAaC0xpjqelN5NVFVXOqBQjTSClEQ8TEhCDLEmQAquxICIASKmptkH3GhToAbY3VZQ-yrNf3H4N8HYoRIb7Ig",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "910 Santa Fe Dr #1, Denver"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.730873,
-            "lng": -104.998326
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.73222282989272,
-              "lng": -104.9969761701073
-            },
-            "southwest": {
-              "lat": 39.72952317010727,
-              "lng": -104.9996758298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "988bb6644aa524afd6b37a30895b64dd39dc97c3",
-        "name": "Movement Ritual",
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115090892512447875019/photos\">Movement Ritual</a>"
-            ],
-            "photo_reference": "CmRaAAAA04uu6I1THscgNn7wjZbK74LGB_lJayq3JT6K4LGTgmi4STQfhU4UB3T3FXd-zUdGJ5KvJBGFNyL3B-SAuSOzlcKTsjH5fjzfw9F84vmTJ6-VqlNppuT_9Vfe_KMQ0oDoEhAR8krgipxpbtL59tdJybXVGhQjBBAgDaHO1twU50CF8dMWxHUW6A",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJJa3_xSF5bIcRlEi_TpoaKHc",
-        "plus_code": {
-          "compound_code": "P2J2+8M Denver, Colorado",
-          "global_code": "85FQP2J2+8M"
-        },
-        "rating": 4,
-        "reference": "CmRbAAAABeOSiUL7Rtgx6QNMT_NTcX9_3lvsZoWLi5UoJiypNpT0VMdfDniuUTGZV885puaiXEnYv2MwFj7s-nHXuqrIZvuQLHKU3Gq1oblG4QGCVYfvNt8t1N7sO7veMqW7gwIrEhDuTNrozRKBYjf5243Wta9jGhT5VgGVsq8LdBg0WUSORivDrWWOsA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "910 Santa Fe Dr #8, Denver"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
