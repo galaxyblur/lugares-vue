@@ -1,20 +1,475 @@
 {
-  "city_name": "santa-maria-california",
-  "city_rank": 281,
-  "city_population": 102216,
+  "city_name": "el-cajon-california",
+  "city_rank": 282,
+  "city_population": 102211,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.9530337,
-      -120.4357191
+      32.7947731,
+      -116.9625269
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 10221,
+  "possible_duplicates": {
+    "ChIJiSjGsgar3oARQ2zFrveYGU8": [
+      {
+        "place1": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "place2": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "score": 1
+      }
+    ],
+    "ChIJy7bBTAGr3oARxUHY0XW_GUA": [
+      {
+        "place1": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "place2": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "score": 1
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7101975,
+            "lng": -117.0590912
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.71161552989272,
+              "lng": -117.0577547201073
+            },
+            "southwest": {
+              "lat": 32.70891587010728,
+              "lng": -117.0604543798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "28d1c284ccbac75f0528fd7a4b4cf928998e2d58",
+        "name": "O S Malandros De Mestre Touro",
+        "place_id": "ChIJSQ9CV2xR2YARW-JXWrSHnwI",
+        "plus_code": {
+          "compound_code": "PW6R+39 San Diego, California",
+          "global_code": "8544PW6R+39"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAANneUDlvTivIcq71rFsJVeVb5uxu0W4deyT7P9KYRPnlgPZmTyU-loaewXUtDl4yyQriBpSDIdAPQJ53hiGGi4wFRtalFIbJXRcsdH8PD4Uq8OH8dQnAuo6QHHGOzw8-vEhA7xLhw0qFjNZxal-ryNA8bGhQItPpXYEQMispq-8qAh0h2PaIVbg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6429 Imperial Ave, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7499792,
+            "lng": -117.1305026
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.75133027989271,
+              "lng": -117.1289836701073
+            },
+            "southwest": {
+              "lat": 32.74863062010727,
+              "lng": -117.1316833298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9d191f0c3afcc18a8612e51be41d7f75c4800a3f",
+        "name": "Capoeira Luanda San Diego - Professor Massapê",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 639,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106228684795441631674/photos\">Capoeira Luanda San Diego - Instructor Massape</a>"
+            ],
+            "photo_reference": "CmRaAAAAiVX2NXB105Ijmwc_gC5O4JWZqFbAuRlLcpTdF7S6DSEFngByn0JH3O3XqsvhdBq3iHkDXEnl957g3UVeFAW0s2qa14hQS4sY5yeZxLwm-5GYZIuy8Xx09nx2jAMdjcx3EhCt4ipydmDywVt4HUQgvumdGhRh6IiAa8O97HXtIu4PwuyKd6gPrQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJg9ee7_ZU2YARHkU7tq307Js",
+        "plus_code": {
+          "compound_code": "PVX9+XQ San Diego, California",
+          "global_code": "8544PVX9+XQ"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAAqjZegcU3QOOjBm8ryDAsTJ9rBcSIAuq-qJvtFHJl628rmCaEl_9r2bFnvMU-J4Bnf8iZS7soy_2obEaUXLg6wRFCDVXyEr-yFBG7v_g068ZKNCwGGnjp4DaX6gIPXdz5EhA3_5G1bgxcsZzZi_fL58J9GhRHp5lhWMNBZyokzDjaXwWoXdBEKQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3980 30th St, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7161867,
+            "lng": -117.1589781
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.71753397989273,
+              "lng": -117.1577750701073
+            },
+            "southwest": {
+              "lat": 32.71483432010728,
+              "lng": -117.1604747298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "55a950a0518ff0f37f08921b02c746e88a7b4220",
+        "name": "Capoeira Bahia-Brasil ~ Mestre Pelourinho",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105227246352743272796/photos\">Capoeira Bahia-Brasil</a>"
+            ],
+            "photo_reference": "CmRaAAAAqi_VmuTm3yvA2hn0DPm0xhDk39FE5jplUJTpzutEguR1t6ZRHItlq3quzSO0__pqwus_5pSROiNJ6oocsNRXAGRVY-3SHT5pw8oYYU7yWelDc_kSkGqbjGlBcac8CVzVEhDMVj2_y48679vZQHNmiNFFGhQm-GkAtlsck5BErCyirqdUWN3qyQ",
+            "width": 558
+          }
+        ],
+        "place_id": "ChIJETlswqZD6oAR-VIc5viO7LM",
+        "plus_code": {
+          "compound_code": "PR8R+FC San Diego, California",
+          "global_code": "8544PR8R+FC"
+        },
+        "reference": "CmRbAAAAiwCWOGdJqjxd4NUvI_Je_RAo8FZYfFuko9dvdVscidhMjWCB9MEtgiWlNvgeXkdwDyRJWg_FZkZC-SqrnpSU2xsuxh58hK4A_qEywPZot7qX39UOXAri7so-zClYSXvfEhA7aipOjOTrBwFbODIdhtVDGhSBwxTL9lyGDQjDIhwHaNQCIXGeIg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1027 Sixth Ave, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7393047,
+            "lng": -117.2149634
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.74050792989272,
+              "lng": -117.2134096701073
+            },
+            "southwest": {
+              "lat": 32.73780827010728,
+              "lng": -117.2161093298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc3f22e8071bf71ae2eff2531bf203a11f13d809",
+        "name": "Capoeira Luanda San Diego Point Loma Studio",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106322802537489037547/photos\">Andre Massapê Amado</a>"
+            ],
+            "photo_reference": "CmRaAAAASGkuCAXoUkpXk53hD7rClB2an7hdcfIYOyGAeGlky5zBGxgX72iysE578QnxKWYcw_8Wz02hpuTagdhz0FpJPGQVS7wqWTAVbeM5J0xwb7rPKsNBsmUggFOjbmvP0V9tEhAacfvuJ4J4dA2cgi0SXqNEGhSamloLRtdEDGS4Srm77DzELSuTqg",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJg9pqVwGr3oAR7uQbd7LeZ1c",
+        "plus_code": {
+          "compound_code": "PQQP+P2 San Diego, California",
+          "global_code": "8544PQQP+P2"
+        },
+        "reference": "CmRbAAAALY2RIh2qzgerSX0ijfyL2Ez5I4FCu0p207tXGCK5X3zfmGRNzfuwJJOM2licV7ihCRIFzd-77RZO3UGTkyFevs-AKVNd47wKN1BT_rui5kwKXZSANdHSSgPANEyoG_-WEhC4kZqtcMkaiuZk93yTkcq_GhQLTvILzmYeg_hOi68wVly0mSug-g",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2650 Truxtun Rd, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.73461,
+            "lng": -117.213484
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.73618142989272,
+              "lng": -117.2124354201073
+            },
+            "southwest": {
+              "lat": 32.73348177010728,
+              "lng": -117.2151350798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "75b9cc395dc15934dc9b5d3ceefea2249acff7de",
+        "name": "Capoeira Luanda San Diego Training Grounds",
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106322802537489037547/photos\">Andre Massapê Amado</a>"
+            ],
+            "photo_reference": "CmRaAAAAZaVU8Ul0w6DxIzCawMdQxrWLiPFUGN_zBvPFrz6CarXDWwNd5Mq6lp5joOp-YoWPjS4p45Xg5zq0sZtwnEARGllissy0k3e_96rlRXrooD-glQTukHV9Xx8JAAC6tFw-EhAhTIWNHVtHunRRtn_FlsWAGhSqpT8j60CU_QEuW_xEcuRcKHg_sQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJjUu57QWr3oAR3lkot_0iuiA",
+        "plus_code": {
+          "compound_code": "PQMP+RJ San Diego, California",
+          "global_code": "8544PQMP+RJ"
+        },
+        "reference": "CmRbAAAA_lVwXrIWr--JmhpNvREdDq05BDyWT6Mj5xphM1GG8mCQt-CWCJdbQmCvvpFU3Q_MOQRBLvIGLv2LabuhyG6VSFtxF-syQ3r4ZyvspLhJDHnNLjLN-B6CL0SKg88VTIULEhAfvAPDWGlVh82CUt5xMc4eGhTGRP57qeNX7mLVTSCjGJ4_PmdJKg",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2381-2479 Cushing Rd, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7394377,
+            "lng": -117.2282128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.74068567989272,
+              "lng": -117.2267476701073
+            },
+            "southwest": {
+              "lat": 32.73798602010728,
+              "lng": -117.2294473298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "15d79afa9fd9f43649dd6b001bb9fb6bf8fd5043",
+        "name": "Capoeira Brasil San Diego",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1356,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109868254390408560946/photos\">Capoeira Brasil San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAAcVHc9a9yNyVDhlvs6L3E21FvIgck7GxpuD2X3gTP9h7NSoDrQNG4dtRZkeUjBujfVT6vf4qI2uJ3n-HOLgw4BTFqo8VzRRK8SwdiWRX-vkM9njeYlcuXyYIl0c2S_s6dEhBqaaWfuTs0tpzSWqTa9S-_GhThURMF-5Iu1kTJk2fdfQxmNt-EMA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJiSjGsgar3oARQ2zFrveYGU8",
+        "plus_code": {
+          "compound_code": "PQQC+QP San Diego, California",
+          "global_code": "8544PQQC+QP"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAl2Xe8d5HiMHAP3F4iyoVYne_QKGSxmiEY4V5YSTtnPcTwTQ8AoB9LCt0VM5l0OPfsZSFFN2uYXNau-Utge3N7dxBcv2YM91EWRKIY9jKNScGIgaDzJupKeYhzoyWwGUmEhDUFT-oqucTVF7m8CTbXG7pGhSWf3x1GqnFU_1LjBLnwNymx8tW5g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2176 Chatsworth Blvd, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7393443,
+            "lng": -117.228217
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.74061587989272,
+              "lng": -117.2267786201073
+            },
+            "southwest": {
+              "lat": 32.73791622010727,
+              "lng": -117.2294782798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1d7e6524c78d2daa2417df5189572a9a74e20836",
+        "name": "Capoeira Brasil San Diego",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102146148622812249447/photos\">Capoeira Brasil San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAAUFs7T4m7CvjrK2GnIj7JWMfeRZX3H7y2lsRKA-M80ohxrZgh8LDNg9Fo2F4LodQ79CSIknZqX1zMBd4I-79fZ_vn1GD9pWgL1AxLDyx4reHSj9VECz2aebNkRW5awPLQEhByQy6BNGWUI44MKWtt1CuNGhQ3M2OG9PJ2kWyIL_X7ySq4a3GgIg",
+            "width": 1685
+          }
+        ],
+        "place_id": "ChIJy7bBTAGr3oARxUHY0XW_GUA",
+        "plus_code": {
+          "compound_code": "PQQC+PP San Diego, California",
+          "global_code": "8544PQQC+PP"
+        },
+        "reference": "CmRbAAAAx1TFeNY-m3vnGDqcYi8-ynR2QDVrzP10H8jSBu2WAUXqMDOhgCG5EvZOPYyO8S-KRrO3pKMg1jaSZBBToNya1QGxc_mbhppLXMC4SjcaQVVL_NpLaE1KeQKDiHyRvn8xEhDRoj_asdNrOxlM7KIathWvGhTuCWqg5WVBbWjTCO5a6hS-Byvb4w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2176 Chatsworth Blvd, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.8017431,
+            "lng": -117.2364357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.80263287989272,
+              "lng": -117.2349484201073
+            },
+            "southwest": {
+              "lat": 32.79993322010728,
+              "lng": -117.2376480798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "642f28df5748dda714469f85df04c1425a66dc33",
+        "name": "Capoeira Mandinga San Diego",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1554,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114470844655637669893/photos\">Capoeira Mandinga San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAAiX4xvp6FGDzVtb6vRsI56MjQ47513FlFoFcZre3lFymO_7bWhgJAXaDFaoc2UbpGtSlmcVdbK5yQfjWBQJTEL2Gq-1RUy1FF8TtukDYffvuWhQG-kD71DUbwoxo6sZgrEhDEtogQ7kc7EA-LB8_5BK4fGhTbbPUHdK-j15UNydtpqdx2n3d8xg",
+            "width": 1472
+          }
+        ],
+        "place_id": "ChIJZU5gGvGq3oARPVjx2V1qUfA",
+        "plus_code": {
+          "compound_code": "RQ27+MC San Diego, California",
+          "global_code": "8544RQ27+MC"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAApkrwKCUAZQ87o0oP1oroldEqi6ySVIHEJPXiunpIbZ-i_U1JDx_sDr0SV0mrupYrhDTV3n_Lr5Q0Cgu9TE_NY-BB63uV_9GJFHi4D4ajSyC-HKJ4_Fdivftwt7ux0BeFEhAidzI3oRUy8rhnS0Kvjd2mGhSksdd5nOZx3G0Cf2NmP-wXTu5TGQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1880 Garnet Ave, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.4860146,
+            "lng": -116.946494
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.48740022989273,
+              "lng": -116.9451118701073
+            },
+            "southwest": {
+              "lat": 32.48470057010728,
+              "lng": -116.9478115298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "4e9532b0338a609f7de328c845d83c8ca80ebea3",
+        "name": "capoeira bahia brasil",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ5-p4mVs42YARSs5AHF7zofU",
+        "plus_code": {
+          "compound_code": "F3P3+CC Tijuana, Baja California, Mexico",
+          "global_code": "8545F3P3+CC"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAJY4qk0q9lmrfhjvk9JxfUfPsaP5A8IGS_RLVHIT90AWsE-ddjyrgY3G8Lm04RFyhm-pwONPanSC0Obu2u2YFiSIaUfYcyp0mrSNaB9-0VFvd6C_5suzTVCG-RDzW6k2jEhCC0yiztwRi9HPQWgVgjGj1GhQhEruP7jy9u2K3blhU84L2k4vpkQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Blvd. Gustavo Diaz Ordaz 3181, Pinos de Aguero, Tijuana"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.13902,
+            "lng": -117.270587
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.14054252989273,
+              "lng": -117.2692825201073
+            },
+            "southwest": {
+              "lat": 33.13784287010728,
+              "lng": -117.2719821798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "132b791d0deacf96e23872b94723ab1e58485d04",
+        "name": "Afro-Brazilian Dance & Capoeira San Diego (North County)",
+        "place_id": "ChIJsaz54Xxz3IARH7e1dIi6jJw",
+        "plus_code": {
+          "compound_code": "4PQH+JQ Carlsbad, California",
+          "global_code": "85544PQH+JQ"
+        },
+        "reference": "CmRbAAAA5N3rK7l6_V4dr7WSqHYODSHsudekK47y7UaOZva5OFh2TVI68b0JVd8U-gPAWi38ZrfRp-oGrIFkPoM3Vvyyn1SFDlgZ9DTH4UZX-Yv3WglrB75ZBMeELCRbBWAWDxtmEhBeRGa9PXjGIbkZczwNMWw1GhRStW3IEDPojfLRfhv-CDomWPLdaw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2441 Impala Dr, Carlsbad"
+      }
+    ],
+    "status": "OK"
   }
 }
