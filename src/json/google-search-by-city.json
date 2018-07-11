@@ -1,20 +1,69 @@
 {
-  "city_name": "north-charleston-south-carolina",
-  "city_rank": 277,
-  "city_population": 104054,
+  "city_name": "broken-arrow-oklahoma",
+  "city_rank": 278,
+  "city_population": 103500,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.8546197,
-      -79.9748103
+      36.060949,
+      -95.7974526
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 103500,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.0034023,
+            "lng": -95.8845544
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.00446447989272,
+              "lng": -95.88320657010728
+            },
+            "southwest": {
+              "lat": 36.00176482010728,
+              "lng": -95.88590622989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d4eda877a9269ab573ead33c538e172f4f185117",
+        "name": "Omar French Brazilian Jiu Jitsu",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112497788789895218293/photos\">Triton Bixby Brazilian Jiu Jitsu</a>"
+            ],
+            "photo_reference": "CmRaAAAAovQVpyZ1cO-eoz735pux069xw_hQmKz5BVsJy83srYHLHsRJftd9BtNU2hCnAfJlYoMvV6FAwtQrnkZndzbJo52HXtqw6xlgd5dZOlpMgbNGqszpJw3WCTHIkagwNIi9EhBnHbOHpU9LYZy88V0ZFNZLGhT-PgUMcWOI1J4vNkxWR6ZJCNSKdA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ1ZnQbU2NtocRopbv3SmwQ3A",
+        "plus_code": {
+          "compound_code": "2438+95 Bixby, Oklahoma",
+          "global_code": "86862438+95"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAu53yN_Ag-jqYOFXX41323Bd1bR3Qili0KnTMpIuJeZzHDNAt5twO0f3D2TbGyODPnOdesLJW0IVpvYbGEeSGBCpSxw-7xJBoCOn8fSia3blLjjrCDYNB6RmQLn7dBu4IEhCkmoPt_bQ9-UOTehiB4R49GhQ3j7q0CHHj3E2LKZ9FFwC7Ekxecg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "8307 East 111th St S Suite O, Bixby"
+      }
+    ],
+    "status": "OK"
   }
 }
