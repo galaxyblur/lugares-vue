@@ -1,20 +1,58 @@
 {
-  "city_name": "college-station-texas",
-  "city_rank": 293,
-  "city_population": 100050,
+  "city_name": "kenosha-wisconsin",
+  "city_rank": 294,
+  "city_population": 99889,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.627977,
-      -96.3344068
+      42.5847425,
+      -87.82118539999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 99889,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9980772,
+            "lng": -87.8917141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.99949627989272,
+              "lng": -87.89026172010728
+            },
+            "southwest": {
+              "lat": 42.99679662010728,
+              "lng": -87.89296137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc5b16e5c9b8c070a90d48ca5c2a67c3037702bd",
+        "name": "Capoeira Milwaukee",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
+        "plus_code": {
+          "compound_code": "X4X5+68 Milwaukee, Wisconsin",
+          "global_code": "86JJX4X5+68"
+        },
+        "reference": "CmRbAAAAhy_pDCMeMhueuF0hUMA5rCrjC_MMB8eE8njGXA-DbgBYD58FXkBP51aoXLqTpmclpvwjRCr5xMNHAiMp90R_chl9jHg8K1pwLYzMj8V_kzE8vJ2BKcr2ZpXEzbuC53rjEhDLrGz_bSmWcc5rjeIJkq7eGhQ26OyQEwfFVptU4TTEmYw-lPaV1A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2499 S Delaware Ave, Milwaukee"
+      }
+    ],
+    "status": "OK"
   }
 }
