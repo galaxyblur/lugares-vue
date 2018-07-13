@@ -1,16 +1,16 @@
 {
-  "city_name": "macon-georgia",
-  "city_rank": 343,
-  "city_population": 89981,
+  "city_name": "longmont-colorado",
+  "city_rank": 344,
+  "city_population": 89919,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.8406946,
-      -83.6324022
+      40.1672068,
+      -105.1019275
     ],
     "rankby": "distance"
   },
-  "people_per_result": 89981,
+  "people_per_result": 29973,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,35 +18,107 @@
       {
         "geometry": {
           "location": {
-            "lat": 32.833588,
-            "lng": -83.62162
+            "lat": 40.5716714,
+            "lng": -105.0766516
           },
           "viewport": {
             "northeast": {
-              "lat": 32.83506387989272,
-              "lng": -83.62044657010728
+              "lat": 40.57302182989272,
+              "lng": -105.0754556201073
             },
             "southwest": {
-              "lat": 32.83236422010728,
-              "lng": -83.62314622989271
+              "lat": 40.57032217010727,
+              "lng": -105.0781552798927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "bc2b89c10fc16a1d60e54519febc8cdb61ffae3d",
-        "name": "Capoeira Macon",
-        "place_id": "ChIJg7gK4HD-84gRfQ2XNMam59M",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c34793f142640c306988b7c42809fe0ab05575fd",
+        "name": "Capoeira Canavial",
+        "place_id": "ChIJs4gfL_9KaYcRb6LqrzqP9oE",
         "plus_code": {
-          "compound_code": "R9MH+C9 Macon, Georgia",
-          "global_code": "864RR9MH+C9"
+          "compound_code": "HWCF+M8 Fort Collins, Colorado",
+          "global_code": "85GPHWCF+M8"
         },
-        "reference": "CmRbAAAA0Wnss7BnG22CQ62fXg2ckj9_edwYuviqj-jWcBk0qpTTFFJVdTijnuTXI9SeVS1D_QIwVJPWL-Q8hcxAaHzCPwUJkCR2kZSi7WBd-I4RHPRTUMXM1liyzvgkdIHql9bGEhBZSX_FB7sH0IJ_oIJMNcy9GhTkqPsqTSZmnJegWIM78pzW6HzdIg",
+        "rating": 5,
+        "reference": "CmRbAAAAnMh1KNq7H_5GSxx30CTuFhnhoFGwJbBjd2Zot1D6DhRetybmod9JT9_k28MdMhkMFOJmtQXXSpim9bqQ6ybSg7fOts2-q3fLWjvNlQumP9V9ulG4lsMwU8LPOlhT8eYNEhDQ2CzDlLC2GpKl3EcRrG_AGhTiEG5ZlvVvkZ2D9XWZXPBcgJLBeQ",
         "scope": "GOOGLE",
         "types": [
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "310 6th St, Macon"
+        "vicinity": "1200 S College Ave, Fort Collins"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "plus_code": {
+          "compound_code": "Q256+8M Denver, Colorado",
+          "global_code": "85FQQ256+8M"
+        },
+        "reference": "CmRbAAAAR4VfCZSCsSnZlIhbuEB0wM8AnbrEdZ6Tlh-7dWClqQl1I_sBaDjMb80FuFWl_j0hZzxqrXYQ_BON4cmplGtv1NaPZ3MkSTFhoCxke4II2isJq8Li81W46x04lHaONNhYEhBFTZa4GNBoBI9i3kV2jBPPGhSLEfvXDZO_CcdqNImqI3dTtDs-aQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "plus_code": {
+          "compound_code": "P2J2+9M Denver, Colorado",
+          "global_code": "85FQP2J2+9M"
+        },
+        "rating": 4.5,
+        "reference": "CmRbAAAA-Vn0NVXIQoG5urfyRVskRIVFgIeB7uGjbiWfpsbfRrFpt8fCLMbYJxUD_yPLYx_6e-oiMDDJf-0w9A-FkW4McFEYRiTjiElit0AO6XyaUUWH-nnmQuV55gBcHbj-pB-EEhAf85b6YyUE7l-PCiDys40HGhQw14v_19dwDKSuPCprY5bT3hRpJA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
       }
     ],
     "status": "OK"
