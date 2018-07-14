@@ -1,16 +1,16 @@
 {
-  "city_name": "asheville-north-carolina",
-  "city_rank": 357,
-  "city_population": 87236,
+  "city_name": "nashua-new-hampshire",
+  "city_rank": 358,
+  "city_population": 87137,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.5950581,
-      -82.5514869
+      42.7653662,
+      -71.46756599999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 87236,
+  "people_per_result": 43569,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,39 +18,73 @@
       {
         "geometry": {
           "location": {
-            "lat": 35.5830373,
-            "lng": -82.5843817
+            "lat": 42.352389,
+            "lng": -71.5334938
           },
           "viewport": {
             "northeast": {
-              "lat": 35.58445997989272,
-              "lng": -82.58290267010727
+              "lat": 42.35370472989272,
+              "lng": -71.53195227010728
             },
             "southwest": {
-              "lat": 35.58176032010728,
-              "lng": -82.58560232989272
+              "lat": 42.35100507010727,
+              "lng": -71.53465192989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9ff347d74172613d7530b1741c475f1c70817787",
-        "name": "Centro Esportivo de Capoeira Angola Asheville",
+        "id": "a8a7c8677433ccf3fed3947a638c89a519c34355",
+        "name": "Capoeira Brazilian Jiu-Jitsu",
+        "place_id": "ChIJq4qNY3yL44kR-yJaPd1dca0",
+        "plus_code": {
+          "compound_code": "9F28+XJ Marlborough, Massachusetts",
+          "global_code": "87JC9F28+XJ"
+        },
+        "reference": "CmRbAAAAdpIWCu0t-LgyzXaPyLIvsYDIcnZTDzndmP2wjoqfS_F-vDCYkvFsS9H1R7UHV6MvZ0Kx-ZjiPSPe3Aw-C8PPFIxpgB9MAitTTRQANMNjkXYealgYfr9k_8Pa97fwWmucEhB5joUGfaC76rtNI-5y6MskGhQNENATurj5uRSx9GhY0-4PymVQxQ",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "24-28 Hosmer St, Marlborough"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4001307,
+            "lng": -71.11347119999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.40156917989273,
+              "lng": -71.11207092010727
+            },
+            "southwest": {
+              "lat": 42.39886952010728,
+              "lng": -71.11477057989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "36b555afe1ae74939f867ac3259c2e3ebef814cc",
+        "name": "Capoeira Angola Quintal Boston",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJU-8-3U_zWYgRtUH-KDOs4Ts",
+        "place_id": "ChIJKQMemdh244kR6B3_f8CrLZE",
         "plus_code": {
-          "compound_code": "HCM8+66 Asheville, North Carolina",
-          "global_code": "867VHCM8+66"
+          "compound_code": "CV2P+3J Somerville, Massachusetts",
+          "global_code": "87JCCV2P+3J"
         },
-        "reference": "CmRbAAAAJoM0gSNum3jcsWEVKCaP40AVI-SJeIFTi6Qh2McrYG7GwV3F--VoWwhgTLTpMlZs5B9a8oyYjbHiQ3HtEavsniQHTu13rfE__nf1lTZ1CUzxy9Dgm3TPlU2SYabhvLfHEhA87MZmtDOKRmeP0IDUFoKQGhTGhiiuZ3W9wUPxyblMDfpUIk7BNQ",
+        "reference": "CmRbAAAATC2gLTTUvUaTSfdR5eT-WAjz94CJLxMHRFky6skJTo-sqcKjo-LSQGf6dBLkEV5TzL8crLkERp23JeUud9YAUrzOTirUPhNS6ajwk4EatlEY8LyaIGOlhBUT2R0owlcVEhBrC0gmpoP5AVPFfWhtAc9HGhS0soq2KGxPThE1qIyHG27shocwqA",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "134 Burton St, Asheville"
+        "vicinity": "730 Broadway, Somerville"
       }
     ],
     "status": "OK"
