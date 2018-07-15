@@ -1,20 +1,166 @@
 {
-  "city_name": "bellingham-washington",
-  "city_rank": 390,
-  "city_population": 82631,
+  "city_name": "westland-michigan",
+  "city_rank": 391,
+  "city_population": 82578,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      48.74908,
-      -122.4781473
+      42.32420399999999,
+      -83.400211
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
-  "possible_duplicates": {},
+  "people_per_result": 27526,
+  "possible_duplicates": {
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ],
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5005072,
+            "lng": -83.3609625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.50190432989272,
+              "lng": -83.35763385
+            },
+            "southwest": {
+              "lat": 42.49920467010728,
+              "lng": -83.36207205
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108282838812664272157/photos\">Tira Prosa</a>"
+            ],
+            "photo_reference": "CmRaAAAAJm83qhp3vgrQd2OonwN9G7A8oVLmKR87o2cycXMwoYJqqz1dLuPo-jha60qx8KNTKjM54_YkpuD0srv66pnrtAAS-rPjgisLjI-r1lp5_p2CSXyMuDIwqn5PQbXjv4HFEhDKASpm2si6ReqDA2Ltza4yGhRLI6mDNcd6N2FO2HmNF8FAYg1qbg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "plus_code": {
+          "compound_code": "GJ2Q+6J Farmington Hills, Michigan",
+          "global_code": "86JRGJ2Q+6J"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAFG79zLCnKUZk7kJV1duc-FSPu4gjFGk-Cxr2Leuqq6MrNXieMAyB6oCtIOnlHAza9l4wjiG6rJnZE8l5PPsROdfXIaSi9ups9x5IWis3Q8c_h_HxSeBOnKzcuSEhUeWQEhDGuzfFOxcpF6CBqDU8d491GhTLr05-GQGT4usl_9aZTSES5QGr7g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5276867,
+            "lng": -83.3601159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.52903182989272,
+              "lng": -83.35880832010729
+            },
+            "southwest": {
+              "lat": 42.52633217010727,
+              "lng": -83.36150797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "plus_code": {
+          "compound_code": "GJHQ+3X Farmington Hills, Michigan",
+          "global_code": "86JRGJHQ+3X"
+        },
+        "reference": "CmRbAAAA5DYBm0A7rZ8V7wzCk9tA7gSYgQ6qtfFf4gMcmck7Y9EPfUK_WfaViWFiqxDuNx2uLDohc_Ls-9VMxC3G-QxfjX_mIgDngDo7n7oaYOWSOSAKCwqRwFf4DfCYNJztzSXFEhDldLf4xE1S0PUXJc1nD06OGhT4lfehJ85fC3Ef7efo61VRLQ7ALA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4602986,
+            "lng": -83.1370883
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.46177327989272,
+              "lng": -83.13574542010728
+            },
+            "southwest": {
+              "lat": 42.45907362010728,
+              "lng": -83.13844507989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
+        "name": "Capoeira Mandinga Detroit",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1626,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAARpwNrWardB0uzhLwCyfY4ESH0N623L0QL8-wFp2LRC_1KpjW--sFfPahRy3NJlABecHcB2UXvZ6P-RhJm4tzGQnvrilRAcfh677If-M1-xoHYWuh7c-tnYc6q7TedSUrEhDRbGB1_8VljrSPlS_vl-0aGhS8KN31TqtAPbSU3mqBKnYYd2K44g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "plus_code": {
+          "compound_code": "FV67+45 Ferndale, Michigan",
+          "global_code": "86JRFV67+45"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA_9PYFzk7B4Lwyv9heOi3zCS2hzW9f7RSKX0MVmTAPgCwFBqmQXKpgLkkh1ZIZYt7O9iTCumirBs77MT1h_a8yIbWJukMppP4d6feX89ZCo4edz_ea-TkxVQ-UkrQp_ZlEhBjauc9pO926scCpO04psoFGhT2me_p2vZm8jfzRXi4-DGAaSaumQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "247 W Nine Mile Rd, Ferndale"
+      }
+    ],
+    "status": "OK"
   }
 }
