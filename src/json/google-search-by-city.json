@@ -1,70 +1,20 @@
 {
-  "city_name": "danbury-connecticut",
-  "city_rank": 380,
-  "city_population": 83684,
+  "city_name": "meridian-idaho",
+  "city_rank": 381,
+  "city_population": 83596,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.394817,
-      -73.4540111
+      43.6121087,
+      -116.3915131
     ],
     "rankby": "distance"
   },
-  "people_per_result": 83684,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.397813,
-            "lng": -73.45271199999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.39925847989272,
-              "lng": -73.45145012010728
-            },
-            "southwest": {
-              "lat": 41.39655882010727,
-              "lng": -73.45414977989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e75e5f1004b555d06f5c100847131bcd6b0e115",
-        "name": "A Common Ground",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2896,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113952171303398483023/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAASOGaliLaIvbYgVkrQ1ZMex-cvGJcTJUnGg0tb2Bu4FJiX1aNAHY7kSOUhXYw4-mEKJKnLy-bskTsXa8LBuEUJfdjFh-g2K5oX1fNohsWJB8iY9oNEkcAR3asxRlFHvagEhDlMCk8TjlbsEAIVg5FVI18GhRq8o2EIVXmB5JjmplLvdZNKHxw1g",
-            "width": 2896
-          }
-        ],
-        "place_id": "ChIJwxmDUWT_54kRkccDzlsQuq4",
-        "plus_code": {
-          "compound_code": "9GXW+4W Danbury, Connecticut",
-          "global_code": "87H89GXW+4W"
-        },
-        "rating": 4.8,
-        "reference": "CmRbAAAAvMjMhJr5ujKIkIqJD5JMTBxt8pgldib83XI18Z0hSIMVUuv0Dmmb31yQ7pim6oLnIdUxCeW8-ai4NAu9Q7nuxXoVxsUVK8vhwobIVTdKxpLSRFbp2EeWjZhnkDTkSPYZEhAGxNVDCPYRIMtr8KtEXKbnGhRcHZoj-4ssrlb3oTuZjaKE6XSS9A",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "33 Crosby St, Danbury"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
