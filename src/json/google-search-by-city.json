@@ -1,16 +1,16 @@
 {
-  "city_name": "napa-california",
-  "city_rank": 409,
-  "city_population": 79068,
+  "city_name": "hammond-indiana",
+  "city_rank": 410,
+  "city_population": 78967,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.2975381,
-      -122.286865
+      41.5833688,
+      -87.5000412
     ],
     "rankby": "distance"
   },
-  "people_per_result": 15814,
+  "people_per_result": 11281,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,201 +18,326 @@
       {
         "geometry": {
           "location": {
-            "lat": 38.2355172,
-            "lng": -122.6413765
+            "lat": 41.8803115,
+            "lng": -87.6375316
           },
           "viewport": {
             "northeast": {
-              "lat": 38.23686702989272,
-              "lng": -122.6400266701073
+              "lat": 41.88166232989272,
+              "lng": -87.63590797010728
             },
             "southwest": {
-              "lat": 38.23416737010728,
-              "lng": -122.6427263298927
+              "lat": 41.87896267010728,
+              "lng": -87.63860762989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "327f936cac22d86f5a7327a2151496abc8162eb9",
-        "name": "Capoeira Petaluma",
-        "photos": [
-          {
-            "height": 1939,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111815811201287977997/photos\">Lia Alexander</a>"
-            ],
-            "photo_reference": "CmRaAAAATOUGQvLasy4XR1HTOzVWpNWaxMco5fVU3FkBnecTIxwqj-WublbmTqXEvqCSNwCr_3vv-otb5Omgd9_85OBwOHiEUxpK6CLDpJ9o6eLesCbv1-fF5PQuDsNXSbY-zyeGEhCaQeUmAhV6tmgZj-T8kyjpGhRfjYH9_0FoSdQwOryUqwVYV38QoQ",
-            "width": 3659
-          }
-        ],
-        "place_id": "ChIJfdvIax20hYAR8a-pZvqzLZk",
-        "plus_code": {
-          "compound_code": "69P5+6C Petaluma, California",
-          "global_code": "84CV69P5+6C"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAADYa03rAT-mAiaurJ42i0FzSqqfYU1tGtMtOKU_yH9PGjbTBHafQ5xbh1gr0SNiLWDRPdrMyvYBqFFI68sWCROq-37IXO9o1F1WspBAQ_7PzIcHQ5xE67FWywmrgB2n89EhDjF7AxAq91k4O_rXQJX6J-GhS3O5TOkuWPtYJUFnjOk7KriUOC0w",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "110 Howard St, Petaluma"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.9682212,
-            "lng": -122.0559893
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.96957102989272,
-              "lng": -122.0546394701073
-            },
-            "southwest": {
-              "lat": 37.96687137010727,
-              "lng": -122.0573391298928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "13f0f6a8f8e530ece47a412fc672c82db222a36e",
-        "name": "Omulu Capoeira Concord",
-        "place_id": "ChIJZybGasZmhYARJ1HShJnOyVs",
-        "plus_code": {
-          "compound_code": "XW9V+7J Concord, California",
-          "global_code": "849VXW9V+7J"
-        },
-        "reference": "CmRbAAAA5e4THLUYPM2EAsTc091BQovOUZfzjIs0co7EXK-4n2FiNm8tv96lM-Bz7BW8gTBdHC5w1ROK8Xx4_wWlvQS4eWHlRcpcZlzxZoCD_7eBUZMhI5wBaetVLw-L1W3YNKs0EhBcjJyoCMtELjrMDNIOTACdGhQaOFD7889V-nPk59rSEUzbN_Ibbw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1975 Diamond Blvd, Concord"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.872133,
-            "lng": -122.301145
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.87346507989271,
-              "lng": -122.2998840201073
-            },
-            "southwest": {
-              "lat": 37.87076542010727,
-              "lng": -122.3025836798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "570f90a604ba9e5706eb0f0570beb32d45ebf995",
-        "name": "Capoeira-Brincadeira Viva Academy",
-        "place_id": "ChIJf6H8Gdt-hYARphbK52mfZMY",
-        "plus_code": {
-          "compound_code": "VMCX+VG Berkeley, California",
-          "global_code": "849VVMCX+VG"
-        },
-        "reference": "CmRbAAAA5XywQ04XRq7s8HS3bDuEq2vtObRzwdxX5E-43VRmU-m4risjxfLPSZXW-iheGGwvFh1Zl18IXP9aKVIAOUvS0u_ABS7UZIkD70Ke1LatoMIB6CJ_fhWwzCGA47aWPEKiEhBI33Qr0pMdEMfi71Fsz04BGhTZ5WXj-BRteb1cc5oCqa_K_FA2Hg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1645 Fourth St, Berkeley"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.8703062,
-            "lng": -122.2921361
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.87162462989272,
-              "lng": -122.2909399201073
-            },
-            "southwest": {
-              "lat": 37.86892497010728,
-              "lng": -122.2936395798928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9a5bb45f2100a3fc2d3fb05f4261f6750a205097",
-        "name": "United Capoeira Association- Berkeley",
+        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
+        "name": "Omulu Capoeira Guanabara",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJ4dCxo8F-hYARC7xZxocw_BQ",
+        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
         "plus_code": {
-          "compound_code": "VPC5+44 Berkeley, California",
-          "global_code": "849VVPC5+44"
+          "compound_code": "V9J6+4X Chicago, Illinois",
+          "global_code": "86HJV9J6+4X"
         },
-        "rating": 5,
-        "reference": "CmRbAAAAtPArKKJ3xA8rkt1FjbabCvjzXXIlHJVmpjwDTsaf8D1oxna8oUtdxh-gYzPbFkFvG22Q5hjKinQ8KfqB0hhqqUAU5WBiMgs6Xt5u7eSHHtrJxdDG4MFSeiJxcPgT8-LyEhBIAsetdZdcBLaEIn_ye5dlGhSukkf5rBBoHRWercZJdo9C8RWpxg",
+        "reference": "CmRbAAAAHESvwwh7QlE0gLk5l2LYSQakDb-u-q3A1j0xyDdwRGmFKxrO65IVLGrai1EE1iMCWMvwRfDEULIKfTHNKoDvvXuYFPJlallASAd19corZhHrOjqRp96kCYTjHuWH4ctJEhAwTz1SokZaQdaXoDH-svNFGhTGGCSPaEUCCCYrfHv_Pg_4EIUF9w",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1901 San Pablo Ave, Berkeley"
+        "vicinity": "100 S Wacker Dr, Chicago"
       },
       {
         "geometry": {
           "location": {
-            "lat": 37.8968312,
-            "lng": -122.0679904
+            "lat": 41.901196,
+            "lng": -87.630342
           },
           "viewport": {
             "northeast": {
-              "lat": 37.89829747989272,
-              "lng": -122.0667055701073
+              "lat": 41.90254787989272,
+              "lng": -87.62877687010729
             },
             "southwest": {
-              "lat": 37.89559782010728,
-              "lng": -122.0694052298927
+              "lat": 41.89984822010727,
+              "lng": -87.63147652989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e5000d63c99a232dcf738262d8631037949ae4a4",
-        "name": "Capoeira Luanda - Prof.Sabiá - Bay Area",
+        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
+        "name": "Gingarte Capoeira Chicago",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 720,
+            "height": 682,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116516575096562565887/photos\">Capoeira Luanda - Prof.Sabiá - Bay Area</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
             ],
-            "photo_reference": "CmRaAAAA_I1Xan-krTuhE8a3hoy-0wMjIv-5KbWbu0fuYmG4W4At_S6J24U8X7qcV7p6clFXmVDOU08EU7AcjZM_mQq9z4Q32qTtnhL5pOiXURYMWXXytZFw_2wa2QLrfLnDzv0AEhCZ-ifRJ1bK0wx0RTK6N0g1GhTmj6YgqypVCytqK83desAzu-3MCQ",
-            "width": 960
+            "photo_reference": "CmRaAAAAz-nTj6YDwaTYHY7DqHDTxGEoFeXqw2UrJ-UgQ-ZeZq0tZ3cPT6Fz5yCXR3csUcJIokmSDcVDneJhR5Hybz1g6PLg9UDob5vRmuQ4ypjFNLennZ3rRoNi9Sqpk-dM3CSWEhBjFIcDtpbfBkMBPCHvUir9GhQV9R1KPbATfNm9sIBuYyh1PKniwA",
+            "width": 1024
           }
         ],
-        "place_id": "ChIJ8yVX35dZwokROMhyfuVLazo",
+        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
         "plus_code": {
-          "compound_code": "VWWJ+PR Walnut Creek, California",
-          "global_code": "849VVWWJ+PR"
+          "compound_code": "W929+FV Chicago, Illinois",
+          "global_code": "86HJW929+FV"
         },
         "rating": 5,
-        "reference": "CmRbAAAABUc5sVw6y0Js8AIJoKshMa1f8PlOWSGKzKHab4oLO_sHOCuHaXq38xitiwFisKb19u6B2dezQYJ8UKJUjRPMQ54ySYy3QTAr9bcHOdhSDPUQ44G1YlI_8cO4hYKzSpd_EhD2boMC4IapJ_5PYeRKzGiSGhRwvJl2f-a1raORfbO1BE8WM8OOwA",
+        "reference": "CmRbAAAAwUY1SAjqt-gNYx6SkjCzX6H8DN9EZxu289QvgrFxUQ_bX150ZgzpVfliQXvVCY-sLb5kvY0ugdDfgUBL0I8gLLrw0fcn3KhZnTHef3k0gLzlskolRp650OwQXwofPMvgEhDK4fp7ZVRrJ68K37gqLOWxGhSLRyXgq_IcKaNBtuVwJWKMaLaj7w",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2029 Mt Diablo Blvd, Walnut Creek"
+        "vicinity": "1016 N Dearborn St, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.8959299,
+            "lng": -87.66653989999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.89736097989272,
+              "lng": -87.66519237010726
+            },
+            "southwest": {
+              "lat": 41.89466132010728,
+              "lng": -87.66789202989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
+        "name": "Axé Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1257,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAuLI-SjlZDui5l3FhAoLdRuFbGzlwbMlg1cBioQ3QbG0KJphr-g-ssA-V8jhmsyLCG3cFCp1gVzILNUBevLh0IuQeSUUUxbgyslhcvN6hOrjVFbBNYwpyNehjB7fXAhhcEhDKEhqFeEPwUl6IhCU4fpqaGhTIc7l8FrF5nE_rWKPu5AfcWh-HLg",
+            "width": 2231
+          }
+        ],
+        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
+        "plus_code": {
+          "compound_code": "V8WM+99 Chicago, Illinois",
+          "global_code": "86HJV8WM+99"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAApmxnLHyXbkABxM2bcsr_JbXJzRZDysNOGAy925TLCFw0xKn5HnPn7D2CSyBn8VwVNWWPdnF7zFeLIDuRf936Nd49KGn3P3RmqYGsyf2bkq6j6-7oywljVmqpOOyrVwrbEhBGMnsx6HFkWFmIuCN4gOntGhQ3fYzoseKVdBcv-6YZEg-LZMRtpw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1543 W Chicago Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9133592,
+            "lng": -87.7112971
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.91470467989271,
+              "lng": -87.71019172010728
+            },
+            "southwest": {
+              "lat": 41.91200502010727,
+              "lng": -87.71289137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f815a0529f52aadd02844ea5176667327e59a652",
+        "name": "Capoeira Angola - FICA Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1104,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAGh64R8Lx1o7lim5CGKirrwotbqbUHAkO22Jpa4WfoxmKRcK-iY2lhu-qWKu9tNpIie069Bu20S4sfx-vkp08HWLKjrIPJ7wR4dUnNL3CFl3YQ78B_itMGtJVx0w8zRg6EhC-EsN_a8Ac3VuZFBnBfxRwGhRiHq4ptVxjOyp6lb0bAw1ySzDIDA",
+            "width": 2566
+          }
+        ],
+        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "plus_code": {
+          "compound_code": "W77Q+8F Chicago, Illinois",
+          "global_code": "86HJW77Q+8F"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAArvtQ-G_duyXENYXd-bdrLszkk0WRT2B3tVHJo3OYJSZTR3EAXbTD8I2zNpYZuhGlRnq3EbMHgvzS-rTFUF6iewnnRb3hiFY_NZwobjJLSMj7zfRGiP3OrMAIy-zW6OhHEhBDK4CqHUI8iodNmGy5qBPSGhSpmW0Hac1VPthN7_hoEml0JtLJ5w",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1757 N Kimball Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9401434,
+            "lng": -87.6548612
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.94137002989272,
+              "lng": -87.65350977010728
+            },
+            "southwest": {
+              "lat": 41.93867037010727,
+              "lng": -87.65620942989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
+        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
+            ],
+            "photo_reference": "CmRaAAAAIGML-AuHzDNH7_ETWz-Lp1Vv7qxH77jXVQtAN7diIwSM7I8_UWOSrE8oOyvOyhfIuJqQq0jaEJx13b-8iGrBw9Gfk4Ftb9kjs2Yib_w1aKo5_5eg-tdhKng8X9mOccwpEhCyNyFKnZP0c_Gsfyy3DNSCGhSkU01zu5Z1UdzDrWRlBZ-kS7GZrQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "plus_code": {
+          "compound_code": "W8RW+33 Chicago, Illinois",
+          "global_code": "86HJW8RW+33"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA4YWbnVAk7eRT9tLSvZezzfukNqUFsRTTqGgnEQb9OaylU37vMDZe-nZ83c1fjVG7UM6cImLGnY2hc2cYdMeO-sDPLk1J1-CdFaZ9HDKBpWW-HQglYrG79-96TpiCzPysEhDWkS3mHmPZMl27GFzcUpzMGhRcK0FfU3U5FxzrjSqYeM0raHV5BA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 W Belmont Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9581325,
+            "lng": -87.6748333
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.95934667989273,
+              "lng": -87.67347952010729
+            },
+            "southwest": {
+              "lat": 41.95664702010728,
+              "lng": -87.67617917989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
+        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2532,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center - Grupo Capoeira Brasil</a>"
+            ],
+            "photo_reference": "CmRaAAAAuqb-Mwcq7T9EILjBCRKBHT06wuIXzGXYxwTbrLDOtDrrQuMGVkrwSZxotoDXGznxocVkxqQMlxx8M7tIKeicsHzSx_Hq-xJPikK9KKcxcloTudUsjAqqEcD49kf1-jGUEhA6ACqP4gZ3oAlSzXHEHo9nGhT_QV_hfKImCY9_zPtOc2cO2DTE9A",
+            "width": 3555
+          }
+        ],
+        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "plus_code": {
+          "compound_code": "X85G+73 Chicago, Illinois",
+          "global_code": "86HJX85G+73"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAsEto7_IL3PfGi03AIfbhu5jhUFLFe_0athBp7zSoWF51I2gJqgGL_vR320Po7m1Bpq1pPX0PHLitbXmmxNe_3O3_78MKBzAL-mcQhOpe1HjK6GowJpE3CHaQMRws1oXNEhCD4KIrDifheWKd6WM62E02GhRFHxSjcwHKC3rftWh1Im9xsnYyBA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1802 W Berteau Ave #215, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.991912,
+            "lng": -87.654746
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.99325562989272,
+              "lng": -87.65374082010727
+            },
+            "southwest": {
+              "lat": 41.99055597010728,
+              "lng": -87.65644047989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
+        "name": "Herança Cultural Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAALIKdoZVky77DetBXfb3gUxSEbhTokRMN0bPpsZm8ToqQSgKVMhTDTgevL75qxtP6IHZdvMhwkK2qFrHNGQToEQEbb2ZZe2Jeb1ieXdoJS9nbdD49vRbp1yOJy_t_WDPfEhBnGvxpLDuGlYDGtmyz-MBPGhScGyOW1VIbFjI0qI8Wb4RDwmb_1A",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
+        "plus_code": {
+          "compound_code": "X8RW+Q4 Chicago, Illinois",
+          "global_code": "86HJX8RW+Q4"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAF_k6G6GFpE7n7M_IweiDSu0k-HNu_RECSleb92ds-IOwBn5Q4XXzHhOc1fxq9BgRGxmWCMgsob6u8V26EotcKOEnAoMIJPRtYBYA1LUXVvCT33W-IiWz7h9UUCRPoHSKEhBHUjFnzALKK-fgQCq40gJxGhS2ALj4Ml6zcnV4to7aY6zCtuIiDw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6033 N Sheridan Rd, Chicago"
       }
     ],
     "status": "OK"
