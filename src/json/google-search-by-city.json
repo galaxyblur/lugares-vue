@@ -1,20 +1,431 @@
 {
-  "city_name": "lynchburg-virginia",
-  "city_rank": 423,
-  "city_population": 78014,
+  "city_name": "mountain-view-california",
+  "city_rank": 424,
+  "city_population": 77846,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.4137536,
-      -79.14224639999999
+      37.3860517,
+      -122.0838511
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 7785,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.38881689999999,
+            "lng": -122.0314474
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.39013062989272,
+              "lng": -122.0297385701073
+            },
+            "southwest": {
+              "lat": 37.38743097010728,
+              "lng": -122.0324382298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "22386663e7937eaddfa57bb43e0ce15a70dc49da",
+        "name": "Capoeira Angola South Bay",
+        "photos": [
+          {
+            "height": 359,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100185775558560434420/photos\">Capoeira Angola South Bay</a>"
+            ],
+            "photo_reference": "CmRaAAAAH7vCy0jC4CXpAVSSJxL4aoSMqUS8gJgIgc2jIVkmKdO7KY6C3PHnOD4koJp4EqobUD44acWgwS7c6TZuw24jRl2vPDqwyKyWJbu0-v-jT7zoQKqwhjG4S5hO5jmhjR3mEhBWBqCqOuGs3iVr9_jyltnfGhQhH-vFJElItXLtaP0s5CJ_3gh6AQ",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJHXGqklO2j4ARTx4xFkxBZPw",
+        "plus_code": {
+          "compound_code": "9XQ9+GC Sunnyvale, California",
+          "global_code": "849V9XQ9+GC"
+        },
+        "reference": "CmRbAAAAfk7qdiew63K8LthhJr_60y9NNcCgg9p4AgDxnGWxFu4FPvMitL3SoEwsu2FvdoImAjaTgQPMEWw8fx3_Au6m1WGaQ6SpfSntvOSaoFNXfiH8YgrGjxuruGAr-m-_540UEhCaoqLiKspp5o4dtRu-UW1aGhQXS-Hs5QN1lzDxKWipxUQWkEzeDA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "477 N Mathilda Ave, Sunnyvale"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.4287709,
+            "lng": -122.163704
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.43012072989272,
+              "lng": -122.1623541701073
+            },
+            "southwest": {
+              "lat": 37.42742107010727,
+              "lng": -122.1650538298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "a3ec49cbde24dcb2cf98f4c5bca518fe18a65d21",
+        "name": "Stanford Capoeira",
+        "place_id": "ChIJCw-T5Ne6j4ARP-o4MUOYlo0",
+        "plus_code": {
+          "compound_code": "CRHP+GG Stanford, California",
+          "global_code": "849VCRHP+GG"
+        },
+        "reference": "CmRbAAAAdAPtsS5usBC0Ib1khsFmxTRIfnpPSgQkKWnea8ECNHCkv-_PlDMGnV2IV1VoWsXZIiJEG3PiIP2JlA5Tg4Wzf6kLKS3E4WUAmYyGrV0csLS3XoihCBKXz2XxE4MPYrwBEhBK2tdARfljEIqEaSgPBtS2GhRhjEb6lnoIEecqFCK1c0X-lbpSNQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "285 Santa Teresa St, Stanford"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.4647615,
+            "lng": -122.1279642
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.46602982989272,
+              "lng": -122.1266115201073
+            },
+            "southwest": {
+              "lat": 37.46333017010728,
+              "lng": -122.1293111798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "709dc206b9edcbf1b9e8bfceadad40eb1274be31",
+        "name": "Stanford Capoeira",
+        "place_id": "ChIJVVXh5p27j4AR6GUTTa-BHBA",
+        "plus_code": {
+          "compound_code": "FV7C+WR East Palo Alto, California",
+          "global_code": "849VFV7C+WR"
+        },
+        "reference": "CmRbAAAAhxjaMzlAes18KTZRfqTV-WIyN7uLTCrYEz9y5w80Co-PPpacmf_K8FsW7pd_d2Rh8a4hAydKeQY7OLzI1KLgVEeTRSuCiK0Rvx1XKtuy0aN79xVPuNOZppzeWJSJM-gSEhDU1WocD2idSaiRLIDUWi9hGhQWjLgiNHUcDt9Jx0y1sGSyJjKvTw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "53 Shorebreeze Ct, Palo Alto"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3311167,
+            "lng": -121.9497948
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.33246607989272,
+              "lng": -121.9486630201073
+            },
+            "southwest": {
+              "lat": 37.32976642010728,
+              "lng": -121.9513626798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d13fa4abe41228d875431a7499218b18ec6bd093",
+        "name": "Capoeira of San Jose",
+        "place_id": "ChIJ374KLP3Kj4ARzKRbN_lAi4c",
+        "plus_code": {
+          "compound_code": "83J2+C3 San Jose, California",
+          "global_code": "849W83J2+C3"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAAo8e5HSTrF2kr_1GCIJSabQ04jlmLUwM948LdlL-rRDCgZFbQzyeNx_U_E2bgYAT26CFenzqk4VdHAHq_7SwSrq72FE8ahL_k6hhsgjqDGiXQDvm8swCjgwhaBqIT_4gEhBLUc6gsVbpWrnrWdtHdBhYGhQRHVEy1QKSt-DB2qP1SWooc10WyQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "850 N Winchester Blvd, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3300266,
+            "lng": -121.9112649
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.33122947989272,
+              "lng": -121.9099051201072
+            },
+            "southwest": {
+              "lat": 37.32852982010728,
+              "lng": -121.9126047798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e9bc5ac1439b4160bf7b9283c1e3983eaff53382",
+        "name": "Capoeira Irmandade",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110828806908710708745/photos\">Santa Clara Movement Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAbNggM5Df4jH26CQV0Ht-_QDkhzFy4YyVqeCSs1jipYVnKYZwu5BSyfkYE41A55gly37qS7vO1xTGU0JoIxTTcuu0xYs7q_xdxRTf-GV8nZgRA9cfIi24wSUDKU3v3zC0EhAyx_tssCe_vvcj6TaiqI4PGhQyM7pdVT8g0R9IGoPFy3z7Ol2Ogw",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJMVjJQKjLj4ARuGnGsQc2joU",
+        "plus_code": {
+          "compound_code": "83JQ+2F San Jose, California",
+          "global_code": "849W83JQ+2F"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAN4kY1jo4HFrtlyve_y0NqZv6kwBF1W82OnWbhGaRW5nW_AREokh6OtxrCVs9XgXMS4oSEoMrykEai_UY1rbUPxVblTN9Qm6xA_g-wfq-jVHp7ffvbp_q0LuofVyr1lVzEhDm9pekzOYnvR5MZAt0NvI0GhTtYf5UYObTy1KaoYlppWVOTYzqWw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1043 Garland Ave Suit A, San Jose"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6574762,
+            "lng": -122.0545358
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.65882602989272,
+              "lng": -122.0531859701073
+            },
+            "southwest": {
+              "lat": 37.65612637010728,
+              "lng": -122.0558856298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "408369ee432ff5c5dd4753f07a502e78f3982f8f",
+        "name": "Omulu Capoeira Guanabara - CSU East Bay",
+        "place_id": "ChIJjbzlMfOTj4AR6SCrnIIQmq8",
+        "plus_code": {
+          "compound_code": "MW4W+X5 Hayward, California",
+          "global_code": "849VMW4W+X5"
+        },
+        "reference": "CmRbAAAAP6zCeoPxFz-qmXfPMtT_F1trxCN5-otHrX2uL3j1VGN09GepDwqaXSEFYlVjmga-_1M_Cwpha-ErsvmlBCflSo-mP1C-VJwbmnzxA21AkZG8gRFuCorvdd6Nl7hFig_SEhANabkLfxo5Pcw4mA0qaen3GhQ6lqcxYbxPGBfbxNjxbw6opc0n6Q",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "25800 Carlos Bee Blvd, Hayward"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6748522,
+            "lng": -122.0810687
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.67610232989272,
+              "lng": -122.0799045701073
+            },
+            "southwest": {
+              "lat": 37.67340267010728,
+              "lng": -122.0826042298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
+        "name": "United Capoeira Association - Hayward",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 781,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116262097327190499851/photos\">Sharon Shook</a>"
+            ],
+            "photo_reference": "CmRaAAAAGE6-_NGXFa7d6Lfc82QcmIXgOb5yOFQ2KH0kZ2NHDHcxGUBIgO59kUPeOpPRH_93-Y5Da3jIOUjitlcFCvWuDoiuopKESqlUG5zNqYwdaexs0k38_mgONNZA-EJsOqNOEhAJnkhhDXugA3RnYxkyZpNAGhTIgscvqjsmbJssQ-ICFdOeVts2IA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "plus_code": {
+          "compound_code": "MWF9+WH Hayward, California",
+          "global_code": "849VMWF9+WH"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAAUdAWjlBunGq23zMvqIiZ6qcVRzgNbjm7_NMucT1QLDtkPfFcg1twvITSeTX7ATArCs3yN3c2fqjNu94puJq75FulmijurNx0tEqduWrEOAybIIxH0HF15vqlSB1-JIw8EhBKo0ZBPDWEkUJ40wpVDZLOGhRXO5puoLPo57u9FmmJ37FkMlgtNQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "22540 Foothill Blvd, Hayward"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.95986720000001,
+            "lng": -122.0478072
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.96141082989273,
+              "lng": -122.0465064701073
+            },
+            "southwest": {
+              "lat": 36.95871117010728,
+              "lng": -122.0492061298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "63cdc3aca5a1a95052a2ce1c9f101e74466d29b6",
+        "name": "Santa Cruz Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118176620259967267730/photos\">Mike Maraldo</a>"
+            ],
+            "photo_reference": "CmRaAAAAQh4JpYbOWVLgGCq2nmPIT1tIJAYVv01l6nDp_H7uLOSD7M-JoGiJX7a9RQmxW_0w0ZCdAzNQRWYwgc8jEkivgXelLW2RpgrJgNo0YwccPP8-w5qrB4Xo9c8vkLVDH2IGEhCtpGWpZ7ifXq_7Xfdc0OI0GhQXiVek_Q9i2qU5aBwZC7SBKJeG2g",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJFc_okXlqjoAREUoxY-9bick",
+        "plus_code": {
+          "compound_code": "XX52+WV Santa Cruz, California",
+          "global_code": "848VXX52+WV"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAfjHRjzS2c0H8m8EI7s8fAuxZLv2Fq5ntzSbxK3z5K-QFS8tlCbpTQq_2JqDCfe8vmuYCeNap53SlEUlkWoDRge42xhtlNGxub5oL__ltWd1akie24exLosgtHy4zT1-CEhCifkgjJv7n3voZ3yPf6R_XGhTO2IpYcJwxqvKG4rpIM7gySi68uA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "207 McPherson St, Santa Cruz"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8028283,
+            "lng": -122.2655877
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.80427272989272,
+              "lng": -122.2644817201073
+            },
+            "southwest": {
+              "lat": 37.80157307010727,
+              "lng": -122.2671813798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4e403497890e9d41aff48e389684011f52504c0",
+        "name": "Omulu Capoeira Group Oakland",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 797,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108872424464866073361/photos\">Omulu Capoeira Group Oakland</a>"
+            ],
+            "photo_reference": "CmRaAAAAsSWmKtplja6l7nCAmqLG5-lJYMhlq0AlHC1VwexTOawfOLe1ZYVT6dl19QJRX-NTyahgEv4R0cBYHkofXlRS-VDPUu8xkoj27RUigiBF8O8oS8b_Uq5fk3OUfTsWJGtyEhDAZbfd8Z-z_qGxXFKjakM9GhRAsZXRme5bQxKMB940WPKFl3Tb-g",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJ1wap1rSAj4ARw1rSgqvOpkE",
+        "plus_code": {
+          "compound_code": "RP3M+4Q Oakland, California",
+          "global_code": "849VRP3M+4Q"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA43m7FfsbpkWiN6WHv5XjxwslovXpOkbmJ-gtaZx1VC_3OG8Vzl4N3iN5cCfxLiOfLOsAi6TTvp3UJMuJWtzj3hv3YdNzwpykEqQg_gAxpkHtXQuims8osfAHiIbMH6TbEhBoarPN7ILEqEX5d5q2jrfrGhRwNOmFdNiJhwepPpYNdp1slHhk8w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1428 Alice St, Oakland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.8093494,
+            "lng": -122.2499629
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.81066007989272,
+              "lng": -122.2485622201073
+            },
+            "southwest": {
+              "lat": 37.80796042010728,
+              "lng": -122.2512618798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "200e35beb66df297405abc8661330a44e751bb6c",
+        "name": "Capoeira Angola",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJtWnimEaHj4ARfbTaGCZOB7Y",
+        "plus_code": {
+          "compound_code": "RQ52+P2 Oakland, California",
+          "global_code": "849VRQ52+P2"
+        },
+        "reference": "CmRbAAAAf8gebfDrDndqacZ05IFCF-NWAYWCdki-9874ZyaP4AgnOtzOCFaNrh10Fs1UvFAIrb9JTIvnHhLlb-WyAIbGQOF0QVE18ZBRtQkD6vcPC1GH01Ke_vvB6eJlmKxdAB-kEhDr0R-i4K-G2PmqbgvFCgAJGhQTV40-xx71ntjGr4fjTBVxdSDQkg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "580 Grand Ave #304, Oakland"
+      }
+    ],
+    "status": "OK"
   }
 }
