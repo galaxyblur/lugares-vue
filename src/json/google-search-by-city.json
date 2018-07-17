@@ -1,20 +1,94 @@
 {
-  "city_name": "kalamazoo-michigan",
-  "city_rank": 440,
-  "city_population": 75548,
+  "city_name": "baytown-texas",
+  "city_rank": 441,
+  "city_population": 75418,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2917069,
-      -85.5872286
+      29.7355047,
+      -94.97742740000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 37709,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "plus_code": {
+          "compound_code": "GVWF+HG Webster, Texas",
+          "global_code": "76X6GVWF+HG"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAVgjk5-2ouRSsC3yducOSztA75H3E7UQ267WYjxj5a9TnzlpdtUD6QGu-HX0SrUJhjSDC9n4RRxuKVEIvPunajdU0XU7tTJa2FVazQasZoikdMVzGwrXKwY8Pc5r26_iQEhClFkOKipS5AkukJkia0thZGhR4EayqKbi6NAp_UUKAxqj0mjfVEw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17050 Galveston Rd, Webster"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.7368635,
+            "lng": -95.47904659999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.73801432989272,
+              "lng": -95.47769527010726
+            },
+            "southwest": {
+              "lat": 29.73531467010728,
+              "lng": -95.48039492989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "055d7004fd6670554c175b7411e09840d96059dc",
+        "name": "Capoeira Luanda Houston - Graduado Paraná",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJm5ZFi9jDQIYR7mEhepYRFxw",
+        "plus_code": {
+          "compound_code": "PGPC+P9 Westside, Houston, TX",
+          "global_code": "76X6PGPC+P9"
+        },
+        "rating": 1,
+        "reference": "CmRbAAAA0UR2xVWuHSTtKRHab3j1mQqstlGcOiLdigWR-RR7Ptmlslhwj3xjlgqlHSHdkkhvFpHt2724i-G7W4oANBbMDUuoZDWWy6IZulM5Tgi90H5RdSH2y9K6_-8VUzKGWxhBEhBmOr307jZ53K8GW4iB1RjvGhSunGbjpXWMurKRB5HZ0CA37gOKug",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5704 Val Verde St #2, Houston"
+      }
+    ],
+    "status": "OK"
   }
 }
