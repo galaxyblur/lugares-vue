@@ -1,20 +1,69 @@
 {
-  "city_name": "springdale-arkansas",
-  "city_rank": 443,
-  "city_population": 75229,
+  "city_name": "bethlehem-pennsylvania",
+  "city_rank": 444,
+  "city_population": 75018,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.18674420000001,
-      -94.1288141
+      40.6259316,
+      -75.37045789999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 75018,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.3769369,
+            "lng": -75.0340904
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.37851372989272,
+              "lng": -75.03149164999999
+            },
+            "southwest": {
+              "lat": 40.37581407010727,
+              "lng": -75.03495665
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "93706b6bb60d05ce321b68b94d03866ab5c443f4",
+        "name": "Capoeira Morro Verde",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1360,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115523194882455593370/photos\">Capoeira Morro Verde</a>"
+            ],
+            "photo_reference": "CmRaAAAAxnQl_9T9_e04J7ZsGx4JpmZv9DWv0Nyxc_4ptnszQV7pHP0EETiRADUFA6lmY3gsVO04gK5w0hQf7CglLFWKSNNaNTaSTlDJLjjyPoA62__wt-QpNroQo8anlpkx0-0qEhB48141psFgR8GlH9HnFqsuGhT4irTFKPGHYCATwUIh7RpMh5kiRQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ8ZnhkTYBxIkRb9ekHnCrVJI",
+        "plus_code": {
+          "compound_code": "9XG8+Q9 Peters Corner, Solebury Township, PA",
+          "global_code": "87G69XG8+Q9"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA5yBEux6M10yNEpwupBjUYBz58JW44rY9lkSozYLbgj3FjewRXL-oWs4C6c22CsP3hHPIwDaRJV9cpI78UqIiu6QQqS0EfryTLnxTqgS7irwNqK18IjzQhbJEz27gmomxEhDZNFFmvIxjnJvQTwkRPmwdGhT30uaMdQru_EOE5O9dj7sjvevCag",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6365 Greenhill Rd, New Hope"
+      }
+    ],
+    "status": "OK"
   }
 }
