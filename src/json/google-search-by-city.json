@@ -1,55 +1,20 @@
 {
-  "city_name": "manteca-california",
-  "city_rank": 467,
-  "city_population": 71948,
+  "city_name": "iowa-city-iowa",
+  "city_rank": 468,
+  "city_population": 71591,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.7974273,
-      -121.2160526
+      41.6611277,
+      -91.5301683
     ],
     "rankby": "distance"
   },
-  "people_per_result": 71948,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.5144891,
-            "lng": -120.8260116
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.51582202989272,
-              "lng": -120.8246620201073
-            },
-            "southwest": {
-              "lat": 37.51312237010728,
-              "lng": -120.8273616798928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0ec2a8ac24b70abbb1e6aa16dc62348dc61f52",
-        "name": "Central Valley Capoeira",
-        "place_id": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
-        "plus_code": {
-          "compound_code": "G57F+QH Turlock, California",
-          "global_code": "849XG57F+QH"
-        },
-        "reference": "CmRbAAAAk5Y1C5qEu0aUlf3WpBAIktW-V-jJ47nZlgBnKBWD656oZ4GKyjVcJSXzb4_xE6DQGjMOH7K2Ocg3a8lqIPXafe4Qla2UBkVEa9IuBQZ5ga25xjrDTGg0i6KJr_lcRknZEhC7bu_8OoP3_79KNJVm8jgtGhSqeYeEeMKGKiwV-Pb7whguPQSq6A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2006 E Tuolumne Rd, Turlock"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
