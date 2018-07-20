@@ -1,20 +1,118 @@
 {
-  "city_name": "dothan-alabama",
-  "city_rank": 502,
-  "city_population": 68001,
+  "city_name": "rancho-cordova-california",
+  "city_rank": 503,
+  "city_population": 67911,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.2232313,
-      -85.3904888
+      38.5890723,
+      -121.302728
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 33956,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.6097166,
+            "lng": -121.3675389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.61134907989272,
+              "lng": -121.3661851701073
+            },
+            "southwest": {
+              "lat": 38.60864942010728,
+              "lng": -121.3688848298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5725453a83c9d9d87023864cd02c9cc8bb00887a",
+        "name": "Allied Capoeira League - Sacramento",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107896513263160867384/photos\">Allied Capoeira League Sacramento</a>"
+            ],
+            "photo_reference": "CmRaAAAAHemKFpu6bR8ESdUCFCIMOacNoviSF0s7eVS9wn9HZGU7Cjmmp3XoNQf__QQDiR3BinK1wEjCiFNnZf6YVub8TMGP-YuUfqor4S42xrtk6I0xoefC6OB5YCM5x_aLs_y7EhCkzsE2Zu_fuwjjrA8xH6KCGhRsFKQPHenEa_dTzcfPxvpzy2vazA",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJQWOsQ-7bmoARAuUT05XRRVY",
+        "plus_code": {
+          "compound_code": "JJ5J+VX Arden-Arcade, California",
+          "global_code": "84CWJJ5J+VX"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAsbAdx6RHuKNjXZk4g1RvzL1TTjCq4ou7OuO6hVuOruyXTzv-mmPK8wjAJRgnK1IMi9Vyv3uMdYeg4PWtTEFgvow5RlxqSImMOZ_bz85bkSs2-KGnzRScjNKWBzN6No4rEhAdkPAxhFeEn7HL1012Lxh-GhQ-vSUnV5KX2CPuxDJNI8SPsMnohQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4128 El Camino Ave, Sacramento"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.5701444,
+            "lng": -121.476185
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.57176392989272,
+              "lng": -121.4747144201073
+            },
+            "southwest": {
+              "lat": 38.56906427010728,
+              "lng": -121.4774140798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b9231003fabaf1a1519a8d635b7babd9d7214963",
+        "name": "Capoeira Batuque Sacramento",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110807117384196377979/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAUMLcqyQrWPKYGGGTRrgRwnj-4CER3yySRTfj6oWvOVIld3VQYRIIv_7ERpcJiH6c4ekJxDlIWHQhgB2u_nig7FVo9JLe3EvT_Xh0EEVHMcrK0d68_v8DLH5p91-nvpcYEhCNOR5210R44IgfvQvs2tb_GhRT7S5g3D2BkI1hnSS5_BmXAUHUpQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJwZSZx-nQmoAR8R6BRcF0mOA",
+        "plus_code": {
+          "compound_code": "HGCF+3G Sacramento, California",
+          "global_code": "84CWHGCF+3G"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAVPXSiRN7Fii2987crXL5mk_qwKDtdLq_dCa4O80h7OmLaZtljiEv3ID8cdjErW_Tvnl2DcNvZgaROVhb2zgzDbTCtt31Eq7lS_tYnUgymZjKZOBEO6DD1oIxH5eL4AXuEhAdbbsP6VhAkW8519kzG1r0GhT8Z9paQRG3Tywk0yMm_bMNk4nVCw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2420 N St Suit 180, Sacramento"
+      }
+    ],
+    "status": "OK"
   }
 }
