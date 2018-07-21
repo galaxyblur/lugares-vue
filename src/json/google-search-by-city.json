@@ -1,70 +1,20 @@
 {
-  "city_name": "bossier-city-louisiana",
-  "city_rank": 518,
-  "city_population": 66333,
+  "city_name": "portland-maine",
+  "city_rank": 519,
+  "city_population": 66318,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.5159852,
-      -93.7321228
+      43.66147100000001,
+      -70.2553259
     ],
     "rankby": "distance"
   },
-  "people_per_result": 66333,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.5033975,
-            "lng": -93.74053359999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.50490987989272,
-              "lng": -93.73897607010728
-            },
-            "southwest": {
-              "lat": 32.50221022010728,
-              "lng": -93.74167572989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ed3f69498d04df4e21b4e8d1295e152217152190",
-        "name": "Tankhead Gym",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101673559498112287758/photos\">Tankhead Fight Club</a>"
-            ],
-            "photo_reference": "CmRaAAAAD9xuhAIHqj4ov5SNZvzAX1El03f8T2HIBuynH2PfiFlDgi_QTEdPURlvLNkxNoyBh-POyeK49Npig5NSiVirSJdYWAZB7EZjQ14vN111iqDFkO6L6MPTH2k6MkHO0bNwEhCxZDF0xqTVWWMm8I8G3dYZGhQJn3F4EzEaprmnZ2quomW4gNPebw",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJT61l_DfNNoYRotJqB9CsWPI",
-        "plus_code": {
-          "compound_code": "G735+9Q Shreveport, Louisiana",
-          "global_code": "8648G735+9Q"
-        },
-        "rating": 4.2,
-        "reference": "CmRbAAAAsBwoAkyQRKJNZX1gQ5X-BjGlehl8UIVvrbKBdEbBoiZRGtyDZd62Km4dspyk4S9SXAZrUTMH_U88c6LSIv-9XqQKvPbYIET8WOyhui-dU4tlkF0NQNQ-_wq4SrOmWhB8EhCircbuXPo9VGRMYN6tAEa7GhRjB9BtaoXabUI3JFHw7Aba53rOxw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1618B Marshall St, Shreveport"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
