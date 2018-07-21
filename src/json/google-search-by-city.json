@@ -1,69 +1,20 @@
 {
-  "city_name": "frederick-maryland",
-  "city_rank": 514,
-  "city_population": 66893,
+  "city_name": "oshkosh-wisconsin",
+  "city_rank": 515,
+  "city_population": 66778,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.41426879999999,
-      -77.4105409
+      44.0247062,
+      -88.5426136
     ],
     "rankby": "distance"
   },
-  "people_per_result": 66893,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.0745836,
-            "lng": -77.13844399999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.07640032989271,
-              "lng": -77.13654387010727
-            },
-            "southwest": {
-              "lat": 39.07370067010726,
-              "lng": -77.13924352989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a630eb9d1bab5abd650ee19ea28344d30ef15a5d",
-        "name": "Abada Capoeira DC",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105265898210477842558/photos\">Abada Capoeira DC</a>"
-            ],
-            "photo_reference": "CmRaAAAANZzrhfS4TApMGLj20ebeuTM6iTt9fNvGIVuHW8uLkG5UWIcmPMeAaYcbwLRz9ATXBcxVaWXJ_1dPeyd1SygMAnFqxCn8itQF8vFkx9ozu6j8XbK7fuORXftF8W9a4N15EhBqi8st8gMu43d7GvXVftp1GhSt-O7zUlR8WzShb0zNVsvpBiyqew",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJLev43aTNt4kRkOaX0I_xdEk",
-        "plus_code": {
-          "compound_code": "3VF6+RJ Rockville, 4, MD",
-          "global_code": "87F43VF6+RJ"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAATZUvNB_UY-xBqvhL2ihbhXE2ubQhF8sgNz11iG36MSFlO5RCvf_Ij7wiVjFTeDPpnVsHTOKqOV_Lv8UWp8dPe3jtLrP_2Q8oWV2Lv0126A24fVM5UpgqetVAMlj0x49wEhCc9TDBQBxfCxv2dc9p9VVoGhR5KpJGgvb3o3zmeMxHTig8x0X8rw",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "837-d Rockville Pike, Rockville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
