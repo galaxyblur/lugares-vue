@@ -1,20 +1,70 @@
 {
-  "city_name": "johnson-city-tennessee",
-  "city_rank": 535,
-  "city_population": 65123,
+  "city_name": "victoria-texas",
+  "city_rank": 536,
+  "city_population": 65098,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.3134397,
-      -82.3534727
+      28.8052674,
+      -97.0035982
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 65098,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.8172461,
+            "lng": -96.9919658
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.81859487989271,
+              "lng": -96.99063312010728
+            },
+            "southwest": {
+              "lat": 28.81589522010727,
+              "lng": -96.99333277989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d386c4e275d0bcaac97da27331e9dea585aaf86",
+        "name": "Spartan Kickboxing Academy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109935963232314697234/photos\">Texas Combat Sports Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAKNE6raMjLqKNMUfL2nFaIXiLxBh4yuDztn7iZgGeASIEZkimc3I-_WFMp9bGWegzG0peEg1_PVbMIkU_8z6Wu8Wd4hbsqD9a0rwztffJ3--fpN0tVgBtRlu0jL3WAaS0EhB2NM-NcToIjhhwOYA01sEhGhRQs7cgbdRgdzNWi_layxtKmGfdxw",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJqcHKQidnQoYRyP-fSrpZ_s8",
+        "plus_code": {
+          "compound_code": "R285+V6 Victoria, Texas",
+          "global_code": "76W5R285+V6"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAuLjfiHiEl3Qob8EuZhOAkVq7T0tJ3r-7wFD3NqXUsjlaU2n-pRn3XOEu6iCfzSuVNJuJZ7cLPlZGaUjxobFJAT1uwzMQ96UMi8_aaK6b2fObD6ibm0R_U_fGRZ8ACH7AEhBMB-QynGtw5d46SEfcQ0M2GhQd71CUiz5Vvi_H26v-0hjlPfxNTg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2523 N Laurent St, Victoria"
+      }
+    ],
+    "status": "OK"
   }
 }
