@@ -1,20 +1,70 @@
 {
-  "city_name": "janesville-wisconsin",
-  "city_rank": 545,
-  "city_population": 63820,
+  "city_name": "conway-arkansas",
+  "city_rank": 546,
+  "city_population": 63816,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.6827885,
-      -89.0187222
+      35.0886963,
+      -92.4421011
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 63816,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.1121453,
+            "lng": -92.4514528
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.11349512989271,
+              "lng": -92.45010297010728
+            },
+            "southwest": {
+              "lat": 35.11079547010727,
+              "lng": -92.45280262989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ff8c4ea27aefc70f6402e721d108cb84903444c1",
+        "name": "501 Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2246,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111159599831785272331/photos\">501 Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAzbGN2zUSKjOKMP-rhhQlfS5-vvgsAqO1EhEfUAg7zE4MyjB-2wd8LW4lj_jOHdSi2c_BR1nKNta1dh0VMsLlDeQ-U6XNXZxoQCJEAuS4sgqauvM-DtuovnsCmJzOwzT0EhCadxMMdDolH0ATIRRLnqilGhQAis4XCjf-245ivfouskuVl5e91g",
+            "width": 2916
+          }
+        ],
+        "place_id": "ChIJ3ZQG4iKC0ocRlsR662_zcR4",
+        "plus_code": {
+          "compound_code": "4G6X+VC Conway, Cadron Township, AR",
+          "global_code": "86794G6X+VC"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAJmmj5B654ZDw2AWc70za9W7M-K5N23Zp7w-5aanewf0s1rX7Dp58eSkBIb5QwQdNW6AJO2wG8zUpqdntr2funq1ZD2dr0AxyLOxKP7c8YkQONsGrk56cmryKItZ1jcxgEhDmIwvHtXANdmkjiICv0sVIGhQK-AMg_MMSbvVM0ZeXb-Zqlm9CKg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2585 Donaghey Ave #106, Conway"
+      }
+    ],
+    "status": "OK"
   }
 }
