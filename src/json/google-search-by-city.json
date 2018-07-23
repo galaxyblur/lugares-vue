@@ -1,167 +1,20 @@
 {
-  "city_name": "taylor-michigan",
-  "city_rank": 566,
-  "city_population": 61817,
+  "city_name": "utica-new-york",
+  "city_rank": 567,
+  "city_population": 61808,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.240872,
-      -83.2696509
+      43.100903,
+      -75.232664
     ],
     "rankby": "distance"
   },
-  "people_per_result": 20606,
-  "possible_duplicates": {
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ],
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ]
-  },
+  "people_per_result": null,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.4602986,
-            "lng": -83.1370883
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.46177327989272,
-              "lng": -83.13574542010728
-            },
-            "southwest": {
-              "lat": 42.45907362010728,
-              "lng": -83.13844507989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
-        "name": "Capoeira Mandinga Detroit",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1626,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
-            ],
-            "photo_reference": "CmRaAAAAi43QB1EX1-02eLFNQUUXnu9cwhu9dIVsUGcWeSDg90Oehn1ZdqYcSMiARACgX2tmTYTvx8pYPKPzUUTvC99wknM04cDZRvhvHYJyvZhIJtRmpDRsCyy8UCrDvsOQQ5fLEhAiVqF1S-jqSszczniscGh0GhQzPOic9KtsRUO-As88FESSq15DAw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
-        "plus_code": {
-          "compound_code": "FV67+45 Ferndale, Michigan",
-          "global_code": "86JRFV67+45"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAgt2q8xGAsPk7_m-h7KuzXyz__aiviFbYpiiPg_KAbI7FCsW09APBaP7X4KBe4LL5lT3XMBCG2tZ5I4LYM7uoxUPl9djdp0CkKmd6RWGFttn5MD8RQmftbckrdShDrTiXEhDfjMw484P_gya3iIEfPMVKGhSYYo7bYIrVxGNUUM7Cen2AZYRuWg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "247 W Nine Mile Rd, Ferndale"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5005072,
-            "lng": -83.3609625
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50190432989272,
-              "lng": -83.35763385
-            },
-            "southwest": {
-              "lat": 42.49920467010728,
-              "lng": -83.36207205
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108282838812664272157/photos\">Tira Prosa</a>"
-            ],
-            "photo_reference": "CmRaAAAAU1nPVyDNR8gEQzon3U3T73veRvm0Y3KYe6BLTdK57SFTL7bh4Nwq7E92zv9J1z6_IT90LFVn56XBTqw-rkiUmzAfBGGf__Xz678jUzW96hfG7Oikeq5AwRgbcDXIzp5TEhCqrS_Tu0Zes3SLAdhQhqmaGhTKOCas0cV7AkyqXcofGdrYFTRLiQ",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
-        "plus_code": {
-          "compound_code": "GJ2Q+6J Farmington Hills, Michigan",
-          "global_code": "86JRGJ2Q+6J"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAaNQkHPoZIN2Z01m4XL8uQjPRYE6vxl5HjN_erENVW1DQlVvnM-8sbZEQXFFd5C1gX8Eba_OVp3VbCxLlbyM1OdEbLedrHQ0Yew8MnFgECM1vBe2YH74EHfa6H1BR_LqCEhBx3Shxd84uEUNG-ydqupYWGhQ8DNLoq90yIFps6EDPrT5umALJJg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.52903182989272,
-              "lng": -83.35880832010729
-            },
-            "southwest": {
-              "lat": 42.52633217010727,
-              "lng": -83.36150797989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "plus_code": {
-          "compound_code": "GJHQ+3X Farmington Hills, Michigan",
-          "global_code": "86JRGJHQ+3X"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAANqjx_qdyzU3JA94rqKJBGKRetAKGkX3wqKMnJWBxdUfxu_YImC2uj-p_r-9Ona7G6dUVU734m-PNbdeqqcHLJ8Lonm3wZ32HgRejQwXqgLw5PxhOItYnQXwANg27a9dVEhB-MybIDXoNX7xNWAo0HxjAGhS1mhF7Nn_7GctFVrjlSrUfk5eNqQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
