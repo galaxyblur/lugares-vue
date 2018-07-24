@@ -1,78 +1,164 @@
 {
-  "city_name": "taylorsville-utah",
-  "city_rank": 584,
-  "city_population": 60519,
+  "city_name": "malden-massachusetts",
+  "city_rank": 585,
+  "city_population": 60509,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.66772479999999,
-      -111.9388258
+      42.4250964,
+      -71.066163
     ],
     "rankby": "distance"
   },
-  "people_per_result": 15130,
-  "possible_duplicates": {},
+  "people_per_result": 6051,
+  "possible_duplicates": {
+    "ChIJZe_ipL5544kRw4O4nql_W9k": [
+      {
+        "place1": "Sinha Capoeira 1431 Beacon St, Brookline",
+        "place2": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
+        "score": 0.8852459016393442
+      }
+    ],
+    "ChIJg1Q6wbt544kR0buBMd3l8uE": [
+      {
+        "place1": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
+        "place2": "Sinha Capoeira 1431 Beacon St, Brookline",
+        "score": 0.8852459016393442
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 40.7392814,
-            "lng": -111.9136328
+            "lat": 42.4033266,
+            "lng": -71.0587142
           },
           "viewport": {
             "northeast": {
-              "lat": 40.74075257989272,
-              "lng": -111.9122838701073
+              "lat": 42.40472062989272,
+              "lng": -71.05745192010727
             },
             "southwest": {
-              "lat": 40.73805292010727,
-              "lng": -111.9149835298927
+              "lat": 42.40202097010727,
+              "lng": -71.06015157989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bf303a406415d126f9cf8885feb71d47a86209f7",
-        "name": "Capoeira at Fit to Recover",
+        "id": "bb8339fd60a156f55e497083f6e37dee879d057b",
+        "name": "Capoeira Brasil Boston",
+        "place_id": "ChIJZdliiQ5x44kRIBEtCgjmK68",
+        "plus_code": {
+          "compound_code": "CW3R+8G Everett, Massachusetts",
+          "global_code": "87JCCW3R+8G"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA24VvRI6lOBcc5H-FiFWY25jIdgkojoX-rDxXczbzMzlVzZ8m4_5D7a51ECUkgoruIQXTGyroSDPepTBoY6llE0704qSp-TbS-sbq3CFMsuHV6ZF7Nudpv0-rg8Ceq5wuEhA8xkIHMqLHK8KpqpJUjJ4xGhSrl57OvY1EQ3Kol3LOTrHPu8yfTA",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "305 Broadway, Everett"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4001307,
+            "lng": -71.11347119999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.40156917989273,
+              "lng": -71.11207092010727
+            },
+            "southwest": {
+              "lat": 42.39886952010728,
+              "lng": -71.11477057989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "36b555afe1ae74939f867ac3259c2e3ebef814cc",
+        "name": "Capoeira Angola Quintal Boston",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "place_id": "ChIJKQMemdh244kR6B3_f8CrLZE",
         "plus_code": {
-          "compound_code": "P3QP+PG Salt Lake City, Utah",
-          "global_code": "85GCP3QP+PG"
+          "compound_code": "CV2P+3J Somerville, Massachusetts",
+          "global_code": "87JCCV2P+3J"
         },
         "rating": 0,
-        "reference": "CmRbAAAA4uEppZlLSqUb_--XP9Ye8gi5KNz_N_prPPY5-D84-DM3oVpcEtYcvFQHR3FcSvhAhfJr75hBFUjSwHy-PcUlH9TGulDcYI6dgsYtSOqGS9SWAdtChv98SdECcDctxcMZEhBEw3kJrOOuVPyFZbVTeWrEGhS-1QJdYsb7pYxQB8RzB4hLcWE27g",
+        "reference": "CmRbAAAA7o8-ibo3BoY-P9OSNn2iYhjUnTeTiHoXOoQfnmc9O3Sj_FSO91fff0WLvM15RYzYBFMtMY-AlHZ4xVMlZLVGE-4u2132mABYrmHCC6KS3Pc_rjbXBxF1fd7mZBaGyAldEhA50MSAbj327kkIRQnYNGrMGhTJK6Jub4Q30SL7IDRGiBTf6NPM-g",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "730 Broadway, Somerville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3860637,
+            "lng": -71.017906
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.38764807989273,
+              "lng": -71.01706677010728
+            },
+            "southwest": {
+              "lat": 42.38494842010728,
+              "lng": -71.01976642989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2c14acdd8bb350e685ca0fb7fbcd342efe197e1a",
+        "name": "BENEFITS of CAPOEIRA KIDS Classes",
+        "place_id": "ChIJg87zWcxx44kR3i9mFIzLIko",
+        "plus_code": {
+          "compound_code": "9XPJ+CR Boston, Massachusetts",
+          "global_code": "87JC9XPJ+CR"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAVgAQbaNnD3vb1T0930-NvSx20NiceOmBcX3XzBWGIji0dFrtQKNrHyjNKt1hhMkuBpfNF3y-X_F0pdLUPxgSARb0Gfb6lvUnz_DGbqeDs50ISQ3f9VGjk4IySq1Gp94mEhDLuu_8XZ_lt1FjBLDzQxkHGhRXvG-6-FjTQYVspkbqEjE6WeQV6A",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "798 W 1390 S, Salt Lake City"
+        "vicinity": "175 William F McClellan Hwy, Boston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.7667678,
-            "lng": -111.9106359
+            "lat": 42.390248,
+            "lng": -71.12150199999999
           },
           "viewport": {
             "northeast": {
-              "lat": 40.76829737989272,
-              "lng": -111.9092676701073
+              "lat": 42.39168807989272,
+              "lng": -71.12006617010726
             },
             "southwest": {
-              "lat": 40.76559772010727,
-              "lng": -111.9119673298927
+              "lat": 42.38898842010727,
+              "lng": -71.12276582989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "444c5f04635f4254114077eb2ad479a143995288",
-        "name": "Salt Lake Capoeira",
+        "id": "5d3640aec54a62f0677665759a070940e54bf372",
+        "name": "Sinha Capoeira Cambridge",
         "opening_hours": {
           "open_now": false
         },
@@ -80,122 +166,279 @@
           {
             "height": 640,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111612155413556623211/photos\">Sinha Capoeira Cambridge</a>"
             ],
-            "photo_reference": "CmRaAAAAUh8Dd_Zj6gXWzcxxiRCznNI221qOjwL_bi2Qrr91dAa0KPF2wWCEYE350swfqiwxaPbDIjogiP0vcUmFCQvh_PF2wifrUCFpKJQtUTSyhgTWXnI3lKyQtNq97X_ggqlSEhB4-5pon2XdnIJG-iIFRYRVGhQ0IPk0GRsl4oyMyFmb97Tcdg9yfg",
-            "width": 852
+            "photo_reference": "CmRaAAAAM9pdyZIo4o8wH080DE16BhqJ_z3jUUphzYVeds8ERxRzaco8D2PRzj7DmLTCftZCbhZByGqkM2Df_bHp_iG3txblN8KPH12Ni3F1Ny8JRkwrpSf_QG9v3-mWWUfDwbvHEhDqy9w9__f_AFEPTf-9_gWoGhQvo_cD4CGOYxckncJMHapFiyPP-Q",
+            "width": 640
           }
         ],
-        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "place_id": "ChIJ09kv3Bd344kRLdUWL_Ea8fc",
         "plus_code": {
-          "compound_code": "Q38Q+PP Salt Lake City, Utah",
-          "global_code": "85GCQ38Q+PP"
+          "compound_code": "9VRH+39 Cambridge, Massachusetts",
+          "global_code": "87JC9VRH+39"
         },
-        "rating": 5,
-        "reference": "CmRbAAAA6ffcf2K-SGMbpy5DK4tgEi5WpcBv_TPga3o06cSwdaDdFtE-BnzCL-sGIShTcvC3rxQXvlq1gnOZiX_CBClX-ehUbDK5uvVVsFe1sT2f0QATprijNeoj_o-jWm_ZmFroEhCpNoj-oTjD9lmkj_1mREZLGhTNk0cbInXHMRnLyVxdIklEi_WbwQ",
+        "rating": 0,
+        "reference": "CmRbAAAAWyJE0NOo2WTwESdr-wl1-NL_-e9LeQPnUijE-8D54CuCYcjxyNQLMqc8lp1vLFx4Y1XgSvNnixa9hKe9YFtm_pWeFuDEVAmTdpBnRo58dJamx47tIaB4q4WlTy_M1fcOEhDdSp5GDoa-TU5b-sjsee1_GhQosKdDtzaMDpSLe66TQ00jj5ySIw",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2000 Massachusetts Ave, Cambridge"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3638436,
+            "lng": -71.10223020000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.36511742989271,
+              "lng": -71.10096267010728
+            },
+            "southwest": {
+              "lat": 42.36241777010726,
+              "lng": -71.10366232989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "20a30f1dd34d29d90e5596494f6c29c246866102",
+        "name": "Embondeiro Capoeira Boston",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJF7mfEVR344kRSLsD4ZnkhwI",
+        "plus_code": {
+          "compound_code": "9V7X+G4 Cambridge, Massachusetts",
+          "global_code": "87JC9V7X+G4"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAowJfbd01AirifgHDbt6jngfKv6fE0B3PjhOM-edhGMj-3Keu4Ksg84dRMorZaereAvIJJ2KSTooUZ6LWWan_r-091cOQ7cekNIB4THM2budSKmasirHuPUDPiTxYb4sLEhBQ8v0A5tbptPsF6P1vhHS9GhRaia5d8VpOPHxK0Z6pD8F9UcfnKw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "West, 663 100 S, Salt Lake City"
+        "vicinity": "185 Green St, Cambridge"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.560521,
-            "lng": -111.917983
+            "lat": 42.3515479,
+            "lng": -71.13192029999999
           },
           "viewport": {
             "northeast": {
-              "lat": 40.56164222989272,
-              "lng": -111.9167161701073
+              "lat": 42.35289772989272,
+              "lng": -71.13057047010727
             },
             "southwest": {
-              "lat": 40.55894257010728,
-              "lng": -111.9194158298927
+              "lat": 42.35019807010728,
+              "lng": -71.13327012989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "deab89e83d0d50ffb03410179ed3c3dda7d7cf33",
-        "name": "Capoeira Utah",
+        "id": "163ca2015c178ff902d182d383048b49f80d4232",
+        "name": "Sinha Capoeira Allston",
+        "place_id": "ChIJIzMa7MV544kR0R6d_0PK-f4",
+        "plus_code": {
+          "compound_code": "9V29+J6 Boston, Massachusetts",
+          "global_code": "87JC9V29+J6"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAw_UPCYwfXF4nqQpkgPBSaKBv3YVXhb9RSPy4u2ILt2_VCQkzXyDxb-UH8lyj_zKmTJpeiUhh6Juz0x-HQR7kIXPBpFnGlhG5Wosn3u_ogZETgHKpyLFOx81bKZufpwG_EhCpGEqWRBz1gdnG7oDrrsVNGhTvSbK7c5gCsHDmIFVZsm-IGBCsfw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "161 Harvard Avenue 13B, Brighton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3406189,
+            "lng": -71.1260898
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.34202142989272,
+              "lng": -71.12477797010727
+            },
+            "southwest": {
+              "lat": 42.33932177010728,
+              "lng": -71.12747762989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8e543a4ccf220408bbde9b59af4982de6eb88a17",
+        "name": "Sinha Capoeira",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1125,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115247688110722630923/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAErmBjUuY0txfNwq7ZIovTHSEQF1PVNXiP_nctDTjlDA80XQzUtHOz8J6otEwqz4_GHmOW-KIm-XmJscDoKCDJgabqtnjs161PfLngYeTY3Hn3zv3GHJm9oJSdicxbOvEEhBsXSMcZ40DV_bUMnkn_eenGhRra1BBzoV4IkTAfmi9KNpiTJTZug",
+            "width": 2001
+          }
+        ],
+        "place_id": "ChIJZe_ipL5544kRw4O4nql_W9k",
+        "plus_code": {
+          "compound_code": "8VRF+6H Brookline, Massachusetts",
+          "global_code": "87JC8VRF+6H"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAq5o1XVC6093tB2vBVXppq0pJPlp7xZrGTHZ2Dd3MGbkshApkF8qBCXK4qX9emtGWhOKx_mMjgq27rEkVpLF0t5XSeD51uFSrxiGr4rmfzMvUtXifP4CL-6Z_U3xI77gNEhAmCBxitYl8BEbvwp4uhY8gGhSWFICpRoiwQ_SdzFrfYrqANif3cA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1431 Beacon St, Brookline"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3396032,
+            "lng": -71.1288261
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.34106272989271,
+              "lng": -71.12752102010728
+            },
+            "southwest": {
+              "lat": 42.33836307010727,
+              "lng": -71.13022067989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1b4877bfba7030d86f6ef716669efc7eb8095fec",
+        "name": "Sinha Capoeira Kids",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 2448,
+            "height": 720,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105489075562715512096/photos\">Capoeira Utah</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110324719945658873578/photos\">A Google User</a>"
             ],
-            "photo_reference": "CmRaAAAA0hBHpKE_JY_T0irKf3qp-5VgmW5AmKL78oA4gnUdgf-yqbfsVgL8utSna7Ki15emClnXPTadviVFZoOySryUuGmJoNG47Z3AQWBJJ6UR3wWsQptyVwY8zzFtVVx7kFOiEhCYcFZEb4BByYfbKDRyaHSEGhRxg1cxrNi9fn0OmRkD072C1Wff8A",
-            "width": 3264
+            "photo_reference": "CmRaAAAAvkmqYn3sTAZt4H9YUFWM-3g5puhkZ__QvgPyDHT9QMxUFpyxohDzh1DHOjJeCy80z_cwuiOnZm_qGsWyZtD7UXLbyEEcYEOINLT8EEYxK_R0qd9fK0dyoA2vdJraTtnAEhDURd1TKMRnzp-K8REjvg8tGhRdsNmj90EuAx6soThYzEglCB6PEQ",
+            "width": 960
           }
         ],
-        "place_id": "ChIJ-aUBQjqGUocRZbsadl-oIhk",
+        "place_id": "ChIJg1Q6wbt544kR0buBMd3l8uE",
         "plus_code": {
-          "compound_code": "H36J+6R South Jordan, Utah",
-          "global_code": "85GCH36J+6R"
+          "compound_code": "8VQC+RF Brookline, Massachusetts",
+          "global_code": "87JC8VQC+RF"
         },
-        "rating": 4.7,
-        "reference": "CmRbAAAAKS6McKumxUS_AXKnbHlVrMlxegMAKl9sOCy5-0hHqnuqNuTJiHF9vZygAivgkMv_C-GQDvhcFIR3vC60HjQIueRymaQqmrf2y5zT3eyUBLR7BtBUf7W-d3ec1aSrOSiJEhA14RaFYm5Nq7kj08_GniqtGhQ0EyGEh1zjFcdQcDdNISK9USJTsw",
+        "rating": 5,
+        "reference": "CmRbAAAA0xwE4_Dhe4gt6chKFbHfXG6FAU-o4u4lCOcOwkqvq_dDJogpTAokT977ETY3OPdezqS4lIr3jMvzKrg9S1YqHXF84yq1pFRxCTjkm-mcWG3vNu5Agahio4WRCkLPedbLEhDYoKzpSZpkVQf3RqOx2MBqGhTRt-RT1ElJ7nfdkuhiD1Rzxh2ilQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "968 S Jordan Pkwy, South Jordan"
+        "vicinity": "1485 Beacon St, Brookline"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.3075475,
-            "lng": -111.6977217
+            "lat": 42.3154164,
+            "lng": -71.0594728
           },
           "viewport": {
             "northeast": {
-              "lat": 40.30889757989272,
-              "lng": -111.6965779701073
+              "lat": 42.31679487989272,
+              "lng": -71.05828122010728
             },
             "southwest": {
-              "lat": 40.30619792010727,
-              "lng": -111.6992776298927
+              "lat": 42.31409522010728,
+              "lng": -71.06098087989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "38d60695391761bbc7dee4620db137b405fab1de",
-        "name": "Utah Valley Capoeira",
+        "id": "37902fe053d3189b22959924e1a43e93601836fe",
+        "name": "Sinha Capoeira Dorchester",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 2048,
+            "height": 776,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107391712528442834353/photos\">Utah Valley Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/116680133982916304220/photos\">Sinha Capoeira Dorchester</a>"
             ],
-            "photo_reference": "CmRaAAAA7-3TB4XfCgEw7XfTYWMbgR3cilO4XOS0tr3yabh9qXYROL_sJt47XqnwyxgPjmVf3D8ySXH_PQwjiLx9UiMhUAE7i2ePSRHEcIfqcJbFIxDITOWWfkdHM_oN4xIDSFJ-EhBnZlkpoIq_RiJK-MZl-7N-GhQPtFZKJtG-GstlC2_FpfYLWABoPQ",
-            "width": 1893
+            "photo_reference": "CmRaAAAA3kRud-5T7mCrdqIsetWXtCBY45svBsbUZ4eNR_bLYmb1ECt_Lsl3P5VNCYVKf9w3oO8HgxwgYNhu9bK8pz8KmTUMITQPhp3Q6FJfF9BIVKgQwNeRQJI8Mo2wp3UDH6CzEhDY-RHPLtIFuJpDVgEYOWwqGhQZaEfFQv8lwVHqK5CjDB40p_SInA",
+            "width": 1232
           }
         ],
-        "place_id": "ChIJpajnqo6ETYcRYATRWJcEF7I",
+        "place_id": "ChIJJTFXw1J644kRk7k4FUcoijg",
         "plus_code": {
-          "compound_code": "8852+2W Orem, Utah",
-          "global_code": "85GC8852+2W"
+          "compound_code": "8W8R+56 Boston, Massachusetts",
+          "global_code": "87JC8W8R+56"
         },
-        "rating": 5,
-        "reference": "CmRbAAAA2ODKMwOBRnL7TtKBoar1GWN56PuvHouXa1jrs4HWZ5Qi15ejgvr6gIgkAoqDBO4FJGCVSfTaiftgnWbssuCFLZYddhTqV00VGefVpuHMo6_qNZvOGRggwIwZzuWXp8-2EhA7R3N8ule-k5dNOQEjyh9vGhTAFfFP74uy-ZMVt6Iqrk76z202SA",
+        "rating": 0,
+        "reference": "CmRbAAAADJk0l7SrHKFqLnmdAw68ihnSfiw8JWXoA1devmB88TNsanjzPqNEqEoNrLwjlkHmpHujD_X1r9oG9VUV1qOwRyTSvqeD_gvvZ3XUCjMv6aoLHzTX3hrPih1FMVCepr31EhBWcdDt2vdcuw1E-CrZUDdkGhQ358oGzn20FEpd-4hU7eOA2Uh4DQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "578 N 100 W, Orem"
+        "vicinity": "48 Pleasant St, Dorchester"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.3175695,
+            "lng": -71.10561229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.31887342989272,
+              "lng": -71.10415172010727
+            },
+            "southwest": {
+              "lat": 42.31617377010728,
+              "lng": -71.10685137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ffc41db1d2f247855ff50157b529b73c7a270525",
+        "name": "Capoeira Gerais Boston",
+        "place_id": "ChIJrxXBGHh644kRrzvK7vx-6gU",
+        "plus_code": {
+          "compound_code": "8V9V+2Q Boston, Massachusetts",
+          "global_code": "87JC8V9V+2Q"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAAlDUh3FIYFksQQ7Gv9K_V_ziFI1lBDyk30eGJc0plXmdwJ-Q0BfpxymkW7PInpll74n5M0Ql2fCcz27NfDTujz37gqwAskqyxH-HUii7ixpCvtPi6quPEFoaETcQTl0aEhAsErV_ccRh9F-whiZ_7oagGhS6oPOe25Xl1KGUV1xjyVJ_S2wGVw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "45 Danforth St, Boston"
       }
     ],
     "status": "OK"
