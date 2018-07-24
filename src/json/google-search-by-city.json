@@ -1,59 +1,20 @@
 {
-  "city_name": "chapel-hill-north-carolina",
-  "city_rank": 598,
-  "city_population": 59635,
+  "city_name": "casper-wyoming",
+  "city_rank": 599,
+  "city_population": 59628,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.9131996,
-      -79.0558445
+      42.866632,
+      -106.313081
     ],
     "rankby": "distance"
   },
-  "people_per_result": 59635,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.9114372,
-            "lng": -79.07489850000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.91265237989272,
-              "lng": -79.07355412010729
-            },
-            "southwest": {
-              "lat": 35.90995272010727,
-              "lng": -79.07625377989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "78bc8c204b549946cb85ce6942ff8616c0954426",
-        "name": "Trianglecapoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJ44H96RnDrIkRZW49cz0ZnEY",
-        "plus_code": {
-          "compound_code": "WW6G+H2 Carrboro, Chapel Hill, NC",
-          "global_code": "8772WW6G+H2"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAbmjgA1EK4KQp5FYdvljC47e-hPyigQ_9UneuJk3IJIJk-yp9rydlG2g6cVKUBZRNkAkuFBaQN_rdRcD3mbghkvoZ74W7CBMVLgsvxNjwWTRK5a5XAHxiiaGnf4_YGeAsEhDnxPxZ8a34wJcy0jn-IJlRGhSCrRytG0gmcs0ztQXEm2Ipx-WgBA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "304 W Weaver St, Carrboro"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
