@@ -1,20 +1,106 @@
 {
-  "city_name": "moore-oklahoma",
-  "city_rank": 618,
-  "city_population": 58414,
+  "city_name": "jupiter-florida",
+  "city_rank": 619,
+  "city_population": 58298,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.3395079,
-      -97.48670279999999
+      26.9342246,
+      -80.0942087
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29149,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.558949,
+            "lng": -80.070984
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.56029882989272,
+              "lng": -80.06963417010726
+            },
+            "southwest": {
+              "lat": 26.55759917010728,
+              "lng": -80.07233382989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+        "id": "dd8be48aeb09e6b8e81ec2d801ac62c843e60dc4",
+        "name": "Capoeira Karkara",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1204,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115378533334271158596/photos\">Capoeira Karkara</a>"
+            ],
+            "photo_reference": "CmRaAAAAa-K8sGkhHqdsK-u8nDp5S9gHAlLLdVGOk1JLFhbfPddSvNpVI-XE-mt41CyUeUhJCavxqXZ9ay4hFc_aHclJGFU_Ji6s24OkCuZIJFQWnXxo_31n7qA1R_muNh3uCjHPEhCvQAOCfPQIvWka79STL86YGhSaS7dngaLrO6Fsxoo9t8NIeT9Veg",
+            "width": 1804
+          }
+        ],
+        "place_id": "ChIJ7-Bpvccg2YgRZ92vOBnr9wY",
+        "plus_code": {
+          "compound_code": "HW5H+RH Boynton Beach, Florida",
+          "global_code": "76RXHW5H+RH"
+        },
+        "rating": 4.6,
+        "reference": "CmRbAAAA84hz0C3VaXmOCuH34VE8mhYnayNVVnogmgpAlzHohm40xbY7FDArH7frAOGT9TN22UQvchP1UkGNo9_cSTm4tVuP_2ZFxOc3JslIe_OQYFBeWuMU0JjZT9QekosF2TFUEhA-bXEayahRTG9JjKv2G9ebGhQJa7YopRAmUxEda7_eWjc0607YzQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "lodging",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "106 Commerce Rd, Boynton Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.5330436,
+            "lng": -80.1220488
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.53439147989272,
+              "lng": -80.12104687010728
+            },
+            "southwest": {
+              "lat": 26.53169182010728,
+              "lng": -80.12374652989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0e0c5ffdbc583386929b07d719c85b8f52d53a82",
+        "name": "Capoeira Karkara",
+        "place_id": "ChIJG1m9occg2YgRU9qSsnPHyKs",
+        "plus_code": {
+          "compound_code": "GVMH+65 Country Club Trail, Florida",
+          "global_code": "76RXGVMH+65"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAASXriGBTVPmPVGLSuor-JHfci3R4oOuOSWvRGmYzGUp6_61xTgPXw17NQ1pZzqv0zYxAI7Lur-tRv5rhqUL_FGFMUYyfXhxj2P341_-oNrlnQHdWMnA2q2xKIsa4SbwNuEhD1tNTolge5HRvVpIdMO557GhT12lPgBwMNA7JA9dkm3XhtURltFQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9600 S Military Trail, Boynton Beach"
+      }
+    ],
+    "status": "OK"
   }
 }
