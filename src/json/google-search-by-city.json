@@ -1,20 +1,117 @@
 {
-  "city_name": "lancaster-pennsylvania",
-  "city_rank": 605,
-  "city_population": 59325,
+  "city_name": "north-port-florida",
+  "city_rank": 606,
+  "city_population": 59212,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.0378755,
-      -76.3055144
+      27.044224,
+      -82.2359254
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29606,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.2993271,
+            "lng": -82.47517580000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.30076347989272,
+              "lng": -82.47382642010727
+            },
+            "southwest": {
+              "lat": 27.29806382010727,
+              "lng": -82.47652607989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4548fc5ca39425d9fbb538f038883e964f0476e3",
+        "name": "Capoeira VAM & CapoFitness Sarasota",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105473484253125650275/photos\">Capoeira Volta Ao Mundo</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ63dbXPQi3e6LpbKMPsWdKmWWH_m2Q0yunvbd9IXoOeCHaGXZ4nljG1lPhCzzDOwc_rvCiHASlRgttV_7j01B57Nl_LRRoqyurOZ4U8Ot5mEQcdyDhPwTp192hvDIRJ2EhD2zkKJcDW61w4JFCX1ib5YGhRhUMKLJo9YV4O5Tu2YfBuezit5RQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJK3h0TdVGw4gRgDBg45OU1Hk",
+        "plus_code": {
+          "compound_code": "7GXF+PW Sarasota Springs, Florida",
+          "global_code": "76VV7GXF+PW"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAIVd1IecDzH8Eyrb1n0b--INSuLoqnZPEexfybw4axZ8oN-Ahr40WMW1xUIkWko9SAe2dKOxmFNBBESzqPNMeIj5-cy1DxRRKYc2Uw0ry8RL5MLSeEu2gayA5U8dOGGJUEhDlokCYz8DNYVKjLT1BP5SAGhSGJ1pnQzuBJH0qp3-84jbcwMPqug",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4672 McIntosh Ln, Sarasota"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.4305309,
+            "lng": -82.42595299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.43212887989272,
+              "lng": -82.42460932010728
+            },
+            "southwest": {
+              "lat": 27.42942922010727,
+              "lng": -82.42730897989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1f0fb6fd4a9b44813695579c6484eaa90e96dc49",
+        "name": "Capoeira Vam Inc",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106760776227634529528/photos\">Capoeira Vam Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAA3HmH4SCL0zj0-kz9B82Q2dDuXL2c9cVP7RMBiTT0r6WMktvBdeFkxZhgUeCIqmYD6CCtroVCx-iF3w6h3XCjsqEZtfzzyxevqjP2N8-_Y8lgOe0ke5TcHbiazBTq-DRFEhCLUUVc5zmOLBYt5zvnoNWzGhTs8H-9_dhXbmQ4Q5fPuwVWP3R-lQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJWVF4oIY5w4gRwqywWK7JpZ4",
+        "plus_code": {
+          "compound_code": "CHJF+6J Lakewood Ranch, Florida",
+          "global_code": "76VVCHJF+6J"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAnRg5BBqWuTiW_zBM7kxuSeWBnDbYr33KagGw9uxKNviJUtDwqFpPP4g0B11jElLD3wObnQlVIlBHfraDRRcsu84EjXYYgK5c9CtaE4z7mS4SD9s-WBd6UuRagkBY8KWCEhD2da_tdG8J6FH1zgJ6s-koGhTMEv4eG3OAnRtjwyeeYwbAqtiQnw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "11534 Palmbrush Trail, Lakewood Ranch"
+      }
+    ],
+    "status": "OK"
   }
 }
