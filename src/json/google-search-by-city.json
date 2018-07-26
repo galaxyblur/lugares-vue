@@ -1,56 +1,20 @@
 {
-  "city_name": "noblesville-indiana",
-  "city_rank": 644,
-  "city_population": 56540,
+  "city_name": "valdosta-georgia",
+  "city_rank": 645,
+  "city_population": 56481,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.0455917,
-      -86.0085955
+      30.8327022,
+      -83.2784851
     ],
     "rankby": "distance"
   },
-  "people_per_result": 56540,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.80969172989272,
-              "lng": -86.14545212010728
-            },
-            "southwest": {
-              "lat": 39.80699207010728,
-              "lng": -86.14815177989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "plus_code": {
-          "compound_code": "RV53+77 Indianapolis, Indiana",
-          "global_code": "86FMRV53+77"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAA3x84kGvXyb2-1NdoqS0ZFrvmJh5IR65EDHbEBUt3Kk4SZLpZVXvCEzmo1dwxx0pF5KIgnE1OsGR9gwpwoK4_O6HexD36Fsth3sIZs6QBBnB3_wpMxYwvDdcms704SItmEhDC-I_TTEf-acLHIOPn3RHBGhRr8Ada8rKL3ZJVvm_DCKZQ8BK6Ow",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "609 E 29th St, Indianapolis"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
