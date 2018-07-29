@@ -1,20 +1,55 @@
 {
-  "city_name": "albany-oregon",
-  "city_rank": 714,
-  "city_population": 51583,
+  "city_name": "ankeny-iowa",
+  "city_rank": 715,
+  "city_population": 51567,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.6365107,
-      -123.1059282
+      41.7317884,
+      -93.6001278
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 51567,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.60720999999999,
+            "lng": -93.62751899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60855947989272,
+              "lng": -93.62650387010727
+            },
+            "southwest": {
+              "lat": 41.60585982010727,
+              "lng": -93.62920352989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
+        "name": "Roots Capoeira de Ouro",
+        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "plus_code": {
+          "compound_code": "J94C+VX Des Moines, Iowa",
+          "global_code": "86H8J94C+VX"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAB1vgWMXxymm4g1y5tpptz-1E38HfI4jGQlbJPlEaL1mCOnAYtnsvJzLvJanK_m4f1Cgnr46DwXXBLTYL1KUPowTmBj82WbBePcb1DeGnIVcrPBDlcpla91sQPJhzpor0EhBBPe53v9p5kI_lqqOXDDG6GhQIx7IjXS7DL0mQdCk3PH2m_kJ7eg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1541 8th St, Des Moines"
+      }
+    ],
+    "status": "OK"
   }
 }
