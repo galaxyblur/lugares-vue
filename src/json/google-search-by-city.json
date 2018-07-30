@@ -1,20 +1,69 @@
 {
-  "city_name": "grand-island-nebraska",
-  "city_rank": 731,
-  "city_population": 50550,
+  "city_name": "palm-desert-california",
+  "city_rank": 732,
+  "city_population": 50508,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.9263957,
-      -98.3420118
+      33.7222445,
+      -116.3744556
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 50508,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.758652,
+            "lng": -116.300912
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.75967602989272,
+              "lng": -116.2994837701073
+            },
+            "southwest": {
+              "lat": 33.75697637010727,
+              "lng": -116.3021834298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c69240f4e7901f2df5211054840d7fec04863cb9",
+        "name": "Capoeira Brasil California Desert",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115250043628515908106/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRZAAAAgcKvLa9xh7myuhCNTfEBAgIZLN3Yp5xSd06qWmMhgW5akvk7gmdpPT9cA1E4DjMNlrGshShTaFz7aWxBGd0ngct8VGBmFll-heeFegNKXbsF89k4kP-3OdjPJNSyvqI9EhCWMEgEzajIneIRzwclOpouGhStlM80HB112uJusGmrSinl2Brd6Q",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJZ-Y392f72oARfZZsktGtu4I",
+        "plus_code": {
+          "compound_code": "QM5X+FJ Bermuda Dunes, California",
+          "global_code": "8555QM5X+FJ"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAf2H2WxUpmWN89dA4FeXoQTL3IcXqD76056t6zzsOQIlckEoagwgS-cL1GOv5jkR3htdAVB9TX196ZgncI1C5fdUfnNOx1gxH3XeaVwmMC14fqcFFYXIMFQbyZwBfS4xPEhB0j4VK635R49g6eDBUsO8WGhR6O_iduzzziuOkJifNEuK4e2thRQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "78078 Country Club Dr #107, Bermuda Dunes"
+      }
+    ],
+    "status": "OK"
   }
 }
