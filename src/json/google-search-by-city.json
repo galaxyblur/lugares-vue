@@ -1,56 +1,20 @@
 {
-  "city_name": "galveston-texas",
-  "city_rank": 765,
-  "city_population": 48733,
+  "city_name": "sheboygan-wisconsin",
+  "city_rank": 766,
+  "city_population": 48725,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      29.3013479,
-      -94.7976958
+      43.7508284,
+      -87.71453
     ],
     "rankby": "distance"
   },
-  "people_per_result": 48733,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 29.5463791,
-            "lng": -95.12619199999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.54771932989272,
-              "lng": -95.12485572010728
-            },
-            "southwest": {
-              "lat": 29.54501967010727,
-              "lng": -95.12755537989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
-        "name": "Sinha' Capoeira - TX",
-        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
-        "plus_code": {
-          "compound_code": "GVWF+HG Webster, Texas",
-          "global_code": "76X6GVWF+HG"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAEgRV_QtIh2q918AAY7hfQbAdGo9UJ9DNhKTc-QwKlluGENCmgt4YOLp--2dVC4D-1ITKp5c3XcXR0QDM7tzoVq6wKaic2PQqafWsHe1Uo3JWwV_KMCK2YkaZ5g3ryuAMEhDFP2ICFdyzAuFqdbhT9X4cGhQfNXTQtw1QfAzvcLCRSSk_-cVptw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "17050 Galveston Rd, Webster"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
