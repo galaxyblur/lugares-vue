@@ -1,108 +1,99 @@
 {
-  "city_name": "pinellas-park-florida",
-  "city_rank": 744,
-  "city_population": 49998,
+  "city_name": "troy-new-york",
+  "city_rank": 745,
+  "city_population": 49974,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.8428025,
-      -82.6995443
+      42.7284117,
+      -73.69178509999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 24999,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 24987,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
+            "lat": 42.730172,
+            "lng": -73.67880300000002
           },
           "viewport": {
             "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
+              "lat": 42.73637585,
+              "lng": -73.6648429
             },
             "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "plus_code": {
-          "compound_code": "R8CQ+HJ Harris Park, St. Petersburg, FL",
-          "global_code": "76VVR8CQ+HJ"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAfrD_bPiGyTaj_BFLE4zhb1BcmnIU39299J-F1nChlVohk-6g-6UwEE6nN6Io-e1c7BbvJM-ur5b-IB5FFwOFa2tS1Yf_4rL0VY9JMGROQrPDm1wdZwMhTiixOTUEJ4IZEhAmhX92VSONIX5wa2qsdlFJGhQQXMRIirVGznnxYKS7nljGZkup0g",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
-            },
-            "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 42.72378004999999,
+              "lng": -73.6913993
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
-        "opening_hours": {
-          "open_now": true
-        },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "id": "fedbf532de25525351bce69a99940ff974c4f558",
+        "name": "Rensselaer Polytechnic Institute",
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108252826406848975325/photos\">Nancy Morin</a>"
+            ],
+            "photo_reference": "CmRaAAAAKF3d1teWHL6Nb5EK4Gmv0NGADQY-lPvENBkzJ_Wlbl_59sCARybGxsxLt-qtO7nhNpzEbZRF4_V8gkxPJPS-bDTIAiiln996U68agneFjn3kApar-44Yb4nd7CL8rG-ZEhDjbXD0np-Q3aweQJMg3dTqGhQ8AepQBDVYSTTewNOnufjsJmBzjQ",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJfQn6654P3okRAlMf2xMrWaU",
         "plus_code": {
-          "compound_code": "Q9F3+X6 St. Petersburg, Florida",
-          "global_code": "76VVQ9F3+X6"
+          "compound_code": "P8JC+3F Troy, New York",
+          "global_code": "87J8P8JC+3F"
+        },
+        "rating": 4.2,
+        "reference": "CmRbAAAAlCsoVGe8aQCjyr2S0Lqx9IR8X3JLzHJxnrHrEZRRWL0TSRBAB7cNDwdO-Jpn7VPLy5oIZb3R-GvjjjaP4IUXtTH_ydVDIQoQNm5XINcDG7i87qWpqVDucy90UFNMnPe3EhCIsxRKNgAviUYKBWJwPqkuGhRmez_Zn2JkyqiwCiBXzozsyH-kIQ",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "110 8th St, Troy"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.6883967,
+            "lng": -73.7990902
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.68974652989272,
+              "lng": -73.79774037010728
+            },
+            "southwest": {
+              "lat": 42.68704687010727,
+              "lng": -73.80044002989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
+        "name": "Pil-Sun Tae Kwon Do",
+        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
+        "plus_code": {
+          "compound_code": "M6Q2+99 Albany, New York",
+          "global_code": "87J8M6Q2+99"
         },
         "rating": 5,
-        "reference": "CmRbAAAABb06xTaqKwi34NlmjJ3E6xkGQFx0D-mHmWKF79ib-w70c8MmJoUHlupbd88BZOEZD-BcHJXM0kPKSx9H5fFsWdZHUea_G0YIbLUvitl9C78YTvVfJf5EbwDW8pPonr6gEhDj2QR6WUl3mv4Pdx8W3IrdGhRNCqGGbgGQuuJbB-l8zlW3-WY-lg",
+        "reference": "CmRbAAAA6Lu2Xqh9JKTMdsaoaXy1ncI_kLFkPKuH_lpEJ2h5sU5cFu8f3XUZVJdDlwSzTSsGwioOIo0_J_WJiGMb9ROnBdiNvG6qlbeUzXVe0eI1nPBjH-bEI432ltbdvzAVJoPcEhDhcx3BXYVgMb0bkzjoftvUGhT39tTIbcPU7y3COtmRnucOnFxqRw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "1095 Penn Central Railroad # 3, Albany"
       }
     ],
     "status": "OK"
