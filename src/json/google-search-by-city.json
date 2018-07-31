@@ -1,20 +1,104 @@
 {
-  "city_name": "wilson-north-carolina",
-  "city_rank": 753,
-  "city_population": 49628,
+  "city_name": "niagara-falls-new-york",
+  "city_rank": 754,
+  "city_population": 49468,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.7212689,
-      -77.9155395
+      43.0962143,
+      -79.0377388
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 24734,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9113566,
+            "lng": -78.85903239999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.91261912989272,
+              "lng": -78.85768472010727
+            },
+            "southwest": {
+              "lat": 42.90991947010728,
+              "lng": -78.86038437989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e6eeef9db0cdc5508e5a24ae51ce196d43d6436a",
+        "name": "Capoeira Mandinga Buffalo",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 262,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112805290222847997772/photos\">Capoeira Mandinga Buffalo</a>"
+            ],
+            "photo_reference": "CmRaAAAAAORr8XWrBfIZAeQAsmWBHzUijbkHgLB17-E9sKVrOfJY8AttefhL8Mwg6fVSfbUD7zb_5GhfjQIvsXDf2FRoOkKmtmPMVtEBVX81EhA0FYxQyuxzP9Myz7iSEnnyCbVKEhAUEC0Ixq71zkfiwB97uqydGhT6nIGzr_EALMJgrVD7As49uwbMXw",
+            "width": 288
+          }
+        ],
+        "place_id": "ChIJT6cvlRsT04kRfxPizgV4qzA",
+        "plus_code": {
+          "compound_code": "W46R+G9 Buffalo, New York",
+          "global_code": "87J3W46R+G9"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAwEJ76_t26C8rQ9lJZkzhGKftlEcCYvycxQix04uLe4aCnbVMOFvu-OQ7t557nqsf-A9jrMDMDgIJAPMQwi-oErL4a2TAG66NaaerBHo2CEfpmSQmZplOV8sYNgL-VtI7EhB2XSORoBWgOSV5nhPTHvpKGhQFhdEyOE1M4b7GJrkYBQqwiN_nTw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "226 E Utica St, Buffalo"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9195488,
+            "lng": -78.7844939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.92089667989272,
+              "lng": -78.78302572010728
+            },
+            "southwest": {
+              "lat": 42.91819702010728,
+              "lng": -78.78572537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6abe338d2aaddcdde442149944bd8f84cd3e743e",
+        "name": "Capoeira Mandinga Buffalo",
+        "place_id": "ChIJR6kOCdsM04kRX6m-cmOAhT0",
+        "plus_code": {
+          "compound_code": "W698+R6 Cheektowaga, NY",
+          "global_code": "87J3W698+R6"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAARxvCoFjybhdNpX44sjBi6SKO2Lp7g-ZbGx3tJep1H6fWBV7N2Lz2U46mijuFuCz0NgIXDld6mreQbTYaEHM_Wz_H1l7FMhmGVRz4147-7UFld0WbeCEjiKbdu2Mv9-hcEhCwLwngzjdg1QhC1m_50XyWGhRF0B1kjDbBG1XKN2fRn1NNUcZgVQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2773 Harlem Rd, Cheektowaga"
+      }
+    ],
+    "status": "OK"
   }
 }
