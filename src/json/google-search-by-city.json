@@ -1,20 +1,118 @@
 {
-  "city_name": "sheboygan-wisconsin",
-  "city_rank": 766,
-  "city_population": 48725,
+  "city_name": "middletown-ohio",
+  "city_rank": 767,
+  "city_population": 48630,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.7508284,
-      -87.71453
+      39.5150576,
+      -84.39827629999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 24315,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.444209,
+            "lng": -84.344548
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.44550312989273,
+              "lng": -84.34279977010728
+            },
+            "southwest": {
+              "lat": 39.44280347010729,
+              "lng": -84.34549942989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "a66f45d32eb9b2554f3c904e1f2ce1b84c4e6322",
+        "name": "AimSurplus, LLC",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1946,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104280505883231866033/photos\">Justin McEowen</a>"
+            ],
+            "photo_reference": "CmRZAAAAw6-Dfg2wgU5_mfTDUBM-nz3Q_ZjkiOue7Dskraw0RMBvS2HJrbLls4N_ZBH7D3fT8VfhStvTR6Db-OabwZ-WN81nWjnMYiJX8PnOCUlOB8QjLZjTzvjJ_cr_CUvP4QzDEhCU2B3G8s6yEzP8AQryWT-TGhTqUfS_Rr_wyXu-8NfAQQkdz8byJQ",
+            "width": 3456
+          }
+        ],
+        "place_id": "ChIJ4fdBb8NdQIgRlTMuZELZmDw",
+        "plus_code": {
+          "compound_code": "CMV4+M5 Monroe, Ohio",
+          "global_code": "86FQCMV4+M5"
+        },
+        "rating": 4.7,
+        "reference": "CmRbAAAAFOaGeQcDs2DawUYpzFKEEtnBk15e6vCb8N07wRvH4YSJ_o-j9Vrie1-1fi0scsu_0bNWiHUd0v9EAZjuBPO9Cquo9jO083bp4460dB4cl1N3vansbLABLufLW1oijBSkEhDNnqx5x51weJjscOKVg61qGhRFMElVlY2zsNBrm-f6K_d_yLLopQ",
+        "scope": "GOOGLE",
+        "types": [
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "225 American Way, Monroe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.3486953,
+            "lng": -84.3308926
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.35004512989272,
+              "lng": -84.32954277010728
+            },
+            "southwest": {
+              "lat": 39.34734547010728,
+              "lng": -84.33224242989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b0b68916fcaa2a895d903a5c647102a592adcd0",
+        "name": "DRISHTIQ Yoga",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114437157458755400598/photos\">DRISHTIQ Yoga</a>"
+            ],
+            "photo_reference": "CmRaAAAATPdCaCLUegxuJYLx9KPr18U8quIe-BNoqFWl58thznAo6qGmuJQbNekePTNjtiXifWSsWMA8nCUVkPI4Nu54DL96gzM4P6yNu_6brU1A2TBCaZBu-CMP0ceXQIkr2800EhAF3jSMqShcm3zzsAALivnfGhQCX6gF5-aqrtPvqdJoJG1_JebeSA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJA_PeKWBXQIgRLTv46ddnino",
+        "plus_code": {
+          "compound_code": "8MX9+FJ Mason, Deerfield Township, OH",
+          "global_code": "86FQ8MX9+FJ"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAATOY7-3rT7PCUtlWPn2ijkS3ME6Ezvc-UHCrBqs11sXzZv8DNQlqceOKeGQPkG1_TbPCwNH8IYle7q-WG-ZmxY6FlG6PxBMsubCfZZR-PjwTUDl7oXWgBhMuvqtZX85-pEhDCp4F3cO039wLjkm4QmYHwGhTgFZOgisKEyQn0rWqSNJatEegGbw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6209 Snider Rd, Mason"
+      }
+    ],
+    "status": "OK"
   }
 }
