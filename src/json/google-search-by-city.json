@@ -1,64 +1,20 @@
 {
-  "city_name": "altoona-pennsylvania",
-  "city_rank": 812,
-  "city_population": 45796,
+  "city_name": "columbus-indiana",
+  "city_rank": 813,
+  "city_population": 45775,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.5186809,
-      -78.3947359
+      39.2014404,
+      -85.9213796
     ],
     "rankby": "distance"
   },
-  "people_per_result": 45796,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.4234058,
-            "lng": -78.433903
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.42475562989272,
-              "lng": -78.43255317010728
-            },
-            "southwest": {
-              "lat": 40.42205597010727,
-              "lng": -78.43525282989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
-        "id": "719ba711638f1f69c15920ddfdaa84399beafb13",
-        "name": "Life Factors Ministries",
-        "photos": [
-          {
-            "height": 546,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112124647530184954908/photos\">Life Factors Ministries</a>"
-            ],
-            "photo_reference": "CmRaAAAArgXeR7UyvrJUzibjbBwCYAuGqlWzjBNppDeGkSHTlJMjpwVMlzK19QyBcTR8OFQkfSgnqKuncb_bZ6OfrytfNaXWyiUmIEnep2DAs8fQnM6Gik5F9OEN_gnCqnWz8YjLEhARLZn47lDTWMmtk0NmfWe6GhT7ygqxXfGB8x11n-g7sQRXze2UkQ",
-            "width": 739
-          }
-        ],
-        "place_id": "ChIJzS-Y3QOXy4kRLd9KVLC9MI0",
-        "rating": 0,
-        "reference": "CmRbAAAAwiAeww2U52Hi6mt6tLm_SnSBDjvUytsghYkeaEbk-NloRh0Ug2pJ0NjF-f8iqJ-E5bMkIijYq2LQYVgdY1qg01f-__Nf2W6xK7EniqlVTlFcfZcpXVbqrE4nlWe9TbIXEhBzH_4CkmPh3MilILwOt9wzGhTOfLlhlPv7Ql-d6zBrbzw9zwHD0w",
-        "scope": "GOOGLE",
-        "types": [
-          "book_store",
-          "store",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Duncansville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
