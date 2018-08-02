@@ -1,20 +1,110 @@
 {
-  "city_name": "coeur-d-alene-idaho",
-  "city_rank": 801,
-  "city_population": 46402,
+  "city_name": "san-luis-obispo-california",
+  "city_rank": 802,
+  "city_population": 46377,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.6776832,
-      -116.7804664
+      35.2827524,
+      -120.6596156
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 23189,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.300255,
+            "lng": -120.6584436
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.30169952989272,
+              "lng": -120.6569101201073
+            },
+            "southwest": {
+              "lat": 35.29899987010728,
+              "lng": -120.6596097798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8f83f8a605e4a040c751db5b0d4facc1eff0c901",
+        "name": "Associated Students Inc",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102945043945434188588/photos\">Christa Lam</a>"
+            ],
+            "photo_reference": "CmRaAAAAjtIWG7-8VznGhdrfTo2iA0mV1_TNjn96kc0cW0iF2tOy4TiUsdiOUy2VRS9fqf8bOnu-FLQsDwEteYn-7-trhYrO7zis88Viwj09bRXDXYvbupW1ajQQvfiysN1A47oNEhAewYw0rYcSnxLI_M4II0qJGhSlvVNXJC_mj_7q7dP8FTqE1J0ReQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJP6Yp9afx7IARcVdd0V9_NOE",
+        "plus_code": {
+          "compound_code": "882R+4J San Luis Obispo, California",
+          "global_code": "847X882R+4J"
+        },
+        "rating": 4.3,
+        "reference": "CmRbAAAAT0QHRdXOl3GasJp4K9N_wh5zeGBba3vYvAxhfCgp3M5XVQFeAGQGk2Dq3Owx1rypQs8-u6vUGnE47xL5ICcEef-pqMV4sKVjPAPra9OfkgYv7JxHpBQRZI7_ws9ZKwMIEhCQUU_VSOQyRTWscaDHM8HBGhQ7vQ2prUYEOmX0BuJbINPnMgTWfA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1 Grand Ave, San Luis Obispo"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.3050053,
+            "lng": -120.6624942
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.30947355000001,
+              "lng": -120.64296305
+            },
+            "southwest": {
+              "lat": 35.29160055,
+              "lng": -120.68381085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4743e60f2c945a245fbf15f074e4f1a64559449",
+        "name": "California Polytechnic State University",
+        "photos": [
+          {
+            "height": 3056,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117928224564191895711/photos\">Pius Hsu</a>"
+            ],
+            "photo_reference": "CmRaAAAA5qmkchIrJoQI0Jj1ZN30Ky_X1iMDOUDu2micqZlnT_pfJKtPJfPoHdx_aO4yH20h_FQBtFyoajjnPpcZTyWigI3aFuqfB9S1JaGEMIHH9VuQwtaST8hgr5oMAoeduv-sEhA-L1QFxBwLjDsd7_EXD2zZGhQcPiIw9m6v9Ko-TlZ1kObcsWRdgQ",
+            "width": 4592
+          }
+        ],
+        "place_id": "ChIJUTVMBbTx7IARA5HZKYq0s5g",
+        "plus_code": {
+          "compound_code": "884Q+22 San Luis Obispo, California",
+          "global_code": "847X884Q+22"
+        },
+        "rating": 4.6,
+        "reference": "CmRbAAAAQ3i2yKHiTqdgPVwFxyrXGzqvBNS-8iatVq8e4kDo1Oz-82QjGKPudm0BNQMLWBorbygnM-lPtkW5_YbBW8b6nvInoZOw-yTLYskBS0Uwh2W-PhZhwgiN908p5n54CzJsEhCrW2pH3ezV7Dy9IIZ4zM4rGhQfFV-RE2y0am7Zv7DzaOvc8UBWzg",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "San Luis Obispo"
+      }
+    ],
+    "status": "OK"
   }
 }
