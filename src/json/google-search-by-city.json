@@ -1,20 +1,66 @@
 {
-  "city_name": "mansfield-ohio",
-  "city_rank": 799,
-  "city_population": 46454,
+  "city_name": "binghamton-new-york",
+  "city_rank": 800,
+  "city_population": 46444,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.75839,
-      -82.5154471
+      42.09868669999999,
+      -75.91797380000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 46444,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0893553,
+            "lng": -75.9697049
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.1015954,
+              "lng": -75.94808714999999
+            },
+            "southwest": {
+              "lat": 42.07680859999999,
+              "lng": -75.99336695
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "077eceb2e0e319e0484d7a054018528d6f98ea87",
+        "name": "Binghamton University",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112589990974161674544/photos\">Changwon Lee</a>"
+            ],
+            "photo_reference": "CmRaAAAArWuzm1Po1CmMpG_4-uxQwHZ6iFQsVCn_F52PBZ3e8vfv2yfHtUCc5IOAkOPlRr5SvwinUq-jxWLPlEduBDne5lVJoDYF4KX6Zxs0I0LqeCrYcw5Jwm7oEKYDN0bhB0F5EhBIkmqv3RdtsFIVY4bzVypvGhQ1O375TnTMkw-WEuWIXFDL2EA1WQ",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJaTEedLju2okR3z5p7vGc53M",
+        "plus_code": {
+          "compound_code": "32QJ+P4 Johnson City, Town of Union, NY",
+          "global_code": "87J632QJ+P4"
+        },
+        "rating": 4.5,
+        "reference": "CmRbAAAAYj3LmWqDDS8LF4KH81gteohusuXqVq9a63rrnMZROdt7RvVSOxLBDlzxujmWxTybnDMP0aIaY2dhUaLu8B39lK6T3jgv0wlVlyWC5BQk4KBH5_vnHdY3SRirfa3yJkxoEhAHzc3Np0LcFQOYeaI-6ikyGhSo9ia8KSVm9FJJ6eKNtLNRWjel2A",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4400 Vestal Pkwy E, Binghamton"
+      }
+    ],
+    "status": "OK"
   }
 }
