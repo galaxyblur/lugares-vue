@@ -1,16 +1,16 @@
 {
-  "city_name": "beavercreek-ohio",
-  "city_rank": 814,
-  "city_population": 45712,
+  "city_name": "apopka-florida",
+  "city_rank": 815,
+  "city_population": 45587,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.7092262,
-      -84.06326849999999
+      28.6934076,
+      -81.5322149
     ],
     "rankby": "distance"
   },
-  "people_per_result": 45712,
+  "people_per_result": 7598,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,269 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.7572219,
-            "lng": -84.18277789999999
+            "lat": 28.7068064,
+            "lng": -81.50911239999999
           },
           "viewport": {
             "northeast": {
-              "lat": 39.75851317989272,
-              "lng": -84.18143082010727
+              "lat": 28.70815597989272,
+              "lng": -81.50774537010726
             },
             "southwest": {
-              "lat": 39.75581352010727,
-              "lng": -84.18413047989272
+              "lat": 28.70545632010728,
+              "lng": -81.51044502989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5bba827bccf0d0254ebfac5ba174927bfa5ec0ef",
-        "name": "Ohio Budokan Martial Arts",
+        "id": "4237fc456c82635030859816e4a8042d3ba58e40",
+        "name": "Victory Martial Arts",
         "opening_hours": {
-          "open_now": true
+          "open_now": false
         },
-        "place_id": "ChIJYR8ri_6DQIgRZ02Wj0-6pVU",
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108513979171997944293/photos\">Chuck Topinka</a>"
+            ],
+            "photo_reference": "CmRaAAAAGTvpwB06CzGnvo_EUWJRfXGQyWreNXj7ezv6KXkHv6u5tcobZPdQAGf2pdYqcUx979Cuhfrn92ZjpzhJpIWbrubtaC5D11e-fxjvhutmgKaSvcWe1_S_lK5_W3EwAN8eEhDD7hB-OCTD5x5rDcVf9rNFGhSLtEJek6RmiQoWc1a7oh75SZu1Uw",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJXzJ1dPN154gR5ziHh1AfvAk",
         "plus_code": {
-          "compound_code": "QR48+VV Dayton, Jefferson Township, OH",
-          "global_code": "86FQQR48+VV"
+          "compound_code": "PF4R+P9 Apopka, Florida",
+          "global_code": "76WWPF4R+P9"
         },
-        "rating": 4.4,
-        "reference": "CmRbAAAAFQHgkv51Dh0dEV2YC-xa_e43_H0oGTU_ICCjHWyT5rqkgBFz9nKKULj67PZpZw7pdI61yyAkWO-_Q19sdRM0QAbGYtfBzDPCE8XRF98khd3PkpJCaeje-qPFT_T2N2JWEhAhzBQMuwgyVmdhLs6LVW8nGhTlnWXVyC2oGzT6iDIKYTLlVX9SkA",
+        "rating": 5,
+        "reference": "CmRbAAAAJ8PV95kkVnEIM-nE7I3Sje9GdGcIxzXK52d7JMnqLFfZqbDmQ9k43NQKtCVxI6OSIfY_fCw15MzC2t8w6e7EZ3p6n2XzdIm1hXhv1V2XVBSXH_JoU3PvWzpvtAtc6_tIEhAdDEWk34kbr8FPQFQbR3itGhRuADX7ebsao0AkZZH9oiamgbA0aQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "601 E 5th St, Dayton"
+        "vicinity": "1521 Rock Springs Rd, Apopka"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.5346945,
+            "lng": -81.5232389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.53604562989272,
+              "lng": -81.52170092010726
+            },
+            "southwest": {
+              "lat": 28.53334597010728,
+              "lng": -81.52440057989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
+        "name": "Capoeira at the Traditional Martial Arts Center",
+        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
+        "plus_code": {
+          "compound_code": "GFMG+VP Gotha, Florida",
+          "global_code": "76WWGFMG+VP"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAANCJ7mcb_c6R2kcMA1i3BJTHLkZcUaaNsymUVYKzRY-q0tl_0qZAqYTrHkyHStyzjesSnsph5dcs1XfWdyUX_m8_MtDaMwpTE4fHxOJw2AvZcXeHbpi4IKv3zPU6r1lfyEhCbT56OhAEyrRk98wyGc28BGhRYUXXt_Ws7QpHiyK6u6_Z0NzE-MA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2220 Hempel Ave, Gotha"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.5796596,
+            "lng": -81.2949725
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.58101087989272,
+              "lng": -81.29341492010728
+            },
+            "southwest": {
+              "lat": 28.57831122010728,
+              "lng": -81.29611457989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ac3ee67c998c98ab09b629dd4940746adf86a59c",
+        "name": "Capoeira Palmares Orlando",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100275786013286847816/photos\">Capoeira Palmares Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAAtYIqQ8CYpT_DFue7WP6XDm2HMbONnbaJnk0WFf6zxvL-P_mUKwyIJnpZHRCtcgy0-dvKMXnMr4VJ4sQjvorG1QjVuiiQHKcEBctG4ZP-afTJv8XJCuxxmTUtAX7EO5etEhDPi09lmShIHAkZRQwU_TroGhTov046KJYfHK5gWg6gaJNwTs0VFQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJbZ5qCYBl54gR2zs-rSwPQmo",
+        "plus_code": {
+          "compound_code": "HPH4+V2 Winter Park, Florida",
+          "global_code": "76WWHPH4+V2"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAg1UwiNMwjEBoSe2rUJkKUFRo03Zhn7jIQqBebULSRVna_vGc3OdB1-lz5NnAiQYiOuFhMT_92bA0z2Tm29sj2ihCIEEH60aaQZqXS6WMF_YWGpkssin3Q7Q6ZlU_CqxyEhCF1LzkfGL5AXYpQ5rNDudpGhSni5UX6CqT5LnbEP8U4HCb3z9XGw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2400 N Forsyth Rd, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4615138,
+            "lng": -81.4374611
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.46301872989272,
+              "lng": -81.43589952010727
+            },
+            "southwest": {
+              "lat": 28.46031907010728,
+              "lng": -81.4385991798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
+        "name": "CBP Martial Arts Academy Orlando",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 659,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">CBP Martial Arts Academy Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAANpD4EzUm5pC31enAYFhGO1Ydf3YoZfNVdGN47TCbNfXDHMbTIbvPTsv5kmaiGKA3XdOadcBjcAyO-9ORhz_fh5mETcVCrlVuCTOQzBwFjXxN3Iw6xHC3HNAyyNBQJ2X6EhC-ZyL06e494yTTc6-jXIenGhSEtFdsUehFwvk_XiAs15ivi0rYLA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "plus_code": {
+          "compound_code": "FH67+J2 Orlando, Florida",
+          "global_code": "76WWFH67+J2"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAATFqQTqcpv7l7HiLcn6HZxJtaW4dmf4LKnsWZWeZWMPZ1_ktAF_rpXsiKSdG8NQ1Tq7XL-93YkZEZX3dOWTh9lH0eX_RIw9UnPBC0mg-vJdj6DT8u66QD-SdAOlAEUlxLEhAjR3CRXZBbw7eWXzcz792nGhRWWJiZJM_6YVfn0hAU8k1SyiU8eQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7075 Kingspointe Pkwy #10, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4341409,
+            "lng": -81.5582823
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.43539327989272,
+              "lng": -81.55703552010728
+            },
+            "southwest": {
+              "lat": 28.43269362010728,
+              "lng": -81.55973517989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
+        "name": "Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
+        "plus_code": {
+          "compound_code": "CCMR+MM Bay Lake, Florida",
+          "global_code": "76WWCCMR+MM"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAd6rKWBaJM5NM0ZdljPD6qN4ZZLS6BS9iPFy2uuyzExoTMEmUOdnQOrioVkkjoActlSXTw89y09E6JMEe-YZZ4eDoMG3EFJtjRGSB-W2sbSLSs41Y1NHXZSrhybp6-MLBEhAMEhwScjtzwwSnXU8MErpXGhQ_paLK7Hh0m2YanMiee6Nyau1FNg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9001 Taborfield Ave, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.54785,
+            "lng": -81.19394899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.54919497989272,
+              "lng": -81.19299927010726
+            },
+            "southwest": {
+              "lat": 28.54649532010728,
+              "lng": -81.19569892989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
+        "name": "Capoeira Orlando",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAAw10hkqBAjgc8fZplKcZtmuU1VSc35AdhqGCoQA5tuFgiLo2bd3mAqI9pHlEI6jVeIG1DYznUGg_MrErrSYODVjH3Y1U0YlOp9_RjoVslpzRtD7QTr3gGZkikNwdLwiT6EhC9HVuHEX_P9HeiTpfYwbImGhTlFZi-LsVYkocNIvIEk0jI8OofXQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
+        "plus_code": {
+          "compound_code": "GRX4+4C Union Park, Florida",
+          "global_code": "76WWGRX4+4C"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA66l3PFl9PjukqTx7FE092ECzKpz-44pV6NCeq8pXuLv7X-uVwViK2iTHI_4VCK8OD_mEdtSFteV_6YVFwA6nxdqUHaUZaekTFiE9bhXpDtH1fF6Z_A01PA2fL8UPCUBPEhDzMVEleV3VEBmF5cWbk4_zGhSTfcksgrR9sLn4ZcUVr6BBpoax7w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "829 Woodbury Road #102, Orlando"
       }
     ],
     "status": "OK"
