@@ -1,20 +1,69 @@
 {
-  "city_name": "moline-illinois",
-  "city_rank": 852,
-  "city_population": 43116,
+  "city_name": "coachella-california",
+  "city_rank": 853,
+  "city_population": 43092,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.5067003,
-      -90.51513419999999
+      33.6803003,
+      -116.173894
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 43092,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.7584772,
+            "lng": -116.3016376
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.75958862989272,
+              "lng": -116.2998463701073
+            },
+            "southwest": {
+              "lat": 33.75688897010728,
+              "lng": -116.3025460298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0d30bf8814a39aff74cd80eecece9f13bb3556a9",
+        "name": "Off The Grid Movement",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1653,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107008200290805064719/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA6D3gv_5jEdGjcSN5sWA3qe7-1sQ8ITDX1jVRA3f4JNPrCA5I3a1lxofvUzmbBT3AmE3r-FgiooECqnw999U1t-vfBwFNAn8XoT29z2NpJQwqv2ECFfsJOUSnN316MjmKEhC1QYrFwV9c9eSiywrW_e17GhTVBEa2MBKY3auqrUnqvFw686nfeg",
+            "width": 2480
+          }
+        ],
+        "place_id": "ChIJE5POMCn72oARL8w9zMv_t7I",
+        "plus_code": {
+          "compound_code": "QM5X+98 Bermuda Dunes, California",
+          "global_code": "8555QM5X+98"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAHRlj4LFBm0bKN5DigEYAJvHhC4M4_1-QfK4Ly9GVCxpvLd2WlZL8M7g7S7qdL7rOtwHQ7C46GCsARSk9D_ssgdukcS-FI6Oj2Te3al9Xf6t2ggKOPXQoFxTs8ResgtKwEhCmUgd614ZQELex6h8IGWa5GhTpMMb77AcDeq_KnPGysLhkA9M7VA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "78078 Country Club Dr #107, Bermuda Dunes"
+      }
+    ],
+    "status": "OK"
   }
 }
