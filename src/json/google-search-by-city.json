@@ -1,70 +1,20 @@
 {
-  "city_name": "mankato-minnesota",
-  "city_rank": 905,
-  "city_population": 40641,
+  "city_name": "hagerstown-maryland",
+  "city_rank": 906,
+  "city_population": 40612,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.1635775,
-      -93.99939959999999
+      39.6417629,
+      -77.71999319999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 40641,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.1595956,
-            "lng": -94.0190099
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.16112057989272,
-              "lng": -94.01767342010727
-            },
-            "southwest": {
-              "lat": 44.15842092010728,
-              "lng": -94.0203730798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a23fdd8761e2070d0281cababf5f48219f3f82e3",
-        "name": "YMCA",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107750065796597469743/photos\">YMCA .</a>"
-            ],
-            "photo_reference": "CmRaAAAACoImBPnlqhuyLKRmSXwDxWP_UYTsqBTbQoqUndTld-7CmOQKjP0_LKK6Q802p-H-x6gBtEFxQbNUEbWNOVCuVxOIVsYQyLSyprqLQmYz21ZzeoFY5kLdf7jR4f5D6tZlEhAbrBh0IZgSB3b04RN29I0CGhSCLE7MdaRzw2g07nbRBhH-ws1vMA",
-            "width": 3872
-          }
-        ],
-        "place_id": "ChIJrfs6csg59IcRwzNF6agGJ8Y",
-        "plus_code": {
-          "compound_code": "5X5J+R9 Mankato, Mankato Township, MN",
-          "global_code": "86P75X5J+R9"
-        },
-        "rating": 4,
-        "reference": "CmRbAAAAW3963HFrOBHxk6-5vAEEGeiRK86oK3CgBHObFzn56eVqSRXgVZVycwGYEjuDBVNE5RNsILMYXH_tAw1lzMJtNbGg-FON16M0xc2snwNFFT_oHp4-wdaLYscVgrRT7I9xEhCso-ymHlnyMJo_d0hC9XoqGhT8J1_wHa6Up0KhklH2dz6zK4oiuQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1401 S Riverfront Dr, Mankato"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
