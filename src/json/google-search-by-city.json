@@ -1,20 +1,70 @@
 {
-  "city_name": "sumter-south-carolina",
-  "city_rank": 888,
-  "city_population": 41190,
+  "city_name": "wilkes-barre-pennsylvania",
+  "city_rank": 889,
+  "city_population": 41108,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.9204354,
-      -80.3414693
+      41.2459149,
+      -75.88130749999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 41108,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.2581104,
+            "lng": -75.9002976
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.25946022989272,
+              "lng": -75.89894777010728
+            },
+            "southwest": {
+              "lat": 41.25676057010728,
+              "lng": -75.90164742989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "43a1d5a09629ca6e4f0ce78f76510e42c7639b18",
+        "name": "Planet Fitness",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1932,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116679489287114571890/photos\">Nicole Gonzalez</a>"
+            ],
+            "photo_reference": "CmRaAAAAXogwLH6AaBTgE2lRxA5tBOcwqDvXnskzaS7wUARe_b6dlzxOb8F_JLXQJBlimoZemZBoQHl8Zwen0qFjJL-DM4sIcB8GVy_3qpBtr2yZXh-FEF0aAp09uQCkp-DAingOEhDCVqA7-uzMijlBBSUoxp2kGhRPx2YuQvV_eP8Y5Q8sy1VRx0Yj-A",
+            "width": 2576
+          }
+        ],
+        "place_id": "ChIJHTf71XcaxYkRuZNL4X54weg",
+        "plus_code": {
+          "compound_code": "735X+6V Edwardsville, Pennsylvania",
+          "global_code": "87H6735X+6V"
+        },
+        "rating": 4.2,
+        "reference": "CmRbAAAAtd69O-mEghvtWbf08RVK-tGdl5T2ix1umy5oCFQvRLIbySIqu-6ht2ZJW6Tnsj_lPLc81mI0fkE5_Y7bQ6tEQ7Indut-ON-DNvSfpLhABRw9v1YpLpdcmgG65Xil4XGWEhALF9EtqekJ-j_mFwJsYrUeGhQn5JztCshMfgHnyE2muA8wGVvszw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "21B Gateway Shopping Center, Kingston"
+      }
+    ],
+    "status": "OK"
   }
 }
