@@ -1,20 +1,66 @@
 {
-  "city_name": "huntsville-texas",
-  "city_rank": 928,
-  "city_population": 39795,
+  "city_name": "prescott-valley-arizona",
+  "city_rank": 929,
+  "city_population": 39791,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.7235263,
-      -95.55077709999999
+      34.6100243,
+      -112.315721
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 39791,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.544785,
+            "lng": -112.4765736
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54611842989272,
+              "lng": -112.4750543701073
+            },
+            "southwest": {
+              "lat": 34.54341877010727,
+              "lng": -112.4777540298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d2b9af9edfd4100e32ec1a7c85668ea66b586cae",
+        "name": "Prescott College",
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107252234877701034766/photos\">Devin Davis</a>"
+            ],
+            "photo_reference": "CmRaAAAAc_qgt3At1nwTQydGW24UnYduMQZllLwfNgneH1fUPceC_ePGXPIxFJhhSoTY7tg58tc0U_JthLZvwI2__xoY28L42kVAouxScejh6UPjChV4AE4dCzhTMhVt6uvZFjoyEhAWAwImXxvOh9Rp8ct12uk3GhRmSQ-01NIDsfYhoRrZnA5K4GUyCw",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJ9zeJ0NcoLYcRoiY3lKlx7vI",
+        "plus_code": {
+          "compound_code": "GGVF+W9 Prescott, Arizona",
+          "global_code": "8569GGVF+W9"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAADBNQ1oOCACgqyXWkrQ3dsxLN4Ta6mEBGqFUw3-WdESajtNv2v0VWNPvFIbktCLcd0qENRFFpToNu6wFk3GN7YPwNeF3qcA3_f4NPh-og-d4d5T6ij9wPzbKKfEg_xwY2EhDnP4TTxPiH1iki4XG4YvquGhTFJhzdX6XK5aZELlrgcmmZvDywuQ",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "220 Grove Ave, Prescott"
+      }
+    ],
+    "status": "OK"
   }
 }
