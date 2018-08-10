@@ -1,20 +1,56 @@
 {
-  "city_name": "weslaco-texas",
-  "city_rank": 996,
-  "city_population": 37093,
+  "city_name": "keizer-oregon",
+  "city_rank": 997,
+  "city_population": 37064,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      26.1595194,
-      -97.9908366
+      44.9901194,
+      -123.0262077
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 37064,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.981585,
+            "lng": -122.960372
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.98302382989272,
+              "lng": -122.9589911201073
+            },
+            "southwest": {
+              "lat": 44.98032417010727,
+              "lng": -122.9616907798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8bfb5d232861946c1980523e5478f136c5eaeae8",
+        "name": "Lotus School of Self Defense",
+        "place_id": "ChIJvzDgJPL-v1QREo4eWC-nMNA",
+        "plus_code": {
+          "compound_code": "X2JQ+JV Hayesville, Oregon",
+          "global_code": "84PVX2JQ+JV"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAIcNXVgt-vB0U6btpInhcCd-8I0wRc9bzfdfC9vJOrjm1y9Okw0Cegid3VD5NRw_s4Q6PxEw_eIvyTAFMUOvqEwfVWBDNi_2q_eu7C27MA99JeeCXp9sYmtRqUz8VmncrEhBNWstGLTl-EUrQqMp3XVDwGhSL-ErgPpMZFOGyGaNpnXOJq2EgRQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4912 Mink Ct NE, Salem"
+      }
+    ],
+    "status": "OK"
   }
 }
