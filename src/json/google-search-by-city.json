@@ -1,16 +1,16 @@
 {
-  "city_name": "keizer-oregon",
-  "city_rank": 997,
-  "city_population": 37064,
+  "city_name": "spanish-fork-utah",
+  "city_rank": 998,
+  "city_population": 36956,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.9901194,
-      -123.0262077
+      40.114955,
+      -111.654923
     ],
     "rankby": "distance"
   },
-  "people_per_result": 37064,
+  "people_per_result": 36956,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,50 @@
       {
         "geometry": {
           "location": {
-            "lat": 44.981585,
-            "lng": -122.960372
+            "lat": 40.3075475,
+            "lng": -111.6977217
           },
           "viewport": {
             "northeast": {
-              "lat": 44.98302382989272,
-              "lng": -122.9589911201073
+              "lat": 40.30889757989272,
+              "lng": -111.6965779701073
             },
             "southwest": {
-              "lat": 44.98032417010727,
-              "lng": -122.9616907798927
+              "lat": 40.30619792010727,
+              "lng": -111.6992776298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8bfb5d232861946c1980523e5478f136c5eaeae8",
-        "name": "Lotus School of Self Defense",
-        "place_id": "ChIJvzDgJPL-v1QREo4eWC-nMNA",
+        "id": "38d60695391761bbc7dee4620db137b405fab1de",
+        "name": "Utah Valley Capoeira",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107391712528442834353/photos\">Utah Valley Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAADdVPAXd-JVq5oqd98yu3AMLMi0d370iUZd45NY7X0QWazoZltTwnLiyU3yGXwMTC7Ib0s0Qk96rWqo2yb913Y8nMLpTwTYfabhPdsYSNJuwcczxwaZcURWqGzgtG6g-KEhCR9mzNcTuO9_lDMqSy9-qbGhSiudA5f0kdDKFqRQA9yv84BS9N5A",
+            "width": 1893
+          }
+        ],
+        "place_id": "ChIJpajnqo6ETYcRYATRWJcEF7I",
         "plus_code": {
-          "compound_code": "X2JQ+JV Hayesville, Oregon",
-          "global_code": "84PVX2JQ+JV"
+          "compound_code": "8852+2W Orem, Utah",
+          "global_code": "85GC8852+2W"
         },
         "rating": 5,
-        "reference": "CmRbAAAAIcNXVgt-vB0U6btpInhcCd-8I0wRc9bzfdfC9vJOrjm1y9Okw0Cegid3VD5NRw_s4Q6PxEw_eIvyTAFMUOvqEwfVWBDNi_2q_eu7C27MA99JeeCXp9sYmtRqUz8VmncrEhBNWstGLTl-EUrQqMp3XVDwGhSL-ErgPpMZFOGyGaNpnXOJq2EgRQ",
+        "reference": "CmRbAAAA8NE4Mnf-jg0qKyL9x9UXvTGqLEywcYVhpaT68QCsazfZ1kPC0LqzSK1ykUsEp3MS-u4UkfEsDmqcepfs9OTJ1jiQdht-8xKmAllUJxidN8M69gc3aydtkMjLyRyFfyRvEhAhYOg1ASgq6Deg1U2Dh0GtGhSHcECK7d1I-q5nTi4X7MzoCRJHlg",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4912 Mink Ct NE, Salem"
+        "vicinity": "578 N 100 W, Orem"
       }
     ],
     "status": "OK"
