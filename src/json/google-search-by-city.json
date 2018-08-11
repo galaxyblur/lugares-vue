@@ -1,16 +1,16 @@
 {
-  "city_name": "indianapolis-indiana",
-  "city_rank": 12,
-  "city_population": 843393,
+  "city_name": "jacksonville-florida",
+  "city_rank": 13,
+  "city_population": 842583,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.768403,
-      -86.158068
+      30.3321838,
+      -81.65565099999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 843393,
+  "people_per_result": 842583,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,49 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
+            "lat": 30.32308939999999,
+            "lng": -81.5505811
           },
           "viewport": {
             "northeast": {
-              "lat": 39.80969172989272,
-              "lng": -86.14545212010728
+              "lat": 30.32443922989273,
+              "lng": -81.54923127010728
             },
             "southwest": {
-              "lat": 39.80699207010728,
-              "lng": -86.14815177989271
+              "lat": 30.32173957010728,
+              "lng": -81.55193092989273
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "plus_code": {
-          "compound_code": "RV53+77 Indianapolis, Indiana",
-          "global_code": "86FMRV53+77"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "55d4023cdbeeef1b4f660945136cae29e475642b",
+        "name": "Dreamers Estudios Dance Fitness",
+        "opening_hours": {
+          "open_now": true
         },
-        "rating": 0,
-        "reference": "CmRbAAAAEDO9IqN4QtIuGwv4kX-4u_Z4tkSeweZisokz4r7jx5Gk8fy7Kztyu7CWkKOxn5ItUn2ddfK0xHqIkbaE-iZAMPo_J9fCkVCBhIfrmvhCd6NjeI3_AS-0VuVO00vY-xxhEhCPvYMY_lUVIcUNSuiQMVN2GhRYxVbkHFFqQC-0ydCf2TSydCd9Hg",
+        "photos": [
+          {
+            "height": 1475,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106759758728938102413/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAzwPD8cOKq7v298K6003aFWw0MgOZsZjGucrLvIFWVbOk_FwEY3lTxV06rvvna44ERMAxcBPAOILtFLaPDUgr3ZQrgEsd7zEWFBwPtQE5FVtQNnEZ14wAXlFhH8FPdFJ0EhBQsMbZ9Qh8xRm75SekP1UPGhThzkJbsydod-oz7rbExDe2361fGw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ__Obz_K05YgRb1lfjI9UlGs",
+        "plus_code": {
+          "compound_code": "8CFX+6Q Arlington, Jacksonville, FL",
+          "global_code": "862W8CFX+6Q"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAo9ltAWUSEZ2pm9DS2z5WJRv3_YBhWk1f_sYyzyguTcriu7QqK0XkRiHHON0LaAdX93GdOfxWoSB8eaQDKv5Min3--oGMNVhZC9jPMq8Nza92Nzs2pJQQ6OoMDdSyoBk5EhCuOpox5KgzCgHF1y7-4FjVGhQNAQHgH-msS5AmouQcjENrXVD-0Q",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "609 E 29th St, Indianapolis"
+        "vicinity": "9501 Arlington Expy #327, Jacksonville"
       }
     ],
     "status": "OK"
