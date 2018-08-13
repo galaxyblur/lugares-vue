@@ -1,151 +1,20 @@
 {
-  "city_name": "st-paul-minnesota",
-  "city_rank": 66,
-  "city_population": 294873,
+  "city_name": "toledo-ohio",
+  "city_rank": 67,
+  "city_population": 282313,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.9537029,
-      -93.0899578
+      41.6639383,
+      -83.55521200000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": 98291,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.957209,
-            "lng": -93.169113
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.95869107989272,
-              "lng": -93.16776387010728
-            },
-            "southwest": {
-              "lat": 44.95599142010727,
-              "lng": -93.17046352989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e159e8833adfd8e68a3d1dddb4623fa1b337a412",
-        "name": "Capoeira Minnesota",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 479,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100688324126308350534/photos\">CapuraGinga Capoeira Minnesota</a>"
-            ],
-            "photo_reference": "CmRaAAAAHl7q1AqiIwnyMJFRNrtuXRDGBPpTKiwmQutPtXjHc3nkpWLyyLJTRBslrlJQVWXJvLRN6BIkxIPMXh752CJMNhyP-nEtVW3qSOte0GbHJ0S001CjL-sJ6LafipkQ_hM_EhA9GYtTN8f7c-iQVGcH6dtOGhTiWCQLgdeNnoGgUjUEu_JQf0NWlQ",
-            "width": 720
-          }
-        ],
-        "place_id": "ChIJeSpfUrHR94cRyKh-GcNUjr8",
-        "plus_code": {
-          "compound_code": "XR4J+V9 St Paul, Minnesota",
-          "global_code": "86P8XR4J+V9"
-        },
-        "rating": 4.8,
-        "reference": "CmRbAAAAqPBhU2xEERoOIlpNaP-a0PPPFuLKDGf5hOYRE99f7C5JsQAWcbesTExaJqLQFqQz6lKvC4UuFKYzaLgPVNJPRXg-5_RUEVDGfpFfXXPipb26DKHQiguBE7puW1wn421pEhDlcuyPqdiLNDee1NITSAKAGhS8N4I61BehSYYnePW8nJMiEOwdDQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1632 Charles Ave, St Paul"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.9558916,
-            "lng": -93.29506699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.95706882989273,
-              "lng": -93.29371627010727
-            },
-            "southwest": {
-              "lat": 44.95436917010728,
-              "lng": -93.29641592989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d91d98688d83ed1d5f1f438072f31fb016d3a50f",
-        "name": "Afro-Brazilian Capoeira Association",
-        "place_id": "ChIJ_deEDM9TVEARvybmao31Lvg",
-        "plus_code": {
-          "compound_code": "XP43+9X Minneapolis, Minnesota",
-          "global_code": "86P8XP43+9X"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAZjqNWuWmFnFIwexjeI6O-jowkNquKQf2-5nwdJX1q1i4P0Ye7-Cd1Vio5FBgz-ssuC6O455BT-8IHzfqDYwKAinyQDo5-3dt8KksnwKy27IfxG_Pn_hNbotT6jEXnEXbEhA08oLXU3scBIKr0JGodR8kGhQp2KxqqdvHffpHoMkutXD-aiy0PQ",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1200 W 26th St, Minneapolis"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.885463,
-            "lng": -93.285648
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.88672057989272,
-              "lng": -93.28451502010728
-            },
-            "southwest": {
-              "lat": 44.88402092010728,
-              "lng": -93.28721467989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "34b2fc3db44933329ed6b1771eeb629ad4a2c5ec",
-        "name": "Minnesota Capoeira Academy",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 1190,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117562375695623979223/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA8pwgw4jCWKwos9cX43zQ8MrwTuV3UWmaFnJYQ2qAbvg_-AVWtMcLuUNdAxEtcKvTJ3rwwEeoxWEdrKUnW31T3bN7sCUF8SOIKaKipDkRu6KljeWnBQ1iivdTQF2ev11fEhCQXIMcueJKLtuYf0xin3kQGhR-EZWGPRlvHzbexg9MCtZJP7_p1g",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
-        "plus_code": {
-          "compound_code": "VPP7+5P Richfield, Minnesota",
-          "global_code": "86P8VPP7+5P"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAA11kQvuNyWaiR_P0QJKoBSrQs_8MjmzEPlzj-iwh0q5MYfCufXAJoQFzhmZFlzEFY5gZeMPjrcUmWPqtrSXV-75vWkRx0ysWvpeYkzcD5s5JxxrRbHK36vyxmmkb-MHeMEhDQC33xGTnBqIcYeM8xGgrMGhQj50f943sEST8FehYSaZpWmYrlBQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6463 Lyndale Ave S, Richfield"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
