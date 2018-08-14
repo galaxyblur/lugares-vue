@@ -1,20 +1,114 @@
 {
-  "city_name": "winston-salem-north-carolina",
-  "city_rank": 86,
-  "city_population": 236441,
+  "city_name": "glendale-arizona",
+  "city_rank": 87,
+  "city_population": 234632,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.09985959999999,
-      -80.244216
+      33.5386523,
+      -112.1859866
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 117316,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.4954773,
+            "lng": -112.0831415
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.49682342989272,
+              "lng": -112.0819591201073
+            },
+            "southwest": {
+              "lat": 33.49412377010727,
+              "lng": -112.0846587798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
+        "name": "Capoeira Brasil",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109835485667846703056/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAvfKhbS8KeK49kSDcddr-wGJsaSsc9ENmZZk9Ybyhk46I-CKH5Dhw-xOdxo62UFIGnoP2LVdogGKjKYjNTd1zaZ7EKQzafAe8wfxDIv8DaIhy1a38CQdASmQVnHjttWRGEhBWiu1Kir3qDEQm_ojZA-m6GhSMIDY_jF7j0izBm7GyJLLQhsD3xg",
+            "width": 1365
+          }
+        ],
+        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
+        "plus_code": {
+          "compound_code": "FWW8+5P Phoenix, Arizona",
+          "global_code": "8559FWW8+5P"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAbVwEl602RT6xRgxDi0VtOG9kbXWBfurbN1m2vhAmglPJfFUtVXTqsHMUZqoWRp02wWAtRJDBslVnpz0Cq7X8SsPfN6m1ZCFPDQeCzOQx3TQ7GeDFPFqNi-kGaYNXUBS5EhDokLdXKCXv6dGeL1pwOxHQGhSgfIQ0lis-SeJuGjJFUV0Lk9gp6A",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4113 N 7th Ave, Phoenix"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.448315,
+            "lng": -111.92672
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.44966462989272,
+              "lng": -111.9252356701073
+            },
+            "southwest": {
+              "lat": 33.44696497010728,
+              "lng": -111.9279353298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
+        "name": "Axe Capoeira Arizona",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 445,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
+            ],
+            "photo_reference": "CmRaAAAAz4QrYbMNWbd1IRoCM-MJKb1OgOOABGng2UXdLf6spLbP_AUOzQ5Rw2DKy9Zkb9yZZPe0vnh39UDynam9ffpXuarMKcch2WigT-HsOYwOhdIV0Y6HbFWdpTW9UGDw1zgvEhB-EASzow0npiIRwSUWuvO0GhR4MfI7Iai5TQub9q0cWGRAik3Aow",
+            "width": 792
+          }
+        ],
+        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "plus_code": {
+          "compound_code": "C3XF+88 Tempe, Arizona",
+          "global_code": "855CC3XF+88"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA0yM06l3a5i-0b68YzdPbU4qO8DDIKuit_zTuTHg_TtTCnhJTWQ7GxkefUfRlAwbX_lstXFcqJKlx7MuQmpU0qWP7OQFtMxQxSY801mmTYC7inLgp6Ak3JHMUrKsbP7UCEhCi3H-2KQyS7NzmtNvti3WzGhROM3aDVvWX6Lq0c9kzO8y7hEAUAg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1650 N Scottsdale Rd, Tempe"
+      }
+    ],
+    "status": "OK"
   }
 }
