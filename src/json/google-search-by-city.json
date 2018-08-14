@@ -1,16 +1,16 @@
 {
-  "city_name": "lincoln-nebraska",
-  "city_rank": 72,
-  "city_population": 268738,
+  "city_name": "buffalo-new-york",
+  "city_rank": 73,
+  "city_population": 258959,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.8257625,
-      -96.6851982
+      42.88644679999999,
+      -78.8783689
     ],
     "rankby": "distance"
   },
-  "people_per_result": 268738,
+  "people_per_result": 129480,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,85 @@
       {
         "geometry": {
           "location": {
-            "lat": 40.8142834,
-            "lng": -96.7568112
+            "lat": 42.9113566,
+            "lng": -78.85903239999999
           },
           "viewport": {
             "northeast": {
-              "lat": 40.81540962989273,
-              "lng": -96.7554585201073
+              "lat": 42.91261912989272,
+              "lng": -78.85768472010727
             },
             "southwest": {
-              "lat": 40.81270997010728,
-              "lng": -96.75815817989273
+              "lat": 42.90991947010728,
+              "lng": -78.86038437989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e6c87a196048832b5fa1d67c376299b99f0833d4",
-        "name": "Capital Aikido",
-        "place_id": "ChIJzSXEqZvAlocRrueTu2kU2aU",
+        "id": "e6eeef9db0cdc5508e5a24ae51ce196d43d6436a",
+        "name": "Capoeira Mandinga Buffalo",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 262,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112805290222847997772/photos\">Capoeira Mandinga Buffalo</a>"
+            ],
+            "photo_reference": "CmRaAAAAphDNfZm4hqvEgkUB6UdeEsrdQDRjNYRaqwU6Tt7c4a8x3c7vq-tXpuJsLl7FU-QI5DM1ZBmMWVM5Py7-VIx0PaVCRrsjF-tYmUl07qAetPbMj21AZUV-wZq5IU_BFyk0EhCIYAg5n8VFCFnhLpDKZu4hGhTzLSKusFK0wKz_G1ZtUJDAWesL4Q",
+            "width": 288
+          }
+        ],
+        "place_id": "ChIJT6cvlRsT04kRfxPizgV4qzA",
         "plus_code": {
-          "compound_code": "R67V+P7 Lincoln, Nebraska",
-          "global_code": "86G5R67V+P7"
+          "compound_code": "W46R+G9 Buffalo, New York",
+          "global_code": "87J3W46R+G9"
         },
         "rating": 5,
-        "reference": "CmRbAAAA6D8jVM9J1i8_iKqfRQ4_H73y5eqYaLK18VMorlusqk5XrCptMqhZdmTw1BcnTNaAw4xv4pKlurl1IEWXYuJT5noIuW-PVWxlsbzHHNgw_WXRAzEn5CYwYkPRrd42t4gEEhBxXz59AnjI6YwZi0cBASgSGhT7oMSeN4MJm1EaySFdhK_zqjnRvA",
+        "reference": "CmRbAAAAj-gR-YwSM-7ph_7_7_F-JQODYuPqSQbRUnGksTu_Ha_4JPfwdYD3-qSyzAOfxvThX_Kyd_DiOxx1LZTP9YJbVxGdW_MjJxK64ATEG8guQ-9EtiDWKfowffyuroopkBUiEhCg2W4SiZ9rcPL3EADPJ91cGhTuw0r724EBRQx2Jcw_qTUpDC-tFw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2540 W O St, Lincoln"
+        "vicinity": "226 E Utica St, Buffalo"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9195488,
+            "lng": -78.7844939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.92089667989272,
+              "lng": -78.78302572010728
+            },
+            "southwest": {
+              "lat": 42.91819702010728,
+              "lng": -78.78572537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6abe338d2aaddcdde442149944bd8f84cd3e743e",
+        "name": "Capoeira Mandinga Buffalo",
+        "place_id": "ChIJR6kOCdsM04kRX6m-cmOAhT0",
+        "plus_code": {
+          "compound_code": "W698+R6 Cheektowaga, NY",
+          "global_code": "87J3W698+R6"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAQHo8oYfora64D65lEf2GaYhG8y7_7auiX0Sq7glaHskZZCnDrsg64tdhnUyOswIVUj0CGq6dNvkCP-oU7W4-Y3wsLp09MMzgCjxS8CW-_BSjEqEoJxIlxtf-ILIBPVeREhAwI6fLYGk5dtVWU4ZNFfWmGhS9hZcFlZH2VZMUmCGd67Z-w1LwUQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2773 Harlem Rd, Cheektowaga"
       }
     ],
     "status": "OK"
