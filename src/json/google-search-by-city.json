@@ -1,69 +1,20 @@
 {
-  "city_name": "richmond-virginia",
-  "city_rank": 99,
-  "city_population": 214114,
+  "city_name": "san-bernardino-california",
+  "city_rank": 100,
+  "city_population": 213708,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.5407246,
-      -77.4360481
+      34.1083449,
+      -117.2897652
     ],
     "rankby": "distance"
   },
-  "people_per_result": 214114,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.53547200000001,
-            "lng": -77.561272
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.53678167989272,
-              "lng": -77.56009852010727
-            },
-            "southwest": {
-              "lat": 37.53408202010728,
-              "lng": -77.56279817989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "42b581112dda7fac175f9e0c5358f18070107e88",
-        "name": "Capoeira Resistencia",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100180166960998838604/photos\">Charles Giles</a>"
-            ],
-            "photo_reference": "CmRaAAAAGkqCXa_-VYq5V0Me8RmSywGQgUt-6ZByLFhb0eO-BkGOGKS4VnZdloh6w0B8ZGkzb_O5LGC1fYvZb_tK2WhwIK27A3_cRh8wW7cvC87WUtjVF4PQmTXBhdptt7wtMApaEhBTYJFR-EsNUS_zu1hOP61dGhQYAiQjGEXH31GKHbANTC42R9_4VA",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJFWdNVysTsYkRe9XIcn6GnEk",
-        "plus_code": {
-          "compound_code": "GCPQ+5F Bon Air, Midlothian, VA",
-          "global_code": "8794GCPQ+5F"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAZMYBuzNt1CkoEDh_5owlD_7gr85N9exCbdEqH-UU4GrY5r5SiTax5vP1y8CtQPoA3GgBnedLoAsnwsPaNpF4PiiyO7uQcaQZssSzuE5Iu1gE7VVrz4DoXhSsx4KucVHCEhCn43Aw2f_ngKD2jbHoLo9_GhS99zxEJwpti9YYX4MyBaLgM9GRWw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2723 Buford Rd, Richmond"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
