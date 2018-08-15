@@ -1,66 +1,20 @@
 {
-  "city_name": "montgomery-alabama",
-  "city_rank": 111,
-  "city_population": 201332,
+  "city_name": "moreno-valley-california",
+  "city_rank": 112,
+  "city_population": 201175,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.3668052,
-      -86.2999689
+      33.9424658,
+      -117.2296717
     ],
     "rankby": "distance"
   },
-  "people_per_result": 201332,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.384621,
-            "lng": -86.2177499
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.3859095,
-              "lng": -86.21551339999999
-            },
-            "southwest": {
-              "lat": 32.3807555,
-              "lng": -86.2184954
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dccb0e593e85d60c5f443d9f774856eff669ce57",
-        "name": "Faulkner University",
-        "photos": [
-          {
-            "height": 1362,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103869352021555280279/photos\">Faulkner University</a>"
-            ],
-            "photo_reference": "CmRaAAAAcrUt1UgK0EkiI2KFIfTUh5Fb3XZ7TXPyWFjEip3pv7Yj4rxKq61BjDt8Q-Zn4VTyZGh5cuFYdlJKKH69UABjSLtdN-2bsjTRiQc8XEhj2wrHKWOWn3BFe6b9VM8WWxjtEhCAlSrPbRfUM5RvcQNBtNdeGhSTF3cR_EvDv9r6VV5uXSrV1zsCXg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ_cdblisqjIgRQRCr9VtBnzc",
-        "plus_code": {
-          "compound_code": "9QMJ+RW Montgomery, Alabama",
-          "global_code": "864M9QMJ+RW"
-        },
-        "rating": 4,
-        "reference": "CmRbAAAAe37FTtGTImQvx_DDIQ4mYPEQEu2meFT-zk5qXNNMkQWHaa8yN2C-dzOlZ2GXhITuZRZGceG3h5N3Ko-sLHY84QNI_GqGwhRpQrv7gaMd0r_AQUaLCGDHlIgNplo1EAgBEhDrPq5IoJGHeWC3p4qgy4ekGhTfVvb1rNUztAy8FKRcSOm54NySmQ",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5345 Atlanta Hwy, Montgomery"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
