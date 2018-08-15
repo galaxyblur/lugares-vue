@@ -1,20 +1,70 @@
 {
-  "city_name": "birmingham-alabama",
-  "city_rank": 101,
-  "city_population": 212113,
+  "city_name": "spokane-washington",
+  "city_rank": 102,
+  "city_population": 210721,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.5206608,
-      -86.80248999999999
+      47.6587802,
+      -117.4260466
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 210721,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.737086,
+            "lng": -117.413262
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.73820317989271,
+              "lng": -117.4119139201073
+            },
+            "southwest": {
+              "lat": 47.73550352010727,
+              "lng": -117.4146135798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "11fac2c408aeabb78c9540062e14e27a07d759be",
+        "name": "Spokane Fitness Center - North Gym",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1007,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102560078421756760515/photos\">Spokane Fitness Center - North Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAAqbJ1Fpx2QU3QgRA0F5PZU2s-czLvN9lkFqOOI6C8WMEvHMN2eE_BQgHXuZi7t4XGiNcyNV5ick3TEAfV0y1qH5MarB0w4DO-AS5Xaj6Cm-RCK9v3xJpEnIhiuAN1HFkPEhB5NvMG2VMW8E9s47zzN2ZbGhSC8zrmKLAaalQgiunQAezv4GC7ew",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJYX6A8A8cnlQRE-k7Kt2Dfuc",
+        "plus_code": {
+          "compound_code": "PHPP+RM Town and Country, Washington",
+          "global_code": "85V4PHPP+RM"
+        },
+        "rating": 4.5,
+        "reference": "CmRbAAAARhG4vpaQaWXTLILjM1A4clDvzgI7Mhx_N3iWGhkO4fMlqsd8jEb403gwjSKA8tMUecZcA4NOf5Ar4JmVisrxPlrlQ3Lq2qYvJkLcTx0OJSulF_lcPYQIuWtU8X09UyYVEhA45eE8y9KHbAUwBFeRK-jgGhRla2d88dUS5Si7bAUCI2_X03-cag",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "110 W Price Ave, Spokane"
+      }
+    ],
+    "status": "OK"
   }
 }
