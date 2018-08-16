@@ -1,20 +1,70 @@
 {
-  "city_name": "moreno-valley-california",
-  "city_rank": 112,
-  "city_population": 201175,
+  "city_name": "shreveport-louisiana",
+  "city_rank": 113,
+  "city_population": 200327,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.9424658,
-      -117.2296717
+      32.5251516,
+      -93.7501789
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 200327,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.5033975,
+            "lng": -93.74053359999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.50490987989272,
+              "lng": -93.73897607010728
+            },
+            "southwest": {
+              "lat": 32.50221022010728,
+              "lng": -93.74167572989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ed3f69498d04df4e21b4e8d1295e152217152190",
+        "name": "Tankhead Gym",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101673559498112287758/photos\">Tankhead Fight Club</a>"
+            ],
+            "photo_reference": "CmRaAAAAKHNgMjlZQTOGNBqSTp8JzQMF3D53Z-MEMLECiEYJqNXNQCb33lSGFJwouE20SL03tH6_X6l9_0ONeRDyxISL7pVIEdHfDnjREl5tAfLegM-RwVnmt-GeYmkqxdTgt8SrEhCTbiPIEV8h7io61Y2F9OxYGhT3MNr7WXur1WT8tJfSY9rE-hQ26A",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJT61l_DfNNoYRotJqB9CsWPI",
+        "plus_code": {
+          "compound_code": "G735+9Q Shreveport, Louisiana",
+          "global_code": "8648G735+9Q"
+        },
+        "rating": 4.2,
+        "reference": "CmRbAAAAdY6-2Yrd52nYb1vgyxiePS-6FpzRVvyCLpOVbXzVvsNDrV8qZtMbgpKoU7_FZs8zr6AvG7eVE_fEQZAlRH4u-dhDB8w77MBILgp22CXOqLof4CpkAVAg_3pen5Jxw_3IEhBrgL47UDGT1-V19upD3RbJGhSyM6ILTCif_m05lryrm7GqQyToKQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1618B Marshall St, Shreveport"
+      }
+    ],
+    "status": "OK"
   }
 }
