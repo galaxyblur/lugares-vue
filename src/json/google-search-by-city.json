@@ -1,16 +1,16 @@
 {
-  "city_name": "tallahassee-florida",
-  "city_rank": 125,
-  "city_population": 186411,
+  "city_name": "huntsville-alabama",
+  "city_rank": 126,
+  "city_population": 186254,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.4382559,
-      -84.28073289999999
+      34.7303688,
+      -86.5861037
     ],
     "rankby": "distance"
   },
-  "people_per_result": 186411,
+  "people_per_result": 93127,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,50 +18,87 @@
       {
         "geometry": {
           "location": {
-            "lat": 30.4616558,
-            "lng": -84.2841078
+            "lat": 34.7040521,
+            "lng": -86.59330969999999
           },
           "viewport": {
             "northeast": {
-              "lat": 30.46300562989272,
-              "lng": -84.28275797010728
+              "lat": 34.70538732989272,
+              "lng": -86.5908968
             },
             "southwest": {
-              "lat": 30.46030597010728,
-              "lng": -84.28545762989272
+              "lat": 34.70268767010727,
+              "lng": -86.59411399999999
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6228d0d43fdeca35ce41ec0583885fb55baa6409",
-        "name": "Tallahassee Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2298,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117192333192183788469/photos\">Rupert Giroux</a>"
-            ],
-            "photo_reference": "CmRaAAAAqbmkd9eviPKN5gYY7Fz5jyJFCTr0ezIoohceeT7g34F28CtXZJSYG9Kf69dZfm7a7v7-4hsnbtenNuqVEWxJmoZqDVU2fUBukY2PQn-qLRVk3zymzYlBCEkP_lUb9mMwEhB55rakLie3Eky706D0jJ-kGhQtVzTavwoqPd-B6HhLZyDYhYaGxA",
-            "width": 1293
-          }
-        ],
-        "place_id": "ChIJ3Tqh9L_17IgRn_yrYrtML7U",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "116cf29cdc9047953a626a7f5fdb00756894f710",
+        "name": "Crossfit Huntsville",
+        "place_id": "ChIJdSkjdcdsYogR-7gMziFNc10",
         "plus_code": {
-          "compound_code": "FP68+M9 Tallahassee, Florida",
-          "global_code": "862QFP68+M9"
+          "compound_code": "PC34+JM Huntsville, Alabama",
+          "global_code": "866MPC34+JM"
         },
-        "rating": 5,
-        "reference": "CmRbAAAAjHQE3VVGIUYCuXNsJxWFk76ArMN_aPS5UrKuRRATF_i25Mu4kfae67Z5dSAnPuH6uMkeiaENr359MMO0oyqVlYDF1OUCu4yzHLP518cI2K_3QeP9vVM-3ovHdwoaU_yHEhA21o9PUDud2r9zpiGZg46XGhTlXM8R0lDwCAStmygnPSil9IlABQ",
+        "rating": 4.2,
+        "reference": "CmRbAAAAZlF1ZX_9yTABf88zalC-nevCGusEZk0fZJK7pMlekrWU-l8R3Tcd6xafJdUJoyvv8KIX4yWmc6Rhd_j7AWpxlEn4vPmoe44O3kts-TwFrbMBKGOduN4Hmj27BrhbvFIpEhDFHG0Mf-LyBjpmVhGxRM95GhQ1Ffb3IZt2O3hUnd5anqOHNx-9Bg",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1660 N Monroe St #3, Tallahassee"
+        "vicinity": "3050 Leeman Ferry Rd SW, Huntsville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 34.7498076,
+            "lng": -86.7099042
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.75102282989272,
+              "lng": -86.70870912010727
+            },
+            "southwest": {
+              "lat": 34.74832317010728,
+              "lng": -86.71140877989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b5c708cc2b4a905d47a75a55ed4e2b997d05d993",
+        "name": "CrossFit Impulse",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112191400593036504334/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAlMmINaB84U15-ev0oypv2EcDAe4O2EO7lAf849BKOKCNMGXgRKXz8DK5J3AxcWddhqM1gCw9p4V2dygzp1lM_lc3HcQfAXu_G7Gn8tCNxtNYW9Xoq_mYtIa2tpRbT47YEhCCv3csF5IYBVAcjJP8NkntGhTrjCc3VJpZQPKz4IvKvv3Bd_-UOA",
+            "width": 4928
+          }
+        ],
+        "place_id": "ChIJJy6yGN1oYogRC4XNN-LxaWk",
+        "plus_code": {
+          "compound_code": "P7XR+W2 Huntsville, Alabama",
+          "global_code": "866MP7XR+W2"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAAs1U1_ogMhSHpui1WgCrrbkFxRVy-faN5w5QqedWejNipPgs6Kn0bMk8okzRxgpVsCWi3cJJurS9OW74X1aJDVoqSztTq4T_m1PRa5wxnqviCHEaJlu9_dQnukMSr0cnmEhA6u8NcLyOwPOIXDEUd0nk5GhT6bisaLfldBEo70SHsZbxnPRF5rg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "115 Castle Dr, Madison"
       }
     ],
     "status": "OK"
