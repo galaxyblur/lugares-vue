@@ -1,20 +1,68 @@
 {
-  "city_name": "sioux-falls-south-dakota",
-  "city_rank": 147,
-  "city_population": 164676,
+  "city_name": "springfield-missouri",
+  "city_rank": 148,
+  "city_population": 164122,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.5445959,
-      -96.73110340000001
+      37.2089572,
+      -93.29229889999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 164122,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.209536,
+            "lng": -93.2907929
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.21100412989273,
+              "lng": -93.28944052010728
+            },
+            "southwest": {
+              "lat": 37.20830447010729,
+              "lng": -93.29214017989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0e02ed34762cdec894881d705b1c8c846dc7c8ad",
+        "name": "GigSalad",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3159,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102023464976869992116/photos\">GigSalad</a>"
+            ],
+            "photo_reference": "CmRaAAAAn6ax0NLl33HssgOLOCR9ox0BwqajhHKwlrGWT_xA9ucBGJuT91Fi25gRojAD3F4-xKY8XPEE_c1NCm5-ruW1XjWuzER2AOKNdprNrOCeQ2zNHI39K4Yv87QiypMx-cgcEhAvnC_Zn-6SG5dnO9wRW7waGhS0m7COO-qVDkHUUuQ68TCXGYLbAg",
+            "width": 5616
+          }
+        ],
+        "place_id": "ChIJEaJFyPtiz4cR7rU7pWhys1o",
+        "plus_code": {
+          "compound_code": "6P55+RM Springfield, Springfield Township, MO",
+          "global_code": "86986P55+RM"
+        },
+        "rating": 4.4,
+        "reference": "CmRbAAAAioPDEDsHLfHgx-xs7TElh2wj9p5UoPWVd3JvDLqbllHHJCatGKPxAjGjOrlr3v6WYtEplSE7DYU1NjzHJQ0p0ogVN-Es3k3Qxllj0xQpMukWAX2yKvL-YCNutPxu6Lo3EhDfYKQfZP4pLms4RQq2y8hUGhTOSW2oiwnmnX0ogcYNZyKlNE4BYw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "312 E Olive St, Springfield"
+      }
+    ],
+    "status": "OK"
   }
 }
