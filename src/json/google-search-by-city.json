@@ -1,70 +1,20 @@
 {
-  "city_name": "visalia-california",
-  "city_rank": 201,
-  "city_population": 127763,
+  "city_name": "topeka-kansas",
+  "city_rank": 202,
+  "city_population": 127679,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.3302284,
-      -119.2920585
+      39.0558235,
+      -95.68901849999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 127763,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 36.3004566,
-            "lng": -119.3099624
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.30185362989272,
-              "lng": -119.3085438201073
-            },
-            "southwest": {
-              "lat": 36.29915397010728,
-              "lng": -119.3112434798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "5ee346e9a5a78751818ed43e5b676cefab3d7c66",
-        "name": "FIT Tribe Academy, Inc.",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103839568470044474808/photos\">FIT Tribe Academy, Inc.</a>"
-            ],
-            "photo_reference": "CmRaAAAAZviYwH6rCfq5MxWuUNbYCu8fnnqoC8aOXeedJ1JxAExz41pNaNbPZoYjG2r1PQt1L9WqHZNfVz8csjvuL4-ZucnbcgTi4Mw-47jF4IGFnuAqlPU3UAQSOQRAlLwFGHjqEhC-zhRK0AJbYS7wYTKB32B_GhQkF4kGdqD8i8kSFji4o-d_J58HJg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJn-8kVyQvlYARl0xrjigfNoY",
-        "plus_code": {
-          "compound_code": "8M2R+52 Visalia, California",
-          "global_code": "85828M2R+52"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAA0dOYOHYeT4MDqs93WXdUvRY6eAQB1f17poEz3-XQrxLrFAYvpSzwMo3b6T-ZM7tBR7hiTLOXna14i4UBvt35vltw-JENjhXKWTdWnLY5VJaTBj0MFvlTkY5teg_mgg_FEhBQZakwdtJnHzmnckD8q9BtGhT16uEoKuzB2uVLEDUBH6QlQVbjpg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3362 S Fairway St, Visalia"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
