@@ -1,108 +1,20 @@
 {
-  "city_name": "denton-texas",
-  "city_rank": 217,
-  "city_population": 123099,
+  "city_name": "victorville-california",
+  "city_rank": 218,
+  "city_population": 121096,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.2148412,
-      -97.13306829999999
+      34.5362184,
+      -117.2927641
     ],
     "rankby": "distance"
   },
-  "people_per_result": 61550,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.9290085,
-            "lng": -96.83263679999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.93026227989272,
-              "lng": -96.83128752010727
-            },
-            "southwest": {
-              "lat": 32.92756262010727,
-              "lng": -96.83398717989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1c471a67d3182505545759c04523512ac3573399",
-        "name": "Dallas Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
-            ],
-            "photo_reference": "CmRaAAAAzvUSXhDS_WSStvTxU2W5W85JD6dQYFc2R9hVFbh5E9aI8t3UJxzXagD1R5oIJmoY9Cs6W1vbNDgfeuHJgA0vtYV-0_Iq-Jk2Z3ZIPj30PY30sE1sEh4cGdcKTtkT0zYWEhAUSn4QBafWO2TKUjJ7VIzAGhRBuaVvbHU51-DiwvOdZQqWoQM5xw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
-        "plus_code": {
-          "compound_code": "W5H8+JW Farmers Branch, Texas",
-          "global_code": "8645W5H8+JW"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAu_k6kG7ha8Vbz06E_XN6PzIVZRpKQaKtlxvbR9LWMmC3Q6pZPd52fWJrDRgsm7bKg0dbtgZ4ALizBmfdO8zJO53gjFkR5mpBu-yPn8Swrx21NxD4T2Oeoirhwof8wPjNEhCxd1F1d7p-vLqUHilMZVnRGhRN-cuDjsdLbo7FQMc1EdJu6MP4Ow",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4505 McEwen Rd, Dallas"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.1312901,
-            "lng": -96.6478546
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.13300807989272,
-              "lng": -96.64650337010728
-            },
-            "southwest": {
-              "lat": 33.13030842010728,
-              "lng": -96.64920302989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "c61286c1b0592a190d871d7c0c1e26b3fb199642",
-        "name": "Capoeira Allen Martial Arts Club",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJVVVVVVAXTIYRN5UYrKNG-D4",
-        "plus_code": {
-          "compound_code": "49J2+GV Fairview, Texas",
-          "global_code": "865549J2+GV"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAAvl9lDiCcZklYrkhEJYuzcZaqNfI7D8puzYfytQf9HSSYgO6FlmWYQUHRcJwuCMnwor2jNLR5H43weRlGa8GwsFlE0iMP1_lXRUcHf4ksCMFKekeYwtVuVy_QQMgSHGLEhAa-hrDtAxK1_ORrB9pN0tzGhQYRnXq7OL85OroxbfVii-BIi3hVg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "330 Town Pl, Fairview"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
