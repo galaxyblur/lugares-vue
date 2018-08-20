@@ -1,390 +1,67 @@
 {
-  "city_name": "ann-arbor-michigan",
-  "city_rank": 229,
-  "city_population": 117025,
+  "city_name": "springfield-illinois",
+  "city_rank": 230,
+  "city_population": 117006,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2808256,
-      -83.7430378
+      39.78172130000001,
+      -89.6501481
     ],
     "rankby": "distance"
   },
-  "people_per_result": 14628,
-  "possible_duplicates": {
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ],
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ]
-  },
+  "people_per_result": 117006,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.27982919999999,
-            "lng": -83.748993
+            "lat": 39.6800552,
+            "lng": -89.7046434
           },
           "viewport": {
             "northeast": {
-              "lat": 42.28117427989271,
-              "lng": -83.74744137010727
+              "lat": 39.68142232989272,
+              "lng": -89.70329387010729
             },
             "southwest": {
-              "lat": 42.27847462010727,
-              "lng": -83.75014102989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
-        "id": "62abe032128f3bf010c5e568a4ce274b532f5cbc",
-        "name": "Phoenix Center",
-        "place_id": "ChIJMaAXrT2uPIgRzDP_68YTukc",
-        "plus_code": {
-          "compound_code": "77H2+WC Ann Arbor, Michigan",
-          "global_code": "86JR77H2+WC"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAVZuZWlrGMclzSejHC70NUcZgiaiaNX-pNECloljf3fl_FqW8LhWvHwMrFif7kDmnIgyhYTQNmaeHkMW67-pkfXf6c_9k_wG2ch6YQpZKupSf9-Lsj1R87BpkdFvvFu-TEhC9viMDg_jUId4wcGU-J9WZGhSwg3zkET1UjKmEOoeJeDVgPiqm4A",
-        "scope": "GOOGLE",
-        "types": [
-          "store",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "220 S Main St, Ann Arbor"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.2780436,
-            "lng": -83.7382241
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2860173,
-              "lng": -83.7288695
-            },
-            "southwest": {
-              "lat": 42.2672541,
-              "lng": -83.74456429999998
+              "lat": 39.67872267010728,
+              "lng": -89.70599352989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "91a0a6bfeab397c9d5f84e6e8fa8b6d4d7dd6f12",
-        "name": "University of Michigan",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107268353804329882983/photos\">陳柏瑋</a>"
-            ],
-            "photo_reference": "CmRaAAAAfXhGyF8AKXOAc2Uvem8jU0bfHNkzN9exX4eFY13yL614okcUyB0NomWzSTaIIOY3YmXSka7MVWoyfd326DjVJSgWceZZKLvDJ0akhJrhUuNXjLc_iVmqGmNm4oziAYXoEhB-ZTXSGUIF4MkaCGmKjWvfGhRkZXTO59fZGSoZn2W2Iqvuz9cbpQ",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJARfe5ziuPIgR45fpeFFOoVs",
-        "plus_code": {
-          "compound_code": "77H6+6P Ann Arbor, Michigan",
-          "global_code": "86JR77H6+6P"
-        },
-        "rating": 4.3,
-        "reference": "CmRbAAAAT81PQZP7z5umvgnzwOrbJ6fBr_xxP_kVo9yp4eE1P7E1GXjY-N-ATiRomoeliQUcLmB-k5ouemakQT4LZYV0ZkUc8tQlb2HIklG1ZNUBulAe3im9y9TFHlfY0TLBSh_LEhD61sSxcI1S56om29ZHeUq_GhScWcGaOUYV_60XMpIFsB5vUTytgg",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "500 S State St, Ann Arbor"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.2459592,
-            "lng": -83.73330759999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.24720382989273,
-              "lng": -83.73195552010728
-            },
-            "southwest": {
-              "lat": 42.24450417010728,
-              "lng": -83.73465517989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "8566f28ca461d4378314c68251ce8866b7a42975",
-        "name": "Japanese Martial Arts Center",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2916,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105628312857015023017/photos\">Japanese Martial Arts Center</a>"
-            ],
-            "photo_reference": "CmRaAAAA0iQUY7eZLfNB3aWE3aaLQE304FLIkhqmI4aPNsp3Do9zQi47FMEJjrpN-uX3H9j700PbMdvwkOR-CjKXJKkLhGhMTKLHmdkPsJcXcAcq2udYuRl9xOh7jfPQKEkxhuHIEhDxTBv6MiNF2eMS1-XJxP50GhSXrVLHYUYNCipw6CtF1BM5g1a2cw",
-            "width": 5184
-          }
-        ],
-        "place_id": "ChIJ8e2-ko2vPIgRvuVrRPCbP2E",
-        "plus_code": {
-          "compound_code": "67W8+9M Ann Arbor, Michigan",
-          "global_code": "86JR67W8+9M"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAkBYjhU-R7luRMQzWWqezIX8wGdv5Aq6YPiVW8eh7ixk0ztUgI_VHmjh-1K_nVAzHl7eSI4llV2aEDYP7MtSsyszSwb_6NYSxW0HIT7JiNaX2rcCXXFPKuu6vj7AEX4ZDEhAzJWAfZMhrGM3XQO-MV0YUGhTyHszcj5iLbM3D7dWCHg3B3jCFoQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2875 Boardwalk Dr H, Ann Arbor"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.2312186,
-            "lng": -83.74861609999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.23268687989273,
-              "lng": -83.74742442010728
-            },
-            "southwest": {
-              "lat": 42.22998722010728,
-              "lng": -83.75012407989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a5fef531e24e3a14f208d57618bed89c227294e4",
-        "name": "Final Round Training Center",
+        "id": "817b73a1fecb9a5f3f98bd99fc45e2c1d0f7e33e",
+        "name": "Capoeira Volta Au Mundo",
         "opening_hours": {
           "open_now": true
         },
         "photos": [
           {
-            "height": 480,
+            "height": 492,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100862146392695955865/photos\">Final Round Training Center</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/112086773152481477157/photos\">Capoeira Volta Au Mundo</a>"
             ],
-            "photo_reference": "CmRaAAAAeuJVlFv9YekUycwPR4WuMfBvmgTvQgo8iKPCW3_EpQarsjh_hy1kkPrWEx6ws03JG0YI9UPR2PTX4zAa8qa0tcoExk2O36uRe7j9kOs7CkxKDuAVpPPYqhWE1mwJhUFSEhATp1PUnrO8WKdZOhiA0ZBNGhRoaEvhXNJ-GPRxqiME6zkt6icI8A",
-            "width": 1547
+            "photo_reference": "CmRaAAAA0p-teYKR7Kgiyk91o7OSOwmuUg9k0vlO941GQhwjGOo_sFYS8WMWXSc8Rk-0gHBt3TmZxBbfAU_HONfLj1ETemsAf6V09aotKqEe1D93Du0SUr1FfPRbSBLZ_EJXoY_IEhA_29ozQVNOsSogyTGk9vjEGhTcTF0lxLHOJ41gCiMlJdF0sTa9pA",
+            "width": 738
           }
         ],
-        "place_id": "ChIJax0CqvGvPIgR23hR-xk65V0",
+        "place_id": "ChIJjxUHnXNAdYgR-U3tqI_AfYI",
         "plus_code": {
-          "compound_code": "67J2+FH Pittsfield Charter Twp, Michigan",
-          "global_code": "86JR67J2+FH"
-        },
-        "rating": 4.9,
-        "reference": "CmRbAAAAAJRI9kQ3EBqFhmP30mJUGJIdvV6fd7ggM3kFPqdNLAMEW2al0Arbxls4N13bWE9Ay-ZgTKaouABmAqZ-w2pjoa7M4NM0LKp5SwHw8WESG1kOhZoa1mnj0QawVgjjIxOREhAH0_BFVVtRD3fuI96g-qEBGhQ48HHKsI5VnouASsehzSFsF4tF8A",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3770 Plaza Dr, Ann Arbor"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.230809,
-            "lng": -83.725053
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.23210912989272,
-              "lng": -83.72370427010728
-            },
-            "southwest": {
-              "lat": 42.22940947010728,
-              "lng": -83.72640392989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "bd14d01913483d0fe69d9638036e244cad2f1f29",
-        "name": "Ringstar Studio",
-        "opening_hours": {},
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112824694233871390615/photos\">SeeCory Climb</a>"
-            ],
-            "photo_reference": "CmRaAAAAzNzsFovTN9M0paLMdDiQilD-BmmDYZt0e2SE5DkCIAS2iel6i4nWvd_7uPvUJBs4wUMSGsTMzEH5i67vJj3THuGG2-zKO6bIXl3BpSeBfjPduPKx7klgwKm_MV1KZH4CEhCZzY8jPOg9hZGZZlf57QRPGhSB_x4Sj4eOL6DxSuKJUBcb2W-8Pg",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJ1VKwvpuvPIgRgLMWux4N9qk",
-        "plus_code": {
-          "compound_code": "67JF+8X Ann Arbor, Michigan",
-          "global_code": "86JR67JF+8X"
-        },
-        "rating": 4.4,
-        "reference": "CmRbAAAAlGMyFBIKH4qLTCPZQWsvsaGXLIfG9bj5BHNXmD31E_-uf8HRCyxoOZXS9XBANhu7-kZhCYc80faGi94SeNIvVrLk_v1Vwom_Buojq75Y3MupOCwqk__6ph7LvT2jNs3TEhDInOzNxV8cJwZpn9Dz-fJCGhRvufaCkbkJwMkTjF9yEx267rG8bA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3907 Varsity Dr, Ann Arbor"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5005072,
-            "lng": -83.3609625
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50184222989272,
-              "lng": -83.35958382010728
-            },
-            "southwest": {
-              "lat": 42.49914257010727,
-              "lng": -83.36228347989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108282838812664272157/photos\">Tira Prosa</a>"
-            ],
-            "photo_reference": "CmRaAAAAOsqaL7vhC3IaTcmfcD90nfIQiexZdXfYWSMWBkycOxbHufRj3n2Ekq-rEZNf1TWtY0hv76453otCnjz_sIzDs5Zq8lRZ4JoOG2T8doWqlmDH6LZdfcC1MHDj1R3PomCyEhCr0_wUDM2ifB8f45cTMnaiGhS3AmP0S3BcuLCZniIfGswuRvs-jw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
-        "plus_code": {
-          "compound_code": "GJ2Q+6J Farmington Hills, Michigan",
-          "global_code": "86JRGJ2Q+6J"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAihhnK1XHMErELS2hxVN50RbvzxtTBcsn1A1fnWr19c-o8xrlgZvL772XMLSDM0FwgqdUFRshq19aTt_5F29FQ_FaWkRxyigie-k-uSnlldfyObZF46s8tSq6OBomEvE5EhAumIcascfr-4aAOtP6GF-bGhQ9_gAIeNwevj_11WaA3oFIZxVing",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.52903182989272,
-              "lng": -83.35880832010729
-            },
-            "southwest": {
-              "lat": 42.52633217010727,
-              "lng": -83.36150797989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "plus_code": {
-          "compound_code": "GJHQ+3X Farmington Hills, Michigan",
-          "global_code": "86JRGJHQ+3X"
+          "compound_code": "M7JW+24 Chatham, Illinois",
+          "global_code": "86FGM7JW+24"
         },
         "rating": 0,
-        "reference": "CmRbAAAAWA-xrh-iH4mBLF54bMo0Q9mndmI-bxYoeCd_zmsgBpBVXo-MzmFer9stZd78zjAxoiNOrQuAOCY44MgEBrijZ-qeCbFeYpM92eIMMs59jX_EM6qZARBURWrIGr5GEKtEEhDKB1QESh-eAsnn11tLBD89GhT7UJ_RGucjrqZaTDnXMHEDKXEO_A",
+        "reference": "CmRbAAAAurAOIl_Ct8isAPNi2UXi8TTDSY6PD9ob-iVROllPUVd4qrtMFhRnDkIObZPyd4qPvyfN2IeSlm-6v8dAnX3gfLrvTBce4y1RmdJCeofRbd9GlhY22zNEEkJ24eMf6U-1EhAhRdsF9hpy8Ms28TjMzQZoGhTszcUlKSldOAP48sUQwzT0d4fZSA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.422379,
-            "lng": -83.176875
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.42366357989272,
-              "lng": -83.17565672010727
-            },
-            "southwest": {
-              "lat": 42.42096392010728,
-              "lng": -83.17835637989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
-        "name": "Tabcat Detroit",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
-            ],
-            "photo_reference": "CmRaAAAA5uPkFvv6OTBwjemK5Odyfs-dW1RlZYBw5RgRL5AqZINUx_HnqfJgPcBv8UGg8sVQEB-K2Zo0Y8aoRDNZMOYoa5DatIr2FKWbtr_wb3yF0DJ93C6fsH6zvtDkcsZ07_TeEhAgt8OVlFOvuREmQVc_n1OTGhQSkIIsxA7dp7-jfHXgGYIZtmQ6aQ",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
-        "plus_code": {
-          "compound_code": "CRCF+X7 Detroit, Michigan",
-          "global_code": "86JRCRCF+X7"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAQcaMuOB4M2jue5nODhwLLGFrwC6gsU2VCMupNfydLpM00tgv036GFLTSm7VMfidJwgdzo_Gsw8Yhu1iLpADXEeN6x2vOMH3XFPQA6vWIDZMF75hynPKDHsMzVY9B4eejEhBMbch4U2gnwu0d8z2wQlAZGhSpC9dhHGiW4C5lo9xsFX6PbmEB1Q",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "18018 James Couzens Fwy, Detroit"
+        "vicinity": "1 Cottonwood Dr, Chatham"
       }
     ],
     "status": "OK"
