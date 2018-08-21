@@ -1,20 +1,70 @@
 {
-  "city_name": "rochester-minnesota",
-  "city_rank": 246,
-  "city_population": 110742,
+  "city_name": "odessa-texas",
+  "city_rank": 247,
+  "city_population": 110720,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0121221,
-      -92.4801989
+      31.8456816,
+      -102.3676431
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 110720,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 31.8697646,
+            "lng": -102.3813412
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 31.87116857989272,
+              "lng": -102.3797568201073
+            },
+            "southwest": {
+              "lat": 31.86846892010728,
+              "lng": -102.3824564798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "45551cb3e3ea32424897c74439c3f43872d1ebda",
+        "name": "Vagabond Martial Arts & Fitness",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102873486593067998801/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAUJJuVpS6tQHidtJSi-gpnVlhZIR151t8PrFuqfcX9iWcuSnih70QkTSYvzZl0OVh0KDgFDiv-tAUSS5Ay1It5Z1PeLKm0daO88lAjMLsGpUFUsV9zyAST_GB30QmYBB_EhCC8cWZPtl-F9rmBZaD4dIKGhRFzpoNoooXumrach_O-B0MAfUwHw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJdRPm6ozI-4YRPGPeJC6T2w0",
+        "plus_code": {
+          "compound_code": "VJ99+WF Odessa, Texas",
+          "global_code": "853VVJ99+WF"
+        },
+        "rating": 4.8,
+        "reference": "CmRbAAAAnlKxpeEzSTJwF9UzuLldVRo-J4QjRqYVVfqmd54mfUz5GCLH9FDkVROgb115qMScaqNEp_ZjnMzAlC9xcsVqQ0lp8ySP5kHdNFnx7wXfjSAqpQun40rFYvFUwsiFaYUWEhC1TsV9IQ5AmCVwtSA29h8tGhQVVPfxoim8IudWGM6WZXBWb9gEJg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2809 Andrews Hwy suite b, Odessa"
+      }
+    ],
+    "status": "OK"
   }
 }
