@@ -1,20 +1,116 @@
 {
-  "city_name": "manchester-new-hampshire",
-  "city_rank": 248,
-  "city_population": 110378,
+  "city_name": "elgin-illinois",
+  "city_rank": 249,
+  "city_population": 110145,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.9956397,
-      -71.4547891
+      42.0354084,
+      -88.2825668
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 55073,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0061162,
+            "lng": -88.0823128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.00746632989272,
+              "lng": -88.08109592010727
+            },
+            "southwest": {
+              "lat": 42.00476667010728,
+              "lng": -88.08379557989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
+        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 662,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAl3JmvF8MvBiMaCgEQ7WTppXYGTsPDwDK2hB1enHfREVgx1CrzAtr52NWFEZeIiViETUApN-X4MyvwZk02y9A2EJzDed0lJCv3GG0uEwpsvV59GTGAOOlCAOdwshNOsydEhCqRi7zbGT2s_ZXM7nzx2AQGhRtqVALrsyMvQ90J9GN9_Kdqp-Iiw",
+            "width": 884
+          }
+        ],
+        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "plus_code": {
+          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
+          "global_code": "86JH2W49+C3"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAv45Ab0cyHmwaujkza8S67GcE84HygVf5VLBgjiXPLr25bXQz94dj5_gfC3sOeqk9hTc4g2IDokWXZCfs6abBkReDWDDEP2Kg1NFONPa57Mo7hvzBN8fCUBhIYXRecLjyEhBoeYYzFEsEX-A9CrvOnKshGhTbx7fzQq0dj8a-HsJKkCLKZ7gzWg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1154 S Roselle Rd, Schaumburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9133592,
+            "lng": -87.7112971
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.91470467989271,
+              "lng": -87.71019172010728
+            },
+            "southwest": {
+              "lat": 41.91200502010727,
+              "lng": -87.71289137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f815a0529f52aadd02844ea5176667327e59a652",
+        "name": "Capoeira Angola - FICA Chicago",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112600716914570676417/photos\">Anil Mudholkar</a>"
+            ],
+            "photo_reference": "CmRaAAAA7Td44gL-pxOGwxWbgTiJNm9oq6zi1703u95uX0hBDc8ALr6CSYLp6GoMdVURzE5s0qBxp07TE-iX7m6GmkYLgFZ-4DXg_u3fFQDbBSvMh5OYc9nfvl3MiBeCmqzZ5KqKEhA0Ee4fBCiijbU-_oAfvYlRGhT8j-1HZzxvKfCmEhwB8ZverUrgHw",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "plus_code": {
+          "compound_code": "W77Q+8F Chicago, Illinois",
+          "global_code": "86HJW77Q+8F"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA3TOibykbDageS0xAVV9-gNrDtkUmoxlb-HT8sEPtmHDVLBA3z44ojRY_dixCA0v_6ulhs5-386SDv1wJlY7FtPAVQU3Xl7yeposX4jlZc_Cjt-McGIh5EFnd_fhoeUEDEhC0xw7SUmhpIfdUuPNYvcMHGhQtcfMh_qwjhj9OI8o_KbuKsSZAbg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1757 N Kimball Ave, Chicago"
+      }
+    ],
+    "status": "OK"
   }
 }
