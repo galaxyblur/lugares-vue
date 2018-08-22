@@ -1,177 +1,20 @@
 {
-  "city_name": "fairfield-california",
-  "city_rank": 255,
-  "city_population": 109320,
+  "city_name": "billings-montana",
+  "city_rank": 256,
+  "city_population": 109059,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.24935809999999,
-      -122.0399663
+      45.7832856,
+      -108.5006904
     ],
     "rankby": "distance"
   },
-  "people_per_result": 27330,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.8968312,
-            "lng": -122.0679904
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.89829747989272,
-              "lng": -122.0667055701073
-            },
-            "southwest": {
-              "lat": 37.89559782010728,
-              "lng": -122.0694052298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e5000d63c99a232dcf738262d8631037949ae4a4",
-        "name": "Capoeira Luanda - Prof.Sabiá - Bay Area",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116516575096562565887/photos\">Capoeira Luanda - Prof.Sabiá - Bay Area</a>"
-            ],
-            "photo_reference": "CmRaAAAAturM1Hhqtg8JQUhGPAi_GQSy4JRJ2KxTO2RPhIAzrYEPcHoMs7gV672bhg0ZKtcxRqaJAqyoeFUy38UXTf2UQ_-ZNH0zqnd0ZvsFlRUeI_peGPob_9TP_nCuzsoXJEFZEhCuxU34YK4lsIgGzDowEE_jGhTMVyJM9lLQGu7NC41eOQWL0KZoKw",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJ8yVX35dZwokROMhyfuVLazo",
-        "plus_code": {
-          "compound_code": "VWWJ+PR Walnut Creek, California",
-          "global_code": "849VVWWJ+PR"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAA0dYXX7pp3QYP0EjvhiOcchkOfpHL4Zs95mZB1r_GwxACGSKfUcmWqhGYuljuV_MGHj30c_aPX936EpJXvVj87LHZ1B3w1UX11OwX18o300kGAfPiVdEi9CxLCy12bPG4EhDha8sn4dxlWiozelq60mFpGhQfRJiCxxbJ_YTrl-Ay5hI6l_jhqA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2029 Mt Diablo Blvd, Walnut Creek"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.8703062,
-            "lng": -122.2921361
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.87162462989272,
-              "lng": -122.2909399201073
-            },
-            "southwest": {
-              "lat": 37.86892497010728,
-              "lng": -122.2936395798928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9a5bb45f2100a3fc2d3fb05f4261f6750a205097",
-        "name": "United Capoeira Association- Berkeley",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJ4dCxo8F-hYARC7xZxocw_BQ",
-        "plus_code": {
-          "compound_code": "VPC5+44 Berkeley, California",
-          "global_code": "849VVPC5+44"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAMDLO7Ii2xyHN_R1OGFnrnGx5vXyUNIBW-asuSwYYjaXWhgr7SioF0WVwdMU0KYnCehSc7KmVpzih5B6othQ3Nscp40txI4I-IeqHTm4UpLXcYbCD16vo3q78SXuKwcozEhBNJwQtNm672IiXyaueGBJeGhRPi4nIr53Wx_uI2bBzrZWBkT2VjQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1901 San Pablo Ave, Berkeley"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.872133,
-            "lng": -122.301145
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.87346507989271,
-              "lng": -122.2998840201073
-            },
-            "southwest": {
-              "lat": 37.87076542010727,
-              "lng": -122.3025836798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "570f90a604ba9e5706eb0f0570beb32d45ebf995",
-        "name": "Capoeira-Brincadeira Viva Academy",
-        "place_id": "ChIJf6H8Gdt-hYARphbK52mfZMY",
-        "plus_code": {
-          "compound_code": "VMCX+VG Berkeley, California",
-          "global_code": "849VVMCX+VG"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAlcjezy85v5CafGjQdF7TwwzNs3H6ko-KyXOOZ0pHXOpgwMRmssRl6BOi0P-Q36PJV-Eu8xyUvtI3KjD2bKYUQhUs1h_svtq_i9j5Xjx6-3toNL7i43MHLkJxGH86RFujEhCgJvOBMQyUzSUeVhpbU-VHGhQRooA_f3zvOVb1rBTV2H-aujy0bw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1645 Fourth St, Berkeley"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.8354478,
-            "lng": -122.2508193
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.83693217989272,
-              "lng": -122.2498208701072
-            },
-            "southwest": {
-              "lat": 37.83423252010728,
-              "lng": -122.2525205298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8b110258b4aaf0f337f92cd004af5d2183ae305c",
-        "name": "CDO Bay Area Capoeira",
-        "place_id": "ChIJwXOlVu59hYARbLSzSRBb70g",
-        "plus_code": {
-          "compound_code": "RPPX+5M Oakland, California",
-          "global_code": "849VRPPX+5M"
-        },
-        "rating": 4,
-        "reference": "CmRbAAAAu4KXR6pDkSVgDjKUFgc_y3D_C2M5CfWpiMnxcoN0GjddsoLsTcXbHewTX4oeZ-4d_eWdp2Wlokik5iTyvITict9bdW85c042FwekiW0nszdUjSt4zkOms7-ZY-P7v40CEhAHTRRygVWgCpsfM-8n187fGhRRitQtL_4eOfVo22FVHUVPTL22zQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5212 Broadway, Oakland"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
