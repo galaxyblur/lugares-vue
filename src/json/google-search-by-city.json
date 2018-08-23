@@ -1,66 +1,20 @@
 {
-  "city_name": "clovis-california",
-  "city_rank": 296,
-  "city_population": 99769,
+  "city_name": "flint-michigan",
+  "city_rank": 297,
+  "city_population": 99763,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.8252277,
-      -119.7029194
+      43.0125274,
+      -83.6874562
     ],
     "rankby": "distance"
   },
-  "people_per_result": 99769,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 36.8124451,
-            "lng": -119.7457805
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.81944804999999,
-              "lng": -119.72433145
-            },
-            "southwest": {
-              "lat": 36.80515304999999,
-              "lng": -119.77298285
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "90a11da70f39f702f952ec5925e1e604388a50b7",
-        "name": "California State University, Fresno",
-        "photos": [
-          {
-            "height": 505,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109716482440556626805/photos\">thomas rodrian</a>"
-            ],
-            "photo_reference": "CmRaAAAAT_5RIVoyYUWgYFURivqus2kzpUC4gCju-Yn1G6BPPQj7pqntS3_vqsljQGv_bdLp32n9EDMfaUN15OqVPbpiY0o0n8STsVPwlzQyacYDqiqbFOMD_5_yDPHkm7Ovu39REhBbmj-7AJOm-iCmjEwTAmtyGhQTOIUX1m81kh5xKmRHE0D1UkvqNw",
-            "width": 760
-          }
-        ],
-        "place_id": "ChIJ2_9-TgJdlIARZiH9gCKzR4o",
-        "plus_code": {
-          "compound_code": "R763+XM Fresno, California",
-          "global_code": "8582R763+XM"
-        },
-        "rating": 4,
-        "reference": "CmRbAAAAjBdWIumlhFlicMkvCGxyPyOZkaiJjkzT7zOA-cU1hYBvEeHdehIhxlW-1IonoTvOtHvh51HdbFUQaDAB9wjCyx2vphku1sUd78KDi_aXG1TaukJpfaYWryUKJExG0eHkEhAzOCi3sLOmM4Hu08IND7QSGhT2HxfHlfnAvI_xwygDUoyBiK895w",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5241 N Maple Ave, Fresno"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
