@@ -1,20 +1,56 @@
 {
-  "city_name": "flint-michigan",
-  "city_rank": 297,
-  "city_population": 99763,
+  "city_name": "roanoke-virginia",
+  "city_rank": 298,
+  "city_population": 98465,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.0125274,
-      -83.6874562
+      37.2709704,
+      -79.9414266
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 98465,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.2703942,
+            "lng": -79.9519954
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.27150577989272,
+              "lng": -79.95067882010727
+            },
+            "southwest": {
+              "lat": 37.26880612010728,
+              "lng": -79.95337847989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b5e222a820ca94dc9fd9980a4d93afc85d55453c",
+        "name": "Local Colors",
+        "place_id": "ChIJSRcajLkNTYgRwjzM-Cwr5d4",
+        "plus_code": {
+          "compound_code": "72CX+56 Roanoke, Virginia",
+          "global_code": "879272CX+56"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAEWzYypz3y_kpOJjbQxSd8mzpufy12FgDQ9wLciiaNlAUcY6R4FpF8ZaqczGX4HdTFEcl7pmhBId9lO7vP7KWa788tO74rnFNsIW1NKh650JQUX9YzMTGFKSs0eJS-jFpEhBUF2MuGL78pA6UfntFOzfYGhS3Tvg4u6kUxpRpjrmB1i3YodHIWw",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "541 Luck Ave SW # 228, Roanoke"
+      }
+    ],
+    "status": "OK"
   }
 }
