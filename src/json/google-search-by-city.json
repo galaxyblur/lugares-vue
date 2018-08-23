@@ -1,20 +1,66 @@
 {
-  "city_name": "rialto-california",
-  "city_rank": 284,
-  "city_population": 101910,
+  "city_name": "las-cruces-new-mexico",
+  "city_rank": 285,
+  "city_population": 101324,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1064001,
-      -117.3703235
+      32.3199396,
+      -106.7636538
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 101324,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.2787745,
+            "lng": -106.7479059
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.28738979999999,
+              "lng": -106.72602965
+            },
+            "southwest": {
+              "lat": 32.26992420000001,
+              "lng": -106.77347425
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "025e83273efa387e049b46488baed922aa225b6f",
+        "name": "New Mexico State University",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107645499340191515013/photos\">Adnan Alsada</a>"
+            ],
+            "photo_reference": "CmRaAAAAyfpbb5Fr0qQ0EDNDlhQPxaVzbpRKDLqvnBSt92hC_R-lkSPBA_jU0LlwfyYN4jOeKFmg8ZjxBIc4GFgoZd6EpaarIC00L5qBqEKhRRn9JM2hoY7Nrpu9l0r5IOghQca7EhA5oGoKn2hLZDKM3FD5InbpGhTQG3t2geb27cKGphIKPlXicmBbxw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJUSrV6b0X3oYRLaANLbDiIek",
+        "plus_code": {
+          "compound_code": "77H2+GR University Park, New Mexico",
+          "global_code": "854M77H2+GR"
+        },
+        "rating": 4.1,
+        "reference": "CmRbAAAAV8uUrR9Uo4P2FPR_ne-doXOnLWGtFlPHmp9SXoh56WeVk4IuoZ6a7v0CdZvzxgnlhFg_T9EPcLgJx9taiaE7Io9hcD96IrIOWJPyTgUB8Z6IgkG3GQDnoUv_JHBoD3hXEhAMiD8meu2K-eMbIEuFxNVSGhS07vPW4-HHymXfGtqNRRSIWrWmWA",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1780 E University Ave, Las Cruces"
+      }
+    ],
+    "status": "OK"
   }
 }
