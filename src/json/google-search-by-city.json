@@ -1,162 +1,214 @@
 {
-  "city_name": "tuscaloosa-alabama",
-  "city_rank": 313,
-  "city_population": 95334,
+  "city_name": "livonia-michigan",
+  "city_rank": 314,
+  "city_population": 95208,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.2098407,
-      -87.56917349999999
+      42.36837,
+      -83.35270969999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 31778,
-  "possible_duplicates": {},
+  "people_per_result": 23802,
+  "possible_duplicates": {
+    "ChIJzzQArme3JIgRjk_h-QtjekY": [
+      {
+        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ],
+    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
+      {
+        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
+        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
+        "score": 0.9215686274509803
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 33.207943,
-            "lng": -87.569402
+            "lat": 42.5005072,
+            "lng": -83.3609625
           },
           "viewport": {
             "northeast": {
-              "lat": 33.20933187989272,
-              "lng": -87.56790862010727
+              "lat": 42.50184222989272,
+              "lng": -83.35958382010728
             },
             "southwest": {
-              "lat": 33.20663222010727,
-              "lng": -87.57060827989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0d4f25429b99f5f93c9100414544b49995185ebf",
-        "name": "Crossfit RTR",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1564,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110168814452972931666/photos\">Cameron J. Keegan</a>"
-            ],
-            "photo_reference": "CmRaAAAAoKBRs6WMx9PCn3jGZgll4Q1eFkcE9ndmLmea1JJQRyETApwOfGlx0VEi6t2lTWCXUwBQxRAIDBKab3IS8s4U5bDCDfvPpvqXqAWCcWEyJLOAd8l1Zxp3h8ql44gSNx-LEhBwPokTAEzipu95d18vdOMbGhQ1mxEEnedoLSKx2HThJolCLvlPww",
-            "width": 1564
-          }
-        ],
-        "place_id": "ChIJDSEVB-8ChogRTaDuW4LWNWI",
-        "plus_code": {
-          "compound_code": "6C5J+56 Tuscaloosa, Alabama",
-          "global_code": "865J6C5J+56"
-        },
-        "rating": 4.7,
-        "reference": "CmRbAAAAnREPWxWrFtsbH2fDzx-AU1bw1wY8X6uUDnAwSuW4AkCgRSrPIjsWlggSfyg8k4JkrgFGRcdThYGZVhxwip3uP4pd92FafQdH9qW2qu5oYxb_VthHDJ-7IycAaCVMtpNVEhB6HxFfdQyZa4f2qnhIa6NsGhQlMJY2mnYI8e1Mq5xIYA9BFPCPMg",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "612 Lurleen B Wallace Blvd N, Tuscaloosa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.198127,
-            "lng": -87.56155
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.19947682989273,
-              "lng": -87.56020017010728
-            },
-            "southwest": {
-              "lat": 33.19677717010728,
-              "lng": -87.56289982989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "fdf3018afe7394c7b9ca9591196b2c4a8c651d41",
-        "name": "CrossFit Tuscaloosa",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 884,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108541308908307967544/photos\">CrossFit Tuscaloosa</a>"
-            ],
-            "photo_reference": "CmRaAAAAw1YZWdL4ogmmXEI1G3BB9KuKWS3irV4El5luX6bdPZkzkd6hh6j-GVXwvIobqI0LR8ZuddAazvxAwaI7q4HOZcE3nkY_dxLUxbvMfZ46yk_8X-cBdfN9o0kRlOf_lKDEEhCgCyS1WaddKgbpGi3NUIl2GhQU7bTEBT0sSGEZH8D2Ca1bEn5H0g",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJSUasBvMChogRramvkSG5v1g",
-        "plus_code": {
-          "compound_code": "5CXQ+79 Tuscaloosa, Alabama",
-          "global_code": "865J5CXQ+79"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAA3qOGjM-XHKiY2ADOfMzlo7NfdU5_SqrMfPruAvuPAMUhMPNRtyliK-0R7Z65UDTQP1K5g10PpBEESJ5zxOy7cW0q0PNP0xl9EOIqJH_X1X9S5yve0o8HcsF8Kny9aODIEhDrahRnDqApBiHuTlGoEHZvGhSecmEN_RpGjm5haphSaK6yc-mcqw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2211 16th St, Tuscaloosa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.2140233,
-            "lng": -87.5391418
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.22974270000002,
-              "lng": -87.51505485000001
-            },
-            "southwest": {
-              "lat": 33.19733989999999,
-              "lng": -87.56355824999999
+              "lat": 42.49914257010727,
+              "lng": -83.36228347989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0311b7e603ae1a755c133a4d6bdc3940f24920ce",
-        "name": "The University of Alabama",
+        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
+        "name": "The Michigan Center for Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
         "photos": [
           {
-            "height": 2268,
+            "height": 3024,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101216743082299773656/photos\">Robert Evans</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/108282838812664272157/photos\">Tira Prosa</a>"
             ],
-            "photo_reference": "CmRaAAAAD6PgNSsocFJ7VqxVmU0iwIt9V7WMx9F_XpeqZ0PxtZ3d7G7rIprXTVpu_TcIL57zw1qP260OWP0i5aQEWi7RcJhaAsMWRS_eiiHviWlJy4Fdvsq_Kv6aCJOKubRlwrkhEhD71IZpHdGEDrokIFy6Dr1BGhQz9p4iNGM5hxf0I5fB85jo_6hZfw",
+            "photo_reference": "CmRaAAAAEXCjI2rErNbbsUhSD0dr7Jjq79O4484WOUsbht9F3YZ0hk-e-ngLZqRDv6yY7-MkGGL64M6ukirRmg5p48Jfz1R_m0QyZpbxwvxvWuJSZExM-AKUqr2gYM62egFP0mp9EhA73FxVW5fbrgI_beIJkMi7GhQ8XS7lNwV0SI0l7ovt6gLoU9Fu3g",
             "width": 4032
           }
         ],
-        "place_id": "ChIJuyDejJkChogREgmu26spDt8",
+        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
         "plus_code": {
-          "compound_code": "6F76+J8 Tuscaloosa, Alabama",
-          "global_code": "865J6F76+J8"
+          "compound_code": "GJ2Q+6J Farmington Hills, Michigan",
+          "global_code": "86JRGJ2Q+6J"
         },
-        "rating": 4.3,
-        "reference": "CmRbAAAACCVieNgMBAbz2QIX-Xg2CebqxtZztFOcQPfm4AkBTEGXHVJhI2Od91X8rMTw0uwEoy_iNKHIsLV7v44NL6IUOfKx-CBE_MSDqlH_glaqPLB703qVI3r53JbYR0fex8fIEhCcdLAl3zl97evHN3_C3hoaGhQzdXA6rKax_gO8bVtYXXqHSFgs3Q",
+        "rating": 5,
+        "reference": "CmRbAAAASJrRJMCdF2ZKqjgl40U_cLkl_uddIpumJcFalLa0PkMCjF8JlYQKecq6p6KdKsaRF8IGvbOe_7v1t2annR09dTq9g8MpjOkbezykBRmkIVQmrz13BEuSyaUwIPawzWbMEhDfnzVuvvaCkUCFZJWlZCTKGhSmiJxo0M46XUjiOKLhnB582pOm9g",
         "scope": "GOOGLE",
         "types": [
-          "university",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Tuscaloosa"
+        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.422379,
+            "lng": -83.176875
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.42366357989272,
+              "lng": -83.17565672010727
+            },
+            "southwest": {
+              "lat": 42.42096392010728,
+              "lng": -83.17835637989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
+        "name": "Tabcat Detroit",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAAnEfPAw5nEQ1I1SKG3xFWOy7eg85Rpa2igddsEgwqa59liLiwzcUm4vCAmBnFLrek5hrdQxG2Nh_tTz9ia1kFX4RutpLs1IAMv4iZ5QmuFfZNRk4z3veH8oCR__hNF8aaEhDu_wUpaFl3UKT1D00Sv0RkGhS1euOCmPMpAAhmEaqkjwuEzwABvA",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
+        "plus_code": {
+          "compound_code": "CRCF+X7 Detroit, Michigan",
+          "global_code": "86JRCRCF+X7"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAetW921aJZaT-9tdtDiGpDnKetVQ3KNQZdRKW9rD_v19biY1B-8-Cm5LYho4Ca8QY7TO9-t5qrxeBJAq-rgZJhuGpOe01_3YS7FQPsIHu0q8Cak0M_Qv0Q1m-L05ciH5wEhCsGMD8SEycUqK1De5m-mVzGhQjMs5wKIWcrhXYu2UT1oWznnmr-A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "18018 James Couzens Fwy, Detroit"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.5276867,
+            "lng": -83.3601159
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.52903182989272,
+              "lng": -83.35880832010729
+            },
+            "southwest": {
+              "lat": 42.52633217010727,
+              "lng": -83.36150797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
+        "name": "The Michigan Center For Capoeira",
+        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
+        "plus_code": {
+          "compound_code": "GJHQ+3X Farmington Hills, Michigan",
+          "global_code": "86JRGJHQ+3X"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAa5pEVstz6LFjWfkVx40bJCQzwyQED9GKeQnLpAb0q2h9wqoufqfCuqH44DcHHb5LAH1Ca_DSSjDts-rqM5UcmCApbbbdRe_8erHrdNqpKDdeXMSPTu2XX8F4fLrUdepzEhBwGlEyAo__9_WrRJUzswB4GhSsLelsYPIhQq2DwZYHufVkDKWZsw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.4602986,
+            "lng": -83.1370883
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.46177327989272,
+              "lng": -83.13574542010728
+            },
+            "southwest": {
+              "lat": 42.45907362010728,
+              "lng": -83.13844507989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
+        "name": "Capoeira Mandinga Detroit",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1626,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
+            ],
+            "photo_reference": "CmRaAAAAnX3xHCqeGNPErXIJ3vD7arINgZHHnjNrvoeEMxHTcmAG99zr0cfgg-LdFYrSPlBDtd3QnmtJPEz_c7IZ2lP6eS-JxjV_yeQNUhdRV-W4XVjIn7X76q7wkB4MyAPummDsEhDGGMcOLQHxpjls3as9FbJMGhR8mnuMTXx6ZJF-4bCAkrgoqryL3w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
+        "plus_code": {
+          "compound_code": "FV67+45 Ferndale, Michigan",
+          "global_code": "86JRFV67+45"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAfffW-1EGU-fN36AAEbx_8jUUE4QX3_YL1aMLZeW0kkipjXBddtkpNFJfGdtcsH7spwLMVn7wIkVvqfTkY4qSqk5Ue5ccOFd9aB9TpdaAfvZrtaE7_4sOyv0EpQaI0XkpEhCvtoJjxppsHGSHhNFlnh1aGhS7swUFTU4oje-ruSJ2SG7cxT2uIA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "247 W Nine Mile Rd, Ferndale"
       }
     ],
     "status": "OK"
