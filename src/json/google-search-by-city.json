@@ -1,56 +1,20 @@
 {
-  "city_name": "hemet-california",
-  "city_rank": 395,
-  "city_population": 81750,
+  "city_name": "longview-texas",
+  "city_rank": 396,
+  "city_population": 81443,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.7475203,
-      -116.9719684
+      32.5007037,
+      -94.74048909999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 81750,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9826289,
-            "lng": -117.3744353
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.98397872989273,
-              "lng": -117.3730854701073
-            },
-            "southwest": {
-              "lat": 33.98127907010728,
-              "lng": -117.3757851298928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
-        "name": "Capoeira Riverside",
-        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
-        "plus_code": {
-          "compound_code": "XJMG+36 Riverside, California",
-          "global_code": "8554XJMG+36"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAA047qfnZCojieb91ISfAal3YetsC8ox9T-j6Rx-oiLA_PuJh6DmYlGdD881lolX09jwpneZ-shSR1CCAPjfqxr7UQ2tXpIDFAYj3gisfsdrB9rgPPzfpY-P6d0P1qcbJmEhC2q1rIlHeDcOdhlWRkasUkGhQqslZp0mkU7h5D_1yMNl1jpXVY0Q",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3737 Main St #103a, Riverside"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
