@@ -1,16 +1,16 @@
 {
-  "city_name": "merced-california",
-  "city_rank": 400,
-  "city_population": 81102,
+  "city_name": "mission-texas",
+  "city_rank": 401,
+  "city_population": 81050,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.3021632,
-      -120.4829677
+      26.2159066,
+      -98.32529319999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 81102,
+  "people_per_result": 40525,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,74 @@
       {
         "geometry": {
           "location": {
-            "lat": 37.5144891,
-            "lng": -120.8260116
+            "lat": 26.2473053,
+            "lng": -98.24214169999999
           },
           "viewport": {
             "northeast": {
-              "lat": 37.51582202989272,
-              "lng": -120.8246620201073
+              "lat": 26.24891102989272,
+              "lng": -98.24074492010728
             },
             "southwest": {
-              "lat": 37.51312237010728,
-              "lng": -120.8273616798928
+              "lat": 26.24621137010728,
+              "lng": -98.24344457989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0ec2a8ac24b70abbb1e6aa16dc62348dc61f52",
-        "name": "Central Valley Capoeira",
-        "place_id": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
+        "id": "e25dda4c0375c931a30fd5bae91f43a3b618478a",
+        "name": "Framboyant Learning Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJf9J3C1GnZYYRB35d8jf6M3I",
         "plus_code": {
-          "compound_code": "G57F+QH Turlock, California",
-          "global_code": "849XG57F+QH"
+          "compound_code": "6QW5+W4 McAllen, Texas",
+          "global_code": "76R36QW5+W4"
         },
         "rating": 0,
-        "reference": "CmRbAAAAB039e5jvl4ClLcoAsRHg1X26Vj-iOtxpKJP519XB0EpXeTQBxYuaXllMWPYeMbNwAILmmip0U6Hu9EiLSbOVhjH8v0cS5EoH6QBYG3fBZ-v1WU_ezF5Pr79_uqz2gCp5EhADGlbUGLgzN4Ob4hmL01hHGhTt8BGgkJhUcTvM310fnm4fEyQJUA",
+        "reference": "CmRbAAAADVH1PFXyM4ZB3Pys3ObtW-hCQ09dUHn71lCxe59gFhB-KsTzhjzhXUqRgsR_xSf_n3eSw48d5zENeE1T59IqpNCiWFrl-DuJe4bOpvPLsO89yyQoLjtKvTkM5ugpsvBLEhBYxkR8Xtz-sCrFGtOw_XxzGhSDZYqpr1Q0C9FMjpWKvwFzVRn1Ew",
         "scope": "GOOGLE",
         "types": [
-          "health",
+          "school",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2006 E Tuolumne Rd, Turlock"
+        "vicinity": "2525 Buddy Owens Blvd, McAllen"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.2303908,
+            "lng": -98.2057932
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.23144747989272,
+              "lng": -98.20449377010728
+            },
+            "southwest": {
+              "lat": 26.22874782010728,
+              "lng": -98.20719342989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8b337739cc5420070404752dd5c4913a26a86b04",
+        "name": "High School Sports Magazine",
+        "place_id": "ChIJBQXn6digZYYR73z_1h8DzLM",
+        "plus_code": {
+          "compound_code": "6QJV+5M McAllen, Texas",
+          "global_code": "76R36QJV+5M"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAtw-WD_4v4u6Rr25nvNtd8Sc0eHGFEPXH1LMDVf4v24jj5_sSB1WG25LqH-CjAFrg66YsoVhJKBO5CEIjhn9AQY9KxIv1j_8lcYxceSVX9HirJaNWP2f6XE6nvBPgMLZFEhAt7sPaxEXD8AbioLWjN3suGhSmhfmy5v7cgUaUvdTKlFlii0RG_w",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "801 E Fern Ave, McAllen"
       }
     ],
     "status": "OK"
