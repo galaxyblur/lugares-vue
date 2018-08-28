@@ -970,7 +970,12 @@
     "location_administrative_area_level_1": "IL",
     "location_country": "US",
     "score": 15,
-    "website_details": {}
+    "website_details": {
+      "status": 200,
+      "logo": null,
+      "title": "Home",
+      "description": "Axé Capoeira is the ONLY Capoeira Academy in Chicago. The ONLY place with capoeira classes, dance, and music taught under one roof!"
+    }
   },
   {
     "id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
@@ -115826,6 +115831,54 @@
       "logo": "/sites/all/themes/wwuzen/images/wwuLogo.jpg",
       "title": "Home | Western Washington University",
       "description": null
+    }
+  },
+  {
+    "id": "ChIJfTGX_WnvEYgR0f65arIEHPA",
+    "names": [
+      "Lake County Taekwondo Martial Arts"
+    ],
+    "image": "",
+    "location_text": "2460 81st Ave, Merrillville, IN 46410, USA",
+    "location_coords": {
+      "lat": 41.4716214,
+      "lng": -87.36680679999999
+    },
+    "website": "",
+    "style": "",
+    "teachers": [],
+    "permanently_closed": false,
+    "schedule_text": "Monday: 8:00 AM – 9:00 PM\nTuesday: 8:00 AM – 9:00 PM\nWednesday: 8:00 AM – 9:00 PM\nThursday: 8:00 AM – 9:00 PM\nFriday: 8:00 AM – 9:00 PM\nSaturday: 8:00 AM – 1:00 PM\nSunday: Closed",
+    "location_locality": "Merrillville",
+    "location_administrative_area_level_1": "IN",
+    "location_country": "US",
+    "score": 5
+  },
+  {
+    "id": "ChIJvZ8axG0lDogRh7DAOV6wwlg",
+    "names": [
+      "Beverly Pagoda Martial Arts Academy"
+    ],
+    "image": "",
+    "location_text": "1856 W 95th St, Chicago, IL 60643, USA",
+    "location_coords": {
+      "lat": 41.72136940000001,
+      "lng": -87.66956669999999
+    },
+    "website": "http://www.beverlypagodamartialartsacademy.com/",
+    "style": "",
+    "teachers": [],
+    "permanently_closed": false,
+    "schedule_text": "",
+    "location_locality": "Chicago",
+    "location_administrative_area_level_1": "IL",
+    "location_country": "US",
+    "score": 0,
+    "website_details": {
+      "status": 200,
+      "logo": null,
+      "title": "beverly-pagoda",
+      "description": "Home"
     }
   }
 ]
