@@ -1,108 +1,72 @@
 {
-  "city_name": "mount-pleasant-south-carolina",
-  "city_rank": 446,
-  "city_population": 74885,
+  "city_name": "auburn-washington",
+  "city_rank": 447,
+  "city_population": 74860,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.8323225,
-      -79.82842579999999
+      47.30732279999999,
+      -122.2284532
     ],
     "rankby": "distance"
   },
-  "people_per_result": 24962,
-  "possible_duplicates": {},
+  "people_per_result": 5347,
+  "possible_duplicates": {
+    "ChIJ1Y-Wu2JokFQRCIwzgE8TXgg": [
+      {
+        "place1": "Capoeira Malês Renton Capoeira Malês Renton 4602 NE Sunset Blvd, Renton",
+        "place2": "Capoeira Malês - Renton 4602 NE Sunset Blvd, Renton",
+        "score": 0.8095238095238095
+      }
+    ],
+    "ChIJF_WdvGJokFQRfEAzq554Jjc": [
+      {
+        "place1": "Capoeira Malês - Renton 4602 NE Sunset Blvd, Renton",
+        "place2": "Capoeira Malês Renton Capoeira Malês Renton 4602 NE Sunset Blvd, Renton",
+        "score": 0.8095238095238095
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 32.859238,
-            "lng": -79.797057
+            "lat": 47.29919839999999,
+            "lng": -122.3232701
           },
           "viewport": {
             "northeast": {
-              "lat": 32.86066377989273,
-              "lng": -79.79560792010727
+              "lat": 47.30060177989272,
+              "lng": -122.3217119201073
             },
             "southwest": {
-              "lat": 32.85796412010728,
-              "lng": -79.79830757989272
+              "lat": 47.29790212010727,
+              "lng": -122.3244115798927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b9157796cf55c6cb6e98049f45cf85e04d6912de",
-        "name": "Low Country Karate",
-        "opening_hours": {
-          "open_now": false
-        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e028d3979a0d1438b52e5c47bf55b975096d64a2",
+        "name": "CrossFit Federal Way",
         "photos": [
           {
-            "height": 4032,
+            "height": 949,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101908818803443131738/photos\">Greg Goode</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/118367474631059062730/photos\">Mary Menard</a>"
             ],
-            "photo_reference": "CmRaAAAAubNIjiZRNIKAbw1yTZmmlTeVGAW-Z3zPMZ8QhGY7CFnmN9O1aLNCErHyAs0M0ZvyCHfqpeaQkgwfyVlEqLwPut6UVUAJmM0eXgQIQ0l8i8qshAYnpl_Ezb7bFUMjHU5cEhCGLmA4ifdCpoC-UUtMmHLWGhQZ68Q1a4oLTAF1Hm3y2_eHajMK5w",
-            "width": 3024
+            "photo_reference": "CmRaAAAA9zKZ9FlIWz4kODyqBNbLRNHX4LrUu4FhlouCCGim74QCHKRvr_9uorcWoRGhMjYsIMXjCJ_TcVRxdnrHBcPEPtl6W99lv8tCJIUH5nq3WLEBleqE9EpGSv2TqiAWsobZEhBABH8dKu9AxtKq7z6iVThJGhS2JX0GY9cyDcenlL2G38jaEDEmOQ",
+            "width": 1265
           }
         ],
-        "place_id": "ChIJWY4DRJJt_ogRxspGf6vdiTE",
+        "place_id": "ChIJ3wqPyLlXkFQRYrMCGhPsjyQ",
         "plus_code": {
-          "compound_code": "V653+M5 Mt Pleasant, South Carolina",
-          "global_code": "8742V653+M5"
+          "compound_code": "7MXG+MM Federal Way, Washington",
+          "global_code": "84VV7MXG+MM"
         },
-        "rating": 5,
-        "reference": "CmRbAAAAVhYdGLCCN0AbOG1fXwsFhlJgbRRwjCyZid5WXBinAgSTXNRPH-Ca-DpiRe4d96BNKoYsxpP-haAafIbdBF5I6NQxagBZRIluusjFqjCRcyjWoisBpposk6y0BwQQrYiYEhDMmeCokn5XPBQszV8ZKtqiGhTz3wEQI3DwtuuTLbhFLG7x01gIeA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1031 SC-41 #100, Mt Pleasant"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.8639761,
-            "lng": -79.7898154
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.86496667989271,
-              "lng": -79.78811922010728
-            },
-            "southwest": {
-              "lat": 32.86226702010727,
-              "lng": -79.79081887989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0ea44494b609438c89f23952a5440b71e417ecb0",
-        "name": "Palmetto Sport Karate",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2700,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116429390550203186413/photos\">Emily Madison</a>"
-            ],
-            "photo_reference": "CmRaAAAA5fjCDs9GWSSrEh4t2UEAcvaaLX7eisSLxPsVJLQr3hguqcWXR0mRQIkMyES9EItI2kunvRTMdupNtfkolIm_kURBr0ZEMgt4m-9xzMczsUDvb9eiaDBP9UagDtWys7KsEhCjAHv3jA33wvoH3tt6ZgazGhSrB6596gvEuqW91xF3JW0J_ra2HA",
-            "width": 4800
-          }
-        ],
-        "place_id": "ChIJg1qm5aFt_ogR61eQDnrJfsU",
-        "plus_code": {
-          "compound_code": "V676+H3 Mt Pleasant, South Carolina",
-          "global_code": "8742V676+H3"
-        },
-        "rating": 4.9,
-        "reference": "CmRbAAAAtXCRpY1WxhzXoglcP6LFuJxMApewIc8fPUhyvP2hsc4aG6-SfUbxBirxJ37yHKxcKvbMfp4sc0DF9IDDz2mCQ4F4e1bFUDIDEVnfgQZSBr6YG89qWRf3chDW-I88BpYIEhCrSwwSDFPGSEIcHy2NEt9iGhQh-80IRPW-dbeAVWVtA-9jF5AlIg",
+        "rating": 4.3,
+        "reference": "CmRbAAAA0yU7aa-Em6UkfjKCC4r8oyl7m4BtvTjSgNvR7_Ws4E0XMxXYYmUuHOHEP2r95nk2mCWkjKy5aAWHXkSBiFkJpV8ylDAZ1yADax8OPGuV8GPkZwlvm94nVx6KYk04_yVfEhCE0mzB1mlLTxzPiLZQ0L-OGhQFM5zQs9nNuLlhplxJndihMWYr6g",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -110,55 +74,564 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3040 N Hwy 17 b, Mt Pleasant"
+        "vicinity": "33753 9th Ave S, Federal Way"
       },
       {
         "geometry": {
           "location": {
-            "lat": 32.7899302,
-            "lng": -79.8762991
+            "lat": 47.4104537,
+            "lng": -122.2408229
           },
           "viewport": {
             "northeast": {
-              "lat": 32.79144192989272,
-              "lng": -79.87509272010728
+              "lat": 47.41216087989272,
+              "lng": -122.2392444201073
             },
             "southwest": {
-              "lat": 32.78874227010727,
-              "lng": -79.87779237989272
+              "lat": 47.40946122010727,
+              "lng": -122.2419440798927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9c4ec25669001848efa4e55950723850269ff895",
-        "name": "Capoeira Academy of Charleston",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2f11c627848f163cff31d67e2ffa9b0675f0c32c",
+        "name": "Kent CrossFit",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 431,
+            "height": 1152,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102562765097942142511/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/104159572205849904616/photos\">Kent CrossFIt</a>"
             ],
-            "photo_reference": "CmRaAAAAlb3BTsy6ryo8O_50JFKg4Gt1cMuh9bIefSOrVV0wTzQftPiylapLf4Z4RzPSTTLvuiehWOC3vCJJBcy_3LpMaWlMeCFTc0rlXFvxFpT5OgIcyskgWh1VYqMtx5tOcYvcEhCtA89Fmq3luV_dVTfWr583GhTmRf-0DtYquTgtX5TUyE8D64MO8Q",
-            "width": 911
+            "photo_reference": "CmRaAAAA_ljisPewxXtJvBD9kj55Qf4hXtH1ZcqHmcIZG_mKG4Ccbioz6qF0pHCngMfc8-QpEwuIinbrHooz--BFuU1jYQ4qqNEfl6rbhqrH8_INpleP3v1NUwrkdoHkwkqPtBLbEhDy0K03PhBy4r-_Imn6GS_mGhSNZyEHkXoczlI-goUADvFKfu0bTQ",
+            "width": 1156
           }
         ],
-        "place_id": "ChIJRREXkeNx_ogRwpaOD3zZJF8",
+        "place_id": "ChIJM2_ytG9ckFQRrTqOGjHB_ag",
         "plus_code": {
-          "compound_code": "Q4QF+XF Mt Pleasant, South Carolina",
-          "global_code": "8742Q4QF+XF"
+          "compound_code": "CQ65+5M Kent, Washington",
+          "global_code": "84VVCQ65+5M"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAPFpYmMGcpU4iWKAvmYpV5IpAvwsYoCRimQRIIU1EXXntfGDmWhD_cfmvizVGEmxa9vsnv2Ks4r1_im5i8IlPCSMmnQJvUPtp9eOn9_JRfBejZQHIKRyOgob6HRGSMynZEhBgLKZ2ZNomhW7lj8NFynrMGhQ_dROR-M2bndmVW2iVKUMy9BYnLw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7405 S 212th St #101, Kent"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.4328435,
+            "lng": -122.2477764
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.43398212989272,
+              "lng": -122.2464237701073
+            },
+            "southwest": {
+              "lat": 47.43128247010727,
+              "lng": -122.2491234298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e92c5583d7fdde0e2529b48412996f3c734daa40",
+        "name": "UCA Seattle",
+        "place_id": "ChIJLTgrh-1ckFQR0xQHxXl_YY8",
+        "plus_code": {
+          "compound_code": "CQM2+4V Kent, Washington",
+          "global_code": "84VVCQM2+4V"
         },
         "rating": 0,
-        "reference": "CmRbAAAAk1mg0Cu2UrXcBwx4JRTpAYT5GKzUsTeDz2JvJ9b8c3VSIF5vT3177SImu-tme45NR83-OyLOWUBTQRPatT66gaqFYWptufv6TpY9JsSGGsdrNK7vwZdgXZTWtiatK9nlEhCdTIW7VqrqUIFgzPHpEXHtGhRFBpxYS7ICkobIMb3dQBcDNuUF0w",
+        "reference": "CmRbAAAAJqLrkGIW85jY2YRrarso2UEj0hK9VU3d-EHYKXgKMN_OyzrmDvnjDCLQDSXf1z1s3DUoxi7TezkE3YIiVrAA5LgjSN0sDYXvL_mkBDb7meFPRUTOn7z_ExaxkLZyocImEhDE2IDWCZ77aGOBVN7muXVGGhR5z9FKEAMLTn2-09ROOkSgqQLk_A",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6822 S 190th St, Kent"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.254811,
+            "lng": -122.4423251
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.25617972989272,
+              "lng": -122.4407843201073
+            },
+            "southwest": {
+              "lat": 47.25348007010727,
+              "lng": -122.4434839798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6765d4530c1f57fbf69a46dfea04417f1251378a",
+        "name": "Tacoma Capoeira Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108566144111458725837/photos\">Tacoma Capoeira Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAaSUpQqrMLQn5kKPEcpeEh3MSdr35YGvEdpfFExZyBqea_LBDzHD9WJMtpypsUWv-KVXKjbwDcdkgAdRHyBjCaday7Du4YDnrz148bJ1v_5fhCe8BomX87M-YnxtMdWpfEhDUjfZN92iQ8eNL1j_hlBsLGhSGGg6oC-c4BWM9Q3t0IaFR-CzvfQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJj_9PdwpVkFQRNl6dfRGZbJE",
+        "plus_code": {
+          "compound_code": "7H35+W3 Tacoma, Washington",
+          "global_code": "84VV7H35+W3"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA963yRYot42l4jjbHHTCowU3WiVntlwP45blHq103314BpC-ht0ckafHAeZtcxwHxxlFAP1tTK3IYEW6S15_2PtfPGhFK_xXydPblAFUrfFK7OPqW4hO3B6Wfln1k3HjJEhBAYf8ImULrn-ocGdBNaP3iGhSpFwgSn9Zaj4aMjAmsb98jQ09SfA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "419 Hibben St, Mt Pleasant"
+        "vicinity": "902 Market St #308, Tacoma"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5055226,
+            "lng": -122.1578687
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.50678107989272,
+              "lng": -122.1564531701073
+            },
+            "southwest": {
+              "lat": 47.50408142010728,
+              "lng": -122.1591528298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2272e11d9f6ca68623c46ef4f0c87b0a4378ce6e",
+        "name": "Capoeira Malês Renton Capoeira Malês Renton",
+        "place_id": "ChIJ1Y-Wu2JokFQRCIwzgE8TXgg",
+        "plus_code": {
+          "compound_code": "GR4R+6V Renton, Washington",
+          "global_code": "84VVGR4R+6V"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAsMoN6fF7GcuslrevvKQuvfkHOPyftIGWRDobfwQk12I7PWvQTblfGVEBE-laaFlrTnt_0kzUOjhj708DOdEpHJsaURO8b-0-uLRtIEfXEalx7nlZk7zkCePxchy4u1gGEhBOd4JVAhv3AA8d-zzerTtJGhTpKjJOuvKl9JV_lKTjnbu_LIdWIA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4602 NE Sunset Blvd, Renton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.50552709999999,
+            "lng": -122.1578799
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.50681977989272,
+              "lng": -122.1566758201073
+            },
+            "southwest": {
+              "lat": 47.50412012010727,
+              "lng": -122.1593754798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7a403c33db7bbab6952f37eb13379a0f9260d4ce",
+        "name": "Capoeira Malês - Renton",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104998568969488043890/photos\">CAPOEIRA MALES RENTON w/ Professor JABA .</a>"
+            ],
+            "photo_reference": "CmRaAAAAdHDhcMij0YDPDoK3TKJHLN7OfcA7sd4soi4B5yDbREmPeayQkMlHt4V0yL26oKZkNrYY-wGzWge6WGhbnUi8jIuDLE8KsjtdZMrDO1ybNWEfyotbISosfuhYVy2U_-KcEhAjERw5DAzGeKmnudcws1jwGhTq5PQBhBhUoVMmLOtE7JmT_Cx3ZQ",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJF_WdvGJokFQRfEAzq554Jjc",
+        "plus_code": {
+          "compound_code": "GR4R+6R Renton, Washington",
+          "global_code": "84VVGR4R+6R"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAYJWB2BC5-yHG2DN9dLrJ6SciJolNHZWapt4kFwNqGWy_WwlfcXLG4KGk4-vx9vTZmUIbDznYMnaPxnNr904O5JV3isr76fu3cO5aZTo4TvI2YqxnVyBOtYBqPyyBfC_lEhAcIObZGBonmRnTsHwUvmsjGhTbATpKw7Jx2y2NX5NSvIzZeEJ28A",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4602 NE Sunset Blvd, Renton"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5205874,
+            "lng": -122.2625932
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.52172027989272,
+              "lng": -122.2611936201073
+            },
+            "southwest": {
+              "lat": 47.51902062010728,
+              "lng": -122.2638932798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "50cf405a342432c8ad327ab3e0ed6029781dd06e",
+        "name": "Água Benta Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115018396996348692478/photos\">Água Benta Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAohAAq_w5SDlngTCCfZmYoEZeddC6ddr5O8xK5e4DYF9f7k4ScUSZfvPtTanOXPLtdZMW4IGroArKwyzdfxuNrpF2wCHS0orq2b6YLAG_-Els7WWF0fNa0N9QoYyWr7BhEhDogbRvZZF7Ma9qTeev-GiHGhTwCYoxY_cbXmtZxa_aWgGa4RtsCA",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJCbtyYw1qkFQR1V8cEH3zrGQ",
+        "plus_code": {
+          "compound_code": "GPCP+6X Seattle, Washington",
+          "global_code": "84VVGPCP+6X"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAArJFxp_yBNauQ5BKBiMIX9rmjVU7oIhCREG0XaFsetSUdYP6oSBzNTZF1BOIip3N0yWrfEwp1LRUOwa6u_LCSOdaWCms8pbSSYtTJscUl22UMX4hVj7g5bbc0SkgWiEgSEhDW1vyokx1LL6JVtOsQVcWSGhRdWtBiqrSoovAtPRPa9jb-X32ppA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9460 Rainier Ave S, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5772748,
+            "lng": -122.2977025
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.57867712989272,
+              "lng": -122.2962011701073
+            },
+            "southwest": {
+              "lat": 47.57597747010728,
+              "lng": -122.2989008298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "595976ed220fb6da8ccaa4f37b428acb97e0d924",
+        "name": "Seattle Capoeira Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101638517339801215750/photos\">seattlecapoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAz7s4BTbgJdOQj0d3PLZ7dF4a12keMyKi0JWBnFsXJJjZ0vmB6MrLYlszN8IEbGbalK9nbVbyz8Yib_BMIyDDEX9JD5KInsLAQi1nRZqPm2Vg7XMQRqrCwY3rm3T0-gNbEhBWmTQ1I1-g54_XS6iGGHgRGhTz4zJCkTEheEWbVtdRPOcab-EWEg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJOR4rlJRqkFQRs2rPPpk54bI",
+        "plus_code": {
+          "compound_code": "HPG2+WW Seattle, Washington",
+          "global_code": "84VVHPG2+WW"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAAKu8r30--GanjI7OjCnsTUgunsiR3gC1r2XTthBDytn8-CHhme7C_rhxkptGg0ybMAqRaRLMmhIE0JbkPwNs97Oj-_7-0Wt4UnpqfEdJQdxgi6VHzW44qLm3Q3NBSV2wMEhAVzAqUwBAQqOqFR6s9n32AGhQ4W_90SCifVuItyztM4X59HQkQhg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2909 Rainier Ave S, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.5757123,
+            "lng": -122.3204992
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.57707337989272,
+              "lng": -122.3196153201073
+            },
+            "southwest": {
+              "lat": 47.57437372010728,
+              "lng": -122.3223149798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6864fcdcea9b1ed494e58182b02b10f04c577b8b",
+        "name": "Capoeira Malês Seattle",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106708897472044113557/photos\">Capoeira Malês</a>"
+            ],
+            "photo_reference": "CmRaAAAAFjGwOh7eAZp4hXKT8rrMExIk_cBLZYzbP6S2o8L8zm6Di7Nb4y6qmUb5d42zVkFD1T-ViQWqDf4mZ-ZBaoWDiiCkWrYXOOY113DsezEaA8ObOS1pL0o-D8nugO-zOqQaEhAzq8PEVmMRVPdXAW4v34U5GhQbhsaZOgFjqAP8KgP6K6oYlvS2Ow",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJM4yMJoBqkFQRw_BBUsDob0w",
+        "plus_code": {
+          "compound_code": "HMGH+7R Seattle, Washington",
+          "global_code": "84VVHMGH+7R"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAx4kslmmPi86a7UUSgtLfhI3AIRK_5mc6UphfLfT-Dzp4Ck3p357y7x8pLJcULpoBcMGiN9A3Oap7g3ayc-NFpo38HwK7iirB7IlvQO5whtaWFywPViW4Wfru9GA-UNOOEhC_goTK9IZHRpT1vH6EZbKFGhQqlauT-oBBe7-vAlaSJLAAplODBw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3150 Airport Way S, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.598153,
+            "lng": -122.3222683
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.59960067989272,
+              "lng": -122.3209191201072
+            },
+            "southwest": {
+              "lat": 47.59690102010727,
+              "lng": -122.3236187798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d7781dbf3a1ec9ac1f6bbd2906a90cff0f34b727",
+        "name": "International Capoeira Angola Foundation",
+        "place_id": "ChIJTdMyMLxqkFQRw-AI3nQATow",
+        "plus_code": {
+          "compound_code": "HMXH+73 Seattle, Washington",
+          "global_code": "84VVHMXH+73"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAO03hX_ApYRTrRL33igkaFJrCX1VbTlu1UYGGTfvPuyVmHlBsp3UZ_3hEWJGV_vNVQ509SLDxNZf_g-EDYRIKue67OGHtyzK1PcRTduY2WjQ2b3uTG6soNcOjD-quUYAYEhCS8HrX8BlqMQAlNT11SOZpGhTkohqGnjnXZF4crFQTublYGMPJXw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "803 S King St, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6076951,
+            "lng": -122.3021127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.60904492989273,
+              "lng": -122.3007628701073
+            },
+            "southwest": {
+              "lat": 47.60634527010728,
+              "lng": -122.3034625298928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "53c9e28ebf70f0dcc07a73a6a20598177a71beb7",
+        "name": "Omulu Capoeira Seattle",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1369,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109644007448311548204/photos\">Omulu Capoeira Seattle</a>"
+            ],
+            "photo_reference": "CmRaAAAAyndmg40sc8gZZFS6jSXTMz3Z0gCuEpvd00NFzaNsuUeZQr0nRiarLrykhLu8UWNkO8aib3MnqMm_sk5cJLA1K4tJQqkZaoEQTSsRZnMfr-QdA32Z-U-rxp2kWs2JQ30OEhDkkk1XGYI7K4l9HbkKEclmGhRYjZRhtmuozjP_9gu08jcdIQ_Ojg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJb69wattqkFQRVgmLR0UvHnA",
+        "plus_code": {
+          "compound_code": "JM5X+35 Seattle, Washington",
+          "global_code": "84VVJM5X+35"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAnBz2ujzlnqjoby7d4QUi7Yn2BUdG1LahHI3bWOPgLq8gZiAXKMoswGnv_LPCDJVkL8etUgSoiJg-G5z1DCic1ly1uhQfRgM41MHDXY3ksdNtIbpQS4xN6Kjv25PNHK-cEhDj9FrYQ9t9XKSAkopDLax_GhT-oDEPhCg4lX5PRzNSliqxXNp9yA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "415 Bell St., Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6216543,
+            "lng": -122.312301
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62300567989272,
+              "lng": -122.3111352701072
+            },
+            "southwest": {
+              "lat": 47.62030602010728,
+              "lng": -122.3138349298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d914b5d566c01276ad7e44705893c7d1c3e6ba16",
+        "name": "Fenix Capoeira",
+        "place_id": "ChIJBW_niYoUkFQRl46cRxLol5A",
+        "plus_code": {
+          "compound_code": "JMCQ+M3 Seattle, Washington",
+          "global_code": "84VVJMCQ+M3"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAALGG1ppm-O2dN9OGnrzG7zDHCANAOLX6Y-3YAQkmE85qkSkaLb4TpUCbdKqJAcycfruRkObB0j3-GpbKxD03fAFMpg2eJKl6B8xDknzuYTeE4_3qKhExyAYQWO39vvvPZEhDTwBEJAWNDuMElq1YKGjiEGhQf3htYJp1jrtYZKv-bi7mobr91Qg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "340 15th Ave E, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.6216589,
+            "lng": -122.3123532
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62300872989272,
+              "lng": -122.3110033701073
+            },
+            "southwest": {
+              "lat": 47.62030907010728,
+              "lng": -122.3137030298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "631c3af78ecb57db01b3ebcc1ebc2c545d4c9a22",
+        "name": "Fenix Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ4xOJIFsVkFQR7LREEa5FvYQ",
+        "plus_code": {
+          "compound_code": "JMCQ+M3 Seattle, Washington",
+          "global_code": "84VVJMCQ+M3"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAALwNoCjPhNXX2a4W8SG-SoPdEvGgH-JlAFQlGHAUQei-jFMTm3Bd6iOLeZQDMbShiaYNXoCovZWCk1s8N36XMlaEPUilad3a67m58OWgybWMQv7c-q-9VU6YOFpv1n_YbEhAll-y44U02R3Q68lOD78hBGhS_YTIbf0vttM16HSjfXJITtFtyKw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Dance Underground, 340 15th Ave E, Seattle"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.63283089999999,
+            "lng": -122.1378364
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.63417947989272,
+              "lng": -122.1365612201073
+            },
+            "southwest": {
+              "lat": 47.63147982010728,
+              "lng": -122.1392608798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "8293207cbb8d28844b11a1d5df2bea1fef427990",
+        "name": "Capoeira Eastside ( Redmond - Bellevue - Kirkland )",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115669512095889065493/photos\">Capoeira Eastside ( Redmond - Bellevue - Kirkland )</a>"
+            ],
+            "photo_reference": "CmRaAAAAWfNReXzEp6pYixbsMsrQwqNqDt-gyKEeoiNAegK-Buyy1iH6chVSZrDqjbqTPZxB7Q7JdN_KYTFbTRHK-K6giwHEPUCmWmoqgch6JvFrCzHixGNXnvivYZ_NOG90xGq8EhBGLdGiAk6pSD7--rNTkW_JGhQvbhelap6m8A8iyiOpAYT6wNNfkA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJl7OUJwptkFQR5MHJS9VsFWs",
+        "plus_code": {
+          "compound_code": "JVM6+4V Redmond, Washington",
+          "global_code": "84VVJVM6+4V"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAA6maSIgpXxDXfmKneAspQun2UuY3R5gUU66Krn8exh3TECxVM8J5byzmaVX0m2JUWpeJBfrGWS-p4PPy5caIFq4kYWC20npfXQLIaxQ4nPFjALY5mFWhncYHVPw8WMi5wEhDFW0Gclbz4ImItNFZw8YejGhSdWwOKskh0jVPa9Pd1vHo9lXXjOg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2505 152nd Ave NE, Redmond"
       }
     ],
     "status": "OK"
