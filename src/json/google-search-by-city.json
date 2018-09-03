@@ -1,16 +1,16 @@
 {
-  "city_name": "redlands-california",
-  "city_rank": 486,
-  "city_population": 69999,
+  "city_name": "santa-fe-new-mexico",
+  "city_rank": 487,
+  "city_population": 69976,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.0555693,
-      -117.1825381
+      35.6869752,
+      -105.937799
     ],
     "rankby": "distance"
   },
-  "people_per_result": 69999,
+  "people_per_result": 34988,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,83 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.9826289,
-            "lng": -117.3744353
+            "lat": 35.6830039,
+            "lng": -105.9580105
           },
           "viewport": {
             "northeast": {
-              "lat": 33.98404782989272,
-              "lng": -117.3732326701073
+              "lat": 35.68436417989273,
+              "lng": -105.9565805701073
             },
             "southwest": {
-              "lat": 33.98134817010727,
-              "lng": -117.3759323298927
+              "lat": 35.68166452010728,
+              "lng": -105.9592802298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
-        "name": "Capoeira Riverside",
-        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
+        "id": "494401953b95c0f4d2decb272be36616a63f31de",
+        "name": "CAPOEIRA SANTA FE",
+        "photos": [
+          {
+            "height": 554,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107056963162033737558/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAn-015NTAy0WdiT5KJk56WJW_Vn4xoAtmNFfumKQ6pVBOeFS81X75B4kfL8W_XJ79RE9gRbeod9lRkDJRsVjZh0SFON3L_eIAGFhBPguojFigKgqWyF5FhIsyqo9MU_GaEhAFojtwecg-6oIkoHnMECi2GhQpt_hSS7LJ-897VBjgTAAWZYKbLw",
+            "width": 831
+          }
+        ],
+        "place_id": "ChIJj9fc9G1QGIcRTDD6Sp-gLMA",
         "plus_code": {
-          "compound_code": "XJMG+36 Riverside, California",
-          "global_code": "8554XJMG+36"
+          "compound_code": "M2MR+6Q Santa Fe, New Mexico",
+          "global_code": "857PM2MR+6Q"
         },
         "rating": 0,
-        "reference": "CmRbAAAA3zJJ7DdAITIG0Y_rChAmNRCcLb2N1Q2Ke82WfmHMWepbgGe5xgLpjK8nkTgzmu4L3TOdPpZRoYeEL3P6EaTlKe-5WowDnGO4OIG1Y0b8gF2XzZ6d9KWo5UGFzF36S2SKEhCCluPHTfjAy3LyQvRnTUsBGhSPR87Y-fz4dCl4XkfGFSpyhXm6jg",
+        "reference": "CmRbAAAAqNfqqx3HZpmfrUWazKEMqpdnNI9OJtmfI434_22otsg6qws1XmB021CSfc7NPMmnyQuonPt8_9PauPvDxDtf09L1_VBaQ9llAR6S3ke7OXIiKGKsJY1Lvi9nd321monHEhCSwgBRlRRn4kboE4SX9yYuGhTSNgM13e27FpZN_Hc5FmGPSZL3eA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3737 Main St #103a, Riverside"
+        "vicinity": "501/503 Kathryn Ave, Santa Fe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.613552,
+            "lng": -105.9972095
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.61497252989272,
+              "lng": -105.9958651201073
+            },
+            "southwest": {
+              "lat": 35.61227287010728,
+              "lng": -105.9985647798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "84d54265e77d0b72aad07ff70e07dea1bf056360",
+        "name": "Berimbau Academy of Capoeira",
+        "place_id": "ChIJ79j8lYtZGIcRjNKB8D2XnEU",
+        "plus_code": {
+          "compound_code": "J273+C4 Santa Fe, New Mexico",
+          "global_code": "857PJ273+C4"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAxnBLA6flrGvNP8KM72UuiZq2oq_4IzHBQJZ0h3ciLCI1LDJUIHCk8bCzm0NbyWCKWGv1k1QWODDUaKkEgK5QqID8rLwK0TykpC4_9ZvKiM2OMignkjzjPV9odiqob5hpEhAA91ENSaXz9Y1UhDw1r78uGhTPFY6tQwilsa1a1ZGs5LRleMsuWA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "52 Oshara Blvd, Santa Fe"
       }
     ],
     "status": "OK"
