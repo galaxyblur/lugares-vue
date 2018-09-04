@@ -1,70 +1,20 @@
 {
-  "city_name": "portland-maine",
-  "city_rank": 519,
-  "city_population": 66318,
+  "city_name": "st-cloud-minnesota",
+  "city_rank": 520,
+  "city_population": 66297,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.66147100000001,
-      -70.2553259
+      45.5579451,
+      -94.16324039999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 66318,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.650068,
-            "lng": -70.35825299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.65122397989272,
-              "lng": -70.35650097010728
-            },
-            "southwest": {
-              "lat": 43.64852432010727,
-              "lng": -70.35920062989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d1b70422f6078066fb9511f37ba65547262d2e60",
-        "name": "Maine Warrior Gym",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104316520501309560182/photos\">Maine Warrior Gym</a>"
-            ],
-            "photo_reference": "CmRaAAAAIYOv_4aFDu5f8QuYjBW5ni4ZHDEjQ5aUVxUmU4AAqRK_M788W7uAxTt1Il7GQ4B2eldcpWwad03dy9jZNn93SRaHC0k73enZSYP1quAxxgu1fm104tagb2oDK9hWrmfkEhDwOSrltdbluo0-fbdUW03uGhQdwfDEVyPIP12ZubYfzu3DNc9taQ",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJF671So6ZskwRfJ39SYU05rw",
-        "plus_code": {
-          "compound_code": "MJ2R+2M Westbrook, Maine",
-          "global_code": "87MFMJ2R+2M"
-        },
-        "rating": 4.8,
-        "reference": "CmRbAAAAqvWP0d00x6eUFQpn9akQLAWHAoaeHtj6W49h1-dv7-mVBME638f24-jTpes6KZTRXOhKVZwYDPAGC1vewsyiigKIhrRKIDjozeXppmBpC0muV33SV5DzwdSuWdwqFoM8EhDZAAtjyW22vgc36SqhsFDoGhREmPvn51W-oWfF6rlDEmeBpqidew",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "865 Spring St, Westbrook"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
