@@ -1,20 +1,114 @@
 {
-  "city_name": "lodi-california",
-  "city_rank": 550,
-  "city_population": 63338,
+  "city_name": "new-braunfels-texas",
+  "city_rank": 551,
+  "city_population": 63279,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.1341477,
-      -121.2722194
+      29.7030024,
+      -98.1244531
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 31640,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.595588,
+            "lng": -98.573627
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.59697387989272,
+              "lng": -98.57229917010727
+            },
+            "southwest": {
+              "lat": 29.59427422010728,
+              "lng": -98.5749988298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eb551fde4e924bb09788d397bf6fda64dc2506b4",
+        "name": "The Brazilian Capoeira Academy: San Antonio",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 949,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115026856917618533563/photos\">Nathan Advogado Sparrow</a>"
+            ],
+            "photo_reference": "CmRaAAAAP1stEiTE2Ye0fMNlWd3yocot9n21QZdYsMm8Z_8mL8J3fx4KKmUnJcZVRHeTfmPI45Dg8Qs0QDntAKdx6BafnTyskgKpFJluB5sf4h49-yGHRyGB3sE985tyy6oDjwIZEhBCnirbbamHjmEVLjAg-GSXGhT6cJ99-qCdz2M2vPUyLdleuglZWQ",
+            "width": 1265
+          }
+        ],
+        "place_id": "ChIJzz7jvmZgXIYRiNTX9KKJ42g",
+        "plus_code": {
+          "compound_code": "HCWG+6G San Antonio, Texas",
+          "global_code": "76X3HCWG+6G"
+        },
+        "rating": 4.5,
+        "reference": "CmRbAAAASObBUeEl-8uNRqt9BoMdCEkn76UEumZyHsbzeFyC22AzQMAzlbE2y2u9ZdGl02BMg1cPAihjvrQTOWsb-ot779Fyo6pN816x8p5M-DScdttVfQY7ZAxT_83-33d6yBLQEhCc_phBlMe8uY831W6BlW8MGhQ5r4tHqJcw-w4Tu4G9tjzKRhsZ4w",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4553 N Loop 1604 E, San Antonio"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.4511831,
+            "lng": -98.50537299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.45245897989272,
+              "lng": -98.50402312010728
+            },
+            "southwest": {
+              "lat": 29.44975932010728,
+              "lng": -98.50672277989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7b783d321c15cac9d6a86e4b133f3c5c23fe7995",
+        "name": "Capoeira Luanda Ile Bahia San Antonio",
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105951575263282405733/photos\">Henry Malone</a>"
+            ],
+            "photo_reference": "CmRaAAAAJqVk6dPwXVP_eQqELTpZYTbHOSIn9Y1QIFYUtdvtvy965A9TsoTX4Ia2_2Zv7E40cV601uMnfbdRQO9k13a-r4Gm2DTFdUI2Gn_2Vo3wGwb7-IybCUrWCFMCrdSW3z2iEhBG9T4qyHv2fmI3BRlSjAbfGhRgH7Y5QIw9VmysXWSGl0zr4EtP5g",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJMS9WOmtfXIYRXbvzKaX2rkE",
+        "plus_code": {
+          "compound_code": "FF2V+FV San Antonio, Texas",
+          "global_code": "76X3FF2V+FV"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAACj1NiMT8SqHqOrCYoA4m59q1tjzdxdHLj69R2fy4QEsp2AJU7AfAR137gjws_YymJN039Knxxx5g8tmfympAYBV-AompCC50bY9HEUYiRvkyfuyzplQ65TetRZ-2oNFPEhDpE5Oq5MXqWbjZLTt0goHkGhTGGeQKuVE31952LHDFtPEY_TFKbQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "925 W Russell Pl, San Antonio"
+      }
+    ],
+    "status": "OK"
   }
 }
