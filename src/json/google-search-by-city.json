@@ -1,20 +1,97 @@
 {
-  "city_name": "madera-california",
-  "city_rank": 554,
-  "city_population": 63105,
+  "city_name": "conroe-texas",
+  "city_rank": 555,
+  "city_population": 63032,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.9613356,
-      -120.0607176
+      30.3118769,
+      -95.45605119999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 31516,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0538019,
+            "lng": -95.4860411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.05532047989272,
+              "lng": -95.48481702010727
+            },
+            "southwest": {
+              "lat": 30.05262082010728,
+              "lng": -95.4875166798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f852fad29fe28a931cfc0e0295bc62dced4b6ef3",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJiXjaSBPNQIYRE2a82Kzr7yo",
+        "plus_code": {
+          "compound_code": "3G37+GH North Pine Business Park, Texas",
+          "global_code": "86263G37+GH"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAhkV-3q0g-7J9oqhzg3L0aVcR1nOMaRpnp7BTLO_EI-79wTMb-viKEuxi_di0jQs352JvlGgNE-B6npI4q_-qXnZXoZZCZTyQW5E6taC3GTSI4wWNPbc9a87qk3vxzhRXEhDkQE0j-CwKgCXYCA2h6lArGhQ9LJWuq-idqKshwtBLqtDT5cbSxg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Rd, Spring"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.9979223,
+            "lng": -95.5093029
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.99904987989272,
+              "lng": -95.50779102010726
+            },
+            "southwest": {
+              "lat": 29.99635022010728,
+              "lng": -95.51049067989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dbb67b8c95b5054e06a002441a3c44defb826bb",
+        "name": "Grupo Cafu Gingado Capoeira Houston NW",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "plus_code": {
+          "compound_code": "XFXR+57 Century-stuebner, Texas",
+          "global_code": "76X6XFXR+57"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAUyGcntoDOM5XMa8KqCmeklupYup9bug136hR20ee1-YE3zWeSc5IZP1Ake7nRKjLtkds-8T9q_WdUfs8rWhpFsD8GkQjFmQkf8vT4hd7lWF8MzhjDSSVRQMire_3kj3BEhBKMBwX9Wv2ss66CLlzpW5GGhSPIxfZylVVrNNpAdDlhWPxejoW0g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4622 Mittlestedt Rd, Houston"
+      }
+    ],
+    "status": "OK"
   }
 }
