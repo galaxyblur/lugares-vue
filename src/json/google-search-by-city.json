@@ -1,20 +1,136 @@
 {
-  "city_name": "utica-new-york",
-  "city_rank": 567,
-  "city_population": 61808,
+  "city_name": "ames-iowa",
+  "city_rank": 568,
+  "city_population": 61792,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.100903,
-      -75.232664
+      42.034722,
+      -93.61999999999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 20597,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0266187,
+            "lng": -93.6464654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.0652312,
+              "lng": -93.62237435000002
+            },
+            "southwest": {
+              "lat": 41.98486200000001,
+              "lng": -93.66673894999998
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f402e57ed52e131a74d4eebcc85e78e997822fad",
+        "name": "Iowa State University",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114017937998801241258/photos\">Iowa State University</a>"
+            ],
+            "photo_reference": "CmRaAAAAhQrDOyb97dyZHCnzZJ0ymGiMm4PEALSAyyh1Di73ro5sbYlCLkNxxptVPsDwVTpoe8ZR9kefqSOzWqcx2MBkPo3gvow8wt9Vt1CvAYbBCP6Ud4qjUFoVGk-HQI8eD5AdEhBkQf1ivoD2UMNwAuAgUleVGhRfPBv9NfP0mdHTbugztoSuNGiFdg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJGVshXgp67ocR6Els7jrt2Nc",
+        "plus_code": {
+          "compound_code": "29G3+JC Ames, Washington, IA",
+          "global_code": "86J829G3+JC"
+        },
+        "rating": 4.5,
+        "reference": "CmRbAAAAgMQWYLvN8L0rn8_TW0r-wKMAYJ6YfZ7anGjv0brZicqm-d5-7CesPiYecojCgAyL6975swqwyAVh1FHvn3GmLhvM-caQhzH7NKN3uZJlHdPV7UIm58IT6TRAzqsee2rAEhBMP-2uGwPQfaQooTMrogLwGhQDfCBAjzTslnkGQP9HxhPhOF8b5g",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Ames"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.013527,
+            "lng": -93.67033500000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.01463247989272,
+              "lng": -93.66867207010728
+            },
+            "southwest": {
+              "lat": 42.01193282010727,
+              "lng": -93.67137172989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3f532974a94426f31cc283ea7049e506fc29759d",
+        "name": "Ames Parks & Recreation - Taekwondo",
+        "place_id": "ChIJXYA3c_t57ocRHUgXte7u_b4",
+        "plus_code": {
+          "compound_code": "287H+CV Ames, Washington, IA",
+          "global_code": "86J8287H+CV"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAArZ_mkEvnitB0Akn4-z4PJy9HBmbUEwtYNrgsecKVGp18encyYBxhPNTlwJo6wRCw573VdXHRNVPddOVpIQwzUewD5WrzlDDc1bObWhDBwv3Dob3OlYQak3txdhIbSba1EhAPvYPV3lL3EqatfUuX_EWGGhS0GEyP4lsxP3F8cHwIbnXiWlYr2Q",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3915 Mortensen Rd, Ames"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.60720999999999,
+            "lng": -93.62751899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60855947989272,
+              "lng": -93.62650387010727
+            },
+            "southwest": {
+              "lat": 41.60585982010727,
+              "lng": -93.62920352989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
+        "name": "Roots Capoeira de Ouro",
+        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "plus_code": {
+          "compound_code": "J94C+VX Des Moines, Iowa",
+          "global_code": "86H8J94C+VX"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAb2oGN5HRZFbGTnRMRHDwOqBxWLxs-W3u_1qdnhC3hgql12HuWB0wQ4lkTRm7Y_IpG0Ba3zT5kOT1jTnyVTW7HQ82StGV8gWnRujCr4vdaDz1FqhJ2rxYPFzWFyZ8T3nIEhAc-aDM9TI4gG92kGY6HNNzGhQsrMU5w6TCfFc1_P0-VSf2fKmZtw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1541 8th St, Des Moines"
+      }
+    ],
+    "status": "OK"
   }
 }
