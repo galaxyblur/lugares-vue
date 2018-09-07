@@ -1,20 +1,69 @@
 {
-  "city_name": "great-falls-montana",
-  "city_rank": 604,
-  "city_population": 59351,
+  "city_name": "lancaster-pennsylvania",
+  "city_rank": 605,
+  "city_population": 59325,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.4941836,
-      -111.2833449
+      40.0378755,
+      -76.3055144
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 59325,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.0398272,
+            "lng": -76.2465319
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.04144317989272,
+              "lng": -76.24515557010727
+            },
+            "southwest": {
+              "lat": 40.03874352010727,
+              "lng": -76.2478552298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0965c0c66dcec7675c3b82fb3cd35d40d58bbf40",
+        "name": "Taeguk Taekwondo",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116101851593219246507/photos\">Scott Kuntzelman</a>"
+            ],
+            "photo_reference": "CmRaAAAASnbfbR1PmQ-L6Al8j_J-1JeMp12009u4BFFOHuK99RGzxvIR_f6p1b712eF5wmsE7drKIYFG7ZmQuYxjhxzRfEThfgvrOjhjewij9CuvZprocTUqG9ilUdcNaXM_0mw1EhD1WTEhhAD-sp2smtjrZO5BGhQx5OCJPb5ICJSDeZI8brVelG5WUA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJc2X1IWo7xokROtJyZuauXD4",
+        "plus_code": {
+          "compound_code": "2QQ3+W9 Lancaster, Pennsylvania",
+          "global_code": "87G52QQ3+W9"
+        },
+        "rating": 4,
+        "reference": "CmRbAAAAxTz_7suMp0SazMHHLiZc1Ayy3GD1164K_agSKHc6i8weEqYnjgYRSWSxEbY4RO71FIVjyABkzSZPGobhD6ClOf7mXVW-Bi11Q-3TptBJr33_m-BY5W2O_TpIFZC5HlCWEhD97LoqFQq-b0qufoQqxfW1GhQeakZ6XzyBhzyy9ViOGSlIyV2NXg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1980 Old Philadelphia Pike, Lancaster"
+      }
+    ],
+    "status": "OK"
   }
 }
