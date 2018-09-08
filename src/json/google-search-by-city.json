@@ -1,152 +1,40 @@
 {
-  "city_name": "royal-oak-michigan",
-  "city_rank": 610,
-  "city_population": 58946,
+  "city_name": "des-plaines-illinois",
+  "city_rank": 611,
+  "city_population": 58918,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.4894801,
-      -83.1446485
+      42.0333623,
+      -87.88339909999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 14737,
-  "possible_duplicates": {
-    "ChIJzzQArme3JIgRjk_h-QtjekY": [
-      {
-        "place1": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ],
-    "ChIJC-UnAG26JIgRK81nlORB_RQ": [
-      {
-        "place1": "The Michigan Center For Capoeira 48034 Orchard Lake Rd, Farmington Hills",
-        "place2": "The Michigan Center for Capoeira 27881 Orchard Lake Rd, Farmington Hills",
-        "score": 0.9215686274509803
-      }
-    ]
-  },
+  "people_per_result": 5892,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.4602986,
-            "lng": -83.1370883
+            "lat": 41.9527072,
+            "lng": -87.7174405
           },
           "viewport": {
             "northeast": {
-              "lat": 42.46177327989272,
-              "lng": -83.13574542010728
+              "lat": 41.95400757989272,
+              "lng": -87.71615257010727
             },
             "southwest": {
-              "lat": 42.45907362010728,
-              "lng": -83.13844507989272
+              "lat": 41.95130792010728,
+              "lng": -87.7188522298927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5d78beb2c4008cd5d271394224c927fd946d147d",
-        "name": "Capoeira Mandinga Detroit",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1626,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109448609176242451446/photos\">Capoeira Mandinga Detroit</a>"
-            ],
-            "photo_reference": "CmRaAAAAqMn5kroZLsv7KnyXGn4uv9LHpoirBIDXoa8h40qOHSRcr16uQqFvrkW3nwZ_6ibfONc_0igybVIjB9AO6ipEU0Z4KUxw-Wwa3qNTwP5Ie3R09rPqtYW9BBy96Iq0WH29EhBGadVm0xdYp4Sq8dlBuurWGhTzng9gFCRuICpTj4Bt9b2Xk8RUNw",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJwZb2y-POJIgRnVwX4kCW10g",
-        "plus_code": {
-          "compound_code": "FV67+45 Ferndale, Michigan",
-          "global_code": "86JRFV67+45"
-        },
-        "rating": 5,
-        "reference": "CmRbAAAAOm56lp7S6dSPUOZRw55InDAMLQzClE4h3LmmWWmN_xLKkrEbRC14DPTttUBibS7634ie_uLMrqzpupgZfEDreOOUuURmALieiNIIkO7U3GE91rroQCHSX8glIBL_qUCREhAE_bfqk1S8r25sw2OZR-aAGhQq3im88AeO8qpsvisDE5c2jol8aw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "247 W Nine Mile Rd, Ferndale"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.422379,
-            "lng": -83.176875
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.42366357989272,
-              "lng": -83.17565672010727
-            },
-            "southwest": {
-              "lat": 42.42096392010728,
-              "lng": -83.17835637989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "94a5323bdd600c87e669a3a48cfeac29926d7b0e",
-        "name": "Tabcat Detroit",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118199746941999508149/photos\">Tabcat Detroit</a>"
-            ],
-            "photo_reference": "CmRaAAAArA0gkr454qm5hgalEuZg7TsAY303qNgEqc9yqdUzTL8t0EMOj8Y5w9CJLiU_GNP5D8lqzN4pyQuycCe36sNFrZi7WzCPIjmbH1bJ58zcIcJHS5q_r67gbV0NXVyswlzgEhABU3SvbuXrXuaXI5y8iNREGhS4mcbrOwQF56tv_kNxTItgaLlKng",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJAXa8kmrSJIgRjKdw13k9Eck",
-        "plus_code": {
-          "compound_code": "CRCF+X7 Detroit, Michigan",
-          "global_code": "86JRCRCF+X7"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAA5-Hy3e2k9-ZQe7xlkF_YdMa7udVcdqbPjCpYSAXZo5MQqw5nNseXFXo19eb0X36M0-tKqYzjqX-0WPQr2Pgjy6zG4u7ReWbyxcH8doVfXBYkH3cwlBIEakn8gFX0jj1iEhAZ-H4BI1Bn641ruTtBO-1QGhS0i0h69yXGiv_VQ3e0nB3wCSncaQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "18018 James Couzens Fwy, Detroit"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5005072,
-            "lng": -83.3609625
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.50184222989272,
-              "lng": -83.35958382010728
-            },
-            "southwest": {
-              "lat": 42.49914257010727,
-              "lng": -83.36228347989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "57c1407e5b36ed2dd5c22525d63fea9b93507d14",
-        "name": "The Michigan Center for Capoeira",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "48b84744a8082dee3071ae6f1ad90e1a98a1d033",
+        "name": "Capoeira Maculelê Chicago",
         "opening_hours": {
           "open_now": false
         },
@@ -154,61 +42,450 @@
           {
             "height": 3024,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108282838812664272157/photos\">Tira Prosa</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/103250731506876909876/photos\">Girino Capoeira</a>"
             ],
-            "photo_reference": "CmRaAAAAOvNR8ffBn_25nGu_PrVJSN16z9U8M2wnrevOMseFWetpB71ZXxDOMKzXea99XwFZOKOi3AkvUUfoMG1YBbLhcScxzVOS_WArryPtoRiq8NF5IvbSvJj_5eTgPEnEaeWBEhB2cdD_Fx0-jwd7Uhs7qk5fGhTbkRqyiceHJl399T347Ke7SrrFeg",
+            "photo_reference": "CmRaAAAAtAmesbPDiMpw2tcGHdfUSLVyrrQ1OvHk5DlDTtnNkSvctYzjzLFatn53CgulgDM27tI1YdAOQkfKmcPDgf6wP_1Nw_bj0n1XznWVlwhvWTWWHch9WOgXTQ_IUXquBOplEhDPJgQ6EdKHQEIJQZ2_NI8IGhS979PDebTOjsILzxJQPaxoFz-AXQ",
             "width": 4032
           }
         ],
-        "place_id": "ChIJzzQArme3JIgRjk_h-QtjekY",
+        "place_id": "ChIJoWEPH77ND4gRCzl1wU8ntEY",
         "plus_code": {
-          "compound_code": "GJ2Q+6J Farmington Hills, Michigan",
-          "global_code": "86JRGJ2Q+6J"
+          "compound_code": "X73M+32 Chicago, Illinois",
+          "global_code": "86HJX73M+32"
         },
-        "rating": 5,
-        "reference": "CmRbAAAAHK_H-wnOZfJwaEMjiyKjh4Mu1p2nIkq3ElI31dxPYY7oBDsvrBnjrpdFsjZVX2jtJa8xeeqvFQCQ6ZttAxljhx-eRksDRrAJr8i57zH-0EV5YujEtiVn4M3oE0VNZwcwEhDlcp-sNKM6qRvWu6VXtJdCGhRz6kOjcbJ2wGCMWivgi5sGHdPpiA",
+        "rating": 0,
+        "reference": "CmRbAAAAzflQRgqXWNNLMaXXcGrdY-KoUmfDwc5ap-JryYTe-wV6uN8Wm2XjFYNuVGbmn2g-6uk2Koz4H7IDDm4x6KKLITNpfgG_swhptp2TZpOlXa2MTdV8iBvUMTf2ZJOT4uAYEhBbx7BBctKBkP8MLvN7NamYGhS9IVsASmCvEPPa6qRDFmCCba_fMg",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "27881 Orchard Lake Rd, Farmington Hills"
+        "vicinity": "3933 N Elston Ave, Chicago"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.5276867,
-            "lng": -83.3601159
+            "lat": 42.0061162,
+            "lng": -88.0823128
           },
           "viewport": {
             "northeast": {
-              "lat": 42.52903182989272,
-              "lng": -83.35880832010729
+              "lat": 42.00746632989272,
+              "lng": -88.08109592010727
             },
             "southwest": {
-              "lat": 42.52633217010727,
-              "lng": -83.36150797989272
+              "lat": 42.00476667010728,
+              "lng": -88.08379557989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f1ca72839bf83615265ec3010290cc8c9b2ccdda",
-        "name": "The Michigan Center For Capoeira",
-        "place_id": "ChIJC-UnAG26JIgRK81nlORB_RQ",
-        "plus_code": {
-          "compound_code": "GJHQ+3X Farmington Hills, Michigan",
-          "global_code": "86JRGJHQ+3X"
+        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
+        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "opening_hours": {
+          "open_now": false
         },
-        "rating": 0,
-        "reference": "CmRbAAAAB09OxpPrWdXc-GjGcwUeV9cl_gHt0bm9t_otxX0S8Uz7ZzpRgDcPMjDhZxqoBOsb7ymWpPsc1h_TgCPr9g7KNglYrDcbUUBwUr_Q_dFYD9TKcFGLdSxD9Zz8O0QM0Po9EhC52Wchg9u3RhM3vIzeDd61GhQZr7PuYMCWHW4M5ZkCYnScgSyGig",
+        "photos": [
+          {
+            "height": 662,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAATGLBVWJEfmzHxgA_rkv_tmLnElUIems2GVwHgTUDWf8rR6U-MmGOyG6ZQLlUh9TRc_rKxUOnrAqKzd_6ucCM-m4KV4dEw_6QUAcxGK-pf6lWeaCtZS3jlAOF4evRwF2eEhCQaH9IcTHDE31umG_VQzDMGhTCZwslxOmJI-D0cYSwcd3z7SO-Uw",
+            "width": 884
+          }
+        ],
+        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "plus_code": {
+          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
+          "global_code": "86JH2W49+C3"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAqUpFrBh7HwP3n7yB6q3w05WpwAgFtA2vRefmRQurpeiLdVqGl4xjtDmsaGrVq5zGg_tOZ8YpQp7OdaNjwMRL9bjF0djvZXWtVdD1QZYXLo8CcYMwmJQqnn0AEqQZO9xrEhAdMABY3NVFnNE0HZ4AYqSCGhQMvONEdeB4Yucer4UakAnUVwR3Dw",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "48034 Orchard Lake Rd, Farmington Hills"
+        "vicinity": "1154 S Roselle Rd, Schaumburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9581325,
+            "lng": -87.6748333
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.95934667989273,
+              "lng": -87.67347952010729
+            },
+            "southwest": {
+              "lat": 41.95664702010728,
+              "lng": -87.67617917989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
+        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2532,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center - Grupo Capoeira Brasil</a>"
+            ],
+            "photo_reference": "CmRaAAAAsyVwjauJM1r5mF_BpnPEZoxCi5iNPN33c0ALHrgLWaFK1AOAm6UuJXtEJF_q-obhIesy9RFR_BQjtkQFktSDa0xAOfr37NgDEaRQQ6KW4UO6Y1JnCAwBZ72dMKizUriJEhAEaMvjtvazI6KOG5Zs_8nsGhRYfOwMtu7ZuMo3Uh1do-PsDtk1vQ",
+            "width": 3555
+          }
+        ],
+        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "plus_code": {
+          "compound_code": "X85G+73 Chicago, Illinois",
+          "global_code": "86HJX85G+73"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAbszl-7CaMcmwf_r-ySfzQVzj93UvSxkQo8bHjySwIPmH2DVwY_5NYmHpdScT8Gj1VItHwvRlAMy9w1LY5Mrjm6HxvqCbXmqbnbTg3p9JH6kcGMsU63_KlAXkqFhCVlarEhAkoT2ETKgRD1tOq08EaqtJGhR45OwPAJR1C0fKqJHU2QSBtlZIzg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1802 W Berteau Ave #215, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.991912,
+            "lng": -87.654746
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.99325562989272,
+              "lng": -87.65374082010727
+            },
+            "southwest": {
+              "lat": 41.99055597010728,
+              "lng": -87.65644047989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
+        "name": "Herança Cultural Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAGqyU6yVtpBUtZWj7uAMHnOyiRjJDyJrylt7HIgOGCJk7NgxE0jCmF6M50sPWZ-UWGrUM-UJ0p07dOuMrO7wqxsQ9xAHmR0kpNvWn_TxXW-9XhuX6_XF9ZF9BerOxgOxXEhBsahDD1kiWFbp3tpL8CG6xGhTXarRygNglAt2zoadfo9l0JinsSw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
+        "plus_code": {
+          "compound_code": "X8RW+Q4 Chicago, Illinois",
+          "global_code": "86HJX8RW+Q4"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAwTvs4UHQDvqT3nKMLwZ9DbwTjHYJNkVDfdqvydJD8M6Storqtc3f1hMctjJzcBwjWdHLWoqGhsvlnzU_n8__CiNyNQbpLTp3e7C5zeF4PIPJvyIVkBny6bzcnV4u1D8PEhB-YqxteEh6oJlxC3tCjb0bGhQk6MRcgpgahN6upjhQASfOb5oixg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6033 N Sheridan Rd, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9133592,
+            "lng": -87.7112971
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.91470467989271,
+              "lng": -87.71019172010728
+            },
+            "southwest": {
+              "lat": 41.91200502010727,
+              "lng": -87.71289137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f815a0529f52aadd02844ea5176667327e59a652",
+        "name": "Capoeira Angola - FICA Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1104,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAaEMPkW2ZozJSs5n3XVZxOvBF5ds15xsO-rxt13_UWXvpu0ADjHksfaI553naq2RKnmmAEJMKKhP4Rb_-4GGj7OujcrXnm7yNjQwqKO0UEkZKyHhz7lnTYQbMTJ0QEjTEEhDsmrIeyXHSKmusieNJTIPyGhSzcVzPm8l5DuYIIdxI58EWjNVp_g",
+            "width": 2566
+          }
+        ],
+        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "plus_code": {
+          "compound_code": "W77Q+8F Chicago, Illinois",
+          "global_code": "86HJW77Q+8F"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAbs-9Q-Vqg09-olew2F52-iocRAg6BO9Hxlx9UT4zGRQzykTHIhc0slg49q-5pGHjzajTCug8Yc4NK1QRUhehwCQzFyE8Hl-NAvebF0wfLH0u7lr2w_AYJCpJwf6ZGmaaEhD77KP4uB_csIRvG7pAb5YiGhSMI-G08HvA41uMteMzI6kxwshELw",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1757 N Kimball Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9401434,
+            "lng": -87.6548612
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.94137002989272,
+              "lng": -87.65350977010728
+            },
+            "southwest": {
+              "lat": 41.93867037010727,
+              "lng": -87.65620942989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
+        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
+            ],
+            "photo_reference": "CmRaAAAAB_WL_OaqMYRbbTBjOFk5b4G0KZI_nvXrUVXZdpAK-cby4lj0b45TloixCmqEoUMqwLokVeondE8syWOf_GohrQAAwOxQOfnKZvE88wUhwbKxpcr_R33Rw_c169Z8HW9tEhAzA-HgZHiZsE2jcJLhLlMbGhSgFcSXhQttb373-DGCd19nYDmb4Q",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "plus_code": {
+          "compound_code": "W8RW+33 Chicago, Illinois",
+          "global_code": "86HJW8RW+33"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAoIbWDis0Efb_d2l7a6r7EmpGYst2lfZJLbzdYa3eKECp311FGB6jmFo2CE5dtwWWPA1Ne0T6dDRlaA4kXX0unk4ZjskuLdP68rfTkCjABd3qEAMXb3EAYMXx_fVFtfayEhALpxGujuNbP-4Y98xBRpd1GhSiQFeGkDdAEAt7oYQJRL0dQlatIw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 W Belmont Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.835181,
+            "lng": -87.7930772
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.83653212989272,
+              "lng": -87.79163937010728
+            },
+            "southwest": {
+              "lat": 41.83383247010728,
+              "lng": -87.79433902989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0b3b995feb9513199999c779cb7d2b54f6a48caa",
+        "name": "Ahimsa Yoga Studio Berwyn",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107158596584495313721/photos\">Ahimsa Yoga Studio Berwyn</a>"
+            ],
+            "photo_reference": "CmRaAAAAQJP9AZVeF44iB_jCQbcYDHFfnw-AYVPNdSIdi-1UsipdwiOeS4JyR5D0tISe1nxCn8qEs_LDSxV2Fhax0CybkW5tP1_OWgVOdxfcw3LvbIbdn0l26Xzw202iAM6uRkxxEhBr3DGt_ZsY0903ixp_FTSAGhSkHti0aa64lUkdMmfZfollyg0c6w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ5Z3NNxQ0DogRDeeYeL8QfYI",
+        "plus_code": {
+          "compound_code": "R6P4+3Q Berwyn, Berwyn Township, IL",
+          "global_code": "86HJR6P4+3Q"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAAXL2jLqAqW3Um1fnTuGzMaDRZcR_8M4ES7hTko8It952IrM-dTsgLlJsBSiYOwUjpwRiwKjFKEx03ZLKUV7fuvbIny1N4dkNrtpfpo-gRmZsLjx4iKSRGGRh0uUI396IMEhAu3DxOgFWn7vHZ5kCowuvcGhQsyIlWsSjZKLioOI4epm0hu41zBQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3120 S Oak Park Ave, Berwyn"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.8959299,
+            "lng": -87.66653989999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.89736097989272,
+              "lng": -87.66519237010726
+            },
+            "southwest": {
+              "lat": 41.89466132010728,
+              "lng": -87.66789202989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
+        "name": "Axé Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 683,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAAi7_aOOb6LeQ4TgSw8trFIdgpYU3WhsXwYAkfoRKrRJTV4XRi-XWKd9oiaJpyfaDz6-d9D9E9IedgSA4wPrud7ewMwX6yOq57DK3hH9VAB9CNUic0-72fKXgUm6YpM5wFEhBL666_PPPvKQVXLLjbqmVPGhTBvvtpB_rI_5VfYGTwv-oH0vwYRQ",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
+        "plus_code": {
+          "compound_code": "V8WM+99 Chicago, Illinois",
+          "global_code": "86HJV8WM+99"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAA0m1iFnloROm4CGaDkSgBqw66oa-ygD99TfE2KSO_tiocUa74VYCH50ZQo-U5tF8VnYv-Gfl9vR4B9BPU50ajON9zY9neuTNjZO1XSf-j0KQH65lOcTCarViBQMZDK6GqEhCGXABRd2QdixU2AAEHbOf9GhTbG3fYtOaBDtYGoNbedI2M63jTng",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1543 W Chicago Ave, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.901196,
+            "lng": -87.630342
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.90254787989272,
+              "lng": -87.62877687010729
+            },
+            "southwest": {
+              "lat": 41.89984822010727,
+              "lng": -87.63147652989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
+        "name": "Gingarte Capoeira Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 682,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAABfxdF-B-nbPpwUJakbmieBVhuI5rssjtTCTAwkH0UTS-mcW1FBRv8mocEgbsiVMCQQL26NM-WIZKMtq9i454EtVtVJsILsovb78i6DfPIuedFr1QKhjgN0mlOaXeNDc2EhB8Bp3rbtJn2Hw8KwDlNPLmGhR7pqBwrXU9ekmy-DQncZ6HXOaXng",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
+        "plus_code": {
+          "compound_code": "W929+FV Chicago, Illinois",
+          "global_code": "86HJW929+FV"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAA3bRRuSYJfhXx6a2UCdHHQ9WZERSt1n-hSLVFuteermInPXc-9g0O7BjL0ckWZ5nvoF0A1yGiVKUmHtHRjX0vRk_bxvYu9IXf7dAZLkN8Z77MI9WinGhPkehetel7z6pEhDFzyY7w92WX9o9DNDecT2UGhT6lmTD3y77yeqaJ8XTZw2GFn63XQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1016 N Dearborn St, Chicago"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.8803115,
+            "lng": -87.6375316
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.88166232989272,
+              "lng": -87.63590797010728
+            },
+            "southwest": {
+              "lat": 41.87896267010728,
+              "lng": -87.63860762989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
+        "name": "Omulu Capoeira Guanabara",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
+        "plus_code": {
+          "compound_code": "V9J6+4X Chicago, Illinois",
+          "global_code": "86HJV9J6+4X"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAAlp9_1J66LBLx2bRLUoS_9uKo8bCpkZ_7zYjSQ6Lo1_N8NPwktNz4r5VFNtXzkygzmTa_5-o2rPmNDTESK8vbPjhpmiBOewqUL_dk95o_3k4YgWGaYGIFV8MQVULXLSONEhBBocpAGBz0C2tWILb911keGhTdkHh_bKP1pawfHeT8X0HdDL0Ipg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "100 S Wacker Dr, Chicago"
       }
     ],
     "status": "OK"
