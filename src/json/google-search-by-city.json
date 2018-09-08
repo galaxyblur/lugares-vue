@@ -1,20 +1,114 @@
 {
-  "city_name": "owensboro-kentucky",
-  "city_rank": 617,
-  "city_population": 58416,
+  "city_name": "moore-oklahoma",
+  "city_rank": 618,
+  "city_population": 58414,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.7719074,
-      -87.1111676
+      35.3395079,
+      -97.48670279999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29207,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.2058936,
+            "lng": -97.4457137
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.22194660000001,
+              "lng": -97.43805509999999
+            },
+            "southwest": {
+              "lat": 35.178239,
+              "lng": -97.45091230000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "66f7a5734b82e1fff1d00ab8532b127937a71b12",
+        "name": "The University of Oklahoma",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106861505699975051733/photos\">Cacey Wells</a>"
+            ],
+            "photo_reference": "CmRaAAAANA2DHsbuVD426QRuEaMCZ7Jh8R193or5I3ZEk8aTyLAu6pivpoQlSD1rKNrk7oIrkDq7slwTKPNxIqSjeNF4da3RETjtRHua8A1eYLgr0PEYF6PawF0As6LPDmdxFWAFEhD4rlkz--jRI_bxhprOYaGEGhQs1Ytv8IsF0KDQsOejhLneV14vBQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJu1B_5itosocRVB4EKYPPvko",
+        "plus_code": {
+          "compound_code": "6H43+9P Norman, Oklahoma",
+          "global_code": "86746H43+9P"
+        },
+        "rating": 4.3,
+        "reference": "CmRbAAAAG2ejyEqaQhsUznqhvh4H_UJp7gbVGag6f2EC0uATlakXGbU3nysbZq5e4JPTwUfQcuKGUPpx6iMXP_KwQtjoL8o_Srr_xGj0-gtvRNfb8EkAIALlFx7ntrEldl25v-ozEhDhK5C72bddmxIEJro8tLqZGhRNTnR7vIJFGQFWqL9a1qqy7RTRpg",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "660 Parrington Oval, Norman"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.4955747,
+            "lng": -97.5410682
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.49956655,
+              "lng": -97.53349920000001
+            },
+            "southwest": {
+              "lat": 35.49114355,
+              "lng": -97.549686
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dedcfc556f2df8e2840dc4c0b1ccb312e2373ebe",
+        "name": "Oklahoma City University",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116486256236604590116/photos\">Oklahoma City University</a>"
+            ],
+            "photo_reference": "CmRaAAAA9QZcXg2DdDHhhCCfvfz1ifdbawKb4z3TYaFZeJGN97F_XpP7J9OWWFlOlQB7ENGtR3iGgOm_o5KRUqJEO7u2zEk1n_T4HM6h0_JAXAq0_5CNsyDpAXBpoJZ0epctEymsEhDF0sym0nRiICOqf9oZWXytGhRNbe9ZunhczvRlB_g2YdV1zYxDTw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJe7zZY6MQsocRObNXPH1ctwU",
+        "plus_code": {
+          "compound_code": "FFW5+6H Central Oklahoma City, Oklahoma City, OK",
+          "global_code": "8674FFW5+6H"
+        },
+        "rating": 4.2,
+        "reference": "CmRbAAAAjEOEe4MlFx_YAj3E9FNOlj6Hv55IQRGA9Ouq6U6v03kDAp-cnassHN2fTUcNEHOjG6e8w4b4Zi-ynczIblsoMPwcWKKsoJBI0LDRgC0jVyjni6h1wxpEPisnFdX7_i8lEhAlOYv2gkdBEiyKr9MnU4i3GhTVDqsrLNHXWi5bCyrWlOp0p6GrSw",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2501 N Blackwelder Ave, Oklahoma City"
+      }
+    ],
+    "status": "OK"
   }
 }
