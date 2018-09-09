@@ -1,258 +1,418 @@
 {
-  "city_name": "taunton-massachusetts",
-  "city_rank": 649,
-  "city_population": 56069,
+  "city_name": "sanford-florida",
+  "city_rank": 650,
+  "city_population": 56002,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.900101,
-      -71.0897674
+      28.8028612,
+      -81.269453
     ],
     "rankby": "distance"
   },
-  "people_per_result": 11214,
-  "possible_duplicates": {
-    "ChIJg1Q6wbt544kR0buBMd3l8uE": [
-      {
-        "place1": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
-        "place2": "Sinha Capoeira 1431 Beacon St, Brookline",
-        "score": 0.8852459016393442
-      }
-    ],
-    "ChIJZe_ipL5544kRw4O4nql_W9k": [
-      {
-        "place1": "Sinha Capoeira 1431 Beacon St, Brookline",
-        "place2": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
-        "score": 0.8852459016393442
-      }
-    ]
-  },
+  "people_per_result": 6222,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.9014142,
-            "lng": -71.0900285
+            "lat": 28.8014446,
+            "lng": -81.31813489999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.90286927989272,
-              "lng": -71.08866777010728
+              "lat": 28.80259732989272,
+              "lng": -81.31678522010728
             },
             "southwest": {
-              "lat": 41.90016962010728,
-              "lng": -71.09136742989271
+              "lat": 28.79989767010728,
+              "lng": -81.31948487989271
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
-        "name": "Capoeira Studio C",
-        "photos": [
-          {
-            "height": 590,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
-            ],
-            "photo_reference": "CmRaAAAAZVjmROsNpAIEaqbckEJxW4XPFwJI-gmPyTT_D5guKcRfE0ibPltU2zvhNpeQ_jr4NwonOwbv6hI6GyQhoR-4JrkfESsVeBvOYBSYabD15F7OE8uED2BdeKVIaeZL7dilEhAX5hsC88fKD6Rz9KBVZPRaGhSUh_HlV9e7-00G78zmFrFLjnvKqw",
-            "width": 620
-          }
-        ],
-        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
-        "plus_code": {
-          "compound_code": "WW25+HX Taunton, Massachusetts",
-          "global_code": "87HCWW25+HX"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAjffWgN3SxqHcqLwgTK24T4fdJwG7oda7Jw_ay0eFzsXinq-4xyiVp28nnFA1jHpTMBjWTruNiybRG08DHPfom22GpHSqIE-0XvI2xwY4k9iPy2dE-zfIZiDDRbUFvHIXEhANqQ4b7Hug-o34wsjOePoQGhQ08fyM_CcdhlKqESSyT8tG1h4Aeg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "85 Main St, Taunton"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3154164,
-            "lng": -71.0594728
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.31679487989272,
-              "lng": -71.05828122010728
-            },
-            "southwest": {
-              "lat": 42.31409522010728,
-              "lng": -71.06098087989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "37902fe053d3189b22959924e1a43e93601836fe",
-        "name": "Sinha Capoeira Dorchester",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "e1b0dfdbb49c1e30434ba61cb15da67f54b12384",
+        "name": "CrossFit eXalted",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 776,
+            "height": 342,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116680133982916304220/photos\">Sinha Capoeira Dorchester</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110512290129901282449/photos\">CrossFit eXalted</a>"
             ],
-            "photo_reference": "CmRaAAAAhGulBmB3Ar7dUA5kO3Bb4LQzOxcroDOfvygkrfnsQQiy9vq-Tmdg7c6JlnuC0cMk7DGwN1KeXaBN3RtNa-rPwEXqkkM1fQNnDCGY0UaBS_KDiMUB5qk2mr3wjcLSMZlhEhCEw84DbdqGOzHRoC0LiQ_sGhR4wMK_pM7lCJuOjNYCfhB5xrtBew",
-            "width": 1232
+            "photo_reference": "CmRaAAAAEn0gciTZ1UykrRm9gGKUBUcRXvMVjyXZK_VLMLsd2jiJQJJpWzytQo8fvB4qkVU33CQHOC9EZPGBS6vsRLBGfhm_HFsTo1sAGo479rzpqMWnUPN-fCCHdC42fkrpAlsqEhC2KGlkVydBffwqBgHdv18nGhQSnEEuFG7qARaa0N5v1bPrDaTrZA",
+            "width": 512
           }
         ],
-        "place_id": "ChIJJTFXw1J644kRk7k4FUcoijg",
+        "place_id": "ChIJXbn0VI0S54gRpn1r7rg6LsQ",
         "plus_code": {
-          "compound_code": "8W8R+56 Boston, Massachusetts",
-          "global_code": "87JC8W8R+56"
-        },
-        "rating": 0,
-        "reference": "CmRbAAAAG26yRnaot-EaEhzFy0F1wPOiXdVwH6Cc_XTArx2YeTdSQTBuxuzpzEO5qtjV4l8VRsJ1r6FqMiLIOCZj2F-c070cRNC2LBZuqGJb9LbunurIXp2E8U9taAcZnoie-7wKEhCxrhQsSk1BcoSLYvOLOiMmGhT8fcxBduy1MDhqL6cBBNlCxqZZ_A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48 Pleasant St, Dorchester"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3175695,
-            "lng": -71.10561229999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.31887342989272,
-              "lng": -71.10415172010727
-            },
-            "southwest": {
-              "lat": 42.31617377010728,
-              "lng": -71.10685137989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ffc41db1d2f247855ff50157b529b73c7a270525",
-        "name": "Capoeira Gerais Boston",
-        "place_id": "ChIJrxXBGHh644kRrzvK7vx-6gU",
-        "plus_code": {
-          "compound_code": "8V9V+2Q Boston, Massachusetts",
-          "global_code": "87JC8V9V+2Q"
+          "compound_code": "RM2J+HP Sanford, Florida",
+          "global_code": "76WWRM2J+HP"
         },
         "rating": 5,
-        "reference": "CmRbAAAA-drcwUYOcnwhrmhO16OW0ElPraLWyS_icbp6vf5zFYn2XKFU8XqkX0Ie_cidM2wMncA-cu0t9_bGRjj7TCdN3rF1E8ZrswCNnrDxtMnfSSPmgxRisZpLtHB-nW7HwrNDEhCVgMiwFbaaL1car9wjWFvEGhQyNd8cLkSscL-9tTSUhTt7Us7eWw",
+        "reference": "CmRbAAAAZuzvKbM0u9fT2MWbu2MZ2X3g02Mu-IpiQlVVmRZr7C8OSDKzK7drOSxNvRlhGSS_e3Xp-piOLJuDao2PDj6dbcRd_ojzLtiuPwm1GSslYKYmTZwLWiq9sgZzfBzFMXzeEhCR0WFTBvtzJ-qoBaDqbCydGhQXCyCGhlBisaJ7klPva_IG3bYY5w",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "45 Danforth St, Boston"
+        "vicinity": "118 Central Park Pl, Sanford"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.3396032,
-            "lng": -71.1288261
+            "lat": 28.811048,
+            "lng": -81.32057999999999
           },
           "viewport": {
             "northeast": {
-              "lat": 42.34106272989271,
-              "lng": -71.12752102010728
+              "lat": 28.81246872989272,
+              "lng": -81.31922942010728
             },
             "southwest": {
-              "lat": 42.33836307010727,
-              "lng": -71.13022067989273
+              "lat": 28.80976907010728,
+              "lng": -81.32192907989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1b4877bfba7030d86f6ef716669efc7eb8095fec",
-        "name": "Sinha Capoeira Kids",
+        "id": "ba93c06aea70f0baa7e56288d729dbe7dafe2aa6",
+        "name": "The Jungle MMA & Fitness Lake Mary",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 720,
+            "height": 674,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110324719945658873578/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/115568292300484915376/photos\">The Jungle MMA &amp; Fitness Lake Mary</a>"
             ],
-            "photo_reference": "CmRaAAAATmkqU67tEJVbnTdvGyB-kTYRtXJoo2CDcfqvx0lBgWay0k6LbD9MEogpRvooGfLZnMuVu3nRpGuWFH-BEnW4h1YEvMG_-8xJngcn6NIqJ549jyA7mVFACLp83_5WLdnqEhCEyxHgJmKqu-STq7RjjS_UGhSX0MDw_Y_97XBp-IFcNqZPTbt3SA",
+            "photo_reference": "CmRaAAAAGVFFU4HzMQKKnPymHipZvtaoznV5o9sIxmK0fcQIidAWLU_yo_u2eo9jbCGvnQiK6YZaIHxMU9m5yGTkB1jjw_KGqIFPRkrVLkzJf93W3tnXKv9cI-rL3ZXPsIPQsVBWEhAfv1YALBBQleow1Y606cdYGhTgAx7ZZ1ZGEcyGLrUl0sfUOk1Vkw",
             "width": 960
           }
         ],
-        "place_id": "ChIJg1Q6wbt544kR0buBMd3l8uE",
+        "place_id": "ChIJF3zO6ooS54gRytJmYOKN7v4",
         "plus_code": {
-          "compound_code": "8VQC+RF Brookline, Massachusetts",
-          "global_code": "87JC8VQC+RF"
+          "compound_code": "RM6H+CQ Sanford, Florida",
+          "global_code": "76WWRM6H+CQ"
         },
         "rating": 5,
-        "reference": "CmRbAAAAdnDec02HJlg7wq2JMSzklA4d6Hw4WBMaFOKksHZ2a3Df8CLRNRLb2TiRD4HjnBCyf7O2NYUhneur8ePqN9vTBEEZ7-8yjEZM0EhPfCdVkh-iewbYIv3Jh4tGIgR3Lxp9EhBXsj3XMzpneF3zN8PfPwkxGhQFMp-yNSzfQQYcV4dhhkTkeVw4Vw",
+        "reference": "CmRbAAAA-6diiGf6DtJvFmvdQp_mapCJL8ho28Ktp1gQmYKQ2AH9k987FYuDe7VLG6aF-GXma2eRg8B5_4JmX0TAqK-nr8u9ZSN2rwAp_YJV0mRHDllWDG7WDHLG241z5XNyJ_FIEhA5PNO66HyNbN0yPx13t9UDGhRTSBCYp2hot7VYLvuk_sYiqCUUBg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4043 W 1st St, Sanford"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.8578538,
+            "lng": -81.18769999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.85920642989272,
+              "lng": -81.18618027010729
+            },
+            "southwest": {
+              "lat": 28.85650677010728,
+              "lng": -81.18887992989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d6d943093ef163c3cb2448f489aa7e154c0df6f4",
+        "name": "Deltona Goju Karate Academy",
+        "place_id": "ChIJnbAbDnMW54gRtO5DxGWKOu4",
+        "plus_code": {
+          "compound_code": "VR56+4W Deltona, Florida",
+          "global_code": "76WWVR56+4W"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAbHj-0KmKVW5QIiVzMGcSlqQ0HROkCI72_l_3I5gwBrOFBZ4ZPDXDSZmNvmGXppHZE79UPMzLN_ZyhATazF0YzEUF-R0NJNt9QyV3pqTiQM96nHAIzL7N7jfgKESAWnRUEhAiYF7jxUJD6IKuRsPcFW7SGhQT_7wYbbhv8y5yyhgeCpMslLe64w",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1485 Beacon St, Brookline"
+        "vicinity": "2820 Doyle Rd, Deltona"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.3406189,
-            "lng": -71.1260898
+            "lat": 28.6022953,
+            "lng": -81.32321189999999
           },
           "viewport": {
             "northeast": {
-              "lat": 42.34202142989272,
-              "lng": -71.12477797010727
+              "lat": 28.60377477989272,
+              "lng": -81.32189692010726
             },
             "southwest": {
-              "lat": 42.33932177010728,
-              "lng": -71.12747762989272
+              "lat": 28.60107512010728,
+              "lng": -81.32459657989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8e543a4ccf220408bbde9b59af4982de6eb88a17",
-        "name": "Sinha Capoeira",
+        "id": "d872d93caad7466e97fa83e588623bf8a18fa1e5",
+        "name": "Victory Martial Arts",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 1125,
+            "height": 1224,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115247688110722630923/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/109393901121798553930/photos\">Jeb Weinstein</a>"
             ],
-            "photo_reference": "CmRaAAAAA-svuYUZDX3rc_785Q-R_thRrJqs6IldesOBl_qJuhqwesEt22uvM8cv72w6I1RD2TbBuq2HBEnG_iYsIHIMCoh1jkoMswteVA79ga6WL3DxAvoE_TR4v3ilC8MSWvnrEhAbIdfFJbpH8iNQLyeMzXy9GhSddKBsd1B4w8XwjTU34w4pya1NAA",
-            "width": 2001
+            "photo_reference": "CmRZAAAAWY4T0bv36QOd7PVHKoR8QXeuyx_HRc35vX9BVqdf6ll_X8nA1F-yP9I3Id1BmvpVmfThva0e-J2WxKuDnqs7ttsEzP8odL3IC9LCddCFyDzVNdTULB_VfU2SmRJCbI6HEhCQT8ph10XVe0fKsUrSY5hEGhRM49M4SdiyCsXAoolCVs88yKHwtA",
+            "width": 1632
           }
         ],
-        "place_id": "ChIJZe_ipL5544kRw4O4nql_W9k",
+        "place_id": "ChIJWQ5O2-tv54gRW6dO0HxL3fs",
         "plus_code": {
-          "compound_code": "8VRF+6H Brookline, Massachusetts",
-          "global_code": "87JC8VRF+6H"
+          "compound_code": "JM2G+WP Winter Park, Florida",
+          "global_code": "76WWJM2G+WP"
         },
-        "rating": 0,
-        "reference": "CmRbAAAA4ECIPYf9OdkzLT72_vzN_GFeVUMq9CobwFLXhFESQv3gGAxIP9Oox9ZgjuHbqBnUIaQygSerZ5XQ5rII1QfSIGW-mT8tDNhY1F9iJWkX6CXQUHxCf5ySBsRTP-hJNlc6EhBaTGM474Dbt5xypiyLnfiHGhSWrHItJbZmUMgxJ75GNPrmUdBDjg",
+        "rating": 3.3,
+        "reference": "CmRbAAAA3E5U2ecMcY3AIUtvkEtfCQNTVa2U_yll3CDNN100LlZLpqNRkz7-ovz1gX0erRD1PnxBBug06lQXs0Snsy6WDC_CJMDidnhS3nYaWEKeHQ0OcjYH2ZOCOEgPUAnjL1q2EhDLNEWhIZSml2lhFHWm8zrYGhQ46wSxO7LBNfO3QAmmbOhcbMt1og",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1431 Beacon St, Brookline"
+        "vicinity": "2175 Aloma Ave, Winter Park"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.54785,
+            "lng": -81.19394899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.54921327989272,
+              "lng": -81.19276707010728
+            },
+            "southwest": {
+              "lat": 28.54651362010728,
+              "lng": -81.19546672989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
+        "name": "Capoeira Orlando",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAAxBqlw2xp_Cv21uDUG5thrHrks0VbzfeQuNA8VKERTbBZ3kfOWa30KfyO3qLpEyxfHMmQv2OVPYYrvRYNwWMcvY1Hv2VzQErQ5OrFyuYJxFZMn0a4DhGTT2B5Z-NdUABBEhCvZ_Dy1WZC_YpMpwIZ9AfdGhSn4SfXUaUMZarFB_UWukRoaXCdxw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
+        "plus_code": {
+          "compound_code": "GRX4+4C Union Park, Florida",
+          "global_code": "76WWGRX4+4C"
+        },
+        "rating": 5,
+        "reference": "CmRbAAAAcSrNNRJAkscYdbjbwKp6Jm-oyV24Tt-toA3GXBDOZHOagP_Qd3o2vvf_S_B3ZVmIxpybrCm0KhkoqG7lUBVwFQmDiUpjCuiTB5eVwyn_PSczUY83FHzfjQl9yaGDQX7LEhD4OmlFwg56Tms7WjaxKB5yGhRKplyW9whHeXz1DLIXJyhfoGLvgA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "829 Woodbury Road #102, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.5346945,
+            "lng": -81.5232389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.53604562989272,
+              "lng": -81.52170092010726
+            },
+            "southwest": {
+              "lat": 28.53334597010728,
+              "lng": -81.52440057989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
+        "name": "Capoeira at the Traditional Martial Arts Center",
+        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
+        "plus_code": {
+          "compound_code": "GFMG+VP Gotha, Florida",
+          "global_code": "76WWGFMG+VP"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAANzMluAniMj3C8P2o3JFiRYgFB16Xpkiu9_dT80OXprx30RXIVIIlbu0H46qSXh0o574XiPJLbmf2GzwcaayUuoJgB_3kDJksB5amHYtX74SruhJC8Q5JR62CPsLCbxppEhDVl-DooO4_8wSMTPQurJn_GhQPdYOal8GZ5rMfgmobcpDwyTT-XA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2220 Hempel Ave, Gotha"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4615138,
+            "lng": -81.4374611
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.46296797989272,
+              "lng": -81.43600087010728
+            },
+            "southwest": {
+              "lat": 28.46026832010728,
+              "lng": -81.43870052989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
+        "name": "CBP Martial Arts Academy Orlando",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 659,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">CBP Martial Arts Academy Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAAIfI0W48xaFWnk6zzvtH8ucVToIYGakeJsOqSMYogpWVtZ72pBvFsHRqJHSgS8aap_DJ3UI58dkwGkUlBojvOfCzkqShvCeHVWfeVmBkpKelkpfRttRPqiBq_GWaOgYYwEhCLMlEZLxzPCZVjUcKjd2xJGhSx6-waQGVzFTpbwlOXQouDQr4AXA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "plus_code": {
+          "compound_code": "FH67+J2 Orlando, Florida",
+          "global_code": "76WWFH67+J2"
+        },
+        "rating": 4.9,
+        "reference": "CmRbAAAAaysmKrPKgqs7R87skOeO0Elzi-if-ulpWQwxenUjXeFDfv3m8rXMbzzgLP3ZwZZ7oS4NWkpyZdKTXe5BXeK7fLXiO6HcVxR7-Zwv0bQniXX8NIkJO8xm5PuNLAlH4_VdEhAdLSnDka6s-liis6O9UMpFGhQEBgSWL_8AfYnY0js2hkmIuMLQVw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7075 Kingspointe Pkwy #10, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4303581,
+            "lng": -81.2574277
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.43183287989272,
+              "lng": -81.25608162010728
+            },
+            "southwest": {
+              "lat": 28.42913322010728,
+              "lng": -81.25878127989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4dd9f53d52e53dabd5fa21ec1c5001e311b8397e",
+        "name": "Victory Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 747,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112633744428127839242/photos\">Willy Benitez</a>"
+            ],
+            "photo_reference": "CmRaAAAAM2jwV-NIb9kChL2Ql85haIjxJR0SYbDVZWl6fETDKGPnuchuNUfU-1BHT93SUH58Ex4tGq-Gd3wnxxJix5UradZcXtRTYQWuVHuTMF-eKFXoE5MF0GZUIP2HipRPe7OpEhAJCPrDrxuivdXc2CZqP6l2GhT82qoFqzFv_KKeCcb4oWbQGTwX_g",
+            "width": 1121
+          }
+        ],
+        "place_id": "ChIJL77VMSli54gRHN9_uKI_YDM",
+        "plus_code": {
+          "compound_code": "CPJV+42 Orlando, Florida",
+          "global_code": "76WWCPJV+42"
+        },
+        "rating": 4.6,
+        "reference": "CmRbAAAAIOdA8v85wg4GE3RFJrcq5IPB4WLhCEi9rBDHm1Anv-ENJ592fiSvHFOpNzwM-PCHimBtZWMV6s2RnHIdLgw0jjf1_P3ui1i_cKWY7A1gWP_tUOaKBvuaxpHmjZ0s32c_EhAZKdjwwtwcZmIJB8OvgvO5GhRHscxh6pAHf1ziiYw7mKa6bmaJQg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9368 N Narcoossee Rd Ste. 102, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4341409,
+            "lng": -81.5582823
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.43539327989272,
+              "lng": -81.55703552010728
+            },
+            "southwest": {
+              "lat": 28.43269362010728,
+              "lng": -81.55973517989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
+        "name": "Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
+        "plus_code": {
+          "compound_code": "CCMR+MM Bay Lake, Florida",
+          "global_code": "76WWCCMR+MM"
+        },
+        "rating": 0,
+        "reference": "CmRbAAAASlZ3RtT-Bl01oShYBOBczhn4Ud0GHnhjFo0O1T3ljq6xkIEqV7xPpqGazeEN16q-jkh4FxgIwdkUPOhJu2FTZgZOw1otrlruXuVCGOBnbWn2YuTomdjDBoqE32tazTEEEhCmgfM5spGpOBG9HRnqJNR0GhQZ-4ft7OVjLhBen-8tqXvJ1Z_COg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9001 Taborfield Ave, Orlando"
       }
     ],
     "status": "OK"
