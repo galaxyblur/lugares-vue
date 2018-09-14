@@ -1,62 +1,105 @@
 {
-  "city_name": "pinellas-park-florida",
-  "city_rank": 744,
-  "city_population": 49998,
+  "city_name": "troy-new-york",
+  "city_rank": 745,
+  "city_population": 49974,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      27.8428025,
-      -82.6995443
+      42.7284117,
+      -73.69178509999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 16666,
-  "possible_duplicates": {
-    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
-      {
-        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ],
-    "ChIJR8HaPoDhwogRo7IyCTogywI": [
-      {
-        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
-        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
-        "score": 0.8051948051948052
-      }
-    ]
-  },
+  "people_per_result": 16658,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 27.8214144,
-            "lng": -82.6609864
+            "lat": 42.730172,
+            "lng": -73.67880300000002
           },
           "viewport": {
             "northeast": {
-              "lat": 27.82266827989272,
-              "lng": -82.65963457010727
+              "lat": 42.73637585,
+              "lng": -73.6648429
             },
             "southwest": {
-              "lat": 27.81996862010728,
-              "lng": -82.66233422989272
+              "lat": 42.72378004999999,
+              "lng": -73.6913993
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fedbf532de25525351bce69a99940ff974c4f558",
+        "name": "Rensselaer Polytechnic Institute",
+        "photos": [
+          {
+            "height": 2688,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116227603142379632347/photos\">jin zheng</a>"
+            ],
+            "photo_reference": "CmRaAAAAETbm-ghUYGIAe5i_VQar9TRdVxqc_7f7XZssDqMzqpHOd2_HC_n0StfQ2bygKK41gZzbRxf3RtnfqA0_nVpubuqcP70Yb2noOYN0bOJm4_8T0VJAioxCxot6auCnC8XyEhBRh6nypJv1bTTqstUeEbjcGhTj5nR2bBR0rVkGIPSIj7B1eJB3kg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJfQn6654P3okRAlMf2xMrWaU",
+        "plus_code": {
+          "compound_code": "P8JC+3F Troy, New York",
+          "global_code": "87J8P8JC+3F"
+        },
+        "rating": 4.2,
+        "reference": "ChIJfQn6654P3okRAlMf2xMrWaU",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "110 8th St, Troy"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.6631407,
+            "lng": -73.7436805
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.66448072989272,
+              "lng": -73.74227867010727
+            },
+            "southwest": {
+              "lat": 42.66178107010728,
+              "lng": -73.74497832989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
-        "name": "Maculelê Tampa Capoeira",
-        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
-        "plus_code": {
-          "compound_code": "R8CQ+HJ Harris Park, St. Petersburg, FL",
-          "global_code": "76VVR8CQ+HJ"
+        "id": "1052606f5b0783e7af38196c766bbd31efe39dbc",
+        "name": "CrossFit Beyond",
+        "opening_hours": {
+          "open_now": false
         },
-        "rating": 0,
-        "reference": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113134065127569892817/photos\">CrossFit Beyond</a>"
+            ],
+            "photo_reference": "CmRaAAAA94BZMCM91yYYcKFTpeY9zwdKsamYdZjO1sYc3fol4paffTNnAm6YG_umWbd9WRnEZUphXq-4JOIjs3VhxlJQd5y_ULud9BOB4tQu-A8Z2kd2krzD9OlYkWIjZgdsIH85EhAqLhIcAU6qFVjQwuRFUTEnGhRBNDpCnj6uCNK-uBcU5YOl2IBG6g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJAXGHZX8J3okRK25bmPDcGEw",
+        "plus_code": {
+          "compound_code": "M774+7G Albany, New York",
+          "global_code": "87J8M774+7G"
+        },
+        "rating": 4.3,
+        "reference": "ChIJAXGHZX8J3okRK25bmPDcGEw",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -64,79 +107,42 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
+        "vicinity": "952 Broadway, Albany"
       },
       {
         "geometry": {
           "location": {
-            "lat": 27.7749953,
-            "lng": -82.6469516
+            "lat": 42.6883967,
+            "lng": -73.7990902
           },
           "viewport": {
             "northeast": {
-              "lat": 27.77634512989273,
-              "lng": -82.64560177010726
+              "lat": 42.68974652989272,
+              "lng": -73.79774037010728
             },
             "southwest": {
-              "lat": 27.77364547010728,
-              "lng": -82.64830142989271
+              "lat": 42.68704687010727,
+              "lng": -73.80044002989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
-        "name": "Tampa Bay Capoeira - St.Pete",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
+        "name": "Pil-Sun Tae Kwon Do",
+        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
         "plus_code": {
-          "compound_code": "Q9F3+X6 St. Petersburg, Florida",
-          "global_code": "76VVQ9F3+X6"
+          "compound_code": "M6Q2+99 Albany, New York",
+          "global_code": "87J8M6Q2+99"
         },
         "rating": 5,
-        "reference": "ChIJR8HaPoDhwogRo7IyCTogywI",
+        "reference": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2033 54th Ave N, St. Petersburg"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.0798425,
-            "lng": -82.50598400000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.08119437989272,
-              "lng": -82.50448297010729
-            },
-            "southwest": {
-              "lat": 28.07849472010728,
-              "lng": -82.50718262989274
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "000fdef11d34ed223a2ffb0f6e894a2b9f619022",
-        "name": "Tampa Bay Capoeira",
-        "place_id": "ChIJ8dZfsZHAwogR2P0nns5Atpk",
-        "plus_code": {
-          "compound_code": "3FHV+WJ Lake Magdalene, Florida",
-          "global_code": "76WV3FHV+WJ"
-        },
-        "rating": 0,
-        "reference": "ChIJ8dZfsZHAwogR2P0nns5Atpk",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "14457 N Dale Mabry Hwy, Tampa"
+        "vicinity": "1095 Penn Central Railroad # 3, Albany"
       }
     ],
     "status": "OK"
