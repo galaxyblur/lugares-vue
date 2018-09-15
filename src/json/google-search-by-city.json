@@ -1,16 +1,16 @@
 {
-  "city_name": "roswell-new-mexico",
-  "city_rank": 769,
-  "city_population": 48611,
+  "city_name": "parker-colorado",
+  "city_rank": 770,
+  "city_population": 48608,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.3942655,
-      -104.5230242
+      39.5186002,
+      -104.7613633
     ],
     "rankby": "distance"
   },
-  "people_per_result": 48611,
+  "people_per_result": 16203,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,33 +18,113 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.3943507,
-            "lng": -104.5217611
+            "lat": 39.6782939,
+            "lng": -104.936617
           },
           "viewport": {
             "northeast": {
-              "lat": 33.39564762989272,
-              "lng": -104.5204109701073
+              "lat": 39.67965127989272,
+              "lng": -104.9352676201073
             },
             "southwest": {
-              "lat": 33.39294797010728,
-              "lng": -104.5231106298927
+              "lat": 39.67695162010727,
+              "lng": -104.9379672798927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d971479979e4a787f99bb5c0b336790b5db50842",
-        "name": "Crash City CrossFit",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a4e87b229ce99cbc159ea3e0f964235baab26137",
+        "name": "Brazilian Capoeira",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJLWw4yNlu4oYRTs6T7whN6VU",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112640448608706135415/photos\">Brazilian Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAm53GvWFiPNVc6JjTy-RhRE2YZzsTr0agnXREtZSI9vslCC4BsKGI5dpLE8V9dWQcK4TOrvPHQHEpQ_buUfYRhbrCXG_zTWuxopOJopDy9ad14SEXiJjq_d9shtYuv3ujEhAqKgmHNVmQSjawB1GqTSkxGhRNx6p2_1wabGpRE2P3I70ajMPGNw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
         "plus_code": {
-          "compound_code": "9FVH+P7 Roswell, New Mexico",
-          "global_code": "855Q9FVH+P7"
+          "compound_code": "M3H7+89 Denver, Colorado",
+          "global_code": "85FQM3H7+89"
         },
         "rating": 5,
-        "reference": "ChIJLWw4yNlu4oYRTs6T7whN6VU",
+        "reference": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4362 E Evans Ave, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7308796,
+            "lng": -104.9983669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
+            },
+            "southwest": {
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "plus_code": {
+          "compound_code": "P2J2+9M Denver, Colorado",
+          "global_code": "85FQP2J2+9M"
+        },
+        "rating": 4.5,
+        "reference": "ChIJbyR07DF_bIcRcvNwF82lzWU",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "910 Santa Fe Dr #1, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "plus_code": {
+          "compound_code": "Q256+8M Denver, Colorado",
+          "global_code": "85FQQ256+8M"
+        },
+        "rating": 0,
+        "reference": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -52,7 +132,7 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "117 E 2nd St, Roswell"
+        "vicinity": "1451 24th St, Denver"
       }
     ],
     "status": "OK"
