@@ -1,342 +1,59 @@
 {
-  "city_name": "dunwoody-georgia",
-  "city_rank": 784,
-  "city_population": 47591,
+  "city_name": "hattiesburg-mississippi",
+  "city_rank": 785,
+  "city_population": 47556,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.9462125,
-      -84.3346473
+      31.3271189,
+      -89.29033919999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 5288,
-  "possible_duplicates": {},
+  "people_per_result": 15852,
+  "possible_duplicates": {
+    "ChIJ_z1Jz13cnIgRtjfT6zp4gyw": [
+      {
+        "place1": "Cross Fit 28 Commercial Warehouse Dr # 3, Hattiesburg",
+        "place2": "Crossfit Hattiesburg LLC 28 Commercial Warehouse Drive #3, Hattiesburg",
+        "score": 0.8089887640449438
+      }
+    ],
+    "ChIJ2YVv20PfnIgR7DOntytsM64": [
+      {
+        "place1": "Crossfit Hattiesburg LLC 28 Commercial Warehouse Drive #3, Hattiesburg",
+        "place2": "Cross Fit 28 Commercial Warehouse Dr # 3, Hattiesburg",
+        "score": 0.8089887640449438
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 33.9272075,
-            "lng": -84.31196899999999
+            "lat": 31.3271189,
+            "lng": -89.29033919999999
           },
           "viewport": {
             "northeast": {
-              "lat": 33.92873482989272,
-              "lng": -84.31044152010728
+              "lat": 31.32846872989272,
+              "lng": -89.28898937010727
             },
             "southwest": {
-              "lat": 33.92603517010728,
-              "lng": -84.31314117989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b547739212efa77b4b6ee5ddc0cd085ad8082be",
-        "name": "Alliance Martial Arts Center",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110673254084194933491/photos\">Ryan Vaughn Morris</a>"
-            ],
-            "photo_reference": "CmRaAAAA_MXINqelVIEZrfZBIUpKmfodqXtfRp_DPvzLzdB8iHhzBtTw9b2cTMr-IiD5C5-LlBpWNa_v_yh8O__4-IflTbbOCxoBBhAzX62becBMg1WMOyz7uupihYRMarPO0NOXEhBOkn4FnS-NVh_uBwV4eekzGhRFu_05YD7KwMbyS78WLjc5qlGfog",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJc8qDVpgO9YgRqbDwi98JCNk",
-        "plus_code": {
-          "compound_code": "WMGQ+V6 Dunwoody, Georgia",
-          "global_code": "865QWMGQ+V6"
-        },
-        "rating": 4.9,
-        "reference": "ChIJc8qDVpgO9YgRqbDwi98JCNk",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4630 N Shallowford Rd, Dunwoody"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9270581,
-            "lng": -84.37780599999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.92830522989271,
-              "lng": -84.37645667010727
-            },
-            "southwest": {
-              "lat": 33.92560557010727,
-              "lng": -84.37915632989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "56d5ad0861bc8f4ae04096719a9adfdb054691d3",
-        "name": "The Welch Martial Art Experience",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106390860345165743963/photos\">Welch Martial Art Experience</a>"
-            ],
-            "photo_reference": "CmRaAAAAlhIrXpJuDeM1xOuWfp6o45rQIfp5fHpx7gdYe4yUQiVwuRURUTSiYJodltAEAK_EqV0dNNyIXB6c7ghB0nG_VNX8YZNocaw4oqR2g5EmRMfZNt4ODDDDom8Vj4jF5ed4EhAyjm34rGKT8p5HX6VI5sLdGhQn_H4YHlncMm4Kh5jlwg5PojqYGA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJfQ4VJmsQ9YgRduqN1kcN1HI",
-        "plus_code": {
-          "compound_code": "WJGC+RV Sandy Springs, Georgia",
-          "global_code": "865QWJGC+RV"
-        },
-        "rating": 4.8,
-        "reference": "ChIJfQ4VJmsQ9YgRduqN1kcN1HI",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6305 Roswell Rd #160, Sandy Springs"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.92275060000001,
-            "lng": -84.4720416
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.92419757989273,
-              "lng": -84.4706529701073
-            },
-            "southwest": {
-              "lat": 33.92149792010728,
-              "lng": -84.47335262989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ef568a689c804e3b21925cc69d0a79662ed04710",
-        "name": "Cultura Brazil",
-        "place_id": "ChIJXxVxG5oR9YgRfk-nqDbO8o4",
-        "plus_code": {
-          "compound_code": "WGFH+45 Marietta, Georgia",
-          "global_code": "865QWGFH+45"
-        },
-        "rating": 0,
-        "reference": "ChIJXxVxG5oR9YgRfk-nqDbO8o4",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2852 Delk Rd SE, Marietta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9069496,
-            "lng": -84.48961249999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.90825457989272,
-              "lng": -84.48821982010726
-            },
-            "southwest": {
-              "lat": 33.90555492010728,
-              "lng": -84.49091947989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b3118ba9666f8de7fbba146190872fb75513c3d",
-        "name": "Axe Capoeira Atlanta",
-        "permanently_closed": true,
-        "place_id": "ChIJX0QeQwUR9YgRgDlRbh4qQAs",
-        "plus_code": {
-          "compound_code": "WG46+Q5 Marietta, Georgia",
-          "global_code": "865QWG46+Q5"
-        },
-        "rating": 5,
-        "reference": "ChIJX0QeQwUR9YgRgDlRbh4qQAs",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1869 Cobb Pkwy SE #750, Marietta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.8061302,
-            "lng": -84.3098689
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.80747882989272,
-              "lng": -84.30850212010728
-            },
-            "southwest": {
-              "lat": 33.80477917010728,
-              "lng": -84.31120177989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6ee00410740748e1bbfa19397eddeb0bc1a0564d",
-        "name": "Capoeira Atlanta",
-        "photos": [
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104943987064514581040/photos\">david guzman</a>"
-            ],
-            "photo_reference": "CmRaAAAAMwb0HhNKfJJUuCvrJ2T0qwU7ujrVfy_Hf1oyapQFMjPZ4x-UbbI2TQb21ROFGDcw0gPyYjQjtW_VVn_bOVZPq-LKFnCnTeyouWicBwn3ZBTww5RVMDAiMX3r0tfGjp0LEhA9zCPxreUi2hoaJkU1Kn9DGhR8Cq86PK_aFePqtFJushsNtvtxNA",
-            "width": 3840
-          }
-        ],
-        "place_id": "ChIJaTI3Tc8F9YgRIyJZb0GoP9c",
-        "plus_code": {
-          "compound_code": "RM4R+F3 North Druid Hills, Georgia",
-          "global_code": "865QRM4R+F3"
-        },
-        "rating": 4.6,
-        "reference": "ChIJaTI3Tc8F9YgRIyJZb0GoP9c",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1781 Clairmont Rd, Decatur"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.7680626,
-            "lng": -84.3042662
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.76943087989272,
-              "lng": -84.30279822010728
-            },
-            "southwest": {
-              "lat": 33.76673122010727,
-              "lng": -84.30549787989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e2f8bd38f11a43221845e4a2a525c577db14e0e6",
-        "name": "Maculele Capoeira",
-        "place_id": "ChIJB0_SqSUH9YgRcqX6_tk7Rso",
-        "plus_code": {
-          "compound_code": "QM9W+67 Decatur, Georgia",
-          "global_code": "865QQM9W+67"
-        },
-        "rating": 4.8,
-        "reference": "ChIJB0_SqSUH9YgRcqX6_tk7Rso",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "533 W Howard Ave, Decatur"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9530606,
-            "lng": -84.5770546
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.95447452989273,
-              "lng": -84.57570097010726
-            },
-            "southwest": {
-              "lat": 33.95177487010728,
-              "lng": -84.57840062989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1694f89e99dc1cc246c1337b6dd34c4cf8396421",
-        "name": "Grupo Axé Capoeira",
-        "place_id": "ChIJ8fRdVNoV9YgRTwUhmtaFgUA",
-        "plus_code": {
-          "compound_code": "XC3F+65 Marietta, Georgia",
-          "global_code": "865QXC3F+65"
-        },
-        "rating": 0,
-        "reference": "ChIJ8fRdVNoV9YgRTwUhmtaFgUA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "800 Whitlock Ave NW #141, Marietta"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.7406855,
-            "lng": -84.3496289
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.74207722989272,
-              "lng": -84.34827767010728
-            },
-            "southwest": {
-              "lat": 33.73937757010727,
-              "lng": -84.35097732989271
+              "lat": 31.32576907010728,
+              "lng": -89.29168902989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7baf5663483fc6a728f8b85b7910bbf77badee66",
-        "name": "Capoeira Passo a Frente",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 1087,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108685201964740773665/photos\">Capoeira Passo a Frente</a>"
-            ],
-            "photo_reference": "CmRaAAAADDRtx0rUEBY5Xsb7mpnOsKrB-AUiNwbt8LAnonIouQGi8Vpz0D-GuV0WZe6mHEwxx6BDnxwi0tFPMwNuplpSo4RVWKxTFLyZTJdp5pnopitCgyRtyoIB61ElTSJtQBujEhBWO0T9eyJ0kslWf2IRLe8CGhSxEgl6vj3dzQDOsjaDoIR_bUsLKA",
-            "width": 1089
-          }
-        ],
-        "place_id": "ChIJjzOzpGAB9YgRX0H63xFn7Us",
-        "plus_code": {
-          "compound_code": "PMR2+74 Atlanta, Georgia",
-          "global_code": "865QPMR2+74"
-        },
-        "rating": 5,
-        "reference": "ChIJjzOzpGAB9YgRX0H63xFn7Us",
+        "id": "6c31ac7218c3d6aa0ca2f62dd43bfe3561beff9f",
+        "name": "Cross Fit",
+        "opening_hours": {},
+        "place_id": "ChIJ_z1Jz13cnIgRtjfT6zp4gyw",
+        "rating": 0,
+        "reference": "ChIJ_z1Jz13cnIgRtjfT6zp4gyw",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -344,55 +61,108 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "495 Moreland Ave SE, Atlanta"
+        "vicinity": "28 Commercial Warehouse Dr # 3, Hattiesburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.6262043,
-            "lng": -83.9754597
+            "lat": 31.3355941,
+            "lng": -89.3450601
           },
           "viewport": {
             "northeast": {
-              "lat": 33.62752477989272,
-              "lng": -83.97420067010727
+              "lat": 31.33680612989271,
+              "lng": -89.34378927010727
             },
             "southwest": {
-              "lat": 33.62482512010728,
-              "lng": -83.97690032989271
+              "lat": 31.33410647010727,
+              "lng": -89.34648892989271
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7609208c60b0239284c6bf07612546aa9419298f",
-        "name": "Conyers Capoeira",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f89a19c4fed5eeb4721fec2e78e16ae7ac9ba8c1",
+        "name": "Fourth Street CrossFit",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 678,
+            "height": 544,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113399329240972105723/photos\">Conyers Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106784285774778406294/photos\">Fourth Street CrossFit</a>"
             ],
-            "photo_reference": "CmRaAAAAW-uVBUIkQriBIs4LWTgx3iechw4z-1KlLSzP8q-oglXZ7Y5LSJknovh0G7rfoM7ETIJgVoF9C4zBKDauOuBT9SApQHbQ-XaLh8PEcc2LORqjHrQi1BW5aOYrZ4jiykPwEhBCoxewx_Q07qIS3vARExzEGhRyArPhoLW7pIExJczkp915dgcgtA",
-            "width": 971
+            "photo_reference": "CmRaAAAALj8ZI3A31nUvp5OtIyzbC_YVcspnjCPOHbxAwuzmaN602hSCz97GQXnXFi9ppc02FBm4laN9jhwvOqh1rP_tRTocSnAN40XVrnvEHjfD9Z22r7X9ZQeUoc0YKwZ_g0gLEhB9Lla-v0H20HyVcPVQ0ZV3GhTu2Q_eL2PKJ4MzIGeO1_qySoO4LQ",
+            "width": 960
           }
         ],
-        "place_id": "ChIJnYz2wR9L9IgROPBrz9ZMpPE",
+        "place_id": "ChIJ3RO0y8benIgR-7uRX8B8KDM",
         "plus_code": {
-          "compound_code": "J2GF+FR Conyers, Georgia",
-          "global_code": "865RJ2GF+FR"
+          "compound_code": "8MP3+6X Hattiesburg, Mississippi",
+          "global_code": "863G8MP3+6X"
         },
-        "rating": 0,
-        "reference": "ChIJnYz2wR9L9IgROPBrz9ZMpPE",
+        "rating": 5,
+        "reference": "ChIJ3RO0y8benIgR-7uRX8B8KDM",
         "scope": "GOOGLE",
         "types": [
+          "gym",
+          "clothing_store",
+          "store",
+          "health",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3805 W 4th St, Hattiesburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 31.3354953,
+            "lng": -89.38458419999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 31.33674977989272,
+              "lng": -89.38328032010726
+            },
+            "southwest": {
+              "lat": 31.33405012010727,
+              "lng": -89.38597997989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "b8a72c7e6207bba2cd2529299258dd4f3a736dd6",
+        "name": "Crossfit Hattiesburg LLC",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117867088305685520163/photos\">James Grider</a>"
+            ],
+            "photo_reference": "CmRaAAAA163vBQ1bqLEo4FjBiyLkAUiQZq_Fv8ExHl9qvf4QYDpBCggJ-EqcnHLwgKiSHnzbtAF8iXorEzK3wKYWKgErYGBTZ12OitSc1Of9Na1jubybxj_0PyD2O9E6-41MzNAdEhDtgXM54sLIcMr95s09Rh0UGhQs9kKcKZgPbe7D7DsXF-nkvJBFzA",
+            "width": 3984
+          }
+        ],
+        "place_id": "ChIJ2YVv20PfnIgR7DOntytsM64",
+        "plus_code": {
+          "compound_code": "8JP8+55 West Hattiesburg, Mississippi",
+          "global_code": "863G8JP8+55"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ2YVv20PfnIgR7DOntytsM64",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2020 Eastside Dr SE, Conyers"
+        "vicinity": "28 Commercial Warehouse Drive #3, Hattiesburg"
       }
     ],
     "status": "OK"
