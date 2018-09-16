@@ -1,105 +1,20 @@
 {
-  "city_name": "jeffersonville-indiana",
-  "city_rank": 809,
-  "city_population": 45929,
+  "city_name": "san-jacinto-california",
+  "city_rank": 810,
+  "city_population": 45851,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.2775702,
-      -85.7371847
+      33.7839084,
+      -116.958635
     ],
     "rankby": "distance"
   },
-  "people_per_result": 22965,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.175618,
-            "lng": -85.7119342
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.17688802989272,
-              "lng": -85.71050637010728
-            },
-            "southwest": {
-              "lat": 38.17418837010727,
-              "lng": -85.71320602989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "448993b63fe83b9b5990eec455c3bf84b1519602",
-        "name": "Louisville Tae Kwon DO School",
-        "place_id": "ChIJg60IYkcMaYgRbBr8piSmWv4",
-        "plus_code": {
-          "compound_code": "57GQ+66 Lynnview, Kentucky",
-          "global_code": "86CP57GQ+66"
-        },
-        "rating": 5,
-        "reference": "ChIJg60IYkcMaYgRbBr8piSmWv4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1209 Gilmore Ln, Louisville"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2172038,
-            "lng": -85.57172589999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.21836212989272,
-              "lng": -85.57078692010727
-            },
-            "southwest": {
-              "lat": 38.21566247010728,
-              "lng": -85.57348657989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ea69e276bd46ade9811520fb06d59c2425f3551e",
-        "name": "Freestyle Fitness",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2578,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100110417555964752348/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA5fabdQEzNaHLDSqgo5FggzcZMxPIq_IUcbV6WoSKEyuh-6ujGTYQdrXRjBOqzRvhILDkoeoeKBth9M0j9SFue7GPE32bX4BXlbUMylai1atJb1C8RHUPiGdGJGAWfv7wEhBTH4bx4M1HDyoKNG-4rluOGhTdPfqbg4dOk8UwiOsDQhx9pjNSBA",
-            "width": 3863
-          }
-        ],
-        "place_id": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
-        "plus_code": {
-          "compound_code": "6C8H+V8 Jeffersontown, Kentucky",
-          "global_code": "86CP6C8H+V8"
-        },
-        "rating": 4.8,
-        "reference": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1825 Plantside Dr, Jeffersontown"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
