@@ -1,20 +1,62 @@
 {
-  "city_name": "lompoc-california",
-  "city_rank": 844,
-  "city_population": 43509,
+  "city_name": "el-centro-california",
+  "city_rank": 845,
+  "city_population": 43363,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6391501,
-      -120.4579409
+      32.792,
+      -115.5630514
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 43363,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6585948,
+            "lng": -115.4501826
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.65994462989271,
+              "lng": -115.4488327701073
+            },
+            "southwest": {
+              "lat": 32.65724497010726,
+              "lng": -115.4515324298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2bb7d2088863e71948ec4c9e891414c17ebd7427",
+        "name": "CAPOEIRA Mexicali",
+        "photos": [
+          {
+            "height": 458,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112691419559891540486/photos\">CAPOEIRA Mexicali</a>"
+            ],
+            "photo_reference": "CmRaAAAAsRmzsNUtLhAibPDu3SihG_hMs9dLorHLz2XjJ-6KSAXAMzKYOt-nEpkNM6ulZKcx80UKH6P37rYvGXiV4l_Rh3E0004VYjheHUKB3R6Wn-PPczRZVlxaFekc2YDetyQwEhCuiptsh0tB2RxjHWoX-p90GhRTLZhIt2Nh_cdzkeNYs4VOnHpHzQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJi-HyUBVw14AR0XcmAMdZLuw",
+        "rating": 5,
+        "reference": "ChIJi-HyUBVw14AR0XcmAMdZLuw",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida República de Uruguay 99 Sur, Cuauhtémoc Sur, Mexicali"
+      }
+    ],
+    "status": "OK"
   }
 }
