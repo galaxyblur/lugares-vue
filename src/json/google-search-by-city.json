@@ -1,69 +1,20 @@
 {
-  "city_name": "crystal-lake-illinois",
-  "city_rank": 912,
-  "city_population": 40388,
+  "city_name": "fitchburg-massachusetts",
+  "city_rank": 913,
+  "city_population": 40383,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2411344,
-      -88.31619649999999
+      42.5834228,
+      -71.8022955
     ],
     "rankby": "distance"
   },
-  "people_per_result": 40388,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.0061162,
-            "lng": -88.0823128
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.00746632989272,
-              "lng": -88.08109592010727
-            },
-            "southwest": {
-              "lat": 42.00476667010728,
-              "lng": -88.08379557989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
-        "name": "Grupo Capoeira Brasil: Schaumburg",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 662,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA4B2pmN7SkrObflKwVtoqPWLD1fbJwt8XxsiUPTtkNFSerlhz60dQv-ytrFv8eDm23lNzpUvH4M6JBvppWbAAF7LHBaclX4Dbsgk6hJqPSJMYicckhveRl1mMRRVdWzPqEhBK9jd6nhZUVsOxTOIRLN5MGhR-RqWpM9SG2exNdAFNJoeh7kWmsA",
-            "width": 884
-          }
-        ],
-        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
-        "plus_code": {
-          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
-          "global_code": "86JH2W49+C3"
-        },
-        "rating": 5,
-        "reference": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1154 S Roselle Rd, Schaumburg"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
