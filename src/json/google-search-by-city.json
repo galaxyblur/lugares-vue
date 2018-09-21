@@ -1,66 +1,20 @@
 {
-  "city_name": "cedar-falls-iowa",
-  "city_rank": 909,
-  "city_population": 40566,
+  "city_name": "beaumont-california",
+  "city_rank": 910,
+  "city_population": 40481,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5348993,
-      -92.4453161
+      33.9294606,
+      -116.977248
     ],
     "rankby": "distance"
   },
-  "people_per_result": 40566,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.5133893,
-            "lng": -92.4620034
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.5260645,
-              "lng": -92.4437595
-            },
-            "southwest": {
-              "lat": 42.5008517,
-              "lng": -92.49221949999998
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "c2df32bbb10d2fab3fe353e9481452f2031052c9",
-        "name": "University of Northern Iowa",
-        "photos": [
-          {
-            "height": 3864,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116740182830591117785/photos\">Ana Aguilera</a>"
-            ],
-            "photo_reference": "CmRaAAAASI5Ic9d91riHXZRQwWTeZ7j16e-0HnrnP1fU4QahXwscXqem0hQcUYcIcRcZDCsEIEinaFeMMa2BLDtvM3dWNrQfKlN_w5pYIlXpqVKTKXTwBnUaAAAlyuI0K7s0mt86EhArBfDCgSHl6A7cHSMucQgVGhSc88IYwArxSVzS-XoZ2rxZ3Q1Hvw",
-            "width": 5152
-          }
-        ],
-        "place_id": "ChIJLQQF0BpT5YcRIkUAbLnD4XU",
-        "plus_code": {
-          "compound_code": "GG7Q+95 Cedar Falls, Iowa",
-          "global_code": "86J9GG7Q+95"
-        },
-        "rating": 4.5,
-        "reference": "ChIJLQQF0BpT5YcRIkUAbLnD4XU",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1227 W 27th St, Cedar Falls"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
