@@ -1,20 +1,70 @@
 {
-  "city_name": "holyoke-massachusetts",
-  "city_rank": 920,
-  "city_population": 40249,
+  "city_name": "bentonville-arkansas",
+  "city_rank": 921,
+  "city_population": 40167,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2042586,
-      -72.6162009
+      36.3728538,
+      -94.2088172
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 40167,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 36.3560234,
+            "lng": -94.19501969999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 36.35729492989272,
+              "lng": -94.19367257010727
+            },
+            "southwest": {
+              "lat": 36.35459527010728,
+              "lng": -94.19637222989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8ef19b27c7409e4a95523bf14a9427ccc0680c92",
+        "name": "Inferno Fitness & Mixed Martial Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1224,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102331997554954226903/photos\">Inferno Fitness &amp; Mixed Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAA50Xy43OtxOniEipreyv3Oh6Gm8faU3_Srkru47XOdzoRX5CveTuynOYQB8i7VahWLablv6XfOxsiCzbqcMZ37QsqZkIpUKFda93GMl6nJDKBHuNEACHqFCnmPehW2uFZEhC6SVZhkgsP1d7ACowNOwmNGhQn0VOzx6ZYRiF8-TSTlTCLH2X1nQ",
+            "width": 1632
+          }
+        ],
+        "place_id": "ChIJJ8vqSnwQyYcRmhu3u9u3MeU",
+        "plus_code": {
+          "compound_code": "9R43+CX Bentonville, Township 7, AR",
+          "global_code": "86879R43+CX"
+        },
+        "rating": 4.9,
+        "reference": "ChIJJ8vqSnwQyYcRmhu3u9u3MeU",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1200 SE14th Street, Suite 12, Bentonville"
+      }
+    ],
+    "status": "OK"
   }
 }
