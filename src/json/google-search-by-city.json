@@ -1,20 +1,115 @@
 {
-  "city_name": "moorhead-minnesota",
-  "city_rank": 939,
-  "city_population": 39398,
+  "city_name": "calexico-california",
+  "city_rank": 940,
+  "city_population": 39389,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      46.8737648,
-      -96.76780389999999
+      32.6789476,
+      -115.4988834
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 19695,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6585948,
+            "lng": -115.4501826
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.65994462989271,
+              "lng": -115.4488327701073
+            },
+            "southwest": {
+              "lat": 32.65724497010726,
+              "lng": -115.4515324298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2bb7d2088863e71948ec4c9e891414c17ebd7427",
+        "name": "CAPOEIRA Mexicali",
+        "photos": [
+          {
+            "height": 458,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112691419559891540486/photos\">CAPOEIRA Mexicali</a>"
+            ],
+            "photo_reference": "CmRaAAAAFkC41Big5lfqBoOpSkTNIeAWFXGg6dHugLBGCHQfq8Eft6XqyFAb7t8zn0l3INAWCBTsnDC7KLXHiiMjlSalekw4k9JSNQYK8unwOTxsWOXGt6J5G9qoLAQfVvbBgX0REhAF59wjXa5Y0P22sYkhHZzHGhTvu9rwktih-iATu3bLKQhzzlshBg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJi-HyUBVw14AR0XcmAMdZLuw",
+        "plus_code": {
+          "compound_code": "MG5X+CW Mexicali, Baja California, Mexico",
+          "global_code": "8546MG5X+CW"
+        },
+        "rating": 5,
+        "reference": "ChIJi-HyUBVw14AR0XcmAMdZLuw",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Avenida República de Uruguay 99 Sur, Cuauhtémoc Sur, Mexicali"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.6170048,
+            "lng": -115.4052545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.61835462989273,
+              "lng": -115.4039046701073
+            },
+            "southwest": {
+              "lat": 32.61565497010729,
+              "lng": -115.4066043298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "27806084d7dcd1607a48c4a3bf5d83ab14a4f137",
+        "name": "Capoeira Brasil Mexicali",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111043538642937907494/photos\">Promocao Sanchez</a>"
+            ],
+            "photo_reference": "CmRaAAAA-g_67zEHeR3R4VDQJ5UX-qX4EbkSEQcILsuZxF7BGGrVM9xbGE-kT2u4FgAWerv3fb72KbrgeLJWUIsK-JIZ49BIkIMbLA9H5IXDQGTTbUqib7Wxsf7pvGzPFUgfJOO1EhD1DRFwEEXqGcVvfhr4UOIVGhQFYJYQ6_hqp-i50slhR6jj5LJ62Q",
+            "width": 4224
+          }
+        ],
+        "place_id": "ChIJJ9wzrTlx14AR2sMWqZ7_zOg",
+        "plus_code": {
+          "compound_code": "JH8V+RV Mexicali, Baja California, Mexico",
+          "global_code": "8546JH8V+RV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJJ9wzrTlx14AR2sMWqZ7_zOg",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "y #2004, Bulevar Venustiano Carranza & Villa Avenida Valle de las Mariposas, Villa Bonita, Mexicali"
+      }
+    ],
+    "status": "OK"
   }
 }
