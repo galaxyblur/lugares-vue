@@ -1,69 +1,20 @@
 {
-  "city_name": "lancaster-ohio",
-  "city_rank": 944,
-  "city_population": 39325,
+  "city_name": "wausau-wisconsin",
+  "city_rank": 945,
+  "city_population": 39309,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.7136754,
-      -82.5993294
+      44.9591352,
+      -89.6301221
     ],
     "rankby": "distance"
   },
-  "people_per_result": 39325,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.9651635,
-            "lng": -83.00253029999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.96632567989273,
-              "lng": -83.00114637010728
-            },
-            "southwest": {
-              "lat": 39.96362602010728,
-              "lng": -83.00384602989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "6e41a6aea919ee0fe92d0caa192b6dc3791d6c1a",
-        "name": "Carioca Capoeira Columbus",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 695,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116360200931330089954/photos\">Carioca Capoeira Columbus</a>"
-            ],
-            "photo_reference": "CmRaAAAAaVH_b2MW8PGKRD9Z7mX1vHMWX_k8pRarWOZdO6jwTTU3b2siBqmZJHmVn2Qpto8AgU4KQDjWD2DH_wVCraYNXCS1sek47YAlPyV2n8dpuzHHJvz9uZXQ0YpFBGh94NG6EhBW-n9Z1DnPiHwUEkEWRqGkGhRiknQHWhxIXFLz-rMQFhDloSpbTw",
-            "width": 695
-          }
-        ],
-        "place_id": "ChIJqXwl3i-POIgRImCLbi1DNv4",
-        "plus_code": {
-          "compound_code": "XX8W+3X Columbus, Ohio",
-          "global_code": "86FRXX8W+3X"
-        },
-        "rating": 5,
-        "reference": "ChIJqXwl3i-POIgRImCLbi1DNv4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "40 W Long St, Columbus"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
