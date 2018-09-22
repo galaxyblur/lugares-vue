@@ -1,20 +1,69 @@
 {
-  "city_name": "muskogee-oklahoma",
-  "city_rank": 952,
-  "city_population": 38863,
+  "city_name": "cape-girardeau-missouri",
+  "city_rank": 953,
+  "city_population": 38816,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.7478769,
-      -95.3696909
+      37.3058839,
+      -89.51814759999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 38816,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.3148783,
+            "lng": -89.52804379999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.3242874,
+              "lng": -89.52097520000001
+            },
+            "southwest": {
+              "lat": 37.30109179999999,
+              "lng": -89.53662039999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6a461a20768448b4c05135a8ea450521ffbdcee2",
+        "name": "Southeast Missouri State University",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3740,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107435581595662345220/photos\">Southeast Missouri State University</a>"
+            ],
+            "photo_reference": "CmRaAAAAo33LdFxGK7Net_rnIpLPGSHrNTQC2snQT_aN2BMm3q_PSIA5ZWBpYpQuynRYrl_i9j3EID8PG3Vjj4BwxGPz22LkyfxFBwXi29UVGJhLMF-URFsy6GxgsE10WQ_1THuEEhDTkrKPpvm92UBpvUwXOdIOGhSBYxVQbbHJzi5Amx5nGq4unerAow",
+            "width": 5610
+          }
+        ],
+        "place_id": "ChIJV21zkJWHd4gRocmliX64KJ4",
+        "plus_code": {
+          "compound_code": "8F7C+XQ Cape Girardeau, Cape Girardeau Township, MO",
+          "global_code": "869G8F7C+XQ"
+        },
+        "rating": 3.8,
+        "reference": "ChIJV21zkJWHd4gRocmliX64KJ4",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1 University Plaza, Cape Girardeau"
+      }
+    ],
+    "status": "OK"
   }
 }
