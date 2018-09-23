@@ -1,16 +1,16 @@
 {
-  "city_name": "carpentersville-illinois",
-  "city_rank": 965,
-  "city_population": 38241,
+  "city_name": "oakley-california",
+  "city_rank": 966,
+  "city_population": 38194,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.1211364,
-      -88.2578582
+      37.9974219,
+      -121.7124536
     ],
     "rankby": "distance"
   },
-  "people_per_result": 38241,
+  "people_per_result": 19097,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,50 +18,85 @@
       {
         "geometry": {
           "location": {
-            "lat": 42.0061162,
-            "lng": -88.0823128
+            "lat": 37.896831,
+            "lng": -122.06799
           },
           "viewport": {
             "northeast": {
-              "lat": 42.00746632989272,
-              "lng": -88.08109592010727
+              "lat": 37.89829742989272,
+              "lng": -122.0667052701073
             },
             "southwest": {
-              "lat": 42.00476667010728,
-              "lng": -88.08379557989272
+              "lat": 37.89559777010727,
+              "lng": -122.0694049298928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
-        "name": "Grupo Capoeira Brasil: Schaumburg",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 662,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA8EPHrUQNFJZkGmvhl6xb7xg3nJD6Wgoj4YlJq2keGw-VTN_pWOyDPtf6lv7_B1DzTn-qbwCHnkqwI0_gL9Xc2HRNTOblUBbRID7_4Lnr_3EjzYUlCpb9R6tl75Fq_uKXEhDOvikI9MWo9n90av6oG9VGGhRALq31s7LhHYlA0W8NqUqjwwkQEg",
-            "width": 884
-          }
-        ],
-        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "id": "a724da139b348d098dd5cd9ea4f50eb51fbebe16",
+        "name": "Omulu Capoeira Walnut Creek",
+        "place_id": "ChIJ9xGSkuxhhYARPKacbLrJwVE",
         "plus_code": {
-          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
-          "global_code": "86JH2W49+C3"
+          "compound_code": "VWWJ+PR Walnut Creek, California",
+          "global_code": "849VVWWJ+PR"
         },
         "rating": 5,
-        "reference": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "reference": "ChIJ9xGSkuxhhYARPKacbLrJwVE",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1154 S Roselle Rd, Schaumburg"
+        "vicinity": "2029 Mt Diablo Blvd, Walnut Creek"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6748522,
+            "lng": -122.0810687
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.67626022989272,
+              "lng": -122.0795892201073
+            },
+            "southwest": {
+              "lat": 37.67356057010728,
+              "lng": -122.0822888798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
+        "name": "United Capoeira Association - Hayward",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 716,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116049420993522808852/photos\">United Capoeira Association - Hayward</a>"
+            ],
+            "photo_reference": "CmRaAAAARTWIrmkoF3hcCIvTFMaReN51c1z1LGu3VmF2zj_6mECaW6umG2oRKBwtTTR2Vu8wVxtvWeepL0o8juBRcYCEJRFz8G_kxK05p6srE1zRgKH2P8a0elPnFZbeVhXdiye0EhCYDp2ShII5-jfBPWX184SgGhRCQI4NoJuXI0zIhfKJmqKPqe1kUA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "plus_code": {
+          "compound_code": "MWF9+WH Hayward, California",
+          "global_code": "849VMWF9+WH"
+        },
+        "rating": 4.9,
+        "reference": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "22540 Foothill Blvd, Hayward"
       }
     ],
     "status": "OK"
