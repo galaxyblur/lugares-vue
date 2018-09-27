@@ -1,20 +1,114 @@
 {
-  "city_name": "stockton-california",
-  "city_rank": 64,
-  "city_population": 298118,
+  "city_name": "cincinnati-ohio",
+  "city_rank": 65,
+  "city_population": 297517,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.9577016,
-      -121.2907796
+      39.1031182,
+      -84.5120196
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 148759,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.1036221,
+            "lng": -84.5113418
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.10492897989271,
+              "lng": -84.51027442010728
+            },
+            "southwest": {
+              "lat": 39.10222932010727,
+              "lng": -84.51297407989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "db53265837ddb4637414e8a943ffadad20fd563c",
+        "name": "Aronoff Center for the Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1335,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104497976710004992416/photos\">Aronoff Center for the Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAYl_gMykMIx-CWe886LdIzTc7ZJxnFvubCpObBkaN2Z9ouXonaEouiBf8jGVP4svYqAa6KwHWUgbWoik3BhoPwrZvqinWm8efIt1ZbgnpeKgj2CbCuB7A5_gof6FzRz-jEhAV1UTDcazz6dHnC0bMqPnsGhTf5NoWLahbGnY5hzxSCc_j3mmALA",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJIQvf_1mxQYgRrb7-yyx2uzM",
+        "plus_code": {
+          "compound_code": "4F3Q+CF Cincinnati, Ohio",
+          "global_code": "86FQ4F3Q+CF"
+        },
+        "rating": 4.7,
+        "reference": "ChIJIQvf_1mxQYgRrb7-yyx2uzM",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "650 Walnut St, Cincinnati"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.1831414,
+            "lng": -84.4276407
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.18449547989272,
+              "lng": -84.42611937010727
+            },
+            "southwest": {
+              "lat": 39.18179582010728,
+              "lng": -84.42881902989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4e043516a8aaa044b904314df9c0db00e66a15df",
+        "name": "Cincinnati Yoga School",
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108847025310444026900/photos\">jade lopez</a>"
+            ],
+            "photo_reference": "CmRaAAAAg_AyQes-zB4RVLHz38yNvz5UMfDMSMFqEIEfFSZ6NEyDZfXma7TAqVdaMJzoG5COpKQm81mqfC-IzzPKKoPvR_-t_BsFcKcFQyb9m5fXykJY2uBgg1yXlE3W_SFeE1JmEhAR5rdYzyckZD_Qi2BDbY8tGhSvm2IDoaA7QaZKP-vv8G3jghr_4g",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJTQk5-k2tQYgREWA42zUuRfw",
+        "plus_code": {
+          "compound_code": "5HMC+7W Cincinnati, Ohio",
+          "global_code": "86FQ5HMC+7W"
+        },
+        "rating": 4.7,
+        "reference": "ChIJTQk5-k2tQYgREWA42zUuRfw",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6125 Ridge Ave, Cincinnati"
+      }
+    ],
+    "status": "OK"
   }
 }
