@@ -1,69 +1,20 @@
 {
-  "city_name": "anchorage-alaska",
-  "city_rank": 63,
-  "city_population": 300950,
+  "city_name": "stockton-california",
+  "city_rank": 64,
+  "city_population": 298118,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      61.2180556,
-      -149.9002778
+      37.9577016,
+      -121.2907796
     ],
     "rankby": "distance"
   },
-  "people_per_result": 300950,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 61.1910421,
-            "lng": -149.8195598
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 61.19683825000001,
-              "lng": -149.79723835
-            },
-            "southwest": {
-              "lat": 61.18091444999999,
-              "lng": -149.85128895
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7092ed5c640b8c2c23d84531fd759685c452c7df",
-        "name": "University of Alaska Anchorage",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106599441255234401250/photos\">Ian Brooks</a>"
-            ],
-            "photo_reference": "CmRaAAAAQot2A2swyLKJMBYLw4kXzNSgiZ5yvuSWj9gMAzoosFXDUDFgxlKSRYL-WAaRBJOiHezkBAhOoNmCbLezemcE0CTHz_d0T3PU8LgUklK4kU4Yx48I6PstxhmU5vlnp4_PEhBYI7CAAnE2tHg9uiPTUzCCGhQ4ybwlVVIOMcUpN_WnKJK_GknTXg",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJ8bmy6gCXyFYRTR9S4kzTHyk",
-        "plus_code": {
-          "compound_code": "55RJ+C5 U-MED District, Anchorage, AK",
-          "global_code": "93HG55RJ+C5"
-        },
-        "rating": 3.5,
-        "reference": "ChIJ8bmy6gCXyFYRTR9S4kzTHyk",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3211 Providence Dr, Anchorage"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
