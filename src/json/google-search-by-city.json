@@ -1,16 +1,16 @@
 {
-  "city_name": "lubbock-texas",
-  "city_rank": 84,
-  "city_population": 239538,
+  "city_name": "irvine-california",
+  "city_rank": 85,
+  "city_population": 236716,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.5778631,
-      -101.8551665
+      33.6839473,
+      -117.7946942
     ],
     "rankby": "distance"
   },
-  "people_per_result": 239538,
+  "people_per_result": 47343,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,47 +18,229 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.5842591,
-            "lng": -101.8782822
+            "lat": 33.6809383,
+            "lng": -117.7790654
           },
           "viewport": {
             "northeast": {
-              "lat": 33.62106645,
-              "lng": -101.85375315
+              "lat": 33.68232222989273,
+              "lng": -117.7777627701073
             },
             "southwest": {
-              "lat": 33.56344865000001,
-              "lng": -101.92221495
+              "lat": 33.67962257010728,
+              "lng": -117.7804624298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5e831d14b42104b045dcf7fd9e176470b981e63d",
-        "name": "Texas Tech University",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false
+        },
         "photos": [
           {
-            "height": 3840,
+            "height": 2448,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117710766088272815323/photos\">Nicholas Gangloff</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
             ],
-            "photo_reference": "CmRaAAAA5sS3_9wFaPuGHG3JMCEL1VKC93D9chBvh_ShCDAoaybZKRg4wqJXnbXG4YHwt25RmEoy1FD76AwRZPMEs7rn7_OeEF4ayrUlX82ZOBPp6_W2IsaWqHo_9xGOL8B5aXWeEhCF4AyxufPYCE6i6hmPLJc0GhRKON6iGiMRWRps1q-lzDO9V2dTkA",
-            "width": 5120
+            "photo_reference": "CmRZAAAAACE_SYfsx3_Ic5sMrQjeMm3EKRHdWqXP9U3KAs7ukgnAXBxHRVm4w6DB1GTUnxVwDRysWUpQj_uW6AhTL98re0MQgC-sHVRgsnIbQHdJZ5cdJQ7ILUICWXwanxmTWrZUEhCf30-AFTIE-NPv-PmZrHRKGhSuMhjOJ027Dl181ElZFD92sQ0DNg",
+            "width": 3264
           }
         ],
-        "place_id": "ChIJR8ge8xPEQIYRSXiwt3SzLQU",
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
         "plus_code": {
-          "compound_code": "H4MC+PM Lubbock, Texas",
-          "global_code": "855WH4MC+PM"
+          "compound_code": "M6JC+99 Irvine, California",
+          "global_code": "8554M6JC+99"
         },
-        "rating": 4.3,
-        "reference": "ChIJR8ge8xPEQIYRSXiwt3SzLQU",
+        "rating": 5,
+        "reference": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
         "scope": "GOOGLE",
         "types": [
-          "university",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2500 Broadway, Lubbock"
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6550863,
+            "lng": -117.9194759
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.65640107989272,
+              "lng": -117.9181256201073
+            },
+            "southwest": {
+              "lat": 33.65370142010728,
+              "lng": -117.9208252798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c06ddc2b38ef3baf0a885a954b50ca2eddb81218",
+        "name": "Capoeira Brasil Orange County",
+        "place_id": "ChIJNYBpUX_f3IARfLrZ75yCbJE",
+        "plus_code": {
+          "compound_code": "M34J+26 Costa Mesa, California",
+          "global_code": "8554M34J+26"
+        },
+        "rating": 0,
+        "reference": "ChIJNYBpUX_f3IARfLrZ75yCbJE",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2221 Harbor Blvd, Costa Mesa"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.7746675,
+            "lng": -118.1649725
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.77612062989273,
+              "lng": -118.1635864201073
+            },
+            "southwest": {
+              "lat": 33.77342097010728,
+              "lng": -118.1662860798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "73621c705c38aacf7a9ffd4003b44937dd36ea47",
+        "name": "BodySport Capoeira - Mestre Roque",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113214259332928023821/photos\">Aleksey Volchek</a>"
+            ],
+            "photo_reference": "CmRaAAAAuKdz9cEiY4JdR5v2d56vQEXn7pD7uvGunBCZ-uriTCYXMwtuJ9hoQX79vfXtHOseMrL3Y3pK5dLFEvaSIgNCVvEfWCpYCNtpoFNv-gkM-YHt0ML7x462QnZxa-D-SmFfEhDFzCKxsKNuBEppfvkhRjXKGhSlOTnocfMeWA9fbwDg_NKZcM26eg",
+            "width": 4928
+          }
+        ],
+        "place_id": "ChIJ_-829gsx3YAR20XLlgO3fX8",
+        "plus_code": {
+          "compound_code": "QRFP+V2 Long Beach, California",
+          "global_code": "8553QRFP+V2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ_-829gsx3YAR20XLlgO3fX8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2236 E 7th St, Long Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8338173,
+            "lng": -118.1418467
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.83508647989272,
+              "lng": -118.1406069201073
+            },
+            "southwest": {
+              "lat": 33.83238682010728,
+              "lng": -118.1433065798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c06ed4c18c8ea709ce566742f17be3046b05153e",
+        "name": "Capoeira CDO Long Beach",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3648,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103893103277280873504/photos\">Capoeira CDO Long Beach</a>"
+            ],
+            "photo_reference": "CmRaAAAA3ShsNv-wZkSpjFWFTHzRjQ2NVR9tNYssMPMDIx7IOKGTIcSxfN2_N-69OWT3yqiIzi34pNeXl9YoB5VjBasIBuBe5hvrXNoaeSnUGDhTGXnGAd3J1_gIyGvviFSuGmKXEhDcv5afIkNB6u4DQ6kJ7mmwGhQRzPVWxvuZve3mMB3KvUuPe8DGKA",
+            "width": 5472
+          }
+        ],
+        "place_id": "ChIJ5e-le0Qy3YAR5BMxMqCBGTI",
+        "plus_code": {
+          "compound_code": "RVM5+G7 Long Beach, California",
+          "global_code": "8553RVM5+G7"
+        },
+        "rating": 0,
+        "reference": "ChIJ5e-le0Qy3YAR5BMxMqCBGTI",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4162 Norse Way, Long Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.8187192,
+            "lng": -118.1788622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.82017037989272,
+              "lng": -118.1775113201073
+            },
+            "southwest": {
+              "lat": 33.81747072010727,
+              "lng": -118.1802109798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "896e344eb54cd53d0cd2f87470a74fa7b2ac3a14",
+        "name": "Capoeira, Dance, & Fitness Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104799104201791271032/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAQNvRoOTrWXROfqn9yJAxUJ9IFBpRzrPkK0GdVKImm2sWvqcxWu6JLIHRz12fGTD2voqTvs5WcbDERnHWeJW42YUsy4XgaW0C9FCbUYnOh_BWCWkUX6FHW0B83g27zx4TEhD1PPjPz6r5g9NjGfp2oarFGhQ9gH9pcpNbf4KGs39Bm31a-PAz3A",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJA1ajDb8z3YARFtTnM7PtSkE",
+        "plus_code": {
+          "compound_code": "RR9C+FF Long Beach, California",
+          "global_code": "8553RR9C+FF"
+        },
+        "rating": 5,
+        "reference": "ChIJA1ajDb8z3YARFtTnM7PtSkE",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1090 E Wardlow Rd, Long Beach"
       }
     ],
     "status": "OK"
