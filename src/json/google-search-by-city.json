@@ -1,16 +1,16 @@
 {
-  "city_name": "madison-wisconsin",
-  "city_rank": 83,
-  "city_population": 243344,
+  "city_name": "lubbock-texas",
+  "city_rank": 84,
+  "city_population": 239538,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.0730517,
-      -89.4012302
+      33.5778631,
+      -101.8551665
     ],
     "rankby": "distance"
   },
-  "people_per_result": 243344,
+  "people_per_result": 239538,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,36 +18,47 @@
       {
         "geometry": {
           "location": {
-            "lat": 43.0745736,
-            "lng": -89.3915762
+            "lat": 33.5842591,
+            "lng": -101.8782822
           },
           "viewport": {
             "northeast": {
-              "lat": 43.07604067989272,
-              "lng": -89.39022122010728
+              "lat": 33.62106645,
+              "lng": -101.85375315
             },
             "southwest": {
-              "lat": 43.07334102010728,
-              "lng": -89.39292087989273
+              "lat": 33.56344865000001,
+              "lng": -101.92221495
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cd8feea2583a8695f7214d92a8fbbb567b118c65",
-        "name": "Omulu Capoeira Madison",
-        "place_id": "ChIJ9bCWTDZTBogRk4KccYoTyC0",
+        "id": "5e831d14b42104b045dcf7fd9e176470b981e63d",
+        "name": "Texas Tech University",
+        "photos": [
+          {
+            "height": 3840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117710766088272815323/photos\">Nicholas Gangloff</a>"
+            ],
+            "photo_reference": "CmRaAAAA5sS3_9wFaPuGHG3JMCEL1VKC93D9chBvh_ShCDAoaybZKRg4wqJXnbXG4YHwt25RmEoy1FD76AwRZPMEs7rn7_OeEF4ayrUlX82ZOBPp6_W2IsaWqHo_9xGOL8B5aXWeEhCF4AyxufPYCE6i6hmPLJc0GhRKON6iGiMRWRps1q-lzDO9V2dTkA",
+            "width": 5120
+          }
+        ],
+        "place_id": "ChIJR8ge8xPEQIYRSXiwt3SzLQU",
         "plus_code": {
-          "compound_code": "3JF5+R9 Madison, Wisconsin",
-          "global_code": "86MG3JF5+R9"
+          "compound_code": "H4MC+PM Lubbock, Texas",
+          "global_code": "855WH4MC+PM"
         },
-        "rating": 0,
-        "reference": "ChIJ9bCWTDZTBogRk4KccYoTyC0",
+        "rating": 4.3,
+        "reference": "ChIJR8ge8xPEQIYRSXiwt3SzLQU",
         "scope": "GOOGLE",
         "types": [
+          "university",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "341 State St, Madison"
+        "vicinity": "2500 Broadway, Lubbock"
       }
     ],
     "status": "OK"
