@@ -1,16 +1,16 @@
 {
-  "city_name": "rochester-new-york",
-  "city_rank": 103,
-  "city_population": 210358,
+  "city_name": "des-moines-iowa",
+  "city_rank": 104,
+  "city_population": 207510,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.16103,
-      -77.6109219
+      41.6005448,
+      -93.6091064
     ],
     "rankby": "distance"
   },
-  "people_per_result": 210358,
+  "people_per_result": 69170,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,104 @@
       {
         "geometry": {
           "location": {
-            "lat": 43.170205,
-            "lng": -77.56039700000001
+            "lat": 41.589111,
+            "lng": -93.61058
           },
           "viewport": {
             "northeast": {
-              "lat": 43.17157992989272,
-              "lng": -77.55913437010727
+              "lat": 41.59042292989272,
+              "lng": -93.60943132010728
             },
             "southwest": {
-              "lat": 43.16888027010727,
-              "lng": -77.56183402989272
+              "lat": 41.58772327010728,
+              "lng": -93.61213097989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e9752276a77285c8c5ed021c171a3fe9802caa8",
-        "name": "Capoeira Mandinga com Expressao",
+        "id": "c0eb58faf915e1c1a04e0a68e7121e121f880ad6",
+        "name": "Gateway Dance Theatre",
         "opening_hours": {
-          "open_now": false
+          "open_now": true
         },
-        "place_id": "ChIJBYcBeIK11okRRQ459aPhafM",
-        "plus_code": {
-          "compound_code": "5CCQ+3R Rochester, New York",
-          "global_code": "87M45CCQ+3R"
-        },
+        "place_id": "ChIJG_QFGbKZ7ocR-5KzZANOCyU",
         "rating": 5,
-        "reference": "ChIJBYcBeIK11okRRQ459aPhafM",
+        "reference": "ChIJG_QFGbKZ7ocR-5KzZANOCyU",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1352 Culver Rd, Rochester"
+        "vicinity": "315 E 5th St # 12, Des Moines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.60720999999999,
+            "lng": -93.62751899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60855947989272,
+              "lng": -93.62650387010727
+            },
+            "southwest": {
+              "lat": 41.60585982010727,
+              "lng": -93.62920352989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
+        "name": "Roots Capoeira de Ouro",
+        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "plus_code": {
+          "compound_code": "J94C+VX Des Moines, Iowa",
+          "global_code": "86H8J94C+VX"
+        },
+        "rating": 0,
+        "reference": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1541 8th St, Des Moines"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.6072701,
+            "lng": -93.6275083
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60861957989272,
+              "lng": -93.62649857010727
+            },
+            "southwest": {
+              "lat": 41.60591992010728,
+              "lng": -93.62919822989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0503a47f0f8b1d10aabe7b14d8e3833c3b5e98dd",
+        "name": "Moulton Elementary School",
+        "place_id": "ChIJCx46mnOZ7ocRUuOB01MMXFY",
+        "plus_code": {
+          "compound_code": "J94C+WX Des Moines, Iowa",
+          "global_code": "86H8J94C+WX"
+        },
+        "rating": 4.3,
+        "reference": "ChIJCx46mnOZ7ocRUuOB01MMXFY",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1541 8th St, Des Moines"
       }
     ],
     "status": "OK"
