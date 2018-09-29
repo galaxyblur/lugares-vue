@@ -1,20 +1,66 @@
 {
-  "city_name": "columbus-georgia",
-  "city_rank": 110,
-  "city_population": 202824,
+  "city_name": "montgomery-alabama",
+  "city_rank": 111,
+  "city_population": 201332,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.4609764,
-      -84.9877094
+      32.3668052,
+      -86.2999689
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 201332,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.384621,
+            "lng": -86.2177499
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.3859095,
+              "lng": -86.21551339999999
+            },
+            "southwest": {
+              "lat": 32.3807555,
+              "lng": -86.2184954
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dccb0e593e85d60c5f443d9f774856eff669ce57",
+        "name": "Faulkner University",
+        "photos": [
+          {
+            "height": 1362,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103869352021555280279/photos\">Faulkner University</a>"
+            ],
+            "photo_reference": "CmRaAAAA94XZsgEi9OeVMF9CNVbaD2YLdPOP9ObVEBa0kzgTv8nT48Ijk5Gd6uocQvHzk1PMidCv0V0qhBh7P_pXyPaphBxKMQ7xGlJ28fdSKGmT_0MvmOnUHHly15LrgSHVT56eEhC0m6j8oaILvlJaAKyyioJBGhTdX65pLibVf7BoCY4-AIVoiM_kLA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ_cdblisqjIgRQRCr9VtBnzc",
+        "plus_code": {
+          "compound_code": "9QMJ+RW Montgomery, Alabama",
+          "global_code": "864M9QMJ+RW"
+        },
+        "rating": 4,
+        "reference": "ChIJ_cdblisqjIgRQRCr9VtBnzc",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "5345 Atlanta Hwy, Montgomery"
+      }
+    ],
+    "status": "OK"
   }
 }
