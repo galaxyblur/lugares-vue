@@ -1,16 +1,16 @@
 {
-  "city_name": "spokane-washington",
-  "city_rank": 102,
-  "city_population": 210721,
+  "city_name": "rochester-new-york",
+  "city_rank": 103,
+  "city_population": 210358,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.6587802,
-      -117.4260466
+      43.16103,
+      -77.6109219
     ],
     "rankby": "distance"
   },
-  "people_per_result": 210721,
+  "people_per_result": 210358,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,51 +18,40 @@
       {
         "geometry": {
           "location": {
-            "lat": 47.737086,
-            "lng": -117.413262
+            "lat": 43.170205,
+            "lng": -77.56039700000001
           },
           "viewport": {
             "northeast": {
-              "lat": 47.73820317989271,
-              "lng": -117.4119139201073
+              "lat": 43.17157992989272,
+              "lng": -77.55913437010727
             },
             "southwest": {
-              "lat": 47.73550352010727,
-              "lng": -117.4146135798927
+              "lat": 43.16888027010727,
+              "lng": -77.56183402989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "11fac2c408aeabb78c9540062e14e27a07d759be",
-        "name": "Spokane Fitness Center - North Gym",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9e9752276a77285c8c5ed021c171a3fe9802caa8",
+        "name": "Capoeira Mandinga com Expressao",
         "opening_hours": {
-          "open_now": true
+          "open_now": false
         },
-        "photos": [
-          {
-            "height": 1007,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102560078421756760515/photos\">Spokane Fitness Center</a>"
-            ],
-            "photo_reference": "CmRaAAAAMw15sJi_GAmXqxCYj5PIlkkL48fGA2mROPuBbYHpAvqZ9VlZLVhqg8KTdNtV_bPKE_CuUjQ5PLaKIFe_e-58H7J-uk0upzEj-0iLrKTsGI4KEYPCfnDeAJ3QuUvtnwJKEhC5Gwyu4t7NUpGwgOYUU-d4GhQJkBzba79iiqbRoemt4NSOiOTCVg",
-            "width": 2000
-          }
-        ],
-        "place_id": "ChIJYX6A8A8cnlQRE-k7Kt2Dfuc",
+        "place_id": "ChIJBYcBeIK11okRRQ459aPhafM",
         "plus_code": {
-          "compound_code": "PHPP+RM Town and Country, Washington",
-          "global_code": "85V4PHPP+RM"
+          "compound_code": "5CCQ+3R Rochester, New York",
+          "global_code": "87M45CCQ+3R"
         },
-        "rating": 4.5,
-        "reference": "ChIJYX6A8A8cnlQRE-k7Kt2Dfuc",
+        "rating": 5,
+        "reference": "ChIJBYcBeIK11okRRQ459aPhafM",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "110 W Price Ave, Spokane"
+        "vicinity": "1352 Culver Rd, Rochester"
       }
     ],
     "status": "OK"
