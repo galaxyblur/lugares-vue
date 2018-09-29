@@ -1,16 +1,16 @@
 {
-  "city_name": "modesto-california",
-  "city_rank": 105,
-  "city_population": 204933,
+  "city_name": "fayetteville-north-carolina",
+  "city_rank": 106,
+  "city_population": 204408,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.63909719999999,
-      -120.9968782
+      35.0526641,
+      -78.87835849999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 204933,
+  "people_per_result": 204408,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,48 @@
       {
         "geometry": {
           "location": {
-            "lat": 37.5144891,
-            "lng": -120.8260116
+            "lat": 35.044095,
+            "lng": -78.9301723
           },
           "viewport": {
             "northeast": {
-              "lat": 37.51582202989272,
-              "lng": -120.8246620201073
+              "lat": 35.04547502989272,
+              "lng": -78.92889687010728
             },
             "southwest": {
-              "lat": 37.51312237010728,
-              "lng": -120.8273616798928
+              "lat": 35.04277537010728,
+              "lng": -78.93159652989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1f0ec2a8ac24b70abbb1e6aa16dc62348dc61f52",
-        "name": "Central Valley Capoeira",
-        "place_id": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
+        "id": "0642be5709e38411133bb5fc7e701235fb07e66d",
+        "name": "Hayat Yoga Shala",
+        "photos": [
+          {
+            "height": 1520,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101321307474952214712/photos\">Hayat Yoga Shala</a>"
+            ],
+            "photo_reference": "CmRaAAAA9ueRKm60wK7uO5D1ZCAR9zTWyL6tU3o0h9bfpNomp1AAsSiz01kuONy8T9QBPNSQShJIWEtF-6ZdKmt7dNdwVGWUZkUzr9jWqUOlGtBTzdSxkVtheduryMBC2lvmwUu0EhB2f9aikUkYbhRBKWU5MeCoGhTYw18Nv-HMmF_DtZNR-DvfGPsDCg",
+            "width": 2688
+          }
+        ],
+        "place_id": "ChIJCTPJHLsUq4kRnRQQfxLH1rc",
         "plus_code": {
-          "compound_code": "G57F+QH Turlock, California",
-          "global_code": "849XG57F+QH"
+          "compound_code": "23V9+JW Fayetteville, North Carolina",
+          "global_code": "877323V9+JW"
         },
-        "rating": 0,
-        "reference": "ChIJ1dEmiWAGkYAR695QKBFfkfc",
+        "rating": 4.8,
+        "reference": "ChIJCTPJHLsUq4kRnRQQfxLH1rc",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2006 E Tuolumne Rd, Turlock"
+        "vicinity": "3013 Raeford Rd, Fayetteville"
       }
     ],
     "status": "OK"
