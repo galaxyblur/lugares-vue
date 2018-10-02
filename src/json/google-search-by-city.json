@@ -1,16 +1,16 @@
 {
-  "city_name": "killeen-texas",
-  "city_rank": 185,
-  "city_population": 137147,
+  "city_name": "frisco-texas",
+  "city_rank": 186,
+  "city_population": 136791,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.1171194,
-      -97.72779589999999
+      33.1506744,
+      -96.82361159999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 137147,
+  "people_per_result": 68396,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,43 +18,33 @@
       {
         "geometry": {
           "location": {
-            "lat": 31.0666691,
-            "lng": -97.7188149
+            "lat": 33.1312901,
+            "lng": -96.6478546
           },
           "viewport": {
             "northeast": {
-              "lat": 31.06801892989272,
-              "lng": -97.7174650701073
+              "lat": 33.13300807989272,
+              "lng": -96.64650337010728
             },
             "southwest": {
-              "lat": 31.06531927010728,
-              "lng": -97.72016472989273
+              "lat": 33.13030842010728,
+              "lng": -96.64920302989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7d4c45273cc7e3c923b6e3e9db80c47230b909d4",
-        "name": "TITLE Boxing Club - Killeen",
+        "id": "c61286c1b0592a190d871d7c0c1e26b3fb199642",
+        "name": "Capoeira Allen Martial Arts Club",
         "opening_hours": {
-          "open_now": true
+          "open_now": false
         },
-        "photos": [
-          {
-            "height": 607,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106069728799918838422/photos\">TITLE Boxing Club - Killeen</a>"
-            ],
-            "photo_reference": "CmRaAAAAAaaWRSTVIkR1eBfDlK5QKzwQK8jx3EpPWSkfQ13QS3TIwnVGtolZMufjD8e5WGNOthinazTCsE-m8oZr97PI0a2GB-RQChpHF0uiAGIrAsL_w1Sydthzp1Y73cxcv76PEhD32EnkS48i3nsuVvC2kUftGhQYNDBJjWaEXjifsTxdb56Hrj2AAg",
-            "width": 1080
-          }
-        ],
-        "place_id": "ChIJs6rE4UhKRYYRvG7Ly5o9eJc",
+        "place_id": "ChIJVVVVVVAXTIYRN5UYrKNG-D4",
         "plus_code": {
-          "compound_code": "378J+MF Killeen, Texas",
-          "global_code": "8634378J+MF"
+          "compound_code": "49J2+GV Fairview, Texas",
+          "global_code": "865549J2+GV"
         },
-        "rating": 4.3,
-        "reference": "ChIJs6rE4UhKRYYRvG7Ly5o9eJc",
+        "rating": 0,
+        "reference": "ChIJVVVVVVAXTIYRN5UYrKNG-D4",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -62,7 +52,55 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2904 E Stan Schlueter Loop, Killeen"
+        "vicinity": "330 Town Pl, Allen"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
+            },
+            "southwest": {
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAjhT9ncBmJf0KHSRW8G9Oy-GaRWff7v9rFQhQ4yYfgxC8aXqfVefjUDnz9WRlLH78F75nRfKBnNsQxZfSJe7fZ6gYyi83Akon7cUDmcAjnd2miqQ6rUvUZQhESzNj3NvUEhCIPSe5I3dv39jEjYAy6KDbGhT5Brscs6u7HxgRkJf-YbOayr0kBw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "plus_code": {
+          "compound_code": "W5H8+JW Farmers Branch, Texas",
+          "global_code": "8645W5H8+JW"
+        },
+        "rating": 5,
+        "reference": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4505 McEwen Rd, Dallas"
       }
     ],
     "status": "OK"
