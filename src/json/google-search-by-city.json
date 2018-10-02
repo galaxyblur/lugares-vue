@@ -1,67 +1,20 @@
 {
-  "city_name": "savannah-georgia",
-  "city_rank": 180,
-  "city_population": 142772,
+  "city_name": "clarksville-tennessee",
+  "city_rank": 181,
+  "city_population": 142357,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.0835407,
-      -81.09983419999999
+      36.5297706,
+      -87.3594528
     ],
     "rankby": "distance"
   },
-  "people_per_result": 142772,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.0507325,
-            "lng": -81.0636718
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.05219312989272,
-              "lng": -81.06228122010727
-            },
-            "southwest": {
-              "lat": 32.04949347010727,
-              "lng": -81.06498087989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d9428551845dc367e6fec38d79432f88e8b719ba",
-        "name": "CrossFit Savannah",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108579915122505560593/photos\">Kerri Goodrich</a>"
-            ],
-            "photo_reference": "CmRaAAAA7sgXQIiOxz9JIRDjz3_FIUIZJeG2l1hdNz4yFTvQZwSPBjGm1n5179GfmIDWYlUqaJzuiBZZlt0_VMBcjx2MH9zDCfnm_2sG24-ls9QrB3DlzZTJRapvXbGakeyKq-J-EhAJAB_PlEkgRK-AIYTklUiwGhTyoM0zZT_4MftsWKEHxb9pXVCf5g",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJl_gTEvCd-4gRTvxli61RGxw",
-        "plus_code": {
-          "compound_code": "3W2P+7G Savannah, Georgia",
-          "global_code": "864W3W2P+7G"
-        },
-        "rating": 4.8,
-        "reference": "ChIJl_gTEvCd-4gRTvxli61RGxw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2021 Tennessee Ave, Savannah"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
