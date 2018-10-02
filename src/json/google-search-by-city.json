@@ -1,16 +1,16 @@
 {
-  "city_name": "dayton-ohio",
-  "city_rank": 179,
-  "city_population": 143355,
+  "city_name": "savannah-georgia",
+  "city_rank": 180,
+  "city_population": 142772,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.7589478,
-      -84.1916069
+      32.0835407,
+      -81.09983419999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 143355,
+  "people_per_result": 142772,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,48 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.7572219,
-            "lng": -84.18277789999999
+            "lat": 32.0507325,
+            "lng": -81.0636718
           },
           "viewport": {
             "northeast": {
-              "lat": 39.75851317989272,
-              "lng": -84.18143082010727
+              "lat": 32.05219312989272,
+              "lng": -81.06228122010727
             },
             "southwest": {
-              "lat": 39.75581352010727,
-              "lng": -84.18413047989272
+              "lat": 32.04949347010727,
+              "lng": -81.06498087989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5bba827bccf0d0254ebfac5ba174927bfa5ec0ef",
-        "name": "Ohio Budokan Martial Arts",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJYR8ri_6DQIgRZ02Wj0-6pVU",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d9428551845dc367e6fec38d79432f88e8b719ba",
+        "name": "CrossFit Savannah",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108579915122505560593/photos\">Kerri Goodrich</a>"
+            ],
+            "photo_reference": "CmRaAAAA7sgXQIiOxz9JIRDjz3_FIUIZJeG2l1hdNz4yFTvQZwSPBjGm1n5179GfmIDWYlUqaJzuiBZZlt0_VMBcjx2MH9zDCfnm_2sG24-ls9QrB3DlzZTJRapvXbGakeyKq-J-EhAJAB_PlEkgRK-AIYTklUiwGhTyoM0zZT_4MftsWKEHxb9pXVCf5g",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJl_gTEvCd-4gRTvxli61RGxw",
         "plus_code": {
-          "compound_code": "QR48+VV Dayton, Jefferson Township, OH",
-          "global_code": "86FQQR48+VV"
+          "compound_code": "3W2P+7G Savannah, Georgia",
+          "global_code": "864W3W2P+7G"
         },
-        "rating": 4.4,
-        "reference": "ChIJYR8ri_6DQIgRZ02Wj0-6pVU",
+        "rating": 4.8,
+        "reference": "ChIJl_gTEvCd-4gRTvxli61RGxw",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "601 E 5th St, Dayton"
+        "vicinity": "2021 Tennessee Ave, Savannah"
       }
     ],
     "status": "OK"
