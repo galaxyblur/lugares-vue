@@ -1,20 +1,66 @@
 {
-  "city_name": "visalia-california",
-  "city_rank": 201,
-  "city_population": 127763,
+  "city_name": "topeka-kansas",
+  "city_rank": 202,
+  "city_population": 127679,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.3302284,
-      -119.2920585
+      39.0558235,
+      -95.68901849999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 127679,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.0333113,
+            "lng": -95.7017075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.04035990000001,
+              "lng": -95.69247855
+            },
+            "southwest": {
+              "lat": 39.02631669999999,
+              "lng": -95.71066314999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5212c271a1d357fdf07c4101b58bd9b1443329c7",
+        "name": "Washburn University",
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108032019189398636391/photos\">Sean Mahoney</a>"
+            ],
+            "photo_reference": "CmRaAAAAUPcXfKYQakRZrxiK-krU5mKX39VDmrmAfSrp6E5PelKaqhacxVY3onYXF6NWAsJHMNYddzL5BYSu480L9U_q3oR77AQtVaKMcxEeUUq-2-mF0kGDo57E_epolqY4vfIlEhAwTK6b6RnXhoe19r2KS_iGGhSfVUAUq-suyklPDPTfwZrjuhfUag",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJlZ0DrcMCv4cRXItPbJSuLA4",
+        "plus_code": {
+          "compound_code": "27MX+88 Topeka, Kansas",
+          "global_code": "86F627MX+88"
+        },
+        "rating": 4,
+        "reference": "ChIJlZ0DrcMCv4cRXItPbJSuLA4",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1700 SW College Ave, Topeka"
+      }
+    ],
+    "status": "OK"
   }
 }
