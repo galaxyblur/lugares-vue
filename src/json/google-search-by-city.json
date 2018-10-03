@@ -1,72 +1,20 @@
 {
-  "city_name": "lafayette-louisiana",
-  "city_rank": 214,
-  "city_population": 124276,
+  "city_name": "midland-texas",
+  "city_rank": 215,
+  "city_population": 123933,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.2240897,
-      -92.0198427
+      31.9973456,
+      -102.0779146
     ],
     "rankby": "distance"
   },
-  "people_per_result": 124276,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 30.17355,
-            "lng": -92.04185299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.17499737989272,
-              "lng": -92.04039132010728
-            },
-            "southwest": {
-              "lat": 30.17229772010727,
-              "lng": -92.04309097989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "69c510db7bb0459a4ff523f3f7b8d2acd3798e09",
-        "name": "City Club at River Ranch",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 1363,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108377984598810932396/photos\">City Club at River Ranch</a>"
-            ],
-            "photo_reference": "CmRaAAAAxRpNJASxEv1zCP6PsAeQ15Yvum8TXPvcamxLvFen5r_n2G90CkYTCmZrSuLodYU2YaKgXgi4ZwRrMX1o8X630crN0_2SMnrujsihOTlcPomshMJmztpyOpRMfZEoYZx0EhBWTIuSBl17lsGLJE6oVZ2BGhRgiz9izkwEuyP_yL_LcObH-gWlug",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJC9rA37udJIYRLmBYPewWqFc",
-        "plus_code": {
-          "compound_code": "5XF5+C7 Lafayette, B, LA",
-          "global_code": "86295XF5+C7"
-        },
-        "rating": 4.6,
-        "reference": "ChIJC9rA37udJIYRLmBYPewWqFc",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1100 Camellia Blvd #202, Lafayette"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
