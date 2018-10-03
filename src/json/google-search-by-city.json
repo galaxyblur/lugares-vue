@@ -1,20 +1,118 @@
 {
-  "city_name": "cedar-rapids-iowa",
-  "city_rank": 199,
-  "city_population": 128429,
+  "city_name": "charleston-south-carolina",
+  "city_rank": 200,
+  "city_population": 127999,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.9778795,
-      -91.6656232
+      32.7764749,
+      -79.93105120000001
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 64000,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7899302,
+            "lng": -79.8762991
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.79144192989272,
+              "lng": -79.87509272010728
+            },
+            "southwest": {
+              "lat": 32.78874227010727,
+              "lng": -79.87779237989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9c4ec25669001848efa4e55950723850269ff895",
+        "name": "Capoeira Academy of Charleston",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 431,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102562765097942142511/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA-joocDl6wIDbbmV4NWyQAwBlFUQTd59FA6sL8kP8yRFW0NADkqSUZbX0irybknzHyrg6EUaKStaNLeW7YrhokFNxzDY9V-EhAVBvNpGXorahINF9ZUiTL-eo9Nbt59G5EhALeKkaVK_qm7gQWg3jGSzqGhRjd1R262u7JPICwFG0q90akSXPyA",
+            "width": 911
+          }
+        ],
+        "place_id": "ChIJRREXkeNx_ogRwpaOD3zZJF8",
+        "plus_code": {
+          "compound_code": "Q4QF+XF Mt Pleasant, South Carolina",
+          "global_code": "8742Q4QF+XF"
+        },
+        "rating": 0,
+        "reference": "ChIJRREXkeNx_ogRwpaOD3zZJF8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "419 Hibben St, Mt Pleasant"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.8639761,
+            "lng": -79.7898154
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.86496667989271,
+              "lng": -79.78811922010728
+            },
+            "southwest": {
+              "lat": 32.86226702010727,
+              "lng": -79.79081887989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0ea44494b609438c89f23952a5440b71e417ecb0",
+        "name": "Palmetto Sport Karate",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2700,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116429390550203186413/photos\">Emily Madison</a>"
+            ],
+            "photo_reference": "CmRaAAAAn9_bIXdk6BTpD0ViBUxka8zeg0JIC8x84kDKr3NS1pOtyqJwRs9OxCsuyZjA6KKqZ0s4egc0cW3MjQnR5EvIUVXiEnFH0P3eI9Ed6hkVOSDH8bJ2YaDEs2hcWPM0DJmxEhBrqg80hKi0TtHOcscSmFn5GhSaYbx-uMKMxZKMk2a0bHBWck0LIw",
+            "width": 4800
+          }
+        ],
+        "place_id": "ChIJg1qm5aFt_ogR61eQDnrJfsU",
+        "plus_code": {
+          "compound_code": "V676+H3 Mt Pleasant, South Carolina",
+          "global_code": "8742V676+H3"
+        },
+        "rating": 4.9,
+        "reference": "ChIJg1qm5aFt_ogR61eQDnrJfsU",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3040 N Hwy 17 b, Mt Pleasant"
+      }
+    ],
+    "status": "OK"
   }
 }
