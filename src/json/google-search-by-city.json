@@ -1,56 +1,20 @@
 {
-  "city_name": "lansing-michigan",
-  "city_rank": 236,
-  "city_population": 113972,
+  "city_name": "fargo-north-dakota",
+  "city_rank": 237,
+  "city_population": 113658,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.732535,
-      -84.5555347
+      46.8771863,
+      -96.7898034
     ],
     "rankby": "distance"
   },
-  "people_per_result": 113972,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.736689,
-            "lng": -84.47331899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.73808852989271,
-              "lng": -84.47215247010728
-            },
-            "southwest": {
-              "lat": 42.73538887010727,
-              "lng": -84.47485212989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5b0b7ff8bc873aeaa86fc23e4263ec79fecdf57c",
-        "name": "Lansing Area Aikikai LLC",
-        "place_id": "ChIJzb07wi7oIogR5hzYu8YdMQE",
-        "plus_code": {
-          "compound_code": "PGPG+MM East Lansing, Michigan",
-          "global_code": "86JQPGPG+MM"
-        },
-        "rating": 5,
-        "reference": "ChIJzb07wi7oIogR5hzYu8YdMQE",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "368 Orchard St, East Lansing"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
