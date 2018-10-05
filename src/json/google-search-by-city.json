@@ -1,56 +1,20 @@
 {
-  "city_name": "rochester-minnesota",
-  "city_rank": 246,
-  "city_population": 110742,
+  "city_name": "odessa-texas",
+  "city_rank": 247,
+  "city_population": 110720,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0121221,
-      -92.4801989
+      31.8456816,
+      -102.3676431
     ],
     "rankby": "distance"
   },
-  "people_per_result": 110742,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.9801948,
-            "lng": -92.46327149999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.98153987989273,
-              "lng": -92.46174817010727
-            },
-            "southwest": {
-              "lat": 43.97884022010729,
-              "lng": -92.46444782989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2a4c5d8ec4e27b5fbec0a040fa34bd64dc50d80b",
-        "name": "Martial Arts Fitness Center",
-        "place_id": "ChIJ-4I13KZY94cRrz5dkjw2b8U",
-        "plus_code": {
-          "compound_code": "XGJP+3M Rochester, Minnesota",
-          "global_code": "86M9XGJP+3M"
-        },
-        "rating": 0,
-        "reference": "ChIJ-4I13KZY94cRrz5dkjw2b8U",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Frontage Rd, Rochester"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
