@@ -1,16 +1,16 @@
 {
-  "city_name": "albany-new-york",
-  "city_rank": 299,
-  "city_population": 98424,
+  "city_name": "jurupa-valley-california",
+  "city_rank": 300,
+  "city_population": 98030,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.6525793,
-      -73.7562317
+      33.9971974,
+      -117.4854802
     ],
     "rankby": "distance"
   },
-  "people_per_result": 98424,
+  "people_per_result": 32677,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,123 @@
       {
         "geometry": {
           "location": {
-            "lat": 42.6883967,
-            "lng": -73.7990902
+            "lat": 33.9826289,
+            "lng": -117.3744353
           },
           "viewport": {
             "northeast": {
-              "lat": 42.68974652989272,
-              "lng": -73.79774037010728
+              "lat": 33.98404782989272,
+              "lng": -117.3732326701073
             },
             "southwest": {
-              "lat": 42.68704687010727,
-              "lng": -73.80044002989273
+              "lat": 33.98134817010727,
+              "lng": -117.3759323298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ca70ac280ee2860921790dc3392c5567570796d0",
-        "name": "Pil-Sun Tae Kwon Do",
-        "place_id": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
+        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
+        "name": "Capoeira Riverside",
+        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
         "plus_code": {
-          "compound_code": "M6Q2+99 Albany, New York",
-          "global_code": "87J8M6Q2+99"
+          "compound_code": "XJMG+36 Riverside, California",
+          "global_code": "8554XJMG+36"
         },
-        "rating": 5,
-        "reference": "ChIJl8BgPQsL3okRMFU5_sU_AFc",
+        "rating": 0,
+        "reference": "ChIJi5zpHfCx3IARcFynVWwZWxU",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1095 Penn Central Railroad # 3, Albany"
+        "vicinity": "3737 Main St #103a, Riverside"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.882975,
+            "lng": -117.533607
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.88432952989272,
+              "lng": -117.5321582201073
+            },
+            "southwest": {
+              "lat": 33.88162987010728,
+              "lng": -117.5348578798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4550f408809e2f292eff7f39ca39dc2780dd0f37",
+        "name": "USKO Corona Studio",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJW9kJ5fXI3IARbRimiwqkUkE",
+        "plus_code": {
+          "compound_code": "VFM8+5H Corona, California",
+          "global_code": "8554VFM8+5H"
+        },
+        "rating": 4.4,
+        "reference": "ChIJW9kJ5fXI3IARbRimiwqkUkE",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "351 Corporate Terrace Cir, Corona"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.6809383,
+            "lng": -117.7790654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.68232222989273,
+              "lng": -117.7777627701073
+            },
+            "southwest": {
+              "lat": 33.67962257010728,
+              "lng": -117.7804624298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b2c3a305ed85139100dcf529e83debdbf36b871d",
+        "name": "Capoeira Batuque Irvine",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114495111919772689791/photos\">Capoeira Batuque Irvine</a>"
+            ],
+            "photo_reference": "CmRZAAAAihpVlCqTlCv1PkTk3WARpoVhoxGfoheECvmWeRY4RQxlOtxUmQNMFBiEktljLcu4zleZwNRHrvbEL4Bx33krRf9WMShQB33R-UlCkR7qV686Rx-TmIX9dgy9ErUlRzzkEhBj2NVOtDs-Lo5vz6OMBeuzGhSt0JBUFqrGJeeJ9Mzrq8wAmJGW9A",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "plus_code": {
+          "compound_code": "M6JC+99 Irvine, California",
+          "global_code": "8554M6JC+99"
+        },
+        "rating": 5,
+        "reference": "ChIJR_8UfAbd3IARhHJNSCqoEx8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "15435 Jeffrey Rd #100, Irvine"
       }
     ],
     "status": "OK"
