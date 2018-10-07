@@ -1,16 +1,16 @@
 {
-  "city_name": "college-station-texas",
-  "city_rank": 293,
-  "city_population": 100050,
+  "city_name": "kenosha-wisconsin",
+  "city_rank": 294,
+  "city_population": 99889,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.627977,
-      -96.3344068
+      42.5847425,
+      -87.82118539999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 100050,
+  "people_per_result": 49945,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,47 +18,85 @@
       {
         "geometry": {
           "location": {
-            "lat": 30.618531,
-            "lng": -96.33649899999999
+            "lat": 42.606478,
+            "lng": -87.82715200000001
           },
           "viewport": {
             "northeast": {
-              "lat": 30.65219484999999,
-              "lng": -96.30789295000001
+              "lat": 42.60782772989272,
+              "lng": -87.82593882010727
             },
             "southwest": {
-              "lat": 30.56686905,
-              "lng": -96.39912915
+              "lat": 42.60512807010728,
+              "lng": -87.82863847989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "23613f650142aed42b0ec69473ccb71ed628f57d",
+        "name": "Harbor Park CrossFit",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3648,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117095245248355048359/photos\">Harbor Park CrossFit</a>"
+            ],
+            "photo_reference": "CmRaAAAAiGOg_ZAQZByniu8Rc5fEM3OJc6OZI-D23mjgonEVrqk7mz01-hoylrANnGs4lZJHUnfRydOzBhR4vEPHSQJT50fA-A359QzdVJ7Us1L35SkIRd1_dzDV8R3vFdIoP3YUEhAPHP0XAjiyvXwSlbBKo1ktGhTLgVFwfvXhAUoIgUKzc4r1Q713tw",
+            "width": 5472
+          }
+        ],
+        "place_id": "ChIJxVreoHdeBYgR-ra4gobLXa0",
+        "rating": 5,
+        "reference": "ChIJxVreoHdeBYgR-ra4gobLXa0",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3417 14th Ave, Kenosha"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9980772,
+            "lng": -87.8917141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.99949627989272,
+              "lng": -87.89026172010728
+            },
+            "southwest": {
+              "lat": 42.99679662010728,
+              "lng": -87.89296137989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5b5235662471e030fc8e8c5dba76a3779ea5c405",
-        "name": "Texas A&M University",
-        "photos": [
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116720034731128715622/photos\">Enrique Suárez</a>"
-            ],
-            "photo_reference": "CmRaAAAAqxo1MqnLPoNKZkiBEeiz-9dERuP68mO0d6WPEE_F-ASg3MPUbxR52mgaZW54PVkm71qHuTncPjYwrnW_vIsnRCrBRPO4skA-sU9qsVttcQuerETjb13swrJOu10U5RjWEhDPEB0OOnxXi4Nb9fhMcXcVGhSJ_-vU6AjE_PGGiekJhwap-or_Aw",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJAQDAM_eDRoYRyDvAuaS4R5c",
-        "plus_code": {
-          "compound_code": "JM97+CC College Station, Texas",
-          "global_code": "8625JM97+CC"
+        "id": "cc5b16e5c9b8c070a90d48ca5c2a67c3037702bd",
+        "name": "Capoeira Milwaukee",
+        "opening_hours": {
+          "open_now": false
         },
-        "rating": 4.2,
-        "reference": "ChIJAQDAM_eDRoYRyDvAuaS4R5c",
+        "place_id": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
+        "plus_code": {
+          "compound_code": "X4X5+68 Milwaukee, Wisconsin",
+          "global_code": "86JJX4X5+68"
+        },
+        "rating": 0,
+        "reference": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
         "scope": "GOOGLE",
         "types": [
-          "university",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "400 Bizzell St, College Station"
+        "vicinity": "2499 S Delaware Ave, Milwaukee"
       }
     ],
     "status": "OK"
