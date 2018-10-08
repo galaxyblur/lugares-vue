@@ -1,70 +1,20 @@
 {
-  "city_name": "sparks-nevada",
-  "city_rank": 321,
-  "city_population": 93282,
+  "city_name": "yakima-washington",
+  "city_rank": 322,
+  "city_population": 93257,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.5349112,
-      -119.7526886
+      46.6020711,
+      -120.5058987
     ],
     "rankby": "distance"
   },
-  "people_per_result": 93282,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.5554192,
-            "lng": -119.7208727
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.55675967989272,
-              "lng": -119.7194318201073
-            },
-            "southwest": {
-              "lat": 39.55406002010727,
-              "lng": -119.7221314798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "31a9261f20ea0b578774105e62d3975001685c8c",
-        "name": "Ernie Reyes West Coast World Martial Arts",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109638885035189595011/photos\">Natalie Ede</a>"
-            ],
-            "photo_reference": "CmRaAAAA80MsB8OSDPgU3hNQrUJtgc0ggvhfHeOh3LtF3fUecfkQ6d9Zax2XJ7Nql_XEfyTsvT2HbzyOIvoUFHegAWb9DwvdtrAeLJirToJT7Dg_196v6skV-D2_rB7bw3OtUixAEhBo2x68zH-1-4Lm3XiJraiGGhS1jxkeYkdDTaAgvql6mftgR8Ypbg",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJS7j86jU5mYAR1lSzfv6GAM0",
-        "plus_code": {
-          "compound_code": "H74H+5M Sparks, Nevada",
-          "global_code": "85F2H74H+5M"
-        },
-        "rating": 5,
-        "reference": "ChIJS7j86jU5mYAR1lSzfv6GAM0",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "8664, 1297 Baring Blvd, Sparks"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
