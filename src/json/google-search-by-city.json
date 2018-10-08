@@ -1,20 +1,70 @@
 {
-  "city_name": "redding-california",
-  "city_rank": 334,
-  "city_population": 91119,
+  "city_name": "spokane-valley-washington",
+  "city_rank": 335,
+  "city_population": 91113,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.5865396,
-      -122.3916754
+      47.6732281,
+      -117.2393748
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 91113,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.737086,
+            "lng": -117.413262
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.73820317989271,
+              "lng": -117.4119139201073
+            },
+            "southwest": {
+              "lat": 47.73550352010727,
+              "lng": -117.4146135798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "11fac2c408aeabb78c9540062e14e27a07d759be",
+        "name": "Spokane Fitness Center - North Gym",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1007,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102560078421756760515/photos\">Spokane Fitness Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAVhooJ0_WggswVh_L9Z-XIF7Loy-4GdVpBsqfGZ_j9B9TjehD1wva6DJvBB_UG3PtNX3h2DH852xRdnTEc0uWQaDzHSQIC2KPwGFnyjUvTftjuoL4dttMkemc-etZMeewEhBXH45HxSodJeaYvX_HkO5NGhSmp8ninqkgxVBDEGFGDW5oAGYpYQ",
+            "width": 2000
+          }
+        ],
+        "place_id": "ChIJYX6A8A8cnlQRE-k7Kt2Dfuc",
+        "plus_code": {
+          "compound_code": "PHPP+RM Town and Country, Washington",
+          "global_code": "85V4PHPP+RM"
+        },
+        "rating": 4.5,
+        "reference": "ChIJYX6A8A8cnlQRE-k7Kt2Dfuc",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "110 W Price Ave, Spokane"
+      }
+    ],
+    "status": "OK"
   }
 }
