@@ -1,20 +1,69 @@
 {
-  "city_name": "hemet-california",
-  "city_rank": 395,
-  "city_population": 81750,
+  "city_name": "longview-texas",
+  "city_rank": 396,
+  "city_population": 81443,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.7475203,
-      -116.9719684
+      32.5007037,
+      -94.74048909999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 81443,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.465893,
+            "lng": -94.7264594
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.47183969999998,
+              "lng": -94.7245895
+            },
+            "southwest": {
+              "lat": 32.46061850000001,
+              "lng": -94.7320691
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "52f4808b3aad72a17de8834300d02ceff54eff81",
+        "name": "LeTourneau University",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115090514751951324585/photos\">Nilupul Malinda Kulathunga</a>"
+            ],
+            "photo_reference": "CmRaAAAAiwbnn25o7fYmO-ZwDHOfmHp-Qf9RV-_0T9bLSXTDi0nQMAbOfMmLVfp2I1MPTRtTeykjqmDZAV9wPWPEwwgEO6aOCXgjg6iVw3HGnm8isog7zTOpEDLDl451ngj2pYeoEhBjKgKut-55kXakV42xEXlxGhQt8_lAXMcD0waLRmHjoX45VJWmiA",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJdThN2Ak4NoYRmi7uHnWNyvU",
+        "plus_code": {
+          "compound_code": "F78F+9C Longview, Texas",
+          "global_code": "8647F78F+9C"
+        },
+        "rating": 4.2,
+        "reference": "ChIJdThN2Ak4NoYRmi7uHnWNyvU",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2100 S Mobberly Ave, Longview"
+      }
+    ],
+    "status": "OK"
   }
 }
