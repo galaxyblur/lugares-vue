@@ -1,20 +1,113 @@
 {
-  "city_name": "menifee-california",
-  "city_rank": 384,
-  "city_population": 83447,
+  "city_name": "champaign-illinois",
+  "city_rank": 385,
+  "city_population": 83424,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.6971468,
-      -117.185294
+      40.1164204,
+      -88.2433829
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 41712,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.1019523,
+            "lng": -88.2271615
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.12720645,
+              "lng": -88.1924883
+            },
+            "southwest": {
+              "lat": 40.06897144999999,
+              "lng": -88.2612823
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7220ab14eb1be84fc2ddea89eefa6bc26d0410f9",
+        "name": "University of Illinois at Urbana-Champaign",
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116219323491038428189/photos\">Huidong Yang</a>"
+            ],
+            "photo_reference": "CmRaAAAA09Q8UCUEhN1Q8gFxydZQ4VQe7m3HHxHxE4te0J9eVDHlImQLuFHlBcYk6jNEsnVFI57Xvp5roUUWTtgi_9OvgKotMMVUAe8RkH8r1FkK033sYXTGk7OS8QRUJ3zl8JYnEhB36C_inXVeJ31rWEeemk5AGhT18KWH1K3LS9fbCTkkrLbEXWJX7g",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJ6VUmqSTXDIgR-iZoBCUFPKU",
+        "plus_code": {
+          "compound_code": "4Q2F+Q4 Urbana, Cunningham Township, IL",
+          "global_code": "86GH4Q2F+Q4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ6VUmqSTXDIgR-iZoBCUFPKU",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Champaign"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.111069,
+            "lng": -88.20681599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.11249182989273,
+              "lng": -88.20546622010728
+            },
+            "southwest": {
+              "lat": 40.10979217010728,
+              "lng": -88.20816587989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2205694c43c90fb322cf0674e230004e517272c3",
+        "name": "Capoeira Angola Center of Mestre João Grande-Illinois",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1121,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107750628238277818830/photos\">Capoeira Angola Center of Mestre João Grande</a>"
+            ],
+            "photo_reference": "CmRaAAAAsO2uSflMaX5krJiXSng1f-O8zJoZSj9JfiNt83P7JcrfpvAlZYTwNJamx1N4RzH_7ZwsdpAFMjUgMFZZZ6EeoL76c0bj154d0JZMGtW2p6fv5bx1rhKCXAsbpRxgc5LlEhDZ651d9BtV_3J5CwsARZxvGhSvTxFKrBQcxOpS4C_--2RS6YRM5g",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
+        "plus_code": {
+          "compound_code": "4Q6V+C7 Urbana, Cunningham Township, IL",
+          "global_code": "86GH4Q6V+C7"
+        },
+        "rating": 5,
+        "reference": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "201 Lincoln Square, Space 157, Urbana"
+      }
+    ],
+    "status": "OK"
   }
 }
