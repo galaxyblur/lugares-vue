@@ -1,20 +1,114 @@
 {
-  "city_name": "sioux-city-iowa",
-  "city_rank": 393,
-  "city_population": 82459,
+  "city_name": "warwick-rhode-island",
+  "city_rank": 394,
+  "city_population": 81971,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.4999942,
-      -96.40030689999999
+      41.7001009,
+      -71.4161671
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 40986,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.7032442,
+            "lng": -71.4070354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.70447477989272,
+              "lng": -71.40573837010727
+            },
+            "southwest": {
+              "lat": 41.70177512010728,
+              "lng": -71.40843802989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fc521597f411f226ca5482f3efe1f1149e8cce93",
+        "name": "New Wave Martial Arts & Fitness",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111613706701271045763/photos\">TJ Morse</a>"
+            ],
+            "photo_reference": "CmRaAAAAXokFgJMvQkkWUGBoXUJQ5CmO754TqnNbNCTbYNLbtqrAEXuzA_43hC_hReRpY5owlVsLS4VjeSX_CyLqrB5eUcEJ3u7rTKtRbCLpQFTGGuj6Il9JdSU2bQbdB9J0l6RkEhBEeIvwGzTsk5xhXovt-PlGGhQDufwoF6_2IABlP5MWXmrK-o9yMw",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJE547I8pP5IkRCU6e0vNOkG8",
+        "plus_code": {
+          "compound_code": "PH3V+75 Warwick, Portsmouth, RI",
+          "global_code": "87HCPH3V+75"
+        },
+        "rating": 4.9,
+        "reference": "ChIJE547I8pP5IkRCU6e0vNOkG8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2327 W Shore Rd, Warwick"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9014142,
+            "lng": -71.0900285
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.90286927989272,
+              "lng": -71.08866777010728
+            },
+            "southwest": {
+              "lat": 41.90016962010728,
+              "lng": -71.09136742989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
+        "name": "Capoeira Studio C",
+        "photos": [
+          {
+            "height": 590,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
+            ],
+            "photo_reference": "CmRaAAAAvddGvhrUcU3y4xoB04vEz-OvHOfl3Vru5hK73Rphr3S1DMycEGgm9osFL3YKsrasrqAGWg48tH6f_5X6nqwUh5O7z7F_-uYFbheqE1j0D7vbXAh8TigIB3CCGaDwgQqBEhCr6JnV3xfn_oo-N-QIz3J6GhRR_uapB6hSzy43armzUW5QWZ2RiA",
+            "width": 620
+          }
+        ],
+        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
+        "plus_code": {
+          "compound_code": "WW25+HX Taunton, Massachusetts",
+          "global_code": "87HCWW25+HX"
+        },
+        "rating": 0,
+        "reference": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "85 Main St, Taunton"
+      }
+    ],
+    "status": "OK"
   }
 }
