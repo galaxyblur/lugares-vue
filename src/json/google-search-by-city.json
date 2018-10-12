@@ -1,142 +1,106 @@
 {
-  "city_name": "gary-indiana",
-  "city_rank": 417,
-  "city_population": 78450,
+  "city_name": "largo-florida",
+  "city_rank": 418,
+  "city_population": 78409,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.5933696,
-      -87.3464271
+      27.9094665,
+      -82.7873244
     ],
     "rankby": "distance"
   },
-  "people_per_result": 13075,
-  "possible_duplicates": {},
+  "people_per_result": 19602,
+  "possible_duplicates": {
+    "ChIJ07nUpPfjwogRbNfFMHxc5oE": [
+      {
+        "place1": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
+        "place2": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
+        "score": 0.8051948051948052
+      }
+    ],
+    "ChIJR8HaPoDhwogRo7IyCTogywI": [
+      {
+        "place1": "Tampa Bay Capoeira - St.Pete 2033 54th Ave N, St. Petersburg",
+        "place2": "Maculelê Tampa Capoeira 2033 54th Ave N, St. Petersburg",
+        "score": 0.8051948051948052
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.8803115,
-            "lng": -87.6375316
+            "lat": 27.8408953,
+            "lng": -82.78751779999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.88166232989272,
-              "lng": -87.63590797010728
+              "lat": 27.84230942989272,
+              "lng": -82.78616942010727
             },
             "southwest": {
-              "lat": 41.87896267010728,
-              "lng": -87.63860762989273
+              "lat": 27.83960977010728,
+              "lng": -82.78886907989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
-        "name": "Omulu Capoeira Guanabara",
+        "id": "368159344381ad82892609e1e41e47e4a578dc33",
+        "name": "Oh's Martial Arts",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112521974383536487967/photos\">Oh&#39;s Tae Kwon-Do Center</a>"
+            ],
+            "photo_reference": "CmRaAAAADBbuBZfSd4kSuQjx2pZYZjnNmkZdhG1DwiStBxmQcHz0RQLldkj1noibx-47c1bGXQwfVPEEzQ-jNz-ANCQPaWFeBiwkRowABbJzst6e0pMDpkSQVhw4m32ubqtvqV7wEhB8or7Wlo29s6fr7o8rDofqGhS2nyh8gVzVU2HYnZJ0lSqSNo9rmw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJL5lKQYX7wogR7ImqDS59GoY",
+        "rating": 4.1,
+        "reference": "ChIJL5lKQYX7wogR7ImqDS59GoY",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7520 Seminole Blvd, Seminole"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 27.8214144,
+            "lng": -82.6609864
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 27.82266827989272,
+              "lng": -82.65963457010727
+            },
+            "southwest": {
+              "lat": 27.81996862010728,
+              "lng": -82.66233422989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d67e7016473815288f1b10f25c7935d96ae9afe0",
+        "name": "Maculelê Tampa Capoeira",
+        "place_id": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
         "plus_code": {
-          "compound_code": "V9J6+4X Chicago, Illinois",
-          "global_code": "86HJV9J6+4X"
+          "compound_code": "R8CQ+HJ Harris Park, St. Petersburg, FL",
+          "global_code": "76VVR8CQ+HJ"
         },
         "rating": 0,
-        "reference": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "100 S Wacker Dr, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.901196,
-            "lng": -87.630342
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.90254787989272,
-              "lng": -87.62877687010729
-            },
-            "southwest": {
-              "lat": 41.89984822010727,
-              "lng": -87.63147652989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
-        "name": "Gingarte Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 682,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAW7t2Xh_FxFtsm8jVmHPUtrKG5YBJTLZsKToFPtEwov-0cqTp5dHKzl9EFttD75YYv62HJ6e_g97iV1P4V4q3p6UPXh6XqDHsJfngg1S5Scp1196oKii9-yIWlAIt4rGeEhAhPK0Jx6lZMzUmg_FBtH3hGhQ77HPwWysZl6R7nWgNhJ5DBWm5Bg",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "rating": 5,
-        "reference": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1016 N Dearborn St, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8959299,
-            "lng": -87.66653989999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.89736097989272,
-              "lng": -87.66519237010726
-            },
-            "southwest": {
-              "lat": 41.89466132010728,
-              "lng": -87.66789202989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
-        "name": "Axé Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 683,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAkg0WYqpKT6BYLC_0Ltv0cvhZFsRJvXghIxvBrSFxE-0O2pFGnusqMGx2Y9e_y-ogreITIYg6jCYZoaG1j_qVKDoJx5HFz4iCrjbXpgteSEPNgaDeBheagS7dg51g6yr9EhAsTMAUCC80MGwQpepAlQRuGhSORTGFWfzynG3QSlT_oMnyNp5Rcg",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
-        "plus_code": {
-          "compound_code": "V8WM+99 Chicago, Illinois",
-          "global_code": "86HJV8WM+99"
-        },
-        "rating": 5,
-        "reference": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
+        "reference": "ChIJ07nUpPfjwogRbNfFMHxc5oE",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -144,150 +108,79 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1543 W Chicago Ave, Chicago"
+        "vicinity": "2033 54th Ave N, St. Petersburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9401434,
-            "lng": -87.6548612
+            "lat": 27.7749953,
+            "lng": -82.6469516
           },
           "viewport": {
             "northeast": {
-              "lat": 41.94137002989272,
-              "lng": -87.65350977010728
+              "lat": 27.77634512989273,
+              "lng": -82.64560177010726
             },
             "southwest": {
-              "lat": 41.93867037010727,
-              "lng": -87.65620942989271
+              "lat": 27.77364547010728,
+              "lng": -82.64830142989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
-        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "id": "6ddca9c89440a0b4f19593b3522e7957a46193a9",
+        "name": "Tampa Bay Capoeira - St.Pete",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
-            ],
-            "photo_reference": "CmRaAAAACF_5Zf7npMrzbCxZrUwVUksaJj6sLlQoVuFL9mPpMa3NW8tgp6yrulxgqQd3MEaTxOlQc4c6f-ZynZMlci3KQ3THpJb07Xj9mC-tVXXMchiUcywbyOCCCYcnz9kVsqDyEhChDlVqY0aiHYVsvT6KwhQ7GhRV0uy4N-7lAxQjyIUCMOGYC8c4-g",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "place_id": "ChIJR8HaPoDhwogRo7IyCTogywI",
         "plus_code": {
-          "compound_code": "W8RW+33 Chicago, Illinois",
-          "global_code": "86HJW8RW+33"
+          "compound_code": "Q9F3+X6 St. Petersburg, Florida",
+          "global_code": "76VVQ9F3+X6"
         },
         "rating": 5,
-        "reference": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "reference": "ChIJR8HaPoDhwogRo7IyCTogywI",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1016 W Belmont Ave, Chicago"
+        "vicinity": "2033 54th Ave N, St. Petersburg"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9133592,
-            "lng": -87.7112971
+            "lat": 28.0798425,
+            "lng": -82.50598400000001
           },
           "viewport": {
             "northeast": {
-              "lat": 41.91470467989271,
-              "lng": -87.71019172010728
+              "lat": 28.08119437989272,
+              "lng": -82.50448297010729
             },
             "southwest": {
-              "lat": 41.91200502010727,
-              "lng": -87.71289137989272
+              "lat": 28.07849472010728,
+              "lng": -82.50718262989274
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f815a0529f52aadd02844ea5176667327e59a652",
-        "name": "Capoeira Angola - FICA Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1104,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAF4RT7mLK11_ELX_pdeN3p046n5ClS0mM3qpM048nO78lFGJuiBPGyI-wegr55rY6EcJESQ2OlJLd1zPmODzwFwvePQGBt3drON4-r-CLjkdUKyYoTwfon4wY4eBOndG3EhCTagNUHckA70QPzlqlwBdsGhTW7QoykYbWPD5VTm69qZ3TD-TK7A",
-            "width": 2566
-          }
-        ],
-        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "id": "000fdef11d34ed223a2ffb0f6e894a2b9f619022",
+        "name": "Tampa Bay Capoeira",
+        "place_id": "ChIJ8dZfsZHAwogR2P0nns5Atpk",
         "plus_code": {
-          "compound_code": "W77Q+8F Chicago, Illinois",
-          "global_code": "86HJW77Q+8F"
+          "compound_code": "3FHV+WJ Lake Magdalene, Florida",
+          "global_code": "76WV3FHV+WJ"
         },
-        "rating": 5,
-        "reference": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "rating": 0,
+        "reference": "ChIJ8dZfsZHAwogR2P0nns5Atpk",
         "scope": "GOOGLE",
         "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1757 N Kimball Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9581325,
-            "lng": -87.6748333
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.95934667989273,
-              "lng": -87.67347952010729
-            },
-            "southwest": {
-              "lat": 41.95664702010728,
-              "lng": -87.67617917989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
-        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2532,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center</a>"
-            ],
-            "photo_reference": "CmRaAAAAOvtec5G2cyXNfgDF7_TTBsjV1Muy3SzuQGP100d4vpQvxxJZKoaH0qB7XEdw8fATLGbGVg41DyMEouCoCIRODcSWtwZ4sp93HNtj81YzreJIxwQyxCMM5y2l8UHIr9uwEhAOOSQAJ78qdPiolrtJzx1_GhQ5rfvkYZENQWERaoEB6aSn0qNTKw",
-            "width": 3555
-          }
-        ],
-        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
-        "plus_code": {
-          "compound_code": "X85G+73 Chicago, Illinois",
-          "global_code": "86HJX85G+73"
-        },
-        "rating": 5,
-        "reference": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1802 W Berteau Ave #215, Chicago"
+        "vicinity": "14457 N Dale Mabry Hwy, Tampa"
       }
     ],
     "status": "OK"
