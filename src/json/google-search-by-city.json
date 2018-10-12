@@ -1,69 +1,20 @@
 {
-  "city_name": "melbourne-florida",
-  "city_rank": 428,
-  "city_population": 77508,
+  "city_name": "st-joseph-missouri",
+  "city_rank": 429,
+  "city_population": 77147,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      28.0836269,
-      -80.60810889999999
+      39.7674578,
+      -94.84668099999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 77508,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 28.0778191,
-            "lng": -80.6945269
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.07966532989272,
-              "lng": -80.69317842010727
-            },
-            "southwest": {
-              "lat": 28.07696567010728,
-              "lng": -80.69587807989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a404b940560cc40a01e37a8f786dfcf27277db65",
-        "name": "Melbourne Capoeira Cultural Arts Center",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 512,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109555170180425321356/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA-96lxFda-cb-HDe9jvvG-j2WEgrWKPHzqpvVagGd2QcW4zJYOh7Xc0bFG2MbIkGoI3nAnqSrSiJ0KqEF3vSINFNftms3beSdeNgHftG0bNdJ-ZRQF075rHiSGP6Ef6LSEhBlZK5TmH8g-UarwaS13scvGhRyjcvfz97ABbX-YLPMbdajgZKplA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJIZCQE54O3ogRQWMyABXbu88",
-        "plus_code": {
-          "compound_code": "38H4+45 West Melbourne, Florida",
-          "global_code": "76WX38H4+45"
-        },
-        "rating": 4,
-        "reference": "ChIJIZCQE54O3ogRQWMyABXbu88",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4195 W New Haven Ave #13, Melbourne"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
