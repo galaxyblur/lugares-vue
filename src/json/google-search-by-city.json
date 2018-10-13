@@ -1,117 +1,20 @@
 {
-  "city_name": "wyoming-michigan",
-  "city_rank": 451,
-  "city_population": 74100,
+  "city_name": "lake-charles-louisiana",
+  "city_rank": 452,
+  "city_population": 74024,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.9133602,
-      -85.7053085
+      30.2265949,
+      -93.2173758
     ],
     "rankby": "distance"
   },
-  "people_per_result": 37050,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.956543,
-            "lng": -85.673554
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.95802017989272,
-              "lng": -85.67194107010728
-            },
-            "southwest": {
-              "lat": 42.95532052010728,
-              "lng": -85.67464072989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0338decb2ec1052a95304d5cc91a4f0b74434b29",
-        "name": "Grand Rapids Ballet",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 762,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111054883132126501079/photos\">Grand Rapids Ballet</a>"
-            ],
-            "photo_reference": "CmRaAAAAJMvcsVy0aHj2E7m3w39KC6OjJNcCrzuat-HsG2vVjBm-qb4uYQyPFMs9JYllEFLgASsYkRJKO3e4XuiET32DurZ8tpPIXKfRc9IE52nPMFr4FGBlv-rOQ0JodFxxJYvgEhDUVm_jzRh_yeZy_3AWMRnpGhQXtpoXBmP_R50KHJJkKwtwrkJhqg",
-            "width": 1142
-          }
-        ],
-        "place_id": "ChIJ4QLAEOitGYgRNczAQLa5l8E",
-        "plus_code": {
-          "compound_code": "X84G+JH Grand Rapids, Michigan",
-          "global_code": "86JPX84G+JH"
-        },
-        "rating": 4.8,
-        "reference": "ChIJ4QLAEOitGYgRNczAQLa5l8E",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "341 Ellsworth Ave SW, Grand Rapids"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.9634792,
-            "lng": -85.66276549999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.96463792989272,
-              "lng": -85.66142417010727
-            },
-            "southwest": {
-              "lat": 42.96193827010728,
-              "lng": -85.66412382989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "0bdf5085229c8b0b3128a44f48cfeeb1187f2025",
-        "name": "Armentality Movement Arts Center",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 621,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108338022117382235561/photos\">Armentality Movement Arts Center</a>"
-            ],
-            "photo_reference": "CmRaAAAABQoQluEaJ-jmNzRR_WFcmdFW7pq2CqYFt1VKtuUpnoirnDuytzAwafTDHe8U2aTwD2SW6Buitm6TI66AEde-aD3lOXDuj3MOfIp3p8xNXMHAFw2Mq8ZsvCAFHWoxnvaSEhAJyUfBZJKp9YAh4rBBT2yvGhTT7xh-sdO8n6qKv7FL7B3zpdhWYQ",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJGYYf7LitGYgRp9ftcRNC17A",
-        "plus_code": {
-          "compound_code": "X87P+9V Grand Rapids, Michigan",
-          "global_code": "86JPX87P+9V"
-        },
-        "rating": 5,
-        "reference": "ChIJGYYf7LitGYgRp9ftcRNC17A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "233 Fulton St E #620, Grand Rapids"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
