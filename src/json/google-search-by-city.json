@@ -1,66 +1,20 @@
 {
-  "city_name": "iowa-city-iowa",
-  "city_rank": 468,
-  "city_population": 71591,
+  "city_name": "jonesboro-arkansas",
+  "city_rank": 469,
+  "city_population": 71551,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.6611277,
-      -91.5301683
+      35.84229670000001,
+      -90.704279
     ],
     "rankby": "distance"
   },
-  "people_per_result": 71591,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.6626963,
-            "lng": -91.5548998
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.67917514999999,
-              "lng": -91.51223195
-            },
-            "southwest": {
-              "lat": 41.64769734999999,
-              "lng": -91.58350655000001
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4c930731636bf727aa306ca820f39a6e9e03a984",
-        "name": "The University of Iowa",
-        "photos": [
-          {
-            "height": 2372,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111876847489816303857/photos\">Mohamed Gasim</a>"
-            ],
-            "photo_reference": "CmRaAAAA3WIoBWBb84Py6ZP8h2wAlXmi4o2U2X6cjOiCHYvNA4Qe1HIwXHe_PjVM8ojObbdXBUR44NnpBnsaBHYO1UajAbO4koDlUMW0cikclubXOqnTNpV-nJ9nqHP9Eq9aDy72EhDsaNOfc372DVa0UtnoH0zWGhSnqfY0zWguKE4Z0nRJLwgvBJ8cZQ",
-            "width": 3163
-          }
-        ],
-        "place_id": "ChIJ__-_SfJB5IcRYTLnsT_j0Us",
-        "plus_code": {
-          "compound_code": "MC7W+32 Iowa City, Iowa",
-          "global_code": "86HCMC7W+32"
-        },
-        "rating": 4,
-        "reference": "ChIJ__-_SfJB5IcRYTLnsT_j0Us",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Iowa City"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
