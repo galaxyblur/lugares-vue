@@ -1,70 +1,20 @@
 {
-  "city_name": "gulfport-mississippi",
-  "city_rank": 476,
-  "city_population": 71012,
+  "city_name": "apple-valley-california",
+  "city_rank": 477,
+  "city_population": 70924,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.3674198,
-      -89.0928155
+      34.5008311,
+      -117.1858759
     ],
     "rankby": "distance"
   },
-  "people_per_result": 71012,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 30.40293639999999,
-            "lng": -88.9503929
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.40445207989272,
-              "lng": -88.94907997010728
-            },
-            "southwest": {
-              "lat": 30.40175242010727,
-              "lng": -88.95177962989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a97a43ce85a89481cf11af6641d00ccde2773886",
-        "name": "South's Martial Arts",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109611756695269902466/photos\">South&#39;s Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAYaQz8MIt7ZdSBGBDXKAzATRQSa_zGYTZnaZDNLfQKaMgEIsN-Sv9EipPnsCEYjyx8KKGsSQxF0cbrKPzYWBloAWgARjEOGv0eCcV54RLPSmoJt64877VJ7_hwaRfaO9nEhD6xjCnllXTBoLntYyn5ICOGhQZcm5QNNSUqiscStGOd0TGwauG0w",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJk1FqqNwRnIgRC0iixb9vN04",
-        "plus_code": {
-          "compound_code": "C23X+5R Biloxi, Mississippi",
-          "global_code": "862HC23X+5R"
-        },
-        "rating": 5,
-        "reference": "ChIJk1FqqNwRnIgRC0iixb9vN04",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1885 Pass Rd, Biloxi"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
