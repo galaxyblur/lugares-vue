@@ -1,16 +1,16 @@
 {
-  "city_name": "redlands-california",
-  "city_rank": 486,
-  "city_population": 69999,
+  "city_name": "santa-fe-new-mexico",
+  "city_rank": 487,
+  "city_population": 69976,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.0555693,
-      -117.1825381
+      35.6869752,
+      -105.937799
     ],
     "rankby": "distance"
   },
-  "people_per_result": 69999,
+  "people_per_result": 34988,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,83 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.9826289,
-            "lng": -117.3744353
+            "lat": 35.6830039,
+            "lng": -105.9580105
           },
           "viewport": {
             "northeast": {
-              "lat": 33.98404782989272,
-              "lng": -117.3732326701073
+              "lat": 35.68436417989273,
+              "lng": -105.9565805701073
             },
             "southwest": {
-              "lat": 33.98134817010727,
-              "lng": -117.3759323298927
+              "lat": 35.68166452010728,
+              "lng": -105.9592802298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
-        "name": "Capoeira Riverside",
-        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
+        "id": "494401953b95c0f4d2decb272be36616a63f31de",
+        "name": "CAPOEIRA SANTA FE",
+        "photos": [
+          {
+            "height": 554,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107056963162033737558/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAwoDh0ak1j4Ci5hXXBgkLGXo3vfsxVXdhSAGDQ5kD61yXYgrn13tKcIeiWW06NlyOSC4b-xXqaaOz7W7jNr2OR3VRd0bkWbjt1ewNkCr0rgH6f54CavKZah0uBoBqGl56EhAq_TUtDDeZcvQVzeHivwppGhTXs4HRbtwXNQ1-OAMBLu22pRCD4g",
+            "width": 831
+          }
+        ],
+        "place_id": "ChIJj9fc9G1QGIcRTDD6Sp-gLMA",
         "plus_code": {
-          "compound_code": "XJMG+36 Riverside, California",
-          "global_code": "8554XJMG+36"
+          "compound_code": "M2MR+6Q Santa Fe, New Mexico",
+          "global_code": "857PM2MR+6Q"
         },
         "rating": 0,
-        "reference": "ChIJi5zpHfCx3IARcFynVWwZWxU",
+        "reference": "ChIJj9fc9G1QGIcRTDD6Sp-gLMA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3737 Main St #103a, Riverside"
+        "vicinity": "501/503 Kathryn Ave, Santa Fe"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.613552,
+            "lng": -105.9972095
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.61497252989272,
+              "lng": -105.9958651201073
+            },
+            "southwest": {
+              "lat": 35.61227287010728,
+              "lng": -105.9985647798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "84d54265e77d0b72aad07ff70e07dea1bf056360",
+        "name": "Berimbau Academy of Capoeira",
+        "place_id": "ChIJ79j8lYtZGIcRjNKB8D2XnEU",
+        "plus_code": {
+          "compound_code": "J273+C4 Santa Fe, New Mexico",
+          "global_code": "857PJ273+C4"
+        },
+        "rating": 0,
+        "reference": "ChIJ79j8lYtZGIcRjNKB8D2XnEU",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "52 Oshara Blvd, Santa Fe"
       }
     ],
     "status": "OK"
