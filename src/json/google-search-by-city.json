@@ -1,16 +1,16 @@
 {
-  "city_name": "jacksonville-north-carolina",
-  "city_rank": 493,
-  "city_population": 69079,
+  "city_name": "franklin-tennessee",
+  "city_rank": 494,
+  "city_population": 68886,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.7540524,
-      -77.4302414
+      35.9250637,
+      -86.8688899
     ],
     "rankby": "distance"
   },
-  "people_per_result": 69079,
+  "people_per_result": 34443,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,23 +18,23 @@
       {
         "geometry": {
           "location": {
-            "lat": 34.7427019,
-            "lng": -77.37448839999999
+            "lat": 36.1523713,
+            "lng": -86.8458567
           },
           "viewport": {
             "northeast": {
-              "lat": 34.74382797989272,
-              "lng": -77.37318892010728
+              "lat": 36.15356522989273,
+              "lng": -86.84450052010727
             },
             "southwest": {
-              "lat": 34.74112832010728,
-              "lng": -77.37588857989272
+              "lat": 36.15086557010729,
+              "lng": -86.84720017989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2b4990f6452c173dd4871596ec2c40eb13b24377",
-        "name": "Capoeira Unico",
+        "id": "6af144443685c4dd230fde4aab30a3aba9ed72d5",
+        "name": "Grupo Balança Capoeira Nashville",
         "opening_hours": {
           "open_now": false
         },
@@ -42,27 +42,60 @@
           {
             "height": 1536,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105721729043380962293/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/104630049540296113933/photos\">Grupo Balança Capoeira Nashville</a>"
             ],
-            "photo_reference": "CmRaAAAA0pdb3dkpdu36zx-rky2K6uc4NPPnoHw7j_885KV3FV_j3N206UIlBwyV23P33OFKtpJq7_mxGkdLZCOjAtTekvl1rxeqnGgfPDC4lepwkNN79bEkGQfup25d6AnFUQ3cEhAglRJix3sV_8OkRKMUfguNGhRRvgs-ov2ENWbI8xPQdax_Mu78BQ",
-            "width": 2048
+            "photo_reference": "CmRaAAAAWPK8RQqVTYG7F70IDkF-SOUhJNp4Yhf5ZSQ8dDFIYi6X2QzdpQFuQgmYOf5odfw7yi7HnOYjai-eZI9-WG8hKE-ssGzkUn8EoIyqIJocL5khkn9ZYWm5RvXGJiC0BSn1EhCmOdfS7zTxDQfYW3cUeje6GhR6Ts9XhsjyGXW_NBbx_9n34cr1qA",
+            "width": 1537
           }
         ],
-        "place_id": "ChIJyRFFOaYaqYkRUru9h53qZ8U",
-        "plus_code": {
-          "compound_code": "PJVG+36 Jacksonville, North Carolina",
-          "global_code": "8764PJVG+36"
-        },
+        "place_id": "ChIJa8SAGSRkZIgRoUGxQOXnsOc",
         "rating": 5,
-        "reference": "ChIJyRFFOaYaqYkRUru9h53qZ8U",
+        "reference": "ChIJa8SAGSRkZIgRoUGxQOXnsOc",
         "scope": "GOOGLE",
         "types": [
-          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1911 Lejeune Blvd, Jacksonville"
+        "vicinity": "4822 Charlotte Ave, Nashville"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.7864065,
+            "lng": -86.4042114
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.78771167989272,
+              "lng": -86.40286807010727
+            },
+            "southwest": {
+              "lat": 35.78501202010728,
+              "lng": -86.40556772989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a4d026df443cd96bd0256b26f4915c427373b8c",
+        "name": "Capoeira Maculelê Murfreesboro",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJL7KWbO75Y4gRRMUVMMHZJDU",
+        "plus_code": {
+          "compound_code": "QHPW+H8 Murfreesboro, Tennessee",
+          "global_code": "867MQHPW+H8"
+        },
+        "rating": 0,
+        "reference": "ChIJL7KWbO75Y4gRRMUVMMHZJDU",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "220 Barfield Crescent Rd, Murfreesboro"
       }
     ],
     "status": "OK"
