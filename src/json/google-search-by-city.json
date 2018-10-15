@@ -1,16 +1,16 @@
 {
-  "city_name": "rapid-city-south-dakota",
-  "city_rank": 479,
-  "city_population": 70812,
+  "city_name": "layton-utah",
+  "city_rank": 480,
+  "city_population": 70790,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0805434,
-      -103.2310149
+      41.0602216,
+      -111.9710529
     ],
     "rankby": "distance"
   },
-  "people_per_result": 70812,
+  "people_per_result": 35395,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,50 +18,88 @@
       {
         "geometry": {
           "location": {
-            "lat": 44.0805783,
-            "lng": -103.2267836
+            "lat": 41.21495729999999,
+            "lng": -111.9756306
           },
           "viewport": {
             "northeast": {
-              "lat": 44.08195132989272,
-              "lng": -103.2255953201073
+              "lat": 41.21604897989272,
+              "lng": -111.9742937701073
             },
             "southwest": {
-              "lat": 44.07925167010728,
-              "lng": -103.2282949798927
+              "lat": 41.21334932010728,
+              "lng": -111.9769934298927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
-        "id": "e883ab85a6a5cd044ad99e7873eb87b4778d7c15",
-        "name": "Elks Theatre",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4aee404a316791a86c82847dde95648a576e1a71",
+        "name": "Ogden Capoeira",
         "opening_hours": {
-          "open_now": true
+          "open_now": false
         },
-        "photos": [
-          {
-            "height": 3036,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106177866583518550908/photos\">Alexander Holcomb</a>"
-            ],
-            "photo_reference": "CmRaAAAAuvnZpAgVkru1lZM_BfA-3Sk88JMSffx1Xg6qdqNguzQUFyagB1M96HaiBVQer-yfW3da4SLRKirMaQC3hFVw7zZWlhna3hAGBtXsPRisitixuChHsQ9yYUNRRRUzuw8fEhBfD14Om6sH9qrX1A-doGByGhTulcsaPHcp8xN5Ek0tWXKANwMdZA",
-            "width": 4048
-          }
-        ],
-        "place_id": "ChIJG-oHTNNcfYcR552CzFMW-As",
+        "place_id": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
         "plus_code": {
-          "compound_code": "3QJF+67 Rapid City, Central Pennington, SD",
-          "global_code": "85PR3QJF+67"
+          "compound_code": "627F+XP Ogden, Utah",
+          "global_code": "85HC627F+XP"
         },
-        "rating": 4.8,
-        "reference": "ChIJG-oHTNNcfYcR552CzFMW-As",
+        "rating": 0,
+        "reference": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
         "scope": "GOOGLE",
         "types": [
-          "movie_theater",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "512 6th St, Rapid City"
+        "vicinity": "222 28th St, Ogden"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7667678,
+            "lng": -111.9106359
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76829737989272,
+              "lng": -111.9092676701073
+            },
+            "southwest": {
+              "lat": 40.76559772010727,
+              "lng": -111.9119673298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "444c5f04635f4254114077eb2ad479a143995288",
+        "name": "Salt Lake Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAXian_Az5S_Z7VDqT_KwO8ksnuKGlQoELylaucGl0be1zqpiAoPwFQ6H0M4HKvtBjZDTM5F308-kUOO7HVVx_QC1SST_aV3OGTCA1JLRDdK-K8P7gsE7wMz3cPB54Zda7EhBP_uc7ijg7imGNVp-OoUH1GhSiwBiMnrkUk4hSZiudogukOHtE5g",
+            "width": 852
+          }
+        ],
+        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "plus_code": {
+          "compound_code": "Q38Q+PP Salt Lake City, Utah",
+          "global_code": "85GCQ38Q+PP"
+        },
+        "rating": 5,
+        "reference": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "West, 663 100 S, Salt Lake City"
       }
     ],
     "status": "OK"
