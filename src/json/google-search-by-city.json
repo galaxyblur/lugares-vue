@@ -1,119 +1,20 @@
 {
-  "city_name": "portland-maine",
-  "city_rank": 519,
-  "city_population": 66318,
+  "city_name": "st-cloud-minnesota",
+  "city_rank": 520,
+  "city_population": 66297,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.66147100000001,
-      -70.2553259
+      45.5579451,
+      -94.16324039999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 33159,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.65072740000001,
-            "lng": -70.2664484
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.65202552989273,
-              "lng": -70.26514932010728
-            },
-            "southwest": {
-              "lat": 43.64932587010728,
-              "lng": -70.26784897989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "41c0597f0addc4689155357fc1a337033719d92a",
-        "name": "Hustle and Flow",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 687,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109099339235912782617/photos\">Hustle and Flow</a>"
-            ],
-            "photo_reference": "CmRaAAAAmPcn275YwthpKZN7cQNO0AHskGPR4IeE4bs8bWzMiCYwdDvA-quYyeBDMAze3pWRC-rC7os5Qhgy6rPfNOauhIsCQdzUP9Gf0poJ2qy3z4heSLyDjMzL-VTX7AgtcNAyEhBSxm_yt2sM-m-Z_-Mjh_IpGhQzy2KPh6lrL9uk-sQFZtFXpR1r4g",
-            "width": 1361
-          }
-        ],
-        "place_id": "ChIJYYr6pxCcskwRwDpG0eUHhC8",
-        "plus_code": {
-          "compound_code": "MP2M+7C Portland, Maine",
-          "global_code": "87MFMP2M+7C"
-        },
-        "rating": 5,
-        "reference": "ChIJYYr6pxCcskwRwDpG0eUHhC8",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "155 Brackett St, Portland"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.650068,
-            "lng": -70.35825299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.65148792989272,
-              "lng": -70.35662892010727
-            },
-            "southwest": {
-              "lat": 43.64878827010727,
-              "lng": -70.35932857989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "d1b70422f6078066fb9511f37ba65547262d2e60",
-        "name": "Maine Warrior Gym",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104316520501309560182/photos\">Maine Warrior Gym</a>"
-            ],
-            "photo_reference": "CmRaAAAAolzTs9ScmHhvaOM9a2uQL1gltbZlSqrJqT_2OVH1q4nID7La4H0Q4XRZSSs0ClREfWIzAeaduQudcSUvPZ6qnArZFnkUUJXYxp1ijaVPZpPEAVHP87IWF-6vYyjqOF7iEhDsp3vkoGrwj29C4Goz8l4EGhQO7Qfhm1oVt_GABhJFH8Co34B_9Q",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJF671So6ZskwRfJ39SYU05rw",
-        "plus_code": {
-          "compound_code": "MJ2R+2M Westbrook, Maine",
-          "global_code": "87MFMJ2R+2M"
-        },
-        "rating": 4.8,
-        "reference": "ChIJF671So6ZskwRfJ39SYU05rw",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "865 Spring St, Westbrook"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
