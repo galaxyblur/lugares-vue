@@ -1,69 +1,20 @@
 {
-  "city_name": "janesville-wisconsin",
-  "city_rank": 545,
-  "city_population": 63820,
+  "city_name": "conway-arkansas",
+  "city_rank": 546,
+  "city_population": 63816,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.6827885,
-      -89.0187222
+      35.0886963,
+      -92.4421011
     ],
     "rankby": "distance"
   },
-  "people_per_result": 63820,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.6920322,
-            "lng": -88.99720289999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.69364572989272,
-              "lng": -88.99600422010727
-            },
-            "southwest": {
-              "lat": 42.69094607010727,
-              "lng": -88.99870387989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "937b3aefa104bdce16d45e3ad391f9d2edcf0de7",
-        "name": "AKF Martial Arts",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100071981389880179964/photos\">Brittany Ranum</a>"
-            ],
-            "photo_reference": "CmRaAAAALnUEV670ZUVLeiX4ZwKibYeRy69JbDrzxeXAp4VUvp_vmomFHSmIaB33pTo_QcgW9Y0oQ4nFTGBoFu1PX2lr2a6AVH9WSzvqyrNw_3bZPdatvzHszal9NWK5mTBi7fcTEhDiNXXe1_Al0OhKgltmYKa8GhRmzHR-mlh_XUlJ2Ar8lKvY_698Mg",
-            "width": 3120
-          }
-        ],
-        "place_id": "ChIJVckJQW0aBogR7gJi6WpyXQk",
-        "plus_code": {
-          "compound_code": "M2R3+R4 Janesville, Wisconsin",
-          "global_code": "86JHM2R3+R4"
-        },
-        "rating": 5,
-        "reference": "ChIJVckJQW0aBogR7gJi6WpyXQk",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2020 E Milwaukee St # 4, Janesville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
