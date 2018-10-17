@@ -1,20 +1,103 @@
 {
-  "city_name": "yuba-city-california",
-  "city_rank": 530,
-  "city_population": 65416,
+  "city_name": "maple-grove-minnesota",
+  "city_rank": 531,
+  "city_population": 65415,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.1404477,
-      -121.6169108
+      45.0724642,
+      -93.4557877
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 32708,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.9558916,
+            "lng": -93.29506699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.95706882989273,
+              "lng": -93.29371627010727
+            },
+            "southwest": {
+              "lat": 44.95436917010728,
+              "lng": -93.29641592989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d91d98688d83ed1d5f1f438072f31fb016d3a50f",
+        "name": "Afro-Brazilian Capoeira Association",
+        "place_id": "ChIJ_deEDM9TVEARvybmao31Lvg",
+        "plus_code": {
+          "compound_code": "XP43+9X Minneapolis, Minnesota",
+          "global_code": "86P8XP43+9X"
+        },
+        "rating": 5,
+        "reference": "ChIJ_deEDM9TVEARvybmao31Lvg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1200 W 26th St, Minneapolis"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 44.885463,
+            "lng": -93.285648
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 44.88680057989271,
+              "lng": -93.28420057010727
+            },
+            "southwest": {
+              "lat": 44.88410092010727,
+              "lng": -93.28690022989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "34b2fc3db44933329ed6b1771eeb629ad4a2c5ec",
+        "name": "Minnesota Capoeira Academy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1190,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117562375695623979223/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAVwdqXKoTdtyvrLCBbJG8HZRqq0EtVui5osRIB3Sf1nHES6U2oaAnedOTvYolwnVeZ3w5QsK7ZYvCWIgH0cllYj9TdA4DgiuRH-dW8FnEVdmYZ9088pnXPzXGCPoMWubGEhDkXpRJsczgumYECCN6Ks5xGhSj9g-eGOh9PkZLHMxOBDbUZPsBeA",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
+        "plus_code": {
+          "compound_code": "VPP7+5P Richfield, Minnesota",
+          "global_code": "86P8VPP7+5P"
+        },
+        "rating": 5,
+        "reference": "ChIJy-B6kdoys1IRxLFGJHZ_CvI",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6463 Lyndale Ave S, Richfield"
+      }
+    ],
+    "status": "OK"
   }
 }
