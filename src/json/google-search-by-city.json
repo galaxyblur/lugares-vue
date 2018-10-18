@@ -1,20 +1,115 @@
 {
-  "city_name": "lodi-california",
-  "city_rank": 550,
-  "city_population": 63338,
+  "city_name": "new-braunfels-texas",
+  "city_rank": 551,
+  "city_population": 63279,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.1341477,
-      -121.2722194
+      29.7030024,
+      -98.1244531
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 31640,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.595588,
+            "lng": -98.573627
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.59697387989272,
+              "lng": -98.57229917010727
+            },
+            "southwest": {
+              "lat": 29.59427422010728,
+              "lng": -98.5749988298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eb551fde4e924bb09788d397bf6fda64dc2506b4",
+        "name": "The Brazilian Capoeira Academy: San Antonio",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 949,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115026856917618533563/photos\">Nathan Advogado Sparrow</a>"
+            ],
+            "photo_reference": "CmRaAAAAo9QsDmZlxC8quW9_ifKrRf4yXie0tFyd0m3L-SvdKKQudS5Lk2sMydEDHWq8Bre1J8PLycED5sX0LSHDZPc7Xx0LyUwtdDFRbH4Nfwm-EpuGJN2XnISGwgepyzTX7-A6EhBIwlEV0AeqF2k6RxUgdHY2GhTxMxI-uqY48VINgwIENCyElY76tQ",
+            "width": 1265
+          }
+        ],
+        "place_id": "ChIJzz7jvmZgXIYRiNTX9KKJ42g",
+        "plus_code": {
+          "compound_code": "HCWG+6G San Antonio, Texas",
+          "global_code": "76X3HCWG+6G"
+        },
+        "rating": 4.4,
+        "reference": "ChIJzz7jvmZgXIYRiNTX9KKJ42g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4553 N Loop 1604 E, San Antonio"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.4511831,
+            "lng": -98.50537299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.45245897989272,
+              "lng": -98.50402312010728
+            },
+            "southwest": {
+              "lat": 29.44975932010728,
+              "lng": -98.50672277989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7b783d321c15cac9d6a86e4b133f3c5c23fe7995",
+        "name": "Capoeira Luanda Ile Bahia San Antonio",
+        "opening_hours": {},
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105951575263282405733/photos\">Henry Malone</a>"
+            ],
+            "photo_reference": "CmRaAAAAnpmRhCJYkZOAf3dFXhBrpFaOfNMmZuiOcDCRAePD0AFKkY4s_SUwOwNQ88ic1K1uEoShYkf504qf6ZAUJO2FjS350JxA4aUaYPOg6A0yYA7OlJlP-DyE12irZoXU3kpTEhCk_x2Q4oklr6MEKXXhTCX_GhTmjckbXAEb-4d_pfGVSCdXRzcdoQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJMS9WOmtfXIYRXbvzKaX2rkE",
+        "plus_code": {
+          "compound_code": "FF2V+FV San Antonio, Texas",
+          "global_code": "76X3FF2V+FV"
+        },
+        "rating": 5,
+        "reference": "ChIJMS9WOmtfXIYRXbvzKaX2rkE",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "925 W Russell Pl, San Antonio"
+      }
+    ],
+    "status": "OK"
   }
 }
