@@ -1,20 +1,59 @@
 {
-  "city_name": "madera-california",
-  "city_rank": 554,
-  "city_population": 63105,
+  "city_name": "conroe-texas",
+  "city_rank": 555,
+  "city_population": 63032,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.9613356,
-      -120.0607176
+      30.3118769,
+      -95.45605119999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 63032,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.9979223,
+            "lng": -95.5093029
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.99904987989272,
+              "lng": -95.50779102010726
+            },
+            "southwest": {
+              "lat": 29.99635022010728,
+              "lng": -95.51049067989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dbb67b8c95b5054e06a002441a3c44defb826bb",
+        "name": "Grupo Cafu Gingado Capoeira Houston NW",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "plus_code": {
+          "compound_code": "XFXR+57 Century-stuebner, Texas",
+          "global_code": "76X6XFXR+57"
+        },
+        "rating": 5,
+        "reference": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4622 Mittlestedt Rd, Houston"
+      }
+    ],
+    "status": "OK"
   }
 }
