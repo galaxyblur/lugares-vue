@@ -1,104 +1,20 @@
 {
-  "city_name": "springfield-oregon",
-  "city_rank": 590,
-  "city_population": 60177,
+  "city_name": "rogers-arkansas",
+  "city_rank": 591,
+  "city_population": 60112,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.0462362,
-      -123.0220289
+      36.3320196,
+      -94.1185366
     ],
     "rankby": "distance"
   },
-  "people_per_result": 30089,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.0396089,
-            "lng": -123.0930871
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.04095987989272,
-              "lng": -123.0915747701073
-            },
-            "southwest": {
-              "lat": 44.03826022010728,
-              "lng": -123.0942744298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d7d3dfe29c6d1bc0c4b550b5aac2d8b1f5d9dda1",
-        "name": "Celebration Belly Dance & Yoga",
-        "photos": [
-          {
-            "height": 617,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104013443469526037003/photos\">朋友老</a>"
-            ],
-            "photo_reference": "CmRaAAAAt4cRv1TIQ-mbiPP_miEQ2JaDFc5QonbNWYjFzyj-O24BCw3LGDbDJ2K3ApVzWIAS3rtElb8W4ntROuPqOz18dHU8tBA_cXWn4w3Sz0L2xOvHwaPUJH27D3i0WB-M_AmrEhDppHMD9qP7ihwWrkK4zNFuGhQy7ry0BS31Zj7Mw_i1XnaO52ar0g",
-            "width": 1109
-          }
-        ],
-        "place_id": "ChIJ04_sYUQewVQRCGXelmw86i4",
-        "plus_code": {
-          "compound_code": "2WQ4+RQ Eugene, Oregon",
-          "global_code": "84PR2WQ4+RQ"
-        },
-        "rating": 4.6,
-        "reference": "ChIJ04_sYUQewVQRCGXelmw86i4",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1840 Willamette St, Eugene"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.0578317,
-            "lng": -123.0995388
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.05909102989272,
-              "lng": -123.0981918701072
-            },
-            "southwest": {
-              "lat": 44.05639137010727,
-              "lng": -123.1008915298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2b965ee0b0d92dd8be95bbdca063877729536e2b",
-        "name": "Capoeira Mandinga Eugene",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJWQK-iwwewVQRaIRxMWhXR2I",
-        "plus_code": {
-          "compound_code": "3W52+45 Eugene, Oregon",
-          "global_code": "84PR3W52+45"
-        },
-        "rating": 0,
-        "reference": "ChIJWQK-iwwewVQRaIRxMWhXR2I",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "439 W 2nd Ave, Eugene"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
