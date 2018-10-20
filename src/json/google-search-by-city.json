@@ -1,20 +1,69 @@
 {
-  "city_name": "owensboro-kentucky",
-  "city_rank": 617,
-  "city_population": 58416,
+  "city_name": "moore-oklahoma",
+  "city_rank": 618,
+  "city_population": 58414,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.7719074,
-      -87.1111676
+      35.3395079,
+      -97.48670279999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 58414,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.4955747,
+            "lng": -97.5410682
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.49956655,
+              "lng": -97.53349920000001
+            },
+            "southwest": {
+              "lat": 35.49114355,
+              "lng": -97.549686
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dedcfc556f2df8e2840dc4c0b1ccb312e2373ebe",
+        "name": "Oklahoma City University",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116486256236604590116/photos\">Oklahoma City University</a>"
+            ],
+            "photo_reference": "CmRaAAAAp8oWLseSoIjrUPt_uV5HVx_0mfJ--MxNaXiu-_UIArFI4I-B6FpOmwknrzS2_TUrVCsxKKIblqLoIf1DwGWU1GnokCnstTyVFtlGutL-ijhPx6auqXNujV8NqJ3YIVQGEhDW8VeQx5g1dHb3NITF2w2gGhQOC8MPVnov3UDS5kG_7U4zG8JvAw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJe7zZY6MQsocRObNXPH1ctwU",
+        "plus_code": {
+          "compound_code": "FFW5+6H Central Oklahoma City, Oklahoma City, OK",
+          "global_code": "8674FFW5+6H"
+        },
+        "rating": 4.2,
+        "reference": "ChIJe7zZY6MQsocRObNXPH1ctwU",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2501 N Blackwelder Ave, Oklahoma City"
+      }
+    ],
+    "status": "OK"
   }
 }
