@@ -1,16 +1,16 @@
 {
-  "city_name": "chapel-hill-north-carolina",
-  "city_rank": 598,
-  "city_population": 59635,
+  "city_name": "casper-wyoming",
+  "city_rank": 599,
+  "city_population": 59628,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.9131996,
-      -79.0558445
+      42.866632,
+      -106.313081
     ],
     "rankby": "distance"
   },
-  "people_per_result": 59635,
+  "people_per_result": 29814,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,85 @@
       {
         "geometry": {
           "location": {
-            "lat": 35.9114372,
-            "lng": -79.07489850000002
+            "lat": 42.847338,
+            "lng": -106.326168
           },
           "viewport": {
             "northeast": {
-              "lat": 35.91265237989272,
-              "lng": -79.07355412010729
+              "lat": 42.84868577989273,
+              "lng": -106.3250068201073
             },
             "southwest": {
-              "lat": 35.90995272010727,
-              "lng": -79.07625377989272
+              "lat": 42.84598612010728,
+              "lng": -106.3277064798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "4c77dcdce06c15cb330ea0f7319a7fb9027baf34",
+        "name": "Cowboy Midstream LLC",
+        "photos": [
+          {
+            "height": 1149,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117968109063929341691/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAALCjXH8aftH8tjbtdXf5SPyVhrmVkaLpOVaPdbGUJ_PIBtPh3XixmNsrbhdirrdsTBpw8f8A8ujV67xhIF5RHnHzVk-Xb524f__Npxd5lXGDLIIcf1hnc46dtwhh77Lp7EhD2bfNxsEn45tNWUXAerPklGhRYXAb1zWj8Cqz2yHBnYv1ixRDW9A",
+            "width": 1153
+          }
+        ],
+        "place_id": "ChIJIVXnfaG8YIcRr8daKvmECRI",
+        "plus_code": {
+          "compound_code": "RMWF+WG Casper, Wyoming",
+          "global_code": "85JMRMWF+WG"
+        },
+        "rating": 0,
+        "reference": "ChIJIVXnfaG8YIcRr8daKvmECRI",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "323 S David St, Casper"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.8433876,
+            "lng": -106.3328242
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.84473467989272,
+              "lng": -106.3316896701073
+            },
+            "southwest": {
+              "lat": 42.84203502010728,
+              "lng": -106.3343893298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "78bc8c204b549946cb85ce6942ff8616c0954426",
-        "name": "Trianglecapoeira",
+        "id": "6736a562e9261bcf994a57512e928ec73474fae6",
+        "name": "Casper Gymnastics Center",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJ44H96RnDrIkRZW49cz0ZnEY",
+        "place_id": "ChIJB3GlrgyjYIcRHNBtdHfQFh4",
         "plus_code": {
-          "compound_code": "WW6G+H2 Carrboro, Chapel Hill, NC",
-          "global_code": "8772WW6G+H2"
+          "compound_code": "RMV8+9V Casper, Wyoming",
+          "global_code": "85JMRMV8+9V"
         },
         "rating": 5,
-        "reference": "ChIJ44H96RnDrIkRZW49cz0ZnEY",
+        "reference": "ChIJB3GlrgyjYIcRHNBtdHfQFh4",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "304 W Weaver St, Carrboro"
+        "vicinity": "675 S Walnut St, Casper"
       }
     ],
     "status": "OK"
