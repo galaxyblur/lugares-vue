@@ -1,16 +1,16 @@
 {
-  "city_name": "moore-oklahoma",
-  "city_rank": 618,
-  "city_population": 58414,
+  "city_name": "jupiter-florida",
+  "city_rank": 619,
+  "city_population": 58298,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.3395079,
-      -97.48670279999999
+      26.9342246,
+      -80.0942087
     ],
     "rankby": "distance"
   },
-  "people_per_result": 58414,
+  "people_per_result": 29149,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,50 +18,86 @@
       {
         "geometry": {
           "location": {
-            "lat": 35.4955747,
-            "lng": -97.5410682
+            "lat": 26.558949,
+            "lng": -80.070984
           },
           "viewport": {
             "northeast": {
-              "lat": 35.49956655,
-              "lng": -97.53349920000001
+              "lat": 26.56028742989272,
+              "lng": -80.06963447010726
             },
             "southwest": {
-              "lat": 35.49114355,
-              "lng": -97.549686
+              "lat": 26.55758777010728,
+              "lng": -80.07233412989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dedcfc556f2df8e2840dc4c0b1ccb312e2373ebe",
-        "name": "Oklahoma City University",
+        "id": "dd8be48aeb09e6b8e81ec2d801ac62c843e60dc4",
+        "name": "Capoeira Karkara",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 1365,
+            "height": 3300,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116486256236604590116/photos\">Oklahoma City University</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/115378533334271158596/photos\">Capoeira Karkara</a>"
             ],
-            "photo_reference": "CmRaAAAAp8oWLseSoIjrUPt_uV5HVx_0mfJ--MxNaXiu-_UIArFI4I-B6FpOmwknrzS2_TUrVCsxKKIblqLoIf1DwGWU1GnokCnstTyVFtlGutL-ijhPx6auqXNujV8NqJ3YIVQGEhDW8VeQx5g1dHb3NITF2w2gGhQOC8MPVnov3UDS5kG_7U4zG8JvAw",
-            "width": 2048
+            "photo_reference": "CmRaAAAAS_LM-rIUoGvYiQCOumffZmPAh3aId4u4W4tFAHRYxdu7GLV1SJINrdNivn5GTAkMwccdiPnioYgz4GVko0Kje96r0R_LUGTMpdDamf8OeFgah0znYcHkEzIuGqHya3D9EhBUdl_qRy20e1qCe-eQ5LL3GhSvD9bxZ-UbPz_IoH496SSVbqsp6w",
+            "width": 3300
           }
         ],
-        "place_id": "ChIJe7zZY6MQsocRObNXPH1ctwU",
+        "place_id": "ChIJ7-Bpvccg2YgRZ92vOBnr9wY",
         "plus_code": {
-          "compound_code": "FFW5+6H Central Oklahoma City, Oklahoma City, OK",
-          "global_code": "8674FFW5+6H"
+          "compound_code": "HW5H+HJ Boynton Beach, Florida",
+          "global_code": "76RXHW5H+HJ"
         },
-        "rating": 4.2,
-        "reference": "ChIJe7zZY6MQsocRObNXPH1ctwU",
+        "rating": 4.4,
+        "reference": "ChIJ7-Bpvccg2YgRZ92vOBnr9wY",
         "scope": "GOOGLE",
         "types": [
-          "university",
+          "gym",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2501 N Blackwelder Ave, Oklahoma City"
+        "vicinity": "106 Commerce Rd, Boynton Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 26.5330436,
+            "lng": -80.1220488
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 26.53439147989272,
+              "lng": -80.12104687010728
+            },
+            "southwest": {
+              "lat": 26.53169182010728,
+              "lng": -80.12374652989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0e0c5ffdbc583386929b07d719c85b8f52d53a82",
+        "name": "Capoeira Karkara",
+        "place_id": "ChIJG1m9occg2YgRU9qSsnPHyKs",
+        "plus_code": {
+          "compound_code": "GVMH+65 Boynton Beach, Florida",
+          "global_code": "76RXGVMH+65"
+        },
+        "rating": 5,
+        "reference": "ChIJG1m9occg2YgRU9qSsnPHyKs",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9600 S Military Trail, Boynton Beach"
       }
     ],
     "status": "OK"
