@@ -1,165 +1,20 @@
 {
-  "city_name": "lehi-utah",
-  "city_rank": 673,
-  "city_population": 54382,
+  "city_name": "pocatello-idaho",
+  "city_rank": 674,
+  "city_population": 54350,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.3916172,
-      -111.8507662
+      42.8713032,
+      -112.4455344
     ],
     "rankby": "distance"
   },
-  "people_per_result": 18127,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.3075475,
-            "lng": -111.6977217
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.30889667989272,
-              "lng": -111.6964421201073
-            },
-            "southwest": {
-              "lat": 40.30619702010728,
-              "lng": -111.6991417798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "38d60695391761bbc7dee4620db137b405fab1de",
-        "name": "Utah Valley Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107391712528442834353/photos\">Utah Valley Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAhLEBDJotD8hLCjdTqvh2iG9o9-biPc-jiTk12C2mpS2J-oRemB8NpPmJqs9qFX9DkjoFpJ9o1G7mTga_E8lyB0Y3AMJrO7XPTdsIJFjza8X2jO8JnMIg1GDv7WImxfD_EhBX6vBYfCcD19lbD6mB_XeTGhRGXiA9MUCyqVKm1iJuUuM_REHIow",
-            "width": 1893
-          }
-        ],
-        "place_id": "ChIJpajnqo6ETYcRYATRWJcEF7I",
-        "plus_code": {
-          "compound_code": "8852+2W Orem, Utah",
-          "global_code": "85GC8852+2W"
-        },
-        "rating": 5,
-        "reference": "ChIJpajnqo6ETYcRYATRWJcEF7I",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "578 N 100 W, Orem"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.560521,
-            "lng": -111.917983
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.56164222989272,
-              "lng": -111.9167161701073
-            },
-            "southwest": {
-              "lat": 40.55894257010728,
-              "lng": -111.9194158298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "deab89e83d0d50ffb03410179ed3c3dda7d7cf33",
-        "name": "Capoeira Utah",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105489075562715512096/photos\">Capoeira Utah</a>"
-            ],
-            "photo_reference": "CmRaAAAAqo52F8plsnaJdV4HUBwMcQeYw4cpd1EK7gnsncfhYTkmXzhHBOh0T7LWBqjsu507P_-dD15lTzSI69t-d_FHxjOB5FmWHo1ESufX_WZ_99I_jdW6AOL8rX8S7ZWzYAPfEhALRqEJgoXdu0L4YSpEKFZIGhTFomP9RX7B5h1piLx893FvSzJ2NQ",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJ-aUBQjqGUocRZbsadl-oIhk",
-        "plus_code": {
-          "compound_code": "H36J+6R South Jordan, Utah",
-          "global_code": "85GCH36J+6R"
-        },
-        "rating": 4.7,
-        "reference": "ChIJ-aUBQjqGUocRZbsadl-oIhk",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "968 S Jordan Pkwy, South Jordan"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 40.7667678,
-            "lng": -111.9106359
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.76829737989272,
-              "lng": -111.9092676701073
-            },
-            "southwest": {
-              "lat": 40.76559772010727,
-              "lng": -111.9119673298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "444c5f04635f4254114077eb2ad479a143995288",
-        "name": "Salt Lake Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAkXJd7CfrQwVyElZwwOVxRXD3Cs5QW5vmVpiuU4vAaWj3Np-_JXxDZyG7CPQ3BMg0czboz24HuCU6C7nNYU1v-qcaFTSseR5ZcFznMSHWsgfV5UESxjoa22zsZ7XLoMNVEhB8E0eURLpOfN8cWWoCWJ_mGhQarqLdPtvbmXCyG6po1FGTdEj3hg",
-            "width": 852
-          }
-        ],
-        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
-        "plus_code": {
-          "compound_code": "Q38Q+PP Salt Lake City, Utah",
-          "global_code": "85GCQ38Q+PP"
-        },
-        "rating": 5,
-        "reference": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "West, 663 100 S, Salt Lake City"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
