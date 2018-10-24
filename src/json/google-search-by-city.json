@@ -1,69 +1,20 @@
 {
-  "city_name": "richland-washington",
-  "city_rank": 700,
-  "city_population": 52413,
+  "city_name": "delano-california",
+  "city_rank": 701,
+  "city_population": 52403,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      46.2856907,
-      -119.2844621
+      35.7688425,
+      -119.2470536
     ],
     "rankby": "distance"
   },
-  "people_per_result": 52413,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 46.2320365,
-            "lng": -119.0917008
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 46.23342522989272,
-              "lng": -119.0901608201073
-            },
-            "southwest": {
-              "lat": 46.23072557010727,
-              "lng": -119.0928604798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6e2430abdbf7f4264d53322f6223d1636d5d66f9",
-        "name": "Find Your Center",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108612422938682037257/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAUlWGdMWPL90Cb1CChGPCdfjZeeLEnvOAdHu2qkPWyIkjKB1VfMHNIH_Z7SQBeQdGOvKKXDK531cilPd-ZtR89v3RGbzkKzJMRT-cD8HIaU9jzgjfuQ-dEQqyG9dqqqUWEhAZMfhUbf_Wx2a1NMkVUrkNGhQ6UqFFAX2ZigQJTYyOe86vB1mJew",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJrVLqyOd-mFQRpIheQsDKj18",
-        "plus_code": {
-          "compound_code": "6WJ5+R8 Pasco, Washington",
-          "global_code": "85R26WJ5+R8"
-        },
-        "rating": 5,
-        "reference": "ChIJrVLqyOd-mFQRpIheQsDKj18",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "411 W Clark St Suite E, Pasco"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
