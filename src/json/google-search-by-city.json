@@ -1,20 +1,117 @@
 {
-  "city_name": "albany-oregon",
-  "city_rank": 714,
-  "city_population": 51583,
+  "city_name": "ankeny-iowa",
+  "city_rank": 715,
+  "city_population": 51567,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.6365107,
-      -123.1059282
+      41.7317884,
+      -93.6001278
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 25784,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.7327549,
+            "lng": -93.601164
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.73410487989272,
+              "lng": -93.59984487010726
+            },
+            "southwest": {
+              "lat": 41.73140522010727,
+              "lng": -93.60254452989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "349effb9231fa71f0599110f816ff9c71a8192f5",
+        "name": "C.O.B.R.A. Self Defense Iowa",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 315,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102734687257179573573/photos\">C.O.B.R.A. Self Defense Iowa</a>"
+            ],
+            "photo_reference": "CmRaAAAAIQYBV1oqaqxsUBfWKb9pJ0fzwriTyX6Ee8O19v2b9LFxStJek3qbxMR211YHRj-jWZr2k93XMzF71sv8xhRH9RvzzLu9iegjFlUUyKMHil11Dwo1WO8wnijBPSZQ7eX7EhAWtrnVPv8d96_eZ7_E5NpYGhRr6X7Gw97KyGtr7CI8aea4_YOFQQ",
+            "width": 315
+          }
+        ],
+        "place_id": "ChIJTZuE2EOY7ocR2os_H_uYJFM",
+        "plus_code": {
+          "compound_code": "P9MX+4G Ankeny, Crocker, IA",
+          "global_code": "86H8P9MX+4G"
+        },
+        "rating": 5,
+        "reference": "ChIJTZuE2EOY7ocR2os_H_uYJFM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "110 N Ankeny Blvd #300, Ankeny"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.6071686,
+            "lng": -93.6275589
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.60851812989273,
+              "lng": -93.62652377010727
+            },
+            "southwest": {
+              "lat": 41.60581847010728,
+              "lng": -93.6292234298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0e9f496b65c75412c8ea111313e4c632626ccd49",
+        "name": "Roots Capoeira de Ouro",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100967670435365678636/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAsYJmHh61yO25fhdxmaTqcBCqSsAucVFH0t-OmhStO2T1aKZ-_YT8QdUfL88aOEO59VpAZSaJtIMoFhtkU1Jiytdrz3LqCd0tT7VyAkq92XTqto9eqvEpTvMANMyuugxMEhB1pOunqTQMVOGeGLezY2r4GhSpiQCW7p5yrpx0KYE-e1wUQjGXzQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "plus_code": {
+          "compound_code": "J94C+VX Des Moines, Iowa",
+          "global_code": "86H8J94C+VX"
+        },
+        "rating": 0,
+        "reference": "ChIJq6pqkHOZ7ocR24kC-jJR2LA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1541 8th St, Des Moines"
+      }
+    ],
+    "status": "OK"
   }
 }
