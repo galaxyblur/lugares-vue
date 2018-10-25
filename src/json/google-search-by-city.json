@@ -1,20 +1,59 @@
 {
-  "city_name": "la-crosse-wisconsin",
-  "city_rank": 716,
-  "city_population": 51522,
+  "city_name": "burlington-north-carolina",
+  "city_rank": 717,
+  "city_population": 51510,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.8013556,
-      -91.23958069999999
+      36.0956918,
+      -79.43779909999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 51510,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.9114372,
+            "lng": -79.07489850000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.91265237989272,
+              "lng": -79.07355412010729
+            },
+            "southwest": {
+              "lat": 35.90995272010727,
+              "lng": -79.07625377989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "78bc8c204b549946cb85ce6942ff8616c0954426",
+        "name": "Trianglecapoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ44H96RnDrIkRZW49cz0ZnEY",
+        "plus_code": {
+          "compound_code": "WW6G+H2 Carrboro, Chapel Hill, NC",
+          "global_code": "8772WW6G+H2"
+        },
+        "rating": 5,
+        "reference": "ChIJ44H96RnDrIkRZW49cz0ZnEY",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "304 W Weaver St, Carrboro"
+      }
+    ],
+    "status": "OK"
   }
 }
