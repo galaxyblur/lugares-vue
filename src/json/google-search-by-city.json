@@ -1,20 +1,70 @@
 {
-  "city_name": "saginaw-michigan",
-  "city_rank": 736,
-  "city_population": 50303,
+  "city_name": "kentwood-michigan",
+  "city_rank": 737,
+  "city_population": 50233,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.4194699,
-      -83.9508068
+      42.8694731,
+      -85.64474919999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 50233,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.902337,
+            "lng": -85.578222
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.90347307989272,
+              "lng": -85.57737312010728
+            },
+            "southwest": {
+              "lat": 42.90077342010727,
+              "lng": -85.58007277989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c53ec7b96e84075f9bfcdae40b3776cd8a301f49",
+        "name": "Friction CrossFit",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 394,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110955177767755738969/photos\">Friction CrossFit</a>"
+            ],
+            "photo_reference": "CmRaAAAAkjI834oF7BTCsEy1S7Mf06kyU3tcFfcx61j7GHZsFaUf0E44th0-guG8NXPzbxzHMSQFaHMOyRTh9Zc36IgG1v8LiESKEV2eYyMV8CJTi-MWZb6F6WsEoiK7FoUdpXiIEhCh87S-lc07zevI-tKxRxmcGhRiiu2tm_Ey8JGOiztIFqo3QhS3xQ",
+            "width": 700
+          }
+        ],
+        "place_id": "ChIJz12pa99NGIgRYrr_yabFLQ0",
+        "plus_code": {
+          "compound_code": "WC2C+WP Kentwood, Michigan",
+          "global_code": "86JPWC2C+WP"
+        },
+        "rating": 5,
+        "reference": "ChIJz12pa99NGIgRYrr_yabFLQ0",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3390 Broadmoor Ave SE f, Grand Rapids"
+      }
+    ],
+    "status": "OK"
   }
 }
