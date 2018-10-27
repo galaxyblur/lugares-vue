@@ -1,20 +1,66 @@
 {
-  "city_name": "caldwell-idaho",
-  "city_rank": 763,
-  "city_population": 48957,
+  "city_name": "logan-utah",
+  "city_rank": 764,
+  "city_population": 48913,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.66293839999999,
-      -116.6873596
+      41.7369803,
+      -111.8338359
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 48913,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.745161,
+            "lng": -111.8097425
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.76490135,
+              "lng": -111.7979259
+            },
+            "southwest": {
+              "lat": 41.73458074999999,
+              "lng": -111.8229943
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "420904e7d1cfdf6c9093fb3c56f5af3fafa7d1c6",
+        "name": "Utah State University",
+        "photos": [
+          {
+            "height": 2340,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108150372907020189685/photos\">Greg Sinnott</a>"
+            ],
+            "photo_reference": "CmRaAAAAkUmM6xWaDnWBQqJ8n0oR3-Csr4u5-LGFkgW_T0P27W3skWTdTgsS7uiZMoNjKHEZ2k3fwK60bq4qsgD8l0ansgv3AchdPZabffd6XrEhZlg1nptfa4BxVVf1hZCUxaZCEhAu11nAGrWl67kTMYq_uHiMGhQny6J4woSCdUlnJiYDY_w50sp-SQ",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJ7Uuo731-VIcRHL1k1uZNQPw",
+        "plus_code": {
+          "compound_code": "P5WR+34 Logan, Utah",
+          "global_code": "85HCP5WR+34"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ7Uuo731-VIcRHL1k1uZNQPw",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Logan"
+      }
+    ],
+    "status": "OK"
   }
 }
