@@ -1,16 +1,16 @@
 {
-  "city_name": "logan-utah",
-  "city_rank": 764,
-  "city_population": 48913,
+  "city_name": "galveston-texas",
+  "city_rank": 765,
+  "city_population": 48733,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.7369803,
-      -111.8338359
+      29.3013479,
+      -94.7976958
     ],
     "rankby": "distance"
   },
-  "people_per_result": 48913,
+  "people_per_result": 24367,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,47 +18,86 @@
       {
         "geometry": {
           "location": {
-            "lat": 41.745161,
-            "lng": -111.8097425
+            "lat": 29.5016677,
+            "lng": -95.1172993
           },
           "viewport": {
             "northeast": {
-              "lat": 41.76490135,
-              "lng": -111.7979259
+              "lat": 29.50299927989272,
+              "lng": -95.11601487010728
             },
             "southwest": {
-              "lat": 41.73458074999999,
-              "lng": -111.8229943
+              "lat": 29.50029962010728,
+              "lng": -95.11871452989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "03e5acf862a43fe508d13cbfb2e5325fdc170458",
+        "name": "Al Garza's Premier Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109755270963538145407/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAqqFG1k2JOqYLessYKnkkVfHoJ_Bsm--pNQdAecB1WKc_dnnbtpGsLeHx_vpASFa7caHLlOKwhRwK3ymAZiegSpCWiDEn5mVWXOwYV3o_fzB6XHiMNgeYLLil4f1nifDeEhBkAkeqnbf2AUjhrsIDVyN2GhQZ-l9LsbO9HENOpWVWBdR7U951Mw",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ6V7vczSDQIYR8687XDpA1AA",
+        "plus_code": {
+          "compound_code": "GV2M+M3 League City, Texas",
+          "global_code": "76X6GV2M+M3"
+        },
+        "rating": 5,
+        "reference": "ChIJ6V7vczSDQIYR8687XDpA1AA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2047 W Main St # C9, League City"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "420904e7d1cfdf6c9093fb3c56f5af3fafa7d1c6",
-        "name": "Utah State University",
-        "photos": [
-          {
-            "height": 2340,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108150372907020189685/photos\">Greg Sinnott</a>"
-            ],
-            "photo_reference": "CmRaAAAAkUmM6xWaDnWBQqJ8n0oR3-Csr4u5-LGFkgW_T0P27W3skWTdTgsS7uiZMoNjKHEZ2k3fwK60bq4qsgD8l0ansgv3AchdPZabffd6XrEhZlg1nptfa4BxVVf1hZCUxaZCEhAu11nAGrWl67kTMYq_uHiMGhQny6J4woSCdUlnJiYDY_w50sp-SQ",
-            "width": 4160
-          }
-        ],
-        "place_id": "ChIJ7Uuo731-VIcRHL1k1uZNQPw",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
         "plus_code": {
-          "compound_code": "P5WR+34 Logan, Utah",
-          "global_code": "85HCP5WR+34"
+          "compound_code": "GVWF+HG Webster, Texas",
+          "global_code": "76X6GVWF+HG"
         },
-        "rating": 4.2,
-        "reference": "ChIJ7Uuo731-VIcRHL1k1uZNQPw",
+        "rating": 5,
+        "reference": "ChIJR5-dWYmXQIYRSElhx478y64",
         "scope": "GOOGLE",
         "types": [
-          "university",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "Logan"
+        "vicinity": "17050 Galveston Rd, Webster"
       }
     ],
     "status": "OK"
