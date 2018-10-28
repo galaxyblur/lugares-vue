@@ -1,55 +1,20 @@
 {
-  "city_name": "san-luis-obispo-california",
-  "city_rank": 802,
-  "city_population": 46377,
+  "city_name": "minot-north-dakota",
+  "city_rank": 803,
+  "city_population": 46321,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.2827524,
-      -120.6596156
+      48.2329668,
+      -101.2922906
     ],
     "rankby": "distance"
   },
-  "people_per_result": 46377,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.1538457,
-            "lng": -120.6655884
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.15543707989272,
-              "lng": -120.6639119201073
-            },
-            "southwest": {
-              "lat": 35.15273742010728,
-              "lng": -120.6666115798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7d886582fb1bcfa7bfeb739bb7bdba2a7a61412b",
-        "name": "Central Coast Capoeira",
-        "place_id": "ChIJ3Qfv04lY7IARgKAkl6qdaIQ",
-        "plus_code": {
-          "compound_code": "583M+GQ Pismo Beach, California",
-          "global_code": "847X583M+GQ"
-        },
-        "rating": 0,
-        "reference": "ChIJ3Qfv04lY7IARgKAkl6qdaIQ",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2701 Price St, Pismo Beach"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
