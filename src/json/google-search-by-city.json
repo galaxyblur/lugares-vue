@@ -1,16 +1,16 @@
 {
-  "city_name": "lawrence-indiana",
-  "city_rank": 794,
-  "city_population": 47135,
+  "city_name": "wauwatosa-wisconsin",
+  "city_rank": 795,
+  "city_population": 47134,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.8386516,
-      -86.0252612
+      43.0494572,
+      -88.0075875
     ],
     "rankby": "distance"
   },
-  "people_per_result": 47135,
+  "people_per_result": 23567,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,88 @@
       {
         "geometry": {
           "location": {
-            "lat": 39.8081918,
-            "lng": -86.14679629999999
+            "lat": 43.05467400000001,
+            "lng": -87.900397
           },
           "viewport": {
             "northeast": {
-              "lat": 39.80969172989272,
-              "lng": -86.14545212010728
+              "lat": 43.05590877989273,
+              "lng": -87.89904822010728
             },
             "southwest": {
-              "lat": 39.80699207010728,
-              "lng": -86.14815177989271
+              "lat": 43.05320912010728,
+              "lng": -87.90174787989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bfcb9f8313872ad27b3b4ff6ff8b0c6db19e0615",
-        "name": "North Star Capoeira",
-        "place_id": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
-        "plus_code": {
-          "compound_code": "RV53+77 Indianapolis, Indiana",
-          "global_code": "86FMRV53+77"
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2ef83b82c11c3694754f18357b38380728589f9b",
+        "name": "Capoeira Nagô Milwaukee",
+        "opening_hours": {
+          "open_now": false
         },
-        "rating": 0,
-        "reference": "ChIJ-Z4yF-tmbIgR_SiRlOxB9Qk",
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112911687043430865316/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA4JvHeNEpXeyv527NWjA8hfVGsm545WreCLIBUVgRyRW_LP0ed4I7yHVsEUxEDV1zd-QWNHS6L9ic0JVxPtIh5TyraqqSrr6fCJZDtdQMJJFs0eZWT_Dk4eQdAhSjy06yEhDEI9HiIaDlZ-LgNfO_eEpvGhQxHP-rkfvwi8PqQGMduMSGdNK5vg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJHe14bhsZBYgRIq_Ghm5wHpQ",
+        "plus_code": {
+          "compound_code": "333X+VR Milwaukee, Wisconsin",
+          "global_code": "86MJ333X+VR"
+        },
+        "rating": 5,
+        "reference": "ChIJHe14bhsZBYgRIq_Ghm5wHpQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "609 E 29th St, Indianapolis"
+        "vicinity": "910 E Hamilton St, Milwaukee"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.9980772,
+            "lng": -87.8917141
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.99949627989272,
+              "lng": -87.89026172010728
+            },
+            "southwest": {
+              "lat": 42.99679662010728,
+              "lng": -87.89296137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc5b16e5c9b8c070a90d48ca5c2a67c3037702bd",
+        "name": "Capoeira Milwaukee",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
+        "plus_code": {
+          "compound_code": "X4X5+68 Milwaukee, Wisconsin",
+          "global_code": "86JJX4X5+68"
+        },
+        "rating": 0,
+        "reference": "ChIJIZZ3VoAXBYgRd1VoZTcAw3M",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2499 S Delaware Ave, Milwaukee"
       }
     ],
     "status": "OK"
