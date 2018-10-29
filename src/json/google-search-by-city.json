@@ -1,69 +1,20 @@
 {
-  "city_name": "madison-alabama",
-  "city_rank": 811,
-  "city_population": 45799,
+  "city_name": "altoona-pennsylvania",
+  "city_rank": 812,
+  "city_population": 45796,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.6992579,
-      -86.74833180000002
+      40.5186809,
+      -78.3947359
     ],
     "rankby": "distance"
   },
-  "people_per_result": 45799,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.6939831,
-            "lng": -86.5928769
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.69493552989272,
-              "lng": -86.59153427010727
-            },
-            "southwest": {
-              "lat": 34.69223587010727,
-              "lng": -86.59423392989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "346061b844f00e68c875f4e52816610cf0ee66fd",
-        "name": "East Coast Karate",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 919,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101147447840156205039/photos\">East Coast Karate</a>"
-            ],
-            "photo_reference": "CmRaAAAAq8lonjbLQ4wrB0vCs65flbze-FQuRX9i4xkYsq_rqsLmSE-_yCdS5RTdscvXDe0j_6UMhZKOp2edep18-djin5jTnNYlQA5l22yJmqQZMJr284R3hWNcQBvib6RGGX9eEhBHsIFBeVlvQKLFKDgqA7gjGhRASSLc4enO5K0UjtPL8Q7waCYqcA",
-            "width": 1025
-          }
-        ],
-        "place_id": "ChIJUS3ANMVsYogRpuztwgKMOB0",
-        "plus_code": {
-          "compound_code": "MCV4+HR Huntsville, Alabama",
-          "global_code": "866MMCV4+HR"
-        },
-        "rating": 4.5,
-        "reference": "ChIJUS3ANMVsYogRpuztwgKMOB0",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3228 Leeman Ferry Rd SW, Huntsville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
