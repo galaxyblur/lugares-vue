@@ -1,70 +1,20 @@
 {
-  "city_name": "de-kalb-illinois",
-  "city_rank": 840,
-  "city_population": 43849,
+  "city_name": "blacksburg-virginia",
+  "city_rank": 841,
+  "city_population": 43609,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.9294736,
-      -88.75036469999999
+      37.2295733,
+      -80.4139393
     ],
     "rankby": "distance"
   },
-  "people_per_result": 43849,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.225457,
-            "lng": -89.02211419999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.22687487989273,
-              "lng": -89.02076787010728
-            },
-            "southwest": {
-              "lat": 42.22417522010728,
-              "lng": -89.02346752989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "018bd2959b5070f39c833bda27f606cb488c142f",
-        "name": "CrossFit Supercell",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 630,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102163151371326094066/photos\">CrossFit Supercell</a>"
-            ],
-            "photo_reference": "CmRaAAAAP2DsRPA0QjwtyvaaYdnUJPwklrsGOuY-5TrofeyP4Utn6v7HCIIURJqiHcr-E32YRDoAzq3MvOOa5MC-7KdHuT80ZOkTaKmKfVYmZ--8dMyUnVhqGdG7oouWxx3d7qqvEhBnFVbN77DSApxr-i-iYLdUGhQRvWo6H156sqiRu-GCmrdHHsnCkQ",
-            "width": 948
-          }
-        ],
-        "place_id": "ChIJcyEqJazACIgR3aofCFBr5a8",
-        "plus_code": {
-          "compound_code": "6XGH+55 Rockford, Rockford Township, IL",
-          "global_code": "86JG6XGH+55"
-        },
-        "rating": 5,
-        "reference": "ChIJcyEqJazACIgR3aofCFBr5a8",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4831 Colt Rd, Rockford"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
