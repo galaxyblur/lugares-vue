@@ -1,162 +1,20 @@
 {
-  "city_name": "rohnert-park-california",
-  "city_rank": 885,
-  "city_population": 41398,
+  "city_name": "westfield-massachusetts",
+  "city_rank": 887,
+  "city_population": 41301,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.3396367,
-      -122.7010984
+      42.1250929,
+      -72.749538
     ],
     "rankby": "distance"
   },
-  "people_per_result": 13799,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.39555379999999,
-            "lng": -122.7153043
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.39689722989272,
-              "lng": -122.71263685
-            },
-            "southwest": {
-              "lat": 38.39419757010728,
-              "lng": -122.71619345
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2ada3d942eaab991faa4131a60140a315d4b51de",
-        "name": "Brazilian Academy of Mixed Martial Arts",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 539,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100733355756977215165/photos\">Brazilian Academy of Mixed Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAHnhlmsh9xmMgtOybb19Dw2yB74r1tBQufx3CURCGkYkq55rKIB_3jG0wWxgGCuxG8RzGLMjV0FYkxxujlR2Tif8_mZwyY47Gh3hGzb4L1CZbY18a1eLIKpiJwtDFv3C7EhCBRs9kgwVWXK3FoQxck0OwGhT9YNOCWqM-3Wi_cCDf5CXK3rTMBA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJWfbAkNZJhIARMgpYNFHEEB0",
-        "plus_code": {
-          "compound_code": "97WM+6V Southwest Santa Rosa, Santa Rosa, CA",
-          "global_code": "84CV97WM+6V"
-        },
-        "rating": 4.9,
-        "reference": "ChIJWfbAkNZJhIARMgpYNFHEEB0",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3345 Santa Rosa Ave, Santa Rosa"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.2355172,
-            "lng": -122.6413765
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.23686702989272,
-              "lng": -122.6400266701073
-            },
-            "southwest": {
-              "lat": 38.23416737010728,
-              "lng": -122.6427263298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "327f936cac22d86f5a7327a2151496abc8162eb9",
-        "name": "Capoeira Petaluma",
-        "photos": [
-          {
-            "height": 1939,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111815811201287977997/photos\">Lia Alexander</a>"
-            ],
-            "photo_reference": "CmRaAAAAKC9i8QTmQKTmdAixt8e6mhvtr2ZW7T_yUJVXxsBcsT76RbCuVRHP-puDt9DPkESzXSvyLIbIChn2oKkuUtXsBUQGth2wF7SIXhbvjKomwPiyrT0UQDHzV4RUtGWsOQ3iEhD7RAvvRexVo9pPihTY3nAtGhQzFBGLKxwGLhvDs9cjsP0UmPNLjA",
-            "width": 3659
-          }
-        ],
-        "place_id": "ChIJfdvIax20hYAR8a-pZvqzLZk",
-        "plus_code": {
-          "compound_code": "69P5+6C Petaluma, California",
-          "global_code": "84CV69P5+6C"
-        },
-        "rating": 5,
-        "reference": "ChIJfdvIax20hYAR8a-pZvqzLZk",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "110 Howard St, Petaluma"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.405523,
-            "lng": -122.834014
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.40676507989273,
-              "lng": -122.8326589701072
-            },
-            "southwest": {
-              "lat": 38.40406542010728,
-              "lng": -122.8353586298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fed7eee169800e01c26d48ef805c5aeefb31afa1",
-        "name": "SHDWBX Studio",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117042391203936136203/photos\">SHDWBX Studio</a>"
-            ],
-            "photo_reference": "CmRaAAAA5si96_LLBAIFvKoz8c89WIoCLprxQmdlbIq0jnFwbMaFbFy2RBDUO-X5jbzW2MAJxNojXfRGi0wK7QPQOyxH3gpEH20qSdwNbcBQTqTZ8XBQ8tKTcXMVxTSJndlRO4UsEhDLHLZOmPq1y0VpkzBo4i6kGhTTSFyR2NpggJiUOfSa_9CrxIRNYw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDc8yfHQ6hIARiisEo-93Sao",
-        "plus_code": {
-          "compound_code": "C548+69 Sebastopol, California",
-          "global_code": "84CVC548+69"
-        },
-        "rating": 5,
-        "reference": "ChIJDc8yfHQ6hIARiisEo-93Sao",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "7758 Healdsburg Ave, Sebastopol"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
