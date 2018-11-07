@@ -1,201 +1,484 @@
 {
-  "city_name": "riverton-utah",
-  "city_rank": 897,
-  "city_population": 40921,
+  "city_name": "st-cloud-florida",
+  "city_rank": 898,
+  "city_population": 40918,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.521893,
-      -111.9391023
+      28.2489016,
+      -81.2811801
     ],
     "rankby": "distance"
   },
-  "people_per_result": 10230,
-  "possible_duplicates": {},
+  "people_per_result": 4092,
+  "possible_duplicates": {
+    "ChIJzQaxcY9-54gRJoUZKsGyWFQ": [
+      {
+        "place1": "Orlando Martial Arts Academy 7507 Kingspointe Pkwy # 105, Orlando",
+        "place2": "CBP Martial Arts Academy Orlando 7075 Kingspointe Pkwy #10, Orlando",
+        "score": 0.9148936170212766
+      }
+    ],
+    "ChIJS2nzSoV-54gRoddoUGLdI84": [
+      {
+        "place1": "CBP Martial Arts Academy Orlando 7075 Kingspointe Pkwy #10, Orlando",
+        "place2": "Orlando Martial Arts Academy 7507 Kingspointe Pkwy # 105, Orlando",
+        "score": 0.9148936170212766
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 40.560521,
-            "lng": -111.917983
+            "lat": 28.248152,
+            "lng": -81.2836786
           },
           "viewport": {
             "northeast": {
-              "lat": 40.56164222989272,
-              "lng": -111.9167161701073
+              "lat": 28.24950162989272,
+              "lng": -81.28226492010727
             },
             "southwest": {
-              "lat": 40.55894257010728,
-              "lng": -111.9194158298927
+              "lat": 28.24680197010728,
+              "lng": -81.28496457989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "deab89e83d0d50ffb03410179ed3c3dda7d7cf33",
-        "name": "Capoeira Utah",
+        "id": "9ffc073618b2a75fec070ea75bccd8264092ae7e",
+        "name": "Johnson's Martial Arts",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 2448,
+            "height": 639,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105489075562715512096/photos\">Capoeira Utah</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/117330164212880871874/photos\">Johnson&#39;s Martial Arts</a>"
             ],
-            "photo_reference": "CmRaAAAAN1AfUj1AhzX9zutwAMKzFt3o-FozTboS7q3LLtQ_h9-0Ia0N6o_ibWSggGF6BfGjZKKuuc19mW3TLB7eznFuzgvKSzf9B3Biem5lRQFLc99Iu46qQ8yPxyPO-5rcOt-bEhB2xgPvEuMEsHAx8yHi94VmGhQn8mcqe79bYN1JjyS4ihZ09SJN0A",
-            "width": 3264
+            "photo_reference": "CmRZAAAAwfAugZV4vIVqNd-EeKl9XfoLdFXK3XxQPP1BEZfLz_0fxDIehJz5C-8yIniPMbIU7bewvT8jynYsar-hBquAStHycPVKEV6So2S87Mad9VM3RaN8vXX9LpI3PoHspcSpEhDtxWtvOuC5y0XbddJCLdrHGhT5jm7AkN5DsEtLqCBDFAo-LZnAog",
+            "width": 960
           }
         ],
-        "place_id": "ChIJ-aUBQjqGUocRZbsadl-oIhk",
+        "place_id": "ChIJ1YSHF1qO3YgRHuAQmcSSakw",
         "plus_code": {
-          "compound_code": "H36J+6R South Jordan, Utah",
-          "global_code": "85GCH36J+6R"
+          "compound_code": "6PX8+7G St Cloud, Florida",
+          "global_code": "76WW6PX8+7G"
+        },
+        "rating": 5,
+        "reference": "ChIJ1YSHF1qO3YgRHuAQmcSSakw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1032 New York Ave, St Cloud"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.3652821,
+            "lng": -81.24593469999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.36663302989272,
+              "lng": -81.24451897010728
+            },
+            "southwest": {
+              "lat": 28.36393337010728,
+              "lng": -81.24721862989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a70cda7f249c5f8fcdfc5b5aaae154fb0c25084",
+        "name": "Championship Martial Arts - Eagle Creek",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115142241143250061634/photos\">Championship Martial Arts - Lake Nona South</a>"
+            ],
+            "photo_reference": "CmRaAAAAWaEpJLIyA3rH5ztvLeeD_MzDmjZ8N0i1A78-ghWCLjbmJk1qPJ69msx1vW6jFDSKZOtP-cgFqQZ4_u7L6id8l30nyPTvhK80iSzQ_gTIN9jd_nznVuqWOIwjQcC8m4F0EhBoD_-A97FAID_IiukerjoMGhRt2r22cKPjFqbpErWfKBlg7Jloog",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJu84rwSOK3YgRYp5RWdeqY58",
+        "plus_code": {
+          "compound_code": "9Q83+4J Orlando, Florida",
+          "global_code": "76WW9Q83+4J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJu84rwSOK3YgRYp5RWdeqY58",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "13832 Narcoossee Rd B-105, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.36358,
+            "lng": -81.422817
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.36486927989272,
+              "lng": -81.42143122010727
+            },
+            "southwest": {
+              "lat": 28.36216962010727,
+              "lng": -81.42413087989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "29b97263ac6edb97012010e13be9ff2529b9a052",
+        "name": "Victory Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4305,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108535671308118066254/photos\">Victory Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAA-QLuiRgyDv5PRteggX0JDnA3lJua0fo12nWd6futvfmzQbX9tN_rNheZgbyLpXWuPEGpz9qR8HAKGAPe8MLz8DNkVYw3F8Z3bI0HEbBrPir2GIcXi5lSYDFtYrxBEwI4EhCJPBvoYZBIeGfiwKvjofXdGhQSAkiAmNR61tSLp4UqflMsL4l_jg",
+            "width": 4305
+          }
+        ],
+        "place_id": "ChIJd7UdLyyH3YgRLZeu08rQv9s",
+        "plus_code": {
+          "compound_code": "9H7G+CV Hunters Creek, Florida",
+          "global_code": "76WW9H7G+CV"
+        },
+        "rating": 4.1,
+        "reference": "ChIJd7UdLyyH3YgRLZeu08rQv9s",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "13938 Egret Tower Dr, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4303581,
+            "lng": -81.2574277
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.43183287989272,
+              "lng": -81.25608162010728
+            },
+            "southwest": {
+              "lat": 28.42913322010728,
+              "lng": -81.25878127989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4dd9f53d52e53dabd5fa21ec1c5001e311b8397e",
+        "name": "Victory Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 747,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112633744428127839242/photos\">Willy Benitez</a>"
+            ],
+            "photo_reference": "CmRaAAAANGB6tfaN91CnIENFsG8RspH_0r2O2skK7QhPJyUzSS2zQq2pa-gKHzeJH0bVKvx5APZYY0Gcb91DeSMsEYJDChGr-7KgySwhIEaVTjjahZ5BdHKpAqienfptxbksW1FhEhC2-veWScSVyo5oYxu3FPZeGhQLtvUM_8sFIioM_eF-e3EMi4wv0Q",
+            "width": 1121
+          }
+        ],
+        "place_id": "ChIJL77VMSli54gRHN9_uKI_YDM",
+        "plus_code": {
+          "compound_code": "CPJV+42 Orlando, Florida",
+          "global_code": "76WWCPJV+42"
+        },
+        "rating": 4.6,
+        "reference": "ChIJL77VMSli54gRHN9_uKI_YDM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9368 N Narcoossee Rd Ste. 102, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4581815,
+            "lng": -81.4402334
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.45953057989272,
+              "lng": -81.43899787010727
+            },
+            "southwest": {
+              "lat": 28.45683092010728,
+              "lng": -81.44169752989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "92028b61f5a548cb159dd29bdb655386170cad6a",
+        "name": "Orlando Martial Arts Academy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJzQaxcY9-54gRJoUZKsGyWFQ",
+        "plus_code": {
+          "compound_code": "FH55+7W Orlando, Florida",
+          "global_code": "76WWFH55+7W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJzQaxcY9-54gRJoUZKsGyWFQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7507 Kingspointe Pkwy # 105, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4615138,
+            "lng": -81.4374611
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.46296797989272,
+              "lng": -81.43600087010728
+            },
+            "southwest": {
+              "lat": 28.46026832010728,
+              "lng": -81.43870052989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
+        "name": "CBP Martial Arts Academy Orlando",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 659,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">Capoeira Brazilian Pelourinho, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAACl_rRxL8A1K24mkvxhO6xxrvB0tAMtk3zr5zxfS1KkFs7N2I1-qeHXHCS0XAtjR5QF1KUwEaiXknbHCkP4e2v3fOJxX_MTJ6CoqHZqQ7Y8trCRnwMPYP6i4s00r5jyeoEhDxZOzjXtZWF3Q1ObTvAo8JGhTWUR0SpoN3GbygdfU8v6mIsfHJyw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "plus_code": {
+          "compound_code": "FH67+J2 Orlando, Florida",
+          "global_code": "76WWFH67+J2"
+        },
+        "rating": 4.9,
+        "reference": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7075 Kingspointe Pkwy #10, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.494393,
+            "lng": -81.47391499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.49574427989272,
+              "lng": -81.47238472010729
+            },
+            "southwest": {
+              "lat": 28.49304462010728,
+              "lng": -81.47508437989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb6846aa292c2858189347d9f5e00224d4b58232",
+        "name": "United Tiger Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 756,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116868482170798373734/photos\">United Tiger Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAW3FNfzbMIRIU74tgoUGMG0DQQsV1NvqcpSlN4eDmDentb2HeluKw8fyamW06V_edA54x8qhlAhPFIBftvHD-Q8ZLsPk8sH8YuYuSDLiAaA_ewy8jqSLwIgl-LPTZyXOVEhBO0WiRaj6bIGaHx9oSZlVfGhT20bH-98-TaME4yUfr6ce0hEQuog",
+            "width": 1008
+          }
+        ],
+        "place_id": "ChIJa5O3yyt_54gRe_fn43jIF2M",
+        "plus_code": {
+          "compound_code": "FGVG+QC Orlando, Florida",
+          "global_code": "76WWFGVG+QC"
         },
         "rating": 4.7,
-        "reference": "ChIJ-aUBQjqGUocRZbsadl-oIhk",
+        "reference": "ChIJa5O3yyt_54gRe_fn43jIF2M",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "968 S Jordan Pkwy, South Jordan"
+        "vicinity": "6735 Conroy Windermere Rd, Orlando"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.7392814,
-            "lng": -111.9136328
+            "lat": 28.4341409,
+            "lng": -81.5582823
           },
           "viewport": {
             "northeast": {
-              "lat": 40.74075257989272,
-              "lng": -111.9122838701073
+              "lat": 28.43539327989272,
+              "lng": -81.55703552010728
             },
             "southwest": {
-              "lat": 40.73805292010727,
-              "lng": -111.9149835298927
+              "lat": 28.43269362010728,
+              "lng": -81.55973517989271
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bf303a406415d126f9cf8885feb71d47a86209f7",
-        "name": "Capoeira at Fit to Recover",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
+        "name": "Capoeira",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
         "plus_code": {
-          "compound_code": "P3QP+PG Salt Lake City, Utah",
-          "global_code": "85GCP3QP+PG"
+          "compound_code": "CCMR+MM Bay Lake, Florida",
+          "global_code": "76WWCCMR+MM"
         },
         "rating": 0,
-        "reference": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "reference": "ChIJIZ4tC2CA54gR19LUc89PMoM",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "798 W 1390 S, Salt Lake City"
+        "vicinity": "9001 Taborfield Ave, Orlando"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.7667678,
-            "lng": -111.9106359
+            "lat": 28.54785,
+            "lng": -81.19394899999999
           },
           "viewport": {
             "northeast": {
-              "lat": 40.76829737989272,
-              "lng": -111.9092676701073
+              "lat": 28.54921327989272,
+              "lng": -81.19276707010728
             },
             "southwest": {
-              "lat": 40.76559772010727,
-              "lng": -111.9119673298927
+              "lat": 28.54651362010728,
+              "lng": -81.19546672989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "444c5f04635f4254114077eb2ad479a143995288",
-        "name": "Salt Lake Capoeira",
+        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
+        "name": "Capoeira Orlando",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 640,
+            "height": 540,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
             ],
-            "photo_reference": "CmRaAAAAN3sBQ3vFCL6wt86vlSDYfxjeM_uraQ68mFLcwhSaLH5fCH_jjAeVv2imd2xHUQ3skXc7n_AMMoLbe3YmlFFe7-SQeSxNMC8gamT4llFE2uDAj_jMfi-Qg3K47ckFvxngEhAJm402dhUb7Yapa0rjHwnOGhR6riBkzzwlvo2LxW5Ip8l80eEPAw",
-            "width": 852
+            "photo_reference": "CmRaAAAA_ARI8wAaGdxvX58SvbmqhyL40nD0QWKE-47d0EwpXEVYy8MNJutFBGBcNX5mxhN2XMXcRGTcswWbMswJRunuINvA4bCPHK2avAhGQHc9zzf9i8CX2d2sT8YqacEt1osPEhCGJ2dkGW1ub8e3eNgX62wNGhSyJclu-G2yUYlWCNmtuBwZpHeW1Q",
+            "width": 960
           }
         ],
-        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
         "plus_code": {
-          "compound_code": "Q38Q+PP Salt Lake City, Utah",
-          "global_code": "85GCQ38Q+PP"
+          "compound_code": "GRX4+4C Union Park, Florida",
+          "global_code": "76WWGRX4+4C"
         },
         "rating": 5,
-        "reference": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "reference": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "West, 663 100 S, Salt Lake City"
+        "vicinity": "829 Woodbury Road #102, Orlando"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.3075475,
-            "lng": -111.6977217
+            "lat": 28.5346945,
+            "lng": -81.5232389
           },
           "viewport": {
             "northeast": {
-              "lat": 40.30889667989272,
-              "lng": -111.6964421201073
+              "lat": 28.53604562989272,
+              "lng": -81.52170092010726
             },
             "southwest": {
-              "lat": 40.30619702010728,
-              "lng": -111.6991417798927
+              "lat": 28.53334597010728,
+              "lng": -81.52440057989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "38d60695391761bbc7dee4620db137b405fab1de",
-        "name": "Utah Valley Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107391712528442834353/photos\">Utah Valley Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAIKvaSpNLeYVG88Ep9fu6MlBBKbp8yR81K9M9CFaMSIFfHHM8kh6pZVnlIwNelPiesNLl136alyiAn8ttwMOo1fjbbMBRuxZ0xJ97Ep4mgekYTHiGbfQSQndKiR-y1gfoEhALQ0GBOGHFN1bFg-lQSDYkGhTUA0sFqDYTAqXBeO9gWNBFRL6N7A",
-            "width": 1893
-          }
-        ],
-        "place_id": "ChIJpajnqo6ETYcRYATRWJcEF7I",
+        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
+        "name": "Capoeira at the Traditional Martial Arts Center",
+        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
         "plus_code": {
-          "compound_code": "8852+2W Orem, Utah",
-          "global_code": "85GC8852+2W"
+          "compound_code": "GFMG+VP Gotha, Florida",
+          "global_code": "76WWGFMG+VP"
         },
-        "rating": 5,
-        "reference": "ChIJpajnqo6ETYcRYATRWJcEF7I",
+        "rating": 0,
+        "reference": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "578 N 100 W, Orem"
+        "vicinity": "2220 Hempel Ave, Gotha"
       }
     ],
     "status": "OK"
