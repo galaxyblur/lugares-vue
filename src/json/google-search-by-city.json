@@ -1,71 +1,20 @@
 {
-  "city_name": "atlantic-city-new-jersey",
-  "city_rank": 933,
-  "city_population": 39551,
+  "city_name": "clovis-new-mexico",
+  "city_rank": 934,
+  "city_population": 39508,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.3642834,
-      -74.4229266
+      34.4047987,
+      -103.2052272
     ],
     "rankby": "distance"
   },
-  "people_per_result": 39551,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.4665934,
-            "lng": -74.4982569
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.46798712989272,
-              "lng": -74.49684552010727
-            },
-            "southwest": {
-              "lat": 39.46528747010728,
-              "lng": -74.4995451798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e6056962a7a1985f43b8966ee18e95a5dcbbfad9",
-        "name": "Freestyle Martial Arts Academy",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 540,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117717556459457313571/photos\">Freestyle Martial Arts Academy .</a>"
-            ],
-            "photo_reference": "CmRaAAAAD8sPvs8wMR65PgsSgZj_X1pHqfg6ud0GmrL_CuTMdH5m5wm_kSNPGoCcwXOEDmtrpM1BCYfkpyNFL-o8g6l8veKdrk1NmMczX0xDSlYFfEUJeYPo_wSpdRn2KhqHNAeYEhC21SIvK2vpeAHqGsXvFwYLGhQhAcC9sNUxuPGAyOZbzizTsQe_HA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJZYRV763pwIkRucIv4gdk4uM",
-        "plus_code": {
-          "compound_code": "FG82+JM Galloway, New Jersey",
-          "global_code": "87F7FG82+JM"
-        },
-        "rating": 5,
-        "reference": "ChIJZYRV763pwIkRucIv4gdk4uM",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "store",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "319 E Jimmie Leeds Rd #152, Galloway"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
