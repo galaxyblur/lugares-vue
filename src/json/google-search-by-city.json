@@ -1,20 +1,72 @@
 {
-  "city_name": "bullhead-city-arizona",
-  "city_rank": 941,
-  "city_population": 39383,
+  "city_name": "germantown-tennessee",
+  "city_rank": 942,
+  "city_population": 39375,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.1359386,
-      -114.5285981
+      35.0867577,
+      -89.8100858
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 39375,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.136744,
+            "lng": -89.991625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.13808832989272,
+              "lng": -89.99027632010728
+            },
+            "southwest": {
+              "lat": 35.13538867010728,
+              "lng": -89.99297597989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7ff3d1df5c92c81f340edee6ba84fcc0d8397cc7",
+        "name": "Delta Groove Yoga",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1136,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115634581146199879466/photos\">Paul Ringger</a>"
+            ],
+            "photo_reference": "CmRaAAAA4tEzbjP2Xm_6OlNZn1AD8V5D61f5GclGGaK3jLatxSreg8noMs8eueGu790NMIqu4RmYbfnUTg7tnS2MWy8UiH0I6vwUASVq84rjlLfNGQwkfBYmuPAZwny2x8yk7r5JEhAZL4qZ8f-kLWQ7IpmZepL9GhQSgm7FTPD1I1x0D7h7STozBu3CCg",
+            "width": 1607
+          }
+        ],
+        "place_id": "ChIJYz-_66-Af4gROzjK9GAtA4E",
+        "plus_code": {
+          "compound_code": "42P5+M9 Memphis, Tennessee",
+          "global_code": "867G42P5+M9"
+        },
+        "rating": 5,
+        "reference": "ChIJYz-_66-Af4gROzjK9GAtA4E",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "clothing_store",
+          "store",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2091 Madison Ave, Memphis"
+      }
+    ],
+    "status": "OK"
   }
 }
