@@ -1,143 +1,339 @@
 {
-  "city_name": "roy-utah",
-  "city_rank": 974,
-  "city_population": 37733,
+  "city_name": "winter-garden-florida",
+  "city_rank": 975,
+  "city_population": 37711,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.1616108,
-      -112.0263313
+      28.5652787,
+      -81.58618469999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 12578,
-  "possible_duplicates": {},
+  "people_per_result": 5387,
+  "possible_duplicates": {
+    "ChIJS2nzSoV-54gRoddoUGLdI84": [
+      {
+        "place1": "CBP Martial Arts Academy Orlando 7075 Kingspointe Pkwy #10, Orlando",
+        "place2": "Orlando Martial Arts Academy 7507 Kingspointe Pkwy # 105, Orlando",
+        "score": 0.9148936170212766
+      }
+    ],
+    "ChIJzQaxcY9-54gRJoUZKsGyWFQ": [
+      {
+        "place1": "Orlando Martial Arts Academy 7507 Kingspointe Pkwy # 105, Orlando",
+        "place2": "CBP Martial Arts Academy Orlando 7075 Kingspointe Pkwy #10, Orlando",
+        "score": 0.9148936170212766
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.21495729999999,
-            "lng": -111.9756306
+            "lat": 28.5346945,
+            "lng": -81.5232389
           },
           "viewport": {
             "northeast": {
-              "lat": 41.21604897989272,
-              "lng": -111.9742937701073
+              "lat": 28.53604562989272,
+              "lng": -81.52170092010726
             },
             "southwest": {
-              "lat": 41.21334932010728,
-              "lng": -111.9769934298927
+              "lat": 28.53334597010728,
+              "lng": -81.52440057989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4aee404a316791a86c82847dde95648a576e1a71",
-        "name": "Ogden Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
+        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
+        "name": "Capoeira at the Traditional Martial Arts Center",
+        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
         "plus_code": {
-          "compound_code": "627F+XP Ogden, Utah",
-          "global_code": "85HC627F+XP"
+          "compound_code": "GFMG+VP Gotha, Florida",
+          "global_code": "76WWGFMG+VP"
         },
         "rating": 0,
-        "reference": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
+        "reference": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "222 28th St, Ogden"
+        "vicinity": "2220 Hempel Ave, Gotha"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.7667678,
-            "lng": -111.9106359
+            "lat": 28.477644,
+            "lng": -81.58323
           },
           "viewport": {
             "northeast": {
-              "lat": 40.76829737989272,
-              "lng": -111.9092676701073
+              "lat": 28.47899272989272,
+              "lng": -81.58179832010728
             },
             "southwest": {
-              "lat": 40.76559772010727,
-              "lng": -111.9119673298927
+              "lat": 28.47629307010727,
+              "lng": -81.58449797989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "444c5f04635f4254114077eb2ad479a143995288",
-        "name": "Salt Lake Capoeira",
+        "id": "e77611c3519913bd95b37bda6c54eb11a5ad0e14",
+        "name": "Victory Martial Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4254,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103705638007864534210/photos\">Victory Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAGmuqdliVqqzE8aUhK7oxTD7-l168F3EvSL2QWHIPz_xq4E1bxI9xHpljMXzQct5E0Mj3jkbGjZkq3xyoYj6nVL66qXfak-SUknlndeF8Ehi2zMranZdBDVx1cFWDeQoMEhBnP0AwZIjkI78p1xfB3UBwGhT8TN-CtaVlSEf2kSeG3G0LRRARHQ",
+            "width": 4254
+          }
+        ],
+        "place_id": "ChIJ5xj1OD6B54gRaTRt42J94c0",
+        "plus_code": {
+          "compound_code": "FCH8+3P Lake Butler, Florida",
+          "global_code": "76WWFCH8+3P"
+        },
+        "rating": 3.4,
+        "reference": "ChIJ5xj1OD6B54gRaTRt42J94c0",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "13402 Summerport Village Pkwy Ste. 501, Windermere"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.494393,
+            "lng": -81.47391499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.49574427989272,
+              "lng": -81.47238472010729
+            },
+            "southwest": {
+              "lat": 28.49304462010728,
+              "lng": -81.47508437989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb6846aa292c2858189347d9f5e00224d4b58232",
+        "name": "United Tiger Martial Arts",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 640,
+            "height": 756,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/116868482170798373734/photos\">United Tiger Martial Arts</a>"
             ],
-            "photo_reference": "CmRaAAAAuvkuEYUp-vmmfbnBHMPg5YdxyaAVIAO1AdjsmTLdItUj27df1R7D7ZVnsbJXQamQu_wbA3IdnRAzX3zrXw3fDw4Z-j7hEoDKX7y2_QS0MJC0m_FgFp48r1uhTRqdsZOPEhBbrRqvRs-whWPmGTVKmNtcGhQ3sBWIxb-zxOXLyNB1E2cl8eCaMQ",
-            "width": 852
+            "photo_reference": "CmRaAAAArC7Q4wwElkKf6uXsmMlbrMdtszgt8RrJsDlSgwaVBDI1xycMvUaWySyA_daBwgaZQ1ZcvAuxi0mCXAatDuiKwgnfcz-P_ZjnkjWK75M8272DKOJz3iPN-9k9y6y5G3YfEhB-zpiB9zWY73KrfwXmecsNGhRxCATo8IdK--CsUrPE53rF2R5fuA",
+            "width": 1008
           }
         ],
-        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "place_id": "ChIJa5O3yyt_54gRe_fn43jIF2M",
         "plus_code": {
-          "compound_code": "Q38Q+PP Salt Lake City, Utah",
-          "global_code": "85GCQ38Q+PP"
+          "compound_code": "FGVG+QC Orlando, Florida",
+          "global_code": "76WWFGVG+QC"
         },
-        "rating": 5,
-        "reference": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "rating": 4.7,
+        "reference": "ChIJa5O3yyt_54gRe_fn43jIF2M",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "West, 663 100 S, Salt Lake City"
+        "vicinity": "6735 Conroy Windermere Rd, Orlando"
       },
       {
         "geometry": {
           "location": {
-            "lat": 40.7392814,
-            "lng": -111.9136328
+            "lat": 28.4341409,
+            "lng": -81.5582823
           },
           "viewport": {
             "northeast": {
-              "lat": 40.74075257989272,
-              "lng": -111.9122838701073
+              "lat": 28.43539327989272,
+              "lng": -81.55703552010728
             },
             "southwest": {
-              "lat": 40.73805292010727,
-              "lng": -111.9149835298927
+              "lat": 28.43269362010728,
+              "lng": -81.55973517989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
+        "name": "Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
+        "plus_code": {
+          "compound_code": "CCMR+MM Bay Lake, Florida",
+          "global_code": "76WWCCMR+MM"
+        },
+        "rating": 0,
+        "reference": "ChIJIZ4tC2CA54gR19LUc89PMoM",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9001 Taborfield Ave, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4615138,
+            "lng": -81.4374611
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.46296797989272,
+              "lng": -81.43600087010728
+            },
+            "southwest": {
+              "lat": 28.46026832010728,
+              "lng": -81.43870052989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bf303a406415d126f9cf8885feb71d47a86209f7",
-        "name": "Capoeira at Fit to Recover",
+        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
+        "name": "CBP Martial Arts Academy Orlando",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "photos": [
+          {
+            "height": 659,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">Capoeira Brazilian Pelourinho, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAQvdPq4b4tox6LXGSsK4jQ3njesRO7e4GFq83FGIRVq2vH_1pf7h6JXvw4nwLQoHcDu5bKWv9bFfqL_r3E1G3iuLFhyQ4v_bewPYItvGxpU0TbbIIQ1PPZrYDPJgtY3-BEhDFcf1FAak3OmmPvN5z2Z3VGhQmirJ6jyTDarG5bIo43pKn-MvZxw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
         "plus_code": {
-          "compound_code": "P3QP+PG Salt Lake City, Utah",
-          "global_code": "85GCP3QP+PG"
+          "compound_code": "FH67+J2 Orlando, Florida",
+          "global_code": "76WWFH67+J2"
         },
-        "rating": 0,
-        "reference": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "rating": 4.9,
+        "reference": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7075 Kingspointe Pkwy #10, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4581815,
+            "lng": -81.4402334
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.45953057989272,
+              "lng": -81.43899787010727
+            },
+            "southwest": {
+              "lat": 28.45683092010728,
+              "lng": -81.44169752989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "92028b61f5a548cb159dd29bdb655386170cad6a",
+        "name": "Orlando Martial Arts Academy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJzQaxcY9-54gRJoUZKsGyWFQ",
+        "plus_code": {
+          "compound_code": "FH55+7W Orlando, Florida",
+          "global_code": "76WWFH55+7W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJzQaxcY9-54gRJoUZKsGyWFQ",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "798 W 1390 S, Salt Lake City"
+        "vicinity": "7507 Kingspointe Pkwy # 105, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.54785,
+            "lng": -81.19394899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.54921327989272,
+              "lng": -81.19276707010728
+            },
+            "southwest": {
+              "lat": 28.54651362010728,
+              "lng": -81.19546672989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
+        "name": "Capoeira Orlando",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAAQmcQGp1XkSV0vueI88sOgN82hMt7znlid5dqVuHAiafuCiG10XbBJhXWTvlj3tWWDZDB0AK07nsJZ2MI93rCEqgjl_4CEX6a2brlHwMq-ZAIPNyqdD8TNJ71F-C0jcPhEhCBbGyW-lQqlQiSue4jfisMGhQjwASLDNZ1UI1yu0jjnyJMw5NqPg",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
+        "plus_code": {
+          "compound_code": "GRX4+4C Union Park, Florida",
+          "global_code": "76WWGRX4+4C"
+        },
+        "rating": 5,
+        "reference": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "829 Woodbury Road #102, Orlando"
       }
     ],
     "status": "OK"
