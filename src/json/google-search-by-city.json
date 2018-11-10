@@ -1,20 +1,145 @@
 {
-  "city_name": "florence-south-carolina",
-  "city_rank": 973,
-  "city_population": 37792,
+  "city_name": "roy-utah",
+  "city_rank": 974,
+  "city_population": 37733,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1954331,
-      -79.7625625
+      41.1616108,
+      -112.0263313
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 12578,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.21495729999999,
+            "lng": -111.9756306
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.21604897989272,
+              "lng": -111.9742937701073
+            },
+            "southwest": {
+              "lat": 41.21334932010728,
+              "lng": -111.9769934298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4aee404a316791a86c82847dde95648a576e1a71",
+        "name": "Ogden Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
+        "plus_code": {
+          "compound_code": "627F+XP Ogden, Utah",
+          "global_code": "85HC627F+XP"
+        },
+        "rating": 0,
+        "reference": "ChIJq6rqLCAPU4cRaZdO4uQN1dw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "222 28th St, Ogden"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7667678,
+            "lng": -111.9106359
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76829737989272,
+              "lng": -111.9092676701073
+            },
+            "southwest": {
+              "lat": 40.76559772010727,
+              "lng": -111.9119673298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "444c5f04635f4254114077eb2ad479a143995288",
+        "name": "Salt Lake Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106461217194075906415/photos\">Salt Lake Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAuvkuEYUp-vmmfbnBHMPg5YdxyaAVIAO1AdjsmTLdItUj27df1R7D7ZVnsbJXQamQu_wbA3IdnRAzX3zrXw3fDw4Z-j7hEoDKX7y2_QS0MJC0m_FgFp48r1uhTRqdsZOPEhBbrRqvRs-whWPmGTVKmNtcGhQ3sBWIxb-zxOXLyNB1E2cl8eCaMQ",
+            "width": 852
+          }
+        ],
+        "place_id": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "plus_code": {
+          "compound_code": "Q38Q+PP Salt Lake City, Utah",
+          "global_code": "85GCQ38Q+PP"
+        },
+        "rating": 5,
+        "reference": "ChIJs-8Tzfj0UocRGJKCUfj9aQo",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "West, 663 100 S, Salt Lake City"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.7392814,
+            "lng": -111.9136328
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74075257989272,
+              "lng": -111.9122838701073
+            },
+            "southwest": {
+              "lat": 40.73805292010727,
+              "lng": -111.9149835298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "bf303a406415d126f9cf8885feb71d47a86209f7",
+        "name": "Capoeira at Fit to Recover",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "plus_code": {
+          "compound_code": "P3QP+PG Salt Lake City, Utah",
+          "global_code": "85GCP3QP+PG"
+        },
+        "rating": 0,
+        "reference": "ChIJF0c9h9r0UocR78yluOCAPuw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "798 W 1390 S, Salt Lake City"
+      }
+    ],
+    "status": "OK"
   }
 }
