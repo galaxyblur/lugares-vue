@@ -1,293 +1,55 @@
 {
-  "city_name": "chicago-illinois",
-  "city_rank": 3,
-  "city_population": 2718782,
+  "city_name": "houston-texas",
+  "city_rank": 4,
+  "city_population": 2195914,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.8781136,
-      -87.6297982
+      29.7604267,
+      -95.3698028
     ],
     "rankby": "distance"
   },
-  "people_per_result": 181252,
-  "possible_duplicates": {},
+  "people_per_result": 156851,
+  "possible_duplicates": {
+    "ChIJHa48xmzMQIYRXbEayv9DSzM": [
+      {
+        "place1": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "place2": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "score": 1
+      }
+    ],
+    "ChIJiXjaSBPNQIYRE2a82Kzr7yo": [
+      {
+        "place1": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "place2": "Jaguar Gym 4409 Spring Cypress Rd, Spring",
+        "score": 1
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.8803115,
-            "lng": -87.6375316
+            "lat": 29.790332,
+            "lng": -95.37496900000001
           },
           "viewport": {
             "northeast": {
-              "lat": 41.88166232989272,
-              "lng": -87.63590797010728
+              "lat": 29.79182457989272,
+              "lng": -95.37362152010729
             },
             "southwest": {
-              "lat": 41.87896267010728,
-              "lng": -87.63860762989273
+              "lat": 29.78912492010728,
+              "lng": -95.37632117989274
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
-        "name": "Omulu Capoeira Guanabara",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
-        "plus_code": {
-          "compound_code": "V9J6+4X Chicago, Illinois",
-          "global_code": "86HJV9J6+4X"
-        },
-        "rating": 0,
-        "reference": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "100 S Wacker Dr, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8666588,
-            "lng": -87.6515435
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.86818957989271,
-              "lng": -87.65020152010727
-            },
-            "southwest": {
-              "lat": 41.86548992010727,
-              "lng": -87.65290117989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7d397dc78cc175bdf993101d18655b5071f2746e",
-        "name": "UCA Chicago",
-        "place_id": "ChIJy1S5xeQsDogRXS-F7yXAHqg",
-        "plus_code": {
-          "compound_code": "V88X+M9 Chicago, Illinois",
-          "global_code": "86HJV88X+M9"
-        },
-        "rating": 0,
-        "reference": "ChIJy1S5xeQsDogRXS-F7yXAHqg",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1001 Roosevelt Rd, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.901196,
-            "lng": -87.630342
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.90254787989272,
-              "lng": -87.62877687010729
-            },
-            "southwest": {
-              "lat": 41.89984822010727,
-              "lng": -87.63147652989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
-        "name": "Gingarte Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 682,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAziWChJrbuNwlqZB859cNRc9tTv_bW4aVVtciyqW2RmJV6gtOe4SR7qEHR0v79g35wdvkd8LQvHltik0TI0GBfNKMEL8Cx4tH9YBNNpRQ5kNctIUOv2lK1vKMQKB6T-1hEhB6dwM0tn95oViPuRfR6Fy2GhQIJ7L3pvF1NiQWcgIE5jW5bRG0AA",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "rating": 5,
-        "reference": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1016 N Dearborn St, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8959476,
-            "lng": -87.66610329999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.89737327989273,
-              "lng": -87.66475562010727
-            },
-            "southwest": {
-              "lat": 41.89467362010728,
-              "lng": -87.6674552798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f412efa0e2867ff811ebbc4169ce13abfb242f26",
-        "name": "Andre Maneco BJJ",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3840,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100639572142357268310/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAYPfc7r8gkBGULrcwrnssLloR3cBdeL3Xr3OrUbPm0NoXmWauGo5yUnIw_sQAPW5UKq154O62-jvu1o5-dUj4MGQ7rS_56gCTXE-eBOVXZ7MeFUYq6IUNrwlLCAQfUQ03EhBTKl2ynJtU6x25SeAZ3rMDGhRX3ALH8t70mvCZ5UYqjtp9bG5Ulw",
-            "width": 5760
-          }
-        ],
-        "place_id": "ChIJRduWLS0tDogR1PGXDJB8qjc",
-        "plus_code": {
-          "compound_code": "V8WM+9H Chicago, Illinois",
-          "global_code": "86HJV8WM+9H"
-        },
-        "rating": 4.7,
-        "reference": "ChIJRduWLS0tDogR1PGXDJB8qjc",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1531 W Chicago Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8959299,
-            "lng": -87.66653989999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.89736097989272,
-              "lng": -87.66519237010726
-            },
-            "southwest": {
-              "lat": 41.89466132010728,
-              "lng": -87.66789202989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
-        "name": "Axé Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 683,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAcqv66YGDlarX_PrC7J6oFm-AjC2ES3ekLQN-PgROh9KR1_qgheMV1TNGI2Y1DXWmpsSbwlY7on3H4OjtTx7-C-HggpRuuy8cOFV2XPcKXD9c9VDxFO_z3u5RJ639JNaKEhAe8A2iIla1qUvYL8LcxWi4GhRAqShsLvLw0tNBuOu1E7ph7C3-eQ",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
-        "plus_code": {
-          "compound_code": "V8WM+99 Chicago, Illinois",
-          "global_code": "86HJV8WM+99"
-        },
-        "rating": 5,
-        "reference": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1543 W Chicago Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.93509969999999,
-            "lng": -87.66268939999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.93653162989271,
-              "lng": -87.66123157010728
-            },
-            "southwest": {
-              "lat": 41.93383197010727,
-              "lng": -87.66393122989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "551d8b3cad0a7be8f997993e3bd79fbe7e8163fc",
-        "name": "Tandang Garimot Martial Arts and Wellness",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJy_XfUP_SD4gRKQllwz45aFY",
-        "plus_code": {
-          "compound_code": "W8PP+2W Chicago, Illinois",
-          "global_code": "86HJW8PP+2W"
-        },
-        "rating": 5,
-        "reference": "ChIJy_XfUP_SD4gRKQllwz45aFY",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2940 N Lincoln Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9401434,
-            "lng": -87.6548612
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.94137002989272,
-              "lng": -87.65350977010728
-            },
-            "southwest": {
-              "lat": 41.93867037010727,
-              "lng": -87.65620942989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
-        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "da46b36452ecd8e6130dd7a004daad5307eafd82",
+        "name": "Brazilian Arts Foundation",
         "opening_hours": {
           "open_now": false
         },
@@ -295,207 +57,132 @@
           {
             "height": 3024,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106627875786740751644/photos\">Brazilian Art Foundation</a>"
             ],
-            "photo_reference": "CmRaAAAAkoIJ0LRwz4wdNNesxnTXqaTEp-B18E8JE-ruMMQvPudFL6lu16MJsJKxIyc51t3XOHFfJRRuUsPNinVRzwgUDasHLxZ2M33Z9ABGqmJbWVzKCvz1q9OwTw8C7B0XtpbyEhCgMNtOzZML9SyhBoUr8q21GhSjhwhz3dsup3Mi-v3BEguHUwULMA",
+            "photo_reference": "CmRaAAAAM3kd4OsfdtFLpz04WYxUJ8Czp9ZNgwPG74efDyA5T6xlAsS_JOHyEnrDlNXdnVyoaAcOdXCkj-NzlEE2cbUG3DACP_ffqoo4DOS9KqNUE0DK_BC6e61Xbg2tV6sDVD2yEhC5KcBxt4i6EIdNxyHbiZ7AGhRnFUgdBqyiSP5mwWFor3JOcOmrtA",
             "width": 4032
           }
         ],
-        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "place_id": "ChIJweVywKO4QIYRBbGZt2oyBFc",
         "plus_code": {
-          "compound_code": "W8RW+33 Chicago, Illinois",
-          "global_code": "86HJW8RW+33"
+          "compound_code": "QJRG+42 Northside, Houston, TX",
+          "global_code": "76X6QJRG+42"
         },
-        "rating": 5,
-        "reference": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "rating": 4.8,
+        "reference": "ChIJweVywKO4QIYRBbGZt2oyBFc",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1016 W Belmont Ave, Chicago"
+        "vicinity": "316 Pecore St, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9401434,
-            "lng": -87.6548612
+            "lat": 29.7368635,
+            "lng": -95.47904659999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.94137002989272,
-              "lng": -87.65350977010728
+              "lat": 29.73820847989272,
+              "lng": -95.47781322010728
             },
             "southwest": {
-              "lat": 41.93867037010727,
-              "lng": -87.65620942989271
+              "lat": 29.73550882010728,
+              "lng": -95.48051287989271
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "8efde9e6467143d660cf5478c72f950149a491a3",
-        "name": "Japanese Culture Center",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "055d7004fd6670554c175b7411e09840d96059dc",
+        "name": "Capoeira Luanda Houston - Graduado Paraná",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102723418276407885085/photos\">Japanese Culture Center</a>"
-            ],
-            "photo_reference": "CmRaAAAAUU1GhB-NNzgQT1ULjOmpEgp2ZWisDS50Ja1rS7EGd0WiE59vNpXh5yWfraL9d4I3Fq_eYggpPChmaKeQ_M0LBo9LORP58AN8zFp8_HdSnqE_VwtaF8GFR_L9qPUGMmh8EhBhNuV27pSXcrUuuMYedl6bGhQCn2j63XuAzjKUawky6d9hXRRVKg",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJQZMaj6vTD4gRF2_zcohQrEE",
-        "rating": 4.9,
-        "reference": "ChIJQZMaj6vTD4gRF2_zcohQrEE",
+        "place_id": "ChIJm5ZFi9jDQIYR7mEhepYRFxw",
+        "plus_code": {
+          "compound_code": "PGPC+P9 Westside, Houston, TX",
+          "global_code": "76X6PGPC+P9"
+        },
+        "rating": 1,
+        "reference": "ChIJm5ZFi9jDQIYR7mEhepYRFxw",
         "scope": "GOOGLE",
         "types": [
-          "health",
-          "point_of_interest",
           "school",
-          "establishment"
-        ],
-        "vicinity": "1016 W Belmont Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9133592,
-            "lng": -87.7112971
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.91470467989271,
-              "lng": -87.71019172010728
-            },
-            "southwest": {
-              "lat": 41.91200502010727,
-              "lng": -87.71289137989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f815a0529f52aadd02844ea5176667327e59a652",
-        "name": "Capoeira Angola - FICA Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1104,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAJXIR52HEuS_oWApdijZgu-dQvE84t24zvf5ev3687Ymbj-2CrMVVhg-0AQNKxuPa8d7teeBijXBrX2OShblDJ-EJCbrsYRnHGOaoqJpPGtKxkDV6ax-VX2WDTHpqWEndEhBvgfj5To9i498HqnwpJygwGhTttSgDS_5J6LjlxPIbjtr7ggP3Mw",
-            "width": 2566
-          }
-        ],
-        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
-        "plus_code": {
-          "compound_code": "W77Q+8F Chicago, Illinois",
-          "global_code": "86HJW77Q+8F"
-        },
-        "rating": 5,
-        "reference": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
-        "scope": "GOOGLE",
-        "types": [
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1757 N Kimball Ave, Chicago"
+        "vicinity": "5704 Val Verde St #2, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9581325,
-            "lng": -87.6748333
+            "lat": 29.6699072,
+            "lng": -95.2884521
           },
           "viewport": {
             "northeast": {
-              "lat": 41.95934667989273,
-              "lng": -87.67347952010729
+              "lat": 29.67125287989272,
+              "lng": -95.28739402010727
             },
             "southwest": {
-              "lat": 41.95664702010728,
-              "lng": -87.67617917989273
+              "lat": 29.66855322010728,
+              "lng": -95.2900936798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
-        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
+        "id": "5e8f492553ad1d00b836442d2bc72bd59d03d76e",
+        "name": "Flying Dragon Taekwondo",
         "opening_hours": {
-          "open_now": true
+          "open_now": false
         },
-        "photos": [
-          {
-            "height": 2532,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center</a>"
-            ],
-            "photo_reference": "CmRaAAAAEwT6C1n3qencC_JRXOqq6mIkXwLyacloxdPHxqXpv4nqgLAdyH6ttKbKlKhYfRWyTJuYBe8ytsxD22PfYM4gSXhifbd0KPXY6fY2fChj1Jzk_nfyFjfYz6n2IoX2krUUEhBBXpDVkshF_9AtBse5NcDqGhTSWavFJ2AjyzuNpyajzG7GCcrh_w",
-            "width": 3555
-          }
-        ],
-        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "place_id": "ChIJB7DRej2WQIYRqjKZzVfLHdE",
         "plus_code": {
-          "compound_code": "X85G+73 Chicago, Illinois",
-          "global_code": "86HJX85G+73"
+          "compound_code": "MP96+XJ Southeast Houston, Houston, TX",
+          "global_code": "76X6MP96+XJ"
         },
-        "rating": 5,
-        "reference": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "rating": 4.3,
+        "reference": "ChIJB7DRej2WQIYRqjKZzVfLHdE",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1802 W Berteau Ave #215, Chicago"
+        "vicinity": "6511 Telephone Rd, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9671465,
-            "lng": -87.6874357
+            "lat": 29.7364449,
+            "lng": -95.5245556
           },
           "viewport": {
             "northeast": {
-              "lat": 41.96847187989272,
-              "lng": -87.68615877010727
+              "lat": 29.73786522989271,
+              "lng": -95.52322412010727
             },
             "southwest": {
-              "lat": 41.96577222010728,
-              "lng": -87.68885842989272
+              "lat": 29.73516557010727,
+              "lng": -95.52592377989272
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "72e0770abfd9ba7d960455e11addb4095efa2662",
-        "name": "Degerberg Academy of Martial Arts",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "35e0964d327dc75ff456e6daf0215bd39e75b9c2",
+        "name": "Capoeirá Humaitá Mestre Chocolate",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 639,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116271659917994865247/photos\">Degerberg Academy of Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAA-EMlbhnIqITLP42JaaWXwn2ruOu0dfTh2H8BgO4aJly6x2NKD2tbXQHbgxs_UUZkqpVeuiChrYtFP1vpXGPJ56TMw69MLX5tA-oGnInNVEpg3JgbX3xIAuLW3C66tICzEhBB5ksiKDlFzCo5hCRcAl2zGhTZlEKRDm6cKV18wk0Z5PBe1PPtrQ",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJ0_mSyRrSD4gRkFk0WgWgpMw",
+        "place_id": "ChIJdaEcSwnDQIYRw1AAQE-o1dE",
         "plus_code": {
-          "compound_code": "X887+V2 Chicago, Illinois",
-          "global_code": "86HJX887+V2"
+          "compound_code": "PFPG+H5 Westside, Houston, TX",
+          "global_code": "76X6PFPG+H5"
         },
-        "rating": 4.7,
-        "reference": "ChIJ0_mSyRrSD4gRkFk0WgWgpMw",
+        "rating": 0,
+        "reference": "ChIJdaEcSwnDQIYRw1AAQE-o1dE",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -503,48 +190,83 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4717 N Lincoln Ave, Chicago"
+        "vicinity": "9099 Westheimer Rd Suite K, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9527072,
-            "lng": -87.7174405
+            "lat": 29.6267332,
+            "lng": -95.2685861
           },
           "viewport": {
             "northeast": {
-              "lat": 41.95400757989272,
-              "lng": -87.71615257010727
+              "lat": 29.62792567989272,
+              "lng": -95.26722712010728
             },
             "southwest": {
-              "lat": 41.95130792010728,
-              "lng": -87.7188522298927
+              "lat": 29.62522602010727,
+              "lng": -95.26992677989273
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "48b84744a8082dee3071ae6f1ad90e1a98a1d033",
-        "name": "Capoeira Maculelê Chicago",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e109a17f1baad04d0ec1488117f2fc95160bd34d",
+        "name": "Bushi Ban Almeda",
+        "place_id": "ChIJT2bVquKWQIYRRquT6HRRGTY",
+        "plus_code": {
+          "compound_code": "JPGJ+MH Southeast Houston, Houston, TX",
+          "global_code": "76X6JPGJ+MH"
+        },
+        "rating": 5,
+        "reference": "ChIJT2bVquKWQIYRRquT6HRRGTY",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "8405 Almeda Genoa Rd, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5979707,
+            "lng": -95.26533719999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.59932052989272,
+              "lng": -95.26398737010727
+            },
+            "southwest": {
+              "lat": 29.59662087010727,
+              "lng": -95.26668702989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a7229f968eef1cc7ae02cdb6966357072ce39e68",
+        "name": "Alliance BJJ Houston Martial Arts & Fitness",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 3024,
+            "height": 684,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103250731506876909876/photos\">Girino Capoeira</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/101847587833775212118/photos\">Advantage BJJ Martial Arts &amp; Fitness</a>"
             ],
-            "photo_reference": "CmRaAAAA7Sit2SKH6d8fwZbzYml_hqAHapl3wFxMy53pMkX3bPoBGE3ke6L-WrfwjkLUzDLtpgDmUDWXKPMZkIvuD1aL_EX0QhIKQUkG32qJAe8XoNzZToZ7SWxSEeZElIZwYfFOEhC9ho4H8Wg-0a3DOewRbVejGhTKLt0hnQ39hEx2o2lQ9TtuIMbZ9w",
-            "width": 4032
+            "photo_reference": "CmRaAAAAcWw1qv6UXE5kAQWlHcIPk11VL3VC2JmZr4qAfysx6fs1AbnHSeQYskGBYw1aWTSQP_4t8Ii1P-JOc7OOUjnKwJxXgWKU53XROhIS50hEa27QRyb4BDRNONZenWnNvBFSEhCBLynE-IWrZuHy5OB2R7mOGhT6pWsn-5HXReEtIri1-fHIMrCr-Q",
+            "width": 1026
           }
         ],
-        "place_id": "ChIJoWEPH77ND4gRCzl1wU8ntEY",
+        "place_id": "ChIJUwLx1SuXQIYReroKzhVDRI4",
         "plus_code": {
-          "compound_code": "X73M+32 Chicago, Illinois",
-          "global_code": "86HJX73M+32"
+          "compound_code": "HPXM+5V Southbelt/ Ellington, Houston, TX",
+          "global_code": "76X6HPXM+5V"
         },
-        "rating": 0,
-        "reference": "ChIJoWEPH77ND4gRCzl1wU8ntEY",
+        "rating": 5,
+        "reference": "ChIJUwLx1SuXQIYReroKzhVDRI4",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -552,141 +274,355 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3933 N Elston Ave, Chicago"
+        "vicinity": "10555 Pearland Parkway U, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.8504752,
-            "lng": -87.7741183
+            "lat": 29.6209038,
+            "lng": -95.22299100000001
           },
           "viewport": {
             "northeast": {
-              "lat": 41.85198762989272,
-              "lng": -87.77277447010728
+              "lat": 29.62225262989272,
+              "lng": -95.22174097010728
             },
             "southwest": {
-              "lat": 41.84928797010727,
-              "lng": -87.77547412989273
+              "lat": 29.61955297010728,
+              "lng": -95.22444062989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "158e1adff83e7e9083e6bf4c31fa5ae5bd10299c",
-        "name": "Herança Cultural Capoeira, Est. Girino.",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJl8rGrYczDogRnnT3AtvlXT4",
+        "id": "a7697a61e3a9fab948c942f83a5d0765649ece0f",
+        "name": "Grappling Zone",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109650103244438936139/photos\">Master Jiu Jitsu Academy</a>"
+            ],
+            "photo_reference": "CmRaAAAAahqT4GF-Jfk_pjxeMrtcj1COZnPy4mVxDUkSuvAh30NP1zoD1iHhHUuNI239oPB2R2mFMliltmrVdljXl_tXRQkiJhmJirF47_cvym7dMFq9NcF_dxYq7I_wSnWXA_UuEhALnHb7X_nTsepBozt6DsQyGhRfgMQp8R459V8xdtMXZd0gQ-ceTA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ-3EC8m2XQIYRU1stB8Dx_Ss",
         "plus_code": {
-          "compound_code": "V62G+59 Cicero, Cicero Township, IL",
-          "global_code": "86HJV62G+59"
+          "compound_code": "JQCG+9R Southbelt/ Ellington, Houston, TX",
+          "global_code": "76X6JQCG+9R"
         },
-        "rating": 0,
-        "reference": "ChIJl8rGrYczDogRnnT3AtvlXT4",
+        "rating": 5,
+        "reference": "ChIJ-3EC8m2XQIYRU1stB8Dx_Ss",
         "scope": "GOOGLE",
         "types": [
-          "school",
+          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "6011 W Cermak Rd, Cicero"
+        "vicinity": "12260 Gulf Fwy A-17, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.991912,
-            "lng": -87.654746
+            "lat": 29.5934755,
+            "lng": -95.22282589999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.99325562989272,
-              "lng": -87.65374082010727
+              "lat": 29.59463812989272,
+              "lng": -95.22168342010727
             },
             "southwest": {
-              "lat": 41.99055597010728,
-              "lng": -87.65644047989271
+              "lat": 29.59193847010727,
+              "lng": -95.22438307989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
-        "name": "Herança Cultural Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
+        "id": "ff7117362626b02ead824141c1fd0bfd7c5fe844",
+        "name": "Legacy Martial Arts & Fitness",
         "photos": [
           {
-            "height": 960,
+            "height": 720,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/103425407329135138995/photos\">Legacy Martial Arts &amp; Fitness</a>"
             ],
-            "photo_reference": "CmRaAAAA1_WH1wgpGrr2h-CgyR_FUNis-2Ozb_AJSgbKX36fhMy4BCS3G3rdv-Eto-vZ4rm03NKiKDfV0sS1cfQ7AZRqbVkfD6GOEBvyJprZaX6P3LPc5MEGHutoDriZpvhzxsewEhCGZqFFIg4gpBETAryFe8FBGhTJjz20lwQKwVhsQu1H1VtbE0cr6A",
+            "photo_reference": "CmRaAAAAIEkBtEfBGEF6FLrWYnVoUygXYL7fJX7WaQBiz80bhxvwECUcCZK6VFrDqFumFpvt_LU4vKPD9W0tBN-Awu7B31vgXcZbwEkhgBAWc86JDOBcXPP91uDrgGcQPCluGy78EhC_wAdJQNcmgTzosEWd-7mlGhR1qQnkABTuHTSvmv_DwJmHalwdJw",
             "width": 1280
           }
         ],
-        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
+        "place_id": "ChIJGb4-ZaKXQIYRHzofUkj2yGc",
         "plus_code": {
-          "compound_code": "X8RW+Q4 Chicago, Illinois",
-          "global_code": "86HJX8RW+Q4"
+          "compound_code": "HQVG+9V Southbelt/ Ellington, Houston, TX",
+          "global_code": "76X6HQVG+9V"
         },
-        "rating": 5,
-        "reference": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
+        "rating": 4.9,
+        "reference": "ChIJGb4-ZaKXQIYRHzofUkj2yGc",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "6033 N Sheridan Rd, Chicago"
+        "vicinity": "12023 Beamer Rd, Houston"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.0061162,
-            "lng": -88.0823128
+            "lat": 29.8682608,
+            "lng": -95.6443999
           },
           "viewport": {
             "northeast": {
-              "lat": 42.00746632989272,
-              "lng": -88.08109592010727
+              "lat": 29.86961167989272,
+              "lng": -95.64292927010729
             },
             "southwest": {
-              "lat": 42.00476667010728,
-              "lng": -88.08379557989272
+              "lat": 29.86691202010727,
+              "lng": -95.64562892989274
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
-        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "id": "fe7c31cddd744f4055f2ddf3024b728fe8490115",
+        "name": "Aruande Capoeira",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 662,
+            "height": 1671,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/101848570030577251642/photos\">Aruande Capoeira Houston</a>"
             ],
-            "photo_reference": "CmRaAAAAC2FZ8lTfVwDaxslVssziJjn_U6P_JxHmRvPB0IqrAhVJxngtTlooTILyXeAoRJelvlbuWbWxK3YRpI8-2Ef_lrTtHPczpJyUa36JC_q1DtgF3XyyOv7hVe9Wecwp-mPJEhCh5OIBZCrosHXRM3HoMZDjGhSD6lbHLFpd8vEksw_MivzXBmJhhQ",
-            "width": 884
+            "photo_reference": "CmRaAAAASTO6zzUJ8zc7vbX-eOr4jC5A2PoPATSMgXdA1HVB0OODDG4_eCXYj6iMSuhrSZHMcpU9fPcVoi2EC1CoZfp-3D5erJCgYSw7JGOf1XdE_Bawer6_j8oWQ8AhSQfja7o5EhCPh6WCwVyGgyB7X30OKX4GGhStlInPr-S72sl3LacmUHxNOuLuHA",
+            "width": 2048
           }
         ],
-        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "place_id": "ChIJOxyLwPXZQIYRcSVfrS3bOGs",
         "plus_code": {
-          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
-          "global_code": "86JH2W49+C3"
+          "compound_code": "V994+86 Colonies Commercial, Texas",
+          "global_code": "76X6V994+86"
         },
         "rating": 5,
-        "reference": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "reference": "ChIJOxyLwPXZQIYRcSVfrS3bOGs",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "school",
+          "establishment"
+        ],
+        "vicinity": "6110 Hwy 6 N, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.9979223,
+            "lng": -95.5093029
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.99904987989272,
+              "lng": -95.50779102010726
+            },
+            "southwest": {
+              "lat": 29.99635022010728,
+              "lng": -95.51049067989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2dbb67b8c95b5054e06a002441a3c44defb826bb",
+        "name": "Grupo Cafu Gingado Capoeira Houston NW",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
+        "plus_code": {
+          "compound_code": "XFXR+57 Century-stuebner, Texas",
+          "global_code": "76X6XFXR+57"
+        },
+        "rating": 5,
+        "reference": "ChIJ7-rMAfjMQIYR6vtXS5KWjaU",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1154 S Roselle Rd, Schaumburg"
+        "vicinity": "4622 Mittlestedt Rd, Houston"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.5463791,
+            "lng": -95.12619199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.54771932989272,
+              "lng": -95.12485572010728
+            },
+            "southwest": {
+              "lat": 29.54501967010727,
+              "lng": -95.12755537989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f796c6e4f5e4028f0d1ae053f14ccf5da1be6a4f",
+        "name": "Sinha' Capoeira - TX",
+        "place_id": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "plus_code": {
+          "compound_code": "GVWF+HG Webster, Texas",
+          "global_code": "76X6GVWF+HG"
+        },
+        "rating": 5,
+        "reference": "ChIJR5-dWYmXQIYRSElhx478y64",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "17050 Galveston Rd, Webster"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 29.7713754,
+            "lng": -95.7201979
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 29.77272522989272,
+              "lng": -95.71890877010728
+            },
+            "southwest": {
+              "lat": 29.77002557010728,
+              "lng": -95.72160842989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2b0c6e48a11fa88b085261996d1c76ff6af0fd62",
+        "name": "Capoeira Luanda Houston-Katy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107916674821248149318/photos\">Tony Paraná</a>"
+            ],
+            "photo_reference": "CmRaAAAAt4Y0-HRzlq07ou8SNrZtiQfa3PlziVurq__ANU-z6lDrFs_NcwrEWZv3TKgoFadGGuKxJsnRNPOyllKxjWa5Gy7ycfFQ7dXPiQvdBrfJmC3fjMhacXLQcG3Kpg7ZiJBzEhC2zgoYTrAPlyqWsXHe1b-_GhQR_yATBtdKf30hkyIHQDumqhL2YA",
+            "width": 1500
+          }
+        ],
+        "place_id": "ChIJn92_OaXYQIYRxGDniRnT2CM",
+        "plus_code": {
+          "compound_code": "Q7CH+HW Nottingham Country, Houston, TX",
+          "global_code": "76X6Q7CH+HW"
+        },
+        "rating": 0,
+        "reference": "ChIJn92_OaXYQIYRxGDniRnT2CM",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "962 S Fry Rd, Katy"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0537462,
+            "lng": -95.4859829
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.05529592989272,
+              "lng": -95.48478202010728
+            },
+            "southwest": {
+              "lat": 30.05259627010728,
+              "lng": -95.48748167989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c49a6518a1f5ba4b9e3fb86fb481d7014a447a56",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 922,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111199821320638009630/photos\">Jaguar Gym</a>"
+            ],
+            "photo_reference": "CmRaAAAAEFSqxSaNuGdr6HF75q0h9_ZN1HiC3Zz6y5Lyh9J0v4PhJZvdihrCX0SLJJ_1klwZs5hIvHg-WVzXkpb2AgJWX3WUvXG4-vukUQLzQZmTKiRgyafQ8OjhG0L1z64hLbwREhC22mD3RSq7_6PGhQJJEEbGGhShIX2lFYbfmmgrnC4qlsFVAti6HA",
+            "width": 1645
+          }
+        ],
+        "place_id": "ChIJHa48xmzMQIYRXbEayv9DSzM",
+        "plus_code": {
+          "compound_code": "3G37+FJ North Pine Business Park, Texas",
+          "global_code": "86263G37+FJ"
+        },
+        "rating": 5,
+        "reference": "ChIJHa48xmzMQIYRXbEayv9DSzM",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Rd, Spring"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 30.0538019,
+            "lng": -95.4860411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 30.05532047989272,
+              "lng": -95.48481702010727
+            },
+            "southwest": {
+              "lat": 30.05262082010728,
+              "lng": -95.4875166798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f852fad29fe28a931cfc0e0295bc62dced4b6ef3",
+        "name": "Jaguar Gym",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJiXjaSBPNQIYRE2a82Kzr7yo",
+        "plus_code": {
+          "compound_code": "3G37+GH North Pine Business Park, Texas",
+          "global_code": "86263G37+GH"
+        },
+        "rating": 5,
+        "reference": "ChIJiXjaSBPNQIYRE2a82Kzr7yo",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4409 Spring Cypress Rd, Spring"
       }
     ],
     "status": "OK"
