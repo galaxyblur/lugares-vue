@@ -1,16 +1,16 @@
 {
-  "city_name": "honolulu-hawaii",
-  "city_rank": 54,
-  "city_population": 347884,
+  "city_name": "aurora-colorado",
+  "city_rank": 55,
+  "city_population": 345803,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      21.3069444,
-      -157.8583333
+      39.7294319,
+      -104.8319195
     ],
     "rankby": "distance"
   },
-  "people_per_result": 115961,
+  "people_per_result": 57634,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,133 +18,245 @@
       {
         "geometry": {
           "location": {
-            "lat": 21.2994672,
-            "lng": -157.8560146
+            "lat": 39.7527281,
+            "lng": -104.8767933
           },
           "viewport": {
             "northeast": {
-              "lat": 21.30084542989272,
-              "lng": -157.8546260701073
+              "lat": 39.75407817989272,
+              "lng": -104.8753668201073
             },
             "southwest": {
-              "lat": 21.29814577010728,
-              "lng": -157.8573257298927
+              "lat": 39.75137852010727,
+              "lng": -104.8780664798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f9d07b22e9f11a45ce486d11867c2b89d64dd297",
+        "name": "Capoeira Denver",
+        "place_id": "ChIJL5RUdPN7bIcR_72UIwwp1c8",
+        "plus_code": {
+          "compound_code": "Q43F+37 Aurora, Colorado",
+          "global_code": "85FQQ43F+37"
+        },
+        "rating": 0,
+        "reference": "ChIJL5RUdPN7bIcR_72UIwwp1c8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2501, Aurora"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.655839,
+            "lng": -104.8678092
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.65727657989272,
+              "lng": -104.8665678201073
+            },
+            "southwest": {
+              "lat": 39.65457692010728,
+              "lng": -104.8692674798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "98599abc6237443cc88357d92c90ec6afa73cabd",
+        "name": "Denver Jiu Jitsu Rodrigo Salazar Team",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114706123341156022016/photos\">Denver Jiu Jitsu LLC</a>"
+            ],
+            "photo_reference": "CmRaAAAAqLtQQpyG9x3kQmhn_vXM2eDn1NJTH1V4zWLFeoPY3Mr1Pk7ycZtcMvD2mo5tjuX2o5uE-vRJapZ944gIfszAUW1BVAbYIak6aewY6ECQ1JweBW4aERCSbWeb1QZOvjgTEhCWQ2OEGPwtfeASzsAOhZ1ZGhQSc-IeuPkuDDW48BzC75EEWg0taQ",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJQXIiPeuHbIcRco70ntONw2g",
+        "rating": 4.7,
+        "reference": "ChIJQXIiPeuHbIcRco70ntONw2g",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10200 E Girard Ave, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.6782939,
+            "lng": -104.936617
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.67965127989272,
+              "lng": -104.9352676201073
+            },
+            "southwest": {
+              "lat": 39.67695162010727,
+              "lng": -104.9379672798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a4e87b229ce99cbc159ea3e0f964235baab26137",
+        "name": "Brazilian Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112640448608706135415/photos\">Brazilian Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAAIvolvmPAy8zCRDg4Z4qn2LyklfTieJyTrMDaqLyMzm8DZ4Ks354P84D14bQY10Kn-ShLWUqBP--H5DZ3gKvM93ocK9KTo1YiVvodGBjHsH8uPpC7oSrzgViKf8q23LuaEhBX_PNXpfX8OBRhVsolGSzEGhTgSmptCsjtCYfw9jGQ2fBdAyOsBQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
+        "rating": 5,
+        "reference": "ChIJ6ZuLMOJ9bIcRUhA5JQ058wM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4362 E Evans Ave, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.7583015,
+            "lng": -104.9883232
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.75936192989272,
+              "lng": -104.9873553201073
+            },
+            "southwest": {
+              "lat": 39.75666227010728,
+              "lng": -104.9900549798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b36d96e463f64bec5bbeb66528a43c06218bb78",
+        "name": "Studio Capoeira Denver",
+        "place_id": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "plus_code": {
+          "compound_code": "Q256+8M Denver, Colorado",
+          "global_code": "85FQQ256+8M"
+        },
+        "rating": 0,
+        "reference": "ChIJi9EOf-B4bIcRW1iGpMtVs6U",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1451 24th St, Denver"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 39.730873,
+            "lng": -104.998326
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 39.73222067989272,
+              "lng": -104.9971260201073
+            },
+            "southwest": {
+              "lat": 39.72952102010728,
+              "lng": -104.9998256798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "7308012595726be272f9af7011651aeedc947381",
-        "name": "Capoeira CDO Hawaii",
-        "place_id": "ChIJkxwD_eFtAHwRpgvMhhEevNw",
-        "plus_code": {
-          "compound_code": "74XV+QH Honolulu, Hawaii",
-          "global_code": "73H474XV+QH"
+        "id": "988bb6644aa524afd6b37a30895b64dd39dc97c3",
+        "name": "Movement Ritual",
+        "opening_hours": {
+          "open_now": true
         },
-        "rating": 0,
-        "reference": "ChIJkxwD_eFtAHwRpgvMhhEevNw",
+        "photos": [
+          {
+            "height": 1440,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115090892512447875019/photos\">Movement Ritual</a>"
+            ],
+            "photo_reference": "CmRaAAAAIT-kkp7K61LgHx2bqbETub_6vrWgBR_idYV1ZSX4GaPNGYsfGFMvRavec9rTz_pm17d0d8PmwA5XkF0YDifwh-IBTPnFl1iXbDCRMfckTtw4UI9HxckkEs1Vc6MVWXezEhA8awqtfKjkMXCThXe1OhARGhRJ_3t0CWTqBI6DjKV5zCl9aMTebg",
+            "width": 2560
+          }
+        ],
+        "place_id": "ChIJJa3_xSF5bIcRlEi_TpoaKHc",
+        "plus_code": {
+          "compound_code": "P2J2+8M Denver, Colorado",
+          "global_code": "85FQP2J2+8M"
+        },
+        "rating": 4.3,
+        "reference": "ChIJJa3_xSF5bIcRlEi_TpoaKHc",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "670 Queen St, Honolulu"
+        "vicinity": "910 Santa Fe Dr #8, Denver"
       },
       {
         "geometry": {
           "location": {
-            "lat": 21.281869,
-            "lng": -157.784375
+            "lat": 39.7308796,
+            "lng": -104.9983669
           },
           "viewport": {
             "northeast": {
-              "lat": 21.28324077989272,
-              "lng": -157.7833258701073
+              "lat": 39.73222757989272,
+              "lng": -104.9971465701073
             },
             "southwest": {
-              "lat": 21.28054112010728,
-              "lng": -157.7860255298927
+              "lat": 39.72952792010727,
+              "lng": -104.9998462298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "22a0778e75884d245ce6886bf490b247f2d42a32",
-        "name": "Capoeira CDO Hawaii",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 661,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106336724379228260345/photos\">Capoeira CDO Hawaii</a>"
-            ],
-            "photo_reference": "CmRaAAAA-t6vGCkGZ1nhll-BeKiSksVEtMhDquIVRCCh9Op8pJ6IeYE13_LRnt7_5QMxArKRONSQ90XhuD4MO0Ba7OxFw_hSubdq9Rv1FOhDkW2bvE_bDQfCAGrt07L47_XGCt3lEhC_8lVRq_xzNwC4SO7bYM1oGhQo9mU8JeXV1ysOeJ_INW_BkZrpeg",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJS0_jcWRuAHwR8ARKEhsGDcM",
+        "id": "3efbe59b8d460f3df658e16a9894a66d44d74f7b",
+        "name": "Canto do Galo Capoeira",
+        "place_id": "ChIJbyR07DF_bIcRcvNwF82lzWU",
         "plus_code": {
-          "compound_code": "76J8+P7 Honolulu, Hawaii",
-          "global_code": "73H476J8+P7"
+          "compound_code": "P2J2+9M Denver, Colorado",
+          "global_code": "85FQP2J2+9M"
         },
-        "rating": 5,
-        "reference": "ChIJS0_jcWRuAHwR8ARKEhsGDcM",
+        "rating": 4.5,
+        "reference": "ChIJbyR07DF_bIcRcvNwF82lzWU",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4901 Kilauea Ave, Honolulu"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 21.4154166,
-            "lng": -157.8062754
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.41689027989272,
-              "lng": -157.8050163701073
-            },
-            "southwest": {
-              "lat": 21.41419062010728,
-              "lng": -157.8077160298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e0ba90c5726c62f7f44fc57057f169a10e1b90",
-        "name": "Association of Capoeira Besouro, LLC",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1540,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113369733821068223345/photos\">Association of Capoeira Besouro, LLC</a>"
-            ],
-            "photo_reference": "CmRaAAAAigXDcVq5MUz6k_2H3zZwu7x3y0erwIEdu5N6LTJ-1P4LHg7yy9TBhnhcgQTDiRmo55EuD1gWHScjOTm0S6TbXB5OewrHfolnY3OeGCQSf5kNbhY9ZA-aHN77L642rHObEhA3Xb0y1x3v_d5Vut0Rc2bzGhToq4MeJd5qS-WhAc9gVDn_T-M6yQ",
-            "width": 1540
-          }
-        ],
-        "place_id": "ChIJf-8Uu6xrAHwRciQ7_zGQZdw",
-        "plus_code": {
-          "compound_code": "C58V+5F Kaneohe, Hawaii",
-          "global_code": "73H4C58V+5F"
-        },
-        "rating": 0,
-        "reference": "ChIJf-8Uu6xrAHwRciQ7_zGQZdw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "46-208 Kahuhipa St #3, Kaneohe"
+        "vicinity": "910 Santa Fe Dr #1, Denver"
       }
     ],
     "status": "OK"
