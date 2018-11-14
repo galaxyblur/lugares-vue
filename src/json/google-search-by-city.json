@@ -1,20 +1,66 @@
 {
-  "city_name": "anchorage-alaska",
-  "city_rank": 63,
-  "city_population": 300950,
+  "city_name": "stockton-california",
+  "city_rank": 64,
+  "city_population": 298118,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      61.2180556,
-      -149.9002778
+      37.9577016,
+      -121.2907796
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 298118,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 37.6946373,
+            "lng": -121.7422543
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.69612017989272,
+              "lng": -121.7409953201073
+            },
+            "southwest": {
+              "lat": 37.69342052010728,
+              "lng": -121.7436949798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2f8c84cd2c626a66c83e992eafed45e1aa608c3a",
+        "name": "Ginga Mundo Capoeira Livermore",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102378633604145718904/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAVxAOP5WVv7goueDzypJ4CrgV4qJCVB_PN-L6rKiS3t2ijdQfy_XTDPkZG9OSX9MO1sZf3MPTUC5J_vhZWi5IIQnB8UOJ_IsyejQGh__tdHvYb2DCBWjy6WAi7A0i__CHEhCJ0JUMBnzXsUUd8YG2c7_YGhRTkqu5EGOGEAvX57_2_G1Pfgf0xw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJgfqIolTnj4ARM4wW3AjhZzQ",
+        "plus_code": {
+          "compound_code": "M7V5+V3 Livermore, California",
+          "global_code": "849WM7V5+V3"
+        },
+        "rating": 0,
+        "reference": "ChIJgfqIolTnj4ARM4wW3AjhZzQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4555 Las Positas Rd suite e, Livermore"
+      }
+    ],
+    "status": "OK"
   }
 }
