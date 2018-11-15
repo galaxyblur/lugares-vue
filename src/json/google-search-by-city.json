@@ -1,53 +1,530 @@
 {
-  "city_name": "fort-wayne-indiana",
-  "city_rank": 76,
-  "city_population": 256496,
+  "city_name": "orlando-florida",
+  "city_rank": 77,
+  "city_population": 255483,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.079273,
-      -85.1393513
+      28.5383355,
+      -81.3792365
     ],
     "rankby": "distance"
   },
-  "people_per_result": 256496,
-  "possible_duplicates": {},
+  "people_per_result": 23226,
+  "possible_duplicates": {
+    "ChIJS2nzSoV-54gRoddoUGLdI84": [
+      {
+        "place1": "CBP Martial Arts Academy Orlando 7075 Kingspointe Pkwy #10, Orlando",
+        "place2": "Orlando Martial Arts Academy 7507 Kingspointe Pkwy # 105, Orlando",
+        "score": 0.9148936170212766
+      }
+    ],
+    "ChIJzQaxcY9-54gRJoUZKsGyWFQ": [
+      {
+        "place1": "Orlando Martial Arts Academy 7507 Kingspointe Pkwy # 105, Orlando",
+        "place2": "CBP Martial Arts Academy Orlando 7075 Kingspointe Pkwy #10, Orlando",
+        "score": 0.9148936170212766
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.0805375,
-            "lng": -85.1333631
+            "lat": 28.5529698,
+            "lng": -81.35898689999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.08174067989272,
-              "lng": -85.13197342010727
+              "lat": 28.55439827989272,
+              "lng": -81.35763792010727
             },
             "southwest": {
-              "lat": 41.07904102010727,
-              "lng": -85.1346730798927
+              "lat": 28.55169862010727,
+              "lng": -81.36033757989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "240b83639030042c228a7c84ad6825d36da530e6",
-        "name": "Fort Wayne Dance Collective",
+        "id": "4938b77be1610152ff516cf8532943c788942c75",
+        "name": "Martial Arts World Orlando",
         "opening_hours": {
           "open_now": true
         },
-        "place_id": "ChIJQUsNdpPkFYgRGraJ_ePVAAs",
-        "rating": 5,
-        "reference": "ChIJQUsNdpPkFYgRGraJ_ePVAAs",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100378007406564271303/photos\">Luis Valdes</a>"
+            ],
+            "photo_reference": "CmRaAAAAC0CGJ1wZ5oLeW7J0ypd_1jA0KhyCWaMmOxrp-aoo_-Nfo1l3xI-fU7N1Ae7edWQG5xRPm9ftVtrwT8xrVcorFtUDJRYPbAW4_W8lCwitgWftVJ3dAzbh1guxw1jUELRiEhAr0z8zsuTq3ptu14o4pN6TGhSVVUfJ66Ioxi3wjRnOEjd4sFZRxg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJJxFessN654gREDeu2bI3kPI",
+        "plus_code": {
+          "compound_code": "HJ3R+5C Orlando, Florida",
+          "global_code": "76WWHJ3R+5C"
+        },
+        "rating": 4.9,
+        "reference": "ChIJJxFessN654gREDeu2bI3kPI",
         "scope": "GOOGLE",
         "types": [
+          "gym",
+          "health",
           "point_of_interest",
-          "school",
           "establishment"
         ],
-        "vicinity": "437 E Berry St #203, Fort Wayne"
+        "vicinity": "1630 E Colonial Dr, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4761234,
+            "lng": -81.3679521
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.47747027989272,
+              "lng": -81.36661937010727
+            },
+            "southwest": {
+              "lat": 28.47477062010728,
+              "lng": -81.36931902989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "58a31cb11a1884cb9c5476a4eb6a6da39a56985c",
+        "name": "South Orlando Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113850380799554240037/photos\">South Orlando Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAVvxBiAjAw8YaR4QB_qdfinf3_PyRUIKsLYoyHkV51Gwg6fQAf3Nc2u8zPJJQ-ZaOOp_RyrYHaqp12a6rJY5GSpZxthxbLM4mnvK88YzC2_5gz3L9jOWyN2ozIAMuawuSEhB1eu1jApu1c-D8ayOGPGOiGhQtIIRQevFSAerI-9nu9VQCMD6CLw",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJR8hMNpF854gRFpke78AKM_8",
+        "plus_code": {
+          "compound_code": "FJGJ+CR Edgewood, Florida",
+          "global_code": "76WWFJGJ+CR"
+        },
+        "rating": 5,
+        "reference": "ChIJR8hMNpF854gRFpke78AKM_8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4216, 5630 Hansel Ave, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.481776,
+            "lng": -81.328912
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.48302667989272,
+              "lng": -81.32755927010727
+            },
+            "southwest": {
+              "lat": 28.48032702010727,
+              "lng": -81.33025892989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "82521df15f0432fcf9b4793f3cfd24eee6a9e09a",
+        "name": "Championship Martial Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104661878989047503894/photos\">Pamela Cordero</a>"
+            ],
+            "photo_reference": "CmRaAAAA4fWfSrHvZmX1NGvnUVQenPmxwFQvgvhn-CCkGx8B8T0WFSg6NS1-xXulCypQYw0nYgI36TEg4B_6398zL0ee-gD9oyKorMNOc24Rf1n8cpo1C3YR8SbNcaEDLTRNlC-dEhCAyVIzBiV5q0zLO5VabauMGhQjtkaxmBiVty6vE09R8oYMq6wS9w",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJzWzPgVpj54gRQ1gi-bNREx4",
+        "plus_code": {
+          "compound_code": "FMJC+PC Conway, Florida",
+          "global_code": "76WWFMJC+PC"
+        },
+        "rating": 5,
+        "reference": "ChIJzWzPgVpj54gRQ1gi-bNREx4",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4511 Hoffner Ave, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.5796596,
+            "lng": -81.2949725
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.58101007989272,
+              "lng": -81.29373367010729
+            },
+            "southwest": {
+              "lat": 28.57831042010728,
+              "lng": -81.29643332989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ac3ee67c998c98ab09b629dd4940746adf86a59c",
+        "name": "Capoeira Palmares Orlando",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100275786013286847816/photos\">Capoeira Palmares Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAA9ow9dn7wvfbaYbIR9CkGwQoVZSvLyOX1ArlOir33_5-zHzVamcOBhxmgWWUmK2LYqRbLQ6BqN-6UvCf2Kr3mXUuXVDRqqX1l3-UgWPWuWRqmQdU3OWY3601cBrzrQ07QEhDmWK9eVeGthamn_d4vrWBkGhTDxkepP_xYqsk2vbcoxR-l7V-Duw",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJbZ5qCYBl54gR2zs-rSwPQmo",
+        "plus_code": {
+          "compound_code": "HPH4+V2 Winter Park, Florida",
+          "global_code": "76WWHPH4+V2"
+        },
+        "rating": 5,
+        "reference": "ChIJbZ5qCYBl54gR2zs-rSwPQmo",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2400 N Forsyth Rd, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4615138,
+            "lng": -81.4374611
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.46296797989272,
+              "lng": -81.43600087010728
+            },
+            "southwest": {
+              "lat": 28.46026832010728,
+              "lng": -81.43870052989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4670d96f12cd2d52b7473510733b97bd98e910cf",
+        "name": "CBP Martial Arts Academy Orlando",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 659,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117372534452594428195/photos\">Capoeira Brazilian Pelourinho, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAxAqo6e7mJ8TsUFrdAKEH-YEUhmd327HZSu4bgCY2tpNsMd2I6j4NTUEWEb_6LeogxlNMGuXn1ehXuG7tV6rgz16q3PfKbVw7-Cg6HKIbhA8GTdqJIaUMqjc0mhBJv4AUEhCABERYBK3YSQEYzRG3tlXnGhTs5QrtsyOCKoAfQDHnsQp0kRHi3g",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "plus_code": {
+          "compound_code": "FH67+J2 Orlando, Florida",
+          "global_code": "76WWFH67+J2"
+        },
+        "rating": 4.9,
+        "reference": "ChIJS2nzSoV-54gRoddoUGLdI84",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7075 Kingspointe Pkwy #10, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.494393,
+            "lng": -81.47391499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.49574427989272,
+              "lng": -81.47238472010729
+            },
+            "southwest": {
+              "lat": 28.49304462010728,
+              "lng": -81.47508437989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb6846aa292c2858189347d9f5e00224d4b58232",
+        "name": "United Tiger Martial Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 756,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116868482170798373734/photos\">United Tiger Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ5fiHHsZD7xtYrbS6wp5JX4SW_0DjFbiukDzyH0rzF6MhQQTF_oTZ9chpc7ijt4PHSQ0e-k8vUaf1Db1rdIh5OLGe9mCsg6HiOwLfOBEEN9CD6asl03EPGqiWRgKmA1lEhC5XtgsJ7KgjqG2VCqIogPFGhTeqJj_PkZuxcsHK4Z2FRYjRRyKAA",
+            "width": 1008
+          }
+        ],
+        "place_id": "ChIJa5O3yyt_54gRe_fn43jIF2M",
+        "plus_code": {
+          "compound_code": "FGVG+QC Orlando, Florida",
+          "global_code": "76WWFGVG+QC"
+        },
+        "rating": 4.7,
+        "reference": "ChIJa5O3yyt_54gRe_fn43jIF2M",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6735 Conroy Windermere Rd, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4581815,
+            "lng": -81.4402334
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.45953057989272,
+              "lng": -81.43899787010727
+            },
+            "southwest": {
+              "lat": 28.45683092010728,
+              "lng": -81.44169752989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "92028b61f5a548cb159dd29bdb655386170cad6a",
+        "name": "Orlando Martial Arts Academy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJzQaxcY9-54gRJoUZKsGyWFQ",
+        "plus_code": {
+          "compound_code": "FH55+7W Orlando, Florida",
+          "global_code": "76WWFH55+7W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJzQaxcY9-54gRJoUZKsGyWFQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7507 Kingspointe Pkwy # 105, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.5346945,
+            "lng": -81.5232389
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.53604562989272,
+              "lng": -81.52170092010726
+            },
+            "southwest": {
+              "lat": 28.53334597010728,
+              "lng": -81.52440057989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a0ce9a3c19841c9848a5a1b1393883399b981f06",
+        "name": "Capoeira at the Traditional Martial Arts Center",
+        "place_id": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
+        "plus_code": {
+          "compound_code": "GFMG+VP Gotha, Florida",
+          "global_code": "76WWGFMG+VP"
+        },
+        "rating": 0,
+        "reference": "ChIJ0W0kWHCC54gR5_DXga5Nb9I",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2220 Hempel Ave, Gotha"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4303581,
+            "lng": -81.2574277
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.43183287989272,
+              "lng": -81.25608162010728
+            },
+            "southwest": {
+              "lat": 28.42913322010728,
+              "lng": -81.25878127989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4dd9f53d52e53dabd5fa21ec1c5001e311b8397e",
+        "name": "Victory Martial Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 747,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112633744428127839242/photos\">Willy Benitez</a>"
+            ],
+            "photo_reference": "CmRaAAAAwrH8dGSeT7-oDI3KwnHfLvkZuhFVNZTGFwee8bTlHkYZ36Q66hKRak-pSIyzA_wa0kA_50LK-gdv1Rw5zyV1g1ZD7EtYhZSKMKtzJwAfRxy-ec45fE49eGbJYEt4RvajEhBp1UbozLK3EO_2IH3FT3LMGhStslS5E99eUx-weVx4oryrM7KUFA",
+            "width": 1121
+          }
+        ],
+        "place_id": "ChIJL77VMSli54gRHN9_uKI_YDM",
+        "plus_code": {
+          "compound_code": "CPJV+42 Orlando, Florida",
+          "global_code": "76WWCPJV+42"
+        },
+        "rating": 4.6,
+        "reference": "ChIJL77VMSli54gRHN9_uKI_YDM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9368 N Narcoossee Rd Ste. 102, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.54785,
+            "lng": -81.19394899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.54921327989272,
+              "lng": -81.19276707010728
+            },
+            "southwest": {
+              "lat": 28.54651362010728,
+              "lng": -81.19546672989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "851a1ee8c362df27e77f3c52124d8ee1ecbdf1c6",
+        "name": "Capoeira Orlando",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106337485680687607386/photos\">Capoeira Orlando</a>"
+            ],
+            "photo_reference": "CmRaAAAAdBMeGVGsyL3wRZvBMP4TWHwtlEnuoZNocbVSHuxglEe4Wq6uONfcZ1UaNE64al5mWPuCVxbNWpOnXTSJ64xTtlFleTRYf3HC47abuEIcOsq86gtzpcDhu5tcUl1X6sDMEhDiV2my1biuOWcY-Bdm7_O4GhThdygzRwFc0IWRV3eFblvpjQyXVA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
+        "plus_code": {
+          "compound_code": "GRX4+4C Union Park, Florida",
+          "global_code": "76WWGRX4+4C"
+        },
+        "rating": 5,
+        "reference": "ChIJw-fIa5pl54gRrcYaXFIEMMs",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "829 Woodbury Road #102, Orlando"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 28.4341409,
+            "lng": -81.5582823
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.43539327989272,
+              "lng": -81.55703552010728
+            },
+            "southwest": {
+              "lat": 28.43269362010728,
+              "lng": -81.55973517989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "00fc923b63678c40bf65cbfdd946532748da2b92",
+        "name": "Capoeira",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJIZ4tC2CA54gR19LUc89PMoM",
+        "plus_code": {
+          "compound_code": "CCMR+MM Bay Lake, Florida",
+          "global_code": "76WWCCMR+MM"
+        },
+        "rating": 0,
+        "reference": "ChIJIZ4tC2CA54gR19LUc89PMoM",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "9001 Taborfield Ave, Orlando"
       }
     ],
     "status": "OK"
