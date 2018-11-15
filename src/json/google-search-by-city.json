@@ -1,65 +1,20 @@
 {
-  "city_name": "boise-city-idaho",
-  "city_rank": 98,
-  "city_population": 214237,
+  "city_name": "richmond-virginia",
+  "city_rank": 99,
+  "city_population": 214114,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.6187102,
-      -116.2146068
+      37.5407246,
+      -77.4360481
     ],
     "rankby": "distance"
   },
-  "people_per_result": 214237,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.6008349,
-            "lng": -116.3989528
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.60218472989271,
-              "lng": -116.3976029701073
-            },
-            "southwest": {
-              "lat": 43.59948507010726,
-              "lng": -116.4003026298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "306f365d551a52017cc01fd6f080f7497e2667ea",
-        "name": "Motions Dance Studio",
-        "photos": [
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104255467245844362476/photos\">Jay Miller</a>"
-            ],
-            "photo_reference": "CmRaAAAA2ZXnBC12YLhMGGQ2uYCM03Pqez2aAAgDJiLb5rqcLea-n3cY4RcEpDQoRVJ57bInV-eWVhIeVmsTX6NuhL3YYYJglWxhX2gOCQkSHWod788ZA7QDTgb6Lm6Wrms0ucKNEhAt4cikqVY9SxLV6taAKPCbGhQaV2rdJt2uuG_0kzJvICqWPk9r7A",
-            "width": 1920
-          }
-        ],
-        "place_id": "ChIJRQlYVuBTrlQR0Wti8VcV0KE",
-        "plus_code": {
-          "compound_code": "JJ22+8C Meridian, Idaho",
-          "global_code": "85M5JJ22+8C"
-        },
-        "rating": 5,
-        "reference": "ChIJRQlYVuBTrlQR0Wti8VcV0KE",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "440 W Pennwood St, Meridian"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
