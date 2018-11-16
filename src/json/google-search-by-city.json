@@ -1,70 +1,20 @@
 {
-  "city_name": "mobile-alabama",
-  "city_rank": 122,
-  "city_population": 194899,
+  "city_name": "grand-rapids-michigan",
+  "city_rank": 123,
+  "city_population": 192294,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      30.6953657,
-      -88.0398912
+      42.9633599,
+      -85.6680863
     ],
     "rankby": "distance"
   },
-  "people_per_result": 194899,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 30.6379166,
-            "lng": -88.2263335
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.63926642989272,
-              "lng": -88.22498367010728
-            },
-            "southwest": {
-              "lat": 30.63656677010728,
-              "lng": -88.22768332989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "96afbb0e8bd7b95d6f397c8000ba462ca3eea951",
-        "name": "Port City MMA",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 477,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116530951822456024865/photos\">Tyler Myers</a>"
-            ],
-            "photo_reference": "CmRaAAAAkWtMwhM7xeUq5wQMzd4SOjYK1hzuaiRhJLziQV_AAAhFUNlbFrztO19V2gNZJ51lCYudMIzj6h_9uBw90OP1kQ_8innAUX8Xgj3MYhpZ_cjzkymJVOUei1EemHsp2hRCEhCFR728CPGAeWvfjDJJSnEEGhRYxIuUK21vT3zh2kszO3sudfCHaQ",
-            "width": 700
-          }
-        ],
-        "place_id": "ChIJr0J1BfJMmogRmAQ7QqYgxAI",
-        "plus_code": {
-          "compound_code": "JQQF+5F D'Iberville, Alabama",
-          "global_code": "862HJQQF+5F"
-        },
-        "rating": 4.7,
-        "reference": "ChIJr0J1BfJMmogRmAQ7QqYgxAI",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2502 Schillinger Rd S, Mobile"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
