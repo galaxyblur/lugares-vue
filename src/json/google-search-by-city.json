@@ -1,70 +1,20 @@
 {
-  "city_name": "birmingham-alabama",
-  "city_rank": 101,
-  "city_population": 212113,
+  "city_name": "spokane-washington",
+  "city_rank": 102,
+  "city_population": 210721,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.5206608,
-      -86.80248999999999
+      47.6587802,
+      -117.4260466
     ],
     "rankby": "distance"
   },
-  "people_per_result": 212113,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.3289781,
-            "lng": -86.7955126
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.33160115,
-              "lng": -86.79403667010727
-            },
-            "southwest": {
-              "lat": 33.32810374999999,
-              "lng": -86.79673632989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "50ab9b010bb50679b0ef15a428f574ac93b13cd1",
-        "name": "Gracie Barra Alabama",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108830168051347783486/photos\">Gracie Barra Alabama</a>"
-            ],
-            "photo_reference": "CmRaAAAAYfYBhuMRym8kMqGFgk4Hn2wRAa6Mr5dD_tN_1rDC2Bmg-cShEDmw8bY2VIfDYQvq1V_iusvZn1wzb1qFcD2Q_moch63Xkv9AwOQNW9RXrp8QXLIHWgHo4SxVD2OeEQSzEhAt1hZami_A96YOFfg__m8HGhR4LqOqm3jQK3Oy8SNe1FLOe9ERLQ",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJT4DL740jiYgRhrnS7HkLFcA",
-        "plus_code": {
-          "compound_code": "86H3+HQ Pelham, Alabama",
-          "global_code": "865M86H3+HQ"
-        },
-        "rating": 5,
-        "reference": "ChIJT4DL740jiYgRhrnS7HkLFcA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "190 Commerce Ct, Pelham"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
