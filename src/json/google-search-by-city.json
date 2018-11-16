@@ -1,16 +1,16 @@
 {
-  "city_name": "moreno-valley-california",
-  "city_rank": 112,
-  "city_population": 201175,
+  "city_name": "shreveport-louisiana",
+  "city_rank": 113,
+  "city_population": 200327,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.9424658,
-      -117.2296717
+      32.5251516,
+      -93.7501789
     ],
     "rankby": "distance"
   },
-  "people_per_result": 201175,
+  "people_per_result": 100164,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,99 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.9826289,
-            "lng": -117.3744353
+            "lat": 32.5033975,
+            "lng": -93.74053359999999
           },
           "viewport": {
             "northeast": {
-              "lat": 33.98404782989272,
-              "lng": -117.3732326701073
+              "lat": 32.50490987989272,
+              "lng": -93.73897607010728
             },
             "southwest": {
-              "lat": 33.98134817010727,
-              "lng": -117.3759323298927
+              "lat": 32.50221022010728,
+              "lng": -93.74167572989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
-        "name": "Capoeira Riverside",
-        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
-        "plus_code": {
-          "compound_code": "XJMG+36 Riverside, California",
-          "global_code": "8554XJMG+36"
+        "id": "ed3f69498d04df4e21b4e8d1295e152217152190",
+        "name": "Tankhead Gym",
+        "opening_hours": {
+          "open_now": false
         },
-        "rating": 0,
-        "reference": "ChIJi5zpHfCx3IARcFynVWwZWxU",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101673559498112287758/photos\">Tankhead Fight Club</a>"
+            ],
+            "photo_reference": "CmRaAAAAcrMPLJqMBNKG4qAtVpZkGrMFLMG--D5lxx8gIPP6z3iynu24qzguqboF-Jx9oE96WXnWkylXG-GSYMh5-HEh6uBmC9tP_eYkMkLPV0uXJVzMA6yvM5R5ggvNnBbOkMyWEhCuCxapjVwqQk4E1RqmlPXtGhTAsDlI9rQAaKFmNw7IFuHrq39uEg",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJT61l_DfNNoYRotJqB9CsWPI",
+        "plus_code": {
+          "compound_code": "G735+9Q Shreveport, 12, LA",
+          "global_code": "8648G735+9Q"
+        },
+        "rating": 4.2,
+        "reference": "ChIJT61l_DfNNoYRotJqB9CsWPI",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1618B Marshall St, Shreveport"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.4043518,
+            "lng": -93.8472226
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.40553597989272,
+              "lng": -93.84581507010726
+            },
+            "southwest": {
+              "lat": 32.40283632010728,
+              "lng": -93.84851472989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4cd50efaad14828b9ba6fee660ebfb3ef20542c6",
+        "name": "Shreveport Tae Kwon-Do",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1377,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111467116426222523739/photos\">Derrick Black</a>"
+            ],
+            "photo_reference": "CmRaAAAAtV1SvsYFWrhaHe0We8wH9U0yDLg2AKSHvoxr2l9LsgNvETvCRPH8l6j6itTIKGvFWKHemZQocPWaP5tvTGpNJ69O04c3nKfbJamArpOxPVnkZTVQW0XIx338qFnDo-pDEhAGarr3zLu5a4kTbo9AiAndGhTJtviY60CqKAeX16WkxH7997oxpw",
+            "width": 3155
+          }
+        ],
+        "place_id": "ChIJR-XjwzjRNoYRLkwocFdZmT0",
+        "plus_code": {
+          "compound_code": "C533+P4 Shreveport, 12, LA",
+          "global_code": "8648C533+P4"
+        },
+        "rating": 5,
+        "reference": "ChIJR-XjwzjRNoYRLkwocFdZmT0",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3737 Main St #103a, Riverside"
+        "vicinity": "9101 Industrial Rd, Shreveport"
       }
     ],
     "status": "OK"
