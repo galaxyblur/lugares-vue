@@ -1,69 +1,20 @@
 {
-  "city_name": "salem-oregon",
-  "city_rank": 152,
-  "city_population": 160614,
+  "city_name": "lancaster-california",
+  "city_rank": 153,
+  "city_population": 159523,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      44.9428975,
-      -123.0350963
+      34.6867846,
+      -118.1541632
     ],
     "rankby": "distance"
   },
-  "people_per_result": 160614,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 44.9476675,
-            "lng": -123.0328967
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.94904307989272,
-              "lng": -123.0316520201073
-            },
-            "southwest": {
-              "lat": 44.94634342010728,
-              "lng": -123.0343516798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fb02447de7586dd6a1ad6e379b347c553c0530f1",
-        "name": "Steeles Karate",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1265,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101587310214613226339/photos\">Steeles Karate</a>"
-            ],
-            "photo_reference": "CmRaAAAAFBeAl2kshvZoEYrJ_7NktJX9NeYn8yQsbSaC3tBUZwdfxYaeIvSKBs_irhZUrHZnTwG7iSuEwM9juK26X3VS14uK0H7U_vhMNW-bZMD5EADFpBHZ0nSIXI7MYScH8FsEEhAlMqVQvm6UVwHMlwYZ6Xz2GhTF6PXaWXY-KVhmXyDDpg-yqjSgmg",
-            "width": 2250
-          }
-        ],
-        "place_id": "ChIJ19B8xwj_v1QR9aetw_0CyXw",
-        "plus_code": {
-          "compound_code": "WXX8+3R Salem, Oregon",
-          "global_code": "84PRWXX8+3R"
-        },
-        "rating": 3.9,
-        "reference": "ChIJ19B8xwj_v1QR9aetw_0CyXw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "860 High St NE, Salem"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
