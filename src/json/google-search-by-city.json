@@ -1,70 +1,20 @@
 {
-  "city_name": "victorville-california",
-  "city_rank": 218,
-  "city_population": 121096,
+  "city_name": "evansville-indiana",
+  "city_rank": 219,
+  "city_population": 120310,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.5362184,
-      -117.2927641
+      37.9715592,
+      -87.5710898
     ],
     "rankby": "distance"
   },
-  "people_per_result": 121096,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.4723169,
-            "lng": -117.283364
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.47366752989272,
-              "lng": -117.2819044701073
-            },
-            "southwest": {
-              "lat": 34.47096787010727,
-              "lng": -117.2846041298928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "ec68d6f47e80432ef14731a0a770b2233fa99387",
-        "name": "CrossFit BeeHive",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 2330,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113317162369554446217/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAbBbGVvy4EYh0yDHsXVPms07frF8gzcgIGga_6MylmOIrIXIHdRM_sMAVBGCqEHst4NHWW0yR42D7Vn3y9wnvzVQpbfg8Qp6IqIzO1p4V6w4ijpYnzAQ0XVJFo17fA6iIEhCPmNNBmiIwxCBElCqTH82-GhR0mPofIopaiwj19lPFDVabvDm7cw",
-            "width": 2330
-          }
-        ],
-        "place_id": "ChIJ-4EaYtlmw4AR-Z62AXDIO2E",
-        "plus_code": {
-          "compound_code": "FPC8+WM Victorville, California",
-          "global_code": "8564FPC8+WM"
-        },
-        "rating": 5,
-        "reference": "ChIJ-4EaYtlmw4AR-Z62AXDIO2E",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "12176 Industrial Blvd #2, Victorville"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
