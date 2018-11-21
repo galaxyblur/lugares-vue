@@ -1,69 +1,20 @@
 {
-  "city_name": "columbia-missouri",
-  "city_rank": 235,
-  "city_population": 115276,
+  "city_name": "lansing-michigan",
+  "city_rank": 236,
+  "city_population": 113972,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      38.9517053,
-      -92.3340724
+      42.732535,
+      -84.5555347
     ],
     "rankby": "distance"
   },
-  "people_per_result": 115276,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 38.948828,
-            "lng": -92.200481
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.94985522989272,
-              "lng": -92.19847152010728
-            },
-            "southwest": {
-              "lat": 38.94715557010728,
-              "lng": -92.20117117989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a0185fab66f88cfe33f5d567c0f2d356b82eef64",
-        "name": "Columbia Training Academy",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117575421729686834541/photos\">Columbia Training Academy</a>"
-            ],
-            "photo_reference": "CmRZAAAAkJBMIujEw86YBJRgdk8kEfHzqwQ5MEXiU0nQqBmJNU2rIpECKK5y8OdVyyLsPBOKIRFOf9N6L3XMuwMjEz1ktrhOmvkoLBOeKIP9u7qanoLrTKd3oC4TFB6YZEnguAkbEhCKS_JTA6GvUpNpbNkYqldBGhQmtNIA-Eg5fJU50OXQFUEvK_SR3Q",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJCx_eQSTI3IcRro2zW5o5W7k",
-        "plus_code": {
-          "compound_code": "WQXX+GR Columbia, Missouri",
-          "global_code": "86C9WQXX+GR"
-        },
-        "rating": 5,
-        "reference": "ChIJCx_eQSTI3IcRro2zW5o5W7k",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "24 S Rangeline Rd, Columbia"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
