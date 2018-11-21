@@ -1,20 +1,69 @@
 {
-  "city_name": "abilene-texas",
-  "city_rank": 221,
-  "city_population": 120099,
+  "city_name": "athens-clarke-county-georgia",
+  "city_rank": 222,
+  "city_population": 119980,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.4487364,
-      -99.73314390000002
+      33.9519347,
+      -83.357567
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 119980,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 33.9480053,
+            "lng": -83.3773221
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 33.97084134999999,
+              "lng": -83.36315415
+            },
+            "southwest": {
+              "lat": 33.91994035,
+              "lng": -83.38629755000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c635ab28051b888bf167c8c5121b8df18fbcf7a8",
+        "name": "University of Georgia",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104283409942164263528/photos\">The University of Georgia</a>"
+            ],
+            "photo_reference": "CmRaAAAAjVXOMkwLerRB7vrL_ijHbx6blmMLMFmSEnWlIErRUJZEhtei62S9k1pSIFMoMB_4Bfc2laYfP_qZwU1LOLhV96IROGeCopYH-UQtZ_A-a1Cun8cDwIYaUI0_y_LU2PsuEhDUXAFPDROWEVQ-Ff5ZUJzuGhQBxPGhBSQUvTzY0fSu4mYFrgEcmg",
+            "width": 1500
+          }
+        ],
+        "place_id": "ChIJv6b7OGAT9ogRdO9Au2idhN8",
+        "plus_code": {
+          "compound_code": "WJXF+63 Athens, Georgia",
+          "global_code": "865RWJXF+63"
+        },
+        "rating": 4.5,
+        "reference": "ChIJv6b7OGAT9ogRdO9Au2idhN8",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Athens"
+      }
+    ],
+    "status": "OK"
   }
 }
