@@ -1,241 +1,75 @@
 {
-  "city_name": "miami-gardens-florida",
-  "city_rank": 243,
-  "city_population": 111378,
+  "city_name": "carlsbad-california",
+  "city_rank": 244,
+  "city_population": 110972,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      25.9420377,
-      -80.2456045
+      33.1580933,
+      -117.3505939
     ],
     "rankby": "distance"
   },
-  "people_per_result": 5569,
-  "possible_duplicates": {},
+  "people_per_result": 12330,
+  "possible_duplicates": {
+    "ChIJiSjGsgar3oARQ2zFrveYGU8": [
+      {
+        "place1": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "place2": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "score": 1
+      }
+    ],
+    "ChIJy7bBTAGr3oARxUHY0XW_GUA": [
+      {
+        "place1": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "place2": "Capoeira Brasil San Diego 2176 Chatsworth Blvd, San Diego",
+        "score": 1
+      }
+    ]
+  },
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 25.977457,
-            "lng": -80.2958365
+            "lat": 33.206339,
+            "lng": -117.294846
           },
           "viewport": {
             "northeast": {
-              "lat": 25.97887617989272,
-              "lng": -80.29448652010727
+              "lat": 33.2076038298927,
+              "lng": -117.2934881701073
             },
             "southwest": {
-              "lat": 25.97617652010727,
-              "lng": -80.29718617989272
+              "lat": 33.20490417010726,
+              "lng": -117.2961878298927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ae72ea02e26ea3628ba0d895bb94410fd57d3df5",
-        "name": "Capoeira Superação Arts & Fitness Studio",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f15eaa9ee12f3e376d4df4a88dda2f114190bf13",
+        "name": "Oceanside Crossfit",
         "opening_hours": {
           "open_now": true
         },
         "photos": [
           {
-            "height": 1360,
+            "height": 1280,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113927745163600557521/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110307358175371108103/photos\">Oceanside Crossfit</a>"
             ],
-            "photo_reference": "CmRaAAAAzVmabz7LWfJjHZ_S7mzCywDr_ywuZORAfWGPCZyDWJkkURAcSwDpmxdaG9KsYiM1DMFk7wh2MLgMR64ZO7VHNO0v-EqLyUb_CYCChb-oab4idum_IXfdkuZxWK_239xiEhDUPnNQLTvLDOZ4MsxkYWrDGhTTMevUC3zEYuVRy_i1_6Ka8m-AZA",
+            "photo_reference": "CmRaAAAAvE0QBErVxCBFDiuLKcHo9PGi5iwF6VbLXQ2SrRUcgOfVtc-gdE8vUoR-I2R5CzhxkwPelrZihzkjQqCdbYmbtDTyZV-v-PighcmhIcO6SItjoN6RWfLiVM-pT50xE7SLEhDIk9iOrZTQoBjZPQv0e5ojGhRSUL6PbbgnMIuCMdDHe7HvEqmltA",
             "width": 2048
           }
         ],
-        "place_id": "ChIJO5z6Buul2YgRNtj2vpQ3kK0",
+        "place_id": "ChIJ8y_C7xRx3IARrf6-nZOfFnI",
         "plus_code": {
-          "compound_code": "XPG3+XM Miramar, Florida",
-          "global_code": "76QXXPG3+XM"
-        },
-        "rating": 5,
-        "reference": "ChIJO5z6Buul2YgRNtj2vpQ3kK0",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3416 Red Rd, Miramar"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.9950128,
-            "lng": -80.31029430000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.99630202989272,
-              "lng": -80.30894492010728
-            },
-            "southwest": {
-              "lat": 25.99360237010728,
-              "lng": -80.31164457989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eaf6d1d1d4e7e342e6ea86690163e79bce97d790",
-        "name": "START Jiu Jitsu Academy",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 974,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111596707873564656303/photos\">START Jiu Jitsu Academy</a>"
-            ],
-            "photo_reference": "CmRaAAAAmOWmlijJecWKPcxpidHQwNxkxXkvaRisf1dVgUw6EVBcxtOtZ_qo5F0MlcU37GVWLhveMlHvOSTEu8bDXy-z0FyQKHlbtBws12hmul70oOiyt0lN098FkailtQ-bHoKBEhAvtT4nlVt-q5DUoHznLd3AGhRKMqqj3Rtd-mZEPwnBNDQpcrM1ww",
-            "width": 1731
-          }
-        ],
-        "place_id": "ChIJUbkAXiup2YgRZW0orvIFWsw",
-        "plus_code": {
-          "compound_code": "XMWQ+2V Pembroke Pines, Florida",
-          "global_code": "76QXXMWQ+2V"
-        },
-        "rating": 5,
-        "reference": "ChIJUbkAXiup2YgRZW0orvIFWsw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1723 12335, Pembroke Rd, Miramar"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.981385,
-            "lng": -80.1664608
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.98273407989272,
-              "lng": -80.16517127010728
-            },
-            "southwest": {
-              "lat": 25.98003442010728,
-              "lng": -80.16787092989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "24ae73e317b3b9749176be2549d1c76848b2b8fa",
-        "name": "Maculele Miami Brazilian Arts - Capoeira",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117154831041619356270/photos\">tatiana hoyos</a>"
-            ],
-            "photo_reference": "CmRaAAAAojrmbjWDjqFj-QX4JXZW-Xb6dzwW7AlhU0QJb50GD_EymXdmiYx57IYWVgCgHmQeFPTfJ-Wkfmwpzw7GSrAntg5c656cI-pAfVNKf3ntSwWJIWNsnK1n5caIxw5eecbVEhDH5dZL4qbHejNLbtVEmz0mGhT2hPNVbP9tYG3GK7LjVUb-PPSL_g",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJe894PF6s2YgRdL-fMyQ4Y5o",
-        "plus_code": {
-          "compound_code": "XRJM+HC Pembroke Park, Florida",
-          "global_code": "76QXXRJM+HC"
-        },
-        "rating": 5,
-        "reference": "ChIJe894PF6s2YgRdL-fMyQ4Y5o",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "school",
-          "establishment"
-        ],
-        "vicinity": "2954 SW 30th Ave, Hallandale Beach"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.9813448,
-            "lng": -80.1663639
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.98263262989272,
-              "lng": -80.16501417010727
-            },
-            "southwest": {
-              "lat": 25.97993297010727,
-              "lng": -80.1677138298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eda26ae0792dfb283f0515c150840156135ee001",
-        "name": "Capoeira",
-        "place_id": "ChIJgVktwwys2YgRxauYfJi43eU",
-        "plus_code": {
-          "compound_code": "XRJM+GF Pembroke Park, Florida",
-          "global_code": "76QXXRJM+GF"
-        },
-        "rating": 1,
-        "reference": "ChIJgVktwwys2YgRxauYfJi43eU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3120 Hallandale Beach Boulevard, Hallandale Beach"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.9264758,
-            "lng": -80.15461669999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.92782562989272,
-              "lng": -80.15326687010727
-            },
-            "southwest": {
-              "lat": 25.92512597010727,
-              "lng": -80.15596652989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9e4ccf0a6c93d97977917a206f39331ef531705d",
-        "name": "Capoeira Abolicao Community Foundation, Inc.",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100329052909860157610/photos\">Academy Capoeira Abolicao Community Foundation, Inc.</a>"
-            ],
-            "photo_reference": "CmRaAAAAC5vR1NnAyu4wkPiHeKaPt2YNAk0owKLw0Ql0Ic9OlCdshlnlIwlO0oTvwkp1TMp5yDyJ3Pfe0ChxDFJL56f58VP6VZaRAPZCKVfYMEkufZYcbKkJRTpVJPleWSFX9Ly6EhC0ORW0oZYCD8pS647qPLrnGhSES6n8cPJgaEl3xuHKWpsUO5FYgQ",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJI96NH96y2YgRCoYNIi90cRY",
-        "plus_code": {
-          "compound_code": "WRGW+H5 North Miami Beach, Florida",
-          "global_code": "76QXWRGW+H5"
+          "compound_code": "6P44+G3 Oceanside, California",
+          "global_code": "85546P44+G3"
         },
         "rating": 4.8,
-        "reference": "ChIJI96NH96y2YgRCoYNIi90cRY",
+        "reference": "ChIJ8y_C7xRx3IARrf6-nZOfFnI",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -243,504 +77,351 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2275 NE 164 Street, North Miami Beach"
+        "vicinity": "4040 Calle Platino #116, Oceanside"
       },
       {
         "geometry": {
           "location": {
-            "lat": 25.9506753,
-            "lng": -80.147868
+            "lat": 33.13902,
+            "lng": -117.270587
           },
           "viewport": {
             "northeast": {
-              "lat": 25.95213722989272,
-              "lng": -80.14652257010728
+              "lat": 33.14054252989273,
+              "lng": -117.2692825201073
             },
             "southwest": {
-              "lat": 25.94943757010727,
-              "lng": -80.14922222989273
+              "lat": 33.13784287010728,
+              "lng": -117.2719821798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6d858c9d5c07be9113940523331124c6b4a5ff1b",
-        "name": "Nago Academy Miami - Capoeira Nago Miami",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 2000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109463962580008551553/photos\">Capoeira Nago Miami</a>"
-            ],
-            "photo_reference": "CmRaAAAA7DvZi3V9QIkm_tmxted6IwwFetcmz8rmivGILVca-2cYD_pUNXZwjClijrtMt6-2bKOCkgTbiDAza46gJ9qQShqX_J3unZ3HEijdZMIrpxw_75fGS0Dx_oHdoFRmiKvuEhAzpd1-PC-iT5RjYYDtBdXhGhTOVqrY0rJiF4jE13xPFpWXu120Fw",
-            "width": 3000
-          }
-        ],
-        "place_id": "ChIJM7raL1es2YgRrIDv7MwU11I",
+        "id": "132b791d0deacf96e23872b94723ab1e58485d04",
+        "name": "Afro-Brazilian Dance & Capoeira San Diego (North County)",
+        "place_id": "ChIJsaz54Xxz3IARH7e1dIi6jJw",
         "plus_code": {
-          "compound_code": "XV22+7V Ojus, Florida",
-          "global_code": "76QXXV22+7V"
-        },
-        "rating": 5,
-        "reference": "ChIJM7raL1es2YgRrIDv7MwU11I",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2656 NE 189th Terrace, Miami"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.8742956,
-            "lng": -80.1702385
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.87573967989272,
-              "lng": -80.16903202010728
-            },
-            "southwest": {
-              "lat": 25.87304002010728,
-              "lng": -80.17173167989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1c7989f6c17cd4e4dc023e52135f4b9073e7b4c6",
-        "name": "Capoeira Artes Das Gerais in Miami",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 950,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117661432144992254112/photos\">Capoeira Artes Das Gerais</a>"
-            ],
-            "photo_reference": "CmRaAAAA93Du7hnqHAZa5FLxtrKUYBt4-mw4kdK1j7vA0zIZ91NCV-b6-HfzRDnITBQe0KNeh7OL7eIyV931fPdE7jcRm6fHUfbVzlzq_dy7sRKSoiaDyKCd3dt2ni-gP6tfRDNDEhC4TWJlmnBffizjoePq-27pGhTMBLvDuczbXjPCOgX5_1tddtanww",
-            "width": 1500
-          }
-        ],
-        "place_id": "ChIJd8xAioGx2YgRTKEuPdhhkhg",
-        "plus_code": {
-          "compound_code": "VRFH+PW Miami Shores, Florida",
-          "global_code": "76QXVRFH+PW"
-        },
-        "rating": 5,
-        "reference": "ChIJd8xAioGx2YgRTKEuPdhhkhg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "10705 Biscayne Blvd, Miami"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.874257,
-            "lng": -80.17020600000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.87571472989272,
-              "lng": -80.16902032010728
-            },
-            "southwest": {
-              "lat": 25.87301507010728,
-              "lng": -80.17171997989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5ce6550491e50f2ac1f264e5a8df5c7d4cee6df8",
-        "name": "Mestre Ze com Fome",
-        "photos": [
-          {
-            "height": 969,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118275117340578230884/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA3uOJLplXPfPZHotQDjtScYZhsjRIPGpcBRDxj3zEZyTUtu_bYhK_9Pfj1pMhu2hK-WJCTpNnA0LVpI7VYW6DyCtzoUrum0tIcFUpomYyCNZ-SvQUx7BFE5-_vXIkfLtGEhAfNEUh17VxzHcnOWbfwTe1GhQcFuAypHzLtoZ1OdRhsRygQx2VDg",
-            "width": 966
-          }
-        ],
-        "place_id": "ChIJm2JL84Gx2YgRV2lX7eHsBJw",
-        "plus_code": {
-          "compound_code": "VRFH+PW Miami Shores, Florida",
-          "global_code": "76QXVRFH+PW"
+          "compound_code": "4PQH+JQ Carlsbad, California",
+          "global_code": "85544PQH+JQ"
         },
         "rating": 0,
-        "reference": "ChIJm2JL84Gx2YgRV2lX7eHsBJw",
+        "reference": "ChIJsaz54Xxz3IARH7e1dIi6jJw",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "10705 Biscayne Blvd, Miami"
+        "vicinity": "2441 Impala Dr, Carlsbad"
       },
       {
         "geometry": {
           "location": {
-            "lat": 25.8863274,
-            "lng": -80.1313976
+            "lat": 33.208804,
+            "lng": -117.279865
           },
           "viewport": {
             "northeast": {
-              "lat": 25.88768152989272,
-              "lng": -80.12996597010728
+              "lat": 33.21035217989272,
+              "lng": -117.2786571701073
             },
             "southwest": {
-              "lat": 25.88498187010728,
-              "lng": -80.13266562989273
+              "lat": 33.20765252010728,
+              "lng": -117.2813568298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "f2b544f6e36d8c86fb53ae7af58dc5e61db4d266",
-        "name": "Carioca Capoeira-Miami",
-        "opening_hours": {},
-        "place_id": "ChIJa9v8S5uy2YgRRU2whdChTFE",
-        "plus_code": {
-          "compound_code": "VVP9+GC Bay Harbor Islands, Florida",
-          "global_code": "76QXVVP9+GC"
-        },
-        "rating": 5,
-        "reference": "ChIJa9v8S5uy2YgRRU2whdChTFE",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "9550 Bay Harbor Terrace #215, Bay Harbor Islands"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.8300468,
-            "lng": -80.1922684
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.83139992989272,
-              "lng": -80.19083837010727
-            },
-            "southwest": {
-              "lat": 25.82870027010728,
-              "lng": -80.19353802989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "de76de7bb7df3e53ef00f30a4ad85e9949011e8a",
-        "name": "Capoeira Cordão de Ouro Miami",
+        "id": "3ab200cbd0026962f331bb2ce3eb2395cc1aa6c3",
+        "name": "Dance Unlimited Performing Arts Academy Oceanside",
         "opening_hours": {
-          "open_now": false
+          "open_now": true
         },
         "photos": [
           {
-            "height": 2988,
+            "height": 621,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104626914250937786197/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/111164764496699995505/photos\">Dance Unlimited</a>"
             ],
-            "photo_reference": "CmRZAAAAGyxpxuHOdMw7eBFNDvwrANhFplW464tLrQKCngLfgQNAsQEwA48cO-BeufhXMVS6bBnopxAKB5RGBa5queY1Cr6NA6-rhf6hV9msC_HgYlgxejZ52VtC0ZyHqOdMOkGwEhCm4aBTRrp_nwZDKdSKg1-YGhTTq5YbQE2VL7z02RZxBWBZRJaGNw",
-            "width": 5312
+            "photo_reference": "CmRaAAAA_6WKSEnHD0ykBLJ7_TpDDyYuGqhJNKI0a1VKm47lMBUJjAfqPzWQz0u-u9WRD5fXF35LgW0NFjSEGCE9ouP4k-WSUX1vwdH3vTP8ux7fj4MzPYgNL-6Q8cBQK5mjyerYEhC2x_DkzcCmtNjo2glpqdyJGhTtW9mJRsxMV6PJQlxQlTRH2J8hRw",
+            "width": 931
           }
         ],
-        "place_id": "ChIJf5MS81-x2YgRzLiRIXDLbrE",
+        "place_id": "ChIJc8ONxrhx3IARMbJQB-gcOw8",
         "plus_code": {
-          "compound_code": "RRJ5+23 Miami, Florida",
-          "global_code": "76QXRRJ5+23"
+          "compound_code": "6P5C+G3 Oceanside, California",
+          "global_code": "85546P5C+G3"
         },
         "rating": 4.9,
-        "reference": "ChIJf5MS81-x2YgRzLiRIXDLbrE",
+        "reference": "ChIJc8ONxrhx3IARMbJQB-gcOw8",
         "scope": "GOOGLE",
         "types": [
-          "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "5910 NE 2nd Ave, Miami"
+        "vicinity": "4263 Oceanside Blvd, Oceanside"
       },
       {
         "geometry": {
           "location": {
-            "lat": 26.0056057,
-            "lng": -80.3832357
+            "lat": 33.1282327,
+            "lng": -117.2573771
           },
           "viewport": {
             "northeast": {
-              "lat": 26.00694477989272,
-              "lng": -80.38187492010728
+              "lat": 33.12959087989272,
+              "lng": -117.2560939701072
             },
             "southwest": {
-              "lat": 26.00424512010728,
-              "lng": -80.38457457989271
+              "lat": 33.12689122010728,
+              "lng": -117.2587936298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "44767f9b9ec5edc6d09364fddf998c1c052d4cfc",
-        "name": "Aim High Martial Arts & Fitness",
-        "photos": [
-          {
-            "height": 1544,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108131571783508941200/photos\">Aim High Martial Arts &amp; Fitness</a>"
-            ],
-            "photo_reference": "CmRaAAAAx9bH8uqP_oNF8ZZ6xYsFjPzpElKEkIzOdBMZ-XMB_OLnxbrTPjdL3Fu-Ty2RBj4XlUoTy9BuLhmfx2ZJonm8yvFWuud7uVPhlTUzzg7a1EQex4xjFgslJGMSiPp_oIA-EhBDzedYX922dFb-JdNGf6F1GhSbR2bfwzDwFN4cqMF2qUcljNGx4w",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJt8YKal-h2YgRercdps_h8Qg",
-        "plus_code": {
-          "compound_code": "2J48+6P Pembroke Pines, Florida",
-          "global_code": "76RX2J48+6P"
-        },
-        "rating": 5,
-        "reference": "ChIJt8YKal-h2YgRercdps_h8Qg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "17786 SW 2nd St, Pembroke Pines"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.827801,
-            "lng": -80.36116799999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.82910232989272,
-              "lng": -80.35982557010728
-            },
-            "southwest": {
-              "lat": 25.82640267010728,
-              "lng": -80.36252522989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "25dfa3a96a99d0fe6dcac29749490178e5a238af",
-        "name": "Ripped Fitness Center",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 3541,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112660196286185541730/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAXZnlSHmJPtPvy6WYiM1yfh-4e8PrONzNxNwNCICTm3ePfq3b3mjCmUp3oG5egNFc1r0PTpzY03Z-9cL3ZZzD3IcaSoUqFENj3WpfdSm4gMysKvVjAD7ZAoGA11T1Y6RdEhAo59kvC_ixzLrtzpy_EEQDGhQsOrehM1R48Do-I7jw4_xKxcJ2WA",
-            "width": 5311
-          }
-        ],
-        "place_id": "ChIJ37qVZve72YgRaFbW5pkRYck",
-        "plus_code": {
-          "compound_code": "RJHQ+4G Doral, Florida",
-          "global_code": "76QXRJHQ+4G"
-        },
-        "rating": 5,
-        "reference": "ChIJ37qVZve72YgRaFbW5pkRYck",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5983 NW 102nd Ave, Doral"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.827694,
-            "lng": -80.361931
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.82902182989273,
-              "lng": -80.36058087010728
-            },
-            "southwest": {
-              "lat": 25.82632217010728,
-              "lng": -80.36328052989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "27eb1c32e9d973489e0cbfce05a4c9e7c9b78918",
-        "name": "Capoeira Around the World",
+        "id": "9c0b017c36161e1039e6510786785c341813d44e",
+        "name": "JCS Fitness Ribeiro Jiu-Jitsu Carlsbad",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJb523aPe72YgR652bXdiXsG0",
-        "plus_code": {
-          "compound_code": "RJHQ+36 Doral, Florida",
-          "global_code": "76QXRJHQ+36"
-        },
-        "rating": 5,
-        "reference": "ChIJb523aPe72YgR652bXdiXsG0",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "5985 NW 102nd Ave, Doral"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.7952295,
-            "lng": -80.33758619999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.79658252989272,
-              "lng": -80.33610317010728
-            },
-            "southwest": {
-              "lat": 25.79388287010728,
-              "lng": -80.33880282989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7cbbf56a7e363f2808bf1b5deed8b0c8de41e940",
-        "name": "Nação Capoeira",
-        "place_id": "ChIJPaEQGmy52YgRZ8qkZ93LVQ0",
-        "plus_code": {
-          "compound_code": "QMW6+3X Doral, Florida",
-          "global_code": "76QXQMW6+3X"
-        },
-        "rating": 0,
-        "reference": "ChIJPaEQGmy52YgRZ8qkZ93LVQ0",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2216 NW 87th Ave, Doral"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 25.7578211,
-            "lng": -80.2308231
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.75931982989272,
-              "lng": -80.22948207010727
-            },
-            "southwest": {
-              "lat": 25.75662017010728,
-              "lng": -80.23218172989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "023d6f30f98b07f45d7013ec76f37226e95f7832",
-        "name": "Miami Capoeira Sol e Lua",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJSa85PlW22YgRr-L57dHSKFY",
-        "plus_code": {
-          "compound_code": "QQ59+4M Miami, Florida",
-          "global_code": "76QXQQ59+4M"
-        },
-        "rating": 5,
-        "reference": "ChIJSa85PlW22YgRr-L57dHSKFY",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2200 SW 16th St #122, Miami"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 26.193401,
-            "lng": -80.249252
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.19481017989272,
-              "lng": -80.24790252010727
-            },
-            "southwest": {
-              "lat": 26.19211052010728,
-              "lng": -80.25060217989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "819240e9b8bb25809532addc17e980bfa2adec1d",
-        "name": "Capoeira Revelação",
         "photos": [
           {
-            "height": 1600,
+            "height": 801,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110261758618779713356/photos\">Cristiano Silva</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106419267564030968977/photos\">JCS Fitness Ribeiro Jiu-Jitsu Carlsbad</a>"
             ],
-            "photo_reference": "CmRaAAAA7R1upU2gn2HGNUObzuhcho6C64RJz2C5uGDzGxiVqpLPjZeAEVxBfgR1hyuVZWOOoS9jbOR_NAIzm1kFra7tSrfwE8VSCqh7mZMHyl-LuYGaZu4PHCsOQATvLIBBhoJrEhDTRDdIrKCvqWFaO71MQUPCGhQn4r5q4PGWAQGnePRcIXUaNjg3_A",
+            "photo_reference": "CmRaAAAAxm-GsfOyX84x8zOMQcnTSgfZD9trWQOnD6ee8_Rc55owGiKIkLy1cdVTY93ZMSMNnOXe94JBGzOu1UXem7eLYAMis0hjPOh8IqRqrL6EvVAo3ZgI9aZSHGqkC7hlVDILEhBt5v7fB4kOoFPAIi55PIM_GhT7cEXoRWfMwL6Y8xCh0Vfc3Gy_0A",
             "width": 1200
           }
         ],
-        "place_id": "ChIJy6rartwF2YgRL6krTrrJO2k",
+        "place_id": "ChIJG1sFZ6J03IARXHO8-WpeR_E",
         "plus_code": {
-          "compound_code": "5QV2+97 Lauderhill, Florida",
-          "global_code": "76RX5QV2+97"
+          "compound_code": "4PHV+72 Carlsbad, California",
+          "global_code": "85544PHV+72"
         },
         "rating": 5,
-        "reference": "ChIJy6rartwF2YgRL6krTrrJO2k",
+        "reference": "ChIJG1sFZ6J03IARXHO8-WpeR_E",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "7342 W Commercial Blvd A3, Lauderhill"
+        "vicinity": "6158 Innovation Way, Carlsbad"
       },
       {
         "geometry": {
           "location": {
-            "lat": 26.1872176,
-            "lng": -80.1348564
+            "lat": 32.9384366,
+            "lng": -117.23046
           },
           "viewport": {
             "northeast": {
-              "lat": 26.18849987989272,
-              "lng": -80.13331027010727
+              "lat": 32.93981492989273,
+              "lng": -117.2292110701073
             },
             "southwest": {
-              "lat": 26.18580022010728,
-              "lng": -80.13600992989271
+              "lat": 32.93711527010728,
+              "lng": -117.2319107298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "33301501cfd20ea9440668cd27d67f5aa7f386d5",
-        "name": "Corpo e Movimento Capoeira Academy",
+        "id": "7316777c045e95431619de3dc8afcbab1e31192c",
+        "name": "Church's ATA Martial Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2616,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102190419307588789223/photos\">Church&#39;s ATA Martial Arts</a>"
+            ],
+            "photo_reference": "CmRaAAAAqfJHALbEc8xMcTO0bpYFoSSDZ5_CUsEWRuKyxSjdrbU6nawYw3J_ZvvmvtFpz_2tZ6v59mSRJwvOAMKxz7qB8Z_-1SB4t1mT5lpshmyh5CKx_YIfJdTUKxs8oqEkOEpWEhBaH4LEMfOn6AjhF9JdhkVVGhQKWXszFeKUXF51OIYE_7Mbs25Yjg",
+            "width": 4368
+          }
+        ],
+        "place_id": "ChIJpTwCwy8G3IAR-I7v7Yfxcts",
+        "plus_code": {
+          "compound_code": "WQQ9+9R San Diego, California",
+          "global_code": "8544WQQ9+9R"
+        },
+        "rating": 4.9,
+        "reference": "ChIJpTwCwy8G3IAR-I7v7Yfxcts",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3810 Valley Centre Dr #904, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.8017431,
+            "lng": -117.2364357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.80302782989272,
+              "lng": -117.2349545201073
+            },
+            "southwest": {
+              "lat": 32.80032817010727,
+              "lng": -117.2376541798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "642f28df5748dda714469f85df04c1425a66dc33",
+        "name": "Capoeira Mandinga San Diego",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1554,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114470844655637669893/photos\">Capoeira Mandinga San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAAEngTaOVhsXacUASSza5ble8fSrBJq-CxGywsGnHoVMR-lQLl_AMlwo_vk7gRwtkwnPY4ux-w8t5bfT02b0aiPKb0olJrToxXfFbRFHdouDiiyrKht5X27M-L6BSQ4dQcEhBFQNgYoO6QQBPyN9Es675qGhSBgdU3Rb-my8ZAh93b1HsuE4K6YQ",
+            "width": 1472
+          }
+        ],
+        "place_id": "ChIJZU5gGvGq3oARPVjx2V1qUfA",
+        "plus_code": {
+          "compound_code": "RQ27+MC San Diego, California",
+          "global_code": "8544RQ27+MC"
+        },
+        "rating": 5,
+        "reference": "ChIJZU5gGvGq3oARPVjx2V1qUfA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1880 Garnet Ave, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7394377,
+            "lng": -117.2282128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.74068567989272,
+              "lng": -117.2267476701073
+            },
+            "southwest": {
+              "lat": 32.73798602010728,
+              "lng": -117.2294473298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "15d79afa9fd9f43649dd6b001bb9fb6bf8fd5043",
+        "name": "Capoeira Brasil San Diego",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1356,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109868254390408560946/photos\">Capoeira Brasil San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAAxwlxYwrZkSuu5UPt7ipzW9GFWaWd473IkxUcvvpiTap-wlPvNAAm3dIFL_JQqbGwLKOA_RSOvL9JEYI4s9NuhR8CmwQOyVdLNdLQRdhkrwvzLiL-QJTLxM3drA0bejC8EhCDy5j46ROY-_56SexJuuUDGhTtoSAUVBTsqgwepWzf35bNY4bvXg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJiSjGsgar3oARQ2zFrveYGU8",
+        "plus_code": {
+          "compound_code": "PQQC+QP San Diego, California",
+          "global_code": "8544PQQC+QP"
+        },
+        "rating": 5,
+        "reference": "ChIJiSjGsgar3oARQ2zFrveYGU8",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2176 Chatsworth Blvd, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7393443,
+            "lng": -117.228217
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.74061587989272,
+              "lng": -117.2267786201073
+            },
+            "southwest": {
+              "lat": 32.73791622010727,
+              "lng": -117.2294782798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1d7e6524c78d2daa2417df5189572a9a74e20836",
+        "name": "Capoeira Brasil San Diego",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102146148622812249447/photos\">Capoeira Brasil San Diego</a>"
+            ],
+            "photo_reference": "CmRaAAAATBBSPNfmGonT7cE70gBu_BJprEilT5WZOMJmzWxCmFUFADPNsLP9c56khiOa_RmMeTSzC0LxH0QydlHjiALUJg9yNqocSY-zIg02RKqRD9bbvK9QiZrfhHU9tZDZWPk2EhDt2iIcdO5cJu1FH2iA0PMqGhTlZmgEoU806GHTFBTb6RwixgsLRA",
+            "width": 1685
+          }
+        ],
+        "place_id": "ChIJy7bBTAGr3oARxUHY0XW_GUA",
+        "plus_code": {
+          "compound_code": "PQQC+PP San Diego, California",
+          "global_code": "8544PQQC+PP"
+        },
+        "rating": 0,
+        "reference": "ChIJy7bBTAGr3oARxUHY0XW_GUA",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2176 Chatsworth Blvd, San Diego"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7499792,
+            "lng": -117.1305026
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.75133027989271,
+              "lng": -117.1289836701073
+            },
+            "southwest": {
+              "lat": 32.74863062010727,
+              "lng": -117.1316833298927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9d191f0c3afcc18a8612e51be41d7f75c4800a3f",
+        "name": "Capoeira Luanda San Diego - Professor Massapê",
         "opening_hours": {
           "open_now": true
         },
@@ -748,166 +429,27 @@
           {
             "height": 640,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102645708759780433676/photos\">Corpo e Movimento Capoeira Academy</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/106228684795441631674/photos\">Capoeira Luanda San Diego - Professor Massapê</a>"
             ],
-            "photo_reference": "CmRaAAAAsYr7gbjyowOgvNVzK9wwIKtdIOC8-W-xs2pzE8KR9-R32kRon-AZQ408ALK8lf8UKrI-cZ3fcli4dpl44bJLmRQaTxyhmvz_ObKbIRT5LmevcBoeLwiOts_o3umE10X2EhA-MN2KcS5as0kGXntiQHe6GhROmWY3LpQKTDHdy027qQ3_U-p-cQ",
+            "photo_reference": "CmRaAAAAZE-hjM7ZtfdHbdUuDYBs6iC5ajpkJc5h8fSJ9BZrtr24nZzZprkKRHruwtqyYK8bjzWN7exnFj0IYBL7ZU1B1Ae1Y7vU0lSdnPEEH-yCZM0UG0vkNITXT7Gc2i05f5BZEhB-esljCOVJGZIw3HMer8XMGhQ67aSRsPDUGKny7g5nBS1FSooyyg",
             "width": 960
           }
         ],
-        "place_id": "ChIJKbufpXkB2YgRPIwar9ODTrI",
+        "place_id": "ChIJg9ee7_ZU2YARHkU7tq307Js",
         "plus_code": {
-          "compound_code": "5VP8+V3 Oakland Park, Florida",
-          "global_code": "76RX5VP8+V3"
+          "compound_code": "PVX9+XQ San Diego, California",
+          "global_code": "8544PVX9+XQ"
         },
-        "rating": 5,
-        "reference": "ChIJKbufpXkB2YgRPIwar9ODTrI",
+        "rating": 4.9,
+        "reference": "ChIJg9ee7_ZU2YARHkU7tq307Js",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "4861 N Dixie Hwy ste 3, Oakland Park"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 26.237597,
-            "lng": -80.103454
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.23903262989272,
-              "lng": -80.10210232010728
-            },
-            "southwest": {
-              "lat": 26.23633297010728,
-              "lng": -80.10480197989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fe313ad0752b0b97eba41663a38116da3ccdb464",
-        "name": "Capoeira Revelação (Mestre Branca)",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113112792658118549513/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAT6T94zewMlfvVm8SQfBlyzKwLCHTUskk_0-nTvFIv-hha2YhKYyrv_IT_-hghWJywRSo9x_6_zsRAbn2XNzSafYYxRQx3KGDcB4jA4u6xdoNlKNNhLxkh4BDgwiOu64QEhArdu-UGCZtIvZGg4H6_LapGhRebld8puqizc3bsbnalkBrVs1OrA",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJD_eh5VAc2YgRPTZa2dhcih8",
-        "rating": 5,
-        "reference": "ChIJD_eh5VAc2YgRPTZa2dhcih8",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "625 N Federal Hwy, Pompano Beach"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 26.2856973,
-            "lng": -80.23716499999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.28704762989272,
-              "lng": -80.23592187010728
-            },
-            "southwest": {
-              "lat": 26.28434797010728,
-              "lng": -80.23862152989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "3d27950116d017c22b58df1944e0e3b095b292de",
-        "name": "Capo Capoeira",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115642361276110212923/photos\">Capo Capoeira</a>"
-            ],
-            "photo_reference": "CmRaAAAA8FKOFQ7J6Md5v_pqM679kazeF3BkfOFaRb-QVbY9BJ4ffbY2qgCpUFioTq8qABMRi_fazfCYhCIzrHX1u79YjTvADiUUWkTBdXvl2wdBnZaktQ-3kfVVslgyBkQFgjamEhBlw2N0ZsOn7sXj-ODnCZjYGhTSqAQiHxbZ9FeXLqR5SJR0IoIWTg",
-            "width": 1080
-          }
-        ],
-        "place_id": "ChIJsRhn9CUb2YgRDnlSQ6-h1ic",
-        "plus_code": {
-          "compound_code": "7QP7+74 Coral Springs, Florida",
-          "global_code": "76RX7QP7+74"
-        },
-        "rating": 5,
-        "reference": "ChIJsRhn9CUb2YgRDnlSQ6-h1ic",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "8238 Wiles Rd, Coral Springs"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 26.3067813,
-            "lng": -80.0940633
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.30804952989272,
-              "lng": -80.09271347010728
-            },
-            "southwest": {
-              "lat": 26.30534987010728,
-              "lng": -80.09541312989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "12145f54eb41eb2b368f0e2d1affd86d6cb429e2",
-        "name": "CAPOEIRA REVELACAO",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 384,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118163837555615933796/photos\">CAPOEIRA REVELACAO .</a>"
-            ],
-            "photo_reference": "CmRaAAAAw7hghLVi2atTtKGpy5CZokUy95xuFXWlyumkg6RZOGE2XhzLwNx423gNRcJvEMHwRnVuypAMd3wLNLS2Pd3i00PI3BAtS4BME9eKRYZXuI4xoGLpfYCDsOP3nx6-q01UEhDZPB2wDMFRznWRSPK9w1oHGhSlsmLgFzb8blXLkKXEeKMH7CZI1Q",
-            "width": 512
-          }
-        ],
-        "place_id": "ChIJAa9raIHi2IgRSyrisCNRLoM",
-        "plus_code": {
-          "compound_code": "8W44+P9 Deerfield Beach, Florida",
-          "global_code": "76RX8W44+P9"
-        },
-        "rating": 0,
-        "reference": "ChIJAa9raIHi2IgRSyrisCNRLoM",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "807 SE 8th St, Deerfield Beach"
+        "vicinity": "3980 30th St, San Diego"
       }
     ],
     "status": "OK"
