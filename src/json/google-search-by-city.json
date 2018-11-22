@@ -1,20 +1,69 @@
 {
-  "city_name": "odessa-texas",
-  "city_rank": 247,
-  "city_population": 110720,
+  "city_name": "manchester-new-hampshire",
+  "city_rank": 248,
+  "city_population": 110378,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.8456816,
-      -102.3676431
+      42.9956397,
+      -71.4547891
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 110378,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 43.191649,
+            "lng": -71.51849399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.19328107989272,
+              "lng": -71.51705692010727
+            },
+            "southwest": {
+              "lat": 43.19058142010728,
+              "lng": -71.5197565798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "69adfba999460405f13463bff9987782d7d11e49",
+        "name": "SDSS Martial Arts of Concord",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106679633542807659133/photos\">Steve DeMasco&#39;s Shaoiln Studios of Conccord</a>"
+            ],
+            "photo_reference": "CmRaAAAAMuMTMzgHbfksN2ehbYjHndp40pln0nKg0g3Ai52kwhkvsB4RJbWjWGPNiYEPvccKHy9gM1q_WU0cXtAXyxk3wyOi6CFFg6V7xo3lMoY_p-MKRq_qOGct9bGBLb-yJClkEhChw0wWuH8o4iy3K9m6-vvJGhSklnicBZHpDmWt6harUMJJxpgeEw",
+            "width": 500
+          }
+        ],
+        "place_id": "ChIJ_R6Sg3tq4okRJ2BOozMFSKs",
+        "plus_code": {
+          "compound_code": "5FRJ+MJ Concord, New Hampshire",
+          "global_code": "87MC5FRJ+MJ"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ_R6Sg3tq4okRJ2BOozMFSKs",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "30 Manchester St, Concord"
+      }
+    ],
+    "status": "OK"
   }
 }
