@@ -1,649 +1,50 @@
 {
-  "city_name": "quincy-massachusetts",
-  "city_rank": 320,
-  "city_population": 93494,
+  "city_name": "sparks-nevada",
+  "city_rank": 321,
+  "city_population": 93282,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.2528772,
-      -71.0022705
+      39.5349112,
+      -119.7526886
     ],
     "rankby": "distance"
   },
-  "people_per_result": 5194,
-  "possible_duplicates": {
-    "ChIJZe_ipL5544kRw4O4nql_W9k": [
-      {
-        "place1": "Sinha Capoeira 1431 Beacon St, Brookline",
-        "place2": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
-        "score": 0.8852459016393442
-      }
-    ],
-    "ChIJg1Q6wbt544kR0buBMd3l8uE": [
-      {
-        "place1": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
-        "place2": "Sinha Capoeira 1431 Beacon St, Brookline",
-        "score": 0.8852459016393442
-      }
-    ],
-    "ChIJoZiNWCZ344kRsSYS0QHae9A": [
-      {
-        "place1": "Capoeira MdP - Dance Complex 536 Massachusetts Ave, Cambridge",
-        "place2": "Capoeira Angola 536 Massachusetts Ave, Cambridge",
-        "score": 0.8148148148148148
-      }
-    ],
-    "ChIJVVXhDlR344kRBma_GX_74Pc": [
-      {
-        "place1": "Capoeira Angola 536 Massachusetts Ave, Cambridge",
-        "place2": "Capoeira MdP - Dance Complex 536 Massachusetts Ave, Cambridge",
-        "score": 0.8148148148148148
-      }
-    ]
-  },
+  "people_per_result": 46641,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 42.3154164,
-            "lng": -71.0594728
+            "lat": 39.5550284,
+            "lng": -119.7233935
           },
           "viewport": {
             "northeast": {
-              "lat": 42.31679487989272,
-              "lng": -71.05828122010728
+              "lat": 39.55637847989272,
+              "lng": -119.7221799201073
             },
             "southwest": {
-              "lat": 42.31409522010728,
-              "lng": -71.06098087989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "37902fe053d3189b22959924e1a43e93601836fe",
-        "name": "Sinha Capoeira Dorchester",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 776,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116680133982916304220/photos\">Sinha Capoeira Dorchester</a>"
-            ],
-            "photo_reference": "CmRaAAAAjfaOW2znejkkTBfglDuEBB1UIzTman4Ip-eQHBHTW_L8k9ls9Y2w64jTf83kjtqDJfbpOR6VTFE8KHnKycVIlp4xnyQ2Ht3_elX5R02i0b3xlJ8RLqdCYO19zrzIU7L7EhDw3_fBH6fI4LFPOjOy2i8LGhR7gWRHsYZna8NMKWUSlvmLjeSXDQ",
-            "width": 1232
-          }
-        ],
-        "place_id": "ChIJJTFXw1J644kRk7k4FUcoijg",
-        "plus_code": {
-          "compound_code": "8W8R+56 Boston, Massachusetts",
-          "global_code": "87JC8W8R+56"
-        },
-        "rating": 0,
-        "reference": "ChIJJTFXw1J644kRk7k4FUcoijg",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "48 Pleasant St, Dorchester"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3426024,
-            "lng": -71.0563232
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.34387592989273,
-              "lng": -71.05505427010728
-            },
-            "southwest": {
-              "lat": 42.34117627010728,
-              "lng": -71.05775392989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fae898f69cd63177ce72414ead9d8ed5caa61c75",
-        "name": "Capoeira MdP South Boston",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJX4Mz_6Z744kRUjT1cEshvlU",
-        "plus_code": {
-          "compound_code": "8WVV+2F Boston, Massachusetts",
-          "global_code": "87JC8WVV+2F"
-        },
-        "rating": 5,
-        "reference": "ChIJX4Mz_6Z744kRUjT1cEshvlU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "36 W Broadway, Boston"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3175695,
-            "lng": -71.10561229999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.31887342989272,
-              "lng": -71.10415172010727
-            },
-            "southwest": {
-              "lat": 42.31617377010728,
-              "lng": -71.10685137989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ffc41db1d2f247855ff50157b529b73c7a270525",
-        "name": "Capoeira Gerais Boston",
-        "place_id": "ChIJrxXBGHh644kRrzvK7vx-6gU",
-        "plus_code": {
-          "compound_code": "8V9V+2Q Boston, Massachusetts",
-          "global_code": "87JC8V9V+2Q"
-        },
-        "rating": 5,
-        "reference": "ChIJrxXBGHh644kRrzvK7vx-6gU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "45 Danforth St, Boston"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3406189,
-            "lng": -71.1260898
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.34202142989272,
-              "lng": -71.12477797010727
-            },
-            "southwest": {
-              "lat": 42.33932177010728,
-              "lng": -71.12747762989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8e543a4ccf220408bbde9b59af4982de6eb88a17",
-        "name": "Sinha Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1125,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115247688110722630923/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAjkjr9pS6DbZ_aA5H8B3DTnfQiAk0TuCJtFJT-v6-U6AqgFMtKeR3v8lLiPL93StuLGnmMbJLxhDo05eCeaqeZ83NYa8ZiqYHmXrMuRdQiYvhb7Y0CeFwCes1S7y1m18sEhBaz9Cvafzc8BWqAMu0e7aDGhSTzMuCCVWUyQoY0tTbRcduKzV6Ew",
-            "width": 2001
-          }
-        ],
-        "place_id": "ChIJZe_ipL5544kRw4O4nql_W9k",
-        "plus_code": {
-          "compound_code": "8VRF+6H Brookline, Massachusetts",
-          "global_code": "87JC8VRF+6H"
-        },
-        "rating": 0,
-        "reference": "ChIJZe_ipL5544kRw4O4nql_W9k",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1431 Beacon St, Brookline"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3396032,
-            "lng": -71.1288261
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.34106272989271,
-              "lng": -71.12752102010728
-            },
-            "southwest": {
-              "lat": 42.33836307010727,
-              "lng": -71.13022067989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1b4877bfba7030d86f6ef716669efc7eb8095fec",
-        "name": "Sinha Capoeira Kids",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110324719945658873578/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAQ50mWm1d440FnmJirBOwNp5dJgaf7sXXu7wa3P1XguUlxAqL5j2ijAND7hLUF6u31zH8dcT7DqwXENoSd1xy795ZK5cpz90MvdTaR_GquGebeT3_Lye0kEj07aud3KRpEhDQb12OeiqiLw0YhaJwGReaGhSIty5hzGh0CvP-I5aSaGeoaMPIQg",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJg1Q6wbt544kR0buBMd3l8uE",
-        "plus_code": {
-          "compound_code": "8VQC+RF Brookline, Massachusetts",
-          "global_code": "87JC8VQC+RF"
-        },
-        "rating": 5,
-        "reference": "ChIJg1Q6wbt544kR0buBMd3l8uE",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1485 Beacon St, Brookline"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3647457,
-            "lng": -71.09666709999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.36605902989273,
-              "lng": -71.09514122010727
-            },
-            "southwest": {
-              "lat": 42.36335937010728,
-              "lng": -71.0978408798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8bf668c00800c4a7a81d71c54d887af736bcaad0",
-        "name": "Capoeira MdP",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3672,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106023919169839526824/photos\">Guthemberg Teixeira</a>"
-            ],
-            "photo_reference": "CmRaAAAA8O4Trtp5KOqTykR9UwcH1Vo7WKMPvCZuIfJf-KAIHi7BCJN0DaAQ-Ru7tK9jjJw1KJKmZJ8Bv3y4zqFjU_pGiXaU1sM_JHdUZLBcAnEjhSEk3trQO9Cw44ww6UJP3uZNEhBxBYvCmMogVIMMkqgegfdJGhQy2o1JjkBHhS5x5KhPDW9YTd8IGg",
-            "width": 4896
-          }
-        ],
-        "place_id": "ChIJwRVxX81x44kRlOtZUU0T3xw",
-        "plus_code": {
-          "compound_code": "9W73+V8 Cambridge, Massachusetts",
-          "global_code": "87JC9W73+V8"
-        },
-        "rating": 5,
-        "reference": "ChIJwRVxX81x44kRlOtZUU0T3xw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "119 Windsor St, Cambridge"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3638436,
-            "lng": -71.10223020000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.36511742989271,
-              "lng": -71.10096267010728
-            },
-            "southwest": {
-              "lat": 42.36241777010726,
-              "lng": -71.10366232989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "20a30f1dd34d29d90e5596494f6c29c246866102",
-        "name": "Embondeiro Capoeira Boston",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJF7mfEVR344kRSLsD4ZnkhwI",
-        "plus_code": {
-          "compound_code": "9V7X+G4 Cambridge, Massachusetts",
-          "global_code": "87JC9V7X+G4"
-        },
-        "rating": 0,
-        "reference": "ChIJF7mfEVR344kRSLsD4ZnkhwI",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "185 Green St, Cambridge"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.364204,
-            "lng": -71.1023075
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.36566227989272,
-              "lng": -71.10083722010728
-            },
-            "southwest": {
-              "lat": 42.36296262010728,
-              "lng": -71.10353687989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7c749bfc74790898d83f209a9e830638e73446f7",
-        "name": "Capoeira MdP - Dance Complex",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106023919169839526824/photos\">Guthemberg Teixeira</a>"
-            ],
-            "photo_reference": "CmRaAAAAXTnj4fXH06xJ-MILzOaxsojwBLIR5S7fPAiqUEHeHmxwvsYSVX2TUxzx0usV1qosaWAZlUH2Lzncy06O03XmLRNJlA4654O8VwZHGjtNJUZ81SBArmkHskI5t4UiqMegEhAqWPSR5ywtqaSOctuT7a9SGhT31KoHYGpDFN78CNz_rzdYdK_1bA",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJoZiNWCZ344kRsSYS0QHae9A",
-        "plus_code": {
-          "compound_code": "9V7X+M3 Cambridge, Massachusetts",
-          "global_code": "87JC9V7X+M3"
-        },
-        "rating": 5,
-        "reference": "ChIJoZiNWCZ344kRsSYS0QHae9A",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "536 Massachusetts Ave, Cambridge"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.364204,
-            "lng": -71.1023075
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.36566227989272,
-              "lng": -71.10083722010728
-            },
-            "southwest": {
-              "lat": 42.36296262010728,
-              "lng": -71.10353687989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "4aaad6b9e493b226bc01b1ed70cc4662e4cfeadd",
-        "name": "Capoeira Angola",
-        "place_id": "ChIJVVXhDlR344kRBma_GX_74Pc",
-        "plus_code": {
-          "compound_code": "9V7X+M3 Cambridge, Massachusetts",
-          "global_code": "87JC9V7X+M3"
-        },
-        "rating": 0,
-        "reference": "ChIJVVXhDlR344kRBma_GX_74Pc",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "536 Massachusetts Ave, Cambridge"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3860637,
-            "lng": -71.017906
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.38756407989273,
-              "lng": -71.01649757010728
-            },
-            "southwest": {
-              "lat": 42.38486442010728,
-              "lng": -71.01919722989273
+              "lat": 39.55367882010727,
+              "lng": -119.7248795798928
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2c14acdd8bb350e685ca0fb7fbcd342efe197e1a",
-        "name": "BENEFITS of CAPOEIRA KIDS Classes",
-        "place_id": "ChIJg87zWcxx44kR3i9mFIzLIko",
-        "plus_code": {
-          "compound_code": "9XPJ+CR Boston, Massachusetts",
-          "global_code": "87JC9XPJ+CR"
-        },
-        "rating": 0,
-        "reference": "ChIJg87zWcxx44kR3i9mFIzLIko",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "175 William F McClellan Hwy, Boston"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3515479,
-            "lng": -71.13192029999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.35289772989272,
-              "lng": -71.13057047010727
-            },
-            "southwest": {
-              "lat": 42.35019807010728,
-              "lng": -71.13327012989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "163ca2015c178ff902d182d383048b49f80d4232",
-        "name": "Sinha Capoeira Allston",
-        "place_id": "ChIJIzMa7MV544kR0R6d_0PK-f4",
-        "plus_code": {
-          "compound_code": "9V29+J6 Boston, Massachusetts",
-          "global_code": "87JC9V29+J6"
-        },
-        "rating": 0,
-        "reference": "ChIJIzMa7MV544kR0R6d_0PK-f4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "161 Harvard Avenue 13B, Brighton"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3838503,
-            "lng": -71.1105621
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.38525672989272,
-              "lng": -71.10918902010728
-            },
-            "southwest": {
-              "lat": 42.38255707010727,
-              "lng": -71.11188867989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0d612fa8add09c7d3b4cd67eb0e1427e3d0a0796",
-        "name": "Capoeira MdP Somerville",
-        "place_id": "ChIJh2ycrnV344kRXeqU3E8PZss",
-        "plus_code": {
-          "compound_code": "9VMQ+GQ Somerville, Massachusetts",
-          "global_code": "87JC9VMQ+GQ"
-        },
-        "rating": 0,
-        "reference": "ChIJh2ycrnV344kRXeqU3E8PZss",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "624 Somerville Ave, Somerville"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.4033266,
-            "lng": -71.0587142
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.40472062989272,
-              "lng": -71.05745192010727
-            },
-            "southwest": {
-              "lat": 42.40202097010727,
-              "lng": -71.06015157989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "bb8339fd60a156f55e497083f6e37dee879d057b",
-        "name": "Capoeira Brasil Boston",
-        "place_id": "ChIJZdliiQ5x44kRIBEtCgjmK68",
-        "rating": 5,
-        "reference": "ChIJZdliiQ5x44kRIBEtCgjmK68",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "305 Broadway, Everett"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.390248,
-            "lng": -71.12150199999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.39168807989272,
-              "lng": -71.12006617010726
-            },
-            "southwest": {
-              "lat": 42.38898842010727,
-              "lng": -71.12276582989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5d3640aec54a62f0677665759a070940e54bf372",
-        "name": "Sinha Capoeira Cambridge",
+        "id": "509f70c618c3dc0be16501296c172d0a981129b1",
+        "name": "CrossFit Allure",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111612155413556623211/photos\">Sinha Capoeira Cambridge</a>"
-            ],
-            "photo_reference": "CmRaAAAAAcpbSI3z-HXMOY5JwtQjguwquc0wERC9TVt6yGJ1pDwAW6dWjcy31mrFm42IaXQO8kse2Ur9Zf8xkroLtpOJKV1PHKeaga8crtfH-BScxgZERBKUGwXyBSLZPtdEEl2xEhABlOVNnEMBYhRfyI8fCsi6GhR3QsqbBG8eKKlLlV_nRldr-c6sTg",
-            "width": 640
-          }
-        ],
-        "place_id": "ChIJ09kv3Bd344kRLdUWL_Ea8fc",
+        "place_id": "ChIJ7Zx5LTQ5mYARZzBfHtzeLo4",
         "plus_code": {
-          "compound_code": "9VRH+39 Cambridge, Massachusetts",
-          "global_code": "87JC9VRH+39"
+          "compound_code": "H74G+2J Sparks, Nevada",
+          "global_code": "85F2H74G+2J"
         },
-        "rating": 0,
-        "reference": "ChIJ09kv3Bd344kRLdUWL_Ea8fc",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2000 Massachusetts Ave, Cambridge"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.4001307,
-            "lng": -71.11347119999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.40156917989273,
-              "lng": -71.11207092010727
-            },
-            "southwest": {
-              "lat": 42.39886952010728,
-              "lng": -71.11477057989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "36b555afe1ae74939f867ac3259c2e3ebef814cc",
-        "name": "Capoeira Angola Quintal Boston",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJKQMemdh244kR6B3_f8CrLZE",
-        "plus_code": {
-          "compound_code": "CV2P+3J Somerville, Massachusetts",
-          "global_code": "87JCCV2P+3J"
-        },
-        "rating": 5,
-        "reference": "ChIJKQMemdh244kR6B3_f8CrLZE",
+        "rating": 4.7,
+        "reference": "ChIJ7Zx5LTQ5mYARZzBfHtzeLo4",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -651,38 +52,48 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "730 Broadway, Somerville"
+        "vicinity": "1231 Baring Blvd, Sparks"
       },
       {
         "geometry": {
           "location": {
-            "lat": 42.2736275,
-            "lng": -71.4083526
+            "lat": 39.5554192,
+            "lng": -119.7208727
           },
           "viewport": {
             "northeast": {
-              "lat": 42.27505662989271,
-              "lng": -71.40714027010728
+              "lat": 39.55675967989272,
+              "lng": -119.7194318201073
             },
             "southwest": {
-              "lat": 42.27235697010727,
-              "lng": -71.40983992989273
+              "lat": 39.55406002010727,
+              "lng": -119.7221314798927
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "5aaaaa4255f8e45ab2a55a65ca918cdc30b691c7",
-        "name": "Capoeira Cais da Bahia USA",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "31a9261f20ea0b578774105e62d3975001685c8c",
+        "name": "Ernie Reyes West Coast World Martial Arts",
         "opening_hours": {
           "open_now": false
         },
-        "place_id": "ChIJYa16iceJ44kRTWKFGCsUbBQ",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109638885035189595011/photos\">Natalie Ede</a>"
+            ],
+            "photo_reference": "CmRaAAAAQti0Sql7p9OtNzd2TtdJal1sagFRXrr2rPBoUlAzNfiKomaDaKB4PATqaAuya_D7AxV4XGl2xNcLXBWVbFwFgXdbajDQC4LxCVkiEJgqaPeMxKkp3Gwez8HKAEvZBVZ4EhAQb6WgT1hzIDgtNmnWFGB3GhQjcdVzk8xze_p54Bu9bBr7ZpOAKg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJS7j86jU5mYAR1lSzfv6GAM0",
         "plus_code": {
-          "compound_code": "7HFR+FM Framingham, Massachusetts",
-          "global_code": "87JC7HFR+FM"
+          "compound_code": "H74H+5M Sparks, Nevada",
+          "global_code": "85F2H74H+5M"
         },
-        "rating": 0,
-        "reference": "ChIJYa16iceJ44kRTWKFGCsUbBQ",
+        "rating": 5,
+        "reference": "ChIJS7j86jU5mYAR1lSzfv6GAM0",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -690,86 +101,7 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "10 Roxanna St, Framingham"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9014142,
-            "lng": -71.0900285
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.90286927989272,
-              "lng": -71.08866777010728
-            },
-            "southwest": {
-              "lat": 41.90016962010728,
-              "lng": -71.09136742989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
-        "name": "Capoeira Studio C",
-        "photos": [
-          {
-            "height": 590,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
-            ],
-            "photo_reference": "CmRaAAAA6Nh_9ZYtwYM_ZI0L8gM8UrnVVcZjIXslHhUk-yx_l4kjBkg4aVFtOYshzSzwDSqaQ-If9-ldbFsI1PKKNR1VID0_twn7PcfSF38SKM6-IQ9KMI_mI0HyBbdPOgHGbMHxEhCk5NEXVQi2pbE8DkEtpTjdGhSqN3RaMu1NugAh0x14oAf3GAz79w",
-            "width": 620
-          }
-        ],
-        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
-        "plus_code": {
-          "compound_code": "WW25+HX Taunton, Massachusetts",
-          "global_code": "87HCWW25+HX"
-        },
-        "rating": 0,
-        "reference": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "85 Main St, Taunton"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.352389,
-            "lng": -71.5334938
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.35373752989272,
-              "lng": -71.53232732010727
-            },
-            "southwest": {
-              "lat": 42.35103787010728,
-              "lng": -71.53502697989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a8a7c8677433ccf3fed3947a638c89a519c34355",
-        "name": "Capoeira Brazilian Jiu-Jitsu",
-        "place_id": "ChIJq4qNY3yL44kR-yJaPd1dca0",
-        "plus_code": {
-          "compound_code": "9F28+XJ Marlborough, Massachusetts",
-          "global_code": "87JC9F28+XJ"
-        },
-        "rating": 0,
-        "reference": "ChIJq4qNY3yL44kR-yJaPd1dca0",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "24-28 Hosmer St, Marlborough"
+        "vicinity": "8664, 1297 Baring Blvd, Sparks"
       }
     ],
     "status": "OK"
