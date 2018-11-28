@@ -1,16 +1,16 @@
 {
-  "city_name": "menifee-california",
-  "city_rank": 384,
-  "city_population": 83447,
+  "city_name": "champaign-illinois",
+  "city_rank": 385,
+  "city_population": 83424,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.6971468,
-      -117.185294
+      40.1164204,
+      -88.2433829
     ],
     "rankby": "distance"
   },
-  "people_per_result": 83447,
+  "people_per_result": 41712,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,37 +18,94 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.9826289,
-            "lng": -117.3744353
+            "lat": 40.1019523,
+            "lng": -88.2271615
           },
           "viewport": {
             "northeast": {
-              "lat": 33.98404782989272,
-              "lng": -117.3732326701073
+              "lat": 40.12720645,
+              "lng": -88.1924883
             },
             "southwest": {
-              "lat": 33.98134817010727,
-              "lng": -117.3759323298927
+              "lat": 40.06897144999999,
+              "lng": -88.2612823
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
-        "name": "Capoeira Riverside",
-        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
+        "id": "7220ab14eb1be84fc2ddea89eefa6bc26d0410f9",
+        "name": "University of Illinois at Urbana-Champaign",
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116219323491038428189/photos\">Huidong Yang</a>"
+            ],
+            "photo_reference": "CmRaAAAAnUaINaDZibhpROBWr9iN9YnnE6LB86-V1w9LwaR-Mcoiw9y0C2LV5pC31NcUvPNIIXm1B4XZGk_2PPDBBDQpvW7ZNSebBMa2_RexZDZUds5zDmfL1DGZy4DoXeLjzg0lEhCgrYhGntN-DdXqjmfh4aw1GhSIJV6dtTOwvNDdXusuqiZbsiXmug",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJ6VUmqSTXDIgR-iZoBCUFPKU",
         "plus_code": {
-          "compound_code": "XJMG+36 Riverside, California",
-          "global_code": "8554XJMG+36"
+          "compound_code": "4Q2F+Q4 Urbana, Cunningham Township, IL",
+          "global_code": "86GH4Q2F+Q4"
         },
-        "rating": 0,
-        "reference": "ChIJi5zpHfCx3IARcFynVWwZWxU",
+        "rating": 4.4,
+        "reference": "ChIJ6VUmqSTXDIgR-iZoBCUFPKU",
         "scope": "GOOGLE",
         "types": [
-          "health",
+          "university",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "3737 Main St #103a, Riverside"
+        "vicinity": "Champaign"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.111069,
+            "lng": -88.20681599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.11249182989273,
+              "lng": -88.20546622010728
+            },
+            "southwest": {
+              "lat": 40.10979217010728,
+              "lng": -88.20816587989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2205694c43c90fb322cf0674e230004e517272c3",
+        "name": "Capoeira Angola Center of Mestre João Grande-Illinois",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1121,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107750628238277818830/photos\">Capoeira Angola Center of Mestre João Grande</a>"
+            ],
+            "photo_reference": "CmRaAAAAhIaqOJgY-GFdeHdSVY9rBHwCczBTTOBZAaf6Gm6YNDWHNVWnOPGkRAXjA9Xe5mVMWm5v3rUygY77ieAdWICZS3q9RvUP5yxncopiwXW0CoAx0geaypAy72lSJdIKV57MEhAsHS67HawRVyuuVZKh2X7nGhQuSVCGVxI3deYk_VPpLt3QHoQ3_w",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
+        "plus_code": {
+          "compound_code": "4Q6V+C7 Urbana, Cunningham Township, IL",
+          "global_code": "86GH4Q6V+C7"
+        },
+        "rating": 5,
+        "reference": "ChIJUU8va3XXDIgR2WzeGPpV1fg",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "201 Lincoln Square, Space 157, Urbana"
       }
     ],
     "status": "OK"
