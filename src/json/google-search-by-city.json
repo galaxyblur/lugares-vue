@@ -1,70 +1,20 @@
 {
-  "city_name": "palm-coast-florida",
-  "city_rank": 415,
-  "city_population": 78740,
+  "city_name": "bryan-texas",
+  "city_rank": 416,
+  "city_population": 78709,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      29.5844524,
-      -81.20786989999999
+      30.6743643,
+      -96.3699632
     ],
     "rankby": "distance"
   },
-  "people_per_result": 78740,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 29.8600152,
-            "lng": -81.283228
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.86136622989272,
-              "lng": -81.28183507010728
-            },
-            "southwest": {
-              "lat": 29.85866657010727,
-              "lng": -81.28453472989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "69962a7a6e655ff5bd1e42e9fcd11012b339ac07",
-        "name": "World Gym Beach",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110685234067673624805/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAcbQXmFMuse_aYUP9G9EaELNnH6OwqaK8M6rvrJt24CVHDFhXGX5QrOTBGb85q_ks27vpzY4BLOycZR0VdFbb7yDsJXCjwF2EW-MSy0L1i78Pniw9APdmRZgG3eVsUa6xEhB4U-8V-D5egSUKFK7e15VKGhQsGPxmnH4zXOu7Ml546k8n1QC3oA",
-            "width": 1080
-          }
-        ],
-        "place_id": "ChIJO360KI6d5ogRKYDHy7XMQCU",
-        "plus_code": {
-          "compound_code": "VP68+2P St. Augustine, Florida",
-          "global_code": "76XWVP68+2P"
-        },
-        "rating": 3,
-        "reference": "ChIJO360KI6d5ogRKYDHy7XMQCU",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1947 A1A Beach Blvd, St. Augustine"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
