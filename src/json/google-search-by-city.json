@@ -1,20 +1,66 @@
 {
-  "city_name": "hanford-california",
-  "city_rank": 670,
-  "city_population": 54686,
+  "city_name": "normal-illinois",
+  "city_rank": 671,
+  "city_population": 54664,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.3274502,
-      -119.6456844
+      40.5142026,
+      -88.9906312
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 54664,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.5122833,
+            "lng": -88.9946702
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.52859179999999,
+              "lng": -88.98041785
+            },
+            "southwest": {
+              "lat": 40.4964214,
+              "lng": -89.00859685
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5c36b437dfdf27e42cf058f32a172d7b88d76ee0",
+        "name": "Illinois State University",
+        "photos": [
+          {
+            "height": 3840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114055075167875696652/photos\">Christopher Edwards</a>"
+            ],
+            "photo_reference": "CmRaAAAAYkTzqItJqbZl8lf1dkdwxwKLLSgMbwcw93FUcXR8iei8voZfk5NBhF4dBXAguOL2-RJWbJCQE__weEI3Pv9mNnJ8VUC-65hcHpfjYC3deNs15tkPQ3qC2SaHjGfp2XxMEhChM1IPgdBqZWtjoOOBojIgGhSHg2k6X3WZNMJr94lg51I2gkjHQw",
+            "width": 5760
+          }
+        ],
+        "place_id": "ChIJc7x4lHFxC4gRNCy2X17B5RA",
+        "plus_code": {
+          "compound_code": "G264+W4 Normal, Normal Township, IL",
+          "global_code": "86GHG264+W4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJc7x4lHFxC4gRNCy2X17B5RA",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "100 N University St, Normal"
+      }
+    ],
+    "status": "OK"
   }
 }
