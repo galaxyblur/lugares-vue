@@ -1,72 +1,20 @@
 {
-  "city_name": "southaven-mississippi",
-  "city_rank": 724,
-  "city_population": 50997,
+  "city_name": "charleston-west-virginia",
+  "city_rank": 725,
+  "city_population": 50821,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.9889818,
-      -90.0125913
+      38.3498195,
+      -81.6326234
     ],
     "rankby": "distance"
   },
-  "people_per_result": 50997,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 35.136744,
-            "lng": -89.991625
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.13808832989272,
-              "lng": -89.99027632010728
-            },
-            "southwest": {
-              "lat": 35.13538867010728,
-              "lng": -89.99297597989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "7ff3d1df5c92c81f340edee6ba84fcc0d8397cc7",
-        "name": "Delta Groove Yoga",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1136,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115634581146199879466/photos\">Paul Ringger</a>"
-            ],
-            "photo_reference": "CmRaAAAAI8Ld6y_x1chMh95nw6Hh4yRed3JJ7ANs7PdaSSyXN693kxjMFcOUr5DclcfmndeWSauyzMROayCbY6rmojROvKUjXy119Ze9jB4w6b2R49DYX0T5eguVBociFtbPSYfqEhBlYpbg2wCx9Cqanros83WgGhS0zwU1PE8P0hN68QHSrvXNIzBnIA",
-            "width": 1607
-          }
-        ],
-        "place_id": "ChIJYz-_66-Af4gROzjK9GAtA4E",
-        "plus_code": {
-          "compound_code": "42P5+M9 Memphis, Tennessee",
-          "global_code": "867G42P5+M9"
-        },
-        "rating": 5,
-        "reference": "ChIJYz-_66-Af4gROzjK9GAtA4E",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "clothing_store",
-          "store",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2091 Madison Ave, Memphis"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
