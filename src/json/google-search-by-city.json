@@ -1,20 +1,56 @@
 {
-  "city_name": "harrisburg-pennsylvania",
-  "city_rank": 759,
-  "city_population": 49188,
+  "city_name": "huntington-west-virginia",
+  "city_rank": 760,
+  "city_population": 49177,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      40.2731911,
-      -76.8867008
+      38.4192496,
+      -82.44515400000002
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 49177,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.5264102,
+            "lng": -82.7304925
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.52773757989272,
+              "lng": -82.72908147010727
+            },
+            "southwest": {
+              "lat": 38.52503792010728,
+              "lng": -82.73178112989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7f42fed625f98b4d2d3cde35209b1c015c83adbb",
+        "name": "Tim Clark Karate Studio",
+        "place_id": "ChIJCTiaUqFwRogRoPlbN2DRYiU",
+        "plus_code": {
+          "compound_code": "G7G9+HR Raceland, Hamilton Township, KY",
+          "global_code": "86CVG7G9+HR"
+        },
+        "rating": 0,
+        "reference": "ChIJCTiaUqFwRogRoPlbN2DRYiU",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "36 Bellefonte Rd, Raceland"
+      }
+    ],
+    "status": "OK"
   }
 }
