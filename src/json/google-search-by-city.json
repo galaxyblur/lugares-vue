@@ -1,16 +1,16 @@
 {
-  "city_name": "downers-grove-illinois",
-  "city_rank": 751,
-  "city_population": 49670,
+  "city_name": "coral-gables-florida",
+  "city_rank": 752,
+  "city_population": 49631,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      41.8089191,
-      -88.01117459999999
+      25.72149,
+      -80.2683838
     ],
     "rankby": "distance"
   },
-  "people_per_result": 3311,
+  "people_per_result": 3545,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,368 +18,248 @@
       {
         "geometry": {
           "location": {
-            "lat": 41.8111596,
-            "lng": -87.9891304
+            "lat": 25.7436625,
+            "lng": -80.2603677
           },
           "viewport": {
             "northeast": {
-              "lat": 41.81265317989271,
-              "lng": -87.98778787010727
+              "lat": 25.74486717989272,
+              "lng": -80.25891302010729
             },
             "southwest": {
-              "lat": 41.80995352010727,
-              "lng": -87.99048752989272
+              "lat": 25.74216752010728,
+              "lng": -80.26161267989274
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0a86658ab9e27653f257f25562f8a5cb85237a28",
-        "name": "Gracie Barra Downers Grove",
+        "id": "b0e1907162c31afee4baf7ab833ebfffc32333db",
+        "name": "Valente Brothers Jiu-Jitsu Coral Gables",
+        "photos": [
+          {
+            "height": 912,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107019909502507468191/photos\">Valente Brothers Jiu-Jitsu Coral Gables</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ1qIAyKMCdxaiQDVjSQn_W2EelMh0Se-8e1b6vj7y_jvLL5nqq-qd3CbELV9qFuEwcr4VyUsjX86nhM2IlHGvH2GfJ3Oh31oWMF-403YCAvZEs5kcM-891THUehIBzOTEhBNiiMZ42dNlSk_4YQSutThGhQnW7QfrKLKVLEpNLSMOffX5tZe9A",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJy1NH-ZO32YgR-0E_W4UNN18",
+        "plus_code": {
+          "compound_code": "PPVQ+FV Coral Gables, Florida",
+          "global_code": "76QXPPVQ+FV"
+        },
+        "rating": 4.9,
+        "reference": "ChIJy1NH-ZO32YgR-0E_W4UNN18",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "275 University Dr, Coral Gables"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.7578211,
+            "lng": -80.2308231
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.75931982989272,
+              "lng": -80.22948207010727
+            },
+            "southwest": {
+              "lat": 25.75662017010728,
+              "lng": -80.23218172989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "023d6f30f98b07f45d7013ec76f37226e95f7832",
+        "name": "Miami Capoeira Sol e Lua",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJSa85PlW22YgRr-L57dHSKFY",
+        "plus_code": {
+          "compound_code": "QQ59+4M Miami, Florida",
+          "global_code": "76QXQQ59+4M"
+        },
+        "rating": 5,
+        "reference": "ChIJSa85PlW22YgRr-L57dHSKFY",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2200 SW 16th St #122, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.7952295,
+            "lng": -80.33758619999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.79658252989272,
+              "lng": -80.33610317010728
+            },
+            "southwest": {
+              "lat": 25.79388287010728,
+              "lng": -80.33880282989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7cbbf56a7e363f2808bf1b5deed8b0c8de41e940",
+        "name": "Nação Capoeira",
+        "place_id": "ChIJPaEQGmy52YgRZ8qkZ93LVQ0",
+        "plus_code": {
+          "compound_code": "QMW6+3X Doral, Florida",
+          "global_code": "76QXQMW6+3X"
+        },
+        "rating": 0,
+        "reference": "ChIJPaEQGmy52YgRZ8qkZ93LVQ0",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2216 NW 87th Ave, Doral"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8300468,
+            "lng": -80.1922684
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.83139992989272,
+              "lng": -80.19083837010727
+            },
+            "southwest": {
+              "lat": 25.82870027010728,
+              "lng": -80.19353802989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "de76de7bb7df3e53ef00f30a4ad85e9949011e8a",
+        "name": "Capoeira Cordão de Ouro Miami",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 576,
+            "height": 2988,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101485084955074067516/photos\">Gracie Barra Downers Grove</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/104626914250937786197/photos\">A Google User</a>"
             ],
-            "photo_reference": "CmRaAAAAik0vzTN0atuxIEohjL_G1flmBHI_y2skOZ8MM-wZhcrP1yDG5aDqeK2ahd7MOfD34TshPWwVg5RutALRgbDc6M07PnIpYRc3OsMKCSj5WKB54jZVTtEI9FNrsudVEJClEhC43FnHcOpoD-pjhN6XC_OzGhTLRBlGHt1FRYaCaC33vWk2_ITbSQ",
-            "width": 1024
+            "photo_reference": "CmRZAAAAcQksEw_e_8zdKg7NetCL_JsapgQKXES0SMfvs4Mqkppmb5K9-NBcKalZua_FIqHctxKThTu7XQ0BeVNq2qzrfsTL0AyMPJImjwYhc9uQHpwdKtkAoeL--4a8RKw6n6ChEhBncIST-u1gchKFc4vbQrA5GhQI8NgXykiko8KTHsB51DV5n3LOwQ",
+            "width": 5312
           }
         ],
-        "place_id": "ChIJlYIM825ODogRj99B9ahVHn8",
+        "place_id": "ChIJf5MS81-x2YgRzLiRIXDLbrE",
         "plus_code": {
-          "compound_code": "R266+F8 Downers Grove, Illinois",
-          "global_code": "86HJR266+F8"
-        },
-        "rating": 4.7,
-        "reference": "ChIJlYIM825ODogRj99B9ahVHn8",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "152 Ogden Ave, Downers Grove"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.7501535,
-            "lng": -87.97471399999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.75149467989272,
-              "lng": -87.97335852010727
-            },
-            "southwest": {
-              "lat": 41.74879502010727,
-              "lng": -87.97605817989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8a4b6fe525627d82ed0399bef15ad9cd1e5a1312",
-        "name": "ATA Taekwondo USA",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108961584436689831997/photos\">Jiju Varghese</a>"
-            ],
-            "photo_reference": "CmRaAAAAiQAi-RsRSEoxpfqADT_WFennXILTOb2LlChZx-dbdWSbMbJSTjC8rYpy9pW9Vzukrd4OPwfBXHNGe2lYyeaELuLObvCv-4bd9khBO4wB0BAbBIdj5YWmkSYnaQCj-IqtEhBogYRIY9qBGXl3Z_Ma4YsVGhR1fUrjVtHKYXxgxex2hjYtnkUHpw",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJDQnkUoJPDogRwV89c8zbGEg",
-        "plus_code": {
-          "compound_code": "Q22G+34 Darien, Downers Grove Township, IL",
-          "global_code": "86HJQ22G+34"
+          "compound_code": "RRJ5+23 Miami, Florida",
+          "global_code": "76QXRRJ5+23"
         },
         "rating": 4.9,
-        "reference": "ChIJDQnkUoJPDogRwV89c8zbGEg",
+        "reference": "ChIJf5MS81-x2YgRzLiRIXDLbrE",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "7516 Cass Avenue #21, Darien"
+        "vicinity": "5910 NE 2nd Ave, Miami"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9053277,
-            "lng": -87.9395979
+            "lat": 25.827801,
+            "lng": -80.36116799999999
           },
           "viewport": {
             "northeast": {
-              "lat": 41.90676367989273,
-              "lng": -87.93824782010728
+              "lat": 25.82910232989272,
+              "lng": -80.35982557010728
             },
             "southwest": {
-              "lat": 41.90406402010728,
-              "lng": -87.94094747989271
+              "lat": 25.82640267010728,
+              "lng": -80.36252522989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "9e615cc0316086020eafaab0e77b6c3b8e029832",
-        "name": "Ignite Fitness / CrossFit NGK",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104822097759171109802/photos\">Nicholas Karavolos</a>"
-            ],
-            "photo_reference": "CmRaAAAArLWDiQ-FsXCBEhDQhjPT5PeKIEuUckVxrAFPiFPO8orD042Ehx1zZj3Dphh3eW6ITA-tyIlwFx2EscD7Ik1g3L1fO24ouXgLQmi0uWmWJj1NQtGYG0SNnkm3nmbz-c4xEhDBtmPll2xHbZijmykVm76eGhThCxOxubjlNu6QA17Sldyb7gvWhA",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJO5zODDKzD4gR_WwW_yV1XeA",
-        "plus_code": {
-          "compound_code": "W346+45 Elmhurst, Illinois",
-          "global_code": "86HJW346+45"
-        },
-        "rating": 5,
-        "reference": "ChIJO5zODDKzD4gR_WwW_yV1XeA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "263 N York St, Elmhurst"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.835181,
-            "lng": -87.7930772
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.83653212989272,
-              "lng": -87.79163937010728
-            },
-            "southwest": {
-              "lat": 41.83383247010728,
-              "lng": -87.79433902989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0b3b995feb9513199999c779cb7d2b54f6a48caa",
-        "name": "Ahimsa Yoga Studio Berwyn",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107158596584495313721/photos\">Ahimsa Yoga Studio Berwyn</a>"
-            ],
-            "photo_reference": "CmRaAAAAW4b2oMqo4O0WLcmZNIAoOMGdfb-91eyS2Zc5frtg3p_Puco1MH5BuoiwpzCSmfb6ZiMmXtX9-0o_g9fvrhjZuAiEmVhJQBjrmcsF-Y5-k49zvQyNfM8Xdd3P0BMkd6g9EhDxkqTSKCyU2zcJX8vROJm6GhSXkQjwL7za-WgNZT0SSJi9jDRzzA",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJ5Z3NNxQ0DogRDeeYeL8QfYI",
-        "plus_code": {
-          "compound_code": "R6P4+3Q Berwyn, Berwyn Township, IL",
-          "global_code": "86HJR6P4+3Q"
-        },
-        "rating": 4.9,
-        "reference": "ChIJ5Z3NNxQ0DogRDeeYeL8QfYI",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3120 S Oak Park Ave, Berwyn"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8504752,
-            "lng": -87.7741183
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.85198762989272,
-              "lng": -87.77277447010728
-            },
-            "southwest": {
-              "lat": 41.84928797010727,
-              "lng": -87.77547412989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "158e1adff83e7e9083e6bf4c31fa5ae5bd10299c",
-        "name": "Herança Cultural Capoeira, Est. Girino.",
+        "id": "25dfa3a96a99d0fe6dcac29749490178e5a238af",
+        "name": "Ripped Fitness Center",
         "opening_hours": {
           "open_now": true
         },
-        "place_id": "ChIJl8rGrYczDogRnnT3AtvlXT4",
-        "plus_code": {
-          "compound_code": "V62G+59 Cicero, Cicero Township, IL",
-          "global_code": "86HJV62G+59"
-        },
-        "rating": 0,
-        "reference": "ChIJl8rGrYczDogRnnT3AtvlXT4",
-        "scope": "GOOGLE",
-        "types": [
-          "school",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6011 W Cermak Rd, Cicero"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.0061162,
-            "lng": -88.0823128
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.00746632989272,
-              "lng": -88.08109592010727
-            },
-            "southwest": {
-              "lat": 42.00476667010728,
-              "lng": -88.08379557989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
-        "name": "Grupo Capoeira Brasil: Schaumburg",
-        "opening_hours": {
-          "open_now": false
-        },
         "photos": [
           {
-            "height": 662,
+            "height": 3541,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/112660196286185541730/photos\">A Google User</a>"
             ],
-            "photo_reference": "CmRaAAAAH1YB1ZhwDYG9riAyFqHA9yhi6vA-rtzy-OmyfQodTBO2Q7b35I5uBLEI_NNwHi6vfiEhFs7p4GPz6IAcVLS5IGBh1bRqxyA8WmP2k7PakIycR-0cdgXdGZTZ0NVim18yEhBxpKODCIvRFI4u0YkK6AFsGhS27Dj105mnx7_xWUKjO9KLO_59zg",
-            "width": 884
+            "photo_reference": "CmRaAAAAOasPC6RBfsD8pxmj5tpShuyWnabVVOIck8XKT15jBzGyXemoBQn4BDaxYgJqTAbpfrH3sKIoAky3yAzo-TNcboO-8Y_Hu78yKhMbNSqrM8l93EFdKGjaCoNkWeEedWvJEhC3iOmUZpA2Vkwno-NWofAxGhQJdvm77evJImHWJCgtckRrG9k12Q",
+            "width": 5311
           }
         ],
-        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "place_id": "ChIJ37qVZve72YgRaFbW5pkRYck",
         "plus_code": {
-          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
-          "global_code": "86JH2W49+C3"
+          "compound_code": "RJHQ+4G Doral, Florida",
+          "global_code": "76QXRJHQ+4G"
         },
         "rating": 5,
-        "reference": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "reference": "ChIJ37qVZve72YgRaFbW5pkRYck",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1154 S Roselle Rd, Schaumburg"
+        "vicinity": "5983 NW 102nd Ave, Doral"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9133592,
-            "lng": -87.7112971
+            "lat": 25.827694,
+            "lng": -80.361931
           },
           "viewport": {
             "northeast": {
-              "lat": 41.91470467989271,
-              "lng": -87.71019172010728
+              "lat": 25.82902182989273,
+              "lng": -80.36058087010728
             },
             "southwest": {
-              "lat": 41.91200502010727,
-              "lng": -87.71289137989272
+              "lat": 25.82632217010728,
+              "lng": -80.36328052989273
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "f815a0529f52aadd02844ea5176667327e59a652",
-        "name": "Capoeira Angola - FICA Chicago",
+        "id": "27eb1c32e9d973489e0cbfce05a4c9e7c9b78918",
+        "name": "Capoeira Around the World",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 1104,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAZbs527eRvDMpDtZBLs1I6PegOuDJJg1s1UedetwBn0G8Gc1pUswfWvYcLTQFA5g3iYOUrfHMqHrSWKUkb6YwLiJBjE8FirAU-SBgc5GM_YkfiR61G_jWmREYQpkae3V0EhD27A8FsRwFyhtKObgigE0zGhRORpOVBy_I-YLtD3UviVfZns920Q",
-            "width": 2566
-          }
-        ],
-        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "place_id": "ChIJb523aPe72YgR652bXdiXsG0",
         "plus_code": {
-          "compound_code": "W77Q+8F Chicago, Illinois",
-          "global_code": "86HJW77Q+8F"
+          "compound_code": "RJHQ+36 Doral, Florida",
+          "global_code": "76QXRJHQ+36"
         },
         "rating": 5,
-        "reference": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1757 N Kimball Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8959299,
-            "lng": -87.66653989999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.89736097989272,
-              "lng": -87.66519237010726
-            },
-            "southwest": {
-              "lat": 41.89466132010728,
-              "lng": -87.66789202989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cd6148f8de16a1f7c75a53a9b7db85e1706db86a",
-        "name": "Axé Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 683,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111830229300380331580/photos\">Axé Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAifFdCa6a-mngj_sV8apLb5HghpPDXBOIZ1tMLMw-gE2u8Mt0SmGicTJHo8ho95VcX1OmJIGRY6sIdi5m78INoHv6kvjXV9-qHUK4g-DKF2KwUwMr8_dZqzuXHZZ39kFxEhCvhnfovpvLr1R3P5wR2kDoGhSshgY8U0-9aSUllqe924aIvmUvUg",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
-        "plus_code": {
-          "compound_code": "V8WM+99 Chicago, Illinois",
-          "global_code": "86HJV8WM+99"
-        },
-        "rating": 5,
-        "reference": "ChIJ57Ul49HSD4gRLwDbNFBHAy4",
+        "reference": "ChIJb523aPe72YgR652bXdiXsG0",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -387,124 +267,273 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1543 W Chicago Ave, Chicago"
+        "vicinity": "5985 NW 102nd Ave, Doral"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.8959167,
-            "lng": -87.6665179
+            "lat": 25.874257,
+            "lng": -80.17020600000001
           },
           "viewport": {
             "northeast": {
-              "lat": 41.89735452989272,
-              "lng": -87.66517057010728
+              "lat": 25.87571472989272,
+              "lng": -80.16902032010728
             },
             "southwest": {
-              "lat": 41.89465487010727,
-              "lng": -87.66787022989273
+              "lat": 25.87301507010728,
+              "lng": -80.17171997989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dc48c89527529b543ffdae5fac095501e8164187",
-        "name": "Axe Academy",
+        "id": "5ce6550491e50f2ac1f264e5a8df5c7d4cee6df8",
+        "name": "Mestre Ze com Fome",
+        "photos": [
+          {
+            "height": 969,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118275117340578230884/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAp8UQyHf1t3k0A-JY-2017ya3aH9P8L_xhIWGYi5dQSKpc42fKkpccfuWRs3V2KgafCkdSI-AG50AO5YnakttmThoJz7V__hgTEvnT14i2WI7vamq5nBLToo8bC4d0DOdEhBssz5kUOlxnXG8llJSSbdgGhQS_Kl3PFZIxWUhddLrMm8QnnXQIQ",
+            "width": 966
+          }
+        ],
+        "place_id": "ChIJm2JL84Gx2YgRV2lX7eHsBJw",
+        "plus_code": {
+          "compound_code": "VRFH+PW Miami Shores, Florida",
+          "global_code": "76QXVRFH+PW"
+        },
+        "rating": 0,
+        "reference": "ChIJm2JL84Gx2YgRV2lX7eHsBJw",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10705 Biscayne Blvd, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8742956,
+            "lng": -80.1702385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.87573967989272,
+              "lng": -80.16903202010728
+            },
+            "southwest": {
+              "lat": 25.87304002010728,
+              "lng": -80.17173167989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c7989f6c17cd4e4dc023e52135f4b9073e7b4c6",
+        "name": "Capoeira Artes Das Gerais in Miami",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 1704,
+            "height": 950,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102721675689733987538/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/117661432144992254112/photos\">Capoeira Artes Das Gerais</a>"
             ],
-            "photo_reference": "CmRaAAAAtr0K6Q4505az77Qn0Qub-1kWaKyKk9ZGOBkHYvxnmdHc0ow2Gu4iba1Gmw0-Nv24t0-g95xHIxbTETuXmpbqvTn4Ol090SYLt-Odxzz3VqkS77Q-P1oh3kWUlu5tf632EhBCqP9dhXg_eceSGt2xoJVzGhShj_iMt-LX2Rqkkix5LVmZ_z5zmA",
+            "photo_reference": "CmRaAAAAFuOTU7xUC0s9SiIvGZRXaSnCZbXWwFrol7gZIu3qj-AC7Vkamw6SEJPAEDpCYAFRdpxBw3F8T3mKgnlojz5PkXh-8k4C4DVeo9hoTd_g4gKBYaWgaNYOdcVa6KBnrGYCEhBZwXTEPjeGg0luKudRuAe8GhSw_iZK2qhQOi_ujT9hJm68hAP6XQ",
+            "width": 1500
+          }
+        ],
+        "place_id": "ChIJd8xAioGx2YgRTKEuPdhhkhg",
+        "plus_code": {
+          "compound_code": "VRFH+PW Miami Shores, Florida",
+          "global_code": "76QXVRFH+PW"
+        },
+        "rating": 5,
+        "reference": "ChIJd8xAioGx2YgRTKEuPdhhkhg",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10705 Biscayne Blvd, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.8864953,
+            "lng": -80.130977
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.88794327989272,
+              "lng": -80.12963167010727
+            },
+            "southwest": {
+              "lat": 25.88524362010727,
+              "lng": -80.13233132989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f2b544f6e36d8c86fb53ae7af58dc5e61db4d266",
+        "name": "Carioca Capoeira-Miami",
+        "place_id": "ChIJa9v8S5uy2YgRRU2whdChTFE",
+        "plus_code": {
+          "compound_code": "VVP9+HJ Bay Harbor Islands, Florida",
+          "global_code": "76QXVVP9+HJ"
+        },
+        "rating": 5,
+        "reference": "ChIJa9v8S5uy2YgRRU2whdChTFE",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1086 Kane Concourse, Bay Harbor Islands"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.9264758,
+            "lng": -80.15461669999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.92782562989272,
+              "lng": -80.15326687010727
+            },
+            "southwest": {
+              "lat": 25.92512597010727,
+              "lng": -80.15596652989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9e4ccf0a6c93d97977917a206f39331ef531705d",
+        "name": "Capoeira Abolicao Community Foundation, Inc.",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100329052909860157610/photos\">Academy Capoeira Abolicao Community Foundation, Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAA7k2kI8GF3r3mRcXU78fOsUMo-pzULnoKjyfgc2brRrwYqx3aQbA2JJoH7QwKRQbMRdVc2v08DVR0XApytP0CsDaePBHQVfTkl1xMefWZxnTI1D_dlg1npXUZPPO-OuCbEhCfmuhlnHYKkIBWJq6DCs1_GhRTEd_M9zD34fyEQ7D9uugj4MOwqw",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJI96NH96y2YgRCoYNIi90cRY",
+        "plus_code": {
+          "compound_code": "WRGW+H5 North Miami Beach, Florida",
+          "global_code": "76QXWRGW+H5"
+        },
+        "rating": 4.8,
+        "reference": "ChIJI96NH96y2YgRCoYNIi90cRY",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2275 NE 164 Street, North Miami Beach"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.9506753,
+            "lng": -80.147868
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.95213722989272,
+              "lng": -80.14652257010728
+            },
+            "southwest": {
+              "lat": 25.94943757010727,
+              "lng": -80.14922222989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6d858c9d5c07be9113940523331124c6b4a5ff1b",
+        "name": "Nago Academy Miami - Capoeira Nago Miami",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109463962580008551553/photos\">Capoeira Nago Miami</a>"
+            ],
+            "photo_reference": "CmRaAAAAMjFJ90lKhorReWOI0EQQ8EbDVfR_91GauyVJYnugPJ1c6D_vuems9KiycTbM2qmCvYgOUiyo8uhxyfBKb5kWVU5GE8vfyitr3Sfi2lddhf-QcudJ24xoH1InPOopoD-qEhAwRoYE9gH3lkLcVVbEC7lNGhQFjHBT0KE-VuHVPfuEm2C6_WDbqQ",
             "width": 3000
           }
         ],
-        "place_id": "ChIJldmkA0ktDogRsAWSbCnlVmU",
+        "place_id": "ChIJM7raL1es2YgRrIDv7MwU11I",
         "plus_code": {
-          "compound_code": "V8WM+99 Chicago, Illinois",
-          "global_code": "86HJV8WM+99"
-        },
-        "rating": 0,
-        "reference": "ChIJldmkA0ktDogRsAWSbCnlVmU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1543 W Chicago Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.8803115,
-            "lng": -87.6375316
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.88166232989272,
-              "lng": -87.63590797010728
-            },
-            "southwest": {
-              "lat": 41.87896267010728,
-              "lng": -87.63860762989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "0a857ffeb5c01d5810c86ed68f09d2dd0c50ef70",
-        "name": "Omulu Capoeira Guanabara",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
-        "plus_code": {
-          "compound_code": "V9J6+4X Chicago, Illinois",
-          "global_code": "86HJV9J6+4X"
-        },
-        "rating": 0,
-        "reference": "ChIJzQJsTL8sDogROGZ62c7Tw2U",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "100 S Wacker Dr, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.93509969999999,
-            "lng": -87.66268939999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.93653162989271,
-              "lng": -87.66123157010728
-            },
-            "southwest": {
-              "lat": 41.93383197010727,
-              "lng": -87.66393122989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "551d8b3cad0a7be8f997993e3bd79fbe7e8163fc",
-        "name": "Tandang Garimot Martial Arts and Wellness",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJy_XfUP_SD4gRKQllwz45aFY",
-        "plus_code": {
-          "compound_code": "W8PP+2W Chicago, Illinois",
-          "global_code": "86HJW8PP+2W"
+          "compound_code": "XV22+7V Ojus, Florida",
+          "global_code": "76QXXV22+7V"
         },
         "rating": 5,
-        "reference": "ChIJy_XfUP_SD4gRKQllwz45aFY",
+        "reference": "ChIJM7raL1es2YgRrIDv7MwU11I",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2656 NE 189th Terrace, Miami"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 25.977457,
+            "lng": -80.2958365
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 25.97887617989272,
+              "lng": -80.29448652010727
+            },
+            "southwest": {
+              "lat": 25.97617652010727,
+              "lng": -80.29718617989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ae72ea02e26ea3628ba0d895bb94410fd57d3df5",
+        "name": "Capoeira Superação Arts & Fitness Studio",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1360,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113927745163600557521/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAnfUDMIiHzaTvXBiT48Cs3C0LqZvHAAp3ZbXkw8dhdxptCmJNw7ye3L3Y0_SD2pVGfeoas6SRifmqmMRkGcQ8nXpa8_waIE-fmxBIhrHc1EFBTGTk38Tpi6VcXsIdEu8ZEhB9hrmlVD0rG0TE-oWcZNdGGhTHEXLXJZRXz_HREi0cly18r8ymHg",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJO5z6Buul2YgRNtj2vpQ3kK0",
+        "plus_code": {
+          "compound_code": "XPG3+XM Miramar, Florida",
+          "global_code": "76QXXPG3+XM"
+        },
+        "rating": 5,
+        "reference": "ChIJO5z6Buul2YgRNtj2vpQ3kK0",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -512,76 +541,63 @@
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "2940 N Lincoln Ave, Chicago"
+        "vicinity": "3416 Red Rd, Miramar"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9581325,
-            "lng": -87.6748333
+            "lat": 25.9813448,
+            "lng": -80.1663639
           },
           "viewport": {
             "northeast": {
-              "lat": 41.95934667989273,
-              "lng": -87.67347952010729
+              "lat": 25.98263262989272,
+              "lng": -80.16501417010727
             },
             "southwest": {
-              "lat": 41.95664702010728,
-              "lng": -87.67617917989273
+              "lat": 25.97993297010727,
+              "lng": -80.1677138298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "cc14357a9a3c221a9896ec1f7c4218f8044d3fbd",
-        "name": "Chicago Capoeira Center - Grupo Capoeira Brasil",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 2532,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110447117001203556655/photos\">Chicago Capoeira Center</a>"
-            ],
-            "photo_reference": "CmRaAAAADTxnuaIxxOYKmrZYQ52MTuKufgYn-6Xv5k6lhaeQMIMvN1gzOIt3KrguvFdD8aFEzn6BvYJh-WfFBTrEHe8PVMfvci-pcVrX8E2FBviAFKqaPxG-fHh0XfGsM-55r8ZHEhBtttOPlp8hXfT_wBv0nJKTGhR_aHSHeN2pamAqKH22o8SENArWBg",
-            "width": 3555
-          }
-        ],
-        "place_id": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "id": "eda26ae0792dfb283f0515c150840156135ee001",
+        "name": "Capoeira",
+        "place_id": "ChIJgVktwwys2YgRxauYfJi43eU",
         "plus_code": {
-          "compound_code": "X85G+73 Chicago, Illinois",
-          "global_code": "86HJX85G+73"
+          "compound_code": "XRJM+GF Pembroke Park, Florida",
+          "global_code": "76QXXRJM+GF"
         },
-        "rating": 5,
-        "reference": "ChIJJ9qq4j7SD4gRFzpSjELyCto",
+        "rating": 1,
+        "reference": "ChIJgVktwwys2YgRxauYfJi43eU",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1802 W Berteau Ave #215, Chicago"
+        "vicinity": "3120 Hallandale Beach Boulevard, Hallandale Beach"
       },
       {
         "geometry": {
           "location": {
-            "lat": 41.9401434,
-            "lng": -87.6548612
+            "lat": 25.981385,
+            "lng": -80.1664608
           },
           "viewport": {
             "northeast": {
-              "lat": 41.94137002989272,
-              "lng": -87.65350977010728
+              "lat": 25.98273407989272,
+              "lng": -80.16517127010728
             },
             "southwest": {
-              "lat": 41.93867037010727,
-              "lng": -87.65620942989271
+              "lat": 25.98003442010728,
+              "lng": -80.16787092989271
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "eac4878020a7df4a4d76a70b47911985a1074920",
-        "name": "Grupo Capoeira Brasil: Formada Colibri",
+        "id": "24ae73e317b3b9749176be2549d1c76848b2b8fa",
+        "name": "Maculele Miami Brazilian Arts - Capoeira",
         "opening_hours": {
           "open_now": false
         },
@@ -589,122 +605,27 @@
           {
             "height": 3024,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100209337462854878602/photos\">Grupo Capoeira Brasil: Formada Colibri</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/117154831041619356270/photos\">tatiana hoyos</a>"
             ],
-            "photo_reference": "CmRaAAAA6xDelPB2qe1me_zGgeQtwHc06c5RdecS-yYCJN0_EpL9kBz-rMiIKVge3qhDRZT520qfLAjP0zZEJj7zPy2QzrnUJtECigdvthhbp-Uav_vDdq6DIs_bsVxI53mYHEdrEhCScX4BLnDMhgYXBqZgs-o6GhTGCVqB-3YINp7HeM26PaIhMkhi6A",
+            "photo_reference": "CmRaAAAAZ3o23p5uXnSF-ckPToIXT9kQ0Ihvuuxs7fzpRRAriIqtSfabCA2cE3quwKNAff7oXxoLKMF5DpLzDlJCknu_6AuVrPx8q18UARuTCYaDYyL3xWxBW7VlexT7BQgGDUX4EhATgwrxgnOPu-FHvBfDYmBqGhQTXr0XKQ7C3uDaCxG196FU5Pgphg",
             "width": 4032
           }
         ],
-        "place_id": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "place_id": "ChIJe894PF6s2YgRdL-fMyQ4Y5o",
         "plus_code": {
-          "compound_code": "W8RW+33 Chicago, Illinois",
-          "global_code": "86HJW8RW+33"
+          "compound_code": "XRJM+HC Pembroke Park, Florida",
+          "global_code": "76QXXRJM+HC"
         },
         "rating": 5,
-        "reference": "ChIJr9_EiKvTD4gRiAOkxP17w7U",
+        "reference": "ChIJe894PF6s2YgRdL-fMyQ4Y5o",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
+          "school",
           "establishment"
         ],
-        "vicinity": "1016 W Belmont Ave, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.901196,
-            "lng": -87.630342
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.90254787989272,
-              "lng": -87.62877687010729
-            },
-            "southwest": {
-              "lat": 41.89984822010727,
-              "lng": -87.63147652989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "33cc742bcd25fd31acbd5c9e559c803dcf94c108",
-        "name": "Gingarte Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 682,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114482080027005326842/photos\">Gingarte Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAADELujZcunQiYh77XxVD8uSWBNHn9cA5WVwX14R5EPqSl9hlQCI2gsX19XxnoHQjczNRF2JFQm_dQdXIloqtT13fimnZKgNwrFsPhzoGPWOM9j847ZzifdPeqplyuZOT7EhAiKXBGkm5oYVcotr4bmyV6GhTpj0_vfJ1xqUxGcD--Q4rU9LkV5w",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "plus_code": {
-          "compound_code": "W929+FV Chicago, Illinois",
-          "global_code": "86HJW929+FV"
-        },
-        "rating": 5,
-        "reference": "ChIJ47otLdPSD4gRQalRerm2SC4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1016 N Dearborn St, Chicago"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.991912,
-            "lng": -87.654746
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.99326647989272,
-              "lng": -87.65374117010728
-            },
-            "southwest": {
-              "lat": 41.99056682010728,
-              "lng": -87.65644082989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "21bdc66a85eb15e52f4b3f617d2a9ad3d575bf4c",
-        "name": "Herança Cultural Capoeira Chicago",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101563503782118740185/photos\">Herança Cultural Capoeira Chicago</a>"
-            ],
-            "photo_reference": "CmRaAAAAjnlxsxNwQLZy6gQjHHQuPNasLR7rvZwOn7rHaAeLAgxYZAoB4YVuFRcYjjvLZHhETiUl9MsXD99ULnlrPZ4AG8IhdtVqhE5LfNyMB4xL2kNqnEdM3N7aRt6KxLj3Iu9YEhB0zS9LPKeEjElTi81uwBhEGhQdYTNMvYCJjvMqXehT7NxhQwPjOA",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
-        "plus_code": {
-          "compound_code": "X8RW+Q4 Chicago, Illinois",
-          "global_code": "86HJX8RW+Q4"
-        },
-        "rating": 5,
-        "reference": "ChIJAz4TDnXRD4gR3m-IEZGmyKQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "6033 N Sheridan Rd, Chicago"
+        "vicinity": "2954 SW 30th Ave, Hallandale Beach"
       }
     ],
     "status": "OK"
