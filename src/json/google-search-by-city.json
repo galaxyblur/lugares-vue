@@ -1,20 +1,117 @@
 {
-  "city_name": "alexandria-louisiana",
-  "city_rank": 775,
-  "city_population": 48426,
+  "city_name": "olympia-washington",
+  "city_rank": 776,
+  "city_population": 48338,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      31.3112936,
-      -92.4451371
+      47.0378741,
+      -122.9006951
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 24169,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.254811,
+            "lng": -122.4423251
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.25617972989272,
+              "lng": -122.4407843201073
+            },
+            "southwest": {
+              "lat": 47.25348007010727,
+              "lng": -122.4434839798928
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6765d4530c1f57fbf69a46dfea04417f1251378a",
+        "name": "Tacoma Capoeira Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108566144111458725837/photos\">Tacoma Capoeira Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA528OWu73ENlzUnqCsJp4eu0ZMRUyQQAMIrv5UGAQB02OpQH3DO40TVVcTaKyC4j8X7wDM4XGeZRtm91mihS6_Eb9bCq1QMRnmmDCMcAKjTaevjSqJ6UuAWlG6Oy6XSLFEhDLD6Gj483RYgwEchw1L6xtGhT7-sf_2e8_MpoBmPB9upg5n9iXmw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJj_9PdwpVkFQRNl6dfRGZbJE",
+        "plus_code": {
+          "compound_code": "7H35+W3 Tacoma, Washington",
+          "global_code": "84VV7H35+W3"
+        },
+        "rating": 5,
+        "reference": "ChIJj_9PdwpVkFQRNl6dfRGZbJE",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "902 Market St #308, Tacoma"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 47.2404848,
+            "lng": -122.4091108
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.24172887989272,
+              "lng": -122.4077294201072
+            },
+            "southwest": {
+              "lat": 47.23902922010728,
+              "lng": -122.4104290798927
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "08eb8b647633d576bf094ad6cdd5195006e318b1",
+        "name": "South Sound Martial Arts",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103451790238494017304/photos\">Karen Nieto</a>"
+            ],
+            "photo_reference": "CmRaAAAA8iablxiTy2x_J4_BJFLrzQAqlfyDAPv759smXfg9_7WQuOectT1McTxrSKuxuWIkhveYPeZ-0Q3ES861mnlIPaekXl4DET3eN8lIOymRXlx7QLjD5bTn5giXtMWCwsFQEhD9GLrzJ4gw0chl4BWkQaNcGhRlu18VfQDm0MKGiqcXosUP4XxJsA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJm8nXg4dVkFQR1Io-B44S7Bs",
+        "plus_code": {
+          "compound_code": "6HRR+59 Tacoma, Washington",
+          "global_code": "84VV6HRR+59"
+        },
+        "rating": 5,
+        "reference": "ChIJm8nXg4dVkFQR1Io-B44S7Bs",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2610 E 26th St, Tacoma"
+      }
+    ],
+    "status": "OK"
   }
 }
