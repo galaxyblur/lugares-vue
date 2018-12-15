@@ -1,20 +1,70 @@
 {
-  "city_name": "twin-falls-idaho",
-  "city_rank": 808,
-  "city_population": 45981,
+  "city_name": "jeffersonville-indiana",
+  "city_rank": 809,
+  "city_population": 45929,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.5629668,
-      -114.4608711
+      38.2775702,
+      -85.7371847
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 45929,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 38.2172038,
+            "lng": -85.57172589999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.21824557989272,
+              "lng": -85.57044742010727
+            },
+            "southwest": {
+              "lat": 38.21554592010727,
+              "lng": -85.57314707989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "ea69e276bd46ade9811520fb06d59c2425f3551e",
+        "name": "Freestyle Fitness",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2578,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100110417555964752348/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAuhosYqY-G7OVH1LcMGm1BH_cprbYyCgDmaphNn-cy_py0DzTYOSGqh6JrLaV8FnPkqIF2XekMYbqm5AIfLqh36iWM2q3NvajZ--IotgYFcqT4OaR5nCdpnDSwbXXPA9GEhDT6dHC7_jYC2AtgFnRznvJGhT58hMId2QOlyPkkXoCz33jonNT2g",
+            "width": 3863
+          }
+        ],
+        "place_id": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
+        "plus_code": {
+          "compound_code": "6C8H+V8 Jeffersontown, Kentucky",
+          "global_code": "86CP6C8H+V8"
+        },
+        "rating": 4.8,
+        "reference": "ChIJO3DQAhdzaYgRDzEC4yj92yQ",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1825 Plantside Dr, Jeffersontown"
+      }
+    ],
+    "status": "OK"
   }
 }
