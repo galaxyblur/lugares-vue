@@ -1,16 +1,16 @@
 {
-  "city_name": "glendale-arizona",
-  "city_rank": 87,
-  "city_population": 234632,
+  "city_name": "garland-texas",
+  "city_rank": 88,
+  "city_population": 234566,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      33.5386523,
-      -112.1859866
+      32.912624,
+      -96.63888329999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 58658,
+  "people_per_result": 58642,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,23 +18,120 @@
       {
         "geometry": {
           "location": {
-            "lat": 33.5381154,
-            "lng": -112.1717712
+            "lat": 32.9120877,
+            "lng": -96.6380696
           },
           "viewport": {
             "northeast": {
-              "lat": 33.53964272989273,
-              "lng": -112.1704159201073
+              "lat": 32.91343457989272,
+              "lng": -96.63657872010727
             },
             "southwest": {
-              "lat": 33.53694307010728,
-              "lng": -112.1731155798927
+              "lat": 32.91073492010728,
+              "lng": -96.63927837989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "0d98c4e06aa227eb13f63f7bdb2f7000862dd4db",
+        "name": "3Q Fitness CrossFit Garland",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104564914570869026065/photos\">3Q Fitness CrossFit Garland</a>"
+            ],
+            "photo_reference": "CmRaAAAA6jtTWJjqTqViBxT4wk_o_PzL5ZqN-qiH1c9FgqbGb1clxX3it0EZhIhzwXfsIl9xFP6fa2hhXIdsXXt4p7BKyUYMxmyqBkFqYXxCCu_j9yon2YGCGvGIWE4IyOzXfhO6EhAT2m_OI26Ap3RcmyyUfi_rGhT3Yclz5VY5DboYtdc0WRdrG-Kv6Q",
+            "width": 2639
+          }
+        ],
+        "place_id": "ChIJ8TyoxY0dTIYRbYyyZ9azoGA",
+        "plus_code": {
+          "compound_code": "W966+RQ Garland, Texas",
+          "global_code": "8645W966+RQ"
+        },
+        "rating": 5,
+        "reference": "ChIJ8TyoxY0dTIYRbYyyZ9azoGA",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "109 S 6th St, Garland"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.8649764,
+            "lng": -96.70243339999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.86607112989272,
+              "lng": -96.70108942010728
+            },
+            "southwest": {
+              "lat": 32.86337147010727,
+              "lng": -96.70378907989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "2e7492dd0a83381450db7febdfb3c5fb5944ea36",
-        "name": "Uneed Martial Arts",
+        "id": "f100e2d788e4d387c9849c5f95cd20413a8325a8",
+        "name": "RCJ Machado Jiu Jitsu Lake Highlands",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102917569815573794032/photos\">RCJ Machado Jiu Jitsu Lake Highlands</a>"
+            ],
+            "photo_reference": "CmRaAAAAi2jqGSOrAd_KdIRgp3HE_EWYM3oBvhswQYN4gohBAsSqjLcse8xKp8t8OhIP4mmwoo05zAd12pA4MryX-mk9TmM6aLdYn4T0wx3ep1NtRLR4tsf4v2ZsaKs7BtOU-kXbEhAXOUDZ0essGqom-1Ae3_BxGhTspxQjvFcfrbfsAAFEovEd7A0P6w",
+            "width": 2026
+          }
+        ],
+        "place_id": "ChIJGYIw6vmgToYRDZPScIoFVnQ",
+        "plus_code": {
+          "compound_code": "V77X+X2 Dallas, Texas",
+          "global_code": "8645V77X+X2"
+        },
+        "rating": 4.9,
+        "reference": "ChIJGYIw6vmgToYRDZPScIoFVnQ",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10675 Northwest Hwy, Dallas"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
+            },
+            "southwest": {
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
         "opening_hours": {
           "open_now": false
         },
@@ -42,167 +139,65 @@
           {
             "height": 1536,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109224251044266610249/photos\">Uneed Martial Arts</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
             ],
-            "photo_reference": "CmRaAAAAqnqO21KsJfQ9pzsOu0tYtAd2fkw7R5yv4CUBQySZvOjwV2A1c99SuycZWTl8BVndo3SVEIozDGa7X-hjlayfPsG2bzbNlN1v9VcjmaWul4CdVa_C0RccXsVF4HCkOIX9EhAPt75kowxJ3unuojD2gCxyGhTaU4K6x921VfxPtW526555qbZ_zA",
+            "photo_reference": "CmRaAAAA4wGsmuk1Fa2mLyUkk3gwImstVfElLyh2yjIgrcKlSm9bKwZpFAFNhJ13NB2lQCw8Bseyz6ljNzR2TcG1eHOEF4HbvCiVTs_dsBOEABcWqw95Gkwt85mz_gTM1RkgGwbCEhDV-csbA_O8GaLGNfIBHYtZGhQXn3Qw6XAkm6uhMQ990jUtzUCUbA",
             "width": 2048
           }
         ],
-        "place_id": "ChIJaafz6BNrK4cRDGvCDPivHnw",
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
         "plus_code": {
-          "compound_code": "GRQH+67 Glendale, Arizona",
-          "global_code": "8559GRQH+67"
+          "compound_code": "W5H8+JW Farmers Branch, Texas",
+          "global_code": "8645W5H8+JW"
         },
         "rating": 5,
-        "reference": "ChIJaafz6BNrK4cRDGvCDPivHnw",
+        "reference": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "5233 W Glendale Ave, Glendale"
+        "vicinity": "4505 McEwen Rd, Dallas"
       },
       {
         "geometry": {
           "location": {
-            "lat": 33.4954773,
-            "lng": -112.0831415
+            "lat": 33.1312901,
+            "lng": -96.6478546
           },
           "viewport": {
             "northeast": {
-              "lat": 33.49671767989272,
-              "lng": -112.0818728701073
+              "lat": 33.13300807989272,
+              "lng": -96.64650337010728
             },
             "southwest": {
-              "lat": 33.49401802010728,
-              "lng": -112.0845725298927
+              "lat": 33.13030842010728,
+              "lng": -96.64920302989273
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8b62ab24af12966eeba6b67cbcc161f9aa40ab99",
-        "name": "Capoeira Brasil",
-        "photos": [
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109835485667846703056/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAE69vKTW3lfPmma3KLddKVF6sxD0OdNP7VwKUpUhFrAvzZI_K3vJti-Ci2t-kf2EGo-RvIFEerPzv6sp0MUMPLvEa93kAsyYYzqUCBrL_q_N5Nsj8rYRVwxds5D8gtizCEhDooXMTcq4aHiWD6-euiXquGhSR6aRRq8rclJKeoGeHl73U7_zkyg",
-            "width": 1365
-          }
-        ],
-        "place_id": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
-        "plus_code": {
-          "compound_code": "FWW8+5P Phoenix, Arizona",
-          "global_code": "8559FWW8+5P"
-        },
-        "rating": 5,
-        "reference": "ChIJp_xA_u8SK4cRm6ReIlFQUQI",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "4113 N 7th Ave, Phoenix"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.448315,
-            "lng": -111.92672
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.44966572989272,
-              "lng": -111.9254026701073
-            },
-            "southwest": {
-              "lat": 33.44696607010727,
-              "lng": -111.9281023298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "56e8457eb472ea90d5dab66040516691e95af2c0",
-        "name": "Axe Capoeira Arizona",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c61286c1b0592a190d871d7c0c1e26b3fb199642",
+        "name": "Capoeira Allen Martial Arts Club",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 445,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103107075657838354379/photos\">Axe Capoeira Arizona</a>"
-            ],
-            "photo_reference": "CmRaAAAA5VkVVXqEuiXLAWlZxKzNq2Ajk0TxGWUdEB45CxlB9xH7bgdQPMaNiE2TmwyJnYxfsrRRGuh9MxwszozOVg7xUQ4yTz4W1lCc03e6Z5sMtnEYAffdFcGw9ZHsEJJBtvghEhCEJ4YSeLl6-_TusPJOcCdAGhTy1bPJ4TpGxLTAAkLh7F4qigpbTQ",
-            "width": 792
-          }
-        ],
-        "place_id": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "place_id": "ChIJVVVVVVAXTIYRN5UYrKNG-D4",
         "plus_code": {
-          "compound_code": "C3XF+88 Tempe, Arizona",
-          "global_code": "855CC3XF+88"
+          "compound_code": "49J2+GV Fairview, Texas",
+          "global_code": "865549J2+GV"
         },
         "rating": 5,
-        "reference": "ChIJYxtzEhUJK4cRSNQfyQ5WtJs",
+        "reference": "ChIJVVVVVVAXTIYRN5UYrKNG-D4",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "vicinity": "1650 N Scottsdale Rd, Tempe"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.4146809,
-            "lng": -111.8343753
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.41592752989273,
-              "lng": -111.8330264701073
-            },
-            "southwest": {
-              "lat": 33.41322787010728,
-              "lng": -111.8357261298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "29888803e3a509c097fdb8ee260d80c65c032cb4",
-        "name": "Capoeira Phoenix",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 315,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101142999339175539584/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAhtj8SEVMkC1qZEMTlb9Tx9ypfX3lskTbrd82X83_VL5NyjRVmtYq6ZfKIJtucAcqn2NoxKx_25GeSB-HjzRUb02V1eBG_cxYS-1O4KiYxxki5zxnGHazzUf0VvVWpj_CEhB592d2YqqiPSCSSK1XZNjtGhTBg6NKFSMlE2tvHfFMXdiEx1_Ivg",
-            "width": 851
-          }
-        ],
-        "place_id": "ChIJqXXkFOinK4cR0VZ_7ycl6OI",
-        "plus_code": {
-          "compound_code": "C578+V6 Mesa, Arizona",
-          "global_code": "855CC578+V6"
-        },
-        "rating": 5,
-        "reference": "ChIJqXXkFOinK4cR0VZ_7ycl6OI",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "101 W Main St, Mesa"
+        "vicinity": "330 Town Pl, Allen"
       }
     ],
     "status": "OK"
