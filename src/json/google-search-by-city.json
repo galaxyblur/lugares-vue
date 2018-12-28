@@ -1,111 +1,20 @@
 {
-  "city_name": "boise-city-idaho",
-  "city_rank": 98,
-  "city_population": 214237,
+  "city_name": "richmond-virginia",
+  "city_rank": 99,
+  "city_population": 214114,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      43.6187102,
-      -116.2146068
+      37.5407246,
+      -77.4360481
     ],
     "rankby": "distance"
   },
-  "people_per_result": 107119,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.6026952,
-            "lng": -116.2014604
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.6091071,
-              "lng": -116.1846443
-            },
-            "southwest": {
-              "lat": 43.59481749999999,
-              "lng": -116.2202067
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e9a391a17003c2ba79e0fadd107251be3dc51043",
-        "name": "Boise State University",
-        "photos": [
-          {
-            "height": 757,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102136249447577005067/photos\">Boise State University</a>"
-            ],
-            "photo_reference": "CmRaAAAAH2tMHusp3Wc6Q679tak5sCBQIpWGZm3ztwJJd78oFTKIELCwgHtibnO2UIG4d4X-QHEgop3znuv_OgTHbn-kQN2vCr4r4z4mYbDUvos0eo_HgmHO2vfqVbJAjr7xbmymEhCQBCV_43ROapEr_zNVxZ8gGhQr9zi_SEGwggVrxtbJzN4JUgcRgQ",
-            "width": 1920
-          }
-        ],
-        "place_id": "ChIJySB7fPb4rlQRVrObbyRbqyQ",
-        "plus_code": {
-          "compound_code": "JQ3X+3C Boise, Idaho",
-          "global_code": "85M5JQ3X+3C"
-        },
-        "rating": 4,
-        "reference": "ChIJySB7fPb4rlQRVrObbyRbqyQ",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1910 W University Dr, Boise"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 43.6008349,
-            "lng": -116.3989528
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.60202537989272,
-              "lng": -116.3976072201073
-            },
-            "southwest": {
-              "lat": 43.59932572010728,
-              "lng": -116.4003068798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "306f365d551a52017cc01fd6f080f7497e2667ea",
-        "name": "Motions Dance Studio",
-        "opening_hours": {},
-        "photos": [
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104255467245844362476/photos\">Jay Miller</a>"
-            ],
-            "photo_reference": "CmRaAAAACeIHYnVglTONVtrcC4aiTXD5WJak5iBneT49ItOPi3vTMt6eEeWoC8G2uv0D7YfPk3f4A2zzXc7WB9uLeYmjVNGehcFm2-Nw2LLe9heisUMCMRGZEqqiy9a6CHGJubbrEhD8RPOw4UI2X9TluJHwfbEnGhS5BOd--qYQAE-wQ6MyfYZoyWBhkw",
-            "width": 1920
-          }
-        ],
-        "place_id": "ChIJRQlYVuBTrlQR0Wti8VcV0KE",
-        "plus_code": {
-          "compound_code": "JJ22+8C Meridian, Idaho",
-          "global_code": "85M5JJ22+8C"
-        },
-        "rating": 5,
-        "reference": "ChIJRQlYVuBTrlQR0Wti8VcV0KE",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "440 W Pennwood St, Meridian"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
