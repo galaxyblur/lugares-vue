@@ -1,20 +1,59 @@
 {
-  "city_name": "spokane-washington",
-  "city_rank": 102,
-  "city_population": 210721,
+  "city_name": "rochester-new-york",
+  "city_rank": 103,
+  "city_population": 210358,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      47.6587802,
-      -117.4260466
+      43.16103,
+      -77.6109219
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 210358,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 43.170205,
+            "lng": -77.56039700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 43.17157992989272,
+              "lng": -77.55913437010727
+            },
+            "southwest": {
+              "lat": 43.16888027010727,
+              "lng": -77.56183402989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9e9752276a77285c8c5ed021c171a3fe9802caa8",
+        "name": "Capoeira Mandinga com Expressao",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJBYcBeIK11okRRQ459aPhafM",
+        "plus_code": {
+          "compound_code": "5CCQ+3R Rochester, New York",
+          "global_code": "87M45CCQ+3R"
+        },
+        "rating": 5,
+        "reference": "ChIJBYcBeIK11okRRQ459aPhafM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1352 Culver Rd, Rochester"
+      }
+    ],
+    "status": "OK"
   }
 }
