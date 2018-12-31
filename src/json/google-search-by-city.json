@@ -1,59 +1,20 @@
 {
-  "city_name": "dayton-ohio",
-  "city_rank": 179,
-  "city_population": 143355,
+  "city_name": "savannah-georgia",
+  "city_rank": 180,
+  "city_population": 142772,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      39.7589478,
-      -84.1916069
+      32.0835407,
+      -81.09983419999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": 143355,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 39.7572219,
-            "lng": -84.18277789999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.75851317989272,
-              "lng": -84.18143082010727
-            },
-            "southwest": {
-              "lat": 39.75581352010727,
-              "lng": -84.18413047989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "5bba827bccf0d0254ebfac5ba174927bfa5ec0ef",
-        "name": "Ohio Budokan Martial Arts",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJYR8ri_6DQIgRZ02Wj0-6pVU",
-        "plus_code": {
-          "compound_code": "QR48+VV Dayton, Jefferson Township, OH",
-          "global_code": "86FQQR48+VV"
-        },
-        "rating": 4.4,
-        "reference": "ChIJYR8ri_6DQIgRZ02Wj0-6pVU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "601 E 5th St, Dayton"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
