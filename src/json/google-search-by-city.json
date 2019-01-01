@@ -1,118 +1,20 @@
 {
-  "city_name": "charleston-south-carolina",
-  "city_rank": 200,
-  "city_population": 127999,
+  "city_name": "visalia-california",
+  "city_rank": 201,
+  "city_population": 127763,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      32.7764749,
-      -79.93105120000001
+      36.3302284,
+      -119.2920585
     ],
     "rankby": "distance"
   },
-  "people_per_result": 64000,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.7899302,
-            "lng": -79.8762991
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.79144192989272,
-              "lng": -79.87509272010728
-            },
-            "southwest": {
-              "lat": 32.78874227010727,
-              "lng": -79.87779237989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "9c4ec25669001848efa4e55950723850269ff895",
-        "name": "Capoeira Academy of Charleston",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 431,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102562765097942142511/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAPuIP2i6reLtZviVgco0GrO1xdD-JZR7dPMyI0Vvdx7S7DgvhisQUYQwa8562lDWZ1-K3OnVaHJbOrh-aTwZbpQ4xDuUn93tvwzkcvb0U5BaAlGq7fQ6-wRJlg-M1-Y1rEhCjoqLE5WrJw5q7rg5qnfg6GhSutr1FjSrz-zDGfgg32ibJerPrfA",
-            "width": 911
-          }
-        ],
-        "place_id": "ChIJRREXkeNx_ogRwpaOD3zZJF8",
-        "plus_code": {
-          "compound_code": "Q4QF+XF Mt Pleasant, South Carolina",
-          "global_code": "8742Q4QF+XF"
-        },
-        "rating": 0,
-        "reference": "ChIJRREXkeNx_ogRwpaOD3zZJF8",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "419 Hibben St, Mt Pleasant"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 32.8037646,
-            "lng": -80.0175363
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.80506482989272,
-              "lng": -80.01624332010728
-            },
-            "southwest": {
-              "lat": 32.80236517010728,
-              "lng": -80.01894297989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "2a29683050d9ba8938d35ea2f79033359d388856",
-        "name": "Curves",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105649112316711342217/photos\">Kenny Gilmore</a>"
-            ],
-            "photo_reference": "CmRaAAAAnPYs_e6JmipXwcK8EtHuojp6fK-7meQstx-B9l2G-w-e0sKqAoMy3kjERS9puzV2Tjgx3Av2JBJkxck8_D8NQ6eZhuXXduVMJo5E8hOUn2u8Gn51rJprVTbh8SPTiZJWEhBU1RsSv496nQ5JMJWnxkWoGhQr--SggYel9-0c8luuGFmi-x-Vtg",
-            "width": 1836
-          }
-        ],
-        "place_id": "ChIJ5-eDnHp8_ogRy0O-CXxUSa8",
-        "plus_code": {
-          "compound_code": "RX3J+GX Charleston, South Carolina",
-          "global_code": "864XRX3J+GX"
-        },
-        "rating": 5,
-        "reference": "ChIJ5-eDnHp8_ogRy0O-CXxUSa8",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "1836 Ashley River Rd p, Charleston"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
