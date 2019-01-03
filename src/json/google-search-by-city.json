@@ -1,20 +1,116 @@
 {
-  "city_name": "manchester-new-hampshire",
-  "city_rank": 248,
-  "city_population": 110378,
+  "city_name": "elgin-illinois",
+  "city_rank": 249,
+  "city_population": 110145,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.9956397,
-      -71.4547891
+      42.0354084,
+      -88.2825668
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 55073,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.0061162,
+            "lng": -88.0823128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.00746632989272,
+              "lng": -88.08109592010727
+            },
+            "southwest": {
+              "lat": 42.00476667010728,
+              "lng": -88.08379557989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6b23abda2fedaae76c543fe6eec9c31dc0c0a184",
+        "name": "Grupo Capoeira Brasil: Schaumburg",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 662,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105352481992202115151/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAABqwVJkUueuI1ACooemSyxXrJ--39WZYR_a_-0Sn-fRjamhEvQw-Gjc1iOuIs5MxelwrRrhhMkGtr4_gqZUs6YL89TdpEoU_X7CZXcyrLm3qm51YttYvWHt9b29s3U9goEhCrieqIbDS1bm-Qrt7Lm-21GhRG2jf0JGZSg8GqWP-XH2ZPtCtRFA",
+            "width": 884
+          }
+        ],
+        "place_id": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "plus_code": {
+          "compound_code": "2W49+C3 Schaumburg, Schaumburg Township, IL",
+          "global_code": "86JH2W49+C3"
+        },
+        "rating": 5,
+        "reference": "ChIJn-TN5ciuD4gR_0qjtKc5mJI",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1154 S Roselle Rd, Schaumburg"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 41.9133592,
+            "lng": -87.7112971
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 41.91470467989271,
+              "lng": -87.71019172010728
+            },
+            "southwest": {
+              "lat": 41.91200502010727,
+              "lng": -87.71289137989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "f815a0529f52aadd02844ea5176667327e59a652",
+        "name": "Capoeira Angola - FICA Chicago",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1104,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108888340367396459117/photos\">Capoeira Angola - FICA Chicago</a>"
+            ],
+            "photo_reference": "CmRaAAAA8wPalZtn-hSNU9uIPm9ynqNJbIFZb-72SR-nlvKW3_s1k_CRXdTkwHvMQ68H88BDV1UeptPpGr7dAL-GaQCDE6Lyf1f7qzLz63IYZF9FagSNg-KzR6EbaVxyeDofcengEhBQW2ugr6maTJXa7Guvfg1vGhTFPXuJhDnewr5Ghy-9-IEAZKnosg",
+            "width": 2566
+          }
+        ],
+        "place_id": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "plus_code": {
+          "compound_code": "W77Q+8F Chicago, Illinois",
+          "global_code": "86HJW77Q+8F"
+        },
+        "rating": 5,
+        "reference": "ChIJb-b0xkPND4gRKxgY-cxi7BE",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "1757 N Kimball Ave, Chicago"
+      }
+    ],
+    "status": "OK"
   }
 }
