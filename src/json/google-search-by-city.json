@@ -1,119 +1,20 @@
 {
-  "city_name": "san-buenaventura-ventura-california",
-  "city_rank": 258,
-  "city_population": 108817,
+  "city_name": "pueblo-colorado",
+  "city_rank": 259,
+  "city_population": 108249,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.274646,
-      -119.2290316
+      38.2544472,
+      -104.6091409
     ],
     "rankby": "distance"
   },
-  "people_per_result": 54409,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.233046,
-            "lng": -119.170956
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.23431977989272,
-              "lng": -119.1695946701073
-            },
-            "southwest": {
-              "lat": 34.23162012010728,
-              "lng": -119.1722943298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1475263a796a1628371a2056c2e1bf734f6a497b",
-        "name": "Ventura County Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115311606692635842456/photos\">Capoeira CDO Ventura County</a>"
-            ],
-            "photo_reference": "CmRaAAAATS9EsLobPhsaK28pHji5rzwNzABHlLle25pEI_IF8UWS8K-Oc9W6F3s-vHhyRxrdGMXqxtSz7tGhR0frS47tZ9LCify1e7qoaZ9ouggMgRWFRW9oTwXD6O1QkOVfV2NUEhAUcxxylvBhhRAyM6ov0s6MGhTTOGdhTm1quX1gAgSbBRAoztpjVA",
-            "width": 1800
-          }
-        ],
-        "place_id": "ChIJq2GG0CtM6IARbJqPiCY1dxQ",
-        "plus_code": {
-          "compound_code": "6RMH+6J El Rio, California",
-          "global_code": "85626RMH+6J"
-        },
-        "rating": 0,
-        "reference": "ChIJq2GG0CtM6IARbJqPiCY1dxQ",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "2550 E Vineyard Ave, Oxnard"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 34.4242797,
-            "lng": -119.7052737
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.42554027989272,
-              "lng": -119.7040262701073
-            },
-            "southwest": {
-              "lat": 34.42284062010727,
-              "lng": -119.7067259298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fa7d651a64b23cab2025bcb49d50b1cbc4278cb4",
-        "name": "Capoeira Sul da Bahia - Santa Barbara",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 481,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106886065017622544835/photos\">Capoeira Sul da Bahia - Santa Barbara</a>"
-            ],
-            "photo_reference": "CmRaAAAAkqfoHCCkGyPlKSqoMQgvzuE8sFKviiQmOq5sYIzKSj85PCXyZKMnQoxTsLOb_fiwwqNVMh79ICfd5ImNlfBeQbmGbsUdDl0Nd8AjQK6J9xUtMnFn2sNsyylRWXsux3nuEhBY1upDRKSgeuujbFeH1-QUGhQ5AwZLZGlI-RCiFepwQXoGgEwM3g",
-            "width": 330
-          }
-        ],
-        "place_id": "ChIJIaqu8oQT6YARsvf8rV1uuqA",
-        "plus_code": {
-          "compound_code": "C7FV+PV Santa Barbara, California",
-          "global_code": "8562C7FV+PV"
-        },
-        "rating": 0,
-        "reference": "ChIJIaqu8oQT6YARsvf8rV1uuqA",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "school",
-          "establishment"
-        ],
-        "vicinity": "1230 State St, Santa Barbara"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
