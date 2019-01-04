@@ -1,56 +1,20 @@
 {
-  "city_name": "rialto-california",
-  "city_rank": 284,
-  "city_population": 101910,
+  "city_name": "las-cruces-new-mexico",
+  "city_rank": 285,
+  "city_population": 101324,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      34.1064001,
-      -117.3703235
+      32.3199396,
+      -106.7636538
     ],
     "rankby": "distance"
   },
-  "people_per_result": 101910,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 33.9826289,
-            "lng": -117.3744353
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.98404782989272,
-              "lng": -117.3732326701073
-            },
-            "southwest": {
-              "lat": 33.98134817010727,
-              "lng": -117.3759323298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "b3e9bd0bc3a6b947968e962a1012baa07168857a",
-        "name": "Capoeira Riverside",
-        "place_id": "ChIJi5zpHfCx3IARcFynVWwZWxU",
-        "plus_code": {
-          "compound_code": "XJMG+36 Riverside, California",
-          "global_code": "8554XJMG+36"
-        },
-        "rating": 0,
-        "reference": "ChIJi5zpHfCx3IARcFynVWwZWxU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "3737 Main St #103a, Riverside"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
