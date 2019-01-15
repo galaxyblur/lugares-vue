@@ -1,67 +1,20 @@
 {
-  "city_name": "johnson-city-tennessee",
-  "city_rank": 535,
-  "city_population": 65123,
+  "city_name": "victoria-texas",
+  "city_rank": 536,
+  "city_population": 65098,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.3134397,
-      -82.3534727
+      28.8052674,
+      -97.0035982
     ],
     "rankby": "distance"
   },
-  "people_per_result": 65123,
+  "people_per_result": null,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [
-      {
-        "geometry": {
-          "location": {
-            "lat": 36.3025374,
-            "lng": -82.3701933
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.31107419999998,
-              "lng": -82.35846145
-            },
-            "southwest": {
-              "lat": 36.29576500000001,
-              "lng": -82.37700484999999
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "6aaa6bad2442d4bee3b8985bc68f79696fdb5bdf",
-        "name": "East Tennessee State University",
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118386434920235123148/photos\">Miguel Zárate</a>"
-            ],
-            "photo_reference": "CmRaAAAA5qeQXJHQRu4DH0n8fD1pY3BpB12XVfyQAtjruE9WKpT8D1FVesNwo8MIDMl44Im-Td6uHnLWfoQ8eL3QY7RDNHmUMcxaQWpXAsXNHjW24ibdBMbmMsr-mMlZRB90Y7iTEhADeVNH8Tqx-uLgoaCpo9PNGhTWEfnN1nusyq7CnhSKNFpv6eAMIA",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJ_ROfXcB8WogR8Qm-Esy7eq0",
-        "plus_code": {
-          "compound_code": "8J3H+2W Johnson City, Tennessee, USA",
-          "global_code": "868V8J3H+2W"
-        },
-        "rating": 3.6,
-        "reference": "ChIJ_ROfXcB8WogR8Qm-Esy7eq0",
-        "scope": "GOOGLE",
-        "types": [
-          "university",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 90,
-        "vicinity": "1276 Gilbreath Dr, Johnson City"
-      }
-    ],
-    "status": "OK"
+    "results": [],
+    "status": "ZERO_RESULTS"
   }
 }
