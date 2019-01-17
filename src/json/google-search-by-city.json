@@ -1,16 +1,16 @@
 {
-  "city_name": "cupertino-california",
-  "city_rank": 589,
-  "city_population": 60189,
+  "city_name": "springfield-oregon",
+  "city_rank": 590,
+  "city_population": 60177,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.3229978,
-      -122.0321823
+      44.0462362,
+      -123.0220289
     ],
     "rankby": "distance"
   },
-  "people_per_result": 5472,
+  "people_per_result": 30089,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
@@ -18,40 +18,43 @@
       {
         "geometry": {
           "location": {
-            "lat": 37.38881689999999,
-            "lng": -122.0314474
+            "lat": 44.0396059,
+            "lng": -123.0930597
           },
           "viewport": {
             "northeast": {
-              "lat": 37.39028412989272,
-              "lng": -122.0300531701073
+              "lat": 44.04095677989272,
+              "lng": -123.0915610201072
             },
             "southwest": {
-              "lat": 37.38758447010728,
-              "lng": -122.0327528298927
+              "lat": 44.03825712010728,
+              "lng": -123.0942606798927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "22386663e7937eaddfa57bb43e0ce15a70dc49da",
-        "name": "Capoeira Angola South Bay",
+        "id": "2f5785805df867c2b4e3447095c2ebb20d5fdf41",
+        "name": "Eugene Capoeira",
+        "opening_hours": {
+          "open_now": false
+        },
         "photos": [
           {
-            "height": 359,
+            "height": 715,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100185775558560434420/photos\">Capoeira Angola South Bay</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/110299927121543676245/photos\">A Google User</a>"
             ],
-            "photo_reference": "CmRaAAAAZ9xLXB2o7h8vHAFpG-Ms-cyNqoPCafDhkmRD8UnGZyZ_zdWKtYoMIX06SKoEGkw6G-sxWE33tCIEgtjK8BhdQUcw8YiLtqJiTMcc9O9FRw4DznN7PeazKHzt0Mu2uXgYEhCx1qyu9ZiBBqXISAFDTi07GhRLuBpzSoymO5DkKIpmu7SBNFp_TA",
-            "width": 480
+            "photo_reference": "CmRaAAAAyS0pogu2EruDCnefgkK7L1Ykj7KIkps6mXucPPgODZyNPuwNgsNF92guiV_R36M-xaVq4IA0S7PvjLY5sUDsm3YQb7DsnL_9cqtV-dITIDgMT0cLieghJJ6n1GeHySIAEhDLVU8BIve9w7zDYyLoZ7x2GhTfIW_y0fkTnsynE3djq2jCcS4PlQ",
+            "width": 713
           }
         ],
-        "place_id": "ChIJHXGqklO2j4ARTx4xFkxBZPw",
+        "place_id": "ChIJ16SeM5cfwVQRr3l654ZJb9k",
         "plus_code": {
-          "compound_code": "9XQ9+GC Sunnyvale, California, USA",
-          "global_code": "849V9XQ9+GC"
+          "compound_code": "2WQ4+RQ Eugene, Oregon, USA",
+          "global_code": "84PR2WQ4+RQ"
         },
         "rating": 0,
-        "reference": "ChIJHXGqklO2j4ARTx4xFkxBZPw",
+        "reference": "ChIJ16SeM5cfwVQRr3l654ZJb9k",
         "scope": "GOOGLE",
         "types": [
           "health",
@@ -59,133 +62,38 @@
           "establishment"
         ],
         "user_ratings_total": 0,
-        "vicinity": "477 N Mathilda Ave, Sunnyvale"
+        "vicinity": "1840 Willamette St, Eugene"
       },
       {
         "geometry": {
           "location": {
-            "lat": 37.3311167,
-            "lng": -121.9497948
+            "lat": 44.0578317,
+            "lng": -123.0995388
           },
           "viewport": {
             "northeast": {
-              "lat": 37.33246607989272,
-              "lng": -121.9486630201073
+              "lat": 44.05909102989272,
+              "lng": -123.0981918701072
             },
             "southwest": {
-              "lat": 37.32976642010728,
-              "lng": -121.9513626798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "d13fa4abe41228d875431a7499218b18ec6bd093",
-        "name": "Capoeira of San Jose",
-        "place_id": "ChIJ374KLP3Kj4ARzKRbN_lAi4c",
-        "plus_code": {
-          "compound_code": "83J2+C3 San Jose, California, USA",
-          "global_code": "849W83J2+C3"
-        },
-        "rating": 5,
-        "reference": "ChIJ374KLP3Kj4ARzKRbN_lAi4c",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 2,
-        "vicinity": "850 N Winchester Blvd, San Jose"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.3300266,
-            "lng": -121.9112649
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.33122937989271,
-              "lng": -121.9099048201073
-            },
-            "southwest": {
-              "lat": 37.32852972010727,
-              "lng": -121.9126044798927
+              "lat": 44.05639137010727,
+              "lng": -123.1008915298927
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "e9bc5ac1439b4160bf7b9283c1e3983eaff53382",
-        "name": "Capoeira Irmandade",
+        "id": "2b965ee0b0d92dd8be95bbdca063877729536e2b",
+        "name": "Capoeira Mandinga Eugene",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110828806908710708745/photos\">Santa Clara Movement Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAiNRr--t9N4lHmkIMecFXcbFJ-M0M1b3zbtoRV2wYouY6w99mfIL6JXPK3xGeMaCmcPDv0VVpOk5j7uC_Db1DSsaO03oh6lpqDUxqUKTRdtEOFaHHeV0IVKRqpPjHDs89EhCPiJpCOD5G2s9ULZm6V-G6GhQorHMAkcQCjrR3FaW1VLSy7Ht4VA",
-            "width": 1536
-          }
-        ],
-        "place_id": "ChIJMVjJQKjLj4ARuGnGsQc2joU",
+        "place_id": "ChIJWQK-iwwewVQRaIRxMWhXR2I",
         "plus_code": {
-          "compound_code": "83JQ+2F San Jose, California, USA",
-          "global_code": "849W83JQ+2F"
+          "compound_code": "3W52+45 Eugene, Oregon, USA",
+          "global_code": "84PR3W52+45"
         },
-        "rating": 5,
-        "reference": "ChIJMVjJQKjLj4ARuGnGsQc2joU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 1,
-        "vicinity": "1043 Garland Ave Suit A, San Jose"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.414033,
-            "lng": -122.0889153
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.41551477989272,
-              "lng": -122.0875520701073
-            },
-            "southwest": {
-              "lat": 37.41281512010728,
-              "lng": -122.0902517298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dc0525263136699558bb0ee635d339639c4fb1af",
-        "name": "Tandez Academy of Martial Arts",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106550222103881854000/photos\">Tandez Academy of Martial Arts</a>"
-            ],
-            "photo_reference": "CmRaAAAAsMzNoK0sCXerqeOhtmlkHV9z1AnwybhFL5e2KcvwEErBdYvQngQ8iU3jWilaeJ43rc9JmbDqqaj39Bc0i2VZhik4GE8a9TkALa2G9wQGXYqikl2-1vGUEo7OTjM4F1XMEhCGgsIKuoXnpiHoqBqU0NoZGhSJiZwzuYheZfy42s_hfiCge8t8xQ",
-            "width": 1080
-          }
-        ],
-        "place_id": "ChIJS-9sSAm6j4ARZ2WUzSwLzg0",
-        "plus_code": {
-          "compound_code": "CW76+JC Mountain View, California, USA",
-          "global_code": "849VCW76+JC"
-        },
-        "rating": 4.8,
-        "reference": "ChIJS-9sSAm6j4ARZ2WUzSwLzg0",
+        "rating": 0,
+        "reference": "ChIJWQK-iwwewVQRaIRxMWhXR2I",
         "scope": "GOOGLE",
         "types": [
           "gym",
@@ -193,287 +101,8 @@
           "point_of_interest",
           "establishment"
         ],
-        "user_ratings_total": 14,
-        "vicinity": "1931 Old Middlefield Way unit c, Mountain View"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.4287709,
-            "lng": -122.163704
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.43010372989271,
-              "lng": -122.1628055701073
-            },
-            "southwest": {
-              "lat": 37.42740407010727,
-              "lng": -122.1655052298928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "a3ec49cbde24dcb2cf98f4c5bca518fe18a65d21",
-        "name": "Stanford Capoeira",
-        "place_id": "ChIJCw-T5Ne6j4ARP-o4MUOYlo0",
-        "plus_code": {
-          "compound_code": "CRHP+GG Stanford, California, USA",
-          "global_code": "849VCRHP+GG"
-        },
-        "rating": 0,
-        "reference": "ChIJCw-T5Ne6j4ARP-o4MUOYlo0",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
         "user_ratings_total": 0,
-        "vicinity": "285 Santa Teresa St, Stanford"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.4647615,
-            "lng": -122.1279642
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.46602982989272,
-              "lng": -122.1266115201073
-            },
-            "southwest": {
-              "lat": 37.46333017010728,
-              "lng": -122.1293111798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "709dc206b9edcbf1b9e8bfceadad40eb1274be31",
-        "name": "Stanford Capoeira",
-        "place_id": "ChIJVVXh5p27j4AR6GUTTa-BHBA",
-        "plus_code": {
-          "compound_code": "FV7C+WR East Palo Alto, California, USA",
-          "global_code": "849VFV7C+WR"
-        },
-        "rating": 0,
-        "reference": "ChIJVVXh5p27j4AR6GUTTa-BHBA",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "53 Shorebreeze Ct, Palo Alto"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.5263909,
-            "lng": -122.2817108
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.52765767989272,
-              "lng": -122.2804618201073
-            },
-            "southwest": {
-              "lat": 37.52495802010728,
-              "lng": -122.2831614798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dcaba14fd98cfa83371f79a97d736a9ec380b832",
-        "name": "Institute of Brazilian Fitness",
-        "place_id": "ChIJw-7QOUefj4AREjEx8LS6xuw",
-        "plus_code": {
-          "compound_code": "GPG9+H8 Belmont, California, USA",
-          "global_code": "849VGPG9+H8"
-        },
-        "rating": 5,
-        "reference": "ChIJw-7QOUefj4AREjEx8LS6xuw",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 4,
-        "vicinity": "409 Old County Rd, Belmont"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.5336404,
-            "lng": -122.3255243
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.53498942989272,
-              "lng": -122.3241669201073
-            },
-            "southwest": {
-              "lat": 37.53228977010728,
-              "lng": -122.3268665798928
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8dc57fdb43445dc39e4b6b72e798d97383659908",
-        "name": "All Stars Martial Arts",
-        "place_id": "ChIJlRcCL7Ofj4ARqeUTPghlqX8",
-        "plus_code": {
-          "compound_code": "GMMF+FQ San Mateo, California, USA",
-          "global_code": "849VGMMF+FQ"
-        },
-        "rating": 0,
-        "reference": "ChIJlRcCL7Ofj4ARqeUTPghlqX8",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "school",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "3124, 1200 W Hillsdale Blvd, San Mateo"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.6574762,
-            "lng": -122.0545358
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.65882602989272,
-              "lng": -122.0531859701073
-            },
-            "southwest": {
-              "lat": 37.65612637010728,
-              "lng": -122.0558856298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "408369ee432ff5c5dd4753f07a502e78f3982f8f",
-        "name": "Omulu Capoeira Guanabara - CSU East Bay",
-        "place_id": "ChIJjbzlMfOTj4AR6SCrnIIQmq8",
-        "plus_code": {
-          "compound_code": "MW4W+X5 Hayward, California, USA",
-          "global_code": "849VMW4W+X5"
-        },
-        "rating": 0,
-        "reference": "ChIJjbzlMfOTj4AR6SCrnIIQmq8",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "25800 Carlos Bee Blvd, Hayward"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 37.6748522,
-            "lng": -122.0810687
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.67626022989272,
-              "lng": -122.0795892201073
-            },
-            "southwest": {
-              "lat": 37.67356057010728,
-              "lng": -122.0822888798927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "e44c99249d330917586c6c46607d48c4e26539d0",
-        "name": "United Capoeira Association - Hayward",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 1870,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116049420993522808852/photos\">United Capoeira Association - Hayward</a>"
-            ],
-            "photo_reference": "CmRaAAAArGuDg3JsGdfyc-TX_r3cjGps3bgeMDYkG6oTPHH-QvIt6t2CtyWpQQwW880QtS2JudEOJynTH8K3XJb0DqmNzLqNvr0EGLSp4yveUf2byFOxolP2-smPWTYwIaJNXuq8EhBlcJNwAaJgCfhIP50I0X_nGhQhoJTXWoGpQChJnDiFgWFyQbCtdQ",
-            "width": 2873
-          }
-        ],
-        "place_id": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
-        "plus_code": {
-          "compound_code": "MWF9+WH Hayward, California, USA",
-          "global_code": "849VMWF9+WH"
-        },
-        "rating": 4.9,
-        "reference": "ChIJy02z3RCRj4AR7fDV_uPiBuY",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 13,
-        "vicinity": "22540 Foothill Blvd, Hayward"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 36.95986720000001,
-            "lng": -122.0478072
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.96141082989273,
-              "lng": -122.0465064701073
-            },
-            "southwest": {
-              "lat": 36.95871117010728,
-              "lng": -122.0492061298927
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "63cdc3aca5a1a95052a2ce1c9f101e74466d29b6",
-        "name": "Santa Cruz Capoeira",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118176620259967267730/photos\">Mike Maraldo</a>"
-            ],
-            "photo_reference": "CmRaAAAAuC5ACVFeq4hWNnrAAX-FmtiGtoCVpEws__kszpFISI4gCpgIkgAdzGPlRDCeXi9RAWi_ZFiSXqAve1vHlVIZeAjKi9r6GmpKBM2qyreHw1IzFIy5xYhOHfUjRTYFXoAHEhDi8TDAf1FKKGdU6FMpcN2wGhRlKNEvTFmfjcVW228O1dCw7ugk2A",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJFc_okXlqjoAREUoxY-9bick",
-        "plus_code": {
-          "compound_code": "XX52+WV Santa Cruz, California, USA",
-          "global_code": "848VXX52+WV"
-        },
-        "rating": 5,
-        "reference": "ChIJFc_okXlqjoAREUoxY-9bick",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 1,
-        "vicinity": "207 McPherson St, Santa Cruz"
+        "vicinity": "439 W 2nd Ave, Eugene"
       }
     ],
     "status": "OK"
