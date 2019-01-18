@@ -1,20 +1,119 @@
 {
-  "city_name": "owensboro-kentucky",
-  "city_rank": 617,
-  "city_population": 58416,
+  "city_name": "moore-oklahoma",
+  "city_rank": 618,
+  "city_population": 58414,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      37.7719074,
-      -87.1111676
+      35.3395079,
+      -97.48670279999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 29207,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.3431278,
+            "lng": -97.4948716
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.34451552989272,
+              "lng": -97.49349762010728
+            },
+            "southwest": {
+              "lat": 35.34181587010728,
+              "lng": -97.49619727989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6fe9ec0463152c3a1357f384288f37db1db076bf",
+        "name": "Tiger Cho's Taekwondo Center",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100546457481439795550/photos\">Tiger Cho&#39;s Taekwondo Center</a>"
+            ],
+            "photo_reference": "CmRaAAAA0jUvBavv0VY0Sw9d3R_inXAzTDHeg8mYAq-Uuxw65iyRtBtab88Bqnj8qBGz6PjYUWzZtBXO42uaTwXu-nyWGHQrLHM3QUfyhZKT4KQs0t8dNfW552yuYbzWq2pYDmysEhBUzMf1NChUasC4PpWKZHdyGhRvIzVxGvD2LHWG2ABFwD0j277d1Q",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJRSCamM8UsocRVRS1TMym9qM",
+        "plus_code": {
+          "compound_code": "8GV4+73 Moore, Oklahoma, USA",
+          "global_code": "86748GV4+73"
+        },
+        "rating": 4.5,
+        "reference": "ChIJRSCamM8UsocRVRS1TMym9qM",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "525 N Telephone Rd, Oklahoma City"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 35.6396047,
+            "lng": -97.5311089
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 35.64095257989271,
+              "lng": -97.53001147010728
+            },
+            "southwest": {
+              "lat": 35.63825292010727,
+              "lng": -97.53271112989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e709edb27fc1050a09d921bd27e9838554665123",
+        "name": "Christian Karate Academy",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108315439604039274784/photos\">Robert Lewis</a>"
+            ],
+            "photo_reference": "CmRaAAAA93N4bQ9KaqTQPN7YC8tQ9eFl839_oX1VdlC7zSCOLx-gT9KoFRbWU1YV_9hTc14JS2vU4ANeikkTfkZEC1s6Ff8doJBXreb74XsFNxmJmvhuKjpl297MsRpiV5yiaqueEhAVXhGUYwzcBPKqoMc0QxM4GhSVohfMU3tXwsjgoklfSI6_jryJjQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJd-9-kNMdsocR4N-O9pk8UpU",
+        "plus_code": {
+          "compound_code": "JFQ9+RH Northwest Oklahoma City, Oklahoma City, OK, USA",
+          "global_code": "8674JFQ9+RH"
+        },
+        "rating": 4.6,
+        "reference": "ChIJd-9-kNMdsocR4N-O9pk8UpU",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "16614 N Western Ave, Edmond"
+      }
+    ],
+    "status": "OK"
   }
 }
