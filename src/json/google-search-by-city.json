@@ -1,20 +1,70 @@
 {
-  "city_name": "rocky-mount-north-carolina",
-  "city_rank": 634,
-  "city_population": 56954,
+  "city_name": "kokomo-indiana",
+  "city_rank": 635,
+  "city_population": 56895,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      35.9382103,
-      -77.7905339
+      40.486427,
+      -86.13360329999999
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 56895,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 40.042775,
+            "lng": -86.123632
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.04467182989272,
+              "lng": -86.12224602010727
+            },
+            "southwest": {
+              "lat": 40.04197217010728,
+              "lng": -86.12494567989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4b5d6eaa6e39ff0e39193d81e2991564573d67b1",
+        "name": "Capoeira Indianapolis",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1242,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116381730786910206587/photos\">A Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAA_rIr7M4_pfcgLaVmhNejhMQ3OYlEElHJZwcBsP4RYLThR-ykOjx1Ta-mOFXQTOHXW7uz0FoAeDvV5RrMZlh3WtacCx0Hwyopy53gF0GuRKaGZc0Ce0QogOwqLolcvr6CEhAap8NTJTg-11glxxSb8JFIGhTdvuQBh4_vwX8CTX2jo86-cRBk5Q",
+            "width": 2208
+          }
+        ],
+        "place_id": "ChIJScXxDnOvFIgRXTOMNVCE5Mk",
+        "plus_code": {
+          "compound_code": "2VVG+4G Westfield, Washington Township, IN, USA",
+          "global_code": "86GM2VVG+4G"
+        },
+        "rating": 0,
+        "reference": "ChIJScXxDnOvFIgRXTOMNVCE5Mk",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "3276 N East St #32, Westfield"
+      }
+    ],
+    "status": "OK"
   }
 }
