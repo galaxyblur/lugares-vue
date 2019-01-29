@@ -1,20 +1,119 @@
 {
-  "city_name": "danville-virginia",
-  "city_rank": 859,
+  "city_name": "keller-texas",
+  "city_rank": 860,
   "city_population": 42907,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      36.5859718,
-      -79.39502279999999
+      32.9341893,
+      -97.229298
     ],
     "rankby": "distance"
   },
-  "people_per_result": null,
+  "people_per_result": 21454,
   "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
-    "results": [],
-    "status": "ZERO_RESULTS"
+    "results": [
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.7128007,
+            "lng": -97.3463786
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.71411227989272,
+              "lng": -97.34502887010729
+            },
+            "southwest": {
+              "lat": 32.71141262010728,
+              "lng": -97.34772852989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d7461574b5f77a8d60012f32604974db7ecf9b88",
+        "name": "Fort Worth Capoeira",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103548991068521148222/photos\">Fort Worth Capoeira</a>"
+            ],
+            "photo_reference": "CmRaAAAA1usv1rAEIIE6Px5AfGlVJiH4qh2FafDwvhMbTl8OhtSM_V0flgLinJcFMwXXz70J__QCMD5X1sYbVOty87kznp82lYJG52nuAyjg0fufG83biad5AaRSj3fmqT38CbYLEhDOsNqqD6LCOEDQh-U-_yaWGhT8kYhwrnGDPycK8jbpw60kCK4tbA",
+            "width": 1583
+          }
+        ],
+        "place_id": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "plus_code": {
+          "compound_code": "PM73+4C Fort Worth, Texas, USA",
+          "global_code": "8644PM73+4C"
+        },
+        "rating": 5,
+        "reference": "ChIJiQLhf4txToYREMqJ9VVTPJ8",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "1800 McPherson Ave, Fort Worth"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 32.9290085,
+            "lng": -96.83263679999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 32.93026227989272,
+              "lng": -96.83128752010727
+            },
+            "southwest": {
+              "lat": 32.92756262010727,
+              "lng": -96.83398717989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1c471a67d3182505545759c04523512ac3573399",
+        "name": "Dallas Capoeira",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102695136933603934430/photos\">Cedric Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAxjk68qjX_DojJa3gWnj6KCQx-JkBCfD07Vc5dDuMumVdDHCg4yDAMIVcg25Yj2xm4hsNFrpKK1ClN3NtpBRvbxzSL-WzMAYtul11ZbGaCuif8kSsL1QoFMsiD_ev-HRpEhCi5W8GlX0K3DU-3RzjiEXQGhTns41jaBvB20ZZsQbTxgR-gJIhZw",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "plus_code": {
+          "compound_code": "W5H8+JW Farmers Branch, Texas, USA",
+          "global_code": "8645W5H8+JW"
+        },
+        "rating": 5,
+        "reference": "ChIJh6j2AZEgTIYRSjB-OYcuBN4",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "4505 McEwen Rd, Dallas"
+      }
+    ],
+    "status": "OK"
   }
 }
