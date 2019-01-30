@@ -1,123 +1,103 @@
 {
-  "city_name": "woonsocket-rhode-island",
-  "city_rank": 890,
-  "city_population": 41026,
+  "city_name": "leominster-massachusetts",
+  "city_rank": 891,
+  "city_population": 41002,
   "parameters": {
     "keyword": "capoeira",
     "location": [
-      42.00287609999999,
-      -71.51478390000001
+      42.5250906,
+      -71.759794
     ],
     "rankby": "distance"
   },
-  "people_per_result": 4103,
-  "possible_duplicates": {
-    "ChIJg1Q6wbt544kR0buBMd3l8uE": [
-      {
-        "place1": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
-        "place2": "Sinha Capoeira 1431 Beacon St, Brookline",
-        "score": 0.8852459016393442
-      }
-    ],
-    "ChIJZe_ipL5544kRw4O4nql_W9k": [
-      {
-        "place1": "Sinha Capoeira 1431 Beacon St, Brookline",
-        "place2": "Sinha Capoeira Kids 1485 Beacon St, Brookline",
-        "score": 0.8852459016393442
-      }
-    ]
-  },
+  "people_per_result": 10251,
+  "possible_duplicates": {},
   "placesResult": {
     "html_attributions": [],
     "results": [
       {
         "geometry": {
           "location": {
-            "lat": 41.859179,
-            "lng": -71.3981574
+            "lat": 42.352389,
+            "lng": -71.5334938
           },
           "viewport": {
             "northeast": {
-              "lat": 41.86044197989273,
-              "lng": -71.39687842010729
+              "lat": 42.35373752989272,
+              "lng": -71.53232732010727
             },
             "southwest": {
-              "lat": 41.85774232010728,
-              "lng": -71.39957807989273
+              "lat": 42.35103787010728,
+              "lng": -71.53502697989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "75690e072dc4bcbe1c8b33d7f077d8daa9fd34fb",
-        "name": "Providence Aikikai",
+        "id": "a8a7c8677433ccf3fed3947a638c89a519c34355",
+        "name": "Capoeira Brazilian Jiu-Jitsu",
+        "place_id": "ChIJq4qNY3yL44kR-yJaPd1dca0",
+        "plus_code": {
+          "compound_code": "9F28+XJ Marlborough, Massachusetts, USA",
+          "global_code": "87JC9F28+XJ"
+        },
+        "rating": 0,
+        "reference": "ChIJq4qNY3yL44kR-yJaPd1dca0",
+        "scope": "GOOGLE",
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "24-28 Hosmer St, Marlborough"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 42.351699,
+            "lng": -71.5338002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 42.35308272989272,
+              "lng": -71.53256407010727
+            },
+            "southwest": {
+              "lat": 42.35038307010728,
+              "lng": -71.53526372989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5f1d6164ed100fa3c2abb1455c7dd60f16b302c6",
+        "name": "Marlboro Fitness and Martial Arts",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 315,
+            "height": 540,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101116943869112376051/photos\">A Google User</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/116652928616832309820/photos\">Marlboro Fitness and Martial Arts .</a>"
             ],
-            "photo_reference": "CmRaAAAAsY6Uaef99-APFTbjK7mYq8JwbojtyrM8lDn2imF3FpPNXU1olQwTpLgC_9kZ051XosJsAmNuFxw3OcjY05Ak0bVj98Shsmn5qPTMnzQjSNN9qU889exRZEmRopUPYzcHEhDVnKkuN1iXC_kPL_57BJaiGhRAR2rwjY-vDFu3xyPSN9ErZvZ5GQ",
-            "width": 851
+            "photo_reference": "CmRaAAAArwffEaeyaN1Xh1gCpcXktLzFiWcidNgRfOXdRLfowTQfrdoFW-F_15RyhldwXjl3NhUBfH_FmQLAYtOntWsVBCjzEazkghmL5jcOzHUEhDuA3jkB3q8A1Ma7uGrrAcBJEhCG8sQ_yMkRRODjNUqyh_kpGhTc8Psgnd2qifac9owPo1TpgyswZQ",
+            "width": 960
           }
         ],
-        "place_id": "ChIJ06IwErlE5IkRHcbYwKzD8Fs",
+        "place_id": "ChIJz_w9eHyL44kRqzyT_3JALeA",
         "plus_code": {
-          "compound_code": "VJ52+MP Pawtucket, Rhode Island, USA",
-          "global_code": "87HCVJ52+MP"
+          "compound_code": "9F28+MF Marlborough, Massachusetts, USA",
+          "global_code": "87JC9F28+MF"
         },
         "rating": 5,
-        "reference": "ChIJ06IwErlE5IkRHcbYwKzD8Fs",
+        "reference": "ChIJz_w9eHyL44kRqzyT_3JALeA",
         "scope": "GOOGLE",
         "types": [
           "health",
           "point_of_interest",
           "establishment"
         ],
-        "user_ratings_total": 6,
-        "vicinity": "545 Pawtucket Ave, Pawtucket"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.2736275,
-            "lng": -71.4083526
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.27505662989271,
-              "lng": -71.40714027010728
-            },
-            "southwest": {
-              "lat": 42.27235697010727,
-              "lng": -71.40983992989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-        "id": "5aaaaa4255f8e45ab2a55a65ca918cdc30b691c7",
-        "name": "Capoeira Cais da Bahia USA",
-        "opening_hours": {
-          "open_now": false
-        },
-        "place_id": "ChIJYa16iceJ44kRTWKFGCsUbBQ",
-        "plus_code": {
-          "compound_code": "7HFR+FM Framingham, Massachusetts, USA",
-          "global_code": "87JC7HFR+FM"
-        },
-        "rating": 0,
-        "reference": "ChIJYa16iceJ44kRTWKFGCsUbBQ",
-        "scope": "GOOGLE",
-        "types": [
-          "gym",
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "10 Roxanna St, Framingham"
+        "user_ratings_total": 7,
+        "vicinity": "282 E Main St, Marlborough"
       },
       {
         "geometry": {
@@ -158,312 +138,42 @@
       {
         "geometry": {
           "location": {
-            "lat": 41.7032442,
-            "lng": -71.4070354
+            "lat": 42.2736275,
+            "lng": -71.4083526
           },
           "viewport": {
             "northeast": {
-              "lat": 41.70447477989272,
-              "lng": -71.40573837010727
+              "lat": 42.27505662989271,
+              "lng": -71.40714027010728
             },
             "southwest": {
-              "lat": 41.70177512010728,
-              "lng": -71.40843802989272
+              "lat": 42.27235697010727,
+              "lng": -71.40983992989273
             }
           }
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "fc521597f411f226ca5482f3efe1f1149e8cce93",
-        "name": "New Wave Martial Arts & Fitness",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5aaaaa4255f8e45ab2a55a65ca918cdc30b691c7",
+        "name": "Capoeira Cais da Bahia USA",
         "opening_hours": {
           "open_now": false
         },
-        "photos": [
-          {
-            "height": 5312,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109438710874622015950/photos\">Carey Fudge</a>"
-            ],
-            "photo_reference": "CmRaAAAAW4bjWLStZy82LqRwzYktRXMydsK_hhSOnzKiGGTE6KDBctnxwzrSI8GyUC1LiU9Dxax05mqrXM1r2KyblbrhJw15lxNbza5vWF0Hx2jjw0UcSzi-Ku3gEFKAvvWoDnMxEhCiNOa_DI8fx-Jpttahl-EkGhTEeQzrANaeUxN2XhPbNVPaY_Z5eA",
-            "width": 2988
-          }
-        ],
-        "place_id": "ChIJE547I8pP5IkRCU6e0vNOkG8",
+        "place_id": "ChIJYa16iceJ44kRTWKFGCsUbBQ",
         "plus_code": {
-          "compound_code": "PH3V+75 Warwick, Portsmouth, RI, USA",
-          "global_code": "87HCPH3V+75"
-        },
-        "rating": 4.9,
-        "reference": "ChIJE547I8pP5IkRCU6e0vNOkG8",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 8,
-        "vicinity": "2327 W Shore Rd, Warwick"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 41.9014142,
-            "lng": -71.0900285
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.90286927989272,
-              "lng": -71.08866777010728
-            },
-            "southwest": {
-              "lat": 41.90016962010728,
-              "lng": -71.09136742989271
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "dc18397035a28c85d01cf01b81e30fcfa21996dd",
-        "name": "Capoeira Studio C",
-        "photos": [
-          {
-            "height": 590,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116462157588045353448/photos\">Capoeira Studio C</a>"
-            ],
-            "photo_reference": "CmRaAAAAcOFV9th7pvfY5d6nU8IDfb3o7F4dnTtIzyNvSs28Vb2UvQGmaFwD6Xl00VeKZb94WNuQzfBC6eIWhjv1OE_RF7ULB7P07fID85n9JvpaIwPg1KKasWo_0o1dq1EkBVwDEhCwqWVTEA2GWR0pc-S8RSyLGhSQgiZUJgyIOYoW3CbYE5OhfOryGA",
-            "width": 620
-          }
-        ],
-        "place_id": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
-        "plus_code": {
-          "compound_code": "WW25+HX Taunton, Massachusetts, USA",
-          "global_code": "87HCWW25+HX"
+          "compound_code": "7HFR+FM Framingham, Massachusetts, USA",
+          "global_code": "87JC7HFR+FM"
         },
         "rating": 0,
-        "reference": "ChIJw1fLjayM5IkRJvh8Z-8qabE",
+        "reference": "ChIJYa16iceJ44kRTWKFGCsUbBQ",
         "scope": "GOOGLE",
         "types": [
+          "gym",
           "health",
           "point_of_interest",
           "establishment"
         ],
         "user_ratings_total": 0,
-        "vicinity": "85 Main St, Taunton"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.352389,
-            "lng": -71.5334938
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.35373752989272,
-              "lng": -71.53232732010727
-            },
-            "southwest": {
-              "lat": 42.35103787010728,
-              "lng": -71.53502697989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "a8a7c8677433ccf3fed3947a638c89a519c34355",
-        "name": "Capoeira Brazilian Jiu-Jitsu",
-        "place_id": "ChIJq4qNY3yL44kR-yJaPd1dca0",
-        "plus_code": {
-          "compound_code": "9F28+XJ Marlborough, Massachusetts, USA",
-          "global_code": "87JC9F28+XJ"
-        },
-        "rating": 0,
-        "reference": "ChIJq4qNY3yL44kR-yJaPd1dca0",
-        "scope": "GOOGLE",
-        "types": [
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "24-28 Hosmer St, Marlborough"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3175695,
-            "lng": -71.10561229999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.31887342989272,
-              "lng": -71.10415172010727
-            },
-            "southwest": {
-              "lat": 42.31617377010728,
-              "lng": -71.10685137989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "ffc41db1d2f247855ff50157b529b73c7a270525",
-        "name": "Capoeira Gerais Boston",
-        "place_id": "ChIJrxXBGHh644kRrzvK7vx-6gU",
-        "plus_code": {
-          "compound_code": "8V9V+2Q Boston, Massachusetts, USA",
-          "global_code": "87JC8V9V+2Q"
-        },
-        "rating": 5,
-        "reference": "ChIJrxXBGHh644kRrzvK7vx-6gU",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 2,
-        "vicinity": "45 Danforth St, Boston"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3396032,
-            "lng": -71.1288261
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.34106272989271,
-              "lng": -71.12752102010728
-            },
-            "southwest": {
-              "lat": 42.33836307010727,
-              "lng": -71.13022067989273
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "1b4877bfba7030d86f6ef716669efc7eb8095fec",
-        "name": "Sinha Capoeira Kids",
-        "opening_hours": {
-          "open_now": false
-        },
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110324719945658873578/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAA42EXpCa6RtzVimVyTdA1pttgFxDLppQrFr3UFvGB4SnyOvhpdIL1HoX2TOvL9qhfH9JZlINSKN2FTP0utQV4Ob82NPwjUH7vEBAMOIaiXq7mctxRNpTdBSQp0_0UAmJBEhAc9BJb_iF4Gp8zba3IBI1BGhS339KDvLT73xs4B0o8ZsQ7xvn4GA",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJg1Q6wbt544kR0buBMd3l8uE",
-        "plus_code": {
-          "compound_code": "8VQC+RF Brookline, Massachusetts, USA",
-          "global_code": "87JC8VQC+RF"
-        },
-        "rating": 5,
-        "reference": "ChIJg1Q6wbt544kR0buBMd3l8uE",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 2,
-        "vicinity": "1485 Beacon St, Brookline"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3406189,
-            "lng": -71.1260898
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.34202142989272,
-              "lng": -71.12477797010727
-            },
-            "southwest": {
-              "lat": 42.33932177010728,
-              "lng": -71.12747762989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "8e543a4ccf220408bbde9b59af4982de6eb88a17",
-        "name": "Sinha Capoeira",
-        "opening_hours": {
-          "open_now": true
-        },
-        "photos": [
-          {
-            "height": 1125,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115247688110722630923/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAP3KdQRWJksPrJqvFEWgZNIVv9PSqInxv0ablqx_F3ozPLLjsylv6Hu54sVmLBQnU5qK2WntQcmD1y3LzauIjrYAeZrgy_KJsnuD3ugcZEjvzooJSRsO6cd1IRJ9_q6OjEhDL7JdrYdU93rRaLjLY-YJoGhRVf--nBHG2xRoxnA8JG-rNtTZbKw",
-            "width": 2001
-          }
-        ],
-        "place_id": "ChIJZe_ipL5544kRw4O4nql_W9k",
-        "plus_code": {
-          "compound_code": "8VRF+6H Brookline, Massachusetts, USA",
-          "global_code": "87JC8VRF+6H"
-        },
-        "rating": 0,
-        "reference": "ChIJZe_ipL5544kRw4O4nql_W9k",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "1431 Beacon St, Brookline"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 42.3515479,
-            "lng": -71.13192029999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.35292292989272,
-              "lng": -71.13044272010727
-            },
-            "southwest": {
-              "lat": 42.35022327010728,
-              "lng": -71.13314237989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
-        "id": "163ca2015c178ff902d182d383048b49f80d4232",
-        "name": "Sinha Capoeira Allston",
-        "photos": [
-          {
-            "height": 842,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113347145832577782966/photos\">A Google User</a>"
-            ],
-            "photo_reference": "CmRaAAAAuj10WH7AVt1ULalu-iVVYcAt81rlP2mtpZjy8Q-ndhq1nnpyEWpbdv_HDXhms_fvIp8ogJMmqezm8lOLO8dwE2z47zguNVnTaKwOOS-OosqkMiX5u_XH6igi0trm9fylEhDzdo3D8rPoUfdZSimZ80vGGhSILsqt0AeKaZpdVxRU77-TAEqqEg",
-            "width": 842
-          }
-        ],
-        "place_id": "ChIJIzMa7MV544kR0R6d_0PK-f4",
-        "plus_code": {
-          "compound_code": "9V29+J6 Boston, Massachusetts, USA",
-          "global_code": "87JC9V29+J6"
-        },
-        "rating": 0,
-        "reference": "ChIJIzMa7MV544kR0R6d_0PK-f4",
-        "scope": "GOOGLE",
-        "types": [
-          "health",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 0,
-        "vicinity": "161 Harvard Ave #13B, Boston"
+        "vicinity": "10 Roxanna St, Framingham"
       }
     ],
     "status": "OK"
